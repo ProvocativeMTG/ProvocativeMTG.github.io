@@ -303,7 +303,7 @@
 			"name": "Kallatree Reborn",
 			"rarity": "mythic",
 			"mana_cost": "",
-			"type": "Land",
+			"type": "Legendary Land",
 			"collector_number": "278",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLA-files/img/278_Kallatree Reborn.png"
@@ -1622,8 +1622,8 @@
 		{
 			"name": "Reconstitute",
 			"rarity": "rare",
-			"mana_cost": "{1}{W}{U}",
-			"type": "Sorcery",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Instant",
 			"collector_number": "242",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLA-files/img/242_Reconstitute.png"
@@ -2897,6 +2897,56 @@
 			"collector_number": "289",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLA-files/img/289_Training Spires.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KLA-files/img/295_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KLA-files/img/296_Forest.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KLA-files/img/293_Island.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KLA-files/img/292_Plains.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KLA-files/img/294_Swamp.png"
 			}
 		},
 		{

@@ -144,9 +144,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{R}",
 			"type": "Creature — Fox Spirit ",
-			"collector_number": "110",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/110_Infernal Kitsune.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/109_Infernal Kitsune.png"
 			}
 		},
 		{
@@ -234,9 +234,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Dragon ",
-			"collector_number": "118",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/118_Realm-Delver Whelp.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/117_Realm-Delver Whelp.png"
 			}
 		},
 		{
@@ -434,9 +434,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Kirin Spirit ",
-			"collector_number": "112",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/112_Kirin of Boons.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/111_Kirin of Boons.png"
 			}
 		},
 		{
@@ -582,7 +582,7 @@
 		{
 			"name": "Speed Demon",
 			"rarity": "rare",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Creature — Demon Warrior ",
 			"collector_number": "122",
 			"image_uris": {
@@ -954,9 +954,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Merfolk Noble ",
-			"collector_number": "114",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/114_Koi-Tail Mer.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/113_Koi-Tail Mer.png"
 			}
 		},
 		{
@@ -1254,9 +1254,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Demon Knight ",
-			"collector_number": "113",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/113_Knight of Kage.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/112_Knight of Kage.png"
 			}
 		},
 		{
@@ -1270,13 +1270,13 @@
 			}
 		},
 		{
-			"name": "Incendiary Sabotage",
+			"name": "Saboteur's Immolation",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "109",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/109_Incendiary Sabotage.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/118_Saboteur's Immolation.png"
 			}
 		},
 		{
@@ -1334,9 +1334,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Demon Warrior ",
-			"collector_number": "111",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/111_Kage's Slayer.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/110_Kage's Slayer.png"
 			}
 		},
 		{
@@ -1352,7 +1352,7 @@
 		{
 			"name": "Vengeful Artificer",
 			"rarity": "rare",
-			"mana_cost": "{3}{B}",
+			"mana_cost": "{4}{B}",
 			"type": "Creature — Demon Artificer ",
 			"collector_number": "90",
 			"image_uris": {
@@ -1904,9 +1904,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Demon Warrior ",
-			"collector_number": "115",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/115_Newborn Oni.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/114_Newborn Oni.png"
 			}
 		},
 		{
@@ -2424,9 +2424,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Fox Spirit ",
-			"collector_number": "117",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/117_Realm Protector.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/116_Realm Protector.png"
 			}
 		},
 		{
@@ -2517,6 +2517,26 @@
 			"collector_number": "153",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/153_Shigane Elder.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/297_Island.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/296_Plains.png"
 			}
 		},
 		{
@@ -2634,9 +2654,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Fox Spirit ",
-			"collector_number": "116",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/116_Noble Kitsune.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/115_Noble Kitsune.png"
 			}
 		},
 		{
@@ -2662,7 +2682,7 @@
 		{
 			"name": "Nimomae, Who Flows",
 			"rarity": "mythic",
-			"mana_cost": "{2}{W}{U}",
+			"mana_cost": "{3}{W}{U}",
 			"type": "Legendary Creature — Human Monk ",
 			"collector_number": "213",
 			"image_uris": {
@@ -2682,7 +2702,7 @@
 		{
 			"name": "Staff of Balance",
 			"rarity": "rare",
-			"mana_cost": "{W}{U}",
+			"mana_cost": "{1}{W}{U}",
 			"type": "Artifact",
 			"collector_number": "228",
 			"image_uris": {
@@ -2770,6 +2790,26 @@
 			}
 		},
 		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/298_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/299_Mountain.png"
+			}
+		},
+		{
 			"name": "Gate to Fujinobe",
 			"rarity": "mythic",
 			"mana_cost": "",
@@ -2777,6 +2817,16 @@
 			"collector_number": "285",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/285_Gate to Fujinobe.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/300_Forest.png"
 			}
 		},
 		{
@@ -3111,7 +3161,7 @@
 		9 Haughty Bulwark
 		9 Dynasty's Benediction
 		9 Ancestor's Guidance
-		9 Incendiary Sabotage
+		9 Saboteur's Immolation
 		9 Ruiner's Procession
 		9 Chomei's Brawler
 		9 Kage's Slayer

@@ -1,6 +1,6 @@
 ﻿<html>
 <head>
-  <title>Swamp</title>
+  <title>Kirin of Boons</title>
   <link rel="icon" type="image/x-icon" href="/sets/KDT-files/icon.png">
   <link rel="stylesheet" href="/resources/mana.css">
   <link rel="stylesheet" href="/resources/header.css">
@@ -170,8 +170,7 @@
 
 	<div class="grid-container" id="grid">
 	</div>
-	<div class="printings" id="other-printings">Other Printings: <a href="/cards/CNF/309_Swamp">CNF</a> • <a href="/cards/KLA/294_Swamp">KLA</a></div>
-		
+	
 	<script>
 		let card_list_arrayified = [];
 		let specialchars = "";
@@ -191,7 +190,7 @@
 
 				card_list_arrayified = card_list.cards;
 
-			await fetch('/cards/KDT/298_Swamp.json')
+			await fetch('/cards/KDT/112_Kirin of Boons.json')
 				.then(response => response.json())
 				.then(json => {
 					card = json;

@@ -1,7 +1,7 @@
 ﻿<html>
 <head>
-  <title>Forest</title>
-  <link rel="icon" type="image/x-icon" href="/sets/KLA-files/icon.png">
+  <title>Kirin of Boons</title>
+  <link rel="icon" type="image/x-icon" href="/sets/KDT-files/icon.png">
   <link rel="stylesheet" href="/resources/mana.css">
   <link rel="stylesheet" href="/resources/header.css">
 </head>
@@ -162,16 +162,15 @@
 
 	<input type="text" id="display" class="hidden" value="cards-and-text"> <!-- here to make img-container-defs snippet work properly -->
 	<div class="banner-container">
-		<a class="set-banner" id="set-banner" href="/sets/KLA">
-			<img class="set-logo" src="/sets/KLA-files/icon.png">
-			<div class="set-title">Kallatree Ascension</div>
+		<a class="set-banner" id="set-banner" href="/sets/KDT">
+			<img class="set-logo" src="/sets/KDT-files/icon.png">
+			<div class="set-title">Kitsuo: Dusk of Time</div>
 		</a>
 	</div>
 
 	<div class="grid-container" id="grid">
 	</div>
-	<div class="printings" id="other-printings">Other Printings: <a href="/cards/CNF/311_Forest">CNF</a> • <a href="/cards/KDT/300_Forest">KDT</a></div>
-		
+	
 	<script>
 		let card_list_arrayified = [];
 		let specialchars = "";
@@ -191,7 +190,7 @@
 
 				card_list_arrayified = card_list.cards;
 
-			await fetch('/cards/KLA/296_Forest.json')
+			await fetch('/cards/KDT/111_Kirin of Boons.json')
 				.then(response => response.json())
 				.then(json => {
 					card = json;

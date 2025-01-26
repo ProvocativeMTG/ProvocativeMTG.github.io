@@ -1613,7 +1613,7 @@
 			"name": "Mapper's Wanderings",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment",
 			"collector_number": "141",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/141_Mapper's Wanderings.png"
@@ -2520,26 +2520,6 @@
 			}
 		},
 		{
-			"name": "Island",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Island ",
-			"collector_number": "297",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/297_Island.png"
-			}
-		},
-		{
-			"name": "Plains",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Plains ",
-			"collector_number": "296",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/296_Plains.png"
-			}
-		},
-		{
 			"name": "Opulent Vantage",
 			"rarity": "uncommon",
 			"mana_cost": "",
@@ -2632,7 +2612,7 @@
 		{
 			"name": "Drown in Memory",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{U}",
+			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
 			"collector_number": "43",
 			"image_uris": {
@@ -2790,26 +2770,6 @@
 			}
 		},
 		{
-			"name": "Swamp",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Swamp ",
-			"collector_number": "298",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/298_Swamp.png"
-			}
-		},
-		{
-			"name": "Mountain",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Mountain ",
-			"collector_number": "299",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/299_Mountain.png"
-			}
-		},
-		{
 			"name": "Gate to Fujinobe",
 			"rarity": "mythic",
 			"mana_cost": "",
@@ -2820,13 +2780,163 @@
 			}
 		},
 		{
-			"name": "Forest",
+			"name": "Monk",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Forest ",
-			"collector_number": "300",
+			"type": "Token Creature — Monk ",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/300_Forest.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/2_Monk.png"
+			}
+		},
+		{
+			"name": "Samurai",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Samurai ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/4_Samurai.png"
+			}
+		},
+		{
+			"name": "Hardsuit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Vehicle ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/16_Hardsuit.png"
+			}
+		},
+		{
+			"name": "Ninja",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Ninja ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/7_Ninja.png"
+			}
+		},
+		{
+			"name": "Bird",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bird  ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/5_Bird.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/12_Spirit.png"
+			}
+		},
+		{
+			"name": "Demon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Demon ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/9_Demon.png"
+			}
+		},
+		{
+			"name": "Spirit Beast",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit Beast ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/14_Spirit Beast.png"
+			}
+		},
+		{
+			"name": "Monkey",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Monkey ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/3_Monkey.png"
+			}
+		},
+		{
+			"name": "Kraken",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Kraken ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/6_Kraken.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/17_Treasure.png"
+			}
+		},
+		{
+			"name": "Time Bubble",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/8_Time Bubble.png"
+			}
+		},
+		{
+			"name": "Serpent",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Serpent ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/11_Serpent.png"
+			}
+		},
+		{
+			"name": "On An Adventure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Reminder",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/13_On An Adventure.png"
+			}
+		},
+		{
+			"name": "Emblem",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Emblem",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/18_Emblem.png"
+			}
+		},
+		{
+			"name": "Shapeshifter",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Fox Shapeshifter ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/1_Shapeshifter.png"
 			}
 		},
 		{
@@ -2950,6 +3060,16 @@
 			}
 		},
 		{
+			"name": "Demon Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Demon Insect ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/10_Demon Insect.png"
+			}
+		},
+		{
 			"name": "Stratostorm",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{U}",
@@ -2967,6 +3087,16 @@
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/1_Auspicious Return.png"
+			}
+		},
+		{
+			"name": "Construct",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Construct ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/15_Construct.png"
 			}
 		},
 		{
@@ -2997,6 +3127,66 @@
 			"collector_number": "170",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/170_Ayeshi Breaks the Loop.png"
+			}
+		},
+		{
+			"name": "Saga",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Saga ",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Saga.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/300_Forest.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/297_Island.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/299_Mountain.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/296_Plains.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/298_Swamp.png"
 			}
 		},
 		]
@@ -3297,5 +3487,7 @@
 		30 Mortal Blade
 		30 Awakened Golem
 		30 Noble Kitsune
+		30 Emblem
 		30 Moonlit Gateway
+		30 Saga
 		

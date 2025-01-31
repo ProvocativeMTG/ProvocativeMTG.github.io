@@ -1242,8 +1242,8 @@
 		{
 			"name": "Moonlight Adversary",
 			"rarity": "rare",
-			"mana_cost": "{2}{B}",
-			"type": "Creature — Demon Noble ",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Shade Noble ",
 			"collector_number": "79",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/79_Moonlight Adversary.png"
@@ -1273,7 +1273,7 @@
 			"name": "Saboteur's Immolation",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "118",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/118_Saboteur's Immolation.png"

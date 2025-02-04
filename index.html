@@ -217,10 +217,6 @@
 									<div class="set-icon-name">Confluence</div></a>
 								</div>
 				<div class="set-icon-container">
-									<a href="KDT-spoiler"><div class="set-icon"><img src="sets/KDT-files/icon.png" title="Kitsuo: Dusk of Time"></img></div>
-									<div class="set-icon-name">Kitsuo: Dusk of Time</div></a>
-								</div>
-				<div class="set-icon-container">
 									<a href="KLA-spoiler"><div class="set-icon"><img src="sets/KLA-files/icon.png" title="Kallatree Ascension"></img></div>
 									<div class="set-icon-name">Kallatree Ascension</div></a>
 								</div>
@@ -303,7 +299,7 @@
 				img.id = "cotd";
 
 
-				img.src = '/sets/' + card_stats.set + '-files/img/' + card_stats.number + '_' + card_stats.card_name + (card_stats.shape.includes('double') ? '_front' : '') + '.png';
+				img.src = '/sets/' + card_stats.set + '-files/img/' + card_stats.number + '_' + card_stats.card_name + (card_stats.shape.includes('double') ? '_front' : '') + '.' + card_stats.image_type;
 
 				a.append(img);
 				document.getElementById("cotd-image").append(a);

@@ -2960,16 +2960,6 @@
 			}
 		},
 		{
-			"name": "Emperor Tzuhan",
-			"rarity": "mythic",
-			"mana_cost": "{2}{W}",
-			"type": "Legendary Creature — Human Noble ",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Emperor Tzuhan.png"
-			}
-		},
-		{
 			"name": "Forlorn Path",
 			"rarity": "rare",
 			"mana_cost": "",
@@ -3017,66 +3007,6 @@
 			"collector_number": "295",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/295_Torrid Path.png"
-			}
-		},
-		{
-			"name": "Threadweaver Shinobi",
-			"rarity": "rare",
-			"mana_cost": "{3}{U}",
-			"type": "Creature — Human Ninja ",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Threadweaver Shinobi.png"
-			}
-		},
-		{
-			"name": "Spirit Realm Phoenix",
-			"rarity": "rare",
-			"mana_cost": "{1}{R}{R}",
-			"type": "Creature — Spirit Phoenix ",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Spirit Realm Phoenix.png"
-			}
-		},
-		{
-			"name": "Swift Reproach",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Instant",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Swift Reproach.png"
-			}
-		},
-		{
-			"name": "Kage, Cursed Conqueror",
-			"rarity": "mythic",
-			"mana_cost": "{4}{B}{B}{B}",
-			"type": "Legendary Creature — Demon Warrior ",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Kage, Cursed Conqueror.png"
-			}
-		},
-		{
-			"name": "Ageless Seishin",
-			"rarity": "mythic",
-			"mana_cost": "{2}{G}{G}{G}",
-			"type": "Creature — Spirit Dragon ",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Ageless Seishin.png"
-			}
-		},
-		{
-			"name": "The Ancestral Legion",
-			"rarity": "mythic",
-			"mana_cost": "{2}{W}{B}",
-			"type": "Legendary Enchantment",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_The Ancestral Legion.png"
 			}
 		},
 		{
@@ -3170,16 +3100,6 @@
 			}
 		},
 		{
-			"name": "Stratostorm",
-			"rarity": "rare",
-			"mana_cost": "{2}{W}{U}",
-			"type": "Creature — Elemental Monk ",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Stratostorm.png"
-			}
-		},
-		{
 			"name": "Gereishin, the Stormlord",
 			"rarity": "mythic",
 			"mana_cost": "{5}{R}{R}",
@@ -3187,36 +3107,6 @@
 			"collector_number": "103",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/103_Gereishin, the Stormlord.png"
-			}
-		},
-		{
-			"name": "Gereishin, the Stormlord",
-			"rarity": "mythic",
-			"mana_cost": "{5}{R}{R}",
-			"type": "Legendary Creature — Dragon ",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Gereishin, the Stormlord.png"
-			}
-		},
-		{
-			"name": "Butchery",
-			"rarity": "rare",
-			"mana_cost": "{B}{B/R}{R}",
-			"type": "Enchantment",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Butchery.png"
-			}
-		},
-		{
-			"name": "Mastery",
-			"rarity": "rare",
-			"mana_cost": "{W}{W/B}{B}",
-			"type": "Enchantment",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Mastery.png"
 			}
 		},
 		{
@@ -3237,16 +3127,6 @@
 			"collector_number": "0",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Saga.png"
-			}
-		},
-		{
-			"name": "Shiori, the Trickster",
-			"rarity": "mythic",
-			"mana_cost": "{R}{G}",
-			"type": "Legendary Creature — Fox Spirit ",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Shiori, the Trickster.png"
 			}
 		},
 		{
@@ -3388,16 +3268,11 @@
 		2 Rousing Path
 		2 Thicketed Path
 		2 Torrid Path
-		2 Threadweaver Shinobi
-		2 Spirit Realm Phoenix
 		2 Sludge Drudge
 		2 Maiden of the Waters
 		2 Stratostorm
 		2 Auspicious Return
 		2 Stonework Effigy
-		2 Stratostorm
-		2 Butchery
-		2 Mastery
 		2 Ayeshi Breaks the Loop
 		1 The Dutiful Wanderer
 		1 Tsubasa Shigane
@@ -3430,13 +3305,7 @@
 		1 Danuja, Emperor's Pet
 		1 Revolutionary's Monument
 		1 Hakodate Regent
-		1 Emperor Tzuhan
-		1 Kage, Cursed Conqueror
-		1 Ageless Seishin
-		1 The Ancestral Legion
 		1 Gereishin, the Stormlord
-		1 Gereishin, the Stormlord
-		1 Shiori, the Trickster
 		[UncommonSlot(81)]
 	9 Akihiko, Wayfinder
 		9 Ribbon Dancer
@@ -3517,7 +3386,6 @@
 		9 Drown in Memory
 		9 Twilight Agent
 		9 Edge of Civilization
-		9 Swift Reproach
 		9 Koraja's Centipede
 		9 Kappa of Shallow Shores
 		[CommonSlot(99)]

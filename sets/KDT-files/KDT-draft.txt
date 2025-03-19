@@ -64,9 +64,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Ninja ",
-			"collector_number": "143",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/143_Mirageform Shinobi.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/142_Mirageform Shinobi.png"
 			}
 		},
 		{
@@ -144,9 +144,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{R}",
 			"type": "Creature — Fox Spirit ",
-			"collector_number": "109",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/109_Infernal Kitsune.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/111_Infernal Kitsune.png"
 			}
 		},
 		{
@@ -234,9 +234,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Dragon ",
-			"collector_number": "117",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/117_Realm-Delver Whelp.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/118_Realm-Delver Whelp.png"
 			}
 		},
 		{
@@ -434,9 +434,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Kirin Spirit ",
-			"collector_number": "111",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/111_Kirin of Boons.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/113_Kirin of Boons.png"
 			}
 		},
 		{
@@ -504,9 +504,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "101",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/101_Face of Animosity.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/102_Face of Animosity.png"
 			}
 		},
 		{
@@ -514,9 +514,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "264",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/264_Enchanted Pauldron.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/262_Enchanted Pauldron.png"
 			}
 		},
 		{
@@ -580,13 +580,13 @@
 			}
 		},
 		{
-			"name": "Speed Demon",
+			"name": "Demon of Dire Storms",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Demon Warrior ",
-			"collector_number": "122",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/122_Speed Demon.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/101_Demon of Dire Storms.png"
 			}
 		},
 		{
@@ -690,13 +690,13 @@
 			}
 		},
 		{
-			"name": "Latchjaw Orochi",
+			"name": "Orochi Soulfang",
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Creature — Spirit Snake ",
-			"collector_number": "140",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/140_Latchjaw Orochi.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/144_Orochi Soulfang.png"
 			}
 		},
 		{
@@ -754,9 +754,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Monk ",
-			"collector_number": "62",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/62_Uiki Cloudchaser.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/61_Uiki Cloudchaser.png"
 			}
 		},
 		{
@@ -794,9 +794,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Monk ",
-			"collector_number": "59",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/59_Suppressing-Fist Pupil.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/58_Suppressing-Fist Pupil.png"
 			}
 		},
 		{
@@ -874,9 +874,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "144",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/144_Momentous Strike.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/143_Momentous Strike.png"
 			}
 		},
 		{
@@ -894,9 +894,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Saga ",
-			"collector_number": "121",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/121_Shigane Manor Burns.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/122_Shigane Manor Burns.png"
 			}
 		},
 		{
@@ -914,19 +914,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment",
-			"collector_number": "45",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/45_God Tree Chimes.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/44_God Tree Chimes.png"
 			}
 		},
 		{
-			"name": "Driftveil Branchstalker",
+			"name": "Veiled Branchstalker",
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Human Ninja ",
-			"collector_number": "42",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/42_Driftveil Branchstalker.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/62_Veiled Branchstalker.png"
 			}
 		},
 		{
@@ -954,9 +954,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Merfolk Noble ",
-			"collector_number": "113",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/113_Koi-Tail Mer.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/115_Koi-Tail Mer.png"
 			}
 		},
 		{
@@ -1014,9 +1014,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "262",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/262_Dynasty Pendant.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/261_Dynasty Pendant.png"
 			}
 		},
 		{
@@ -1054,9 +1054,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Creature — Demon Warrior ",
-			"collector_number": "108",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/108_Impulsive Underling.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/110_Impulsive Underling.png"
 			}
 		},
 		{
@@ -1072,8 +1072,8 @@
 		{
 			"name": "Bleeding Out",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
-			"type": "Sorcery",
+			"mana_cost": "{R}{R}",
+			"type": "Instant",
 			"collector_number": "96",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/96_Bleeding Out.png"
@@ -1243,7 +1243,7 @@
 			"name": "Moonlight Adversary",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Shade Noble ",
+			"type": "Creature — Nightmare Noble ",
 			"collector_number": "79",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/79_Moonlight Adversary.png"
@@ -1254,9 +1254,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Demon Knight ",
-			"collector_number": "112",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/112_Knight of Kage.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/114_Knight of Kage.png"
 			}
 		},
 		{
@@ -1274,9 +1274,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "118",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/118_Saboteur's Immolation.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/119_Saboteur's Immolation.png"
 			}
 		},
 		{
@@ -1302,7 +1302,7 @@
 		{
 			"name": "Ayeshi, Time's Jailer",
 			"rarity": "mythic",
-			"mana_cost": "{1}{G}{W}{U}",
+			"mana_cost": "{2}{G}{W}{U}",
 			"type": "Legendary Planeswalker — Ayeshi ",
 			"collector_number": "171",
 			"image_uris": {
@@ -1334,9 +1334,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Demon Warrior ",
-			"collector_number": "110",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/110_Kage's Slayer.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/112_Kage's Slayer.png"
 			}
 		},
 		{
@@ -1344,9 +1344,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Ninja ",
-			"collector_number": "60",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/60_Threadweaver Shinobi.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/59_Threadweaver Shinobi.png"
 			}
 		},
 		{
@@ -1384,9 +1384,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Legendary Creature — Avatar ",
-			"collector_number": "50",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/50_Luraana, Loop's End.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/49_Luraana, Loop's End.png"
 			}
 		},
 		{
@@ -1504,9 +1504,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "46",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/46_Grasp of the Elements.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/45_Grasp of the Elements.png"
 			}
 		},
 		{
@@ -1604,9 +1604,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Enchantment",
-			"collector_number": "107",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/107_Imperial Production.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/109_Imperial Production.png"
 			}
 		},
 		{
@@ -1614,9 +1614,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
-			"collector_number": "141",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/141_Mapper's Wanderings.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/140_Mapper's Wanderings.png"
 			}
 		},
 		{
@@ -1624,9 +1624,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Monk ",
-			"collector_number": "48",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/48_Leyline Attuner.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/47_Leyline Attuner.png"
 			}
 		},
 		{
@@ -1652,7 +1652,7 @@
 		{
 			"name": "Born From Fire",
 			"rarity": "rare",
-			"mana_cost": "{10}{R}",
+			"mana_cost": "{12}{R}",
 			"type": "Sorcery",
 			"collector_number": "99",
 			"image_uris": {
@@ -1714,26 +1714,26 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Bird Ninja ",
-			"collector_number": "53",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/53_Natori Skyblade.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/52_Natori Skyblade.png"
 			}
 		},
 		{
-			"name": "Kitsune Agent",
+			"name": "Kitsune Duelist",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Fox Samurai ",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/17_Kitsune Agent.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/17_Kitsune Duelist.png"
 			}
 		},
 		{
 			"name": "Master of the Twin Blades",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
-			"type": "Creature — Fox Samurai ",
+			"type": "Creature — Avatar Samurai ",
 			"collector_number": "206",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/206_Master of the Twin Blades.png"
@@ -1804,9 +1804,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "105",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/105_Hell's Boon.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/107_Hell's Boon.png"
 			}
 		},
 		{
@@ -1904,9 +1904,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Demon Warrior ",
-			"collector_number": "114",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/114_Newborn Oni.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/116_Newborn Oni.png"
 			}
 		},
 		{
@@ -2004,9 +2004,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "102",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/102_Fall Upon Your Blade.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/103_Fall Upon Your Blade.png"
 			}
 		},
 		{
@@ -2094,9 +2094,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Cat Spirit ",
-			"collector_number": "120",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/120_Seishin of Sun's Radiance.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/121_Seishin of Sun's Radiance.png"
 			}
 		},
 		{
@@ -2134,9 +2134,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Ninja ",
-			"collector_number": "142",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/142_Master of Stances.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/141_Master of Stances.png"
 			}
 		},
 		{
@@ -2164,9 +2164,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Ninja ",
-			"collector_number": "52",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/52_Moonblade Ninja.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/51_Moonblade Ninja.png"
 			}
 		},
 		{
@@ -2184,9 +2184,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Elemental ",
-			"collector_number": "49",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/49_Living Wave.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/48_Living Wave.png"
 			}
 		},
 		{
@@ -2204,9 +2204,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Monk ",
-			"collector_number": "54",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/54_Nerve-Strike Disciple.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/53_Nerve-Strike Disciple.png"
 			}
 		},
 		{
@@ -2214,9 +2214,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{U}",
 			"type": "Sorcery",
-			"collector_number": "44",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/44_Elope.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/43_Elope.png"
 			}
 		},
 		{
@@ -2360,13 +2360,13 @@
 			}
 		},
 		{
-			"name": "Awakened Golem",
+			"name": "Giant Hewn Toad",
 			"rarity": "common",
 			"mana_cost": "{7}",
-			"type": "Artifact Creature — Golem Warrior ",
-			"collector_number": "261",
+			"type": "Artifact Creature — Frog ",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/261_Awakened Golem.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/264_Giant Hewn Toad.png"
 			}
 		},
 		{
@@ -2374,9 +2374,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Human Monk ",
-			"collector_number": "58",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/58_Simian Pupil.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/57_Simian Pupil.png"
 			}
 		},
 		{
@@ -2420,13 +2420,13 @@
 			}
 		},
 		{
-			"name": "Realm Protector",
+			"name": "Frilled Seishin",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Fox Spirit ",
-			"collector_number": "116",
+			"type": "Creature — Spirit Salamander ",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/116_Realm Protector.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/104_Frilled Seishin.png"
 			}
 		},
 		{
@@ -2434,9 +2434,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{R}",
 			"type": "Creature — Dragon ",
-			"collector_number": "106",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/106_Imperial Dragon.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/108_Imperial Dragon.png"
 			}
 		},
 		{
@@ -2470,19 +2470,19 @@
 			}
 		},
 		{
-			"name": "Ayeshi's Observer",
+			"name": "Ayeshi's Agent",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Creature — Elemental ",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Rogue ",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/2_Ayeshi's Observer.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/2_Ayeshi's Agent.png"
 			}
 		},
 		{
 			"name": "Koi Float",
 			"rarity": "rare",
-			"mana_cost": "{2}",
+			"mana_cost": "{3}",
 			"type": "Artifact — Vehicle ",
 			"collector_number": "267",
 			"image_uris": {
@@ -2574,9 +2574,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
-			"collector_number": "55",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/55_Ominous Seas.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/54_Ominous Seas.png"
 			}
 		},
 		{
@@ -2594,9 +2594,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Dragon ",
-			"collector_number": "56",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/56_River Guardian.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/55_River Guardian.png"
 			}
 		},
 		{
@@ -2604,9 +2604,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
-			"collector_number": "43",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/43_Drown in Memory.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/42_Drown in Memory.png"
 			}
 		},
 		{
@@ -2614,9 +2614,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Ninja ",
-			"collector_number": "61",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/61_Twilight Agent.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/60_Twilight Agent.png"
 			}
 		},
 		{
@@ -2624,9 +2624,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Fox Spirit ",
-			"collector_number": "115",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/115_Noble Kitsune.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/117_Noble Kitsune.png"
 			}
 		},
 		{
@@ -2710,23 +2710,13 @@
 			}
 		},
 		{
-			"name": "Edge of Civilization",
-			"rarity": "uncommon",
-			"mana_cost": "{3}",
-			"type": "Artifact — Equipment ",
-			"collector_number": "263",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/263_Edge of Civilization.png"
-			}
-		},
-		{
 			"name": "Scouring the Riverbed",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Enchantment",
-			"collector_number": "119",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/119_Scouring the Riverbed.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/120_Scouring the Riverbed.png"
 			}
 		},
 		{
@@ -2744,15 +2734,15 @@
 			"rarity": "mythic",
 			"mana_cost": "{6}{U}{U}",
 			"type": "Enchantment",
-			"collector_number": "57",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/57_Sakura Dance.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/56_Sakura Dance.png"
 			}
 		},
 		{
 			"name": "Primordial Gateway",
 			"rarity": "rare",
-			"mana_cost": "{3}",
+			"mana_cost": "{2}",
 			"type": "Artifact",
 			"collector_number": "270",
 			"image_uris": {
@@ -2954,9 +2944,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Phoenix Spirit ",
-			"collector_number": "104",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/104_Hakodate Regent.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/106_Hakodate Regent.png"
 			}
 		},
 		{
@@ -3034,9 +3024,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Monk ",
-			"collector_number": "51",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/51_Maiden of the Waters.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/50_Maiden of the Waters.png"
 			}
 		},
 		{
@@ -3063,7 +3053,7 @@
 			"name": "Stratostorm",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{U}",
-			"type": "Creature — Elemental Monk ",
+			"type": "Creature — Elemental  ",
 			"collector_number": "229",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/229_Stratostorm.png"
@@ -3090,13 +3080,13 @@
 			}
 		},
 		{
-			"name": "Stonework Effigy",
+			"name": "Stonework Titan",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Artifact Creature — Golem ",
+			"type": "Artifact Creature — Turtle ",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/154_Stonework Effigy.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/154_Stonework Titan.png"
 			}
 		},
 		{
@@ -3104,9 +3094,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{R}{R}",
 			"type": "Legendary Creature — Dragon ",
-			"collector_number": "103",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/103_Gereishin, the Stormlord.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/105_Gereishin, the Stormlord.png"
 			}
 		},
 		{
@@ -3180,13 +3170,23 @@
 			}
 		},
 		{
-			"name": "Kappa of Shallow Shores",
+			"name": "King of Shallow Shores",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
-			"type": "Creature — Turtle Warrior ",
-			"collector_number": "47",
+			"type": "Creature — Dragon ",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/47_Kappa of Shallow Shores.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/46_King of Shallow Shores.png"
+			}
+		},
+		{
+			"name": "Faces of the Faceless",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/263_Faces of the Faceless.png"
 			}
 		},
 		]
@@ -3200,14 +3200,14 @@
 		2 Spirit Realm Phoenix
 		2 Sculptor's Replica
 		2 Attuned Acolyte
-		2 Speed Demon
+		2 Demon of Dire Storms
 		2 Path's End
 		2 Sodden Path
 		2 Distant Path
 		2 Meandering Path
 		2 Erosive Path
 		2 Desolate Path
-		2 Latchjaw Orochi
+		2 Orochi Soulfang
 		2 Brutal Throatcrusher
 		2 Elder Tattooist
 		2 Draconic Consternation
@@ -3272,7 +3272,7 @@
 		2 Maiden of the Waters
 		2 Stratostorm
 		2 Auspicious Return
-		2 Stonework Effigy
+		2 Stonework Titan
 		2 Ayeshi Breaks the Loop
 		1 The Dutiful Wanderer
 		1 Tsubasa Shigane
@@ -3369,12 +3369,12 @@
 		9 Painted Officer
 		9 Blur Strike
 		9 Menreiki, the Resplendent
-		9 Realm Protector
+		9 Frilled Seishin
 		9 Imperial Dragon
 		9 Ruiner's Judgement
 		9 Stained Strokes
 		9 Ruiner Battlesuit
-		9 Ayeshi's Observer
+		9 Ayeshi's Agent
 		9 Yokinzan Pathfinder
 		9 Shigane Elder
 		9 Opulent Vantage
@@ -3385,9 +3385,9 @@
 		9 River Guardian
 		9 Drown in Memory
 		9 Twilight Agent
-		9 Edge of Civilization
 		9 Koraja's Centipede
-		9 Kappa of Shallow Shores
+		9 King of Shallow Shores
+		9 Faces of the Faceless
 		[CommonSlot(99)]
 	30 Mirageform Shinobi
 		30 Bladecross Student
@@ -3417,7 +3417,7 @@
 		30 Daring Shinobi
 		30 Momentous Strike
 		30 Sacrificial Mentor
-		30 Driftveil Branchstalker
+		30 Veiled Branchstalker
 		30 Blazing Kitsune
 		30 Hwacha
 		30 Royal Balcony
@@ -3433,7 +3433,7 @@
 		30 Mapper's Wanderings
 		30 Leyline Attuner
 		30 Prophetic Prism
-		30 Kitsune Agent
+		30 Kitsune Duelist
 		30 Ravenous Slaughterlord
 		30 Oni of Tongues
 		30 Hell's Boon
@@ -3485,7 +3485,7 @@
 		30 Jubilant Docks
 		30 Soaring Kites
 		30 Mortal Blade
-		30 Awakened Golem
+		30 Giant Hewn Toad
 		30 Noble Kitsune
 		30 Emblem
 		30 Moonlit Gateway

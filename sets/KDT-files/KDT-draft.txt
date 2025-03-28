@@ -543,7 +543,7 @@
 			"name": "Sculptor's Replica",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
-			"type": "Artifact Creature — Construct Monk ",
+			"type": "Artifact Creature — Golem Monk ",
 			"collector_number": "23",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/23_Sculptor's Replica.png"
@@ -1962,7 +1962,7 @@
 		{
 			"name": "Banished Dragon",
 			"rarity": "common",
-			"mana_cost": "{4}{W/B}{W/B}",
+			"mana_cost": "{3}{W/B}{W/B}",
 			"type": "Creature — Dragon ",
 			"collector_number": "237",
 			"image_uris": {
@@ -3070,13 +3070,13 @@
 			}
 		},
 		{
-			"name": "Construct",
+			"name": "Golem",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact Creature — Construct ",
+			"type": "Token Artifact Creature — Golem ",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/15_Construct.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/15_Golem.png"
 			}
 		},
 		{

@@ -3000,56 +3000,6 @@
 			}
 		},
 		{
-			"name": "Threadweaver Shinobi",
-			"rarity": "rare",
-			"mana_cost": "{3}{U}",
-			"type": "Creature — Human Ninja ",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Threadweaver Shinobi.png"
-			}
-		},
-		{
-			"name": "Spirit Realm Phoenix",
-			"rarity": "rare",
-			"mana_cost": "{1}{R}{R}",
-			"type": "Creature — Spirit Phoenix ",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Spirit Realm Phoenix.png"
-			}
-		},
-		{
-			"name": "Kage, Cursed Conqueror",
-			"rarity": "mythic",
-			"mana_cost": "{4}{B}{B}{B}",
-			"type": "Legendary Creature — Demon Warrior ",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Kage, Cursed Conqueror.png"
-			}
-		},
-		{
-			"name": "Ageless Seishin",
-			"rarity": "mythic",
-			"mana_cost": "{2}{G}{G}{G}",
-			"type": "Creature — Spirit Dragon ",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Ageless Seishin.png"
-			}
-		},
-		{
-			"name": "The Ancestral Legion",
-			"rarity": "mythic",
-			"mana_cost": "{2}{W}{B}",
-			"type": "Legendary Enchantment",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_The Ancestral Legion.png"
-			}
-		},
-		{
 			"name": "Moonlit Gateway",
 			"rarity": "common",
 			"mana_cost": "{1}",
@@ -3140,16 +3090,6 @@
 			}
 		},
 		{
-			"name": "Stratostorm",
-			"rarity": "rare",
-			"mana_cost": "{2}{W}{U}",
-			"type": "Creature — Elemental  ",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Stratostorm.png"
-			}
-		},
-		{
 			"name": "Gereishin, the Stormlord",
 			"rarity": "mythic",
 			"mana_cost": "{5}{R}{R}",
@@ -3157,36 +3097,6 @@
 			"collector_number": "105",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/105_Gereishin, the Stormlord.png"
-			}
-		},
-		{
-			"name": "Gereishin, the Stormlord",
-			"rarity": "mythic",
-			"mana_cost": "{5}{R}{R}",
-			"type": "Legendary Creature — Dragon ",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Gereishin, the Stormlord.png"
-			}
-		},
-		{
-			"name": "Butchery",
-			"rarity": "rare",
-			"mana_cost": "{B}{B/R}{R}",
-			"type": "Enchantment",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Butchery.png"
-			}
-		},
-		{
-			"name": "Mastery",
-			"rarity": "rare",
-			"mana_cost": "{W}{W/B}{B}",
-			"type": "Enchantment",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Mastery.png"
 			}
 		},
 		{
@@ -3207,16 +3117,6 @@
 			"collector_number": "0",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Saga.png"
-			}
-		},
-		{
-			"name": "Shiori, the Trickster",
-			"rarity": "mythic",
-			"mana_cost": "{R}{G}",
-			"type": "Legendary Creature — Fox Shapeshifter ",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Shiori, the Trickster.png"
 			}
 		},
 		{
@@ -3277,106 +3177,6 @@
 			"collector_number": "46",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/46_King of Shallow Shores.png"
-			}
-		},
-		{
-			"name": "Majesty",
-			"rarity": "rare",
-			"mana_cost": "{R}{R/G}{G}",
-			"type": "Enchantment",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Majesty.png"
-			}
-		},
-		{
-			"name": "Tsubasa Shigane",
-			"rarity": "mythic",
-			"mana_cost": "{1}{G}{U}",
-			"type": "Legendary Planeswalker — Tsubasa ",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Tsubasa Shigane.png"
-			}
-		},
-		{
-			"name": "Ayeshi, Time's Jailer",
-			"rarity": "mythic",
-			"mana_cost": "{2}{G}{W}{U}",
-			"type": "Legendary Planeswalker — Ayeshi ",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Ayeshi, Time's Jailer.png"
-			}
-		},
-		{
-			"name": "The Dutiful Wanderer",
-			"rarity": "mythic",
-			"mana_cost": "{3}{W}{W}",
-			"type": "Legendary Planeswalker",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_The Dutiful Wanderer.png"
-			}
-		},
-		{
-			"name": "Giyama, Scion of Kage",
-			"rarity": "mythic",
-			"mana_cost": "{2}{B}{R}",
-			"type": "Legendary Planeswalker — Giyama ",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Giyama, Scion of Kage.png"
-			}
-		},
-		{
-			"name": "Secrecy",
-			"rarity": "rare",
-			"mana_cost": "{G}{G/U}{U}",
-			"type": "Enchantment",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Secrecy.png"
-			}
-		},
-		{
-			"name": "Equanimity",
-			"rarity": "rare",
-			"mana_cost": "{W}{W/U}{U}",
-			"type": "Enchantment",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Equanimity.png"
-			}
-		},
-		{
-			"name": "Perils of Eternity",
-			"rarity": "rare",
-			"mana_cost": "{1}{W}",
-			"type": "Enchantment",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Perils of Eternity.png"
-			}
-		},
-		{
-			"name": "Aonuma, Princely Traveler",
-			"rarity": "rare",
-			"mana_cost": "{G}{U}",
-			"type": "Legendary Creature — Human Ninja ",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Aonuma, Princely Traveler.png"
-			}
-		},
-		{
-			"name": "Koraja, the Broken Blade",
-			"rarity": "rare",
-			"mana_cost": "{B}{R}",
-			"type": "Legendary Creature — Demon Warrior ",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/0_Koraja, the Broken Blade.png"
 			}
 		},
 		{
@@ -3468,23 +3268,12 @@
 		2 Rousing Path
 		2 Thicketed Path
 		2 Torrid Path
-		2 Threadweaver Shinobi
-		2 Spirit Realm Phoenix
 		2 Sludge Drudge
 		2 Maiden of the Waters
 		2 Stratostorm
 		2 Auspicious Return
 		2 Stonework Titan
-		2 Stratostorm
-		2 Butchery
-		2 Mastery
 		2 Ayeshi Breaks the Loop
-		2 Majesty
-		2 Secrecy
-		2 Equanimity
-		2 Perils of Eternity
-		2 Aonuma, Princely Traveler
-		2 Koraja, the Broken Blade
 		1 The Dutiful Wanderer
 		1 Tsubasa Shigane
 		1 Aether Dancer
@@ -3516,16 +3305,7 @@
 		1 Danuja, Emperor's Pet
 		1 Revolutionary's Monument
 		1 Hakodate Regent
-		1 Kage, Cursed Conqueror
-		1 Ageless Seishin
-		1 The Ancestral Legion
 		1 Gereishin, the Stormlord
-		1 Gereishin, the Stormlord
-		1 Shiori, the Trickster
-		1 Tsubasa Shigane
-		1 Ayeshi, Time's Jailer
-		1 The Dutiful Wanderer
-		1 Giyama, Scion of Kage
 		[UncommonSlot(81)]
 	9 Akihiko, Wayfinder
 		9 Ribbon Dancer

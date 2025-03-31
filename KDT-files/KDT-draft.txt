@@ -143,7 +143,7 @@
 			"name": "Infernal Kitsune",
 			"rarity": "rare",
 			"mana_cost": "{5}{R}",
-			"type": "Creature — Fox  ",
+			"type": "Creature — Fox Shapeshifter ",
 			"collector_number": "111",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/111_Infernal Kitsune.png"
@@ -303,7 +303,7 @@
 			"name": "Basking Kitsune",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Fox  ",
+			"type": "Creature — Fox Shapeshifter ",
 			"collector_number": "132",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/132_Basking Kitsune.png"
@@ -323,7 +323,7 @@
 			"name": "Adorned Kitsune",
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
-			"type": "Creature — Fox  ",
+			"type": "Creature — Fox Shapeshifter ",
 			"collector_number": "160",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/160_Adorned Kitsune.png"
@@ -483,7 +483,7 @@
 			"name": "Realmweft Kitsune",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Fox  ",
+			"type": "Creature — Fox Shapeshifter ",
 			"collector_number": "149",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/149_Realmweft Kitsune.png"
@@ -973,7 +973,7 @@
 			"name": "Blazing Kitsune",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Fox  ",
+			"type": "Creature — Fox Shapeshifter ",
 			"collector_number": "95",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/95_Blazing Kitsune.png"
@@ -2600,13 +2600,13 @@
 			}
 		},
 		{
-			"name": "Draconic Council",
+			"name": "Dragon's Court",
 			"rarity": "uncommon",
-			"mana_cost": "{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/39_Draconic Council.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/39_Dragon's Court.png"
 			}
 		},
 		{
@@ -2623,7 +2623,7 @@
 			"name": "Noble Kitsune",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Fox  ",
+			"type": "Creature — Fox Shapeshifter ",
 			"collector_number": "117",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/117_Noble Kitsune.png"
@@ -2910,13 +2910,13 @@
 			}
 		},
 		{
-			"name": "Shapeshifter",
+			"name": "Fox Shapeshifter",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Fox Shapeshifter ",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/1_Shapeshifter.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KDT-files/img/1_Fox Shapeshifter.png"
 			}
 		},
 		{
@@ -3383,7 +3383,7 @@
 		9 Ominous Seas
 		9 Settler's Caravan
 		9 River Guardian
-		9 Draconic Council
+		9 Dragon's Court
 		9 Twilight Agent
 		9 Koraja's Centipede
 		9 King of Shallow Shores

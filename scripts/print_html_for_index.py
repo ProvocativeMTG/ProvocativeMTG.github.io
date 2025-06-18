@@ -38,7 +38,7 @@ def generateHTML():
 		max-height: 200px;
 		display: block;
 		margin: auto;
-		padding-bottom: 20px;
+		padding: 20px 0;
 	}
 	select {
 		position: absolute;
@@ -188,7 +188,6 @@ def generateHTML():
 	}
 	.set-icon-name {
 		min-height: 30px;
-		height: 100%;
 	}
 	@media ( max-width: 750px ) {
 		.item-container {
@@ -259,6 +258,7 @@ def generateHTML():
 			let gradients = [];
 			let card_list_arrayified = [];
 			let specialchars = "";
+			let initial_gradient = true;
 
 			document.addEventListener("DOMContentLoaded", async function () {
 				try {
@@ -384,7 +384,12 @@ def generateHTML():
 			}
 
 			function setGradient() {
-				gradient = document.getElementById("color-select").value;
+				if (!initial_gradient || !localStorage.getItem("gradient"))
+				{
+					localStorage.setItem("gradient", document.getElementById("color-select").value);
+				}
+				
+				gradient = localStorage.getItem("gradient");
 
 				gradTop = "#000000";
 				gradBottom = "#FFFFFF";
@@ -396,7 +401,13 @@ def generateHTML():
 						gradBottom = grad.color2;
 					}
 				}
+				
+				if (initial_gradient)
+				{
+					document.getElementById("color-select").value = gradient;
+				}
 
+				initial_gradient = false;
 				document.body.style.backgroundImage = `linear-gradient(to bottom, ${gradTop}, ${gradBottom})`;
 			}
 

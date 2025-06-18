@@ -1,6 +1,6 @@
 ﻿{
     "name": "",
-    "formats": "Cube",
+    "formats": "",
     "trimmed": "n",
     "image_type": "png",
     "draft_structure": "cube",
@@ -1664,7 +1664,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 This enchantment deals 3 damage to any target.\nII \u2014 Search your library for a Dragon card, reveal it, put it into your hand, then shuffle.\nIII \u2014 The next Dragon spell you cast this turn has storm. The copies aren't legendary.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 This Saga deals 3 damage to any target.\nII \u2014 Search your library for a Dragon card, reveal it, put it into your hand, then shuffle.\nIII \u2014 The next Dragon spell you cast this turn has storm. The copies aren't legendary.",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",

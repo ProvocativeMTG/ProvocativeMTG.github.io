@@ -1957,7 +1957,7 @@
             "number": 99,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Create a 1/1 red Human Warlock creature token with prowess. [i](Whenever you cast a noncreature spell, that creature gets +1/+1 until end of turn.)[/i]\nEquinox {2}{R} [i](If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)[/i]",
+            "rules_text": "Create a 1/1 red Human Warlock creature token with prowess. [i](Whenever you cast a noncreature spell, the token gets +1/+1 until end of turn.)[/i]\nEquinox {2}{R} [i](If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",

@@ -183,7 +183,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "momodacat",
-            "notes": "!group monarch"
+            "notes": "!group monarch\n!sort 01"
         },
         {
             "card_name": "War Counselor Iji",
@@ -768,9 +768,9 @@
             "type": "Creature \u2014 Spirit",
             "number": 71,
             "color_identity": "U",
-            "cost": "{2}{U}",
-            "rules_text": "You may have this creature enter as a copy of a creature you control, except it isn't legendary and it's a Spirit in addition to its other types.",
-            "flavor_text": "[i]This spirit takes the form of the summoner to fight alongside them, but its mimicry does not extend to imitating their will.[/i]",
+            "cost": "{3}{U}",
+            "rules_text": "You may have this creature enter as a copy of a creature you control, except it isn't legendary and it's a Spirit in addition to its other types. It has \u201cIf a triggered ability of this creature or another creature you control that shares a name with this creature triggers, that ability triggers an additional time.",
+            "flavor_text": "[i][/i]",
             "pt": "0/0",
             "special_text": "",
             "shape": "normal",
@@ -1209,7 +1209,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "fantazyme",
-            "notes": "!group other"
+            "notes": "!group other\n!sort 12"
         },
         {
             "card_name": "Maliketh, Demigod's Demise",
@@ -1258,7 +1258,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI \u2014 You gain 2 life and draw two cards.\nII \u2014 You may exile a nonland card from your hand. If you do, it becomes plotted. [i](You may cast it as a sorcery on a later turn without paying its mana cost.)[/i]\nIII \u2014 Whenever you cast your second spell this turn, copy it. You may choose new targets for the copy.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 You gain 2 life and draw two cards.\nII \u2014 You may exile a nonland card from your hand. If you do, it becomes plotted. [i](You may cast it as a sorcery on a later turn without paying its mana cost.)[/i]\nIII \u2014 Whenever you cast your second spell this turn, copy it. You may choose new targets for the copy.",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",
@@ -1574,7 +1574,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI \u2014 Draw X cards, where X is the greatest power among creatures you control.\nII, III \u2014 Create an X/X green Dragon Warrior creature token, where X is the greatest power among creatures you control.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Draw X cards, where X is the greatest power among creatures you control.\nII, III \u2014 Create an X/X green Dragon Warrior creature token, where X is the greatest power among creatures you control.\n\u200b",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",
@@ -1664,7 +1664,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI \u2014 This enchantment deals 3 damage to any target.\nII \u2014 Search your library for a Dragon card, reveal it, put it into your hand, then shuffle.\nIII \u2014 The next Dragon spell you cast this turn has storm. The copies aren't legendary.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 This enchantment deals 3 damage to any target.\nII \u2014 Search your library for a Dragon card, reveal it, put it into your hand, then shuffle.\nIII \u2014 The next Dragon spell you cast this turn has storm. The copies aren't legendary.",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",
@@ -1741,7 +1741,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "jin dongyu",
-            "notes": "!group other"
+            "notes": "!group other\n!sort 07"
         },
         {
             "card_name": "Leyndell, Royal Capital",
@@ -1759,7 +1759,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "jin dongyu",
-            "notes": "!group channel"
+            "notes": "!group channel\n!sort 05\n"
         },
         {
             "card_name": "Nokron, Eternal City",
@@ -1777,7 +1777,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Alex Kerr",
-            "notes": "!group channel"
+            "notes": "!group channel\n!sort 02"
         },
         {
             "card_name": "Raya Lucaria Academy",
@@ -1795,7 +1795,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "David Gonzalez Vaquero",
-            "notes": "!group channel"
+            "notes": "!group channel\n!sort 07"
         },
         {
             "card_name": "Stormveil Castle",
@@ -1813,7 +1813,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Aaron Long",
-            "notes": "!group other"
+            "notes": "!group other\n!sort 11"
         },
         {
             "card_name": "Path to the Capital",
@@ -1826,7 +1826,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI, II, III, IV, V \u2014 Amass Warriors 1. [i](Put a +1/+1 counter on an Army you control. It's also a Warrior. If you don't control an Army, create a 0/0 black Warrior Army creature token first.)[/i]\nC \u2014 You gain 1 life for each counter among other permanents you control.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II, III, IV, V \u2014 Amass Warriors 1. [i](Put a +1/+1 counter on an Army you control. It's also a Warrior. If you don't control an Army, create a 0/0 black Warrior Army creature token first.)[/i]\nC \u2014 You gain 1 life for each counter among other permanents you control.\n\u200b",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",
@@ -1849,7 +1849,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "jin dongyu",
-            "notes": "!group channel"
+            "notes": "!group channel\n!sort 09"
         },
         {
             "card_name": "Hallowhorn Remains",
@@ -3870,7 +3870,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI, II \u2014 Return target permanent card from your graveyard to the battlefield.\nIII \u2014 Create a 1/2 black Spider Horror creature token for each permanent type among permanents you control.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Return target permanent card from your graveyard to the battlefield.\nIII \u2014 Create a 1/2 black Spider Horror creature token for each permanent type among permanents you control. \n\u200b",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",
@@ -4163,7 +4163,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Rishi Shukla",
-            "notes": "!group other"
+            "notes": "!group other\n!sort 014"
         },
         {
             "card_name": "Perfect Order",
@@ -4235,7 +4235,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Umber",
-            "notes": "!group channel"
+            "notes": "!group channel\n!sort 01"
         },
         {
             "card_name": "Red-Maned Radagon",
@@ -4536,7 +4536,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI \u2014 Each player discards their hand. Each player who does draws cards equal to the greatest number of cards discarded by a single player this way.\nII, III \u2014 Return target creature card with mana value 3 or less from your graveyard to the battlefield.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Each player discards their hand. Each player who does draws cards equal to the greatest number of cards discarded by a single player this way.\nII, III \u2014 Return target creature card with mana value 3 or less from your graveyard to the battlefield.\n\u200b",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",
@@ -4608,7 +4608,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI, II \u2014 Each opponent discards a card. For each player who doesn't discard a nonland card this way, you draw a card.\nIII \u2014 Exile all opponents' graveyards. You may cast spells from among those cards this turn, and mana of any type can be spent to cast them.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Each opponent discards a card. For each player who doesn't discard a nonland card this way, you draw a card.\nIII \u2014 Exile all opponents' graveyards. You may cast spells from among those cards this turn, and mana of any type can be spent to cast them.\n\u200b",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",
@@ -4703,7 +4703,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Sarah Vittle",
-            "notes": "!group channel"
+            "notes": "!group channel\n!sort 06"
         },
         {
             "card_name": "Marika's Statue",
@@ -4883,7 +4883,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Magnus Seim Olsen",
-            "notes": "!group other"
+            "notes": "!group other\n!sort 13"
         },
         {
             "card_name": "Rellana, Twin Moon Knight",
@@ -5094,7 +5094,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI \u2014 You become the monarch. [i](The monarch draws a card at the beginning of their end step. Whenever the monarch is dealt combat damage by a creature, its controller becomes the monarch.)[/i]\nII, III \u2014 The monarch sacrifices a creature.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 You become the monarch. [i](The monarch draws a card at the beginning of their end step. Whenever the monarch is dealt combat damage by a creature, its controller becomes the monarch.)[/i]\nII, III \u2014 The monarch sacrifices a creature.\n\u200b",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",
@@ -5117,7 +5117,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Caius Augustus",
-            "notes": "!group other"
+            "notes": "!group other\n!sort 04"
         },
         {
             "card_name": "Commander Gaius",
@@ -5225,7 +5225,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Temmaru",
-            "notes": "!group other"
+            "notes": "!group other\n!sort 09"
         },
         {
             "card_name": "City of Nox",
@@ -5235,7 +5235,7 @@
             "number": 421,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}: Add {C}.\n{X}: City of Nox becomes a copy of target creature you control with mana value X until end of turn, except its name is Mimic Tear and it has changeling. [i](It is every creature type.)[/i]",
+            "rules_text": "{T}: Add {C}.\n{X}: City of Nox becomes a copy of target creature you control with mana value X until end of turn, except it has changeling. [i](It is every creature type.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5243,7 +5243,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "ABluSkittle",
-            "notes": "!group other"
+            "notes": "!group other\n!sort 02"
         },
         {
             "card_name": "Church of Marika",
@@ -5261,7 +5261,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Gthlart",
-            "notes": "!group other"
+            "notes": "!group other\n!sort 01"
         },
         {
             "card_name": "Margit, the Fell Omen",
@@ -5369,7 +5369,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "antinoya",
-            "notes": "!group channel"
+            "notes": "!group channel\n!sort 04"
         },
         {
             "card_name": "Putrescent Knight",
@@ -5706,7 +5706,7 @@
             "rules_text": "b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI, II, III \u2014 You draw cards and lose life equal to the number of lore counters on this Saga.\nIV \u2014 You may have each player's life total become equal to the lowest life total among players.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI, II, III \u2014 You draw cards and lose life equal to the number of lore counters on this Saga.\nIV \u2014 You may have each player's life total become equal to the lowest life total among players.\n\u200b",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",
@@ -5855,7 +5855,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "-Bloodbird",
-            "notes": "!group channel"
+            "notes": "!group channel\n!sort 03"
         },
         {
             "card_name": "Blackgaol Knight",
@@ -5891,7 +5891,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "IIIMP",
-            "notes": "!group other"
+            "notes": "!group other\n!sort 05"
         },
         {
             "card_name": "Marika, Born of Shadow",
@@ -5927,7 +5927,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "bababonzer",
-            "notes": "!group other"
+            "notes": "!group other\n!sort 10"
         },
         {
             "card_name": "Recluse",
@@ -6017,7 +6017,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "devanstolp",
-            "notes": "!group channel"
+            "notes": "!group channel\n!sort 10"
         },
         {
             "card_name": "Spirit Fish",
@@ -6269,7 +6269,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "David Alsina",
-            "notes": "!group other"
+            "notes": "!group other\n!sort 06"
         },
         {
             "card_name": "Foot of the Erdtree",
@@ -6287,7 +6287,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "David Lee Conley",
-            "notes": "!group monarch"
+            "notes": "!group monarch\n!sort 08"
         },
         {
             "card_name": "Beloved Child",
@@ -6318,7 +6318,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI \u2014 Each opponent puts a vow counter on a creature they control. Each of those creatures can't attack you for as long as it has a vow counter on it.\nII \u2014 Each opponent sacrifices a creature without a vow counter on it.\nIII \u2014 You gain 1 life and draw a card.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Each opponent puts a vow counter on a creature they control. Each of those creatures can't attack you for as long as it has a vow counter on it.\nII \u2014 Each opponent sacrifices a creature without a vow counter on it.\nIII \u2014 You gain 1 life and draw a card.",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",
@@ -6462,7 +6462,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI \u2014 Turn target noncommander creature face down. It's a 2/2 Sculpture artifact creature.\nII, III \u2014 Discover 3. [i](Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Turn target noncommander creature face down. It's a 2/2 Sculpture artifact creature.\nII, III \u2014 Discover 3. [i](Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]\n\u200b",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",
@@ -6480,7 +6480,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI \u2014 Return all creatures except your commander to their owners' hands.\nII, III, IV \u2014 The first spell you cast this turn costs {1} less to cast for each lore counter on this Saga.\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Return all creatures except your commander to their owners' hands.\nII, III, IV \u2014 The first spell you cast this turn costs {1} less to cast for each lore counter on this Saga.\n\u200b",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",
@@ -6606,7 +6606,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI, II \u2014 Surveil 2. Then if there are four or more instant and/or sorcery cards in your graveyard, create a 4/4 red Dragon creature token with flying.\nIII \u2014 Exile up to one target instant or sorcery card from your graveyard. Copy it. You may cast the copy.\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Surveil 2. Then if there are four or more instant and/or sorcery cards in your graveyard, create a 4/4 red Dragon creature token with flying.\nIII \u2014 Exile up to one target instant or sorcery card from your graveyard. Copy it. You may cast the copy.\n\u200b",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",
@@ -6912,7 +6912,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI \u2014 Sacrifice any number of other permanents. Draw that many cards.\nII \u2014 Return all nonlegendary creature cards from your graveyard to the battlefield.\nIII \u2014 Return all legendary creature cards from your graveyard to the battlefield.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Sacrifice any number of other permanents. Draw that many cards.\nII \u2014 Return all nonlegendary creature cards from your graveyard to the battlefield.\nIII \u2014 Return all legendary creature cards from your graveyard to the battlefield.",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",
@@ -7218,7 +7218,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI, II \u2014 Search your library for an instant or sorcery card with mana value 4 or less and cast that card without paying its mana cost. Then shuffle.\nIII \u2014 Creatures you control get +X/+0 until end of turn, where X is the number of instant and/or sorcery cards in your graveyard.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Search your library for an instant or sorcery card with mana value 4 or less and cast that card without paying its mana cost. Then shuffle.\nIII \u2014 Creatures you control get +X/+0 until end of turn, where X is the number of instant and/or sorcery cards in your graveyard.\n\u200b",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",
@@ -7367,7 +7367,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "BitchingtonSteel",
-            "notes": "!group monarch"
+            "notes": "!group monarch\n!sort 02"
         },
         {
             "card_name": "The Three Fingers",
@@ -7871,7 +7871,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Xinuo",
-            "notes": "!group other"
+            "notes": "!group other\n!sort 08"
         },
         {
             "card_name": "King of the Storm",
@@ -7889,7 +7889,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "NSlacka",
-            "notes": "!group darksouls"
+            "notes": "!group darksouls\n!sort 02"
         },
         {
             "card_name": "Gaping Dragon",
@@ -7907,7 +7907,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Henrik Karpinnen",
-            "notes": "!group darksouls"
+            "notes": "!group darksouls\n!sort 06"
         },
         {
             "card_name": "Centipede Demon",
@@ -7925,7 +7925,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "OniRuu",
-            "notes": "!group darksouls"
+            "notes": "!group darksouls\n!sort 04"
         },
         {
             "card_name": "Nameless King",
@@ -7943,7 +7943,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "truejjack",
-            "notes": "!group darksouls"
+            "notes": "!group darksouls\n!sort 07"
         },
         {
             "card_name": "Dancer of the Boreal Valley",
@@ -7961,7 +7961,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Hong Hong",
-            "notes": "!group darksouls"
+            "notes": "!group darksouls\n!sort 05"
         },
         {
             "card_name": "Smelter Demon",
@@ -7979,7 +7979,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Inkyh",
-            "notes": "!group darksouls"
+            "notes": "!group darksouls\n!sort 03"
         },
         {
             "card_name": "Snow Witch",
@@ -8033,7 +8033,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "IIIMP",
-            "notes": "!group channel"
+            "notes": "!group channel\n!sort 08"
         },
         {
             "card_name": "O, Elden Ring!",
@@ -8141,7 +8141,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Fermaniarki",
-            "notes": "!group darksouls"
+            "notes": "!group darksouls\n!sort 01"
         },
         {
             "card_name": "Crumbling Farum Azula",
@@ -8159,7 +8159,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Derutta",
-            "notes": "!group other"
+            "notes": "!group other\n!sort 03"
         },
         {
             "card_name": "Maris, Fathom of Night",
@@ -8195,7 +8195,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "NecrosisArts",
-            "notes": "!group monarch"
+            "notes": "!group monarch\n!sort 10"
         },
         {
             "card_name": "Swamp",
@@ -8249,7 +8249,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "NecrosisArts",
-            "notes": "!group monarch"
+            "notes": "!group monarch\n!sort 05"
         },
         {
             "card_name": "Land of Shadow",
@@ -8262,7 +8262,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI \u2014 Mill five cards.\nII \u2014 Return all land cards from your graveyard to the battlefield tapped.\nIII \u2014 Separate your graveyard into two piles. An opponent chooses one of those piles. Return the chosen pile to your hand and leave the other in your graveyard.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Mill five cards.\nII \u2014 Return all land cards from your graveyard to the battlefield tapped.\nIII \u2014 Separate your graveyard into two piles. An opponent chooses one of those piles. Return the chosen pile to your hand and leave the other in your graveyard.",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",
@@ -8356,7 +8356,7 @@
             "shape": "normal",
             "set": "EDR",
             "loyalty": "",
-            "artist": "TFMsaad",
+            "artist": "Uniqros",
             "notes": "Nightreign"
         },
         {
@@ -8411,7 +8411,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Temmaru",
-            "notes": "!group monarch"
+            "notes": "!group monarch\n!sort 07"
         },
         {
             "card_name": "Wailing Dunes",
@@ -8429,7 +8429,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Leathil",
-            "notes": "!group monarch"
+            "notes": "!group monarch\n!sort 03"
         },
         {
             "card_name": "Ancient Golem",
@@ -8465,7 +8465,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Chloe Xu",
-            "notes": "!group monarch"
+            "notes": "!group monarch\n!sort 04"
         },
         {
             "card_name": "Elphael, Brace of the Haligtree",
@@ -8483,7 +8483,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Siel Art",
-            "notes": "!group monarch"
+            "notes": "!group monarch\n!sort 09"
         },
         {
             "card_name": "Leyndell, Ashen Capital",
@@ -8501,7 +8501,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "ROFLEMOON",
-            "notes": "!group monarch"
+            "notes": "!group monarch\n!sort 06"
         },
         {
             "card_name": "A Tarnished of No Renown",
@@ -8519,7 +8519,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "TheChrisPMan",
-            "notes": "!group backup"
+            "notes": "!group backup\n!sort 01"
         },
         {
             "card_name": "Gnoster, Wisdom of Night",
@@ -8915,7 +8915,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "vitkovskayaart",
-            "notes": "!group other"
+            "notes": "!group other\n!sort 015"
         },
         {
             "card_name": "The Great Jar",

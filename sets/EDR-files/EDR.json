@@ -183,7 +183,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "momodacat",
-            "notes": ""
+            "notes": "!group monarch"
         },
         {
             "card_name": "War Counselor Iji",
@@ -1209,7 +1209,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "fantazyme",
-            "notes": ""
+            "notes": "!group other"
         },
         {
             "card_name": "Maliketh, Demigod's Demise",
@@ -1741,7 +1741,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "jin dongyu",
-            "notes": ""
+            "notes": "!group other"
         },
         {
             "card_name": "Leyndell, Royal Capital",
@@ -1759,7 +1759,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "jin dongyu",
-            "notes": ""
+            "notes": "!group channel"
         },
         {
             "card_name": "Nokron, Eternal City",
@@ -1777,7 +1777,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Alex Kerr",
-            "notes": ""
+            "notes": "!group channel"
         },
         {
             "card_name": "Raya Lucaria Academy",
@@ -1795,7 +1795,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "David Gonzalez Vaquero",
-            "notes": ""
+            "notes": "!group channel"
         },
         {
             "card_name": "Stormveil Castle",
@@ -1813,7 +1813,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Aaron Long",
-            "notes": ""
+            "notes": "!group other"
         },
         {
             "card_name": "Path to the Capital",
@@ -1849,7 +1849,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "jin dongyu",
-            "notes": "Removal"
+            "notes": "!group channel"
         },
         {
             "card_name": "Hallowhorn Remains",
@@ -4163,7 +4163,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Rishi Shukla",
-            "notes": ""
+            "notes": "!group other"
         },
         {
             "card_name": "Perfect Order",
@@ -4235,7 +4235,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Umber",
-            "notes": "Removal"
+            "notes": "!group channel"
         },
         {
             "card_name": "Red-Maned Radagon",
@@ -4703,7 +4703,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Sarah Vittle",
-            "notes": ""
+            "notes": "!group channel"
         },
         {
             "card_name": "Marika's Statue",
@@ -4883,7 +4883,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Magnus Seim Olsen",
-            "notes": ""
+            "notes": "!group other"
         },
         {
             "card_name": "Rellana, Twin Moon Knight",
@@ -5117,7 +5117,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Caius Augustus",
-            "notes": ""
+            "notes": "!group other"
         },
         {
             "card_name": "Commander Gaius",
@@ -5225,7 +5225,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Temmaru",
-            "notes": ""
+            "notes": "!group other"
         },
         {
             "card_name": "City of Nox",
@@ -5243,7 +5243,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "ABluSkittle",
-            "notes": ""
+            "notes": "!group other"
         },
         {
             "card_name": "Church of Marika",
@@ -5261,7 +5261,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Gthlart",
-            "notes": ""
+            "notes": "!group other"
         },
         {
             "card_name": "Margit, the Fell Omen",
@@ -5369,7 +5369,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "antinoya",
-            "notes": ""
+            "notes": "!group channel"
         },
         {
             "card_name": "Putrescent Knight",
@@ -5855,7 +5855,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "-Bloodbird",
-            "notes": ""
+            "notes": "!group channel"
         },
         {
             "card_name": "Blackgaol Knight",
@@ -5891,7 +5891,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "IIIMP",
-            "notes": ""
+            "notes": "!group other"
         },
         {
             "card_name": "Marika, Born of Shadow",
@@ -5927,7 +5927,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "bababonzer",
-            "notes": ""
+            "notes": "!group other"
         },
         {
             "card_name": "Recluse",
@@ -6017,7 +6017,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "devanstolp",
-            "notes": ""
+            "notes": "!group channel"
         },
         {
             "card_name": "Spirit Fish",
@@ -6269,7 +6269,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "David Alsina",
-            "notes": ""
+            "notes": "!group other"
         },
         {
             "card_name": "Foot of the Erdtree",
@@ -6287,7 +6287,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "David Lee Conley",
-            "notes": ""
+            "notes": "!group monarch"
         },
         {
             "card_name": "Beloved Child",
@@ -7338,7 +7338,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Token Enchantment \u2014 Shard",
-            "number": 1,
+            "number": 4,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{2}, Sacrifice this token: Scry 1, then draw a card. [i](To scry 1, look at the top card of your library. You may put that card on the bottom of your library.)[/i]",
@@ -7367,7 +7367,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "BitchingtonSteel",
-            "notes": ""
+            "notes": "!group monarch"
         },
         {
             "card_name": "The Three Fingers",
@@ -7662,7 +7662,7 @@
             "color": "",
             "rarity": "cube",
             "type": "",
-            "number": 3,
+            "number": 2,
             "color_identity": "C",
             "cost": "",
             "rules_text": "At the beginning of your end step, draw a card.\nWhenever a creature deals combat damage to you, its controller becomes the monarch.",
@@ -7871,7 +7871,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Xinuo",
-            "notes": "Nightreign"
+            "notes": "!group other"
         },
         {
             "card_name": "King of the Storm",
@@ -7889,7 +7889,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "NSlacka",
-            "notes": "!last"
+            "notes": "!group darksouls"
         },
         {
             "card_name": "Gaping Dragon",
@@ -7907,7 +7907,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Henrik Karpinnen",
-            "notes": "!last"
+            "notes": "!group darksouls"
         },
         {
             "card_name": "Centipede Demon",
@@ -7925,7 +7925,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "OniRuu",
-            "notes": "!last"
+            "notes": "!group darksouls"
         },
         {
             "card_name": "Nameless King",
@@ -7943,7 +7943,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "truejjack",
-            "notes": "!last"
+            "notes": "!group darksouls"
         },
         {
             "card_name": "Dancer of the Boreal Valley",
@@ -7961,7 +7961,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Hong Hong",
-            "notes": "!last"
+            "notes": "!group darksouls"
         },
         {
             "card_name": "Smelter Demon",
@@ -7979,7 +7979,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Inkyh",
-            "notes": "!last"
+            "notes": "!group darksouls"
         },
         {
             "card_name": "Snow Witch",
@@ -8023,17 +8023,17 @@
             "rarity": "cube",
             "type": "Legendary Land",
             "number": 446,
-            "color_identity": "C",
+            "color_identity": "BG",
             "cost": "",
-            "rules_text": "{T}: Add {C}.\n{5}: Scadutree Base becomes a 5/4 Treefolk Avatar with lifelink until end of turn. It's still a land.",
-            "flavor_text": "[i]The flowers, veiled in shadow and covered in impenetrable thorns, are suffused with profound holiness.[/i]",
+            "rules_text": "{T}: Add {C}.\n{T}, Pay 1 life: Add {B} or {G}.\n[i]Channel[/i] \u2014 {3}{B}{G}, Discard this card: Create two tapped colorless land tokens named Everywhere that are every basic land type.",
+            "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "EDR",
             "loyalty": "",
             "artist": "IIIMP",
-            "notes": ""
+            "notes": "!group channel"
         },
         {
             "card_name": "O, Elden Ring!",
@@ -8141,7 +8141,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Fermaniarki",
-            "notes": "!last"
+            "notes": "!group darksouls"
         },
         {
             "card_name": "Crumbling Farum Azula",
@@ -8159,7 +8159,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Derutta",
-            "notes": ""
+            "notes": "!group other"
         },
         {
             "card_name": "Maris, Fathom of Night",
@@ -8195,7 +8195,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "NecrosisArts",
-            "notes": ""
+            "notes": "!group monarch"
         },
         {
             "card_name": "Swamp",
@@ -8249,7 +8249,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "NecrosisArts",
-            "notes": ""
+            "notes": "!group monarch"
         },
         {
             "card_name": "Land of Shadow",
@@ -8411,7 +8411,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Temmaru",
-            "notes": ""
+            "notes": "!group monarch"
         },
         {
             "card_name": "Wailing Dunes",
@@ -8429,7 +8429,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Leathil",
-            "notes": ""
+            "notes": "!group monarch"
         },
         {
             "card_name": "Ancient Golem",
@@ -8465,7 +8465,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Chloe Xu",
-            "notes": ""
+            "notes": "!group monarch"
         },
         {
             "card_name": "Elphael, Brace of the Haligtree",
@@ -8483,7 +8483,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Siel Art",
-            "notes": ""
+            "notes": "!group monarch"
         },
         {
             "card_name": "Leyndell, Ashen Capital",
@@ -8501,7 +8501,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "ROFLEMOON",
-            "notes": ""
+            "notes": "!group monarch"
         },
         {
             "card_name": "A Tarnished of No Renown",
@@ -8519,7 +8519,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "TheChrisPMan",
-            "notes": "!last"
+            "notes": "!group backup"
         },
         {
             "card_name": "Gnoster, Wisdom of Night",
@@ -8915,7 +8915,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "vitkovskayaart",
-            "notes": ""
+            "notes": "!group other"
         },
         {
             "card_name": "The Great Jar",
@@ -8994,7 +8994,7 @@
             "color": "",
             "rarity": "cube",
             "type": "",
-            "number": 4,
+            "number": 3,
             "color_identity": "C",
             "cost": "",
             "rules_text": "After an Adventure resolves, you can place the exiled card here. You may cast the creature from exile.",
@@ -9012,7 +9012,7 @@
             "color": "",
             "rarity": "cube",
             "type": "",
-            "number": 2,
+            "number": 1,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",

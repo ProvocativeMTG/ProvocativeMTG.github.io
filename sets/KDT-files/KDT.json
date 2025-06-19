@@ -1,7 +1,7 @@
 ﻿{
     "name": "Kitsuo: Dusk of Time",
     "formats": "",
-    "trimmed": "n",
+    "trimmed": "y",
     "cards": [
         {
             "card_name": "Uncoiling Realmspawn",
@@ -5259,5 +5259,6 @@
             "loyalty": "",
             "notes": ""
         }
-    ]
+    ],
+    "version": 1
 }

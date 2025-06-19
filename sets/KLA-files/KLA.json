@@ -1,7 +1,7 @@
 ﻿{
     "name": "Kallatree Ascension",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "cards": [
         {
             "card_name": "Star-Speckled Ursine",
@@ -4835,6 +4835,5 @@
             "loyalty": "",
             "notes": "!tag spotlight\n!tag yaoi"
         }
-    ],
-    "version": 1
+    ]
 }

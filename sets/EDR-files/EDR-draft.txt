@@ -501,16 +501,6 @@
 			}
 		},
 		{
-			"name": "Knight",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Knight",
-			"collector_number": "5",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/5_Knight.png"
-			}
-		},
-		{
 			"name": "Blaidd, Carian Knight",
 			"rarity": "special",
 			"mana_cost": "{4}{G}",
@@ -1161,16 +1151,6 @@
 			}
 		},
 		{
-			"name": "Spider Horror",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Spider Horror",
-			"collector_number": "23",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/23_Spider Horror.png"
-			}
-		},
-		{
 			"name": "Shabriri, the Reviled",
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
@@ -1331,16 +1311,6 @@
 			}
 		},
 		{
-			"name": "Warrior Army",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Warrior Army",
-			"collector_number": "24",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/24_Warrior Army.png"
-			}
-		},
-		{
 			"name": "Red Wolf of Radagon",
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
@@ -1478,16 +1448,6 @@
 			"collector_number": "224",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/224_Hallowed Grounds.png"
-			}
-		},
-		{
-			"name": "Wizard",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Wizard",
-			"collector_number": "9",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/9_Wizard.png"
 			}
 		},
 		{
@@ -2261,16 +2221,6 @@
 			}
 		},
 		{
-			"name": "Basilisk",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Basilisk",
-			"collector_number": "10",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/10_Basilisk.png"
-			}
-		},
-		{
 			"name": "Ancient Dragon",
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
@@ -2628,16 +2578,6 @@
 			"collector_number": "275",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/275_Crucible Knights.png"
-			}
-		},
-		{
-			"name": "Serpent",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Serpent",
-			"collector_number": "21",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/21_Serpent.png"
 			}
 		},
 		{
@@ -3331,16 +3271,6 @@
 			}
 		},
 		{
-			"name": "Spirit Fish",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Spirit Fish",
-			"collector_number": "8",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/8_Spirit Fish.png"
-			}
-		},
-		{
 			"name": "Spirit Eel",
 			"rarity": "special",
 			"mana_cost": "{U}",
@@ -3348,16 +3278,6 @@
 			"collector_number": "90",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/90_Spirit Eel.png"
-			}
-		},
-		{
-			"name": "Clue",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Artifact — Clue",
-			"collector_number": "34",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/34_Clue.png"
 			}
 		},
 		{
@@ -3398,26 +3318,6 @@
 			"collector_number": "256",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/256_Baleful Scarlet Rot.png"
-			}
-		},
-		{
-			"name": "Food",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Artifact — Food",
-			"collector_number": "36",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/36_Food.png"
-			}
-		},
-		{
-			"name": "Dragon Warrior",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Dragon Warrior",
-			"collector_number": "27",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/27_Dragon Warrior.png"
 			}
 		},
 		{
@@ -3671,16 +3571,6 @@
 			}
 		},
 		{
-			"name": "Treasure",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Artifact — Treasure",
-			"collector_number": "39",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/39_Treasure.png"
-			}
-		},
-		{
 			"name": "Eternal City's Desolation",
 			"rarity": "special",
 			"mana_cost": "{2}{U}{B}",
@@ -3698,16 +3588,6 @@
 			"collector_number": "173",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/173_Igneous Visions.png"
-			}
-		},
-		{
-			"name": "Demigod",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Demigod",
-			"collector_number": "17",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/17_Demigod.png"
 			}
 		},
 		{
@@ -3781,16 +3661,6 @@
 			}
 		},
 		{
-			"name": "Golden Braid",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Legendary Artifact",
-			"collector_number": "37",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/37_Golden Braid.png"
-			}
-		},
-		{
 			"name": "Marika, the Golden One",
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
@@ -3841,46 +3711,6 @@
 			}
 		},
 		{
-			"name": "Demigod",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Demigod",
-			"collector_number": "19",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/19_Demigod.png"
-			}
-		},
-		{
-			"name": "Demigod",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Demigod",
-			"collector_number": "20",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/20_Demigod.png"
-			}
-		},
-		{
-			"name": "Demigod",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Demigod",
-			"collector_number": "11",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/11_Demigod.png"
-			}
-		},
-		{
-			"name": "Demigod",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Demigod",
-			"collector_number": "13",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/13_Demigod.png"
-			}
-		},
-		{
 			"name": "Starscourge's Challenge",
 			"rarity": "special",
 			"mana_cost": "{2}{U}{R}",
@@ -3908,56 +3738,6 @@
 			"collector_number": "193",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/193_Secret Away.png"
-			}
-		},
-		{
-			"name": "Demigod",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Demigod",
-			"collector_number": "18",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/18_Demigod.png"
-			}
-		},
-		{
-			"name": "Demigod",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Demigod",
-			"collector_number": "16",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/16_Demigod.png"
-			}
-		},
-		{
-			"name": "Demigod",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Demigod",
-			"collector_number": "15",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/15_Demigod.png"
-			}
-		},
-		{
-			"name": "Demigod",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Demigod",
-			"collector_number": "14",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/14_Demigod.png"
-			}
-		},
-		{
-			"name": "Demigod",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Demigod",
-			"collector_number": "12",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/12_Demigod.png"
 			}
 		},
 		{
@@ -4021,36 +3801,6 @@
 			}
 		},
 		{
-			"name": "Soldier",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Soldier",
-			"collector_number": "26",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/26_Soldier.png"
-			}
-		},
-		{
-			"name": "Poison Counter",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "1",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/1_Poison Counter.png"
-			}
-		},
-		{
-			"name": "Ooze Horse",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Ooze Horse",
-			"collector_number": "7",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/7_Ooze Horse.png"
-			}
-		},
-		{
 			"name": "Marika's Head",
 			"rarity": "special",
 			"mana_cost": "{X}{3}",
@@ -4058,16 +3808,6 @@
 			"collector_number": "402",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/402_Marika's Head.png"
-			}
-		},
-		{
-			"name": "Shard",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Enchantment — Shard",
-			"collector_number": "4",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/4_Shard.png"
 			}
 		},
 		{
@@ -4088,76 +3828,6 @@
 			"collector_number": "196",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/196_The Three Fingers.png"
-			}
-		},
-		{
-			"name": "Wolf",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Wolf",
-			"collector_number": "30",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/30_Wolf.png"
-			}
-		},
-		{
-			"name": "Human Warrior",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Human",
-			"collector_number": "32",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/32_Human Warrior.png"
-			}
-		},
-		{
-			"name": "Skeleton",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Skeleton",
-			"collector_number": "22",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/22_Skeleton.png"
-			}
-		},
-		{
-			"name": "Dragon",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Dragon",
-			"collector_number": "25",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/25_Dragon.png"
-			}
-		},
-		{
-			"name": "Blood",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Artifact — Blood",
-			"collector_number": "33",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/33_Blood.png"
-			}
-		},
-		{
-			"name": "Map",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Artifact — Map",
-			"collector_number": "38",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/38_Map.png"
-			}
-		},
-		{
-			"name": "Everywhere",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Land",
-			"collector_number": "40",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/40_Everywhere.png"
 			}
 		},
 		{
@@ -4238,16 +3908,6 @@
 			"collector_number": "366",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/366_Rogier, Scholar of Death.png"
-			}
-		},
-		{
-			"name": "The Monarch",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/2_The Monarch.png"
 			}
 		},
 		{
@@ -4361,66 +4021,6 @@
 			}
 		},
 		{
-			"name": "King of the Storm",
-			"rarity": "special",
-			"mana_cost": "{4}{B}",
-			"type": "Legendary Creature — Dragon",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/0_King of the Storm.png"
-			}
-		},
-		{
-			"name": "Gaping Dragon",
-			"rarity": "special",
-			"mana_cost": "{1}{B}{G}",
-			"type": "Legendary Creature — Dragon",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/0_Gaping Dragon.png"
-			}
-		},
-		{
-			"name": "Centipede Demon",
-			"rarity": "special",
-			"mana_cost": "{2}{B}{R}",
-			"type": "Legendary Creature — Insect Demon",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/0_Centipede Demon.png"
-			}
-		},
-		{
-			"name": "Nameless King",
-			"rarity": "special",
-			"mana_cost": "{4}{W}{B}",
-			"type": "Legendary Creature — God",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/0_Nameless King.png"
-			}
-		},
-		{
-			"name": "Dancer of the Boreal Valley",
-			"rarity": "special",
-			"mana_cost": "{2}{U}{B}",
-			"type": "Legendary Creature — Horror Rogue",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/0_Dancer of the Boreal Valley.png"
-			}
-		},
-		{
-			"name": "Smelter Demon",
-			"rarity": "special",
-			"mana_cost": "{3}{B}",
-			"type": "Legendary Artifact Creature — Golem",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/0_Smelter Demon.png"
-			}
-		},
-		{
 			"name": "Snow Witch",
 			"rarity": "special",
 			"mana_cost": "{G}{U}",
@@ -4501,16 +4101,6 @@
 			}
 		},
 		{
-			"name": "Duke's Dear Freja",
-			"rarity": "special",
-			"mana_cost": "{3}{B}",
-			"type": "Legendary Creature — Spider Demon",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/0_Duke's Dear Freja.png"
-			}
-		},
-		{
 			"name": "Crumbling Farum Azula",
 			"rarity": "special",
 			"mana_cost": "",
@@ -4538,26 +4128,6 @@
 			"collector_number": "422",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/422_Consecrated Snowfield.png"
-			}
-		},
-		{
-			"name": "Swamp",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Basic Land — Swamp",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/0_Swamp.png"
-			}
-		},
-		{
-			"name": "Island",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Basic Land — Island",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/0_Island.png"
 			}
 		},
 		{
@@ -4711,16 +4281,6 @@
 			}
 		},
 		{
-			"name": "A Tarnished of No Renown",
-			"rarity": "special",
-			"mana_cost": "{3}",
-			"type": "Legendary Creature — Human",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/0_A Tarnished of No Renown.png"
-			}
-		},
-		{
 			"name": "Gnoster, Wisdom of Night",
 			"rarity": "special",
 			"mana_cost": "{4}{G}{U}",
@@ -4788,26 +4348,6 @@
 			"collector_number": "400",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/400_Iron Menial.png"
-			}
-		},
-		{
-			"name": "Construct",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Artifact Creature — Construct",
-			"collector_number": "35",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/35_Construct.png"
-			}
-		},
-		{
-			"name": "Faurtis",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Legendary Creature — Scorpion",
-			"collector_number": "28",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/28_Faurtis.png"
 			}
 		},
 		{
@@ -4951,56 +4491,6 @@
 			}
 		},
 		{
-			"name": "Plains",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/0_Plains.png"
-			}
-		},
-		{
-			"name": "Forest",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Basic Land — Forest",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/0_Forest.png"
-			}
-		},
-		{
-			"name": "Mountain",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Basic Land — Mountain",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/0_Mountain.png"
-			}
-		},
-		{
-			"name": "On An Adventure",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "3",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/3_On An Adventure.png"
-			}
-		},
-		{
-			"name": "Can Be Cast From Exile",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "1",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/1_Can Be Cast From Exile.png"
-			}
-		},
-		{
 			"name": "Restage",
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
@@ -5008,36 +4498,6 @@
 			"collector_number": "78",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/78_Restage.png"
-			}
-		},
-		{
-			"name": "Plant",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Plant",
-			"collector_number": "29",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/29_Plant.png"
-			}
-		},
-		{
-			"name": "Butterfly",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Insect",
-			"collector_number": "31",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/31_Butterfly.png"
-			}
-		},
-		{
-			"name": "Bird Spirit",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Bird Spirit",
-			"collector_number": "6",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/6_Bird Spirit.png"
 			}
 		},
 	]
@@ -5445,12 +4905,6 @@
 	1 Journey to the Haligtree
 	1 Giant Spirit Skeleton
 	1 Noklateo, the Shrouded City
-	1 King of the Storm
-	1 Gaping Dragon
-	1 Centipede Demon
-	1 Nameless King
-	1 Dancer of the Boreal Valley
-	1 Smelter Demon
 	1 Snow Witch
 	1 Fallingstar Beast
 	1 Scadutree Base
@@ -5459,7 +4913,6 @@
 	1 Mend the Elden Ring
 	1 Heolstor, the Nightlord
 	1 Libra, Equilibrious Beast
-	1 Duke's Dear Freja
 	1 Crumbling Farum Azula
 	1 Maris, Fathom of Night
 	1 Consecrated Snowfield
@@ -5478,7 +4931,6 @@
 	1 Redmane Castle
 	1 Elphael, Brace of the Haligtree
 	1 Leyndell, Ashen Capital
-	1 A Tarnished of No Renown
 	1 Gnoster, Wisdom of Night
 	1 Horned Warrior
 	1 Empyrean Bond

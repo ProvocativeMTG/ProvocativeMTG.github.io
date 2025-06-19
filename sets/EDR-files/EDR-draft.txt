@@ -311,13 +311,13 @@
 			}
 		},
 		{
-			"name": "Miséricorde",
+			"name": "Misericorde",
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
 			"collector_number": "406",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/406_Miséricorde.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/406_Misericorde.png"
 			}
 		},
 		{
@@ -4453,7 +4453,7 @@
 		{
 			"name": "O, Elden Ring!",
 			"rarity": "special",
-			"mana_cost": "{5}{W}{U}{B}{R}{G}",
+			"mana_cost": "{7}{W}{U}{B}{R}{G}",
 			"type": "Sorcery",
 			"collector_number": "347",
 			"image_uris": {
@@ -4611,13 +4611,13 @@
 			}
 		},
 		{
-			"name": "Adel, Baron of Night",
+			"name": "Adel, Gaping Jaw",
 			"rarity": "special",
 			"mana_cost": "{3}{U}{B}",
 			"type": "Legendary Creature — Dragon Horror",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/251_Adel, Baron of Night.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/251_Adel, Gaping Jaw.png"
 			}
 		},
 		{
@@ -5074,7 +5074,7 @@
 	1 Wander the Wastes
 	1 Miriel, Pastor of Vows
 	1 Scarlet Phantoms
-	1 Miséricorde
+	1 Misericorde
 	1 Juno Hoslow
 	1 Diallos Hoslow
 	1 Bell Bearing Hunter
@@ -5468,7 +5468,7 @@
 	1 A New Journey
 	1 In Search of Purpose
 	1 Melina and Torrent
-	1 Adel, Baron of Night
+	1 Adel, Gaping Jaw
 	1 Ironeye
 	1 Fire Knight Captain
 	1 Fulghor, Darkdrift Knight

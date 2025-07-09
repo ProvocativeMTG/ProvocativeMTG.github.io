@@ -21,7 +21,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Noirsnow",
-            "notes": ""
+            "notes": "!group common\n!sort 21"
         },
         {
             "card_name": "Brightborn Apostle",
@@ -39,7 +39,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Al Jerek Torrijas",
-            "notes": ""
+            "notes": "!group common\n!sort 02"
         },
         {
             "card_name": "Sylvua, Wyldwood Mother",
@@ -57,7 +57,7 @@
             "set": "SOL",
             "loyalty": "4",
             "artist": "India Lee Crews",
-            "notes": ""
+            "notes": "!group rare\n!sort 08"
         },
         {
             "card_name": "Touch of God",
@@ -75,7 +75,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Dorian Gerdji",
-            "notes": ""
+            "notes": "!group uncommon\n!sort 14"
         },
         {
             "card_name": "Eclipse Paladin",
@@ -93,7 +93,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Eryk Szczygieln",
-            "notes": ""
+            "notes": "!group uncommon\n!sort 05"
         },
         {
             "card_name": "Seeker of Atonement",
@@ -111,7 +111,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ilya Vatutin",
-            "notes": ""
+            "notes": "!group common\n!sort 18"
         },
         {
             "card_name": "Engine of Our Eden",
@@ -129,7 +129,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Minchen Peng",
-            "notes": ""
+            "notes": "!group rare\n!sort 06"
         },
         {
             "card_name": "They Shall Know Perdition",
@@ -147,7 +147,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Harshanad Singh",
-            "notes": ""
+            "notes": "!group rare\n!sort 04"
         },
         {
             "card_name": "Augur of Damnations",
@@ -165,7 +165,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Julio Caesar Oliveira Rocha",
-            "notes": ""
+            "notes": "!group rare\n!sort 0"
         },
         {
             "card_name": "Gilded Gargoyle",
@@ -183,7 +183,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Eryk Szczygiel",
-            "notes": ""
+            "notes": "!group uncommon\n!sort 07"
         },
         {
             "card_name": "Petalwisp Weaver",
@@ -201,7 +201,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "F3LC4T",
-            "notes": ""
+            "notes": "!group uncommon\n!sort 11"
         },
         {
             "card_name": "Execute for Blasphemy",
@@ -219,7 +219,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Eryk Szczygiel",
-            "notes": ""
+            "notes": "!group common\n!sort 07"
         },
         {
             "card_name": "Odeon, Goldmask Rogue",
@@ -247,7 +247,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Jae Park",
-            "notes": ""
+            "notes": "!group rare\n!sort 07"
         },
         {
             "card_name": "Devour Tender Flesh",
@@ -265,7 +265,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nick Keller",
-            "notes": ""
+            "notes": "!group common\n!sort 04"
         },
         {
             "card_name": "Go to Hell",
@@ -283,7 +283,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nick Keller",
-            "notes": ""
+            "notes": "!group uncommon\n!sort 08"
         },
         {
             "card_name": "Infernal Torturer",
@@ -301,7 +301,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Sygdom",
-            "notes": ""
+            "notes": "!group uncommon\n!sort 09"
         },
         {
             "card_name": "Legate Sparkweaver",
@@ -319,7 +319,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Melissa Spandri",
-            "notes": ""
+            "notes": "!group common\n!sort 11"
         },
         {
             "card_name": "Glint-Edge Knight",
@@ -337,7 +337,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Mircea Nicula",
-            "notes": ""
+            "notes": "!group common\n!sort 08"
         },
         {
             "card_name": "Coaxer of the Cycle",
@@ -355,7 +355,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Oksana Kerro",
-            "notes": ""
+            "notes": "!group uncommon\n!sort 03"
         },
         {
             "card_name": "Shackled Phantom",
@@ -373,7 +373,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Jens Lindfors",
-            "notes": ""
+            "notes": "!group common\n!sort 20"
         },
         {
             "card_name": "Arbiter of Purity",
@@ -391,7 +391,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ilya Vatutin",
-            "notes": ""
+            "notes": "!group uncommon\n!sort 01"
         },
         {
             "card_name": "Surgeblade Duelist",
@@ -409,7 +409,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Konstantin Vavilov",
-            "notes": ""
+            "notes": "!group uncommon\n!sort 12"
         },
         {
             "card_name": "Dawn's Herald",
@@ -437,7 +437,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Athrodr",
-            "notes": ""
+            "notes": "!group uncommon\n!sort 04"
         },
         {
             "card_name": "Hell's Chorus",
@@ -455,7 +455,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Athrodr",
-            "notes": ""
+            "notes": "!group rare\n!sort 02"
         },
         {
             "card_name": "Protean Scion",
@@ -473,7 +473,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Athrodr",
-            "notes": ""
+            "notes": "!group rare\n!sort 03"
         },
         {
             "card_name": "Cobbled Equine",
@@ -491,7 +491,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "kirinkarwai",
-            "notes": ""
+            "notes": "!group common\n!sort 03"
         },
         {
             "card_name": "Blightweaver Exarch",
@@ -509,7 +509,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Midigan",
-            "notes": ""
+            "notes": "!group uncommon\n!sort 02"
         },
         {
             "card_name": "Marble Arbiter",
@@ -527,7 +527,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Sergei Sarichev",
-            "notes": ""
+            "notes": "!group common\n!sort 12"
         },
         {
             "card_name": "Lux Potentate",
@@ -545,7 +545,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Gibbs Santos",
-            "notes": "Arcun"
+            "notes": "!group uncommon\n!sort 10"
         },
         {
             "card_name": "Weave Infinity",
@@ -563,7 +563,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Jo Cordisco",
-            "notes": "Arcun"
+            "notes": "!group uncommon\n!sort 15"
         },
         {
             "card_name": "Wrathful Judgment",
@@ -581,7 +581,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Kir Malov",
-            "notes": "Arcun"
+            "notes": "!group uncommon\n!sort 16"
         },
         {
             "card_name": "Tiller of the Damned",
@@ -599,7 +599,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Matt Cowdery",
-            "notes": "Arcun"
+            "notes": "!group uncommon\n!sort 13"
         },
         {
             "card_name": "Field Studies",
@@ -617,7 +617,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Acrassan",
-            "notes": "Arcun"
+            "notes": "!group uncommon\n!sort 06"
         },
         {
             "card_name": "Heaventouched Sentinel",
@@ -635,7 +635,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Maros Manhardt",
-            "notes": ""
+            "notes": "!group common\n!sort 10"
         },
         {
             "card_name": "Grotesque Abomination",
@@ -653,7 +653,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Michal Matczak",
-            "notes": ""
+            "notes": "!group common\n!sort 09"
         },
         {
             "card_name": "Phytolich's Research",
@@ -671,7 +671,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Matt Rhodes",
-            "notes": ""
+            "notes": "!group common\n!sort 14"
         },
         {
             "card_name": "Elbrine Stormcaller",
@@ -689,7 +689,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Tomasz Jedruszek",
-            "notes": ""
+            "notes": "!group common\n!sort 05"
         },
         {
             "card_name": "Enclave Piercer",
@@ -707,7 +707,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "NUARE",
-            "notes": ""
+            "notes": "!group common\n!sort 06"
         },
         {
             "card_name": "Ambling Ruins",
@@ -725,7 +725,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Kent Davis",
-            "notes": ""
+            "notes": "!group common\n!sort 01"
         },
         {
             "card_name": "Misshapen Buck",
@@ -743,7 +743,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Lorenzo Mastroianni",
-            "notes": ""
+            "notes": "!group common\n!sort 13"
         },
         {
             "card_name": "Ritual of Negation",
@@ -761,7 +761,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Giulio D'Amico",
-            "notes": ""
+            "notes": "!group common\n!sort 16"
         },
         {
             "card_name": "Prism of Portents",
@@ -779,7 +779,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "JasonTN",
-            "notes": ""
+            "notes": "!group common\n!sort 15"
         },
         {
             "card_name": "Ancient Archengine",
@@ -797,7 +797,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Chi Huei Chen",
-            "notes": ""
+            "notes": "!group rare\n!sort 05"
         },
         {
             "card_name": "Sentence to the Gaol",
@@ -815,7 +815,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Matt Cowdery",
-            "notes": ""
+            "notes": "!group common\n!sort 19"
         },
         {
             "card_name": "Rock Scorpion",
@@ -833,7 +833,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Asim A. Steckel",
-            "notes": ""
+            "notes": "!group common\n!sort 17"
         }
     ]
 }

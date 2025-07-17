@@ -774,8 +774,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Cloak of Miasma",
-        "number": 161,
+        "card_name": "Ambling Ruins",
+        "number": 158,
         "shape": "normal",
         "set": "SOL"
     },
@@ -804,8 +804,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Cobbled Equine",
-        "number": 164,
+        "card_name": "Cloak of Miasma",
+        "number": 161,
         "shape": "normal",
         "set": "SOL"
     },
@@ -834,8 +834,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Everwatching Widow",
-        "number": 166,
+        "card_name": "Cobbled Equine",
+        "number": 164,
         "shape": "normal",
         "set": "SOL"
     },
@@ -858,14 +858,14 @@
         "set": "SOL"
     },
     {
-        "card_name": "Enclave Piercer",
-        "number": 135,
+        "card_name": "Devour Tender Flesh",
+        "number": 133,
         "shape": "normal",
         "set": "SOL"
     },
     {
-        "card_name": "Feverbite Winder",
-        "number": 168,
+        "card_name": "Everwatching Widow",
+        "number": 166,
         "shape": "normal",
         "set": "SOL"
     },
@@ -888,6 +888,36 @@
         "set": "SOL"
     },
     {
+        "card_name": "Enclave Piercer",
+        "number": 135,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Feverbite Winder",
+        "number": 168,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Lightborn Apostle",
+        "number": 21,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Extan Steelshifter",
+        "number": 52,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Grotesque Abomination",
+        "number": 95,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
         "card_name": "Extan Knight-Errant",
         "number": 137,
         "shape": "normal",
@@ -906,8 +936,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Extan Steelshifter",
-        "number": 52,
+        "card_name": "Gaze Inward",
+        "number": 54,
         "shape": "normal",
         "set": "SOL"
     },
@@ -936,8 +966,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Gaze Inward",
-        "number": 54,
+        "card_name": "Glint-Edge Knight",
+        "number": 56,
         "shape": "normal",
         "set": "SOL"
     },
@@ -966,8 +996,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Glint-Edge Knight",
-        "number": 56,
+        "card_name": "Josiah's Bulwark",
+        "number": 60,
         "shape": "normal",
         "set": "SOL"
     },
@@ -978,8 +1008,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Skull Summoner",
-        "number": 151,
+        "card_name": "Rock Scorpion",
+        "number": 147,
         "shape": "normal",
         "set": "SOL"
     },
@@ -996,8 +1026,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Josiah's Bulwark",
-        "number": 60,
+        "card_name": "Marble Arbiter",
+        "number": 61,
         "shape": "normal",
         "set": "SOL"
     },
@@ -1008,8 +1038,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Thunderous Corruscation",
-        "number": 153,
+        "card_name": "Skull Summoner",
+        "number": 151,
         "shape": "normal",
         "set": "SOL"
     },
@@ -1020,38 +1050,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Startouched Wayfarer",
-        "number": 34,
-        "shape": "normal",
-        "set": "SOL"
-    },
-    {
-        "card_name": "Marble Arbiter",
-        "number": 61,
-        "shape": "normal",
-        "set": "SOL"
-    },
-    {
-        "card_name": "Shadowborn Apostle",
-        "number": 111,
-        "shape": "normal",
-        "set": "SOL"
-    },
-    {
-        "card_name": "To Stone and Ash",
-        "number": 154,
-        "shape": "normal",
-        "set": "SOL"
-    },
-    {
-        "card_name": "See Worlds Beyond",
-        "number": 188,
-        "shape": "normal",
-        "set": "SOL"
-    },
-    {
-        "card_name": "Steelwrought Sunblade",
-        "number": 36,
+        "card_name": "Sentence to the Gaol",
+        "number": 30,
         "shape": "normal",
         "set": "SOL"
     },
@@ -1062,26 +1062,26 @@
         "set": "SOL"
     },
     {
-        "card_name": "Spindlewail",
-        "number": 112,
+        "card_name": "Shadowborn Apostle",
+        "number": 111,
         "shape": "normal",
         "set": "SOL"
     },
     {
-        "card_name": "Voidhungry Avatar",
-        "number": 156,
+        "card_name": "Thunderous Corruscation",
+        "number": 153,
         "shape": "normal",
         "set": "SOL"
     },
     {
-        "card_name": "Sprouting Sentinel",
-        "number": 190,
+        "card_name": "See Worlds Beyond",
+        "number": 188,
         "shape": "normal",
         "set": "SOL"
     },
     {
-        "card_name": "Unleashed Guardian",
-        "number": 38,
+        "card_name": "Startouched Wayfarer",
+        "number": 34,
         "shape": "normal",
         "set": "SOL"
     },
@@ -1092,14 +1092,44 @@
         "set": "SOL"
     },
     {
+        "card_name": "Spindlewail",
+        "number": 112,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "To Stone and Ash",
+        "number": 154,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Sprouting Sentinel",
+        "number": 190,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Steelwrought Sunblade",
+        "number": 36,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Seraph of Storms",
+        "number": 70,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
         "card_name": "Unnatural Hunger",
         "number": 116,
         "shape": "normal",
         "set": "SOL"
     },
     {
-        "card_name": "Whisperer of Pale Boons",
-        "number": 157,
+        "card_name": "Voidhungry Avatar",
+        "number": 156,
         "shape": "normal",
         "set": "SOL"
     },
@@ -1110,11 +1140,14 @@
         "set": "SOL"
     },
     {
-        "card_name": "e"
+        "card_name": "Unleashed Guardian",
+        "number": 38,
+        "shape": "normal",
+        "set": "SOL"
     },
     {
-        "card_name": "Seraph of Storms",
-        "number": 70,
+        "card_name": "Silver Suitor",
+        "number": 71,
         "shape": "normal",
         "set": "SOL"
     },
@@ -1125,32 +1158,14 @@
         "set": "SOL"
     },
     {
-        "card_name": "e"
+        "card_name": "Whisperer of Pale Boons",
+        "number": 157,
+        "shape": "normal",
+        "set": "SOL"
     },
     {
         "card_name": "Swelling Growth",
         "number": 193,
-        "shape": "normal",
-        "set": "SOL"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Silver Suitor",
-        "number": 71,
-        "shape": "normal",
-        "set": "SOL"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Sylvua's Dryad",
-        "number": 194,
         "shape": "normal",
         "set": "SOL"
     },
@@ -1170,7 +1185,10 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Sylvua's Dryad",
+        "number": 194,
+        "shape": "normal",
+        "set": "SOL"
     },
     {
         "card_name": "er"
@@ -1264,7 +1282,10 @@
         "set": "SOL"
     },
     {
-        "card_name": "e"
+        "card_name": "Field Testing",
+        "number": 210,
+        "shape": "normal",
+        "set": "SOL"
     },
     {
         "card_name": "Wyldwood Guardian",
@@ -1511,6 +1532,12 @@
         "set": "SOL"
     },
     {
+        "card_name": "Prism of Portents",
+        "number": 240,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
         "card_name": "Sol Herald",
         "number": 244,
         "shape": "normal",
@@ -1527,9 +1554,6 @@
         "number": 246,
         "shape": "normal",
         "set": "SOL"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"

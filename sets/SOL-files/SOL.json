@@ -2187,7 +2187,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Kent Davis",
-            "notes": "!group common\n!sort 01"
+            "notes": ""
         },
         {
             "card_name": "Devour Tender Flesh",
@@ -2205,7 +2205,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nick Keller",
-            "notes": "!group common\n!sort 04"
+            "notes": ""
         },
         {
             "card_name": "Grotesque Abomination",
@@ -2223,7 +2223,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Michal Matczak",
-            "notes": "!group common\n!sort 09"
+            "notes": ""
         },
         {
             "card_name": "Lightborn Apostle",
@@ -2241,7 +2241,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Al Jerek Torrijas",
-            "notes": "!group common\n!sort 02"
+            "notes": ""
         },
         {
             "card_name": "Prism of Portents",
@@ -2259,7 +2259,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "JasonTN",
-            "notes": "!group common\n!sort 15"
+            "notes": ""
         },
         {
             "card_name": "Rock Scorpion",
@@ -2277,7 +2277,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Asim A. Steckel",
-            "notes": "!group common\n!sort 17"
+            "notes": ""
         },
         {
             "card_name": "Sentence to the Gaol",
@@ -2295,7 +2295,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Matt Cowdery",
-            "notes": "!group common\n!sort 19"
+            "notes": ""
         },
         {
             "card_name": "Field Testing",
@@ -2313,7 +2313,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Acrassan",
-            "notes": "!group uncommon\n!sort 06"
+            "notes": ""
         },
         {
             "card_name": "Blood-Cursed Diabolist",
@@ -4763,7 +4763,7 @@
             "number": 251,
             "color_identity": "W",
             "cost": "",
-            "rules_text": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {W}.\n{2}{W}, {T}: Look at the top four cards of your library. You may put a creature card with power 1 or less from among them into your hand. Put the rest on the bottom of your library in a random order.",
+            "rules_text": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {W}.\n{2}{W}, {T}: Look at the top four cards of your library. You may reveal a creature card with power 1 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5026,5 +5026,5 @@
             "notes": ""
         }
     ],
-    "version": 3
+    "version": 4
 }

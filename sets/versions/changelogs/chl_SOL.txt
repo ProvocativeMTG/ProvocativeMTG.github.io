@@ -1,4 +1,33 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Ambling Ruins
+
+Devour Tender Flesh
+
+Grotesque Abomination
+
+Lightborn Apostle
+
+Prism of Portents
+
+Rock Scorpion
+
+Sentence to the Gaol
+
+Field Testing
+
+Desecrated Monument
+rules_text: This land enters tapped unless you control two or fewer other lands.
+{T}: Add {W}.
+{2}{W}, {T}: Look at the top four cards of your library. You may put a creature card with power 1 or less from among them into your hand. Put the rest on the bottom of your library in a random order. => This land enters tapped unless you control two or fewer other lands.
+{T}: Add {W}.
+{2}{W}, {T}: Look at the top four cards of your library. You may reveal a creature card with power 1 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 No changes.

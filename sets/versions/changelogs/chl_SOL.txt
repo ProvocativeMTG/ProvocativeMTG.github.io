@@ -1,4 +1,349 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Josiah, Bitter Survivor added.
+Scion of Heaven and Hell added.
+Persistent Contagion added.
+Mother of Hands added.
+Shadowbane Paladin added.
+Artisan of Undeath added.
+Dust to Flesh to Dust added.
+At Any Cost added.
+Scourge Taskmaster added.
+Staunch Purifier added.
+Ripples of Rebirth added.
+Stonesprung Spirit added.
+Death's Undoing added.
+Sanguis Sanctorum added.
+Reygias, Lord Phytolich added.
+Stonework Angel added.
+Whisperer of Sweetest Lies added.
+Flame-Scarred Abomination added.
+Kael-dun Inquisitor added.
+Terithius, the Iron Mind added.
+Sphere of Isolation added.
+Ancient Transmutation added.
+Aos, Augur of Damnations added.
+Grit added.
+Eira, Selfless Paladin added.
+Breaker of Reality added.
+Ironclad Necromancers added.
+Glittering Gargoyle added.
+Tessa, Saint Reborn added.
+Cradle of Nascence added.
+Ijara, the Last Teluran added.
+Petalwisp Whisperer added.
+Wyldwood Dryad added.
+Emperor Thuraxes IV added.
+Fascimile of Gods added.
+Blood added.
+Hellfire Ballista added.
+Wyldwood Ceremony added.
+Ironblessed Inquisitor added.
+All are Slave to Time added.
+Josiah's Betrayal added.
+Herald of an Age of Iron added.
+The Memory Terminal added.
+Clarion Paladin added.
+Paladin of Fury added.
+Walk Out of Hell added.
+Calamity Tyrant added.
+Reweaver of Thuraxes added.
+Putrescent Branchstalker added.
+Flesh and Bone Yield Easily added.
+Teluran Sarcophagus added.
+Carrion-Cutter Seraph added.
+Bejeweled Dragon added.
+Auctor of the Testament added.
+Thunderous Corruscation added.
+Scion of the Skies added.
+Exalted Persecutor added.
+Cleave the Soul added.
+Soulbound Chassis added.
+Smoldering Tormentor added.
+Sol Construct added.
+Leonin Shadowcaster added.
+Blightchoke Exarch added.
+Grinning Serpent added.
+Overmorrow's Architect added.
+Sentient Artificer added.
+Endless Tome added.
+Twisting Steel added.
+Viscera Cultist added.
+Twinferno Summoner added.
+Sylvua's Reckoning added.
+Wyldwood Guardian added.
+Blighted Theologist added.
+Muck Fiends added.
+Choir of Doubt added.
+Rusted Colossus added.
+Ephiridian Tunneler added.
+Forlorn Knight added.
+Everwatching Widow added.
+Drown in Fear added.
+Elbrine Thundercaller added.
+Feverbite Winder added.
+Heart of the Wyldwood added.
+Sylvua's Dryad added.
+Plated Leviathan added.
+Eldest Archengine added.
+Lightborn Apostle added.
+Field Testing added.
+Blood-Cursed Diabolist added.
+Whisperer of Pale Boons added.
+Valentina, Dread Impaler added.
+Joy in Bright Chaos added.
+Bismuth Guardian added.
+Finecraft Seraph added.
+Rotten Communion added.
+Steelskin Pilgrim added.
+Radiant Sunwright added.
+Extan Steelshifter added.
+Startouched Wayfarer added.
+Vampire Dragon added.
+Clockwork Arachnid added.
+Lotus Cultivator added.
+Boiling Fury added.
+Disdainful Stroke added.
+Bismuth Skycity added.
+Knight of the Thorn added.
+Choking Grief added.
+Extan Runeweaving added.
+Pull of Heaven added.
+Lifeblood Imitation added.
+Unnatural Hunger added.
+Spindlewail added.
+Belltower Haunt added.
+Stitched Pontiff added.
+See Worlds Beyond added.
+Swelling Growth added.
+Cloak of Miasma added.
+Life and Death added.
+Virulent Husk added.
+Sprouting Sentinel added.
+Nascent Lich added.
+Stump Brute added.
+Silver Suitor added.
+Unleashed Guardian added.
+By Heaven's Decree added.
+Devotion Rewarded added.
+Banishing Thrust added.
+Herald of the Clarion added.
+Noble Steed added.
+Champion of Relos added.
+Paladin of Sacred Testament added.
+Steelwrought Sunblade added.
+Prophet of Rheydia added.
+Blessed Feathers added.
+Gaze Inward added.
+Weigh the Soul added.
+Among the Lily Pads added.
+Call Beyond added.
+Seraph of Storms added.
+Josiah's Bulwark added.
+Soldier added.
+To Stone and Ash added.
+Cleave the Blood of Gods added.
+Cruel Heartstealer added.
+Biting Pain added.
+Molten Bloodhunter added.
+Skull Summoner added.
+Knight added.
+Golem added.
+Extan Knight-Errant added.
+Voidhungry Avatar added.
+Sol Herald added.
+Evolving Wilds added.
+Burning Eyebeam added.
+Glorious Protoseraph added.
+March Against Fate added.
+Bismuth Archdeacon added.
+Bismuth Cube added.
+Augmented Dragon added.
+Oracle of the Extan added.
+Forsaken Chalkmason added.
+Eluriel, Final Evolution added.
+Page of Gold added.
+Veintwinned Harp added.
+Encased in Gold added.
+Icon of the Blessed Horde added.
+Aureate Partizan added.
+Suncrowned Lion added.
+Wyldwood Sanctifier added.
+Celestial Mandate added.
+Ashen Lichlord added.
+Soulchained Remnant added.
+Sacred Sacrament added.
+Scion of Blossoms added.
+Living Littany added.
+Runic Lockdown added.
+Dracolich's Mastery added.
+Messengers of the Void added.
+Engines of Hell added.
+Birth from Blood added.
+Mad Tormentor added.
+Starsent Speaker added.
+Generated Voidling added.
+Fell Demiurge added.
+Confounding Cambion added.
+Sylvua's Wyldbeast added.
+Undeath's Domination added.
+Lotus Tender added.
+Influence the Scales added.
+Thorn Dragoon added.
+One Man Army added.
+Voidbound Lightstealer added.
+Day of Calamity added.
+Blighted Binding added.
+Natural Artifice added.
+Jailer's Ire added.
+Osteogenesis added.
+Feed On the Crimson Sun added.
+Bog Ghoul added.
+Lady of the Lilies added.
+Ensouled Stones added.
+Verox, the Forgelord added.
+Portents of Blood added.
+Gateway Protector added.
+Shepherding the Rot added.
+Braintree Divination added.
+Descent into Chaos added.
+Nexus Serasphinx added.
+Scion of Thuraxes added.
+Doom Monarch added.
+Scarlet Liturgy added.
+Starsent Angel added.
+Clamber to the Light added.
+Endure Hell added.
+Dimension Dancer added.
+Gilded Maiden added.
+Sword of Josiah added.
+Shepherd of Shadows added.
+Teluran Gardens added.
+Resurgent Ruins added.
+Charged Confluence added.
+Shattered Spires added.
+Hallowed Church added.
+Desecrated Monument added.
+Shattered Peak added.
+Zombie added.
+Treasure added.
+Black Lotus added.
+Dragon added.
+Warrior added.
+Iron Wastes added.
+Angel added.
+Angel Demon added.
+
+Brightborn Apostle removed.
+Augur of Damnations removed.
+Gilded Gargoyle removed.
+Petalwisp Weaver removed.
+Blightweaver Exarch removed.
+Field Studies removed.
+Elbrine Stormcaller removed.
+Ancient Archengine removed.
+
+Shadowborn Apostle
+
+Sylvua, Wyldwood Mother
+
+Touch of God
+type: Instant => Sorcery
+rules_text: Return target creature or planeswalker to its owner's hand. If you controlled that permanent, surveil 2. => Return target creature or planeswalker to its owner's hand. If you controlled that permanent, draw a card.
+
+Eclipse Paladin
+
+Seeker of Atonement
+rules_text: Whenever this creature becomes tapped, untap it and you gain 1 life. This ability triggers only once each turn. => Whenever you create a token, put a +1/+1 counter on this creature.
+pt: 2/2 => 1/1
+
+Engine of Our Eden
+
+They Shall Know Perdition
+
+Execute for Blasphemy
+
+Odeon, Goldmask Rogue
+
+Go to Hell
+
+Infernal Torturer
+
+Legate Sparkweaver
+
+Glint-Edge Knight
+
+Coaxer of the Cycle
+
+Shackled Phantom
+
+Arbiter of Purity
+rules_text: Whenever another creature you control with base power and toughness 1/1 enters, put a +1/+1 counter on this creature.
+Soulsplit {3}{W} [i]({3}{W}: Create a 1/1 token copy of this creature without this ability. Activate only as a sorcery and only once.)[/i] => Whenever another creature you control with base power 1 or less enters, put a +1/+1 counter on this creature.
+Soulsplit {3}{W} [i]({3}{W}: Create a 1/1 token copy of this creature without this ability. Activate only as a sorcery and only once.)[/i]
+
+Surgeblade Duelist
+
+Dawn's Herald
+
+Hell's Chorus
+cost: {1}{R} => {R}{R}
+
+Protean Scion
+type: Artifact Creature — Elemental => Artifact Creature — Construct
+pt: 2/2 => 3/2
+
+Cobbled Equine
+
+Marble Arbiter
+
+Lux Potentate
+
+Weave Infinity
+
+Wrathful Judgment
+
+Tiller of the Damned
+
+Heaventouched Sentinel
+cost: {4}{W} => {4}{W}{W}
+pt: 3/4 => 4/4
+
+Phytolich's Research
+
+Enclave Piercer
+rules_text: Whenever you discard a card, put a +1/+1 counter on this creature. This ability triggers only once each turn.
+{3}{R}, Sacrifice this creature: It deals damage equal to its power to target creature an opponent controls. => Whenever you discard a card, put a +1/+1 counter on this creature. This ability triggers only once each turn.
+{3}{R}, Seal 3, Sacrifice this creature: It deals damage equal to its power to target creature an opponent controls. [i](To seal 3, exile up to three cards with three or more card types among them from your graveyard.)[/i]
+
+Misshapen Buck
+
+Ritual of Negation
+
+Ambling Ruins
+
+Devour Tender Flesh
+
+Grotesque Abomination
+
+Prism of Portents
+cost: {2} => {1}
+rules_text: When Prism of Portents enters the battlefield, you may draw two cards. If you do, discard two cards.
+{1}, {T}: Add one mana of any color. => When this artifact enters, draw a card, then discard a card.
+{1}, {T}: Add one mana of any color.
+
+Rock Scorpion
+rules_text: {T}: This creature deals 2 damage to each opponent.
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i] => Reach
+{T}, Seal 2: This creature deals 2 damage to each opponent. [i](To seal 2, exile up to two cards with two or more card types among them from your graveyard.)[/i]
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i]
+pt: 4/4 => 5/5
+
+Sentence to the Gaol
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

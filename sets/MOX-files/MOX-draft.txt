@@ -1,4 +1,4 @@
-[CustomCards]
+﻿[CustomCards]
 	[
 		{
 			"name": "Candlelight Hexcrafter",
@@ -2279,7 +2279,7 @@
 			"image_uris": {
 				"en": "https://ProvocativeMTG.hithub.io/sets/MOX-files/img/4_Human (2).png"
 			}
-		},
+		}
 	]
 
 [rare(1)]

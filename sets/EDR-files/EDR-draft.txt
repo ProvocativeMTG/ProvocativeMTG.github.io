@@ -1,4 +1,4 @@
-[CustomCards]
+﻿[CustomCards]
 	[
 		{
 			"name": "The Elden Beast",
@@ -5039,7 +5039,7 @@
 			"image_uris": {
 				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/6_Bird Spirit.png"
 			}
-		},
+		}
 	]
 
 [cube(15)]

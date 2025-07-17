@@ -49,7 +49,7 @@
     },
     {
         "card_name": "Paladin of Fury",
-        "number": 145,
+        "number": 146,
         "shape": "normal",
         "set": "SOL"
     },
@@ -229,7 +229,7 @@
     },
     {
         "card_name": "Scarlet Liturgy",
-        "number": 148,
+        "number": 149,
         "shape": "normal",
         "set": "SOL"
     },
@@ -265,7 +265,7 @@
     },
     {
         "card_name": "Stonesprung Spirit",
-        "number": 191,
+        "number": 190,
         "shape": "normal",
         "set": "SOL"
     },
@@ -295,7 +295,7 @@
     },
     {
         "card_name": "Sylvua's Wyldbeast",
-        "number": 195,
+        "number": 194,
         "shape": "normal",
         "set": "SOL"
     },
@@ -325,7 +325,7 @@
     },
     {
         "card_name": "Virulent Husk",
-        "number": 196,
+        "number": 195,
         "shape": "normal",
         "set": "SOL"
     },
@@ -588,7 +588,7 @@
         "set": "SOL"
     },
     {
-        "card_name": "Infernal Torturer",
+        "card_name": "Implement of Thuraxes",
         "number": 141,
         "shape": "normal",
         "set": "SOL"
@@ -618,8 +618,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Mad Tormentor",
-        "number": 143,
+        "card_name": "Infernal Torturer",
+        "number": 142,
         "shape": "normal",
         "set": "SOL"
     },
@@ -648,8 +648,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Portents of Blood",
-        "number": 146,
+        "card_name": "Mad Tormentor",
+        "number": 144,
         "shape": "normal",
         "set": "SOL"
     },
@@ -678,15 +678,15 @@
         "set": "SOL"
     },
     {
-        "card_name": "Scion of Thuraxes",
-        "number": 149,
+        "card_name": "Portents of Blood",
+        "number": 147,
         "shape": "normal",
         "set": "SOL"
     },
     {
-        "card_name": "Scion of the Skies",
-        "number": 187,
-        "shape": "transform double faced",
+        "card_name": "Shepherding the Rot",
+        "number": 188,
+        "shape": "normal",
         "set": "SOL"
     },
     {
@@ -714,9 +714,9 @@
         "set": "SOL"
     },
     {
-        "card_name": "Shepherding the Rot",
-        "number": 189,
-        "shape": "normal",
+        "card_name": "Ward of the Skies",
+        "number": 196,
+        "shape": "transform double faced",
         "set": "SOL"
     },
     {
@@ -949,7 +949,7 @@
     },
     {
         "card_name": "Legate Sparkweaver",
-        "number": 142,
+        "number": 143,
         "shape": "normal",
         "set": "SOL"
     },
@@ -979,7 +979,7 @@
     },
     {
         "card_name": "Molten Bloodhunter",
-        "number": 144,
+        "number": 145,
         "shape": "normal",
         "set": "SOL"
     },
@@ -1009,7 +1009,7 @@
     },
     {
         "card_name": "Rock Scorpion",
-        "number": 147,
+        "number": 148,
         "shape": "normal",
         "set": "SOL"
     },
@@ -1075,7 +1075,7 @@
     },
     {
         "card_name": "See Worlds Beyond",
-        "number": 188,
+        "number": 187,
         "shape": "normal",
         "set": "SOL"
     },
@@ -1105,7 +1105,7 @@
     },
     {
         "card_name": "Sprouting Sentinel",
-        "number": 190,
+        "number": 189,
         "shape": "normal",
         "set": "SOL"
     },
@@ -1135,7 +1135,7 @@
     },
     {
         "card_name": "Stump Brute",
-        "number": 192,
+        "number": 191,
         "shape": "normal",
         "set": "SOL"
     },
@@ -1165,7 +1165,7 @@
     },
     {
         "card_name": "Swelling Growth",
-        "number": 193,
+        "number": 192,
         "shape": "normal",
         "set": "SOL"
     },
@@ -1186,7 +1186,7 @@
     },
     {
         "card_name": "Sylvua's Dryad",
-        "number": 194,
+        "number": 193,
         "shape": "normal",
         "set": "SOL"
     },
@@ -1590,7 +1590,7 @@
         "set": "SOL"
     },
     {
-        "card_name": "Hallowed Church",
+        "card_name": "Hollow Church",
         "number": 253,
         "shape": "normal",
         "set": "SOL"

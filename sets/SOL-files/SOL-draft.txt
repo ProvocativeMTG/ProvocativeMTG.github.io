@@ -159,9 +159,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Artifact Creature — Spirit",
-			"collector_number": "191",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/191_Stonesprung Spirit.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/190_Stonesprung Spirit.png"
 			}
 		},
 		{
@@ -546,9 +546,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Human Knight",
-			"collector_number": "145",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/145_Paladin of Fury.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/146_Paladin of Fury.png"
 			}
 		},
 		{
@@ -643,9 +643,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "141",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/141_Infernal Torturer.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/142_Infernal Torturer.png"
 			}
 		},
 		{
@@ -673,9 +673,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "142",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/142_Legate Sparkweaver.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/143_Legate Sparkweaver.png"
 			}
 		},
 		{
@@ -739,20 +739,20 @@
 			}
 		},
 		{
-			"name": "Scion of the Skies",
+			"name": "Ward of the Skies",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Knight",
-			"collector_number": "187",
+			"collector_number": "196",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/187_Scion of the Skies_back.png"
+					"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/196_Ward of the Skies_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/187_Scion of the Skies_front.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/196_Ward of the Skies_front.png"
 			}
 		},
 		{
@@ -1177,9 +1177,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Dryad",
-			"collector_number": "194",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/194_Sylvua's Dryad.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/193_Sylvua's Dryad.png"
 			}
 		},
 		{
@@ -1267,9 +1267,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Artifact Creature — Scorpion",
-			"collector_number": "147",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/147_Rock Scorpion.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/148_Rock Scorpion.png"
 			}
 		},
 		{
@@ -1564,9 +1564,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "188",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/188_See Worlds Beyond.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/187_See Worlds Beyond.png"
 			}
 		},
 		{
@@ -1574,9 +1574,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
-			"collector_number": "193",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/193_Swelling Growth.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/192_Swelling Growth.png"
 			}
 		},
 		{
@@ -1604,9 +1604,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Plant Skeleton",
-			"collector_number": "196",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/196_Virulent Husk.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/195_Virulent Husk.png"
 			}
 		},
 		{
@@ -1614,9 +1614,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact Creature — Knight",
-			"collector_number": "190",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/190_Sprouting Sentinel.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/189_Sprouting Sentinel.png"
 			}
 		},
 		{
@@ -1634,9 +1634,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "192",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/192_Stump Brute.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/191_Stump Brute.png"
 			}
 		},
 		{
@@ -1874,9 +1874,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Demon",
-			"collector_number": "144",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/144_Molten Bloodhunter.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/145_Molten Bloodhunter.png"
 			}
 		},
 		{
@@ -2224,9 +2224,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Horror Knight",
-			"collector_number": "143",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/143_Mad Tormentor.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/144_Mad Tormentor.png"
 			}
 		},
 		{
@@ -2274,9 +2274,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "195",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/195_Sylvua's Wyldbeast.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/194_Sylvua's Wyldbeast.png"
 			}
 		},
 		{
@@ -2444,9 +2444,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "146",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/146_Portents of Blood.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/147_Portents of Blood.png"
 			}
 		},
 		{
@@ -2464,9 +2464,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
-			"collector_number": "189",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/189_Shepherding the Rot.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/188_Shepherding the Rot.png"
 			}
 		},
 		{
@@ -2500,13 +2500,13 @@
 			}
 		},
 		{
-			"name": "Scion of Thuraxes",
+			"name": "Implement of Thuraxes",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "149",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/149_Scion of Thuraxes.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/141_Implement of Thuraxes.png"
 			}
 		},
 		{
@@ -2524,9 +2524,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Enchantment",
-			"collector_number": "148",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/148_Scarlet Liturgy.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/149_Scarlet Liturgy.png"
 			}
 		},
 		{
@@ -2640,13 +2640,13 @@
 			}
 		},
 		{
-			"name": "Hallowed Church",
+			"name": "Hollow Church",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/253_Hallowed Church.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/253_Hollow Church.png"
 			}
 		},
 		{
@@ -2880,7 +2880,7 @@
 	2 Resurgent Ruins
 	2 Charged Confluence
 	2 Shattered Spires
-	2 Hallowed Church
+	2 Hollow Church
 	2 Desecrated Monument
 [uncommon(3)]
 	4 Persistent Contagion
@@ -2902,7 +2902,7 @@
 	4 Bejeweled Dragon
 	4 Coaxer of the Cycle
 	4 Arbiter of Purity
-	4 Scion of the Skies
+	4 Ward of the Skies
 	4 Surgeblade Duelist
 	4 Dawn's Herald
 	4 Smoldering Tormentor
@@ -2973,7 +2973,7 @@
 	4 Shepherding the Rot
 	4 Braintree Divination
 	4 Descent into Chaos
-	4 Scion of Thuraxes
+	4 Implement of Thuraxes
 	4 Gilded Maiden
 	4 Sword of Josiah
 	4 Shepherd of Shadows
@@ -3132,7 +3132,7 @@
 	2 Auctor of the Testament
 	6 Arbiter of Purity
 	12 Thunderous Corruscation
-	6 Scion of the Skies
+	6 Ward of the Skies
 	6 Surgeblade Duelist
 	12 Exalted Persecutor
 	6 Dawn's Herald
@@ -3302,7 +3302,7 @@
 	6 Braintree Divination
 	6 Descent into Chaos
 	1 Nexus Serasphinx
-	6 Scion of Thuraxes
+	6 Implement of Thuraxes
 	2 Doom Monarch
 	2 Scarlet Liturgy
 	1 Starsent Angel
@@ -3316,7 +3316,7 @@
 	2 Resurgent Ruins
 	2 Charged Confluence
 	2 Shattered Spires
-	2 Hallowed Church
+	2 Hollow Church
 	2 Desecrated Monument
 	6 Shattered Peak
 [wildcard(1)]
@@ -3390,7 +3390,7 @@
 	7 Auctor of the Testament
 	15 Arbiter of Purity
 	6 Thunderous Corruscation
-	15 Scion of the Skies
+	15 Ward of the Skies
 	15 Surgeblade Duelist
 	6 Exalted Persecutor
 	15 Dawn's Herald
@@ -3560,7 +3560,7 @@
 	15 Braintree Divination
 	15 Descent into Chaos
 	4 Nexus Serasphinx
-	15 Scion of Thuraxes
+	15 Implement of Thuraxes
 	7 Doom Monarch
 	7 Scarlet Liturgy
 	4 Starsent Angel
@@ -3574,6 +3574,6 @@
 	7 Resurgent Ruins
 	7 Charged Confluence
 	7 Shattered Spires
-	7 Hallowed Church
+	7 Hollow Church
 	7 Desecrated Monument
 	15 Shattered Peak

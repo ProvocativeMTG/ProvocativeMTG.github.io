@@ -1,4 +1,92 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Ward of the Skies added.
+Implement of Thuraxes added.
+Hollow Church added.
+
+Scion of the Skies removed.
+Scion of Thuraxes removed.
+Hallowed Church removed.
+
+Dust to Flesh to Dust
+
+Staunch Purifier
+
+Stonesprung Spirit
+
+They Shall Know Perdition
+
+Fascimile of Gods
+
+Paladin of Fury
+
+Infernal Torturer
+
+Legate Sparkweaver
+
+Sylvua's Dryad
+
+Eldest Archengine
+rules_text: Trample
+This creature's power is equal to the number of artifacts you control.
+When this creature enters, you may sacrifice any number of lands. If you do, create twice that many tapped colorless artifact Wastes land tokens named Iron Wastes with indestructible and “{T}: Add {C}.” => Trample
+This creature's power is equal to the number of artifacts you control.
+When this creature enters, you may sacrifice any number of lands. If you do, create twice that many tapped colorless Wastes artifact land tokens named Iron Wastes with indestructible and “{T}: Add {C}.”
+
+Rock Scorpion
+
+See Worlds Beyond
+
+Swelling Growth
+
+Virulent Husk
+
+Sprouting Sentinel
+
+Stump Brute
+
+Molten Bloodhunter
+
+Extan Knight-Errant
+rules_text: Haste
+Whenever this creature attack, other creatures you control with base power 1 or less get +1/+0 until end of turn. => Haste
+Whenever this creature attacks, other creatures you control with base power 1 or less get +1/+0 until end of turn.
+
+Mad Tormentor
+
+Sylvua's Wyldbeast
+
+Jailer's Ire
+rules_text: Each opponent sacrifices a creature.
+Flashback {3}{B}{B}, Discard a card. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Each opponent sacrifices a creature.
+Flashback {4}{B}{B}, Discard a card. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Portents of Blood
+
+Shepherding the Rot
+
+Nexus Serasphinx
+rules_text: Flying
+When this creature enters, reveal the top five cards of your library and separate them into two piles. An opponent chooses one of those piles. Exile that pile and put the other into your graveyard. You may play the cards exiled this way for as long as you control this creature. Whenever you cast a spell exiled this way, create a 4/4 white Angel creature token with flying. => Flying
+When this creature enters, reveal the top five cards of your library and separate them into two piles. An opponent chooses one of those piles. Exile that pile and put the other into your graveyard. You may play the cards exiled this way for as long as you control this creature. Whenever you play a card exiled this way, create a 4/4 white Angel creature token with flying.
+
+Doom Monarch
+rules_text: Whenever this creature enters or attacks, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+At the beginning of your end step, if there were four or more card types among cards that left your graveyard this turn, create a tapped 2/2 black Zombie creature token. => You may look at the top card of your library any time.
+Once each turn, you may cast a spell from the top of your library by discarding a card in addition to that spell's other costs.
+[i]Desolate[/i] — As long as you have one or fewer cards in hand, this creature gets +2/+1 and has menace.
+pt: 1/2 => 1/1
+
+Scarlet Liturgy
+
+Clamber to the Light
+rules_text: Creatures you control get +1/+1.
+At the beginning of your end step, create a tapped 2/2 black Zombie creature token, then sacrifice a creature. => Creatures you control get +1/+1.
+At the beginning of your end step, create a tapped 2/2 black Zombie creature token, then sacrifice a token.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 

@@ -1,4 +1,952 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Prince Irakan, Heir to Dust
+
+The Crown of Stars
+
+Tsubasa, Blessed Blade
+
+Dahlia, Blossom of Heresy
+
+Kinn, the Clone
+rules_text: Haste
+You may have Kinn enter as a copy of a creature you control, except his name is Kinn, the Clone, he’s legendary, and he has haste and “At the beginning of your end step, return this permanent to its owner’s hand.” => Haste
+You may have Kinn enter as a copy of a creature you control, except his name is Kinn, the Clone, he's legendary, and he has haste and “At the beginning of your end step, return this permanent to its owner's hand.”
+
+Angel of Purpose
+
+Move Heaven and Earth
+
+Kallatree's Offshoot
+rules_text: Your opponents can’t cast spells from anywhere other than their hands.
+Whenever you create one or more tokens, you may draw a card. => Your opponents can't cast spells from anywhere other than their hands.
+Whenever you create one or more tokens, you may draw a card.
+
+Slaughter's Shadow
+rules_text: This creature can’t block.
+You may cast this card from your graveyard as an Adventure if a non-Shade creature died this turn. => This creature can't block.
+You may cast this card from your graveyard as an Adventure if a non-Shade creature died this turn.
+
+Ayeshi, Eternal Archmage
+
+Heart of the Deliverance
+
+Deliverance, Jewel of Telura
+rules_text: Flying
+Whenever a creature you control deals combat damage to a player, create that many tapped Relic tokens. [i](They’re artifacts with “{T}: Add {C}. You can’t spend this mana to cast your first spell each turn.”)[/i]
+{X}{X}{X}: Draw X cards. Activate only once.
+Crew 2 => Flying
+Whenever a creature you control deals combat damage to a player, create that many tapped Relic tokens. [i](They're artifacts with “{T}: Add {C}. You can't spend this mana to cast your first spell each turn.”)[/i]
+{X}{X}{X}: Draw X cards. Activate only once.
+Crew 2
+
+Planar Lockdown
+rules_text: Flash
+When this enchantment enters, for each opponent, exile up to one target nonland permanent that player controls until this enchantment leaves the battlefield.
+Each player can’t cast more than one spell each turn. => Flash
+When this enchantment enters, for each opponent, exile up to one target nonland permanent that player controls until this enchantment leaves the battlefield.
+Each player can't cast more than one spell each turn.
+
+Teluran Vanguard
+
+Inscrutable Dancer
+rules_text: Whenever one or more +1/+1 counters are put on another permanent you control, if it’s the first time +1/+1 counters have been put on that permanent this turn, this creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i] => Whenever one or more +1/+1 counters are put on another permanent you control, if it's the first time +1/+1 counters have been put on that permanent this turn, this creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]
+
+Burn It All Down
+
+Elai and Lanion
+
+Tzuhan, the Peacock
+
+Vragut, Molten Monarch
+rules_text: Flying, trample
+Ward—Pay 5 life or discard a card.
+Once each turn, you may have one or more artifacts you control enter as copies of a nonlegendary Dragon you control, except they’re still artifacts in addition to their other types. => Flying, trample
+Ward—Pay 5 life or discard a card.
+Once each turn, you may have one or more artifacts you control enter as copies of a nonlegendary Dragon you control, except they're still artifacts in addition to their other types.
+
+Elai, Scion of the Stars
+
+Lanion, Scion of the Umbra
+rules_text: Other artifacts you control have “{T}, Pay 1 life: Add one mana of any color.”
+Whenever Lanion deals combat damage to a player, create two 1/1 colorless Thopter artifact creature tokens with flying.
+{4}: Until end of turn, Lanion gains lifelink and can’t be blocked. He phases out at the beginning of the next end step. => Other artifacts you control have “{T}, Pay 1 life: Add one mana of any color.”
+Whenever Lanion deals combat damage to a player, create two 1/1 colorless Thopter artifact creature tokens with flying.
+{4}: Until end of turn, Lanion gains lifelink and can't be blocked. He phases out at the beginning of the next end step.
+
+Finnigan, Half-Fae Prince
+
+Eradication Beam
+
+Council Speaker
+
+Sylvua, Ancient Potentate
+rules_text: Lands you control have indestructible.
+Whenever Sylvua attacks, return up to one target land card from your graveyard to the battlefield tapped with a stun counter on it. It’s a 3/3 Elemental creature in addition to its other types. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i] => Lands you control have indestructible.
+Whenever Sylvua attacks, return up to one target land card from your graveyard to the battlefield tapped with a stun counter on it. It's a 3/3 Elemental creature in addition to its other types. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+
+Confounding Kraken
+
+Aurora Draconis
+rules_text: Flying, trample
+Whenever you spend {W}{U}{B}{R}{G} to cast a spell, create a token that’s a copy of this creature. => Flying, trample
+Whenever you spend {W}{U}{B}{R}{G} to cast a spell, create a token that's a copy of this creature.
+
+Everything Changes
+
+Seishin-Boon Titan
+
+Lure to Doom
+rules_text: Target opponent reveals their hand. You choose a nonland card from it or a card from their graveyard. Exile that card. That player can’t cast spells this turn. => Target opponent reveals their hand. You choose a nonland card from it or a card from their graveyard. Exile that card. That player can't cast spells this turn.
+
+Tidebreaker Leviathan
+rules_text: Trample, ward {3}
+Whenever this creature or another creature you control with trample enters, you may have that creature fight target creature an opponent controls. Excess damage dealt this way to the creature you don’t control is dealt to its controller instead. => Trample, ward {3}
+Whenever this creature or another creature you control with trample enters, you may have that creature fight target creature an opponent controls. Excess damage dealt this way to the creature you don't control is dealt to its controller instead.
+
+Giyama, Servant of Telura
+
+Prince's Bargain
+
+Loom of a New World
+
+Tanavir, Simulacra Ascetic
+rules_text: Whenever you cast a spell that’s white, blue, black, or red, put a +1/+1 counter on Tanavir.
+{2W}{2U}{2B}{2R}: Double the number of +1/+1 counters on each creature you control. => Whenever you cast a spell that's white, blue, black, or red, put a +1/+1 counter on Tanavir.
+{2W}{2U}{2B}{2R}: Double the number of +1/+1 counters on each creature you control.
+
+Infectious Intelligence
+
+Endless Perfect Legions
+
+Reality Rifts
+rules_text: You may cast a card you own from outside the game if it’s multicolored or if you spend five or more colors of mana to cast it.
+Basic landcycling {G} [i]({G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => You may cast a card you own from outside the game if it's multicolored or if you spend five or more colors of mana to cast it.
+Basic landcycling {G} [i]({G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Kai, the Origamist
+rules_text: Untap all artifacts you control during each other player’s untap step.
+{1}, {T}: Target artifact you control gains all activated abilities of artifact cards in your graveyard until end of turn. => Untap all artifacts you control during each other player's untap step.
+{1}, {T}: Target artifact you control gains all activated abilities of artifact cards in your graveyard until end of turn.
+
+Ecliptic Ending
+
+Time's Triumph
+
+Kimja Reckoner
+
+Ourobori, Seishin-Fused
+
+Zaender, Shattered Mind
+rules_text: Flying, haste
+{1}, {T}: Create a token that’s a copy of another target creature you control, except it has haste and “At the beginning of your end step, you lose 3 life unless you sacrifice a permanent or discard a card.” Put a fraying counter on that token. Activate only as a sorcery. => Flying, haste
+{1}, {T}: Create a token that's a copy of another target creature you control, except it has haste and “At the beginning of your end step, you lose 3 life unless you sacrifice a permanent or discard a card.” Put a fraying counter on that token. Activate only as a sorcery.
+
+Elphaen, Servant of Telura
+
+Amede, Kallatree Speaker
+
+Awakened Brush
+rules_text: Enchant land
+Enchanted land is a 3/3 Elemental creature with haste and “{T}: Add two mana of any one color.” It’s still a land.
+When enchanted land dies, return that card to its owner’s hand. => Enchant land
+Enchanted land is a 3/3 Elemental creature with haste and “{T}: Add two mana of any one color.” It's still a land.
+When enchanted land dies, return that card to its owner's hand.
+
+Blighteater Lynxstag
+
+Prince Irakan's Wish
+
+Magister of Control
+
+Deepwyn Worldbender
+rules_text: [i]Converge[/i] — When this creature enters, return up to one target creature an opponent controls with mana value X or less to its owner’s hand, where X is the number of colors spent to cast Deepwyn Worldbender. => [i]Converge[/i] — When this creature enters, return up to one target creature an opponent controls with mana value X or less to its owner's hand, where X is the number of colors spent to cast Deepwyn Worldbender.
+
+Engineered Worldsweeper
+rules_text: Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+Flying
+{1}{U}, Discard this card: Counter target activated or triggered ability. If a permanent’s ability is countered this way, activated abilities of that permanent can’t be activated this turn. => Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+Flying
+{1}{U}, Discard this card: Counter target activated or triggered ability. If a permanent's ability is countered this way, activated abilities of that permanent can't be activated this turn.
+
+Heavencraft Gavel
+rules_text: When this Equipment enters, return target creature card from your graveyard to the battlefield. Attach this Equipment to that creature.
+Equipped creature has base power and toughness 4/4{,}{ }{h}{a}{s}{ }{f}{l}{y}{i}{n}{g}{ }{a}{n}{d}{ }{v}{i}{g}{i}{l}{a}{n}{c}{e}{,}{ }{a}{n}{d}{ }{i}{s}{ }{a}{n}{ }{A}{n}{g}{e}{l}{ }{i}{n}{ }{a}{d}{d}{i}{t}{i}{o}{n}{ }{t}{o}{ }{i}{t}{s}{ }{o}{t}{h}{e}{r}{ }{t}{y}{p}{e}{s}{.}{
+}{E}{q}{u}{i}{p}{ }4 => When this Equipment enters, return target creature card from your graveyard to the battlefield. Attach this Equipment to that creature.
+Equipped creature has base power and toughness 4/4, has flying and vigilance, and is an Angel in addition to its other types.
+Equip {4}
+
+Kiln of the Astral Flame
+
+Obsession, Lingering Shade
+rules_text: Whenever another nontoken creature you control dies, you may exile that card from your graveyard. If you do, create a token that’s a copy of it, except it’s 1/1.
+{B}: Obsession gets +1/+1 until end of turn for each creature you control with base power and toughness 1/1. Activate only once each turn. => Whenever another nontoken creature you control dies, you may exile that card from your graveyard. If you do, create a token that's a copy of it, except it's 1/1.
+{B}: Obsession gets +1/+1 until end of turn for each creature you control with base power and toughness 1/1. Activate only once each turn.
+
+Warped Matterdancer
+
+Tideweave Avatar
+rules_text: Whenever you cast a noncreature spell with a subtype, put a +1/+1 counter on this creature for each of that spell’s subtypes. It can’t be blocked this turn. => Whenever you cast a noncreature spell with a subtype, put a +1/+1 counter on this creature for each of that spell's subtypes. It can't be blocked this turn.
+
+Enter the Avatar
+
+Anjarjan Phantom
+
+Invoker's Voidlord
+
+Britlitte Librarian
+
+Essence Serum
+
+Adapted Lifespinner
+
+Teluran Imperiarch
+
+Kallaheart Reckoner
+
+Teluran Void
+
+Brilliant Incursion
+rules_text: [i]Converge[/i] —  Distribute X +1/+1 counters among creatures you control, where X is the number of colors spent to cast this spell. Then draw cards equal to the greatest power among creatures you control. => [i]Converge[/i] — Distribute X +1/+1 counters among creatures you control, where X is the number of colors spent to cast this spell. Then draw cards equal to the greatest power among creatures you control.
+
+Terralight Smithy
+
+Shrine to the Great Tree
+
+Shrine to the Royal Family
+
+Shrine to the Machine
+rules_text: Whenever you cast your first spell each turn, add {R} for each Shrine you control. Until end of turn, you don’t lose this mana as steps and phased end. => Whenever you cast your first spell each turn, add {R} for each Shrine you control. Until end of turn, you don't lose this mana as steps and phased end.
+
+Wise Runecaster
+rules_text: When this creature enters, you may ionize it. [i](If it isn’t an artifact, this creature becomes a 0/0 artifact creature and gains “This creature gets +1/+1 for each artifact you control.”)[/i]
+Whenever an empowered creature you control attacks, tap target creature an opponent controls. [i](A creature is empowered if its power is greater than its base power.)[/i] => When this creature enters, you may ionize it. [i](If it isn't an artifact, this creature becomes a 0/0 artifact creature and gains “This creature gets +1/+1 for each artifact you control.”)[/i]
+Whenever an empowered creature you control attacks, tap target creature an opponent controls. [i](A creature is empowered if its power is greater than its base power.)[/i]
+
+Kindred Sentinel
+rules_text: Reach
+{2}: Put target card in a graveyard on the bottom of its owner’s library. => Reach
+{2}: Put target card in a graveyard on the bottom of its owner's library.
+
+New Genesis
+
+Amplified Staticaster
+
+Intrepid Tinkerer
+rules_text: {4}{W}: Ionize this creature. Activate only as a sorcery. [i](If it isn’t an artifact, this creature becomes a 0/0 artifact creature and gains “This creature gets +1/+1 for each artifact you control.”)[/i] => {4}{W}: Ionize this creature. Activate only as a sorcery. [i](If it isn't an artifact, this creature becomes a 0/0 artifact creature and gains “This creature gets +1/+1 for each artifact you control.”)[/i]
+
+Commander Norara
+rules_text: Vigilance
+Whenever Norara deals combat damage to a player, ionize her. If she’s already an artifact, ionize each other creature you control instead. [i](Whenever a creature is ionized, if it isn’t an artifact, it becomes a 0/0 artifact creature and gains “This creature gets +1/+1 for each artifact you control.”)[/i] => Vigilance
+Whenever Norara deals combat damage to a player, ionize her. If she's already an artifact, ionize each other creature you control instead. [i](Whenever a creature is ionized, if it isn't an artifact, it becomes a 0/0 artifact creature and gains “This creature gets +1/+1 for each artifact you control.”)[/i]
+
+Patchwork Summons
+
+Heaven's Hammerbearer
+
+Stormcrown Archlich
+rules_text: Lifelink
+{2}, {T}, Sacrifice a non-Relic artifact or another creature: Look at the top two cards of your library. Put one into your hand and the other into your graveyard. Create a tapped Relic token. [i](It’s an artifact with “{T}: Add {C}. You can’t spend this mana to cast your first spell each turn.”)[/i] => Lifelink
+{2}, {T}, Sacrifice a non-Relic artifact or another creature: Look at the top two cards of your library. Put one into your hand and the other into your graveyard. Create a tapped Relic token. [i](It's an artifact with “{T}: Add {C}. You can't spend this mana to cast your first spell each turn.”)[/i]
+
+Ionization Protocol
+rules_text: Enchant creature
+When this Aura enters, ionize enchanted creature. [i](If it isn’t an artifact, that creature becomes a 0/0 artifact creature and gains “This creature gets +1/+1 for each artifact you control.”)[/i]
+Enchanted creature has ward {1}. => Enchant creature
+When this Aura enters, ionize enchanted creature. [i](If it isn't an artifact, that creature becomes a 0/0 artifact creature and gains “This creature gets +1/+1 for each artifact you control.”)[/i]
+Enchanted creature has ward {1}.
+
+Dissolve into History
+rules_text: Dissolve into History deals 3 damage divided as you choose among one, two, or three targets. If a permanent dealt damage this way would die this turn, exile it instead.
+Create a tapped Relic token. [i](It’s an artifact with “{T}: Add {C}. You can’t spend this mana to cast your first spell each turn.”)[/i] => Dissolve into History deals 3 damage divided as you choose among one, two, or three targets. If a permanent dealt damage this way would die this turn, exile it instead.
+Create a tapped Relic token. [i](It's an artifact with “{T}: Add {C}. You can't spend this mana to cast your first spell each turn.”)[/i]
+
+Empire's Vestiges
+
+Inspired Resurrection
+rules_text: Return target creature or planeswalker card from your graveyard to the battlefield. That permanent connives 2. [i](Draw two cards, then discard two cards. For each nonland card discarded this way, put a +1/+1 counter on that permanent if it’s a creature and a loyalty counter on it if it’s a planeswalker.)[/i] => Return target creature or planeswalker card from your graveyard to the battlefield. That permanent connives 2. [i](Draw two cards, then discard two cards. For each nonland card discarded this way, put a +1/+1 counter on that permanent if it's a creature and a loyalty counter on it if it's a planeswalker.)[/i]
+
+Champion of Confluence
+
+Threadweaver Icon
+rules_text: Tap two untapped artifacts you control: Tap target creature. It loses all abilities until end of turn. Activate only once each turn.
+{3}{W}: Ionize this creature. Activate only as a sorcery. [i](If it isn’t an artifact, this creature becomes a 0/0 artifact creature and gains “This creature gets +1/+1 for each artifact you control.”)[/i] => Tap two untapped artifacts you control: Tap target creature. It loses all abilities until end of turn. Activate only once each turn.
+{3}{W}: Ionize this creature. Activate only as a sorcery. [i](If it isn't an artifact, this creature becomes a 0/0 artifact creature and gains “This creature gets +1/+1 for each artifact you control.”)[/i]
+
+Oblivion Cradle
+rules_text: You can’t cast black spells.
+Whenever you cast a spell, you draw a card and lose 1 life.
+Whenever a creature dies, exile it from its controller’s graveyard and create a tapped Treasure token. => You can't cast black spells.
+Whenever you cast a spell, you draw a card and lose 1 life.
+Whenever a creature dies, exile it from its controller's graveyard and create a tapped Treasure token.
+
+Kinetic Cadaver
+rules_text: This creature can’t block.
+You may cast this creature from your graveyard by sacrificing an artifact in addition to its other costs.
+{1}{B}, Discard a card: Ionize this creature. [i](If it isn’t an artifact, this creature becomes a 0/0 artifact creature and gains “This creature gets +1/+1 for each artifact you control.”)[/i] => This creature can't block.
+You may cast this creature from your graveyard by sacrificing an artifact in addition to its other costs.
+{1}{B}, Discard a card: Ionize this creature. [i](If it isn't an artifact, this creature becomes a 0/0 artifact creature and gains “This creature gets +1/+1 for each artifact you control.”)[/i]
+
+Calamitous Premonition
+
+Shiori, Frostfire Kitsune
+rules_text: Shiori enters with two +1/+1 counters on it.
+{2}: Shiori becomes a copy of target creature until end of turn, except its name is Shiori, Frostfire Kitsune and its still legendary. => Shiori enters with two +1/+1 counters on it.
+{2}: Shiori becomes a copy of target creature until end of turn, except its name is Shiori, Frostfire Kitsune and it's still legendary.
+
+Lioncrest Hero
+rules_text: At the beginning of your upkeep, exile the top card of your library. It gains “You may play this card from exile as long as you’ve cast another spell this turn.”
+At the beginning of your end step, put each card exiled with this creature into its owner’s graveyard. => At the beginning of your upkeep, exile the top card of your library. It gains “You may play this card from exile as long as you've cast another spell this turn.”
+At the beginning of your end step, put each card exiled with this creature into its owner's graveyard.
+
+Rampaging Kavu
+
+Dictate of the Heavens
+
+Empyrean Wingserpent
+
+Kaecil, the Starspeaker
+rules_text: Whenever you activate a {T} ability of an artifact, creature, or land, if it isn’t a mana ability, put a flare counter on that permanent. If it already has a flare counter on it, draw a card instead. => Whenever you activate a {T} ability of an artifact, creature, or land, if it isn't a mana ability, put a flare counter on that permanent. If it already has a flare counter on it, draw a card instead.
+
+Chromatic Goggles
+rules_text: [i]Converge[/i] — This artifact enters with a charge counter on it for each color of mana spent to cast it.
+{2}, {T}, Remove a charge counter from this artifact: Draw a card. Then if there are no charge counters on it, you may return it to its owner’s hand. => [i]Converge[/i] — This artifact enters with a charge counter on it for each color of mana spent to cast it.
+{2}, {T}, Remove a charge counter from this artifact: Draw a card. Then if there are no charge counters on it, you may return it to its owner's hand.
+
+Gildleaf Unifier
+
+Ritual Grounds
+
+Cloudtouched Hills
+
+Spouting Lagoon
+
+Ashchoke Bog
+
+Sojourner's Gateway
+
+Brackbloom Titan
+rules_text: Spells you cast that target this card while it’s in your graveyard cost {2} less to cast.
+When this creature enters, you draw two cards and lose 2 life. => Spells you cast that target this card while it's in your graveyard cost {2} less to cast.
+When this creature enters, you draw two cards and lose 2 life.
+
+Ravencorps Reavers
+
+Portal Ring
+rules_text: When this artifact enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{1}, {T}: Add one mana of any color.
+{4}, {T}: Target creature can’t be blocked this turn. => When this artifact enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{1}, {T}: Add one mana of any color.
+{4}, {T}: Target creature can't be blocked this turn.
+
+Prophetic Prism
+
+Council Assistant
+
+Slumbering Titanyard
+rules_text: {T}: Add {C}.
+Whenever this Vehicle deals combat damage to a player or planeswalker, create a tapped Relic token. [i](It’s an artifact with “{T}: Add {C}. You can’t spend this mana to cast your first spell each turn.”)[/i]
+Crew 2 => {T}: Add {C}.
+Whenever this Vehicle deals combat damage to a player or planeswalker, create a tapped Relic token. [i](It's an artifact with “{T}: Add {C}. You can't spend this mana to cast your first spell each turn.”)[/i]
+Crew 2
+
+Fruitless Paradise
+
+Terralight Prison
+
+Seat of the Last Empire
+
+Repeated Refusal
+rules_text: Counter target spell unless its controller pays {1}. If that spell shares a name with a card in its controller’s graveyard, instead counter that spell unless its controller pays {4}. => Counter target spell unless its controller pays {1}. If that spell shares a name with a card in its controller's graveyard, instead counter that spell unless its controller pays {4}.
+
+Gleaming Praetor
+
+Become One with Telura
+
+Oni-Power Production
+rules_text: Whenever you cast an artifact spell, create a tapped Treasure token.
+At the beginning of each end step, if you’ve sacrificed three or more permanents this turn, create a 4/4 black Demon Warrior artifact  creature token. => Whenever you cast an artifact spell, create a tapped Treasure token.
+At the beginning of each end step, if you've sacrificed three or more permanents this turn, create a 4/4 black Demon Warrior artifact creature token.
+
+Demon Warrior
+
+Bastion of Light
+
+Thopter
+
+Dancing Rakshasa
+
+Deployment Zone
+
+Emperor's Attendant
+
+Soulcharged Colossus
+
+Shaleville Rider
+type: Creature — Human  Knight => Creature — Human Knight
+
+Starbearer Paladin
+rules_text: When this creature enters, create a tapped Relic token. [i](It’s an artifact with “{T}: Add {C}. You can’t spend this mana to cast your first spell each turn.”)[/i]
+Whenever you create one or more tokens, you gain 1 life. => When this creature enters, create a tapped Relic token. [i](It's an artifact with “{T}: Add {C}. You can't spend this mana to cast your first spell each turn.”)[/i]
+Whenever you create one or more tokens, you gain 1 life.
+
+Portent Reader
+
+Deployer Hulk
+
+Skolhan Thundermage
+
+Duskwing Inferno
+
+Magmatic Manifestation
+
+Territorial Drakkon
+rules_text: Flying
+Whenever you cast your second spell each turn, double this creature’s power until end of turn. => Flying
+Whenever you cast your second spell each turn, double this creature's power until end of turn.
+
+Crested Raven
+
+Skodir, Uniter of Realms
+
+Council's Spear
+
+New Realms
+
+Therisi, Her Soul Aflame
+
+Guardian of the Cosmos
+
+Risa, Ender of Empires
+rules_text: This spell can’t be countered.
+Flying, hexproof from spells [i](This creature can’t be the target of spells your opponents control.)[/i]
+Whenever Risa enters or attacks, destroy up to one target nonbasic, noncreature permanent an opponent controls. That player may search their library for a basic land card, put it onto the battlefield tapped, then shuffle. => This spell can't be countered.
+Flying, hexproof from spells [i](This creature can't be the target of spells your opponents control.)[/i]
+Whenever Risa enters or attacks, destroy up to one target nonbasic, noncreature permanent an opponent controls. That player may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+Soldier
+
+Drag Life into the Umbra
+
+Darkhelm Karaki
+rules_text: When this creature enters, return target nonland permanent an opponent controls to its owner’s hand, then that player exiles a card from their hand. For as long as that card remains in exile, you may play that card, and mana of any type can be spent to cast it. => When this creature enters, return target nonland permanent an opponent controls to its owner's hand, then that player exiles a card from their hand. For as long as that card remains in exile, you may play that card, and mana of any type can be spent to cast it.
+
+Missira, Heir to War
+
+Alexei, Eye of the Storm
+rules_text: Whenever you cast a noncreature spell with one or more subtypes, choose up to X, where X is the number of subtypes that spell has —
+• Target player draws a card.
+• Tap target creature an opponent controls and put a stun counter on it.
+• Return another target creature you control to its owner’s hand. => Whenever you cast a noncreature spell with one or more subtypes, choose up to X, where X is the number of subtypes that spell has —
+• Target player draws a card.
+• Tap target creature an opponent controls and put a stun counter on it.
+• Return another target creature you control to its owner's hand.
+
+Archengine Ascendant
+rules_text: Flying, vigilance
+This Vehicle’s power is equal to the number of subtypes among noncreature cards in your graveyard and its toughness is equal to that number plus 1.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Flying, vigilance
+This Vehicle's power is equal to the number of subtypes among noncreature cards in your graveyard and its toughness is equal to that number plus 1.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Rallying the Titans
+special_text: 
+I — Create a 3/3 colorless Vehicle artifact token with crew 1.
+II — Create a 1/1 colorless Soldier artifact creature token.
+III — For each artifact token you control, create a token that’s a copy of it. => 
+I — Create a 3/3 colorless Vehicle artifact token with crew 1.
+II — Create a 1/1 colorless Soldier artifact creature token.
+III — For each artifact token you control, create a token that's a copy of it.
+
+Goldblossom Angel
+rules_text: Flying
+At the beginning of your end step, exile up to one other target artifact or creature you control, then return that card to the battlefield under its owner’s control. => Flying
+At the beginning of your end step, exile up to one other target artifact or creature you control, then return that card to the battlefield under its owner's control.
+
+Ghostlight Infiltrator
+
+One with the Current
+rules_text: This spell costs {2} less to cast if you control an ionized creature.
+Target nonland permanent’s owner puts it on their choice of the top or bottom of their library. => This spell costs {2} less to cast if you control an ionized creature.
+Target nonland permanent's owner puts it on their choice of the top or bottom of their library.
+
+Kallawarden Ancient
+
+Hero of Sol Cuesta
+rules_text: Trample
+Whenever this creature attacks, if you’ve spent six or more mana this turn, you may discard your hand. If you do, draw three cards. => Trample
+Whenever this creature attacks, if you've spent six or more mana this turn, you may discard your hand. If you do, draw three cards.
+
+Shrine to the Spirit Realm
+
+Shrine to the Divine
+
+Ironblood Jarl
+
+Firestorm Evangelist
+
+Sol Cuesta Cavalry
+rules_text: Prowess
+When this creature enters, create a tapped Relic token. [i](It’s an artifact with “{T}: Add {C}. You can’t spend this mana to cast your first spell each turn.”)[/i]
+As long as you’ve cast two or more spells this turn, noncreature spells you control can’t be countered. => Prowess
+When this creature enters, create a tapped Relic token. [i](It's an artifact with “{T}: Add {C}. You can't spend this mana to cast your first spell each turn.”)[/i]
+As long as you've cast two or more spells this turn, noncreature spells you control can't be countered.
+
+Lady of the Inlet
+rules_text: {3}{U}: Target creature you control can’t be blocked this turn. Activate only once each turn. => {3}{U}: Target creature you control can't be blocked this turn. Activate only once each turn.
+
+Sneap
+
+Knight
+
+Multiform Rapier
+
+Adaptive Raider
+rules_text: When this creature enters, create a Treasure token.
+{5}{U}: Ionize this creature. Activate only as a sorcery. [i](If it isn’t an artifact, this creature becomes a 0/0 artifact creature and gains “This creature gets +1/+1 for each artifact you control.”)[/i] => When this creature enters, create a Treasure token.
+{5}{U}: Ionize this creature. Activate only as a sorcery. [i](If it isn't an artifact, this creature becomes a 0/0 artifact creature and gains “This creature gets +1/+1 for each artifact you control.”)[/i]
+
+Clearcut
+rules_text: Exile target artifact or creature. Its controller creates a tapped Relic token. [i](It’s an artifact with “{T}: Add {C}. You can’t spend this mana to cast your first spell each turn.”)[/i] => Exile target artifact or creature. Its controller creates a tapped Relic token. [i](It's an artifact with “{T}: Add {C}. You can't spend this mana to cast your first spell each turn.”)[/i]
+
+Knight of Irakan
+
+Port Goliath
+
+Beacon of Horizons
+
+Usurper Program
+
+Set the Heavens Ablaze
+rules_text: This spell can’t be countered.
+Damage can’t be prevented this turn. Set the Heavens Ablaze deals 3 damage to each creature. => This spell can't be countered.
+Damage can't be prevented this turn. Set the Heavens Ablaze deals 3 damage to each creature.
+
+Sunblessed Range
+
+Ethereal Wasteland
+
+Dragoneye Shores
+
+Overcharge
+
+Peat Basin
+rules_text: [i]({T}: Add {G} or {U}.)[/i]
+This land enters tapped.
+{4}, {T}: Surveil 1.  [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i] => [i]({T}: Add {G} or {U}.)[/i]
+This land enters tapped.
+{4}, {T}: Surveil 1. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Familiar Summoner
+
+Unleashed Steed
+
+Playing with Portals
+rules_text: {3}{U}: Exile target artifact or creature you control, then return it to the battlefield under its owner’s control. Activate only as a sorcery. => {3}{U}: Exile target artifact or creature you control, then return it to the battlefield under its owner's control. Activate only as a sorcery.
+
+Dragon's Ire
+rules_text: Dragon’s Ire deals damage to target creature or planeswalker equal to 3 or the greatest power among empowered creatures you control, whichever is greater. [i](A creature is empowered if its power is greater than its base power.)[/i] => Dragon's Ire deals damage to target creature or planeswalker equal to 3 or the greatest power among empowered creatures you control, whichever is greater. [i](A creature is empowered if its power is greater than its base power.)[/i]
+
+Foreboding Memory
+
+Seeds of a Dream
+
+Automated Suppressor
+
+Kjaldiran Stormbearer
+rules_text: {3}{U}: This creature can’t be blocked this turn.
+Islandcycling {2} [i]({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i] => {3}{U}: This creature can't be blocked this turn.
+Islandcycling {2} [i]({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Refugee Guardian
+
+Core Shock
+
+Down the Middle
+
+Absorption Matrix
+
+Singularity Courser
+
+Evolutionary Synergy
+
+Simian Swordmaster
+
+Terralight Spearman
+
+Blazing Knight-Errant
+
+Stand Strong
+rules_text: Target creature gains indestructible until end of turn. If you’ve cast another spell this turn, that creature also gets +2/+2 until end of turn. => Target creature gains indestructible until end of turn. If you've cast another spell this turn, that creature also gets +2/+2 until end of turn.
+
+Shake the Earth
+
+Stormwake Dragon
+
+Elemental Avatar
+
+Nataltha, the Dark Star
+rules_text: Flying
+Whenever Nataltha enters or attacks, create a tapped Relic token. [i](It’s an artifact with “{T}: Add {C}. You can’t spend this mana to cast your first spell each turn.”)[/i]
+Whenever you cast a spell other than your first two spells each turn, create a 4/4 black Demon Warrior artifact creature token. => Flying
+Whenever Nataltha enters or attacks, create a tapped Relic token. [i](It's an artifact with “{T}: Add {C}. You can't spend this mana to cast your first spell each turn.”)[/i]
+Whenever you cast a spell other than your first two spells each turn, create a 4/4 black Demon Warrior artifact creature token.
+
+Augmented Bankbuster
+rules_text: When this creature enters, each player sacrifices a nonartifact creature.
+{2}{B}, Pay 3 life: Ionize this creature. [i](If it isn’t an artifact, this creature becomes a 0/0 artifact creature and gains “This creature gets +1/+1 for each artifact you control.”)[/i] => When this creature enters, each player sacrifices a nonartifact creature.
+{2}{B}, Pay 3 life: Ionize this creature. [i](If it isn't an artifact, this creature becomes a 0/0 artifact creature and gains “This creature gets +1/+1 for each artifact you control.”)[/i]
+
+Breaching the Stream
+rules_text: Whenever you discard a card, this enchantment deals 1 damage to up to one target creature or planeswalker and 1 damage to that permanent’s controller. => Whenever you discard a card, this enchantment deals 1 damage to up to one target creature or planeswalker and 1 damage to that permanent's controller.
+
+Enigma Variant
+rules_text: You may have this creature enter as a copy of any creature on the battlefield with mana value 3 or less, except it has “When this creature enters, ionize it.” [i](If it isn’t an artifact, this creature becomes a 0/0 artifact creature and gains “This creature gets +1/+1 for each artifact you control.”)[/i] => You may have this creature enter as a copy of any creature on the battlefield with mana value 3 or less, except it has “When this creature enters, ionize it.” [i](If it isn't an artifact, this creature becomes a 0/0 artifact creature and gains “This creature gets +1/+1 for each artifact you control.”)[/i]
+
+Radiant Shaman
+
+Malevolent Eradicator
+rules_text: When this creature enters, nonartifact creatures get -2/-2 until end of turn.
+Whenever a creature an opponent controls dies, create a tapped Relic token. [i](It’s an artifact with “{T}: Add {C}. You can’t spend this mana to cast your first spell each turn.”)[/i] => When this creature enters, nonartifact creatures get -2/-2 until end of turn.
+Whenever a creature an opponent controls dies, create a tapped Relic token. [i](It's an artifact with “{T}: Add {C}. You can't spend this mana to cast your first spell each turn.”)[/i]
+
+Mark for Conquest
+
+Constellar Deer
+rules_text: Vigilance
+Whenever this creature attacks, you may create a token that’s a copy of target token you control that entered this turn. => Vigilance
+Whenever this creature attacks, you may create a token that's a copy of target token you control that entered this turn.
+
+Union of Root and Steel
+
+Skolhan Brawler
+rules_text: Reach
+When this creature dies, create a tapped Relic token. [i](It’s an artifact with “{T}: Add {C}. You can’t spend this mana to cast your first spell each turn.”)[/i] => Reach
+When this creature dies, create a tapped Relic token. [i](It's an artifact with “{T}: Add {C}. You can't spend this mana to cast your first spell each turn.”)[/i]
+
+Wyrmflame Knight
+rules_text: Whenever this creature attacks, add X {R}, where X is one plus the number of Dragons you control. Until end of turn, you don’t lose this mana as steps and phases end. => Whenever this creature attacks, add X {R}, where X is one plus the number of Dragons you control. Until end of turn, you don't lose this mana as steps and phases end.
+
+Negate
+
+Accept the Gift
+
+Bind the Lightning
+rules_text: Enchant artifact or creature
+When this Aura enters, tap enchanted permanent.
+Enchanted permanent doesn’t untap during its controller’s untap step and its activated abilities can’t be activated. => Enchant artifact or creature
+When this Aura enters, tap enchanted permanent.
+Enchanted permanent doesn't untap during its controller's untap step and its activated abilities can't be activated.
+
+Relic
+rules_text: {T}: Add {C}. You can’t spend this mana to cast your first spell each turn. => {T}: Add {C}. You can't spend this mana to cast your first spell each turn.
+
+Recovering the Pieces
+
+Britlitte Guardian
+rules_text: Flying
+Whenever you create one or more tokens, tap up to one target creature an opponent controls.  => Flying
+Whenever you create one or more tokens, tap up to one target creature an opponent controls.
+
+Machinist of Souls
+rules_text: Flying
+When this creature enters, create a token that’s a copy of target artifact or creature card with mana value 2 or less in your graveyard. The token is a 1/1 Construct artifact creature in addition to its other types. => Flying
+When this creature enters, create a token that's a copy of target artifact or creature card with mana value 2 or less in your graveyard. The token is a 1/1 Construct artifact creature in addition to its other types.
+
+Turn the Wheel
+rules_text: As an additional cost to cast this spell, discard a card.
+Draw two cards. If the discarded card wasn’t a land card, put a +1/+1 counter on a creature you control. => As an additional cost to cast this spell, discard a card.
+Draw two cards. If the discarded card wasn't a land card, put a +1/+1 counter on a creature you control.
+
+Opportunistic Monarch
+rules_text: When this creature enters, you may ionize it. [i](If it isn’t an artifact, this creature becomes a 0/0 artifact creature and gains “This creature gets +1/+1 for each artifact you control.”)[/i] => When this creature enters, you may ionize it. [i](If it isn't an artifact, this creature becomes a 0/0 artifact creature and gains “This creature gets +1/+1 for each artifact you control.”)[/i]
+
+Elemental
+
+Earthreaver Drakkon
+
+Searchlight Scout
+rules_text: When this creature enters, if an opponent controls more lands than you, create a number of tapped Relic tokens equal to the difference. [i](They’re artifacts with “{T}: Add {C}. You can’t spend this mana to cast your first spell each turn.”)[/i] => When this creature enters, if an opponent controls more lands than you, create a number of tapped Relic tokens equal to the difference. [i](They're artifacts with “{T}: Add {C}. You can't spend this mana to cast your first spell each turn.”)[/i]
+
+Sunpiercer Blade
+
+Eira, Immortal Champion
+
+Converted Ritualist
+
+Idyllian Battlemech
+
+Fused Eviscerator
+
+Demin's Valiant
+
+Wyldwood Ursine
+
+Terror of the Ridge
+rules_text: {3}{R}: Target creature an opponent controls can’t block this turn.
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i] => {3}{R}: Target creature an opponent controls can't block this turn.
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Scuttling Terror
+rules_text: As long as you’ve discarded a card this turn, this creature has deathtouch and lifelink.
+Swampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i] => As long as you've discarded a card this turn, this creature has deathtouch and lifelink.
+Swampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Gladeheart Deadeye
+
+Sylvua's Titan
+rules_text: When this creature enters, create two 1/1 white Warrior creature tokens.
+This creature can’t be blocked by more than one creature. => When this creature enters, create two 1/1 white Warrior creature tokens.
+This creature can't be blocked by more than one creature.
+
+Occult Diviner
+
+Nature's Animosity
+
+Defiant Retaliation
+rules_text: Enchant creature you control
+When this Aura enters, enchanted creature fights up to one target creature you don’t control.
+Enchanted creature gets +1/+0. => Enchant creature you control
+When this Aura enters, enchanted creature fights up to one target creature you don't control.
+Enchanted creature gets +1/+0.
+
+Pharai, Twin Fangs
+
+Izhan, Last Piece of the Puzzle
+rules_text: At the beginning of each end step, untap this artifact.
+{T}: Add {C}. You can’t spend this mana to cast your first spell each turn.
+{1}, {T}: Draw a card. Then discard a card unless you’ve created a token this turn. => At the beginning of each end step, untap this artifact.
+{T}: Add {C}. You can't spend this mana to cast your first spell each turn.
+{1}, {T}: Draw a card. Then discard a card unless you've created a token this turn.
+
+High Magistrate Sonli
+
+Vaunted Shinobi
+rules_text: Whenever this creature attacks alone, you may ionize it. [i](If it isn’t an artifact, this creature becomes a 0/0 artifact creature and gains “This creature gets +1/+1 for each artifact you control.”)[/i] => Whenever this creature attacks alone, you may ionize it. [i](If it isn't an artifact, this creature becomes a 0/0 artifact creature and gains “This creature gets +1/+1 for each artifact you control.”)[/i]
+
+Zydith's Adjudicator
+
+Sword of Dreams and Empire
+
+Velheart Communer
+
+Furtive Scrollkeeper
+
+Umbral Parturition
+rules_text: At the beginning of combat on your turn, exile up to one creature card with mana value 1 in your graveyard, then do the same for creature cards with mana value 2 and 3. Create a token that’s a copy of each creature card exiled this way. The tokens gain haste. Sacrifice them at the beginning of the next end step. => At the beginning of combat on your turn, exile up to one creature card with mana value 1 in your graveyard, then do the same for creature cards with mana value 2 and 3. Create a token that's a copy of each creature card exiled this way. The tokens gain haste. Sacrifice them at the beginning of the next end step.
+
+Terralight Stag
+rules_text: Reach
+Whenever tap a Plains, Island, Swamp, or Mountain for mana, if it’s a basic land, add an additional {G}. => Reach
+Whenever tap a Plains, Island, Swamp, or Mountain for mana, if it's a basic land, add an additional {G}.
+
+Crucible Druid
+
+Sol Cuesta, Ignited Crucible
+
+Everywhere
+
+Steal the Source
+
+Obsession's Devourer
+rules_text: Whenever one or more creatures you control deal combat damage to a player, look at the top card of their library, then exile it face down. You may play that card for as long as it remains exiled, and mana of any type can be spent to cast that spell.
+Whenever you cast a spell you don’t own, its owner loses 3 life. => Whenever one or more creatures you control deal combat damage to a player, look at the top card of their library, then exile it face down. You may play that card for as long as it remains exiled, and mana of any type can be spent to cast that spell.
+Whenever you cast a spell you don't own, its owner loses 3 life.
+
+Blastfire Smith
+
+Cursed Orb Oni
+
+Bell-Clad Exponent
+rules_text: Menace
+When this creature enters, you may return target card from your graveyard to your hand.
+When this creature dies, shuffle it into its owner’s library. => Menace
+When this creature enters, you may return target card from your graveyard to your hand.
+When this creature dies, shuffle it into its owner's library.
+
+Tandem Feat
+rules_text: Exile target creature you control, then return it to the battlefield under its owner’s control. Create X tokens that are copies of that creature, then sacrifice those tokens. => Exile target creature you control, then return it to the battlefield under its owner's control. Create X tokens that are copies of that creature, then sacrifice those tokens.
+
+Angel
+
+Encounter with the Sentinel
+
+Trapped in the Umbra
+
+The Radiance Zone
+
+Shadow in the Psyche
+
+Lies Revealed
+rules_text: When this enchantment enters, create a tapped Relic token. [i](It’s an artifact with “{T}: Add {C}. You can’t spend this mana to cast your first spell each turn.”)[/i]
+Whenever you create one or more tokens, each opponent loses that much life. => When this enchantment enters, create a tapped Relic token. [i](It's an artifact with “{T}: Add {C}. You can't spend this mana to cast your first spell each turn.”)[/i]
+Whenever you create one or more tokens, each opponent loses that much life.
+
+Consuming Ruin
+rules_text: Storm [i](When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)[/i]
+Exile the top card of target opponent’s library. You may cast that card by paying life equal to its mana value rather than pay its mana cost. => Storm [i](When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)[/i]
+Exile the top card of target opponent's library. You may cast that card by paying life equal to its mana value rather than pay its mana cost.
+
+All Things to Oblivion
+
+Escaping A World's End
+
+Teluran Conscript
+rules_text: Whenever this creature attacks, you may pay {1}. If you do, it gains indestructible until end of turns. [i](Damage and effects that say “destroy” don’t destroy this creature.)[/i] => Whenever this creature attacks, you may pay {1}. If you do, it gains indestructible until end of turns. [i](Damage and effects that say “destroy” don't destroy this creature.)[/i]
+
+Sunblaze Empyrean
+
+Peacebringer Titan
+
+Tear Through the Light
+rules_text: This spell costs {2} less to cast if you’ve discarded a card this turn.
+Destroy target creature or planeswalker. Surveil 2. => This spell costs {2} less to cast if you've discarded a card this turn.
+Destroy target creature or planeswalker. Surveil 2.
+
+Umbral Devouring
+
+Titan of Skolhan Pass
+rules_text: This creature enters with a +1/+1 counter on it.
+At the beginning of combat on your turn, double this creature’s power X times until end of turn, where X is the number of empowered creatures you control. [i](A creature is empowered if its power is greater than its base power.)[/i] => This creature enters with a +1/+1 counter on it.
+At the beginning of combat on your turn, double this creature's power X times until end of turn, where X is the number of empowered creatures you control. [i](A creature is empowered if its power is greater than its base power.)[/i]
+
+Death Is Not The End
+rules_text: Until end of turn, target creature gains “When this creature dies, return it to the battlefield tapped under its owner’s control with a +1/+1 counter on it.” => Until end of turn, target creature gains “When this creature dies, return it to the battlefield tapped under its owner's control with a +1/+1 counter on it.”
+
+Singularity's Pull
+rules_text: Target opponent discards two cards. Create a tapped Relic token. [i](It’s an artifact with “{T}: Add {C}. You can’t spend this mana to cast your first spell each turn.”)[/i] => Target opponent discards two cards. Create a tapped Relic token. [i](It's an artifact with “{T}: Add {C}. You can't spend this mana to cast your first spell each turn.”)[/i]
+
+Aerial Suppressor
+
+Throatseeker Valkyrie
+
+Ascendant Thaumaturge
+
+In Full Bloom
+
+Charged Gauntlets
+
+Unearthed Might
+rules_text: Target creature gets +2/+0 and gains first strike until end of turn.
+Create a Treasure token. [i](It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Target creature gets +2/+0 and gains first strike until end of turn.
+Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Charged Duplication
+rules_text: Create a token that’s a copy of up to one target creature you control. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.
+Create a tapped Relic token. [i](It’s an artifact with “{T}: Add {C}. You can’t spend this mana to cast your first spell each turn.”)[/i] => Create a token that's a copy of up to one target creature you control. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.
+Create a tapped Relic token. [i](It's an artifact with “{T}: Add {C}. You can't spend this mana to cast your first spell each turn.”)[/i]
+
+Shaleville Sellsword
+
+Integrated Kallaknight
+rules_text: When this creature enters or dies, create a tapped Relic token. [i](It’s an artifact with “{T}: Add {C}. You can’t spend this mana to cast your first spell each turn.”)[/i] => When this creature enters or dies, create a tapped Relic token. [i](It's an artifact with “{T}: Add {C}. You can't spend this mana to cast your first spell each turn.”)[/i]
+
+Molten Schemer
+
+Tarre, Hands That Feed
+
+Chosen Valiant
+rules_text: At the beginning of combat on your turn, if you control an artifact, this creature gains double strike until end of turn. If you control five or more artifacts and this creature isn’t an artifact, ionize it. [i](This creature becomes a 0/0 artifact creature and gains “This creature gets +1/+1 for each artifact you control.”)[/i] => At the beginning of combat on your turn, if you control an artifact, this creature gains double strike until end of turn. If you control five or more artifacts and this creature isn't an artifact, ionize it. [i](This creature becomes a 0/0 artifact creature and gains “This creature gets +1/+1 for each artifact you control.”)[/i]
+
+Unstable Crystal
+
+Dawnlit Fenland
+
+Faraway Fiefdom
+
+Wraith's Hijacking
+rules_text: As an additional cost to cast this spell, sacrifice a nonland permanent or pay {2}.
+Exile target nonland permanent an opponent controls. Create a tapped Relic token. [i](It’s an artifact with “{T}: Add {C}. You can’t spend this mana to cast your first spell each turn.”)[/i] => As an additional cost to cast this spell, sacrifice a nonland permanent or pay {2}.
+Exile target nonland permanent an opponent controls. Create a tapped Relic token. [i](It's an artifact with “{T}: Add {C}. You can't spend this mana to cast your first spell each turn.”)[/i]
+
+Demonic Majesty
+rules_text: When this creature enters, create a tapped Relic token. [i](It’s an artifact with “{T}: Add {C}. You can’t spend this mana to cast your first spell each turn.”)[/i]
+Whenever you cast your second spell each turn, you may reveal the top card and put it into your hand. If you do, each player loses life equal to that card’s mana value. => When this creature enters, create a tapped Relic token. [i](It's an artifact with “{T}: Add {C}. You can't spend this mana to cast your first spell each turn.”)[/i]
+Whenever you cast your second spell each turn, you may reveal the top card and put it into your hand. If you do, each player loses life equal to that card's mana value.
+
+Sheltering the Light
+
+The Locus of the Storm
+
+Raze the Village
+
+Bionic Rallier
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, choose one—
+• Create a 1/1 colorless Soldier artifact creature token.
+• Create a tapped Relic token. [i](It’s an artifact with “{T}: Add {C}. You can’t spend this mana to cast your first spell each turn.”)[/i] => [i]Landfall[/i] — Whenever a land you control enters, choose one—
+• Create a 1/1 colorless Soldier artifact creature token.
+• Create a tapped Relic token. [i](It's an artifact with “{T}: Add {C}. You can't spend this mana to cast your first spell each turn.”)[/i]
+
+Acolyte of Sylvua
+
+Crux of Augmentation
+
+Asher, Heron Champion
+
+Moonbright Wyrm
+
+Phantom Liege
+
+Divine Guide
+
+Battleworn Commander
+
+Searing Barrage
+rules_text: Searing Barrage deals 3 damage to any target. If you’ve cast another spell this turn, add {R}. If you’ve cast at least three other spells this turn, add {R}{R}{R} instead. => Searing Barrage deals 3 damage to any target. If you've cast another spell this turn, add {R}. If you've cast at least three other spells this turn, add {R}{R}{R} instead.
+
+Bring Down the Mountain
+
+Inspired Creation
+
+Arboreal Arrow
+rules_text: Put a +1/+1 counter on target creature you control if it’s empowered. Then it deals damage equal to its power to target creature or planeswalker an opponent controls. [i](A creature is empowered if its power is greater than its base power.)[/i] => Put a +1/+1 counter on target creature you control if it's empowered. Then it deals damage equal to its power to target creature or planeswalker an opponent controls. [i](A creature is empowered if its power is greater than its base power.)[/i]
+
+End Times Sentinel
+rules_text: Vigilance, ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+When this creature enters, exile target player’s graveyard. => Vigilance, ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+When this creature enters, exile target player's graveyard.
+
+Oni-Power Devastator
+
+Solemn Simulacrum
+
+Surveyor's Mechameleon
+
+Dormant Seed
+
+Shipyard Scrounger
+
+Mercenary Enchanter
+
+Brutagan, Tarruk's Heir
+
+Bound Edifice
+
+Reydia, Umbral Augur
+
+Naveian Protector
+
+Kallaroot Lurkfiend
+
+Fae Rootwielder
+
+Viashino Brute
+
+Stormmane Drakkon
+
+Command the Cosmos
+
+Faraway Worlds
+
+Rebuild What Is Lost
+
+Embodiment of Life
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

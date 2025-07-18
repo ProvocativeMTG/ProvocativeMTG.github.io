@@ -1,4 +1,807 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Star-Speckled Ursine
+rules_text: Cluster — {3}{G}: Look at the top card of your library. If it’s a creature or land card, you may reveal it and put it into your hand. Otherwise, you may put that card into your graveyard. => Cluster — {3}{G}: Look at the top card of your library. If it's a creature or land card, you may reveal it and put it into your hand. Otherwise, you may put that card into your graveyard.
+
+Surai, Anjarjan Tyrant
+
+Nebula Kraken
+rules_text: Trample
+Cluster[i] [/i]— {3}{G}: Until end of turn, target creature you control assigns its combat damage as though it weren’t blocked. => Trample
+Cluster[i] [/i]— {3}{G}: Until end of turn, target creature you control assigns its combat damage as though it weren't blocked.
+
+Piercing Star
+
+Alexei, Rime Magnarch
+special_text: As long as Alexei entered this turn and you spent three or more {S} to cast him, you may activate his loyalty abilities twice rather than only once.
+[+1]: At the beginning of the next end step, untap up to one land you control and up to one snow land you control. Draw a card.
+[-2]: Tap target nonland permanent and put a stun counter on it. It loses all abilities for as long as it remains tapped.
+[-7]: You get an emblem with “Tap an untapped snow creature or snow land you control: Draw a card.”                                      => As long as Alexei entered this turn and you spent three or more {S} to cast him, you may activate his loyalty abilities twice rather than only once.
+[+1]: At the beginning of the next end step, untap up to one land you control and up to one snow land you control. Draw a card.
+[-2]: Tap target nonland permanent and put a stun counter on it. It loses all abilities for as long as it remains tapped.
+[-7]: You get an emblem with “Tap an untapped snow creature or snow land you control: Draw a card.”
+
+Lignification
+
+Elai Ascendant
+special_text: Whenever you cast a spell from anywhere other than your hand, you may activate one of Elai Ascendant’s loyalty abilities as though none of them have been activated this turn.
+[+2]: Exile the top two cards of your library. You may play one of those cards this turn.
+[0]: Until end of turn, you may play cards exiled with Elai Ascendant.
+[-X]: Elai Ascendant deals twice X damage to target creature. Exile cards from the top of your library equal to the excess damage dealt this way. You may play those cards this turn. => Whenever you cast a spell from anywhere other than your hand, you may activate one of Elai Ascendant's loyalty abilities as though none of them have been activated this turn.
+[+2]: Exile the top two cards of your library. You may play one of those cards this turn.
+[0]: Until end of turn, you may play cards exiled with Elai Ascendant.
+[-X]: Elai Ascendant deals twice X damage to target creature. Exile cards from the top of your library equal to the excess damage dealt this way. You may play those cards this turn.
+
+Alexei's Response
+
+Anjarjan Adjudicator
+rules_text: When this creature enters, you may return target enchantment card from your graveyard to your hand. If you don’t, draw a card. => When this creature enters, you may return target enchantment card from your graveyard to your hand. If you don't, draw a card.
+
+Suncatcher Elk
+
+Assembla Pathfinder
+
+Mooncrown Stag
+rules_text: Cluster — {3}{G}, Exile a creature card from your graveyard: Create a 2/2 colorless Spirit creature token with decayed. [i](It can’t block. When it attacks, sacrifice it at end of combat.)[/i] => Cluster — {3}{G}, Exile a creature card from your graveyard: Create a 2/2 colorless Spirit creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Kallaroot Soulspinner
+rules_text: When this creature dies, create a 2/2 colorless Spirit creature token with decayed. [i](It can’t block. When it attacks, sacrifice it at end of combat.)[/i] => When this creature dies, create a 2/2 colorless Spirit creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Smug Denial
+
+Fungal Cadaver
+rules_text: This creature can’t block.
+Whenever a non-Fungus creature you control dies, you may pay {B} and 1 life. If you do, return this card from your graveyard to the battlefield. => This creature can't block.
+Whenever a non-Fungus creature you control dies, you may pay {B} and 1 life. If you do, return this card from your graveyard to the battlefield.
+
+Rimestaff Mentor
+
+Might of Kjaldir
+
+Heavenly Empyrean
+
+Mesmer Enchantress
+rules_text: Trample
+Whenever another enchantment you control enters, draw a card.
+Whenever this creature attacks, enchantment creatures you control gain trample and get +X/+X until end of turn, where X is the number of cards you’ve drawn this turn. => Trample
+Whenever another enchantment you control enters, draw a card.
+Whenever this creature attacks, enchantment creatures you control gain trample and get +X/+X until end of turn, where X is the number of cards you've drawn this turn.
+
+Aurora Charger
+
+Icehide Golem
+
+Madness in Annihilation
+
+Fryde, Patron of Fools
+
+Soul-Axe Veteran
+rules_text: When this creature enters, exile target creature or planeswalker an opponent controls until this creature leaves the battlefield.
+During your turn, your opponents can’t cast spells or activate abilities unless they are mana abilities. => When this creature enters, exile target creature or planeswalker an opponent controls until this creature leaves the battlefield.
+During your turn, your opponents can't cast spells or activate abilities unless they are mana abilities.
+
+Solar Convert
+
+Charged Berserker
+rules_text: This creature’s power is equal to the number of cards you own in exile and in your graveyard that are instant cards, sorcery cards, and/or cards that have Adventures.
+When this creature enters, it deals damage equal to its power to up to one target creature or planeswalker. => This creature's power is equal to the number of cards you own in exile and in your graveyard that are instant cards, sorcery cards, and/or cards that have Adventures.
+When this creature enters, it deals damage equal to its power to up to one target creature or planeswalker.
+
+Berserker's Cairn
+
+Unbound Undead
+
+Ritualist of Old Blood
+rules_text: When this creature enters, choose one—
+• Create a 2/2 colorless Spirit creature token with decayed. [i](It can’t block. When it attacks, sacrifice it at end of combat.)[/i]
+• Sacrifice another creature. If you do, this creature deals 2 damage to any target. => When this creature enters, choose one—
+• Create a 2/2 colorless Spirit creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+• Sacrifice another creature. If you do, this creature deals 2 damage to any target.
+
+Aurora Harbinger
+
+Kallatree Reborn
+rules_text: Tap an untapped land you control: Add {C}.
+Tap two untapped lands you control: Add one mana of any color.
+Tap six untapped lands you control: Add {W}{U}{B}{R}{G}.
+Tap twenty untapped lands you control: Lands you control become 20/20 Avatar creatures with indestructible. They’re still lands. => Tap an untapped land you control: Add {C}.
+Tap two untapped lands you control: Add one mana of any color.
+Tap six untapped lands you control: Add {W}{U}{B}{R}{G}.
+Tap twenty untapped lands you control: Lands you control become 20/20 Avatar creatures with indestructible. They're still lands.
+
+Host of Night
+
+Ascendant Binding
+rules_text: Enchant nonland permanent
+When this Aura enters, tap enchanted permanent.
+Enchanted permanent loses all abilities and doesn’t untap during its controller’s untap step. => Enchant nonland permanent
+When this Aura enters, tap enchanted permanent.
+Enchanted permanent loses all abilities and doesn't untap during its controller's untap step.
+
+Hogback Chieftain
+
+Cobbled Protector
+rules_text: Haste
+Whenever this creature attacks, each creature you control that’s a Human and/or has an Adventure gains flying until end of turn. => Haste
+Whenever this creature attacks, each creature you control that's a Human and/or has an Adventure gains flying until end of turn.
+
+Deepwyn Desecrator
+
+Purifying Perfumer
+
+Reweaving the Roots
+
+Drakkon Boltcaster
+
+Minor Empyrean
+rules_text: This creature’s power and toughness are each equal to half the number of nonland permanents you control, rounded up. => This creature's power and toughness are each equal to half the number of nonland permanents you control, rounded up.
+
+Ardent Starcrafting
+
+Deepfrost Citadel
+
+Arboreal Artisanry
+
+Whims of the Welkin
+rules_text: Until end of turn, you may look at the top card of your library and you may play cards from the top of your library. If you cast a spell this way, pay life equal to it’s mana value rather than pay its mana cost. => Until end of turn, you may look at the top card of your library and you may play cards from the top of your library. If you cast a spell this way, pay life equal to it's mana value rather than pay its mana cost.
+
+Faithless Karaki
+
+Living Aurora
+rules_text: Flying
+Each Dragon you control has ward {3}. [i](Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)[/i]
+Cluster — {1}{U}{U}: Create a token that’s a copy of target token you control. => Flying
+Each Dragon you control has ward {3}. [i](Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)[/i]
+Cluster — {1}{U}{U}: Create a token that's a copy of target token you control.
+
+Ourobori, Reincarnated
+rules_text: Trample
+Ourobori gets +3/+3 for each enchantment you control.
+When Ourobori dies, you may sacrifice an enchantment. If you do, return Ourobori to its owner’s hand. => Trample
+Ourobori gets +3/+3 for each enchantment you control.
+When Ourobori dies, you may sacrifice an enchantment. If you do, return Ourobori to its owner's hand.
+
+Elvish Vitalist
+
+Climbing the Tree
+
+Kallatree Angel
+rules_text: Flying, vigilance
+Whenever this creature attacks, create an enchantment token named Realm’s Favor with “At the beginning of your end step, put a +1/+1 counter on each creature you control and a loyalty counter on each planeswalker you control.” => Flying, vigilance
+Whenever this creature attacks, create an enchantment token named Realm's Favor with “At the beginning of your end step, put a +1/+1 counter on each creature you control and a loyalty counter on each planeswalker you control.”
+
+Tender of the Land
+rules_text: If one or more tokens would be created under your control, instead create that many tokens plus a 1/1 green Forest Dryad land creature token. [i](It’s affected by summoning sickness.)[/i] => If one or more tokens would be created under your control, instead create that many tokens plus a 1/1 green Forest Dryad land creature token. [i](It's affected by summoning sickness.)[/i]
+
+Arrested by Moonlight
+rules_text: Enchant creature
+When this Aura enters, stargaze. [i](Reveal a Luminary you own from outside the game to put it into your hand and/or activate its cluster ability without paying its generic cost.)[/i]
+Enchanted creature can’t attack or block. => Enchant creature
+When this Aura enters, stargaze. [i](Reveal a Luminary you own from outside the game to put it into your hand and/or activate its cluster ability without paying its generic cost.)[/i]
+Enchanted creature can't attack or block.
+
+Surai's Armillary
+
+Grip of the Rime
+
+Cliffs of the Solemn Seekers
+
+Chilling Cross
+rules_text: If {S}{S} was spent to cast this spell, it can’t be countered.
+Counter target spell. => If {S}{S} was spent to cast this spell, it can't be countered.
+Counter target spell.
+
+Winter's Dictate
+
+Otherwordly Crafter
+rules_text: Enchantment spells you cast cost {1} less to cast.
+At the beginning of your upkeep, if you control four or more differently named enchantments, create a token that’s a copy of another target enchantment you control. => Enchantment spells you cast cost {1} less to cast.
+At the beginning of your upkeep, if you control four or more differently named enchantments, create a token that's a copy of another target enchantment you control.
+
+Realm Evacuation
+rules_text: Starting with you, each player chooses a permanent type that hasn’t been chosen yet. Then for each player, destroy all nonland permanents they control not of their chosen type. => Starting with you, each player chooses a permanent type that hasn't been chosen yet. Then for each player, destroy all nonland permanents they control not of their chosen type.
+
+Sigri, Kallatree Avatar
+
+Heidra's Heartglade
+
+Lamplighter
+
+Illusionist's Talent
+rules_text: Whenever you cast a spell that targets only a single creature, you may have this enchantment become a copy of that creature until end of turn, except its a 1/1 blue Bird creature with flying in addition to its other types and isn’t legendary. => Whenever you cast a spell that targets only a single creature, you may have this enchantment become a copy of that creature until end of turn, except its a 1/1 blue Bird creature with flying in addition to its other types and isn't legendary.
+
+Skodir, Reborn
+
+Prancing Flame
+
+Teluran Portal
+rules_text: At the beginning of your end step, exile up to one target creature you control with one or more +1/+1 counters on it. Return it to the battlefield under its owner’s control with X +1/+1 counters on it, where X is 1 plus the number of +1/+1 counters that were on it as it left the battlefield. => At the beginning of your end step, exile up to one target creature you control with one or more +1/+1 counters on it. Return it to the battlefield under its owner's control with X +1/+1 counters on it, where X is 1 plus the number of +1/+1 counters that were on it as it left the battlefield.
+
+Njora, First Assembla
+rules_text: Trample, ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever an opponent casts a spell, they may sacrifice a permanent, If they don’t, you may copy that spell. You may choose new targets for the copy. => Trample, ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever an opponent casts a spell, they may sacrifice a permanent, If they don't, you may copy that spell. You may choose new targets for the copy.
+
+Dark Matter Kirin
+rules_text: Flying, lifelink
+Cluster — {4}{B}{B}: Each opponent loses life equal to the amount of life you’ve gained this turn. => Flying, lifelink
+Cluster — {4}{B}{B}: Each opponent loses life equal to the amount of life you've gained this turn.
+
+Ifryn, Last Assembla
+rules_text: Menace
+At the beginning of your upkeep, choose target player. Until end of turn, that player can’t cast spells or activate abilities and plays with their hand and the top card of their library revealed. Until end of turn, you may cast spells from that player’s hand and from the top of their library. You may spend mana as though it were mana of any color to cast spells this way. => Menace
+At the beginning of your upkeep, choose target player. Until end of turn, that player can't cast spells or activate abilities and plays with their hand and the top card of their library revealed. Until end of turn, you may cast spells from that player's hand and from the top of their library. You may spend mana as though it were mana of any color to cast spells this way.
+
+Ifryn Unseals the Gate
+
+Zyxtron, the Realmslayer
+
+Displace from Reality
+rules_text: Exile target nonland permanent. For as long as that card remains exiled, its owner may play it. If you don’t own that card, it gains “You may cast this card from exile as long as you’ve cast another spell this turn.” => Exile target nonland permanent. For as long as that card remains exiled, its owner may play it. If you don't own that card, it gains “You may cast this card from exile as long as you've cast another spell this turn.”
+
+Chromatic Apex
+rules_text: Flying, protection from monocolored[i][/i] [i](This creature can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything monocolored[/i].)
+Cluster — {W}{U}{B}{R}{G}: Exile cards from the top of your library until you exile a nonland card. You may cast that card without paying its mana cost. Put the exiled cards on the bottom of your library in a random order. Activate only during your turn. => Flying, protection from monocolored[i][/i] [i](This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything monocolored[i][/i].)[/i]
+Cluster — {W}{U}{B}{R}{G}: Exile cards from the top of your library until you exile a nonland card. You may cast that card without paying its mana cost. Put the exiled cards on the bottom of your library in a random order. Activate only during your turn.
+
+Amede, the Invoker
+special_text: If one or more +1/+1 counters would be put on a permanent you control, that many plus one +1/+1 counters are put on it instead.
+[+1]: Untap up to one target creature.
+[-2]: Create a 1/1 green Shaman creature token with “{T}: Add X mana of any one color, where X is this creature’s power.”
+[-6]: You get an emblem with “At the beginning of each combat, double the power and toughness of each creature you control until end of turn.” => If one or more +1/+1 counters would be put on a permanent you control, that many plus one +1/+1 counters are put on it instead.
+[+1]: Untap up to one target creature.
+[-2]: Create a 1/1 green Shaman creature token with “{T}: Add X mana of any one color, where X is this creature's power.”
+[-6]: You get an emblem with “At the beginning of each combat, double the power and toughness of each creature you control until end of turn.”
+
+Deepwyn Summoning
+rules_text: Search your library and/or graveyard for a creature card with mana value X or less and put it onto the battlefield. If that creature’s mana value is less than X, it enters the battlefield with a number of additional +1/+1 counters on it equal to the difference. If you search your library this way, shuffle. => Search your library and/or graveyard for a creature card with mana value X or less and put it onto the battlefield. If that creature's mana value is less than X, it enters the battlefield with a number of additional +1/+1 counters on it equal to the difference. If you search your library this way, shuffle.
+
+Pray to the Forbidden
+
+Deep Depths Serpent
+
+Cosmic Reaper
+
+Emissary of the Inferno
+rules_text: Flying
+Whenever you cast an instant or sorcery spell, create a 1/1 red Devil creature token with “When this creature dies, it deals 1 damage to any target.”
+Whenever a token you control enters, double this creature’s power until end of turn. => Flying
+Whenever you cast an instant or sorcery spell, create a 1/1 red Devil creature token with “When this creature dies, it deals 1 damage to any target.”
+Whenever a token you control enters, double this creature's power until end of turn.
+
+Kallaroots Lich
+
+Cosmic Ascension
+rules_text: Return target permanent card with mana value 3 or less from your graveyard to the battlefield. If it’s a creature, it enters the battlefield with X additional +1/+1 counters on it. If it’s a planeswalker, it enters the battlefield with X additional loyalty counters on it. => Return target permanent card with mana value 3 or less from your graveyard to the battlefield. If it's a creature, it enters the battlefield with X additional +1/+1 counters on it. If it's a planeswalker, it enters the battlefield with X additional loyalty counters on it.
+
+Pulsating Spire
+
+Bold Bulwark
+rules_text: Whenever this creature attacks, if defending player controls two or fewer basic lands, target creature can’t block this turn. => Whenever this creature attacks, if defending player controls two or fewer basic lands, target creature can't block this turn.
+
+Dawn on the Weary
+rules_text: Players can’t cast noncreature spells.
+At the beginning of your upkeep, exile this enchantment and scry 2. => Players can't cast noncreature spells.
+At the beginning of your upkeep, exile this enchantment and scry 2.
+
+True Ice Shard
+
+Kjaldiran Elk
+
+Pale Life-Shadow
+
+Chilling Presence
+
+Returned Frostblade
+rules_text: This creature can’t block.
+Whenever one or more snow cards not named Returned Frostblade are put into your graveyard from anywhere, you may pay 1 life. If you do, return this card from your graveyard to your hand. => This creature can't block.
+Whenever one or more snow cards not named Returned Frostblade are put into your graveyard from anywhere, you may pay 1 life. If you do, return this card from your graveyard to your hand.
+
+Bearer of the Rage
+
+Infested Kallaheart
+
+Verglas Stagrider
+
+Deathless Conscription
+
+Elvish Branchwalker
+
+Anjarjan Archangel
+
+Deepwyn Lurker
+
+Snow on Empires Past
+rules_text: Reveal the top four cards of your library. You may put a snow card from among them into your hand. If you don’t, you gain 2 life. Put the rest into your graveyard. => Reveal the top four cards of your library. You may put a snow card from among them into your hand. If you don't, you gain 2 life. Put the rest into your graveyard.
+
+Lanion, Beyond Realms
+
+Pyrrhic Strike
+
+Lanion's Sacrifice
+rules_text: As an additional cost to cast this spell, sacrifice an artifact, sacrifice a creature, or pay {2}{B}.
+Lanion’s Sacrifice deals 3 damage to any target and you gain 3 life. => As an additional cost to cast this spell, sacrifice an artifact, sacrifice a creature, or pay {2}{B}.
+Lanion's Sacrifice deals 3 damage to any target and you gain 3 life.
+
+Ingjald, Vile Calamity
+
+Tiraan, the Uranographer
+
+Fugue Dirge
+
+Drakkonic Scion
+
+Predator's Wake
+
+Galaxy Drakkon
+
+Auspicious Avatar
+
+Starfang Serpent
+
+Countervailing Drakkon
+
+Armillary Drakkon
+
+Crimson Deathmaw
+
+Wrath of the Empyreans
+
+Myriad Forms
+rules_text: Enchant creature
+At the beginning of combat on enchanted creature’s controller’s turn, that player creates three tokens that are copies of enchanted creature, except those tokens have haste. Exile those tokens at the beginning of the next end step. => Enchant creature
+At the beginning of combat on enchanted creature's controller's turn, that player creates three tokens that are copies of enchanted creature, except those tokens have haste. Exile those tokens at the beginning of the next end step.
+
+Constellamancer
+rules_text: When this creature enters, target player mills two cards.
+Cluster — {3}{U}: Choose up to one card in a graveyard that was put there from anywhere other than the battlefield this turn. Return that card to its owner’s hand. => When this creature enters, target player mills two cards.
+Cluster — {3}{U}: Choose up to one card in a graveyard that was put there from anywhere other than the battlefield this turn. Return that card to its owner's hand.
+
+Storm Drakkon
+
+Rebel Rising
+
+Boreal Bastion
+rules_text: This land enters tapped.
+When this land enters, if you control another snow permanent, exile target player’s graveyard.
+{T}: Add {C}. => This land enters tapped.
+When this land enters, if you control another snow permanent, exile target player's graveyard.
+{T}: Add {C}.
+
+Bog Beetle
+rules_text: Vigilance
+Whenever this creature attacks, put a +1/+1 counter on it and defending player chooses a creature card in your graveyard. Exile that card. Create a token that’s a copy of it, except it’s a Treasure artifact with “{T}, Sacrifice this artifact: Add one mana of any color” and it loses all other types. => Vigilance
+Whenever this creature attacks, put a +1/+1 counter on it and defending player chooses a creature card in your graveyard. Exile that card. Create a token that's a copy of it, except it's a Treasure artifact with “{T}, Sacrifice this artifact: Add one mana of any color” and it loses all other types.
+
+Bronzewing Sagittar
+
+Glory of the Heavens
+
+Locus Manipulator
+rules_text: When this creature enters, create a token that’s a copy of target enchantment you control. => When this creature enters, create a token that's a copy of target enchantment you control.
+
+Moonshaker Cavalry
+
+Warlock's Ire
+
+Serpent of World's Edge
+
+Empyrean Inquisition
+rules_text: Target opponent reveals their hand. You choose a nonland card from it. Exile it. Search its owner’s graveyard, hand, and library for any number of cards with the same name as that card and exile them. That player shuffles, then draws a card for each card exiled from their hand this way beyond the first. => Target opponent reveals their hand. You choose a nonland card from it. Exile it. Search its owner's graveyard, hand, and library for any number of cards with the same name as that card and exile them. That player shuffles, then draws a card for each card exiled from their hand this way beyond the first.
+
+Saboteur's Display
+
+Arrow of the Heavens
+
+Starchaser
+
+Xyvera, Who Remains
+rules_text: Menace
+When Xyvera enters or whenever you play a land or cast a spell you don’t own, exile the top card of target opponent’s library. You may play that card for as long as it remains in exile, and you may spend mana as though it were mana of any color to cast it. => Menace
+When Xyvera enters or whenever you play a land or cast a spell you don't own, exile the top card of target opponent's library. You may play that card for as long as it remains in exile, and you may spend mana as though it were mana of any color to cast it.
+
+Knutr, Blighted Embrace
+rules_text: When Knutr enters, create a Treasure token.
+Whenever a creature dies, exile the top card of its controller’s library. Until your next end step, you may play that card. => When Knutr enters, create a Treasure token.
+Whenever a creature dies, exile the top card of its controller's library. Until your next end step, you may play that card.
+
+Longboat Hunter
+rules_text: This spell can’t be countered.
+Kraken, Leviathan, Octopus, and Serpent spells you control can’t be countered. => This spell can't be countered.
+Kraken, Leviathan, Octopus, and Serpent spells you control can't be countered.
+
+Katjar Peacebane
+
+Celestial Vault
+
+Scryer's Safeguard
+rules_text: Return target permanent you control to its owner’s hand. 
+Draw a card. => Return target permanent you control to its owner's hand. 
+Draw a card.
+
+Frostdrakkon's Shadow
+
+Runewarper
+
+Unleashed Malevolence
+
+Challenge the Heavens
+
+Convergent Cairn
+
+Kjaldiran Cavalry
+rules_text: At the beginning of your end step, if you’ve cast both a creature spell and noncreature spell this turn, this creature deals 4 damage to each opponent. => At the beginning of your end step, if you've cast both a creature spell and noncreature spell this turn, this creature deals 4 damage to each opponent.
+
+Drakkon Tender
+
+Convergence Pack
+
+Wicked Elderspirit
+
+Realmtillers
+
+Ecliptic Angel
+
+Symbol of the Storm
+
+Empyrean Mare
+
+Manifested Eclipse
+
+Transgress Heaven
+
+Kallaheart Commander
+
+Blessed Dragonslayer
+
+Realmsieger
+rules_text: Whenever you cast or copy an Adventure spell, if it’s your main phase, there’s an additional combat phase after this phase. At the beginning of that combat, untap all creatures you control. => Whenever you cast or copy an Adventure spell, if it's your main phase, there's an additional combat phase after this phase. At the beginning of that combat, untap all creatures you control.
+
+Self-Destruct
+
+Kallaheart Redeemer
+
+Corrupted Empyrean
+rules_text: Menace
+This creature can’t block. => Menace
+This creature can't block.
+
+Hero of the Final Dawn
+
+Mage-Warrior Prefect
+
+Reconstitute
+
+Resolute Starweaver
+
+Seal Away
+
+Eirsdottir, the Insurgent
+rules_text: Whenever you cast or copy an Adventure spell, put a +1/+1 counter on Eirsdottir.
+Whenever Eirsdottir attacks, create X 2/1 red Human Warrior creature tokens, where X is Eirsdottir’s power. Those tokens enter tapped and attacking. => Whenever you cast or copy an Adventure spell, put a +1/+1 counter on Eirsdottir.
+Whenever Eirsdottir attacks, create X 2/1 red Human Warrior creature tokens, where X is Eirsdottir's power. Those tokens enter tapped and attacking.
+
+Wandering Glacier
+
+Uncharted Expanse
+
+Guide the Way
+
+Talkia, Astral Current
+
+Hoarfrost Greatwolf
+rules_text: This creature’s power and toughness are each equal to the number of snow permanents you control.
+When this creature enters, create two 2/2 green Wolf creature tokens.
+Wolves you control have trample. => This creature's power and toughness are each equal to the number of snow permanents you control.
+When this creature enters, create two 2/2 green Wolf creature tokens.
+Wolves you control have trample.
+
+Moonguard Empyrean
+rules_text: Trample
+Whenever you cast a spell that’s white, blue, black, or red, put a +1/+1 counter on this creature.
+Cluster — {3}{G}: Search your library for a basic land card, reveal it, put it into your hand, then shuffle. => Trample
+Whenever you cast a spell that's white, blue, black, or red, put a +1/+1 counter on this creature.
+Cluster — {3}{G}: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+
+Frode, Assembla's Arrow
+rules_text: At the beginning of combat on your turn, for each enchantment you control, choose an ability from among first strike, flying, vigilance, and lifelink that you haven’t chosen yet this combat. Creatures you control gain the chosen abilities until end of turn. => At the beginning of combat on your turn, for each enchantment you control, choose an ability from among first strike, flying, vigilance, and lifelink that you haven't chosen yet this combat. Creatures you control gain the chosen abilities until end of turn.
+
+Glacial Expedition
+
+Elderwurm's Lair
+
+Frode's Messenger
+
+Brilliance of the Heavens
+
+Celestial Unicorn
+
+Vestige of Spring
+
+Aurora Chorus
+rules_text: At the beginning of each end step, if you’ve gained 3 or more life this turn, draw a card. Then if you’ve gained 6 or more life this turn, create a 4/4 white Angel creature token with flying and vigilance. => At the beginning of each end step, if you've gained 3 or more life this turn, draw a card. Then if you've gained 6 or more life this turn, create a 4/4 white Angel creature token with flying and vigilance.
+
+Haughty Empyrean
+
+Umbral Trespasser
+
+Lich's Masterpiece
+
+Preserved Leviathan
+
+Surge of the Ancestors
+
+Mercurial Drakkon
+
+Skeletal Abomination
+rules_text: {S}, {T}, Sacrifice another creature: You gain life equal to that creature’s power and draw a card. => {S}, {T}, Sacrifice another creature: You gain life equal to that creature's power and draw a card.
+
+Portent of the End
+rules_text: Flying
+When this creature enters, create a 2/2 colorless Spirit creature token with decayed. [i](It can’t block. When it attacks, sacrifice it at end of combat.)[/i] => Flying
+When this creature enters, create a 2/2 colorless Spirit creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Hulking Monstrosity
+
+Slumbering Branchspeaker
+
+Fryde's Lurker
+
+Claws of the Deepwyn
+
+Branchspine Serpent
+
+Haunted Journeyman
+rules_text: Haste
+When this creature dies, create a 2/2 colorless Spirit creature token with decayed. [i](It can’t block. When it attacks, sacrifice it at end of combat.)[/i] => Haste
+When this creature dies, create a 2/2 colorless Spirit creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Hunter's Stalking
+
+Demonic Rites
+
+Deathless Pact
+
+Touch the Kallatree Heart
+rules_text: Search your library for up to two land cards, put them onto the battlefield tapped, then shuffle. Then create a 2/2 colorless Spirit creature token with decayed for each land you control. [i](A creature with decayed can’t block. When it attacks, sacrifice it at end of combat.)[/i] => Search your library for up to two land cards, put them onto the battlefield tapped, then shuffle. Then create a 2/2 colorless Spirit creature token with decayed for each land you control. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Offering to Chaos
+
+Starforger Empyrean
+
+Njora's Titan
+
+Eye of the Oppressor
+rules_text: Vigilance
+Whenever a spell or ability an opponent controls destroys a noncreature permanent you control, you may destroy target nonland permanent that opponent controls. If you don’t, tap all permanents they control. => Vigilance
+Whenever a spell or ability an opponent controls destroys a noncreature permanent you control, you may destroy target nonland permanent that opponent controls. If you don't, tap all permanents they control.
+
+Kallaheart Fireblade
+
+Martyr's Funeral
+
+Bitter End
+
+Deepwyn Witness
+
+Bovi's Realmcutter
+
+Mystic Repeal
+rules_text: Put target enchantment on the bottom of its owner’s library. => Put target enchantment on the bottom of its owner's library.
+
+Realmbranch Husk
+rules_text: {T}: Add {C}.
+{T}, Sacrifice this land: Destroy target nonbasic land. If it wasn’t a snow land, that land’s controller may search their library for a basic land card, put it onto the battlefield, then shuffle. => {T}: Add {C}.
+{T}, Sacrifice this land: Destroy target nonbasic land. If it wasn't a snow land, that land's controller may search their library for a basic land card, put it onto the battlefield, then shuffle.
+
+Worthy Prey
+
+Age of Unceasing Ice
+rules_text: Whenever one or more snow cards are put into your graveyard from anywhere, exile up to one target creature you control, then return it to the battlefield under its owner’s control at the beginning of the next end step. => Whenever one or more snow cards are put into your graveyard from anywhere, exile up to one target creature you control, then return it to the battlefield under its owner's control at the beginning of the next end step.
+
+Perdition
+
+Cryodrakkon
+
+Drakkon Egg
+
+Binding of the Beast
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — You may sacrifice a creature. If you do, search your library for a creature card with mana value equal to 1 plus the sacrificed creature’s mana value, put that card onto the battlefield, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — You may sacrifice a creature. If you do, search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield, then shuffle.
+
+Brutal Flail
+
+Entombed Blade
+rules_text: Equipped creature gets +1/+1 and has “Whenever this creature attacks, exile up to one target card from defending player’s graveyard.”
+Equip {1} => Equipped creature gets +1/+1 and has “Whenever this creature attacks, exile up to one target card from defending player's graveyard.”
+Equip {1}
+
+Realmbound Rider
+
+Cairn Phantom
+
+Wing-Granted Paladin
+
+Aura of Redemption
+
+Divine Inundation
+
+Nova Angel
+
+Compelling Demons
+
+Raging Giant
+
+Bring Ruin to the Realms
+rules_text: Bring Ruin to the Realms deals 1 damage to each creature and planeswalker your opponents control. Creatures your opponents control can’t block this turn. => Bring Ruin to the Realms deals 1 damage to each creature and planeswalker your opponents control. Creatures your opponents control can't block this turn.
+
+Greedy Barbarian
+
+Ancestral Anger
+
+Cloak of the Equinox
+
+Stormguide Hammer
+
+Undying Wrath
+rules_text: Creatures you control get +2/+0 until end of turn. Whenever a nontoken creature you control dies this turn, create a 2/2 colorless Spirit creature token with decayed. [i](It can’t block. When it attacks, sacrifice it at end of combat.)[/i] => Creatures you control get +2/+0 until end of turn. Whenever a nontoken creature you control dies this turn, create a 2/2 colorless Spirit creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Trudge Skeleton
+
+Tusked Snowlion
+rules_text: This creature can’t be blocked by creatures with power 2 or less.
+At the beginning of your end step, if a snow card was put into your graveyard from anywhere this turn, put a +1/+1 counter on target creature you control. => This creature can't be blocked by creatures with power 2 or less.
+At the beginning of your end step, if a snow card was put into your graveyard from anywhere this turn, put a +1/+1 counter on target creature you control.
+
+Blightlight Shaman
+
+Welkin Communers
+
+In Glory
+
+Empyrean of Change
+
+Granted Strength
+
+Angel of Dusk and Dawn
+
+Realmsundering
+rules_text: At the beginning of each player’s upkeep, they sacrifice a nonland permanent. When they do, they reveal cards from the top of their library until they reveal a permanent card that shares a card type with the sacrificed permanent. Put that card onto the battlefield under your control and shuffle each other card revealed this way into their owner’s library. => At the beginning of each player's upkeep, they sacrifice a nonland permanent. When they do, they reveal cards from the top of their library until they reveal a permanent card that shares a card type with the sacrificed permanent. Put that card onto the battlefield under your control and shuffle each other card revealed this way into their owner's library.
+
+Kin Waymarker
+rules_text: As this artifact enters, choose a creature type.
+Tap an untapped land you control: Add one mana of any color. Spend this mana only to cast creature spells of the chosen creature type.
+{1}, {T}, Sacrifice this artifact: Exile all cards from all graveyards that aren’t of the chosen creature type. => As this artifact enters, choose a creature type.
+Tap an untapped land you control: Add one mana of any color. Spend this mana only to cast creature spells of the chosen creature type.
+{1}, {T}, Sacrifice this artifact: Exile all cards from all graveyards that aren't of the chosen creature type.
+
+Heidra, the Deepheart
+
+Storied Cairn
+rules_text: {T}: You mill two cards.
+{4}, Sacrifice this artifact: Return target creature card from your graveyard to the battlefield with a decayed counter on it. Activate only as a sorcery. [i](A creature with decayed can’t block. When it attacks, sacrifice it at end of combat.)[/i] => {T}: You mill two cards.
+{4}, Sacrifice this artifact: Return target creature card from your graveyard to the battlefield with a decayed counter on it. Activate only as a sorcery. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Comet Fox
+
+Runed Axe
+
+Vaunted Starmaker
+
+Razer of Planets
+rules_text: Vigilance
+Cluster — {X}{W}{U}{U}: You gain X life and draw X cards. [i]({X} isn’t a generic cost, and must be paid when stargazing.)[/i] => Vigilance
+Cluster — {X}{W}{U}{U}: You gain X life and draw X cards. [i]({X} isn't a generic cost, and must be paid when stargazing.)[/i]
+
+Assembla's Guardian
+
+Eager Sledrunners
+
+Brynhilda, the Avaricious
+rules_text: Whenever another nontoken creature you control dies, if it didn’t have decayed, return it to the battlefield under your control with a decayed counter on it. [i](A creature with decayed can’t block. When it attacks, sacrifice it at end of combat.)[/i]
+Tap three untapped creatures you control: Each opponent loses 1 life. => Whenever another nontoken creature you control dies, if it didn't have decayed, return it to the battlefield under your control with a decayed counter on it. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Tap three untapped creatures you control: Each opponent loses 1 life.
+
+Farsight Welkinborn
+
+Moonbind Empyrean
+rules_text: When this creature enters, tap target creature an opponent controls.
+Cluster — {3}{U}: Target tapped creature doesn’t untap during its controller’s next untap step. => When this creature enters, tap target creature an opponent controls.
+Cluster — {3}{U}: Target tapped creature doesn't untap during its controller's next untap step.
+
+Tarja, Favored Keen-Eye
+
+Swift Karve
+
+Ravenous Tracker
+
+Heaven's Sprouting
+
+Anguished Creation
+
+Decisive Cry
+
+Sungold Blade
+
+Reshape the Heavens
+
+Lich's Vile Throne
+
+Unseal the Cairn
+rules_text: Return target creature card with mana value 3 or less from your graveyard to the battlefield with a decayed counter on it. [i](It can’t block. When it attacks, sacrifice it at end of combat.)[/i] => Return target creature card with mana value 3 or less from your graveyard to the battlefield with a decayed counter on it. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Dark Star
+
+Restless Skeleton
+
+Flowing Runes
+
+Last Packmate
+rules_text: When this creature enters, create two 2/2 colorless Spirit creature tokens with decayed. [i](A creature with decayed can’t block. When it attacks, sacrifice it at end of combat.)[/i] => When this creature enters, create two 2/2 colorless Spirit creature tokens with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Ascend to Legend
+rules_text: Enchant creature
+When this Aura enters, stargaze. [i](Reveal a Luminary you own from outside the game to put it into your hand and/or activate its cluster ability without paying its generic cost.)[/i]
+When enchanted creature dies, return it to the battlefield under its owner’s control. => Enchant creature
+When this Aura enters, stargaze. [i](Reveal a Luminary you own from outside the game to put it into your hand and/or activate its cluster ability without paying its generic cost.)[/i]
+When enchanted creature dies, return it to the battlefield under its owner's control.
+
+Sigiled Prayer Sphere
+
+Conjure the Snowstorm
+
+Sleetfeather Owl
+
+Frost Giants of Skolha
+rules_text: This creature enters tapped unless there’s a snow card in your graveyard. => This creature enters tapped unless there's a snow card in your graveyard.
+
+Cryomancer's Assembly
+
+Skolhan Crowcaster
+rules_text: Whenever you cast or copy a Adventure spell spell, create a 1/1 blue Bird creature token with flying.  => Whenever you cast or copy a Adventure spell spell, create a 1/1 blue Bird creature token with flying.
+
+Wildspark Mage
+
+Vilemoon Apparition
+
+Furnace Golem
+
+Clear the Mind
+
+Cosmic Oppression
+
+Grave Seal
+
+Throne of the Celestial Realm
+
+Aurora Tarn
+
+Behemoth Gateway
+
+Chilling Cavern
+
+Frigid Fane
+
+Icy Stronghold
+
+Rime Copse
+
+Snowy Pastures
+
+Sunlit Whitecaps
+
+Thawing Shipyward
+
+Training Spires
+
+Never Apart
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

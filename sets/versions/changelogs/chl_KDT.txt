@@ -1,4 +1,987 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Threadweaver Shinobi added.
+Spirit Realm Phoenix added.
+Kage, Cursed Conqueror added.
+Ageless Seishin added.
+The Ancestral Legion added.
+Stratostorm added.
+Gereishin, the Stormlord added.
+Butchery added.
+Mastery added.
+Shiori, the Trickster added.
+Majesty added.
+Tsubasa Shigane added.
+Ayeshi, Time's Jailer added.
+The Dutiful Wanderer added.
+Giyama, Scion of Kage added.
+Secrecy added.
+Equanimity added.
+Perils of Eternity added.
+Aonuma, Princely Traveler added.
+Koraja, the Broken Blade added.
+
+
+Uncoiling Realmspawn
+rules_text: Whenever this creature attacks, choose one —
+• If you control another creature with greater power, put a +1/+1 counter on this creature.
+• The base power and toughness of other attacking creatures you control become equal to this creature’s power and toughness until end of turn. => Whenever this creature attacks, choose one —
+• If you control another creature with greater power, put a +1/+1 counter on this creature.
+• The base power and toughness of other attacking creatures you control become equal to this creature's power and toughness until end of turn.
+
+Kimja Deadeye
+rules_text: Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+Whenever a creature you control attacks alone, you may reveal the top card of your library, then put it into your hand. If you do, each player loses life equal to that card’s mana value. => Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+Whenever a creature you control attacks alone, you may reveal the top card of your library, then put it into your hand. If you do, each player loses life equal to that card's mana value.
+
+The Dutiful Wanderer
+special_text: Each opponent who cast a spell this turn can’t attack The Dutiful Wanderer.
+Each opponent who attacked The Dutiful Wanderer this turn can’t cast spells.
+[+1]: Create a 2/2 white Samurai creature token with exalted.
+[-3]: Exile up to one target creature you control and up to one target creature you don’t control, then return the creature you controlled to the battlefield under its owner’s control. => Each opponent who cast a spell this turn can't attack The Dutiful Wanderer.
+Each opponent who attacked The Dutiful Wanderer this turn can't cast spells.
+[+1]: Create a 2/2 white Samurai creature token with exalted.
+[-3]: Exile up to one target creature you control and up to one target creature you don't control, then return the creature you controlled to the battlefield under its owner's control.
+
+Akihiko, Wayfinder
+rules_text: Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever one or more nontoken creatures you control leave the battlefield without dying, create a 1/1 blue Ninja creature token with “This creature can’t be blocked by creatures with greater power.” => Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever one or more nontoken creatures you control leave the battlefield without dying, create a 1/1 blue Ninja creature token with “This creature can't be blocked by creatures with greater power.”
+
+Tsubasa Shigane
+special_text: Ninjutsu {1}{G}{U}
+As long as Tsubasa Shigane entered during combat this turn, he’s a 4/4 Ninja creature with hexproof and you may activate his loyalty abilities any time you could cast an instant.
+[+1]: Put a shield counter on up to one other target creature without a shield counter on it.
+[-1]: Double another target creature’s power until end of turn.
+[-2]: Return target creature to its owner’s hand. => Ninjutsu {1}{G}{U}
+As long as Tsubasa Shigane entered during combat this turn, he's a 4/4 Ninja creature with hexproof and you may activate his loyalty abilities any time you could cast an instant.
+[+1]: Put a shield counter on up to one other target creature without a shield counter on it.
+[-1]: Double another target creature's power until end of turn.
+[-2]: Return target creature to its owner's hand.
+
+Ribbon Dancer
+
+Mirageform Shinobi
+rules_text: Ninjutsu {G} [i]({G}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+Whenever this creature deals combat damage to a player, put a +1/+1 counter on target creature you control that doesn’t have a +1/+1 counter on it. => Ninjutsu {G} [i]({G}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+Whenever this creature deals combat damage to a player, put a +1/+1 counter on target creature you control that doesn't have a +1/+1 counter on it.
+
+Nimble Mentor
+
+Arushi, Shigane Heirloom
+
+Imperial Tour
+
+Hyomon, Cloud Conductor
+rules_text: Flying
+Whenever Hyomon deals combat damage to a player, you may create a token that’s a copy of target token you control that entered this turn. => Flying
+Whenever Hyomon deals combat damage to a player, you may create a token that's a copy of target token you control that entered this turn.
+
+Ikurimoko's Presence
+rules_text: Flash
+You may cast creature spells as though they have flash.
+{G}{U}: Ikurimoko’s Presence becomes a 3/2 Dragon creature with flying in addition to its other types. => Flash
+You may cast creature spells as though they have flash.
+{G}{U}: Ikurimoko's Presence becomes a 3/2 Dragon creature with flying in addition to its other types.
+
+Yingjun's Presence
+rules_text: At the end of combat on your turn, untap all nonland permanents you control.
+{W}{U}: Yingjun’s Presence becomes a 3/2 Dragon creature with flying in addition to its other types. => At the end of combat on your turn, untap all nonland permanents you control.
+{W}{U}: Yingjun's Presence becomes a 3/2 Dragon creature with flying in addition to its other types.
+
+Bladecross Student
+
+Infernal Kitsune
+
+Nocturnal Glintblade
+
+Aoushun's Presence
+rules_text: At the end of combat on your turn, you may sacrifice another creature. If you do, Aoushun’s Presence deals 2 damage to each opponent that creature attacked this turn and you draw a card.
+{B}{R}: Aoushun’s Presence becomes a 3/2 Dragon creature with flying in addition to its other types. => At the end of combat on your turn, you may sacrifice another creature. If you do, Aoushun's Presence deals 2 damage to each opponent that creature attacked this turn and you draw a card.
+{B}{R}: Aoushun's Presence becomes a 3/2 Dragon creature with flying in addition to its other types.
+
+Gereishin's Presence
+rules_text: At the beginning of combat on your turn, you may put a +1/+1 counter on another target creature you control.
+{R}{G}: Gereishin’s Presence becomes a 3/2 Dragon creature with flying in addition to its other types. => At the beginning of combat on your turn, you may put a +1/+1 counter on another target creature you control.
+{R}{G}: Gereishin's Presence becomes a 3/2 Dragon creature with flying in addition to its other types.
+
+Keuya's Presence
+rules_text: Once during each of your turns, you may cast a creature spell with mana value 2 or less from your graveyard. If you do, it enters with a finality counter on it. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]
+{W}{B}: Keuya’s Presence becomes a 3/2 Dragon creature with flying in addition to its other types. => Once during each of your turns, you may cast a creature spell with mana value 2 or less from your graveyard. If you do, it enters with a finality counter on it. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]
+{W}{B}: Keuya's Presence becomes a 3/2 Dragon creature with flying in addition to its other types.
+
+Kei, Exiled Survivor
+
+Lesser Dragon
+
+Verdant Winder
+
+Butterfly Dragonling
+
+Realm-Delver Whelp
+rules_text: Flying
+As long as it’s your turn, this creature has first strike.
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i] => Flying
+As long as it's your turn, this creature has first strike.
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Friendly Dragonling
+
+Ukina, Aethersong Basker
+
+Chittering Ascetic
+
+Vicious Backstab
+
+Demonic Reposession
+
+Willing Acolyte
+
+Basking Kitsune
+
+Chomei, the Hostmother
+
+Adorned Kitsune
+
+Illusory Savior
+rules_text: Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+Sacrifice this creature: Choose another target creature you control. When it’s put into a graveyard this turn, return that card to the battlefield tapped under its owner’s control. => Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+Sacrifice this creature: Choose another target creature you control. When it's put into a graveyard this turn, return that card to the battlefield tapped under its owner's control.
+
+Crane Dancer
+
+Aether Dancer
+
+Uiki Initiate
+
+Ofuda Mistress
+rules_text: Whenever this creature becomes tapped, exile up to one target card from an opponent’s graveyard.
+{3}{W}, {T}: Create a 1/1 white Monk creature token with vigilance. => Whenever this creature becomes tapped, exile up to one target card from an opponent's graveyard.
+{3}{W}, {T}: Create a 1/1 white Monk creature token with vigilance.
+
+Disguised Hermit
+
+Wisping Kirin
+rules_text: Revered [i](This creature shares the following abilities with other creatures you control that have counters on them.)[/i]
+Whenever this creature attacks, create a tapped and attacking token that’s a copy of it. For each counter on this creature, put a counter of that kind on that token. Sacrifice the token at the end of combat. => Revered [i](This creature shares the following abilities with other creatures you control that have counters on them.)[/i]
+Whenever this creature attacks, create a tapped and attacking token that's a copy of it. For each counter on this creature, put a counter of that kind on that token. Sacrifice the token at the end of combat.
+
+Ethereal Blossom
+
+Dragon's Repose
+rules_text: This spell costs {1} less to cast if you control a creature with flying.
+Return target nonland permanent to its owner’s hand. => This spell costs {1} less to cast if you control a creature with flying.
+Return target nonland permanent to its owner's hand.
+
+Blood-Cursed Ape
+rules_text: [i]Damned[/i] — When this creature enters, if you’ve sacrificed a permanent this turn, this creature deals 2 damage to each opponent. => [i]Damned[/i] — When this creature enters, if you've sacrificed a permanent this turn, this creature deals 2 damage to each opponent.
+
+Kirin of Boons
+rules_text: Revered [i](This creature shares the following abilities with other creatures you control that have counters on them.)[/i]
+Whenever this creature attacks, target creature defending player controls with lesser power can’t block this turn. => Revered [i](This creature shares the following abilities with other creatures you control that have counters on them.)[/i]
+Whenever this creature attacks, target creature defending player controls with can't block this turn if it has lesser power.
+
+Spirit Realm Phoenix
+rules_text: Flying, haste
+Whenever one or more +1/+1 counters are put on this creature, it deals that much damage to each opponent.
+At the beginning of your end step, return this card from your graveyard to your hand if one or more +1/+1 counters were put on a creature you control this turn. => Flying, haste
+Whenever one or more +1/+1 counters are put on this creature, it deals that much damage to each opponent.
+At the beginning of your end step, you may pay {1}. If you do, return this card from your graveyard to your hand if one or more +1/+1 counters were put on a creature you control this turn.
+
+Deflecting Kitsune
+
+Gifts of the Kitsune
+
+Giyama, Scion of Kage
+special_text: [+1]: You may discard a card, sacrifice another nonland permanent, or pay 3 life. If you do, draw a card.
+[-2]: You may discard a card, sacrifice another nonland permanent, or pay 3 life. If you do, target opponent discards a card, sacrifices a nonland permanent, and loses 3 life.
+[-6]: You get an emblem with “Whenever a creature dies, you may exile it from its owner’s graveyard. If you do, until your next end step, you may cast copies of the exiled card.” => [+1]: You may discard a card, sacrifice another nonland permanent, or pay 3 life. If you do, draw a card.
+[-2]: You may discard a card, sacrifice another nonland permanent, or pay 3 life. If you do, target opponent discards a card, sacrifices a nonland permanent, and loses 3 life.
+[-6]: You get an emblem with “Whenever a creature dies, you may exile it from its owner's graveyard. If you do, until your next end step, you may cast copies of the exiled card.”
+
+Realmweft Kitsune
+
+Balance of the Realms
+
+Face of Animosity
+
+Enchanted Pauldron
+
+Lantern Festival
+rules_text: At the beginning of your end step, exile cards from the top of your library until you exile a nonland card. You may cast that card without paying its mana cost if its mana value is less than or equal to the number of cards with cycling abilities in your graveyard. If you don’t cast it, put it into your hand. Put the rest on the bottom of your library in a random order. => At the beginning of your end step, exile cards from the top of your library until you exile a nonland card. You may cast that card without paying its mana cost if its mana value is less than or equal to the number of cards with cycling abilities in your graveyard. If you don't cast it, put it into your hand. Put the rest on the bottom of your library in a random order.
+
+Wandering Thrumhorn
+
+Sculptor's Replica
+
+Midnight Duo
+
+Whirlwind Kick
+
+Attuned Acolyte
+
+Demon of Dire Storms
+rules_text: Whenever you sacrifice a permanent, double this creature’s power until end of turn.
+When this creature dies, create an X/X black Demon creature token, where X is this creature’s power. => Whenever you sacrifice a permanent, double this creature's power until end of turn.
+When this creature dies, create an X/X black Demon creature token, where X is this creature's power.
+
+Absolution Flock
+rules_text: Create two 1/1 blue Bird creature tokens with flying, then create a token that’s a copy of a token you control. => Create two 1/1 blue Bird creature tokens with flying, then create a token that's a copy of a token you control.
+
+Path's End
+rules_text: This spell can’t be countered.
+Destroy all permanents without activated abilities. => This spell can't be countered.
+Destroy all permanents without activated abilities.
+
+Swift Reproach
+rules_text: Exile target creature or planeswalker an opponent controls. If its controller has fewer cards in hand than you, they may draw a card. => Exile target creature or planeswalker an opponent controls. If its controller has more cards in hand than you, they scry 2. Otherwise, they draw a card.
+
+Foreign Encounter
+
+Sodden Path
+
+Distant Path
+
+Meandering Path
+
+Erosive Path
+
+Desolate Path
+
+Iwai and Oda
+
+Orochi Soulfang
+rules_text: Whenever another creature you control enters, if that creature’s power is greater than this creature’s power, you may put a +1/+1 counter on this creature.
+{2}{G}, Remove two +1/+1 counters from this creature or sacrifice it: Destroy target artifact or enchantment. => Whenever another creature you control enters, if that creature's power is greater than this creature's power, you may put a +1/+1 counter on this creature.
+{2}{G}, Remove two +1/+1 counters from this creature or sacrifice it: Destroy target artifact or enchantment.
+
+Resolute Natori
+
+Monastery Teacher
+
+Ageless Seishin
+
+Distinguished Weaverkin
+
+Eager Eelpup
+rules_text: Whenever another creature you control enters, put X +1/+1 counters on it, where X is this creature’s power. => Whenever another creature you control enters, put X +1/+1 counters on it, where X is this creature's power.
+
+Uiki Cloudchaser
+rules_text: Flying
+Whenever this creature becomes tapped, surveil 1. If it isn’t attacking, surveil 2 instead. => Flying
+Whenever this creature becomes tapped, surveil 1. If it isn't attacking, surveil 2 instead.
+
+Yokinzan General
+
+Brutal Throatcrusher
+
+Elder Tattooist
+rules_text: Vigilance
+Flow — {4}{W}: Exile target permanent card with mana value 3 or less from your graveyard. Create a tapped token that’s a copy of it. Activate only as a sorcery. [i](Each creature you tap while activating pays for {1}.)[/i] => Vigilance
+Flow — {4}{W}: Exile target permanent card with mana value 3 or less from your graveyard. Create a tapped token that's a copy of it. Activate only as a sorcery. [i](Each creature you tap while activating pays for {1}.)[/i]
+
+Suppressing-Fist Pupil
+
+The Ancient Master
+
+Teshima, Living Balance
+rules_text: When Teshima enters, create three 1/1 white Monk creature tokens with vigilance.
+Whenever Teshima attacks, put X +1/+1 counters on each other creature you control, where X is Teshima’s power. => When Teshima enters, create two 1/1 white Monk creature tokens with vigilance.
+Whenever Teshima attacks, put X +1/+1 counters on each other creature you control, where X is Teshima's power.
+
+Pass Judgment
+
+Ascended Salamander
+
+Cartographer's Skill
+
+Spirit Realm Medallion
+rules_text: As this artifact enters, choose two different colors.
+Each spell you cast that’s one or more of the chosen colors costs {1} less to cast. => As this artifact enters, choose two different colors.
+Each spell you cast that's one or more of the chosen colors costs {1} less to cast.
+
+Daring Shinobi
+
+Momentous Strike
+
+Sacrificial Mentor
+
+Shigane Manor Burns
+special_text: Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove    them all after III.)[/i]
+I — Create a tapped Treasure token.
+II — You may discard a card. If you do, exile the top two cards of your library. You may play one of those cards this turn.
+III — This Saga deals 2 damage to each opponent. => Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+I — Create a tapped Treasure token.
+II — You may discard a card. If you do, exile the top two cards of your library. You may play one of those cards this turn.
+III — This Saga deals 2 damage to each opponent.
+
+Emperor Tzuhan
+rules_text: Whenever you cycle a card, exile up to one other target creature you control, then return that card to the battlefield under its owner’s control. => Whenever you cycle a card, exile up to one other target creature you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+
+The God-Tree Chimes
+
+Veiled Branchstalker
+
+Kage, Cursed Conqueror
+
+Fallen Heartseeker
+
+Koi-Tail Mer
+
+Akai and Toyotomi
+
+Blazing Kitsune
+
+Hwacha
+
+Royal Balcony
+
+Koraja, the Broken Blade
+rules_text: Whenever you sacrifice Koraja, exile it. Until the end of your next turn, you may cast it from exile.
+When Koraja enters, if it wasn’t cast from your hand, you may discard your hand. If you do, draw two cards. => Whenever you sacrifice Koraja, exile it. Until the end of your next turn, you may cast it from exile.
+When Koraja enters, if it wasn't cast from your hand, you may discard your hand. If you do, draw two cards.
+
+Dynasty Pendant
+
+Blossoming Ocelot
+
+Frolicking Tatsuko
+rules_text: If one or more +1/+1 counters would be put on a permanent you control, that many plus one +1/+1 counters are put on that permanent instead. => If one or more +1/+1 counters would be put on another permanent you control, that many plus one +1/+1 counters are put on that permanent instead.
+
+Precognitive Combatant
+
+Impulsive Underling
+rules_text: [i]Damned[/i] — Whenever this creature attacks, put a +1/+1 counter on it if you’ve sacrificed a permanent this turn.
+When this creature dies, it deals damage equal to its power to each opponent. => [i]Damned[/i] — Whenever this creature attacks, put a +1/+1 counter on it if you've sacrificed a permanent this turn.
+When this creature dies, it deals damage equal to its power to each opponent.
+
+Protean Golem
+
+Bleeding Out
+
+Deft Deflection
+
+Sanctuary of Fragile Unity
+
+Imperial Honor Guard
+
+Deathdealer Oni
+
+Perils of Eternity
+rules_text: Each player who doesn’t control a planeswalker can’t cast more than one spell each turn.
+Ayeshicycling {3} [i]({3}, Discard this card: Search your library for an Ayeshi card, reveal it, put it into your hand, then shuffle.)[/i] => Each player who doesn't control a planeswalker can't cast more than one spell each turn.
+Ayeshicycling {3} [i]({3}, Discard this card: Search your library for an Ayeshi card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Spiteful Banditry
+
+Kage's Mercenary
+
+Ruinous Portents
+
+Duress
+
+Shigane Troupe Leader
+
+Haughty Bulwark
+
+Volatile Prosthetic
+rules_text: Equipped creature gets +1/+0.
+If a source you control would deal noncombat damage to a player while this Equipment is attached to a creature, you may have it deal damage equal to equipped creature’s power instead.
+Equip {2} => Equipped creature gets +1/+0.
+If a source you control would deal noncombat damage to a player while this Equipment is attached to a creature, you may have it deal damage equal to equipped creature's power instead.
+Equip {2}
+
+Dynasty's Benediction
+
+Tzuhan's Lotus
+rules_text: {T}, Sacrifice another nonland permanent: Add X mana in any combination of the sacrificed permanent’s colors, where X is 1 plus that permanent’s mana value. => {T}, Sacrifice another nonland permanent: Add X mana in any combination of the sacrificed permanent's colors, where X is 1 plus that permanent's mana value.
+
+Ancestor's Guidance
+
+High Seas Samurai
+
+Moonlight Adversary
+
+Knight of Kage
+rules_text: Trample
+[i]Damned[/i] — At the beginning of your end step, put a +1/+1 counter on this creature if you’ve sacrificed a permanent this turn. => Trample
+[i]Damned[/i] — At the beginning of your end step, put a +1/+1 counter on this creature if you've sacrificed a permanent this turn.
+
+Wretched Bargain
+rules_text: You draw two cards and you lose 2 life.
+[i]Damned[/i] — If you’ve sacrificed a permanent this turn, add {B}{B}. => You draw two cards and you lose 2 life.
+[i]Damned[/i] — If you've sacrificed a permanent this turn, add {B}{B}.
+
+Saboteur's Immolation
+rules_text: Saboteur’s Immolation deals 2 damage to each creature.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => Saboteur's Immolation deals 2 damage to each creature.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Spiteful Liberation
+rules_text: Destroy target creature or planeswalker. Create a Treasure token. [i](It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => Destroy target creature or planeswalker. Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Sealing Strike
+
+Ayeshi, Time's Jailer
+special_text: [+1]: Draw a card for each different mana value among spells you’ve cast this turn.
+[-X]: Exile target nonland, nontoken permanent with mana value X or less. You create a colorless Saga enchantment token with time loop and  “{r}{3}— You may cast a copy of the exiled card without paying its mana cost.” [i](Remove all lore counters after {r}{3} without sacrificing the Saga.)[/i]
+[-8]: You take an extra turn after this one, and each opponent takes an extra turn after the last extra turn. You gain control of each opponent during that player’s next turn. => [+1]: Draw a card for each different mana value among spells you've cast this turn.
+[-X]: Exile target nonland, nontoken permanent with mana value X or less. You create a colorless Saga enchantment token with time loop and “r{3}— You may cast a copy of the exiled card without paying its mana cost.” [i](Remove all lore counters after r{3} without sacrificing the Saga.)[/i]
+[-8]: You take an extra turn after this one, and each opponent takes an extra turn after the last extra turn. You gain control of each opponent during that player's next turn.
+
+Ruiner's Procession
+
+Chomei's Brawler
+
+Kage's Slayer
+
+Threadweaver Shinobi
+
+Vengeful Artificer
+rules_text: When this creature enters, you may sacrifice another creature. If you do, create a number of Treasure tokens equal to that creature’s power. => When this creature enters, you may sacrifice another creature. If you do, create a number of Treasure tokens equal to that creature's power.
+
+Iri Sentinel
+
+The Ancestral Legion
+
+Luraana, Loop's End
+rules_text: Luraana enters tapped with twelve stun counters on it.
+When Luraana enters, until your next turn, you may cast spells as though they have flash.
+Untap all permanents you control during each other player’s untap step. => Luraana enters tapped with twelve stun counters on it.
+When Luraana enters, until your next turn, you may cast spells as though they have flash.
+Untap all permanents you control during each other player's untap step.
+
+Prideful Reaper
+
+Heartfire Lantern
+
+Devouring Seishin
+
+Deepborn Calamity
+
+Revolt at the Palace
+special_text: Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove    them all after III.)[/i]
+I, II — Look at the top six cards of your library. Put up to one nonland permanent card with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
+III — Creatures you control gain double strike until end of turn. => Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+I, II — Look at the top six cards of your library. Put up to one nonland permanent card with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
+III — Creatures you control gain double strike until end of turn.
+
+Equanimity
+
+Butchery
+rules_text: Whenever a source you control deals noncombat damage to an opponent, you draw a card and you lose 1 life.
+At the beginning of your end step, this enchantment deals 3 damage to any target if you’ve sacrificed three or more permanents this turn. => Whenever a source you control deals noncombat damage to an opponent, you draw a card and you lose 1 life.
+At the beginning of your end step, this enchantment deals 3 damage to any target if you've sacrificed three or more permanents this turn.
+
+Mastery
+
+Majesty
+
+Secrecy
+rules_text: Whenever this enchantment or another nonland, nontoken permanent you control enters, if it wasn’t cast, draw a card. You may put a land card from your hand onto the battlefield tapped.
+Creatures you control with power or toughness 1 or less can’t be blocked. => Whenever this enchantment or another nonland, nontoken permanent you control enters, if it wasn't cast, draw a card. You may put a land card from your hand onto the battlefield tapped.
+Creatures you control with power or toughness 1 or less can't be blocked.
+
+The Inferno Gate Opens
+special_text: Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove    them all after III.)[/i]
+I — Pay any amount of life. Create an X/X black Demon creature token, where X is the amount of life paid.
+II — You draw a card and you lose 1 life.
+III — Target creature you control gains lifelink until end of turn. => Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+I — Pay any amount of life. Create an X/X black Demon creature token, where X is the amount of life paid.
+II — You draw a card and you lose 1 life.
+III — Target creature you control gains lifelink until end of turn.
+
+Grasp of the Elements
+rules_text: The owner of up to one target nonland permanent puts it on the top or bottom of their library. Return each other nonland permanent to its owner’s hand. => The owner of up to one target nonland permanent puts it on the top or bottom of their library. Return each other nonland permanent to its owner's hand.
+
+Portal to the Spirit Realm
+special_text: Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove    them all after III.)[/i]
+I — Create a 1/1 green Spirit creature token.
+II — Put a +1/+1 counter on target creature you control.
+III — Put a +1/+1 counter on each creature you control with a +1/+1 counter on it. => Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+I — Create a 1/1 green Spirit creature token.
+II — Put a +1/+1 counter on target creature you control.
+III — Put a +1/+1 counter on each creature you control with a +1/+1 counter on it.
+
+Confronting Time's Jailer
+special_text: Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove    them all after III.)[/i]
+I — Up to one other target nonland permanent phases out.
+II — Draw two cards.
+III — Create a blue enchantment token named Time Bubble with “Spells you cast cost {1} more to cast.” => Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+I — Up to one other target nonland permanent phases out.
+II — Draw two cards.
+III — Create a blue enchantment token named Time Bubble with “Spells you cast cost {1} more to cast.”
+
+Banish into Nothingness
+rules_text: Put target nonland permanent on the bottom of its owner’s library. You gain 3 life.
+Cycling {WU} [i]({WU}, Discard this card: Draw a card.)[/i] => Put target nonland permanent on the bottom of its owner's library. You gain 3 life.
+Cycling {WU} [i]({WU}, Discard this card: Draw a card.)[/i]
+
+Damn to Hell
+
+Wicked Manifestation
+
+Merciless Ruiner
+
+Welkin Eviction
+
+Abandon the Code
+
+Ruiner's Hijacking
+
+Imperial Production
+
+Mapper's Wanderings
+
+Leyline Attuner
+rules_text: Defender
+As long as you control another tapped creature, this creature can attack as though it didn’t have defender. => Defender
+As long as you control another tapped creature, this creature can attack as though it didn't have defender.
+
+Prophetic Prism
+
+Avatar's Whim
+rules_text: Create a token that’s a copy of target creature you control, except it has base power and toughness X/X{,}{ }{w}{h}{e}{r}{e}{ }{X}{ }{i}{s}{ }{t}{h}{e}{ }{n}{u}{m}{b}{e}{r}{ }{o}{f}{ }{I}{s}{l}{a}{n}{d}{s}{ }{y}{o}{u}{ }{c}{o}{n}{t}{r}{o}{l}{ }{p}{l}{u}{s}{ }{t}{h}{e}{ }{n}{u}{m}{b}{e}{r}{ }{o}{f}{ }{c}{a}{r}{d}{s}{ }{w}{i}{t}{h}{ }{a}{ }{c}{y}{c}{l}{i}{n}{g}{ }{a}{b}{i}{l}{i}{t}{y}{ }{i}{n}{ }{y}{o}{u}{r}{ }{g}{r}{a}{v}{e}{y}{a}{r}{d}{.}{
+}{I}{s}{l}{a}{n}{d}{c}{y}{c}{l}{i}{n}{g}{ }2 => Create a token that's a copy of target creature you control, except it has base power and toughness X/X, where X is the number of Islands you control plus the number of cards with a cycling ability in your graveyard.
+Islandcycling {2}
+
+Born From Fire
+
+Aonuma, Princely Traveler
+rules_text: Whenever another nontoken permanent you control is returned to hand, you may create a token that’s a copy of it. Do this only once each turn.
+Each creature card with mana value 3 or less in your hand has ninjutsu {G}{U}. [i]({G}{U}, Return an unblocked attacker you control to hand: Put that card onto the battlefield from your hand tapped and attacking.)[/i] => Whenever another nontoken permanent you control is returned to hand, you may create a token that's a copy of it. Do this only once each turn.
+Each creature card with mana value 3 or less in your hand has ninjutsu {G}{U}. [i]({G}{U}, Return an unblocked attacker you control to hand: Put that card onto the battlefield from your hand tapped and attacking.)[/i]
+
+Assaulted by Shadows
+rules_text: Choose target creature you control. When that creature leaves the battlefield this turn, choose one —
+• Create a token that’s a copy of it.
+• Search your library for a creature card with lesser mana value, put it onto the battlefield, then shuffle. => Choose target creature you control. When that creature leaves the battlefield this turn, choose one —
+• Create a token that's a copy of it.
+• Search your library for a creature card with lesser mana value, put it onto the battlefield, then shuffle.
+
+Inklight Dancer
+
+Master of the Peaks
+
+Commander Tachibana
+
+Natori Skyblade
+rules_text: Ninjutsu {3}{U}{U} [i]({3}{U}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+Flying
+Whenever this creature deals combat damage to a player or planeswalker, draw a card. Then if this creature entered this turn, create a token that’s a copy of it. => Ninjutsu {3}{U}{U} [i]({3}{U}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+Flying
+Whenever this creature deals combat damage to a player or planeswalker, draw a card. Then if this creature entered this turn, create a token that's a copy of it.
+
+Kitsune Duelist
+
+Master of the Twin Blades
+rules_text: Double strike
+Whenever an enchantment you control enters, you may create a token that’s a copy of it, except the token isn’t legendary and has exalted. Do this only once each turn. [i](Whenever a creature you control attacks alone, it gets +1/+1 until end of turn for each instance of exalted among permanents you control.)[/i] => Double strike
+Whenever an enchantment you control enters, you may create a token that's a copy of it, except the token isn't legendary and has exalted. Do this only once each turn. [i](Whenever a creature you control attacks alone, it gets +1/+1 until end of turn for each instance of exalted among permanents you control.)[/i]
+
+Fablewoven Kitsune
+
+Amagaseto, Mother Spirit
+rules_text: At the beginning of combat on your turn, distribute two +1/+1 counters among one or two other target creatures you control.
+Once during each of your turns, you may cast a creature spell from your graveyard by removing a number of counters from among creatures you control equal to that spell’s mana value in addition to paying its other costs. => At the beginning of combat on your turn, distribute two +1/+1 counters among one or two other target creatures you control.
+Once during each of your turns, you may cast a creature spell from your graveyard by removing a number of counters from among creatures you control equal to that spell's mana value in addition to paying its other costs.
+
+Ravenous Slaughterlord
+rules_text: When this creature enters, create a Treasure token.
+[i]Damned[/i] — At the beginning of your end step, this creature deals 1 damage to each opponent and you gain 1 life if you’ve sacrificed a permanent this turn. => When this creature enters, create a Treasure token.
+[i]Damned[/i] — At the beginning of your end step, this creature deals 1 damage to each opponent and you gain 1 life if you've sacrificed a permanent this turn.
+
+Oni of Tongues
+rules_text: [i]Damned[/i] — When this creature enters, if you’ve sacrificed a permanent this turn, create a Treasure token. => [i]Damned[/i] — When this creature enters, if you've sacrificed a permanent this turn, create a Treasure token.
+
+Blighted Mistress
+
+Hellfire Crafting
+rules_text: [i]Damned[/i] — At the beginning of your end step, exile the top card of your library if you’ve sacrificed a permanent this turn. You may play that card until you exile another card with this enchantment. => [i]Damned[/i] — At the beginning of your end step, exile the top card of your library if you've sacrificed a permanent this turn. You may play that card until you exile another card with this enchantment.
+
+Hell's Boon
+rules_text: Hell’s Boon deals 3 damage to up to one target creature or planeswalker.
+[i]Damned[/i] — If you’ve sacrificed a permanent this turn, Hell’s Boon deals 2 damage to each opponent. => Hell's Boon deals 3 damage to up to one target creature or planeswalker.
+[i]Damned[/i] — If you've sacrificed a permanent this turn, Hell's Boon deals 2 damage to each opponent.
+
+Deadly Combatant
+
+Creation's Combustion
+
+General of the Damned
+rules_text: Trample
+[i]Damned[/i] — Whenever this creature enters or attacks, if you’ve sacrificed a permanent this turn, this creature deals 3 damage to any target and you gain 3 life. => Trample
+[i]Damned[/i] — Whenever this creature enters or attacks, if you've sacrificed a permanent this turn, this creature deals 3 damage to any target and you gain 3 life.
+
+Sunset Warrior
+
+Scions of War
+
+Thousand Depths Cutthroat
+
+Conqueror's Favored
+rules_text: [i]Damned[/i] — When this creature enters, mill three cards. If you’ve sacrificed a permanent this turn, you may return one of the milled cards to your hand. => [i]Damned[/i] — When this creature enters, mill three cards. If you've sacrificed a permanent this turn, you may return one of the milled cards to your hand.
+
+Akuryo, the Sweet Fang
+
+Slayer of Numachi
+
+Newborn Oni
+
+Make an Escape
+rules_text: Target permanent gains hexproof until end of turn. If it’s a creature, it also gets +1/+1 until end of turn. => Target permanent gains hexproof until end of turn. If it's a creature, it also gets +1/+1 until end of turn.
+
+Mask Thief
+rules_text: When this creature enters, you may return another creature you control to its owner’s hand. If you do, draw a card. => When this creature enters, you may return another creature you control to its owner's hand. If you do, draw a card.
+
+Painted Officer
+
+Instantaneous End
+
+Kimja Steelshaper
+
+Banished Dragon
+
+Blur Strike
+
+Inner Fortitude
+
+Godslaughter Titan
+rules_text: [i]Damned[/i] — This spell costs {1} less to cast for each permanent you’ve sacrificed this turn.
+Whenever you sacrifice a permanent, this creature deals 2 damage to target opponent unless they exile a permanent they control. You may play cards exiled this way for as long as they remain exiled, and you may spend mana of any type to cast them. => [i]Damned[/i] — This spell costs {1} less to cast for each permanent you've sacrificed this turn.
+Whenever you sacrifice a permanent, this creature deals 2 damage to target opponent unless they exile a permanent they control. You may play cards exiled this way for as long as they remain exiled, and you may spend mana of any type to cast them.
+
+Fall Upon Your Blade
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+Fall Upon Your Blade deals damage equal to the sacrificed creature’s power to any target.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => As an additional cost to cast this spell, sacrifice a creature.
+Fall Upon Your Blade deals damage equal to the sacrificed creature's power to any target.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Meditation
+
+Sky's Flourishing
+
+Mist-Draped Delver
+
+Ensorcell
+
+Torpid Colossus
+
+Iron-Calm Acolyte
+
+Titanic Behemoth
+rules_text: Revered [i](This creature shares the following abilities with other creatures you control that have counters on them.)[/i]
+This creature can’t be blocked by creatures with power 2 or less. => Revered [i](This creature shares the following abilities with other creatures you control that have counters on them.)[/i]
+This creature can't be blocked by creatures with power 2 or less.
+
+Menreiki, the Resplendent
+
+Seishin of Sun's Radiance
+
+Sundering the Fleet
+
+Yokinzan Hermit
+
+Drag into the Dark
+rules_text: [i]Damned[/i] — Destroy target creature if it has mana value 3 or less or if you’ve sacrificed a permanent this turn. => [i]Damned[/i] — Destroy target creature if it has mana value 3 or less or if you've sacrificed a permanent this turn.
+
+Master of Stances
+
+Shigane Cyclone
+
+Realmweft Implosion
+
+Moonblade Ninja
+rules_text: Ninjutsu {2}{U} [i]({2}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+When this creature enters, you may return another creature you control to its owner’s hand. => Ninjutsu {2}{U} [i]({2}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+When this creature enters, you may return another creature you control to its owner's hand.
+
+Sabotage the Supply Lines
+rules_text: Choose one or both —
+• Target creature gets +1/+1 until end of turn.
+• Return target creature to its owner’s hand. => Choose one or both —
+• Target creature gets +1/+1 until end of turn.
+• Return target creature to its owner's hand.
+
+Living Wave
+
+Expert Bladework
+
+Nerve-Strike Disciple
+rules_text: When this creature enters, create a 1/1 white Monk creature token with vigilance.
+Flow — {3}{U}: This creature can’t be blocked this turn. [i](Each creature you tap while activating pays for {1}.)[/i] => When this creature enters, create a 1/1 white Monk creature token with vigilance.
+Flow — {3}{U}: This creature can't be blocked this turn. [i](Each creature you tap while activating pays for {1}.)[/i]
+
+Elope
+rules_text: This spell costs {4} less to cast if each of its targets are owned by different players.
+Return up to two target nonland permanents to their owners’ hands.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => This spell costs {4} less to cast if each of its targets are owned by different players.
+Return up to two target nonland permanents to their owners' hands.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Kitsune Matriarch
+
+Uplifting Melody
+
+Stormfist Monk
+
+Storm Jelly
+
+Gongwielder Abbot
+
+Kimja Jailer
+
+Portal Guardian
+
+Fatal Flourish
+
+Judgment of the Seishin
+rules_text: Put a +1/+1 counter on target creature you control. It fights up to one target creature you don’t control.
+Cycling {RG} [i]({RG}, Discard this card: Draw a card.)[/i] => Put a +1/+1 counter on target creature you control. It fights up to one target creature you don't control.
+Cycling {RG} [i]({RG}, Discard this card: Draw a card.)[/i]
+
+Spiralhorn Kirin
+
+Scorching Gecko
+
+Jubilant Docks
+rules_text: This land enters tapped. As it enters, choose a color.
+When this land enters, return a land you control to its owner’s hand.
+{T}: Add {C} and one mana of the chosen color. => This land enters tapped. As it enters, choose a color.
+When this land enters, return a land you control to its owner's hand.
+{T}: Add {C} and one mana of the chosen color.
+
+Soaring Kites
+
+Mortal Blade
+
+Giant Hewn Toad
+
+Simian Pupil
+
+Aonuma's Students
+
+Takashi, City on the Wind
+
+Protean Boughs
+
+Breath of the Spirit Realm
+
+Frilled Seishin
+rules_text: Revered [i](This creature shares the following abilities with other creatures you control that have counters on them.)[/i]
+Whenever this creature attacks, add {R}. Until end of turn, you don’t lose this mana as steps and phases end. => Revered [i](This creature shares the following abilities with other creatures you control that have counters on them.)[/i]
+Whenever this creature attacks, add {R}. Until end of turn, you don't lose this mana as steps and phases end.
+
+Imperial Dragon
+rules_text: Flying
+Whenever you cast a spell from exile, this creature deals damage equal to that spell’s mana value to any target. => Flying
+Whenever you cast a spell from exile, this creature deals damage equal to that spell's mana value to any target.
+
+Ruiner's Execution
+rules_text: Choose one —
+• Each opponent sacrifices a creature that’s one or fewer colors.
+• Each opponent sacrifices a creature that’s two or more colors. => Choose one —
+• Each opponent sacrifices a creature that's one or fewer colors.
+• Each opponent sacrifices a creature that's two or more colors.
+
+Stained Strokes
+
+Ruiner Battlesuit
+
+Ayeshi's Agent
+
+Koi Float
+
+Yokinzan Pathfinder
+rules_text: Whenever you attack, up to one target creature you control can’t be blocked this turn. Return that creature to its owner’s hand at end of combat. => Whenever you attack, up to one target creature you control can't be blocked this turn. Return that creature to its owner's hand at end of combat.
+
+Shigane Elder
+
+Opulent Vantage
+
+Dragon of Recollection
+
+Omen Skulker
+rules_text: Whenever you cast a multicolored spell, this creature deals 1 damage to each opponent and you gain 1 life.
+When this creature dies, create a Treasure token. [i](It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Whenever you cast a multicolored spell, this creature deals 1 damage to each opponent and you gain 1 life.
+When this creature dies, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Noble Shrineguard
+
+Shigane Clan Head
+rules_text: At the beginning of your end step, create a 1/1 blue Ninja creature token with “This creature can’t be blocked by creatures with greater power.”
+Whenever you activate a ninjutsu ability for the first time each turn, untap up to two target lands you control. => At the beginning of your end step, create a 1/1 blue Ninja creature token with “This creature can't be blocked by creatures with greater power.”
+Whenever you activate a ninjutsu ability for the first time each turn, untap up to two target lands you control.
+
+Overflow
+
+Ominous Seas
+
+Settler's Caravan
+
+River Guardian
+
+Dragon's Court
+
+Twilight Agent
+
+Noble Kitsune
+
+Nao, the Impenetrable
+
+Gereishin's Entrance
+
+Nimomae, Who Flows
+
+Shiori, the Trickster
+
+Staff of Balance
+
+Shigane Potionmaster
+rules_text: Ninjutsu {2}{G}{U} [i]({2}{G}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+Whenever a creature you control deals combat damage to a player or planeswalker, you may sacrifice it. If you do, search your library for a creature card with mana value equal to 1 plus the sacrificed creature’s mana value, put it onto the battlefield, then shuffle. => Ninjutsu {2}{G}{U} [i]({2}{G}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+Whenever a creature you control deals combat damage to a player or planeswalker, you may sacrifice it. If you do, search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put it onto the battlefield, then shuffle.
+
+Banisher Rifle
+
+Realm Violator
+
+Scouring the Riverbed
+
+Conqueror's Glee
+
+Sakura Dance
+
+Primordial Gateway
+rules_text: As this artifact enters, choose mourning, oblation, or prayer.
+• Mourning — Players can’t discard cards to cast spells or activate abilities.
+• Oblation — Players can’t sacrifice nonland permanents to cast spells or activate abilities.
+• Prayer —  Players can’t pay life to cast spells or activate abilities. => As this artifact enters, choose mourning, oblation, or prayer.
+• Mourning — Players can't discard cards to cast spells or activate abilities.
+• Oblation — Players can't sacrifice nonland permanents to cast spells or activate abilities.
+• Prayer — Players can't pay life to cast spells or activate abilities.
+
+Gate to Fujinobe
+
+Monk
+
+Samurai
+
+Hardsuit
+
+Ninja
+rules_text: This creature can’t be blocked by creatures with greater power. => This creature can't be blocked by creatures with greater power.
+
+Bird
+
+Spirit
+
+Demon
+
+Spirit Beast
+
+Monkey
+
+Kraken
+
+Treasure
+
+Time Bubble
+
+Serpent
+
+On An Adventure
+
+Emblem
+rules_text: Whenever a creature dies, exile it from its owner’s graveyard. Until your next end step, you may cast copies of the exiled card. => Whenever a creature dies, exile it from its owner's graveyard. Until your next end step, you may cast copies of the exiled card.
+
+Fox Shapeshifter
+
+Danuja, Emperor's Pet
+rules_text: Flying
+Whenever a creature you control attacks alone, if a creature you control that isn’t attacking has flying, the attacking creature gains flying until end of turn. The same is true for first strike, double strike, deathtouch, hexproof, indestructible, lifelink, menace, protection, and trample. => Flying
+Whenever a creature you control attacks alone, if a creature you control that isn't attacking has flying, the attacking creature gains flying until end of turn. The same is true for first strike, double strike, deathtouch, hexproof, indestructible, lifelink, menace, protection, and trample.
+
+Revolutionary's Monument
+
+Hakodate Regent
+
+Forlorn Path
+
+Murky Path
+
+Rousing Path
+
+Thicketed Path
+
+Torrid Path
+
+Moonlit Gateway
+rules_text: When this artifact enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.
+{1}, Sacrifice this artifact: Draw a card.
+{3}, Sacrifice this artifact: Exile each opponent’s graveyard. Draw a card. => When this artifact enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.
+{1}, Sacrifice this artifact: Draw a card.
+{3}, Sacrifice this artifact: Exile each opponent's graveyard. Draw a card.
+
+Sludge Drudge
+
+Maiden of the Waters
+
+Koraja's Centipede
+rules_text: [i]Damned[/i] — At the beginning of your end step, put a +1/+1 counter on this creature if you’ve sacrificed a permanent this turn.
+When this creature dies, create X 1/1 black Demon Insect creature tokens, where X is this creature’s power. => [i]Damned[/i] — At the beginning of your end step, put a +1/+1 counter on this creature if you've sacrificed a permanent this turn.
+When this creature dies, create X 1/1 black Demon Insect creature tokens, where X is this creature's power.
+
+Demon Insect
+
+Stratostorm
+cost: {2}{W}{U} => {3}{W}{U}
+
+Auspicious Return
+rules_text: When this enchantment enters, return target creature card from your graveyard to the battlefield.
+At the beginning of your end step, exile up to one target creature you control, then return that card to the battlefield under its owner’s control. => When this enchantment enters, return target creature card from your graveyard to the battlefield.
+At the beginning of your end step, exile up to one target creature you control, then return that card to the battlefield under its owner's control.
+
+Golem
+
+Stonework Titan
+rules_text: When this creature enters, you may search your library for a creature or land card with mana value 1 or less, put it onto the battlefield, then shuffle.
+{1}{G}: You may return another creature or land you control to its owner’s hand. If you do, this creature gains indestructible until end of turn. => When this creature enters, you may search your library for a creature or land card with mana value 1 or less, put it onto the battlefield, then shuffle.
+{1}{G}: You may return another creature or land you control to its owner's hand. If you do, this creature gains indestructible until end of turn.
+
+Gereishin, the Stormlord
+rules_text: Flying
+When Gereishin enters, you may cast a Dragon spell or a spell with mana value 6 or less from your hand without paying its mana cost.
+Once during each of your turns, when you spend less mana to cast a spell than its mana value, you may have Gereishin deal damage to each non-Dragon creature equal to that spell’s mana value. => Flying
+When Gereishin enters, you may cast a Dragon spell or a spell with mana value 6 or less from your hand without paying its mana cost.
+Once during each of your turns, when you spend less mana to cast a spell than its mana value, you may have Gereishin deal damage to each non-Dragon creature equal to that spell's mana value.
+
+Ayeshi Breaks the Loop
+
+Saga
+special_text: Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove    them all after III.)[/i]
+I — [i]“Here, I will make my home, my prison, my rock to which I am forever bound.”[/i]
+II — [i]“If I am to live in this world in perpetuity, it will join me at the dusk of time.”[/i]
+III — You may cast a copy of the exiled card without paying its mana cost. => Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+I — [i]“Here, I will make my home, my prison, my rock to which I am forever bound.”[/i]
+II — [i]“If I am to live in this world in perpetuity, it will join me at the dusk of time.”[/i]
+III — You may cast a copy of the exiled card without paying its mana cost.
+
+King of Shallow Shores
+
+Faces of the Faceless
+rules_text: Cards in graveyards can’t leave the graveyard. [i](Including by being cast.)[/i]
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => Cards in graveyards can't leave the graveyard. [i](Including by being cast.)[/i]
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Saga
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

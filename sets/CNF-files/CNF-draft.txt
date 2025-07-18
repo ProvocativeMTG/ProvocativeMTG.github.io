@@ -1,12 +1,13 @@
 ﻿[CustomCards]
-	[	{
+	[
+		{
 			"name": "Prince Irakan, Heir to Dust",
 			"rarity": "mythic",
 			"mana_cost": "{4}{W}{U}",
-			"type": "Legendary Planeswalker — Irakan ",
+			"type": "Legendary Planeswalker — Irakan",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/245_Prince Irakan, Heir to Dust.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/245_Prince Irakan, Heir to Dust.png"
 			}
 		},
 		{
@@ -16,57 +17,57 @@
 			"type": "Legendary Artifact",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/269_The Crown of Stars.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/269_The Crown of Stars.png"
 			}
 		},
 		{
 			"name": "Tsubasa, Blessed Blade",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
-			"type": "Legendary Creature — Human Ninja ",
+			"type": "Legendary Creature — Human Ninja",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/258_Tsubasa, Blessed Blade.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/258_Tsubasa, Blessed Blade.png"
 			}
 		},
 		{
 			"name": "Dahlia, Blossom of Heresy",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
-			"type": "Legendary Creature — Human Assassin ",
+			"type": "Legendary Creature — Human Assassin",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/216_Dahlia, Blossom of Heresy.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/216_Dahlia, Blossom of Heresy.png"
 			}
 		},
 		{
 			"name": "Kinn, the Clone",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
-			"type": "Legendary Creature — Human Pilot ",
+			"type": "Legendary Creature — Human Pilot",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/145_Kinn, the Clone.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/145_Kinn, the Clone.png"
 			}
 		},
 		{
 			"name": "Angel of Purpose",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Artifact Creature — Angel ",
+			"type": "Artifact Creature — Angel",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/1_Angel of Purpose.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/1_Angel of Purpose.png"
 			}
 		},
 		{
 			"name": "Move Heaven and Earth",
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{R}",
-			"type": "Enchantment — Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/148_Move Heaven and Earth.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/148_Move Heaven and Earth.png"
 			}
 		},
 		{
@@ -76,47 +77,47 @@
 			"type": "Enchantment",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/235_Kallatree's Offshoot.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/235_Kallatree's Offshoot.png"
 			}
 		},
 		{
 			"name": "Slaughter's Shadow",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Shade Samurai ",
+			"type": "Creature — Shade Samurai",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/116_Slaughter's Shadow.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/116_Slaughter's Shadow.png"
 			}
 		},
 		{
 			"name": "Ayeshi, Eternal Archmage",
 			"rarity": "rare",
 			"mana_cost": "{G}{W}{U}",
-			"type": "Legendary Creature — Human Wizard ",
+			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/209_Ayeshi, Eternal Archmage.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/209_Ayeshi, Eternal Archmage.png"
 			}
 		},
 		{
 			"name": "Heart of the Deliverance",
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
-			"type": "Legendary Artifact — Vehicle ",
+			"type": "Legendary Artifact — Vehicle",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/272_Heart of the Deliverance.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/272_Heart of the Deliverance.png"
 			}
 		},
 		{
 			"name": "Deliverance, Jewel of Telura",
 			"rarity": "mythic",
 			"mana_cost": "{7}",
-			"type": "Legendary Artifact — Vehicle ",
+			"type": "Legendary Artifact — Vehicle",
 			"collector_number": "270",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/270_Deliverance, Jewel of Telura.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/270_Deliverance, Jewel of Telura.png"
 			}
 		},
 		{
@@ -126,27 +127,27 @@
 			"type": "Enchantment",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/24_Planar Lockdown.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/24_Planar Lockdown.png"
 			}
 		},
 		{
 			"name": "Teluran Vanguard",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Artifact Creature — Human Soldier ",
+			"type": "Artifact Creature — Human Soldier",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/37_Teluran Vanguard.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/37_Teluran Vanguard.png"
 			}
 		},
 		{
 			"name": "Inscrutable Dancer",
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
-			"type": "Creature — Merfolk Performer ",
+			"type": "Creature — Merfolk Performer",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/232_Inscrutable Dancer.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/232_Inscrutable Dancer.png"
 			}
 		},
 		{
@@ -156,67 +157,67 @@
 			"type": "Enchantment",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/130_Burn It All Down.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/130_Burn It All Down.png"
 			}
 		},
 		{
 			"name": "Elai and Lanion",
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{B}{R}",
-			"type": "Legendary Planeswalker — Elai Lanion ",
+			"type": "Legendary Planeswalker — Elai Lanion",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/222_Elai and Lanion.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/222_Elai and Lanion.png"
 			}
 		},
 		{
 			"name": "Tzuhan, the Peacock",
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}{R}{G}",
-			"type": "Legendary Creature — Human Noble ",
+			"type": "Legendary Creature — Human Noble",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/259_Tzuhan, the Peacock.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/259_Tzuhan, the Peacock.png"
 			}
 		},
 		{
 			"name": "Vragut, Molten Monarch",
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{R}",
-			"type": "Legendary Creature — Dragon ",
+			"type": "Legendary Creature — Dragon",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/163_Vragut, Molten Monarch.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/163_Vragut, Molten Monarch.png"
 			}
 		},
 		{
 			"name": "Elai, Scion of the Stars",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
-			"type": "Legendary Creature — Human Avatar ",
+			"type": "Legendary Creature — Human Avatar",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/223_Elai, Scion of the Stars.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/223_Elai, Scion of the Stars.png"
 			}
 		},
 		{
 			"name": "Lanion, Scion of the Umbra",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
-			"type": "Legendary Artifact Creature — Human ",
+			"type": "Legendary Artifact Creature — Human",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/236_Lanion, Scion of the Umbra.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/236_Lanion, Scion of the Umbra.png"
 			}
 		},
 		{
 			"name": "Finnigan, Half-Fae Prince",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
-			"type": "Legendary Creature — Human Faerie ",
+			"type": "Legendary Creature — Human Faerie",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/15_Finnigan, Half-Fae Prince.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/15_Finnigan, Half-Fae Prince.png"
 			}
 		},
 		{
@@ -226,47 +227,47 @@
 			"type": "Sorcery",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/138_Eradication Beam.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/138_Eradication Beam.png"
 			}
 		},
 		{
 			"name": "Council Speaker",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
-			"type": "Creature — Human Avatar Artificer ",
+			"type": "Creature — Human Avatar Artificer",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/215_Council Speaker.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/215_Council Speaker.png"
 			}
 		},
 		{
 			"name": "Sylvua, Ancient Potentate",
 			"rarity": "rare",
 			"mana_cost": "{B}{G}",
-			"type": "Legendary Creature — Dryad Warlock ",
+			"type": "Legendary Creature — Dryad Warlock",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/254_Sylvua, Ancient Potentate.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/254_Sylvua, Ancient Potentate.png"
 			}
 		},
 		{
 			"name": "Confounding Kraken",
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{U}",
-			"type": "Creature — Kraken ",
+			"type": "Creature — Kraken",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/51_Confounding Kraken.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/51_Confounding Kraken.png"
 			}
 		},
 		{
 			"name": "Aurora Draconis",
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{U}",
-			"type": "Creature — Spirit Dragon ",
+			"type": "Creature — Spirit Dragon",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/208_Aurora Draconis.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/208_Aurora Draconis.png"
 			}
 		},
 		{
@@ -276,17 +277,17 @@
 			"type": "Enchantment",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/179_Everything Changes.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/179_Everything Changes.png"
 			}
 		},
 		{
 			"name": "Seishin-Boon Titan",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}",
-			"type": "Artifact — Vehicle ",
+			"type": "Artifact — Vehicle",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/250_Seishin-Boon Titan.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/250_Seishin-Boon Titan.png"
 			}
 		},
 		{
@@ -296,27 +297,27 @@
 			"type": "Sorcery",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/238_Lure to Doom.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/238_Lure to Doom.png"
 			}
 		},
 		{
 			"name": "Tidebreaker Leviathan",
 			"rarity": "rare",
 			"mana_cost": "{5}{G}{G}{G}",
-			"type": "Creature — Leviathan ",
+			"type": "Creature — Leviathan",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/202_Tidebreaker Leviathan.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/202_Tidebreaker Leviathan.png"
 			}
 		},
 		{
 			"name": "Giyama, Servant of Telura",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{R}",
-			"type": "Legendary Creature — Demon Warrior ",
+			"type": "Legendary Creature — Demon Warrior",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/229_Giyama, Servant of Telura.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/229_Giyama, Servant of Telura.png"
 			}
 		},
 		{
@@ -326,7 +327,7 @@
 			"type": "Sorcery",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/72_Prince's Bargain.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/72_Prince's Bargain.png"
 			}
 		},
 		{
@@ -336,37 +337,37 @@
 			"type": "Land",
 			"collector_number": "298",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/298_Loom of a New World.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/298_Loom of a New World.png"
 			}
 		},
 		{
 			"name": "Tanavir, Simulacra Ascetic",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
-			"type": "Legendary Creature — Elf Shaman ",
+			"type": "Legendary Creature — Elf Shaman",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/200_Tanavir, Simulacra Ascetic.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/200_Tanavir, Simulacra Ascetic.png"
 			}
 		},
 		{
 			"name": "Infectious Intelligence",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Artifact Creature — Wizard ",
+			"type": "Artifact Creature — Wizard",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/95_Infectious Intelligence.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/95_Infectious Intelligence.png"
 			}
 		},
 		{
 			"name": "Island",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Island ",
+			"type": "Basic Land — Island",
 			"collector_number": "308",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/308_Island.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/308_Island.png"
 			}
 		},
 		{
@@ -376,7 +377,7 @@
 			"type": "Enchantment",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/13_Endless Perfect Legions.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/13_Endless Perfect Legions.png"
 			}
 		},
 		{
@@ -386,17 +387,17 @@
 			"type": "Sorcery",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/194_Reality Rifts.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/194_Reality Rifts.png"
 			}
 		},
 		{
 			"name": "Kai, the Origamist",
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
-			"type": "Legendary Creature — Human Monk ",
+			"type": "Legendary Creature — Human Monk",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/63_Kai, the Origamist.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/63_Kai, the Origamist.png"
 			}
 		},
 		{
@@ -406,7 +407,7 @@
 			"type": "Enchantment",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/220_Ecliptic Ending.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/220_Ecliptic Ending.png"
 			}
 		},
 		{
@@ -416,127 +417,127 @@
 			"type": "Instant",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/203_Time's Triumph.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/203_Time's Triumph.png"
 			}
 		},
 		{
 			"name": "Kimja Reckoner",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Samurai ",
+			"type": "Creature — Human Samurai",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/99_Kimja Reckoner.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/99_Kimja Reckoner.png"
 			}
 		},
 		{
 			"name": "Ourobori, Seishin-Fused",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}{U}",
-			"type": "Legendary Creature — Spirit Serpent ",
+			"type": "Legendary Creature — Spirit Serpent",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/243_Ourobori, Seishin-Fused.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/243_Ourobori, Seishin-Fused.png"
 			}
 		},
 		{
 			"name": "Zaender, Shattered Mind",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}{R}",
-			"type": "Legendary Creature — Human Wizard ",
+			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/263_Zaender, Shattered Mind.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/263_Zaender, Shattered Mind.png"
 			}
 		},
 		{
 			"name": "Elphaen, Servant of Telura",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}",
-			"type": "Legendary Creature — Human Cleric ",
+			"type": "Legendary Creature — Human Cleric",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/224_Elphaen, Servant of Telura.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/224_Elphaen, Servant of Telura.png"
 			}
 		},
 		{
 			"name": "Amede, Kallatree Speaker",
 			"rarity": "rare",
 			"mana_cost": "{4}{G}",
-			"type": "Legendary Creature — Human Shaman ",
+			"type": "Legendary Creature — Human Shaman",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/167_Amede, Kallatree Speaker.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/167_Amede, Kallatree Speaker.png"
 			}
 		},
 		{
 			"name": "Awakened Brush",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/169_Awakened Brush.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/169_Awakened Brush.png"
 			}
 		},
 		{
 			"name": "Blighteater Lynxstag",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Skeleton Elk Cat ",
+			"type": "Creature — Skeleton Elk Cat",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/170_Blighteater Lynxstag.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/170_Blighteater Lynxstag.png"
 			}
 		},
 		{
 			"name": "Prince Irakan's Wish",
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{U}{U}",
-			"type": "Enchantment — Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/71_Prince Irakan's Wish.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/71_Prince Irakan's Wish.png"
 			}
 		},
 		{
 			"name": "Magister of Control",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Wizard ",
+			"type": "Creature — Human Wizard",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/67_Magister of Control.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/67_Magister of Control.png"
 			}
 		},
 		{
 			"name": "Deepwyn Worldbender",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
-			"type": "Creature — Human Shaman ",
+			"type": "Creature — Human Shaman",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/53_Deepwyn Worldbender.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/53_Deepwyn Worldbender.png"
 			}
 		},
 		{
 			"name": "Engineered Worldsweeper",
 			"rarity": "uncommon",
 			"mana_cost": "{7}{U}",
-			"type": "Artifact Creature — Serpent ",
+			"type": "Artifact Creature — Serpent",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/56_Engineered Worldsweeper.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/56_Engineered Worldsweeper.png"
 			}
 		},
 		{
 			"name": "Heavencraft Gavel",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
-			"type": "Artifact — Equipment ",
+			"type": "Artifact — Equipment",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/18_Heavencraft Gavel.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/18_Heavencraft Gavel.png"
 			}
 		},
 		{
@@ -546,77 +547,77 @@
 			"type": "Artifact",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/144_Kiln of the Astral Flame.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/144_Kiln of the Astral Flame.png"
 			}
 		},
 		{
 			"name": "Obsession, Lingering Shade",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
-			"type": "Legendary Creature — Shade ",
+			"type": "Legendary Creature — Shade",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/106_Obsession, Lingering Shade.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/106_Obsession, Lingering Shade.png"
 			}
 		},
 		{
 			"name": "Warped Matterdancer",
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{W}",
-			"type": "Artifact Creature — Angel  ",
+			"type": "Artifact Creature — Angel",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/41_Warped Matterdancer.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/41_Warped Matterdancer.png"
 			}
 		},
 		{
 			"name": "Tideweave Avatar",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Artifact Creature — Knight ",
+			"type": "Artifact Creature — Knight",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/81_Tideweave Avatar.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/81_Tideweave Avatar.png"
 			}
 		},
 		{
 			"name": "Enter the Avatar",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/58_Enter the Avatar.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/58_Enter the Avatar.png"
 			}
 		},
 		{
 			"name": "Anjarjan Phantom",
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
-			"type": "Creature — Spirit ",
+			"type": "Creature — Spirit",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/84_Anjarjan Phantom.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/84_Anjarjan Phantom.png"
 			}
 		},
 		{
 			"name": "Invoker's Voidlord",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
-			"type": "Creature — Demon ",
+			"type": "Creature — Demon",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/97_Invoker's Voidlord.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/97_Invoker's Voidlord.png"
 			}
 		},
 		{
 			"name": "Britlitte Librarian",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Artificer ",
+			"type": "Creature — Human Artificer",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/49_Britlitte Librarian.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/49_Britlitte Librarian.png"
 			}
 		},
 		{
@@ -626,37 +627,37 @@
 			"type": "Artifact",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/59_Essence Serum.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/59_Essence Serum.png"
 			}
 		},
 		{
 			"name": "Adapted Lifespinner",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Avatar Shaman ",
+			"type": "Creature — Avatar Shaman",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/166_Adapted Lifespinner.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/166_Adapted Lifespinner.png"
 			}
 		},
 		{
 			"name": "Teluran Imperiarch",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Avatar Noble ",
+			"type": "Creature — Avatar Noble",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/36_Teluran Imperiarch.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/36_Teluran Imperiarch.png"
 			}
 		},
 		{
 			"name": "Kallaheart Reckoner",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Elf Warrior ",
+			"type": "Creature — Elf Warrior",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/98_Kallaheart Reckoner.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/98_Kallaheart Reckoner.png"
 			}
 		},
 		{
@@ -666,7 +667,7 @@
 			"type": "Land",
 			"collector_number": "306",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/306_Teluran Void.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/306_Teluran Void.png"
 			}
 		},
 		{
@@ -676,67 +677,67 @@
 			"type": "Sorcery",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/172_Brilliant Incursion.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/172_Brilliant Incursion.png"
 			}
 		},
 		{
 			"name": "Terralight Smithy",
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
-			"type": "Creature — Human Artificer ",
+			"type": "Creature — Human Artificer",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/255_Terralight Smithy.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/255_Terralight Smithy.png"
 			}
 		},
 		{
 			"name": "Shrine to the Great Tree",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
-			"type": "Legendary Enchantment — Shrine ",
+			"type": "Legendary Enchantment — Shrine",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/198_Shrine to the Great Tree.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/198_Shrine to the Great Tree.png"
 			}
 		},
 		{
 			"name": "Shrine to the Royal Family",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Legendary Enchantment — Shrine ",
+			"type": "Legendary Enchantment — Shrine",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/29_Shrine to the Royal Family.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/29_Shrine to the Royal Family.png"
 			}
 		},
 		{
 			"name": "Shrine to the Machine",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Legendary Enchantment — Shrine ",
+			"type": "Legendary Enchantment — Shrine",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/153_Shrine to the Machine.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/153_Shrine to the Machine.png"
 			}
 		},
 		{
 			"name": "Wise Runecaster",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
-			"type": "Creature — Lizard Warlock ",
+			"type": "Creature — Lizard Warlock",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/82_Wise Runecaster.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/82_Wise Runecaster.png"
 			}
 		},
 		{
 			"name": "Kindred Sentinel",
 			"rarity": "common",
 			"mana_cost": "{6}",
-			"type": "Artifact Creature — Construct ",
+			"type": "Artifact Creature — Construct",
 			"collector_number": "275",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/275_Kindred Sentinel.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/275_Kindred Sentinel.png"
 			}
 		},
 		{
@@ -746,77 +747,77 @@
 			"type": "Enchantment",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/187_New Genesis.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/187_New Genesis.png"
 			}
 		},
 		{
 			"name": "Amplified Staticaster",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Human Wizard ",
+			"type": "Creature — Human Wizard",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/124_Amplified Staticaster.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/124_Amplified Staticaster.png"
 			}
 		},
 		{
 			"name": "Intrepid Tinkerer",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Artificer ",
+			"type": "Creature — Human Artificer",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/19_Intrepid Tinkerer.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/19_Intrepid Tinkerer.png"
 			}
 		},
 		{
 			"name": "Commander Norara",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}",
-			"type": "Legendary Creature — Avatar Knight ",
+			"type": "Legendary Creature — Avatar Knight",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/212_Commander Norara.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/212_Commander Norara.png"
 			}
 		},
 		{
 			"name": "Patchwork Summons",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Elemental ",
+			"type": "Creature — Elemental",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/190_Patchwork Summons.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/190_Patchwork Summons.png"
 			}
 		},
 		{
 			"name": "Heaven's Hammerbearer",
 			"rarity": "rare",
 			"mana_cost": "{X}{G}{U}",
-			"type": "Creature — Human Warrior ",
+			"type": "Creature — Human Warrior",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/230_Heaven's Hammerbearer.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/230_Heaven's Hammerbearer.png"
 			}
 		},
 		{
 			"name": "Stormcrown Archlich",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Warlock ",
+			"type": "Creature — Human Warlock",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/118_Stormcrown Archlich.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/118_Stormcrown Archlich.png"
 			}
 		},
 		{
 			"name": "Ionization Protocol",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/62_Ionization Protocol.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/62_Ionization Protocol.png"
 			}
 		},
 		{
@@ -826,7 +827,7 @@
 			"type": "Instant",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/134_Dissolve into History.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/134_Dissolve into History.png"
 			}
 		},
 		{
@@ -836,7 +837,7 @@
 			"type": "Land",
 			"collector_number": "294",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/294_Empire's Vestiges.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/294_Empire's Vestiges.png"
 			}
 		},
 		{
@@ -846,27 +847,27 @@
 			"type": "Sorcery",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/96_Inspired Resurrection.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/96_Inspired Resurrection.png"
 			}
 		},
 		{
 			"name": "Champion of Confluence",
 			"rarity": "rare",
 			"mana_cost": "{G}",
-			"type": "Creature — Human Knight ",
+			"type": "Creature — Human Knight",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/173_Champion of Confluence.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/173_Champion of Confluence.png"
 			}
 		},
 		{
 			"name": "Threadweaver Icon",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Azra Artificer ",
+			"type": "Creature — Azra Artificer",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/40_Threadweaver Icon.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/40_Threadweaver Icon.png"
 			}
 		},
 		{
@@ -876,17 +877,17 @@
 			"type": "Artifact",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/105_Oblivion Cradle.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/105_Oblivion Cradle.png"
 			}
 		},
 		{
 			"name": "Kinetic Cadaver",
 			"rarity": "rare",
 			"mana_cost": "{B}",
-			"type": "Creature — Zombie  ",
+			"type": "Creature — Zombie",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/100_Kinetic Cadaver.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/100_Kinetic Cadaver.png"
 			}
 		},
 		{
@@ -896,37 +897,37 @@
 			"type": "Sorcery",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/50_Calamitous Premonition.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/50_Calamitous Premonition.png"
 			}
 		},
 		{
 			"name": "Shiori, Frostfire Kitsune",
 			"rarity": "rare",
 			"mana_cost": "{G}{U}{R}",
-			"type": "Legendary Creature — Fox Spirit ",
+			"type": "Legendary Creature — Fox Spirit",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/251_Shiori, Frostfire Kitsune.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/251_Shiori, Frostfire Kitsune.png"
 			}
 		},
 		{
 			"name": "Lioncrest Hero",
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
-			"type": "Creature — Elf Knight ",
+			"type": "Creature — Elf Knight",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/237_Lioncrest Hero.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/237_Lioncrest Hero.png"
 			}
 		},
 		{
 			"name": "Rampaging Kavu",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Kavu ",
+			"type": "Creature — Kavu",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/193_Rampaging Kavu.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/193_Rampaging Kavu.png"
 			}
 		},
 		{
@@ -936,27 +937,27 @@
 			"type": "Instant",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/54_Dictate of the Heavens.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/54_Dictate of the Heavens.png"
 			}
 		},
 		{
 			"name": "Empyrean Wingserpent",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Bird Dragon Spirit ",
+			"type": "Creature — Bird Dragon Spirit",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/55_Empyrean Wingserpent.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/55_Empyrean Wingserpent.png"
 			}
 		},
 		{
 			"name": "Kaecil, the Starspeaker",
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
-			"type": "Legendary Creature — Avatar Artificer ",
+			"type": "Legendary Creature — Avatar Artificer",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/233_Kaecil, the Starspeaker.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/233_Kaecil, the Starspeaker.png"
 			}
 		},
 		{
@@ -966,127 +967,127 @@
 			"type": "Artifact",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/267_Chromatic Goggles.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/267_Chromatic Goggles.png"
 			}
 		},
 		{
 			"name": "Gildleaf Unifier",
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
-			"type": "Creature — Elf Shaman ",
+			"type": "Creature — Elf Shaman",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/181_Gildleaf Unifier.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/181_Gildleaf Unifier.png"
 			}
 		},
 		{
 			"name": "Swamp",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Swamp ",
+			"type": "Basic Land — Swamp",
 			"collector_number": "309",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/309_Swamp.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/309_Swamp.png"
 			}
 		},
 		{
 			"name": "Forest",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Forest ",
+			"type": "Basic Land — Forest",
 			"collector_number": "311",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/311_Forest.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/311_Forest.png"
 			}
 		},
 		{
 			"name": "Plains",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Plains ",
+			"type": "Basic Land — Plains",
 			"collector_number": "307",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/307_Plains.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/307_Plains.png"
 			}
 		},
 		{
 			"name": "Mountain",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Mountain ",
+			"type": "Basic Land — Mountain",
 			"collector_number": "310",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/310_Mountain.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/310_Mountain.png"
 			}
 		},
 		{
 			"name": "Ritual Grounds",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Plains Swamp ",
+			"type": "Land — Plains Swamp",
 			"collector_number": "300",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/300_Ritual Grounds.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/300_Ritual Grounds.png"
 			}
 		},
 		{
 			"name": "Cloudtouched Hills",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Forest Plains ",
+			"type": "Land — Forest Plains",
 			"collector_number": "291",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/291_Cloudtouched Hills.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/291_Cloudtouched Hills.png"
 			}
 		},
 		{
 			"name": "Spouting Lagoon",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Island Mountain ",
+			"type": "Land — Island Mountain",
 			"collector_number": "304",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/304_Spouting Lagoon.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/304_Spouting Lagoon.png"
 			}
 		},
 		{
 			"name": "Ashchoke Bog",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Swamp Mountain ",
+			"type": "Land — Swamp Mountain",
 			"collector_number": "289",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/289_Ashchoke Bog.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/289_Ashchoke Bog.png"
 			}
 		},
 		{
 			"name": "Sojourner's Gateway",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Gate ",
+			"type": "Land — Gate",
 			"collector_number": "302",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/302_Sojourner's Gateway.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/302_Sojourner's Gateway.png"
 			}
 		},
 		{
 			"name": "Brackbloom Titan",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{B}",
-			"type": "Creature — Horror ",
+			"type": "Creature — Horror",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/86_Brackbloom Titan.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/86_Brackbloom Titan.png"
 			}
 		},
 		{
 			"name": "Ravencorps Reavers",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Horror Knight ",
+			"type": "Creature — Horror Knight",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/110_Ravencorps Reavers.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/110_Ravencorps Reavers.png"
 			}
 		},
 		{
@@ -1096,7 +1097,7 @@
 			"type": "Artifact",
 			"collector_number": "279",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/279_Portal Ring.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/279_Portal Ring.png"
 			}
 		},
 		{
@@ -1106,27 +1107,27 @@
 			"type": "Artifact",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/280_Prophetic Prism.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/280_Prophetic Prism.png"
 			}
 		},
 		{
 			"name": "Council Assistant",
 			"rarity": "common",
 			"mana_cost": "{2}",
-			"type": "Artifact Creature — Construct ",
+			"type": "Artifact Creature — Construct",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/268_Council Assistant.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/268_Council Assistant.png"
 			}
 		},
 		{
 			"name": "Slumbering Titanyard",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Artifact Land — Vehicle ",
+			"type": "Artifact Land — Vehicle",
 			"collector_number": "301",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/301_Slumbering Titanyard.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/301_Slumbering Titanyard.png"
 			}
 		},
 		{
@@ -1136,7 +1137,7 @@
 			"type": "Enchantment",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/60_Fruitless Paradise.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/60_Fruitless Paradise.png"
 			}
 		},
 		{
@@ -1146,7 +1147,7 @@
 			"type": "Artifact",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/38_Terralight Prison.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/38_Terralight Prison.png"
 			}
 		},
 		{
@@ -1156,7 +1157,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/281_Seat of the Last Empire.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/281_Seat of the Last Empire.png"
 			}
 		},
 		{
@@ -1166,27 +1167,27 @@
 			"type": "Instant",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/73_Repeated Refusal.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/73_Repeated Refusal.png"
 			}
 		},
 		{
 			"name": "Gleaming Praetor",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
-			"type": "Artifact Creature — Soldier ",
+			"type": "Artifact Creature — Soldier",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/16_Gleaming Praetor.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/16_Gleaming Praetor.png"
 			}
 		},
 		{
 			"name": "Become One with Telura",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Enchantment — Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/3_Become One with Telura.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/3_Become One with Telura.png"
 			}
 		},
 		{
@@ -1196,17 +1197,17 @@
 			"type": "Enchantment",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/108_Oni-Power Production.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/108_Oni-Power Production.png"
 			}
 		},
 		{
 			"name": "Demon Warrior",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact Creature — Demon ",
+			"type": "Token Artifact Creature — Demon",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/2_Demon Warrior.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/2_Demon Warrior.png"
 			}
 		},
 		{
@@ -1216,27 +1217,27 @@
 			"type": "Land",
 			"collector_number": "290",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/290_Bastion of Light.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/290_Bastion of Light.png"
 			}
 		},
 		{
 			"name": "Thopter",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact Creature — Thopter ",
+			"type": "Token Artifact Creature — Thopter",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/8_Thopter.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/8_Thopter.png"
 			}
 		},
 		{
 			"name": "Dancing Rakshasa",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}",
-			"type": "Creature — Spirit Beast ",
+			"type": "Creature — Spirit Beast",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/217_Dancing Rakshasa.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/217_Dancing Rakshasa.png"
 			}
 		},
 		{
@@ -1246,137 +1247,137 @@
 			"type": "Artifact",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/10_Deployment Zone.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/10_Deployment Zone.png"
 			}
 		},
 		{
 			"name": "Emperor's Attendant",
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{R}",
-			"type": "Creature — Human Advisor ",
+			"type": "Creature — Human Advisor",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/225_Emperor's Attendant.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/225_Emperor's Attendant.png"
 			}
 		},
 		{
 			"name": "Soulcharged Colossus",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Artifact Creature — Golem ",
+			"type": "Artifact Creature — Golem",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/78_Soulcharged Colossus.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/78_Soulcharged Colossus.png"
 			}
 		},
 		{
 			"name": "Shaleville Rider",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human  Knight ",
+			"type": "Creature — Human Knight",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/28_Shaleville Rider.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/28_Shaleville Rider.png"
 			}
 		},
 		{
 			"name": "Starbearer Paladin",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Artificer ",
+			"type": "Creature — Human Artificer",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/32_Starbearer Paladin.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/32_Starbearer Paladin.png"
 			}
 		},
 		{
 			"name": "Portent Reader",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Creature — Human Shaman ",
+			"type": "Creature — Human Shaman",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/191_Portent Reader.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/191_Portent Reader.png"
 			}
 		},
 		{
 			"name": "Deployer Hulk",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Artifact Creature — Warlock ",
+			"type": "Artifact Creature — Warlock",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/91_Deployer Hulk.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/91_Deployer Hulk.png"
 			}
 		},
 		{
 			"name": "Skolhan Thundermage",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Wizard ",
+			"type": "Creature — Human Wizard",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/76_Skolhan Thundermage.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/76_Skolhan Thundermage.png"
 			}
 		},
 		{
 			"name": "Duskwing Inferno",
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{R}",
-			"type": "Creature — Elemental Dragon ",
+			"type": "Creature — Elemental Dragon",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/136_Duskwing Inferno.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/136_Duskwing Inferno.png"
 			}
 		},
 		{
 			"name": "Magmatic Manifestation",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Elemental ",
+			"type": "Creature — Elemental",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/146_Magmatic Manifestation.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/146_Magmatic Manifestation.png"
 			}
 		},
 		{
 			"name": "Territorial Drakkon",
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
-			"type": "Creature — Dragon ",
+			"type": "Creature — Dragon",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/156_Territorial Drakkon.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/156_Territorial Drakkon.png"
 			}
 		},
 		{
 			"name": "Crested Raven",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
-			"type": "Creature — Bird  ",
+			"type": "Creature — Bird",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/88_Crested Raven.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/88_Crested Raven.png"
 			}
 		},
 		{
 			"name": "Skodir, Uniter of Realms",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}{W}",
-			"type": "Legendary Creature — Human Warrior ",
+			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/253_Skodir, Uniter of Realms.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/253_Skodir, Uniter of Realms.png"
 			}
 		},
 		{
 			"name": "Council's Spear",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Artifact Creature — Avatar Soldier ",
+			"type": "Artifact Creature — Avatar Soldier",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/52_Council's Spear.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/52_Council's Spear.png"
 			}
 		},
 		{
@@ -1386,47 +1387,47 @@
 			"type": "Sorcery",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/188_New Realms.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/188_New Realms.png"
 			}
 		},
 		{
 			"name": "Therisi, Her Soul Aflame",
 			"rarity": "rare",
 			"mana_cost": "{R}",
-			"type": "Legendary Creature — Human Wizard ",
+			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/158_Therisi, Her Soul Aflame.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/158_Therisi, Her Soul Aflame.png"
 			}
 		},
 		{
 			"name": "Guardian of the Cosmos",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Human Wizard ",
+			"type": "Creature — Human Wizard",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/140_Guardian of the Cosmos.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/140_Guardian of the Cosmos.png"
 			}
 		},
 		{
 			"name": "Risa, Ender of Empires",
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{W}",
-			"type": "Legendary Creature — Human Soldier ",
+			"type": "Legendary Creature — Human Soldier",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/248_Risa, Ender of Empires.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/248_Risa, Ender of Empires.png"
 			}
 		},
 		{
 			"name": "Soldier",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact Creature — Soldier ",
+			"type": "Token Artifact Creature — Soldier",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/7_Soldier.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/7_Soldier.png"
 			}
 		},
 		{
@@ -1436,77 +1437,77 @@
 			"type": "Sorcery",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/92_Drag Life into the Umbra.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/92_Drag Life into the Umbra.png"
 			}
 		},
 		{
 			"name": "Darkhelm Karaki",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}{B}",
-			"type": "Creature — Human Berserker ",
+			"type": "Creature — Human Berserker",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/218_Darkhelm Karaki.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/218_Darkhelm Karaki.png"
 			}
 		},
 		{
 			"name": "Missira, Heir to War",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}",
-			"type": "Legendary Creature — Human Noble ",
+			"type": "Legendary Creature — Human Noble",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/239_Missira, Heir to War.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/239_Missira, Heir to War.png"
 			}
 		},
 		{
 			"name": "Alexei, Eye of the Storm",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
-			"type": "Legendary Creature — Human Wizard ",
+			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/44_Alexei, Eye of the Storm.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/44_Alexei, Eye of the Storm.png"
 			}
 		},
 		{
 			"name": "Archengine Ascendant",
 			"rarity": "rare",
 			"mana_cost": "{U}",
-			"type": "Artifact — Vehicle ",
+			"type": "Artifact — Vehicle",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/45_Archengine Ascendant.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/45_Archengine Ascendant.png"
 			}
 		},
 		{
 			"name": "Rallying the Titans",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
-			"type": "Enchantment — Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/25_Rallying the Titans.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/25_Rallying the Titans.png"
 			}
 		},
 		{
 			"name": "Goldblossom Angel",
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
-			"type": "Artifact Creature — Angel ",
+			"type": "Artifact Creature — Angel",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/17_Goldblossom Angel.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/17_Goldblossom Angel.png"
 			}
 		},
 		{
 			"name": "Ghostlight Infiltrator",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Monk ",
+			"type": "Creature — Human Monk",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/61_Ghostlight Infiltrator.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/61_Ghostlight Infiltrator.png"
 			}
 		},
 		{
@@ -1516,87 +1517,87 @@
 			"type": "Instant",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/69_One with the Current.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/69_One with the Current.png"
 			}
 		},
 		{
 			"name": "Kallawarden Ancient",
 			"rarity": "uncommon",
 			"mana_cost": "{6}{G}{G}",
-			"type": "Creature — Elemental ",
+			"type": "Creature — Elemental",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/184_Kallawarden Ancient.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/184_Kallawarden Ancient.png"
 			}
 		},
 		{
 			"name": "Hero of Sol Cuesta",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
-			"type": "Creature — Elemental Knight ",
+			"type": "Creature — Elemental Knight",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/141_Hero of Sol Cuesta.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/141_Hero of Sol Cuesta.png"
 			}
 		},
 		{
 			"name": "Shrine to the Spirit Realm",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
-			"type": "Legendary Enchantment — Shrine ",
+			"type": "Legendary Enchantment — Shrine",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/75_Shrine to the Spirit Realm.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/75_Shrine to the Spirit Realm.png"
 			}
 		},
 		{
 			"name": "Shrine to the Divine",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
-			"type": "Legendary Enchantment — Shrine ",
+			"type": "Legendary Enchantment — Shrine",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/114_Shrine to the Divine.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/114_Shrine to the Divine.png"
 			}
 		},
 		{
 			"name": "Ironblood Jarl",
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{W}",
-			"type": "Artifact Creature — Berserker ",
+			"type": "Artifact Creature — Berserker",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/20_Ironblood Jarl.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/20_Ironblood Jarl.png"
 			}
 		},
 		{
 			"name": "Firestorm Evangelist",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
-			"type": "Artifact Creature — Monk ",
+			"type": "Artifact Creature — Monk",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/139_Firestorm Evangelist.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/139_Firestorm Evangelist.png"
 			}
 		},
 		{
 			"name": "Sol Cuesta Cavalry",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Elemental Knight ",
+			"type": "Creature — Elemental Knight",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/155_Sol Cuesta Cavalry.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/155_Sol Cuesta Cavalry.png"
 			}
 		},
 		{
 			"name": "Lady of the Inlet",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Merfolk Wizard ",
+			"type": "Creature — Merfolk Wizard",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/65_Lady of the Inlet.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/65_Lady of the Inlet.png"
 			}
 		},
 		{
@@ -1606,37 +1607,37 @@
 			"type": "Instant",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/77_Sneap.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/77_Sneap.png"
 			}
 		},
 		{
 			"name": "Knight",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Knight ",
+			"type": "Token Creature — Knight",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/1_Knight.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/1_Knight.png"
 			}
 		},
 		{
 			"name": "Multiform Rapier",
 			"rarity": "common",
 			"mana_cost": "{1}",
-			"type": "Artifact — Equipment ",
+			"type": "Artifact — Equipment",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/276_Multiform Rapier.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/276_Multiform Rapier.png"
 			}
 		},
 		{
 			"name": "Adaptive Raider",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Berserker ",
+			"type": "Creature — Human Berserker",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/43_Adaptive Raider.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/43_Adaptive Raider.png"
 			}
 		},
 		{
@@ -1646,27 +1647,27 @@
 			"type": "Sorcery",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/7_Clearcut.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/7_Clearcut.png"
 			}
 		},
 		{
 			"name": "Knight of Irakan",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Artifact Creature — Knight ",
+			"type": "Artifact Creature — Knight",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/21_Knight of Irakan.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/21_Knight of Irakan.png"
 			}
 		},
 		{
 			"name": "Port Goliath",
 			"rarity": "mythic",
 			"mana_cost": "{12}",
-			"type": "Artifact Creature — Construct ",
+			"type": "Artifact Creature — Construct",
 			"collector_number": "278",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/278_Port Goliath.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/278_Port Goliath.png"
 			}
 		},
 		{
@@ -1676,17 +1677,17 @@
 			"type": "Artifact",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/265_Beacon of Horizons.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/265_Beacon of Horizons.png"
 			}
 		},
 		{
 			"name": "Usurper Program",
 			"rarity": "rare",
 			"mana_cost": "{3}",
-			"type": "Artifact Creature — Construct ",
+			"type": "Artifact Creature — Construct",
 			"collector_number": "288",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/288_Usurper Program.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/288_Usurper Program.png"
 			}
 		},
 		{
@@ -1696,37 +1697,37 @@
 			"type": "Sorcery",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/151_Set the Heavens Ablaze.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/151_Set the Heavens Ablaze.png"
 			}
 		},
 		{
 			"name": "Sunblessed Range",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Mountain Forest ",
+			"type": "Land — Mountain Forest",
 			"collector_number": "305",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/305_Sunblessed Range.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/305_Sunblessed Range.png"
 			}
 		},
 		{
 			"name": "Ethereal Wasteland",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Island Swamp ",
+			"type": "Land — Island Swamp",
 			"collector_number": "295",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/295_Ethereal Wasteland.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/295_Ethereal Wasteland.png"
 			}
 		},
 		{
 			"name": "Dragoneye Shores",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Plains Island ",
+			"type": "Land — Plains Island",
 			"collector_number": "293",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/293_Dragoneye Shores.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/293_Dragoneye Shores.png"
 			}
 		},
 		{
@@ -1736,37 +1737,37 @@
 			"type": "Instant",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/149_Overcharge.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/149_Overcharge.png"
 			}
 		},
 		{
 			"name": "Peat Basin",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Island Forest ",
+			"type": "Land — Island Forest",
 			"collector_number": "299",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/299_Peat Basin.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/299_Peat Basin.png"
 			}
 		},
 		{
 			"name": "Familiar Summoner",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{W}",
-			"type": "Creature — Human Cleric ",
+			"type": "Creature — Human Cleric",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/14_Familiar Summoner.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/14_Familiar Summoner.png"
 			}
 		},
 		{
 			"name": "Unleashed Steed",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Lizard ",
+			"type": "Creature — Lizard",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/161_Unleashed Steed.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/161_Unleashed Steed.png"
 			}
 		},
 		{
@@ -1776,7 +1777,7 @@
 			"type": "Enchantment",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/70_Playing with Portals.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/70_Playing with Portals.png"
 			}
 		},
 		{
@@ -1786,7 +1787,7 @@
 			"type": "Instant",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/135_Dragon's Ire.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/135_Dragon's Ire.png"
 			}
 		},
 		{
@@ -1796,7 +1797,7 @@
 			"type": "Artifact",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/93_Foreboding Memory.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/93_Foreboding Memory.png"
 			}
 		},
 		{
@@ -1806,37 +1807,37 @@
 			"type": "Enchantment",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/249_Seeds of a Dream.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/249_Seeds of a Dream.png"
 			}
 		},
 		{
 			"name": "Automated Suppressor",
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
-			"type": "Artifact Creature — Knight ",
+			"type": "Artifact Creature — Knight",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/47_Automated Suppressor.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/47_Automated Suppressor.png"
 			}
 		},
 		{
 			"name": "Kjaldiran Stormbearer",
 			"rarity": "common",
 			"mana_cost": "{4}{U}{U}",
-			"type": "Creature — Giant Berserker ",
+			"type": "Creature — Giant Berserker",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/64_Kjaldiran Stormbearer.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/64_Kjaldiran Stormbearer.png"
 			}
 		},
 		{
 			"name": "Refugee Guardian",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Human Warrior ",
+			"type": "Creature — Human Warrior",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/195_Refugee Guardian.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/195_Refugee Guardian.png"
 			}
 		},
 		{
@@ -1846,7 +1847,7 @@
 			"type": "Instant",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/8_Core Shock.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/8_Core Shock.png"
 			}
 		},
 		{
@@ -1856,7 +1857,7 @@
 			"type": "Sorcery",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/12_Down the Middle.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/12_Down the Middle.png"
 			}
 		},
 		{
@@ -1866,17 +1867,17 @@
 			"type": "Instant",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/206_Absorption Matrix.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/206_Absorption Matrix.png"
 			}
 		},
 		{
 			"name": "Singularity Courser",
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{B}",
-			"type": "Creature — Avatar Knight ",
+			"type": "Creature — Avatar Knight",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/252_Singularity Courser.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/252_Singularity Courser.png"
 			}
 		},
 		{
@@ -1886,37 +1887,37 @@
 			"type": "Instant",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/180_Evolutionary Synergy.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/180_Evolutionary Synergy.png"
 			}
 		},
 		{
 			"name": "Simian Swordmaster",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Ape Samurai ",
+			"type": "Creature — Ape Samurai",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/30_Simian Swordmaster.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/30_Simian Swordmaster.png"
 			}
 		},
 		{
 			"name": "Terralight Spearman",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
-			"type": "Artifact Creature — Soldier ",
+			"type": "Artifact Creature — Soldier",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/39_Terralight Spearman.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/39_Terralight Spearman.png"
 			}
 		},
 		{
 			"name": "Blazing Knight-Errant",
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}",
-			"type": "Artifact Creature — Knight ",
+			"type": "Artifact Creature — Knight",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/127_Blazing Knight-Errant.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/127_Blazing Knight-Errant.png"
 			}
 		},
 		{
@@ -1926,7 +1927,7 @@
 			"type": "Instant",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/31_Stand Strong.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/31_Stand Strong.png"
 			}
 		},
 		{
@@ -1936,47 +1937,47 @@
 			"type": "Sorcery",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/196_Shake the Earth.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/196_Shake the Earth.png"
 			}
 		},
 		{
 			"name": "Stormwake Dragon",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}",
-			"type": "Creature — Elemental Dragon ",
+			"type": "Creature — Elemental Dragon",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/80_Stormwake Dragon.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/80_Stormwake Dragon.png"
 			}
 		},
 		{
 			"name": "Elemental Avatar",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Elemental Avatar ",
+			"type": "Token Creature — Elemental Avatar",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/4_Elemental Avatar.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/4_Elemental Avatar.png"
 			}
 		},
 		{
 			"name": "Nataltha, the Dark Star",
 			"rarity": "rare",
 			"mana_cost": "{R}{W}{B}",
-			"type": "Legendary Creature — Angel Demon ",
+			"type": "Legendary Creature — Angel Demon",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/241_Nataltha, the Dark Star.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/241_Nataltha, the Dark Star.png"
 			}
 		},
 		{
 			"name": "Augmented Bankbuster",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Rogue ",
+			"type": "Creature — Human Rogue",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/85_Augmented Bankbuster.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/85_Augmented Bankbuster.png"
 			}
 		},
 		{
@@ -1986,37 +1987,37 @@
 			"type": "Enchantment",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/128_Breaching the Stream.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/128_Breaching the Stream.png"
 			}
 		},
 		{
 			"name": "Enigma Variant",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Shapeshifter ",
+			"type": "Creature — Shapeshifter",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/57_Enigma Variant.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/57_Enigma Variant.png"
 			}
 		},
 		{
 			"name": "Radiant Shaman",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Human Shaman ",
+			"type": "Creature — Human Shaman",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/192_Radiant Shaman.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/192_Radiant Shaman.png"
 			}
 		},
 		{
 			"name": "Malevolent Eradicator",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
-			"type": "Artifact Creature — Construct ",
+			"type": "Artifact Creature — Construct",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/103_Malevolent Eradicator.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/103_Malevolent Eradicator.png"
 			}
 		},
 		{
@@ -2026,17 +2027,17 @@
 			"type": "Sorcery",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/104_Mark for Conquest.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/104_Mark for Conquest.png"
 			}
 		},
 		{
 			"name": "Constellar Deer",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
-			"type": "Creature — Elk Spirit ",
+			"type": "Creature — Elk Spirit",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/213_Constellar Deer.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/213_Constellar Deer.png"
 			}
 		},
 		{
@@ -2046,27 +2047,27 @@
 			"type": "Enchantment",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/204_Union of Root and Steel.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/204_Union of Root and Steel.png"
 			}
 		},
 		{
 			"name": "Skolhan Brawler",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Berserker ",
+			"type": "Creature — Human Berserker",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/154_Skolhan Brawler.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/154_Skolhan Brawler.png"
 			}
 		},
 		{
 			"name": "Wyrmflame Knight",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Knight ",
+			"type": "Creature — Human Knight",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/164_Wyrmflame Knight.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/164_Wyrmflame Knight.png"
 			}
 		},
 		{
@@ -2076,7 +2077,7 @@
 			"type": "Instant",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/68_Negate.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/68_Negate.png"
 			}
 		},
 		{
@@ -2086,27 +2087,27 @@
 			"type": "Instant",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/42_Accept the Gift.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/42_Accept the Gift.png"
 			}
 		},
 		{
 			"name": "Bind the Lightning",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/48_Bind the Lightning.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/48_Bind the Lightning.png"
 			}
 		},
 		{
 			"name": "Relic",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact — Relic ",
+			"type": "Token Artifact — Relic",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/6_Relic.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/6_Relic.png"
 			}
 		},
 		{
@@ -2116,27 +2117,27 @@
 			"type": "Sorcery",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/112_Recovering the Pieces.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/112_Recovering the Pieces.png"
 			}
 		},
 		{
 			"name": "Britlitte Guardian",
 			"rarity": "common",
 			"mana_cost": "{W}",
-			"type": "Creature — Human Wizard ",
+			"type": "Creature — Human Wizard",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/5_Britlitte Guardian.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/5_Britlitte Guardian.png"
 			}
 		},
 		{
 			"name": "Machinist of Souls",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Artifact Creature — Wizard ",
+			"type": "Artifact Creature — Wizard",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/102_Machinist of Souls.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/102_Machinist of Souls.png"
 			}
 		},
 		{
@@ -2146,167 +2147,167 @@
 			"type": "Sorcery",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/159_Turn the Wheel.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/159_Turn the Wheel.png"
 			}
 		},
 		{
 			"name": "Opportunistic Monarch",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Human Noble ",
+			"type": "Creature — Human Noble",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/109_Opportunistic Monarch.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/109_Opportunistic Monarch.png"
 			}
 		},
 		{
 			"name": "Elemental",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Elemental ",
+			"type": "Token Creature — Elemental",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/3_Elemental.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/3_Elemental.png"
 			}
 		},
 		{
 			"name": "Earthreaver Drakkon",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}{R}",
-			"type": "Creature — Dragon ",
+			"type": "Creature — Dragon",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/137_Earthreaver Drakkon.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/137_Earthreaver Drakkon.png"
 			}
 		},
 		{
 			"name": "Searchlight Scout",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Scout ",
+			"type": "Creature — Human Scout",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/27_Searchlight Scout.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/27_Searchlight Scout.png"
 			}
 		},
 		{
 			"name": "Sunpiercer Blade",
 			"rarity": "rare",
 			"mana_cost": "{2}",
-			"type": "Artifact — Equipment ",
+			"type": "Artifact — Equipment",
 			"collector_number": "284",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/284_Sunpiercer Blade.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/284_Sunpiercer Blade.png"
 			}
 		},
 		{
 			"name": "Eira, Immortal Champion",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
-			"type": "Legendary Creature — Human Warrior ",
+			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/221_Eira, Immortal Champion.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/221_Eira, Immortal Champion.png"
 			}
 		},
 		{
 			"name": "Converted Ritualist",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
-			"type": "Creature — Elf Artificer Scout ",
+			"type": "Creature — Elf Artificer Scout",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/214_Converted Ritualist.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/214_Converted Ritualist.png"
 			}
 		},
 		{
 			"name": "Idyllian Battlemech",
 			"rarity": "common",
 			"mana_cost": "{3}",
-			"type": "Artifact — Vehicle ",
+			"type": "Artifact — Vehicle",
 			"collector_number": "273",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/273_Idyllian Battlemech.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/273_Idyllian Battlemech.png"
 			}
 		},
 		{
 			"name": "Fused Eviscerator",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
-			"type": "Creature — Demon ",
+			"type": "Creature — Demon",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/94_Fused Eviscerator.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/94_Fused Eviscerator.png"
 			}
 		},
 		{
 			"name": "Demin's Valiant",
 			"rarity": "common",
 			"mana_cost": "{3}{W}{W}",
-			"type": "Creature — Angel Cat Knight ",
+			"type": "Creature — Angel Cat Knight",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/9_Demin's Valiant.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/9_Demin's Valiant.png"
 			}
 		},
 		{
 			"name": "Wyldwood Ursine",
 			"rarity": "common",
 			"mana_cost": "{5}{G}{G}",
-			"type": "Creature — Bear ",
+			"type": "Creature — Bear",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/205_Wyldwood Ursine.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/205_Wyldwood Ursine.png"
 			}
 		},
 		{
 			"name": "Terror of the Ridge",
 			"rarity": "common",
 			"mana_cost": "{4}{R}{R}",
-			"type": "Creature — Elemental Dinosaur ",
+			"type": "Creature — Elemental Dinosaur",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/157_Terror of the Ridge.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/157_Terror of the Ridge.png"
 			}
 		},
 		{
 			"name": "Scuttling Terror",
 			"rarity": "common",
 			"mana_cost": "{4}{B}{B}",
-			"type": "Creature — Nightmare ",
+			"type": "Creature — Nightmare",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/113_Scuttling Terror.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/113_Scuttling Terror.png"
 			}
 		},
 		{
 			"name": "Gladeheart Deadeye",
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
-			"type": "Creature — Elf Scout ",
+			"type": "Creature — Elf Scout",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/182_Gladeheart Deadeye.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/182_Gladeheart Deadeye.png"
 			}
 		},
 		{
 			"name": "Sylvua's Titan",
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
-			"type": "Creature — Elemental ",
+			"type": "Creature — Elemental",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/199_Sylvua's Titan.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/199_Sylvua's Titan.png"
 			}
 		},
 		{
 			"name": "Occult Diviner",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Human Warlock ",
+			"type": "Creature — Human Warlock",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/189_Occult Diviner.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/189_Occult Diviner.png"
 			}
 		},
 		{
@@ -2316,97 +2317,97 @@
 			"type": "Sorcery",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/186_Nature's Animosity.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/186_Nature's Animosity.png"
 			}
 		},
 		{
 			"name": "Defiant Retaliation",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/175_Defiant Retaliation.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/175_Defiant Retaliation.png"
 			}
 		},
 		{
 			"name": "Pharai, Twin Fangs",
 			"rarity": "rare",
 			"mana_cost": "{R}{G}{W}",
-			"type": "Legendary Creature — Human Knight ",
+			"type": "Legendary Creature — Human Knight",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/244_Pharai, Twin Fangs.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/244_Pharai, Twin Fangs.png"
 			}
 		},
 		{
 			"name": "Izhan, Last Piece of the Puzzle",
 			"rarity": "rare",
 			"mana_cost": "{2}",
-			"type": "Legendary Artifact — Relic ",
+			"type": "Legendary Artifact — Relic",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/274_Izhan, Last Piece of the Puzzle.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/274_Izhan, Last Piece of the Puzzle.png"
 			}
 		},
 		{
 			"name": "High Magistrate Sonli",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}{B}",
-			"type": "Legendary Creature — Avatar Wizard ",
+			"type": "Legendary Creature — Avatar Wizard",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/231_High Magistrate Sonli.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/231_High Magistrate Sonli.png"
 			}
 		},
 		{
 			"name": "Vaunted Shinobi",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Samurai ",
+			"type": "Creature — Human Samurai",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/123_Vaunted Shinobi.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/123_Vaunted Shinobi.png"
 			}
 		},
 		{
 			"name": "Zydith's Adjudicator",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
-			"type": "Creature — Human Skeleton Warlock ",
+			"type": "Creature — Human Skeleton Warlock",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/264_Zydith's Adjudicator.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/264_Zydith's Adjudicator.png"
 			}
 		},
 		{
 			"name": "Sword of Dreams and Empire",
 			"rarity": "mythic",
 			"mana_cost": "{3}",
-			"type": "Artifact — Equipment ",
+			"type": "Artifact — Equipment",
 			"collector_number": "286",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/286_Sword of Dreams and Empire.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/286_Sword of Dreams and Empire.png"
 			}
 		},
 		{
 			"name": "Velheart Communer",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Warlock ",
+			"type": "Creature — Human Warlock",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/162_Velheart Communer.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/162_Velheart Communer.png"
 			}
 		},
 		{
 			"name": "Furtive Scrollkeeper",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
-			"type": "Creature — Human Wizard ",
+			"type": "Creature — Human Wizard",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/228_Furtive Scrollkeeper.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/228_Furtive Scrollkeeper.png"
 			}
 		},
 		{
@@ -2416,27 +2417,27 @@
 			"type": "Enchantment",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/260_Umbral Parturition.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/260_Umbral Parturition.png"
 			}
 		},
 		{
 			"name": "Terralight Stag",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Elk ",
+			"type": "Creature — Elk",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/201_Terralight Stag.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/201_Terralight Stag.png"
 			}
 		},
 		{
 			"name": "Crucible Druid",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Elf Druid ",
+			"type": "Creature — Elf Druid",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/174_Crucible Druid.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/174_Crucible Druid.png"
 			}
 		},
 		{
@@ -2446,7 +2447,7 @@
 			"type": "Legendary Land",
 			"collector_number": "303",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/303_Sol Cuesta, Ignited Crucible.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/303_Sol Cuesta, Ignited Crucible.png"
 			}
 		},
 		{
@@ -2456,7 +2457,7 @@
 			"type": "Token Land",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/9_Everywhere.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/9_Everywhere.png"
 			}
 		},
 		{
@@ -2466,47 +2467,47 @@
 			"type": "Instant",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/117_Steal the Source.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/117_Steal the Source.png"
 			}
 		},
 		{
 			"name": "Obsession's Devourer",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Nightmare ",
+			"type": "Creature — Nightmare",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/107_Obsession's Devourer.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/107_Obsession's Devourer.png"
 			}
 		},
 		{
 			"name": "Blastfire Smith",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
-			"type": "Creature — Human Artificer ",
+			"type": "Creature — Human Artificer",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/126_Blastfire Smith.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/126_Blastfire Smith.png"
 			}
 		},
 		{
 			"name": "Cursed Orb Oni",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Demon ",
+			"type": "Creature — Demon",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/133_Cursed Orb Oni.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/133_Cursed Orb Oni.png"
 			}
 		},
 		{
 			"name": "Bell-Clad Exponent",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
-			"type": "Creature — Spirit Shaman ",
+			"type": "Creature — Spirit Shaman",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/210_Bell-Clad Exponent.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/210_Bell-Clad Exponent.png"
 			}
 		},
 		{
@@ -2516,27 +2517,27 @@
 			"type": "Instant",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/34_Tandem Feat.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/34_Tandem Feat.png"
 			}
 		},
 		{
 			"name": "Angel",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact Creature — Angel ",
+			"type": "Token Artifact Creature — Angel",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/5_Angel.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/5_Angel.png"
 			}
 		},
 		{
 			"name": "Encounter with the Sentinel",
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
-			"type": "Enchantment — Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/226_Encounter with the Sentinel.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/226_Encounter with the Sentinel.png"
 			}
 		},
 		{
@@ -2546,7 +2547,7 @@
 			"type": "Instant",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/257_Trapped in the Umbra.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/257_Trapped in the Umbra.png"
 			}
 		},
 		{
@@ -2556,17 +2557,17 @@
 			"type": "Legendary Enchantment",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/246_The Radiance Zone.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/246_The Radiance Zone.png"
 			}
 		},
 		{
 			"name": "Shadow in the Psyche",
 			"rarity": "uncommon",
 			"mana_cost": "{8}{U}{U}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/74_Shadow in the Psyche.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/74_Shadow in the Psyche.png"
 			}
 		},
 		{
@@ -2576,7 +2577,7 @@
 			"type": "Enchantment",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/101_Lies Revealed.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/101_Lies Revealed.png"
 			}
 		},
 		{
@@ -2586,7 +2587,7 @@
 			"type": "Sorcery",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/87_Consuming Ruin.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/87_Consuming Ruin.png"
 			}
 		},
 		{
@@ -2596,47 +2597,47 @@
 			"type": "Sorcery",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/207_All Things to Oblivion.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/207_All Things to Oblivion.png"
 			}
 		},
 		{
 			"name": "Escaping A World's End",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Enchantment — Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/178_Escaping A World's End.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/178_Escaping A World's End.png"
 			}
 		},
 		{
 			"name": "Teluran Conscript",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Human Knight ",
+			"type": "Creature — Human Knight",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/35_Teluran Conscript.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/35_Teluran Conscript.png"
 			}
 		},
 		{
 			"name": "Sunblaze Empyrean",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Spirit Bird ",
+			"type": "Creature — Spirit Bird",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/33_Sunblaze Empyrean.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/33_Sunblaze Empyrean.png"
 			}
 		},
 		{
 			"name": "Peacebringer Titan",
 			"rarity": "common",
 			"mana_cost": "{5}{W}",
-			"type": "Artifact Creature — Construct ",
+			"type": "Artifact Creature — Construct",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/22_Peacebringer Titan.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/22_Peacebringer Titan.png"
 			}
 		},
 		{
@@ -2646,7 +2647,7 @@
 			"type": "Instant",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/120_Tear Through the Light.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/120_Tear Through the Light.png"
 			}
 		},
 		{
@@ -2656,17 +2657,17 @@
 			"type": "Sorcery",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/122_Umbral Devouring.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/122_Umbral Devouring.png"
 			}
 		},
 		{
 			"name": "Titan of Skolhan Pass",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
-			"type": "Creature — Giant Warrior ",
+			"type": "Creature — Giant Warrior",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/256_Titan of Skolhan Pass.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/256_Titan of Skolhan Pass.png"
 			}
 		},
 		{
@@ -2676,7 +2677,7 @@
 			"type": "Instant",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/90_Death Is Not The End.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/90_Death Is Not The End.png"
 			}
 		},
 		{
@@ -2686,37 +2687,37 @@
 			"type": "Sorcery",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/115_Singularity's Pull.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/115_Singularity's Pull.png"
 			}
 		},
 		{
 			"name": "Aerial Suppressor",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Artifact Creature — Construct ",
+			"type": "Artifact Creature — Construct",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/83_Aerial Suppressor.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/83_Aerial Suppressor.png"
 			}
 		},
 		{
 			"name": "Throatseeker Valkyrie",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Artifact Creature — Angel Warrior ",
+			"type": "Artifact Creature — Angel Warrior",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/121_Throatseeker Valkyrie.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/121_Throatseeker Valkyrie.png"
 			}
 		},
 		{
 			"name": "Ascendant Thaumaturge",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
-			"type": "Creature — Human Wizard ",
+			"type": "Creature — Human Wizard",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/46_Ascendant Thaumaturge.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/46_Ascendant Thaumaturge.png"
 			}
 		},
 		{
@@ -2726,17 +2727,17 @@
 			"type": "Sorcery",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/183_In Full Bloom.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/183_In Full Bloom.png"
 			}
 		},
 		{
 			"name": "Charged Gauntlets",
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
-			"type": "Artifact — Equipment ",
+			"type": "Artifact — Equipment",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/266_Charged Gauntlets.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/266_Charged Gauntlets.png"
 			}
 		},
 		{
@@ -2746,7 +2747,7 @@
 			"type": "Instant",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/160_Unearthed Might.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/160_Unearthed Might.png"
 			}
 		},
 		{
@@ -2756,57 +2757,57 @@
 			"type": "Sorcery",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/131_Charged Duplication.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/131_Charged Duplication.png"
 			}
 		},
 		{
 			"name": "Shaleville Sellsword",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Creature — Cat Rogue ",
+			"type": "Creature — Cat Rogue",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/152_Shaleville Sellsword.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/152_Shaleville Sellsword.png"
 			}
 		},
 		{
 			"name": "Integrated Kallaknight",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Human Knight ",
+			"type": "Creature — Human Knight",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/143_Integrated Kallaknight.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/143_Integrated Kallaknight.png"
 			}
 		},
 		{
 			"name": "Molten Schemer",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Artifact Creature — Warlock ",
+			"type": "Artifact Creature — Warlock",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/147_Molten Schemer.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/147_Molten Schemer.png"
 			}
 		},
 		{
 			"name": "Tarre, Hands That Feed",
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{B}",
-			"type": "Legendary Creature — Vampire Nightmare ",
+			"type": "Legendary Creature — Vampire Nightmare",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/119_Tarre, Hands That Feed.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/119_Tarre, Hands That Feed.png"
 			}
 		},
 		{
 			"name": "Chosen Valiant",
 			"rarity": "mythic",
 			"mana_cost": "{W}",
-			"type": "Creature — Cat Knight ",
+			"type": "Creature — Cat Knight",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/6_Chosen Valiant.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/6_Chosen Valiant.png"
 			}
 		},
 		{
@@ -2816,27 +2817,27 @@
 			"type": "Artifact",
 			"collector_number": "287",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/287_Unstable Crystal.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/287_Unstable Crystal.png"
 			}
 		},
 		{
 			"name": "Dawnlit Fenland",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Swamp Forest ",
+			"type": "Land — Swamp Forest",
 			"collector_number": "292",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/292_Dawnlit Fenland.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/292_Dawnlit Fenland.png"
 			}
 		},
 		{
 			"name": "Faraway Fiefdom",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Mountain Plains ",
+			"type": "Land — Mountain Plains",
 			"collector_number": "296",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/296_Faraway Fiefdom.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/296_Faraway Fiefdom.png"
 			}
 		},
 		{
@@ -2846,37 +2847,37 @@
 			"type": "Sorcery",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/262_Wraith's Hijacking.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/262_Wraith's Hijacking.png"
 			}
 		},
 		{
 			"name": "Demonic Majesty",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
-			"type": "Creature — Demon Noble ",
+			"type": "Creature — Demon Noble",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/219_Demonic Majesty.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/219_Demonic Majesty.png"
 			}
 		},
 		{
 			"name": "Sheltering the Light",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
-			"type": "Enchantment — Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/197_Sheltering the Light.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/197_Sheltering the Light.png"
 			}
 		},
 		{
 			"name": "The Locus of the Storm",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{U}",
-			"type": "Enchantment — Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/66_The Locus of the Storm.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/66_The Locus of the Storm.png"
 			}
 		},
 		{
@@ -2886,27 +2887,27 @@
 			"type": "Instant",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/111_Raze the Village.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/111_Raze the Village.png"
 			}
 		},
 		{
 			"name": "Bionic Rallier",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
-			"type": "Creature — Human Wizard ",
+			"type": "Creature — Human Wizard",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/4_Bionic Rallier.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/4_Bionic Rallier.png"
 			}
 		},
 		{
 			"name": "Acolyte of Sylvua",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Dryad Warlock ",
+			"type": "Creature — Dryad Warlock",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/165_Acolyte of Sylvua.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/165_Acolyte of Sylvua.png"
 			}
 		},
 		{
@@ -2916,57 +2917,57 @@
 			"type": "Sorcery",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/89_Crux of Augmentation.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/89_Crux of Augmentation.png"
 			}
 		},
 		{
 			"name": "Asher, Heron Champion",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
-			"type": "Legendary Creature — Archon ",
+			"type": "Legendary Creature — Archon",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/2_Asher, Heron Champion.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/2_Asher, Heron Champion.png"
 			}
 		},
 		{
 			"name": "Moonbright Wyrm",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{U}",
-			"type": "Creature — Faerie Dragon ",
+			"type": "Creature — Faerie Dragon",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/240_Moonbright Wyrm.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/240_Moonbright Wyrm.png"
 			}
 		},
 		{
 			"name": "Phantom Liege",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Spirit Knight ",
+			"type": "Creature — Spirit Knight",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/23_Phantom Liege.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/23_Phantom Liege.png"
 			}
 		},
 		{
 			"name": "Divine Guide",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}{W}",
-			"type": "Creature — Angel ",
+			"type": "Creature — Angel",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/11_Divine Guide.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/11_Divine Guide.png"
 			}
 		},
 		{
 			"name": "Battleworn Commander",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Warrior ",
+			"type": "Creature — Human Warrior",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/125_Battleworn Commander.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/125_Battleworn Commander.png"
 			}
 		},
 		{
@@ -2976,17 +2977,17 @@
 			"type": "Instant",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/150_Searing Barrage.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/150_Searing Barrage.png"
 			}
 		},
 		{
 			"name": "Bring Down the Mountain",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/129_Bring Down the Mountain.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/129_Bring Down the Mountain.png"
 			}
 		},
 		{
@@ -2996,7 +2997,7 @@
 			"type": "Sorcery",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/142_Inspired Creation.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/142_Inspired Creation.png"
 			}
 		},
 		{
@@ -3006,47 +3007,47 @@
 			"type": "Instant",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/168_Arboreal Arrow.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/168_Arboreal Arrow.png"
 			}
 		},
 		{
 			"name": "End Times Sentinel",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{G}",
-			"type": "Artifact Creature — Golem ",
+			"type": "Artifact Creature — Golem",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/177_End Times Sentinel.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/177_End Times Sentinel.png"
 			}
 		},
 		{
 			"name": "Oni-Power Devastator",
 			"rarity": "uncommon",
 			"mana_cost": "{6}",
-			"type": "Artifact — Vehicle ",
+			"type": "Artifact — Vehicle",
 			"collector_number": "277",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/277_Oni-Power Devastator.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/277_Oni-Power Devastator.png"
 			}
 		},
 		{
 			"name": "Solemn Simulacrum",
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
-			"type": "Artifact Creature — Construct ",
+			"type": "Artifact Creature — Construct",
 			"collector_number": "283",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/283_Solemn Simulacrum.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/283_Solemn Simulacrum.png"
 			}
 		},
 		{
 			"name": "Surveyor's Mechameleon",
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
-			"type": "Artifact Creature — Dragon ",
+			"type": "Artifact Creature — Dragon",
 			"collector_number": "285",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/285_Surveyor's Mechameleon.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/285_Surveyor's Mechameleon.png"
 			}
 		},
 		{
@@ -3056,107 +3057,107 @@
 			"type": "Artifact",
 			"collector_number": "271",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/271_Dormant Seed.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/271_Dormant Seed.png"
 			}
 		},
 		{
 			"name": "Shipyard Scrounger",
 			"rarity": "uncommon",
 			"mana_cost": "{5}",
-			"type": "Artifact Creature — Crab ",
+			"type": "Artifact Creature — Crab",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/282_Shipyard Scrounger.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/282_Shipyard Scrounger.png"
 			}
 		},
 		{
 			"name": "Mercenary Enchanter",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Creature — Lizard Rogue ",
+			"type": "Creature — Lizard Rogue",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/185_Mercenary Enchanter.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/185_Mercenary Enchanter.png"
 			}
 		},
 		{
 			"name": "Brutagan, Tarruk's Heir",
 			"rarity": "rare",
 			"mana_cost": "{5}{B}{R}{G}",
-			"type": "Legendary Creature — Leviathan ",
+			"type": "Legendary Creature — Leviathan",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/211_Brutagan, Tarruk's Heir.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/211_Brutagan, Tarruk's Heir.png"
 			}
 		},
 		{
 			"name": "Bound Edifice",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
-			"type": "Artifact Creature — Golem Knight ",
+			"type": "Artifact Creature — Golem Knight",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/171_Bound Edifice.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/171_Bound Edifice.png"
 			}
 		},
 		{
 			"name": "Reydia, Umbral Augur",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}{G}",
-			"type": "Legendary Creature — Human Warlock ",
+			"type": "Legendary Creature — Human Warlock",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/247_Reydia, Umbral Augur.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/247_Reydia, Umbral Augur.png"
 			}
 		},
 		{
 			"name": "Naveian Protector",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
-			"type": "Artifact — Vehicle ",
+			"type": "Artifact — Vehicle",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/242_Naveian Protector.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/242_Naveian Protector.png"
 			}
 		},
 		{
 			"name": "Kallaroot Lurkfiend",
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
-			"type": "Creature — Demon ",
+			"type": "Creature — Demon",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/234_Kallaroot Lurkfiend.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/234_Kallaroot Lurkfiend.png"
 			}
 		},
 		{
 			"name": "Fae Rootwielder",
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
-			"type": "Creature — Faerie Shaman ",
+			"type": "Creature — Faerie Shaman",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/227_Fae Rootwielder.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/227_Fae Rootwielder.png"
 			}
 		},
 		{
 			"name": "Viashino Brute",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
-			"type": "Creature — Lizard Warrior ",
+			"type": "Creature — Lizard Warrior",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/261_Viashino Brute.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/261_Viashino Brute.png"
 			}
 		},
 		{
 			"name": "Stormmane Drakkon",
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{U}",
-			"type": "Creature — Elemental Dragon ",
+			"type": "Creature — Elemental Dragon",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/79_Stormmane Drakkon.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/79_Stormmane Drakkon.png"
 			}
 		},
 		{
@@ -3166,7 +3167,7 @@
 			"type": "Sorcery",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/132_Command the Cosmos.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/132_Command the Cosmos.png"
 			}
 		},
 		{
@@ -3176,7 +3177,7 @@
 			"type": "Land",
 			"collector_number": "297",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/297_Faraway Worlds.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/297_Faraway Worlds.png"
 			}
 		},
 		{
@@ -3186,327 +3187,941 @@
 			"type": "Sorcery",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/26_Rebuild What Is Lost.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/26_Rebuild What Is Lost.png"
 			}
 		},
 		{
 			"name": "Embodiment of Life",
 			"rarity": "mythic",
 			"mana_cost": "{6}{G}{G}{G}",
-			"type": "Creature — Turtle Avatar ",
+			"type": "Creature — Turtle Avatar",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/CNF-files/img/176_Embodiment of Life.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/CNF-files/img/176_Embodiment of Life.png"
 			}
-		},
-		]
-	[RareSlot(115)]
+		}
+	]
+
+[rare(1)]
+	1 Prince Irakan, Heir to Dust
+	1 The Crown of Stars
 	2 Tsubasa, Blessed Blade
-		2 Dahlia, Blossom of Heresy
-		2 Kinn, the Clone
-		2 Move Heaven and Earth
-		2 Kallatree's Offshoot
-		2 Ayeshi, Eternal Archmage
-		2 Burn It All Down
-		2 Tzuhan, the Peacock
-		2 Vragut, Molten Monarch
-		2 Elai, Scion of the Stars
-		2 Lanion, Scion of the Umbra
-		2 Finnigan, Half-Fae Prince
-		2 Sylvua, Ancient Potentate
-		2 Confounding Kraken
-		2 Everything Changes
-		2 Seishin-Boon Titan
-		2 Tidebreaker Leviathan
-		2 Giyama, Servant of Telura
-		2 Loom of a New World
-		2 Tanavir, Simulacra Ascetic
-		2 Endless Perfect Legions
-		2 Kai, the Origamist
-		2 Ecliptic Ending
-		2 Ourobori, Seishin-Fused
-		2 Zaender, Shattered Mind
-		2 Elphaen, Servant of Telura
-		2 Amede, Kallatree Speaker
-		2 Obsession, Lingering Shade
-		2 Invoker's Voidlord
-		2 Teluran Void
-		2 Commander Norara
-		2 Heaven's Hammerbearer
-		2 Champion of Confluence
-		2 Threadweaver Icon
-		2 Kinetic Cadaver
-		2 Shiori, Frostfire Kitsune
-		2 Empyrean Wingserpent
-		2 Kaecil, the Starspeaker
-		2 Sojourner's Gateway
-		2 Slumbering Titanyard
-		2 Fruitless Paradise
-		2 Seat of the Last Empire
-		2 Bastion of Light
-		2 Dancing Rakshasa
-		2 Skodir, Uniter of Realms
-		2 Therisi, Her Soul Aflame
-		2 Risa, Ender of Empires
-		2 Missira, Heir to War
-		2 Alexei, Eye of the Storm
-		2 Archengine Ascendant
-		2 Rallying the Titans
-		2 Goldblossom Angel
-		2 Ghostlight Infiltrator
-		2 Hero of Sol Cuesta
-		2 Ironblood Jarl
-		2 Beacon of Horizons
-		2 Usurper Program
-		2 Set the Heavens Ablaze
-		2 Nataltha, the Dark Star
-		2 Augmented Bankbuster
-		2 Enigma Variant
-		2 Malevolent Eradicator
-		2 Sunpiercer Blade
-		2 Eira, Immortal Champion
-		2 Fused Eviscerator
-		2 Pharai, Twin Fangs
-		2 Izhan, Last Piece of the Puzzle
-		2 High Magistrate Sonli
-		2 Terralight Stag
-		2 Obsession's Devourer
-		2 Tandem Feat
-		2 Encounter with the Sentinel
-		2 Trapped in the Umbra
-		2 All Things to Oblivion
-		2 Escaping A World's End
-		2 Wraith's Hijacking
-		2 Acolyte of Sylvua
-		2 Crux of Augmentation
-		2 Asher, Heron Champion
-		2 Battleworn Commander
-		2 Brutagan, Tarruk's Heir
-		2 Reydia, Umbral Augur
-		1 Prince Irakan, Heir to Dust
-		1 The Crown of Stars
-		1 Deliverance, Jewel of Telura
-		1 Elai and Lanion
-		1 Aurora Draconis
-		1 Prince Irakan's Wish
-		1 Warped Matterdancer
-		1 Brilliant Incursion
-		1 New Genesis
-		1 Oblivion Cradle
-		1 Dictate of the Heavens
-		1 Emperor's Attendant
-		1 Duskwing Inferno
-		1 Port Goliath
-		1 Singularity Courser
-		1 Blazing Knight-Errant
-		1 Sword of Dreams and Empire
-		1 Umbral Parturition
-		1 Sol Cuesta, Ignited Crucible
-		1 The Radiance Zone
-		1 Consuming Ruin
-		1 Tarre, Hands That Feed
-		1 Chosen Valiant
-		1 Stormmane Drakkon
-		1 Command the Cosmos
-		1 Rebuild What Is Lost
-		1 Embodiment of Life
-		[UncommonSlot(81)]
-	9 Angel of Purpose
-		9 Slaughter's Shadow
-		9 Heart of the Deliverance
-		9 Planar Lockdown
-		9 Teluran Vanguard
-		9 Inscrutable Dancer
-		9 Council Speaker
-		9 Lure to Doom
-		9 Infectious Intelligence
-		9 Reality Rifts
-		9 Kimja Reckoner
-		9 Blighteater Lynxstag
-		9 Magister of Control
-		9 Engineered Worldsweeper
-		9 Heavencraft Gavel
-		9 Kiln of the Astral Flame
-		9 Tideweave Avatar
-		9 Enter the Avatar
-		9 Teluran Imperiarch
-		9 Terralight Smithy
-		9 Shrine to the Great Tree
-		9 Shrine to the Royal Family
-		9 Shrine to the Machine
-		9 Wise Runecaster
-		9 Patchwork Summons
-		9 Ionization Protocol
-		9 Dissolve into History
-		9 Inspired Resurrection
-		9 Calamitous Premonition
-		9 Lioncrest Hero
-		9 Chromatic Goggles
-		9 Gildleaf Unifier
-		9 Brackbloom Titan
-		9 Ravencorps Reavers
-		9 Portal Ring
-		9 Repeated Refusal
-		9 Gleaming Praetor
-		9 Become One with Telura
-		9 Oni-Power Production
-		9 Crested Raven
-		9 Guardian of the Cosmos
-		9 Drag Life into the Umbra
-		9 Darkhelm Karaki
-		9 Kallawarden Ancient
-		9 Shrine to the Spirit Realm
-		9 Shrine to the Divine
-		9 Firestorm Evangelist
-		9 Sol Cuesta Cavalry
-		9 Lady of the Inlet
-		9 Clearcut
-		9 Familiar Summoner
-		9 Playing with Portals
-		9 Seeds of a Dream
-		9 Absorption Matrix
-		9 Simian Swordmaster
-		9 Shake the Earth
-		9 Stormwake Dragon
-		9 Breaching the Stream
-		9 Constellar Deer
-		9 Union of Root and Steel
-		9 Wyrmflame Knight
-		9 Recovering the Pieces
-		9 Machinist of Souls
-		9 Earthreaver Drakkon
-		9 Searchlight Scout
-		9 Converted Ritualist
-		9 Vaunted Shinobi
-		9 Zydith's Adjudicator
-		9 Velheart Communer
-		9 Furtive Scrollkeeper
-		9 Crucible Druid
-		9 Blastfire Smith
-		9 Cursed Orb Oni
-		9 Bell-Clad Exponent
-		9 Shadow in the Psyche
-		9 Lies Revealed
-		9 Titan of Skolhan Pass
-		9 Ascendant Thaumaturge
-		9 In Full Bloom
-		9 Charged Gauntlets
-		9 Demonic Majesty
-		9 Sheltering the Light
-		9 The Locus of the Storm
-		9 Raze the Village
-		9 Bionic Rallier
-		9 Moonbright Wyrm
-		9 Phantom Liege
-		9 Divine Guide
-		9 Searing Barrage
-		9 Bring Down the Mountain
-		9 Inspired Creation
-		9 Arboreal Arrow
-		9 End Times Sentinel
-		9 Oni-Power Devastator
-		9 Solemn Simulacrum
-		9 Surveyor's Mechameleon
-		9 Dormant Seed
-		9 Shipyard Scrounger
-		9 Mercenary Enchanter
-		9 Bound Edifice
-		9 Naveian Protector
-		9 Kallaroot Lurkfiend
-		9 Fae Rootwielder
-		9 Viashino Brute
-		9 Faraway Worlds
-		[CommonSlot(99)]
-	30 Eradication Beam
-		30 Prince's Bargain
-		30 Time's Triumph
-		30 Awakened Brush
-		30 Deepwyn Worldbender
-		30 Anjarjan Phantom
-		30 Britlitte Librarian
-		30 Essence Serum
-		30 Adapted Lifespinner
-		30 Kallaheart Reckoner
-		30 Kindred Sentinel
-		30 Amplified Staticaster
-		30 Intrepid Tinkerer
-		30 Stormcrown Archlich
-		30 Empire's Vestiges
-		30 Rampaging Kavu
-		30 Ritual Grounds
-		30 Cloudtouched Hills
-		30 Spouting Lagoon
-		30 Ashchoke Bog
-		30 Prophetic Prism
-		30 Council Assistant
-		30 Terralight Prison
-		30 Deployment Zone
-		30 Soulcharged Colossus
-		30 Shaleville Rider
-		30 Starbearer Paladin
-		30 Portent Reader
-		30 Deployer Hulk
-		30 Skolhan Thundermage
-		30 Magmatic Manifestation
-		30 Territorial Drakkon
-		30 Council's Spear
-		30 New Realms
-		30 One with the Current
-		30 Sneap
-		30 Multiform Rapier
-		30 Adaptive Raider
-		30 Knight of Irakan
-		30 Sunblessed Range
-		30 Ethereal Wasteland
-		30 Dragoneye Shores
-		30 Overcharge
-		30 Peat Basin
-		30 Unleashed Steed
-		30 Dragon's Ire
-		30 Foreboding Memory
-		30 Automated Suppressor
-		30 Kjaldiran Stormbearer
-		30 Refugee Guardian
-		30 Core Shock
-		30 Down the Middle
-		30 Evolutionary Synergy
-		30 Terralight Spearman
-		30 Stand Strong
-		30 Radiant Shaman
-		30 Mark for Conquest
-		30 Skolhan Brawler
-		30 Negate
-		30 Accept the Gift
-		30 Bind the Lightning
-		30 Britlitte Guardian
-		30 Turn the Wheel
-		30 Opportunistic Monarch
-		30 Idyllian Battlemech
-		30 Demin's Valiant
-		30 Wyldwood Ursine
-		30 Terror of the Ridge
-		30 Scuttling Terror
-		30 Gladeheart Deadeye
-		30 Sylvua's Titan
-		30 Occult Diviner
-		30 Nature's Animosity
-		30 Defiant Retaliation
-		30 Steal the Source
-		30 Teluran Conscript
-		30 Sunblaze Empyrean
-		30 Peacebringer Titan
-		30 Tear Through the Light
-		30 Umbral Devouring
-		30 Death Is Not The End
-		30 Singularity's Pull
-		30 Aerial Suppressor
-		30 Throatseeker Valkyrie
-		30 Unearthed Might
-		30 Charged Duplication
-		30 Shaleville Sellsword
-		30 Integrated Kallaknight
-		30 Molten Schemer
-		30 Unstable Crystal
-		30 Dawnlit Fenland
-		30 Faraway Fiefdom
-		
+	2 Dahlia, Blossom of Heresy
+	2 Kinn, the Clone
+	2 Move Heaven and Earth
+	2 Kallatree's Offshoot
+	2 Ayeshi, Eternal Archmage
+	1 Deliverance, Jewel of Telura
+	2 Burn It All Down
+	1 Elai and Lanion
+	2 Tzuhan, the Peacock
+	2 Vragut, Molten Monarch
+	2 Elai, Scion of the Stars
+	2 Lanion, Scion of the Umbra
+	2 Finnigan, Half-Fae Prince
+	2 Sylvua, Ancient Potentate
+	2 Confounding Kraken
+	1 Aurora Draconis
+	2 Everything Changes
+	2 Seishin-Boon Titan
+	2 Tidebreaker Leviathan
+	2 Giyama, Servant of Telura
+	2 Loom of a New World
+	2 Tanavir, Simulacra Ascetic
+	2 Endless Perfect Legions
+	2 Kai, the Origamist
+	2 Ecliptic Ending
+	2 Ourobori, Seishin-Fused
+	2 Zaender, Shattered Mind
+	2 Elphaen, Servant of Telura
+	2 Amede, Kallatree Speaker
+	1 Prince Irakan's Wish
+	2 Obsession, Lingering Shade
+	1 Warped Matterdancer
+	2 Invoker's Voidlord
+	2 Teluran Void
+	1 Brilliant Incursion
+	1 New Genesis
+	2 Commander Norara
+	2 Heaven's Hammerbearer
+	2 Champion of Confluence
+	2 Threadweaver Icon
+	1 Oblivion Cradle
+	2 Kinetic Cadaver
+	2 Shiori, Frostfire Kitsune
+	1 Dictate of the Heavens
+	2 Empyrean Wingserpent
+	2 Kaecil, the Starspeaker
+	2 Sojourner's Gateway
+	2 Slumbering Titanyard
+	2 Fruitless Paradise
+	2 Seat of the Last Empire
+	2 Bastion of Light
+	2 Dancing Rakshasa
+	1 Emperor's Attendant
+	1 Duskwing Inferno
+	2 Skodir, Uniter of Realms
+	2 Therisi, Her Soul Aflame
+	2 Risa, Ender of Empires
+	2 Missira, Heir to War
+	2 Alexei, Eye of the Storm
+	2 Archengine Ascendant
+	2 Rallying the Titans
+	2 Goldblossom Angel
+	2 Ghostlight Infiltrator
+	2 Hero of Sol Cuesta
+	2 Ironblood Jarl
+	1 Port Goliath
+	2 Beacon of Horizons
+	2 Usurper Program
+	2 Set the Heavens Ablaze
+	1 Singularity Courser
+	1 Blazing Knight-Errant
+	2 Nataltha, the Dark Star
+	2 Augmented Bankbuster
+	2 Enigma Variant
+	2 Malevolent Eradicator
+	2 Sunpiercer Blade
+	2 Eira, Immortal Champion
+	2 Fused Eviscerator
+	2 Pharai, Twin Fangs
+	2 Izhan, Last Piece of the Puzzle
+	2 High Magistrate Sonli
+	1 Sword of Dreams and Empire
+	1 Umbral Parturition
+	2 Terralight Stag
+	1 Sol Cuesta, Ignited Crucible
+	2 Obsession's Devourer
+	2 Tandem Feat
+	2 Encounter with the Sentinel
+	2 Trapped in the Umbra
+	1 The Radiance Zone
+	1 Consuming Ruin
+	2 All Things to Oblivion
+	2 Escaping A World's End
+	1 Tarre, Hands That Feed
+	1 Chosen Valiant
+	2 Wraith's Hijacking
+	2 Acolyte of Sylvua
+	2 Crux of Augmentation
+	2 Asher, Heron Champion
+	2 Battleworn Commander
+	2 Brutagan, Tarruk's Heir
+	2 Reydia, Umbral Augur
+	1 Stormmane Drakkon
+	1 Command the Cosmos
+	1 Rebuild What Is Lost
+	1 Embodiment of Life
+[uncommon(3)]
+	4 Angel of Purpose
+	4 Slaughter's Shadow
+	4 Heart of the Deliverance
+	4 Planar Lockdown
+	4 Teluran Vanguard
+	4 Inscrutable Dancer
+	4 Council Speaker
+	4 Lure to Doom
+	4 Infectious Intelligence
+	4 Reality Rifts
+	4 Kimja Reckoner
+	4 Blighteater Lynxstag
+	4 Magister of Control
+	4 Engineered Worldsweeper
+	4 Heavencraft Gavel
+	4 Kiln of the Astral Flame
+	4 Tideweave Avatar
+	4 Enter the Avatar
+	4 Teluran Imperiarch
+	4 Terralight Smithy
+	4 Shrine to the Great Tree
+	4 Shrine to the Royal Family
+	4 Shrine to the Machine
+	4 Wise Runecaster
+	4 Patchwork Summons
+	4 Ionization Protocol
+	4 Dissolve into History
+	4 Inspired Resurrection
+	4 Calamitous Premonition
+	4 Lioncrest Hero
+	4 Chromatic Goggles
+	4 Gildleaf Unifier
+	4 Brackbloom Titan
+	4 Ravencorps Reavers
+	4 Portal Ring
+	4 Repeated Refusal
+	4 Gleaming Praetor
+	4 Become One with Telura
+	4 Oni-Power Production
+	4 Crested Raven
+	4 Guardian of the Cosmos
+	4 Drag Life into the Umbra
+	4 Darkhelm Karaki
+	4 Kallawarden Ancient
+	4 Shrine to the Spirit Realm
+	4 Shrine to the Divine
+	4 Firestorm Evangelist
+	4 Sol Cuesta Cavalry
+	4 Lady of the Inlet
+	4 Clearcut
+	4 Familiar Summoner
+	4 Playing with Portals
+	4 Seeds of a Dream
+	4 Absorption Matrix
+	4 Simian Swordmaster
+	4 Shake the Earth
+	4 Stormwake Dragon
+	4 Breaching the Stream
+	4 Constellar Deer
+	4 Union of Root and Steel
+	4 Wyrmflame Knight
+	4 Recovering the Pieces
+	4 Machinist of Souls
+	4 Earthreaver Drakkon
+	4 Searchlight Scout
+	4 Converted Ritualist
+	4 Vaunted Shinobi
+	4 Zydith's Adjudicator
+	4 Velheart Communer
+	4 Furtive Scrollkeeper
+	4 Crucible Druid
+	4 Blastfire Smith
+	4 Cursed Orb Oni
+	4 Bell-Clad Exponent
+	4 Shadow in the Psyche
+	4 Lies Revealed
+	4 Titan of Skolhan Pass
+	4 Ascendant Thaumaturge
+	4 In Full Bloom
+	4 Charged Gauntlets
+	4 Demonic Majesty
+	4 Sheltering the Light
+	4 The Locus of the Storm
+	4 Raze the Village
+	4 Bionic Rallier
+	4 Moonbright Wyrm
+	4 Phantom Liege
+	4 Divine Guide
+	4 Searing Barrage
+	4 Bring Down the Mountain
+	4 Inspired Creation
+	4 Arboreal Arrow
+	4 End Times Sentinel
+	4 Oni-Power Devastator
+	4 Solemn Simulacrum
+	4 Surveyor's Mechameleon
+	4 Dormant Seed
+	4 Shipyard Scrounger
+	4 Mercenary Enchanter
+	4 Bound Edifice
+	4 Naveian Protector
+	4 Kallaroot Lurkfiend
+	4 Fae Rootwielder
+	4 Viashino Brute
+	4 Faraway Worlds
+[common(7)]
+	8 Eradication Beam
+	8 Prince's Bargain
+	8 Time's Triumph
+	8 Awakened Brush
+	8 Deepwyn Worldbender
+	8 Anjarjan Phantom
+	8 Britlitte Librarian
+	8 Essence Serum
+	8 Adapted Lifespinner
+	8 Kallaheart Reckoner
+	8 Kindred Sentinel
+	8 Amplified Staticaster
+	8 Intrepid Tinkerer
+	8 Stormcrown Archlich
+	8 Empire's Vestiges
+	8 Rampaging Kavu
+	8 Ritual Grounds
+	8 Cloudtouched Hills
+	8 Spouting Lagoon
+	8 Ashchoke Bog
+	8 Prophetic Prism
+	8 Council Assistant
+	8 Terralight Prison
+	8 Deployment Zone
+	8 Soulcharged Colossus
+	8 Shaleville Rider
+	8 Starbearer Paladin
+	8 Portent Reader
+	8 Deployer Hulk
+	8 Skolhan Thundermage
+	8 Magmatic Manifestation
+	8 Territorial Drakkon
+	8 Council's Spear
+	8 New Realms
+	8 One with the Current
+	8 Sneap
+	8 Multiform Rapier
+	8 Adaptive Raider
+	8 Knight of Irakan
+	8 Sunblessed Range
+	8 Ethereal Wasteland
+	8 Dragoneye Shores
+	8 Overcharge
+	8 Peat Basin
+	8 Unleashed Steed
+	8 Dragon's Ire
+	8 Foreboding Memory
+	8 Automated Suppressor
+	8 Kjaldiran Stormbearer
+	8 Refugee Guardian
+	8 Core Shock
+	8 Down the Middle
+	8 Evolutionary Synergy
+	8 Terralight Spearman
+	8 Stand Strong
+	8 Radiant Shaman
+	8 Mark for Conquest
+	8 Skolhan Brawler
+	8 Negate
+	8 Accept the Gift
+	8 Bind the Lightning
+	8 Britlitte Guardian
+	8 Turn the Wheel
+	8 Opportunistic Monarch
+	8 Idyllian Battlemech
+	8 Demin's Valiant
+	8 Wyldwood Ursine
+	8 Terror of the Ridge
+	8 Scuttling Terror
+	8 Gladeheart Deadeye
+	8 Sylvua's Titan
+	8 Occult Diviner
+	8 Nature's Animosity
+	8 Defiant Retaliation
+	8 Steal the Source
+	8 Teluran Conscript
+	8 Sunblaze Empyrean
+	8 Peacebringer Titan
+	8 Tear Through the Light
+	8 Umbral Devouring
+	8 Death Is Not The End
+	8 Singularity's Pull
+	8 Aerial Suppressor
+	8 Throatseeker Valkyrie
+	8 Unearthed Might
+	8 Charged Duplication
+	8 Shaleville Sellsword
+	8 Integrated Kallaknight
+	8 Molten Schemer
+	8 Unstable Crystal
+	8 Dawnlit Fenland
+	8 Faraway Fiefdom
+[foil(1)]
+	1 Prince Irakan, Heir to Dust
+	1 The Crown of Stars
+	2 Tsubasa, Blessed Blade
+	2 Dahlia, Blossom of Heresy
+	2 Kinn, the Clone
+	6 Angel of Purpose
+	2 Move Heaven and Earth
+	2 Kallatree's Offshoot
+	6 Slaughter's Shadow
+	2 Ayeshi, Eternal Archmage
+	6 Heart of the Deliverance
+	1 Deliverance, Jewel of Telura
+	6 Planar Lockdown
+	6 Teluran Vanguard
+	6 Inscrutable Dancer
+	2 Burn It All Down
+	1 Elai and Lanion
+	2 Tzuhan, the Peacock
+	2 Vragut, Molten Monarch
+	2 Elai, Scion of the Stars
+	2 Lanion, Scion of the Umbra
+	2 Finnigan, Half-Fae Prince
+	12 Eradication Beam
+	6 Council Speaker
+	2 Sylvua, Ancient Potentate
+	2 Confounding Kraken
+	1 Aurora Draconis
+	2 Everything Changes
+	2 Seishin-Boon Titan
+	6 Lure to Doom
+	2 Tidebreaker Leviathan
+	2 Giyama, Servant of Telura
+	12 Prince's Bargain
+	2 Loom of a New World
+	2 Tanavir, Simulacra Ascetic
+	6 Infectious Intelligence
+	2 Endless Perfect Legions
+	6 Reality Rifts
+	2 Kai, the Origamist
+	2 Ecliptic Ending
+	12 Time's Triumph
+	6 Kimja Reckoner
+	2 Ourobori, Seishin-Fused
+	2 Zaender, Shattered Mind
+	2 Elphaen, Servant of Telura
+	2 Amede, Kallatree Speaker
+	12 Awakened Brush
+	6 Blighteater Lynxstag
+	1 Prince Irakan's Wish
+	6 Magister of Control
+	12 Deepwyn Worldbender
+	6 Engineered Worldsweeper
+	6 Heavencraft Gavel
+	6 Kiln of the Astral Flame
+	2 Obsession, Lingering Shade
+	1 Warped Matterdancer
+	6 Tideweave Avatar
+	6 Enter the Avatar
+	12 Anjarjan Phantom
+	2 Invoker's Voidlord
+	12 Britlitte Librarian
+	12 Essence Serum
+	12 Adapted Lifespinner
+	6 Teluran Imperiarch
+	12 Kallaheart Reckoner
+	2 Teluran Void
+	1 Brilliant Incursion
+	6 Terralight Smithy
+	6 Shrine to the Great Tree
+	6 Shrine to the Royal Family
+	6 Shrine to the Machine
+	6 Wise Runecaster
+	12 Kindred Sentinel
+	1 New Genesis
+	12 Amplified Staticaster
+	12 Intrepid Tinkerer
+	2 Commander Norara
+	6 Patchwork Summons
+	2 Heaven's Hammerbearer
+	12 Stormcrown Archlich
+	6 Ionization Protocol
+	6 Dissolve into History
+	12 Empire's Vestiges
+	6 Inspired Resurrection
+	2 Champion of Confluence
+	2 Threadweaver Icon
+	1 Oblivion Cradle
+	2 Kinetic Cadaver
+	6 Calamitous Premonition
+	2 Shiori, Frostfire Kitsune
+	6 Lioncrest Hero
+	12 Rampaging Kavu
+	1 Dictate of the Heavens
+	2 Empyrean Wingserpent
+	2 Kaecil, the Starspeaker
+	6 Chromatic Goggles
+	6 Gildleaf Unifier
+	12 Ritual Grounds
+	12 Cloudtouched Hills
+	12 Spouting Lagoon
+	12 Ashchoke Bog
+	2 Sojourner's Gateway
+	6 Brackbloom Titan
+	6 Ravencorps Reavers
+	6 Portal Ring
+	12 Prophetic Prism
+	12 Council Assistant
+	2 Slumbering Titanyard
+	2 Fruitless Paradise
+	12 Terralight Prison
+	2 Seat of the Last Empire
+	6 Repeated Refusal
+	6 Gleaming Praetor
+	6 Become One with Telura
+	6 Oni-Power Production
+	2 Bastion of Light
+	2 Dancing Rakshasa
+	12 Deployment Zone
+	1 Emperor's Attendant
+	12 Soulcharged Colossus
+	12 Shaleville Rider
+	12 Starbearer Paladin
+	12 Portent Reader
+	12 Deployer Hulk
+	12 Skolhan Thundermage
+	1 Duskwing Inferno
+	12 Magmatic Manifestation
+	12 Territorial Drakkon
+	6 Crested Raven
+	2 Skodir, Uniter of Realms
+	12 Council's Spear
+	12 New Realms
+	2 Therisi, Her Soul Aflame
+	6 Guardian of the Cosmos
+	2 Risa, Ender of Empires
+	6 Drag Life into the Umbra
+	6 Darkhelm Karaki
+	2 Missira, Heir to War
+	2 Alexei, Eye of the Storm
+	2 Archengine Ascendant
+	2 Rallying the Titans
+	2 Goldblossom Angel
+	2 Ghostlight Infiltrator
+	12 One with the Current
+	6 Kallawarden Ancient
+	2 Hero of Sol Cuesta
+	6 Shrine to the Spirit Realm
+	6 Shrine to the Divine
+	2 Ironblood Jarl
+	6 Firestorm Evangelist
+	6 Sol Cuesta Cavalry
+	6 Lady of the Inlet
+	12 Sneap
+	12 Multiform Rapier
+	12 Adaptive Raider
+	6 Clearcut
+	12 Knight of Irakan
+	1 Port Goliath
+	2 Beacon of Horizons
+	2 Usurper Program
+	2 Set the Heavens Ablaze
+	12 Sunblessed Range
+	12 Ethereal Wasteland
+	12 Dragoneye Shores
+	12 Overcharge
+	12 Peat Basin
+	6 Familiar Summoner
+	12 Unleashed Steed
+	6 Playing with Portals
+	12 Dragon's Ire
+	12 Foreboding Memory
+	6 Seeds of a Dream
+	12 Automated Suppressor
+	12 Kjaldiran Stormbearer
+	12 Refugee Guardian
+	12 Core Shock
+	12 Down the Middle
+	6 Absorption Matrix
+	1 Singularity Courser
+	12 Evolutionary Synergy
+	6 Simian Swordmaster
+	12 Terralight Spearman
+	1 Blazing Knight-Errant
+	12 Stand Strong
+	6 Shake the Earth
+	6 Stormwake Dragon
+	2 Nataltha, the Dark Star
+	2 Augmented Bankbuster
+	6 Breaching the Stream
+	2 Enigma Variant
+	12 Radiant Shaman
+	2 Malevolent Eradicator
+	12 Mark for Conquest
+	6 Constellar Deer
+	6 Union of Root and Steel
+	12 Skolhan Brawler
+	6 Wyrmflame Knight
+	12 Negate
+	12 Accept the Gift
+	12 Bind the Lightning
+	6 Recovering the Pieces
+	12 Britlitte Guardian
+	6 Machinist of Souls
+	12 Turn the Wheel
+	12 Opportunistic Monarch
+	6 Earthreaver Drakkon
+	6 Searchlight Scout
+	2 Sunpiercer Blade
+	2 Eira, Immortal Champion
+	6 Converted Ritualist
+	12 Idyllian Battlemech
+	2 Fused Eviscerator
+	12 Demin's Valiant
+	12 Wyldwood Ursine
+	12 Terror of the Ridge
+	12 Scuttling Terror
+	12 Gladeheart Deadeye
+	12 Sylvua's Titan
+	12 Occult Diviner
+	12 Nature's Animosity
+	12 Defiant Retaliation
+	2 Pharai, Twin Fangs
+	2 Izhan, Last Piece of the Puzzle
+	2 High Magistrate Sonli
+	6 Vaunted Shinobi
+	6 Zydith's Adjudicator
+	1 Sword of Dreams and Empire
+	6 Velheart Communer
+	6 Furtive Scrollkeeper
+	1 Umbral Parturition
+	2 Terralight Stag
+	6 Crucible Druid
+	1 Sol Cuesta, Ignited Crucible
+	12 Steal the Source
+	2 Obsession's Devourer
+	6 Blastfire Smith
+	6 Cursed Orb Oni
+	6 Bell-Clad Exponent
+	2 Tandem Feat
+	2 Encounter with the Sentinel
+	2 Trapped in the Umbra
+	1 The Radiance Zone
+	6 Shadow in the Psyche
+	6 Lies Revealed
+	1 Consuming Ruin
+	2 All Things to Oblivion
+	2 Escaping A World's End
+	12 Teluran Conscript
+	12 Sunblaze Empyrean
+	12 Peacebringer Titan
+	12 Tear Through the Light
+	12 Umbral Devouring
+	6 Titan of Skolhan Pass
+	12 Death Is Not The End
+	12 Singularity's Pull
+	12 Aerial Suppressor
+	12 Throatseeker Valkyrie
+	6 Ascendant Thaumaturge
+	6 In Full Bloom
+	6 Charged Gauntlets
+	12 Unearthed Might
+	12 Charged Duplication
+	12 Shaleville Sellsword
+	12 Integrated Kallaknight
+	12 Molten Schemer
+	1 Tarre, Hands That Feed
+	1 Chosen Valiant
+	12 Unstable Crystal
+	12 Dawnlit Fenland
+	12 Faraway Fiefdom
+	2 Wraith's Hijacking
+	6 Demonic Majesty
+	6 Sheltering the Light
+	6 The Locus of the Storm
+	6 Raze the Village
+	6 Bionic Rallier
+	2 Acolyte of Sylvua
+	2 Crux of Augmentation
+	2 Asher, Heron Champion
+	6 Moonbright Wyrm
+	6 Phantom Liege
+	6 Divine Guide
+	2 Battleworn Commander
+	6 Searing Barrage
+	6 Bring Down the Mountain
+	6 Inspired Creation
+	6 Arboreal Arrow
+	6 End Times Sentinel
+	6 Oni-Power Devastator
+	6 Solemn Simulacrum
+	6 Surveyor's Mechameleon
+	6 Dormant Seed
+	6 Shipyard Scrounger
+	6 Mercenary Enchanter
+	2 Brutagan, Tarruk's Heir
+	6 Bound Edifice
+	2 Reydia, Umbral Augur
+	6 Naveian Protector
+	6 Kallaroot Lurkfiend
+	6 Fae Rootwielder
+	6 Viashino Brute
+	1 Stormmane Drakkon
+	1 Command the Cosmos
+	6 Faraway Worlds
+	1 Rebuild What Is Lost
+	1 Embodiment of Life
+[wildcard(1)]
+	4 Prince Irakan, Heir to Dust
+	4 The Crown of Stars
+	7 Tsubasa, Blessed Blade
+	7 Dahlia, Blossom of Heresy
+	7 Kinn, the Clone
+	15 Angel of Purpose
+	7 Move Heaven and Earth
+	7 Kallatree's Offshoot
+	15 Slaughter's Shadow
+	7 Ayeshi, Eternal Archmage
+	15 Heart of the Deliverance
+	4 Deliverance, Jewel of Telura
+	15 Planar Lockdown
+	15 Teluran Vanguard
+	15 Inscrutable Dancer
+	7 Burn It All Down
+	4 Elai and Lanion
+	7 Tzuhan, the Peacock
+	7 Vragut, Molten Monarch
+	7 Elai, Scion of the Stars
+	7 Lanion, Scion of the Umbra
+	7 Finnigan, Half-Fae Prince
+	6 Eradication Beam
+	15 Council Speaker
+	7 Sylvua, Ancient Potentate
+	7 Confounding Kraken
+	4 Aurora Draconis
+	7 Everything Changes
+	7 Seishin-Boon Titan
+	15 Lure to Doom
+	7 Tidebreaker Leviathan
+	7 Giyama, Servant of Telura
+	6 Prince's Bargain
+	7 Loom of a New World
+	7 Tanavir, Simulacra Ascetic
+	15 Infectious Intelligence
+	7 Endless Perfect Legions
+	15 Reality Rifts
+	7 Kai, the Origamist
+	7 Ecliptic Ending
+	6 Time's Triumph
+	15 Kimja Reckoner
+	7 Ourobori, Seishin-Fused
+	7 Zaender, Shattered Mind
+	7 Elphaen, Servant of Telura
+	7 Amede, Kallatree Speaker
+	6 Awakened Brush
+	15 Blighteater Lynxstag
+	4 Prince Irakan's Wish
+	15 Magister of Control
+	6 Deepwyn Worldbender
+	15 Engineered Worldsweeper
+	15 Heavencraft Gavel
+	15 Kiln of the Astral Flame
+	7 Obsession, Lingering Shade
+	4 Warped Matterdancer
+	15 Tideweave Avatar
+	15 Enter the Avatar
+	6 Anjarjan Phantom
+	7 Invoker's Voidlord
+	6 Britlitte Librarian
+	6 Essence Serum
+	6 Adapted Lifespinner
+	15 Teluran Imperiarch
+	6 Kallaheart Reckoner
+	7 Teluran Void
+	4 Brilliant Incursion
+	15 Terralight Smithy
+	15 Shrine to the Great Tree
+	15 Shrine to the Royal Family
+	15 Shrine to the Machine
+	15 Wise Runecaster
+	6 Kindred Sentinel
+	4 New Genesis
+	6 Amplified Staticaster
+	6 Intrepid Tinkerer
+	7 Commander Norara
+	15 Patchwork Summons
+	7 Heaven's Hammerbearer
+	6 Stormcrown Archlich
+	15 Ionization Protocol
+	15 Dissolve into History
+	6 Empire's Vestiges
+	15 Inspired Resurrection
+	7 Champion of Confluence
+	7 Threadweaver Icon
+	4 Oblivion Cradle
+	7 Kinetic Cadaver
+	15 Calamitous Premonition
+	7 Shiori, Frostfire Kitsune
+	15 Lioncrest Hero
+	6 Rampaging Kavu
+	4 Dictate of the Heavens
+	7 Empyrean Wingserpent
+	7 Kaecil, the Starspeaker
+	15 Chromatic Goggles
+	15 Gildleaf Unifier
+	6 Ritual Grounds
+	6 Cloudtouched Hills
+	6 Spouting Lagoon
+	6 Ashchoke Bog
+	7 Sojourner's Gateway
+	15 Brackbloom Titan
+	15 Ravencorps Reavers
+	15 Portal Ring
+	6 Prophetic Prism
+	6 Council Assistant
+	7 Slumbering Titanyard
+	7 Fruitless Paradise
+	6 Terralight Prison
+	7 Seat of the Last Empire
+	15 Repeated Refusal
+	15 Gleaming Praetor
+	15 Become One with Telura
+	15 Oni-Power Production
+	7 Bastion of Light
+	7 Dancing Rakshasa
+	6 Deployment Zone
+	4 Emperor's Attendant
+	6 Soulcharged Colossus
+	6 Shaleville Rider
+	6 Starbearer Paladin
+	6 Portent Reader
+	6 Deployer Hulk
+	6 Skolhan Thundermage
+	4 Duskwing Inferno
+	6 Magmatic Manifestation
+	6 Territorial Drakkon
+	15 Crested Raven
+	7 Skodir, Uniter of Realms
+	6 Council's Spear
+	6 New Realms
+	7 Therisi, Her Soul Aflame
+	15 Guardian of the Cosmos
+	7 Risa, Ender of Empires
+	15 Drag Life into the Umbra
+	15 Darkhelm Karaki
+	7 Missira, Heir to War
+	7 Alexei, Eye of the Storm
+	7 Archengine Ascendant
+	7 Rallying the Titans
+	7 Goldblossom Angel
+	7 Ghostlight Infiltrator
+	6 One with the Current
+	15 Kallawarden Ancient
+	7 Hero of Sol Cuesta
+	15 Shrine to the Spirit Realm
+	15 Shrine to the Divine
+	7 Ironblood Jarl
+	15 Firestorm Evangelist
+	15 Sol Cuesta Cavalry
+	15 Lady of the Inlet
+	6 Sneap
+	6 Multiform Rapier
+	6 Adaptive Raider
+	15 Clearcut
+	6 Knight of Irakan
+	4 Port Goliath
+	7 Beacon of Horizons
+	7 Usurper Program
+	7 Set the Heavens Ablaze
+	6 Sunblessed Range
+	6 Ethereal Wasteland
+	6 Dragoneye Shores
+	6 Overcharge
+	6 Peat Basin
+	15 Familiar Summoner
+	6 Unleashed Steed
+	15 Playing with Portals
+	6 Dragon's Ire
+	6 Foreboding Memory
+	15 Seeds of a Dream
+	6 Automated Suppressor
+	6 Kjaldiran Stormbearer
+	6 Refugee Guardian
+	6 Core Shock
+	6 Down the Middle
+	15 Absorption Matrix
+	4 Singularity Courser
+	6 Evolutionary Synergy
+	15 Simian Swordmaster
+	6 Terralight Spearman
+	4 Blazing Knight-Errant
+	6 Stand Strong
+	15 Shake the Earth
+	15 Stormwake Dragon
+	7 Nataltha, the Dark Star
+	7 Augmented Bankbuster
+	15 Breaching the Stream
+	7 Enigma Variant
+	6 Radiant Shaman
+	7 Malevolent Eradicator
+	6 Mark for Conquest
+	15 Constellar Deer
+	15 Union of Root and Steel
+	6 Skolhan Brawler
+	15 Wyrmflame Knight
+	6 Negate
+	6 Accept the Gift
+	6 Bind the Lightning
+	15 Recovering the Pieces
+	6 Britlitte Guardian
+	15 Machinist of Souls
+	6 Turn the Wheel
+	6 Opportunistic Monarch
+	15 Earthreaver Drakkon
+	15 Searchlight Scout
+	7 Sunpiercer Blade
+	7 Eira, Immortal Champion
+	15 Converted Ritualist
+	6 Idyllian Battlemech
+	7 Fused Eviscerator
+	6 Demin's Valiant
+	6 Wyldwood Ursine
+	6 Terror of the Ridge
+	6 Scuttling Terror
+	6 Gladeheart Deadeye
+	6 Sylvua's Titan
+	6 Occult Diviner
+	6 Nature's Animosity
+	6 Defiant Retaliation
+	7 Pharai, Twin Fangs
+	7 Izhan, Last Piece of the Puzzle
+	7 High Magistrate Sonli
+	15 Vaunted Shinobi
+	15 Zydith's Adjudicator
+	4 Sword of Dreams and Empire
+	15 Velheart Communer
+	15 Furtive Scrollkeeper
+	4 Umbral Parturition
+	7 Terralight Stag
+	15 Crucible Druid
+	4 Sol Cuesta, Ignited Crucible
+	6 Steal the Source
+	7 Obsession's Devourer
+	15 Blastfire Smith
+	15 Cursed Orb Oni
+	15 Bell-Clad Exponent
+	7 Tandem Feat
+	7 Encounter with the Sentinel
+	7 Trapped in the Umbra
+	4 The Radiance Zone
+	15 Shadow in the Psyche
+	15 Lies Revealed
+	4 Consuming Ruin
+	7 All Things to Oblivion
+	7 Escaping A World's End
+	6 Teluran Conscript
+	6 Sunblaze Empyrean
+	6 Peacebringer Titan
+	6 Tear Through the Light
+	6 Umbral Devouring
+	15 Titan of Skolhan Pass
+	6 Death Is Not The End
+	6 Singularity's Pull
+	6 Aerial Suppressor
+	6 Throatseeker Valkyrie
+	15 Ascendant Thaumaturge
+	15 In Full Bloom
+	15 Charged Gauntlets
+	6 Unearthed Might
+	6 Charged Duplication
+	6 Shaleville Sellsword
+	6 Integrated Kallaknight
+	6 Molten Schemer
+	4 Tarre, Hands That Feed
+	4 Chosen Valiant
+	6 Unstable Crystal
+	6 Dawnlit Fenland
+	6 Faraway Fiefdom
+	7 Wraith's Hijacking
+	15 Demonic Majesty
+	15 Sheltering the Light
+	15 The Locus of the Storm
+	15 Raze the Village
+	15 Bionic Rallier
+	7 Acolyte of Sylvua
+	7 Crux of Augmentation
+	7 Asher, Heron Champion
+	15 Moonbright Wyrm
+	15 Phantom Liege
+	15 Divine Guide
+	7 Battleworn Commander
+	15 Searing Barrage
+	15 Bring Down the Mountain
+	15 Inspired Creation
+	15 Arboreal Arrow
+	15 End Times Sentinel
+	15 Oni-Power Devastator
+	15 Solemn Simulacrum
+	15 Surveyor's Mechameleon
+	15 Dormant Seed
+	15 Shipyard Scrounger
+	15 Mercenary Enchanter
+	7 Brutagan, Tarruk's Heir
+	15 Bound Edifice
+	7 Reydia, Umbral Augur
+	15 Naveian Protector
+	15 Kallaroot Lurkfiend
+	15 Fae Rootwielder
+	15 Viashino Brute
+	4 Stormmane Drakkon
+	4 Command the Cosmos
+	15 Faraway Worlds
+	4 Rebuild What Is Lost
+	4 Embodiment of Life

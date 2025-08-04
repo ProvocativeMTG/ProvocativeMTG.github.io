@@ -1,4 +1,183 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Faurtis Stoneshield added.
+
+Faurtis removed.
+
+Conjure
+rules_text: Look at the top three cards of your library. Put one into your hand and the rest into your graveyard. => Look at the top two cards of your library. Put one into your hand and the other into your graveyard.
+
+Gideon's Revelation
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You gain 2 life and draw two cards.
+II — You may exile a nonland card from your hand. If you do, it becomes plotted. [i](You may cast it as a sorcery on a later turn without paying its mana cost.)[/i]
+III — Whenever you cast your second spell this turn, copy it. You may choose new targets for the copy. => 
+I — You gain 2 life and draw two cards.
+II — You may exile a nonland card from your hand. If you do, it becomes plotted. [i](You may cast it as a sorcery on a later turn without paying its mana cost.)[/i]
+III — Whenever you cast your second spell this turn, copy it. You may choose new targets for the copy.
+
+Dragonkin Roar
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw X cards, where X is the greatest power among creatures you control.
+II, III — Create an X/X green Dragon Warrior creature token, where X is the greatest power among creatures you control.
+​ => 
+I — Draw X cards, where X is the greatest power among creatures you control.
+II, III — Create an X/X green Dragon Warrior creature token, where X is the greatest power among creatures you control.
+
+At the Heart of the Storm
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — This Saga deals 3 damage to any target.
+II — Search your library for a Dragon card, reveal it, put it into your hand, then shuffle.
+III — The next Dragon spell you cast this turn has storm. The copies aren't legendary. => 
+I — This Saga deals 3 damage to any target.
+II — Search your library for a Dragon card, reveal it, put it into your hand, then shuffle.
+III — The next Dragon spell you cast this turn has storm. The copies aren't legendary.
+
+Nascent Cocoon
+
+Hoarah Loux, Warrior
+
+Becoming a Mother
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Return target permanent card from your graveyard to the battlefield.
+III — Create a 1/2 black Spider Horror creature token for each permanent type among permanents you control. 
+​ => 
+I, II — Return target permanent card from your graveyard to the battlefield.
+III — Create a 1/2 black Spider Horror creature token for each permanent type among permanents you control.
+
+Dryleaf Dane
+
+Midra, Lord of Frenzied Flame
+
+The Loathsome Dung Eater
+
+Visions of Madness
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player discards their hand. Each player who does draws cards equal to the greatest number of cards discarded by a single player this way.
+II, III — Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+​ => 
+I — Each player discards their hand. Each player who does draws cards equal to the greatest number of cards discarded by a single player this way.
+II, III — Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+
+Metyr, Mother of Fingers
+rules_text: Whenever Metyr enters and whenever you play a card you don't own, create a 1/2 black Spider Horror creature token, then look at the top card of target opponent's library and exile it face down. You may play that card for as long as it remains exiled, and mana of any type can be spent to cast it. => When Metyr enters and whenever you play a card you don't own, create a 1/2 black Spider Horror creature token, then look at the top card of target opponent's library and exile it face down. You may play that card for as long as it remains exiled, and mana of any type can be spent to cast it.
+
+Fleeting Microcosm
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each opponent discards a card. For each player who doesn't discard a nonland card this way, that player loses 2 life.
+III — Exile all opponents' graveyards. You may cast spells from among those cards this turn, and mana of any type can be spent to cast them.
+​ => 
+I, II — Each opponent discards a card. For each player who doesn't discard a nonland card this way, that player loses 2 life.
+III — Exile all opponents' graveyards. You may cast spells from among those cards this turn, and mana of any type can be spent to cast them.
+
+Seduction and Betrayal
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You become the monarch. [i](The monarch draws a card at the beginning of their end step. Whenever the monarch is dealt combat damage by a creature, its controller becomes the monarch.)[/i]
+II, III — The monarch sacrifices a creature.
+​ => 
+I — You become the monarch. [i](The monarch draws a card at the beginning of their end step. Whenever the monarch is dealt combat damage by a creature, its controller becomes the monarch.)[/i]
+II, III — The monarch sacrifices a creature.
+
+Miquella's Sacrifice
+rules_text: Destroy target creature. It's controller creates two tokens that are copies of it, except the tokens are 1/1 and aren't legendary. => Destroy target creature. Its controller creates two tokens that are copies of it, except the tokens are 1/1 and aren't legendary.
+
+Abandoning Even His Fate
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II, III — You draw cards and lose life equal to the number of lore counters on this Saga.
+IV — You may have each player's life total become equal to the lowest life total among players.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II, III — You draw cards and lose life equal to the number of lore counters on this Saga.
+IV — You may have each player's life total become equal to the lowest life total among players.
+
+Roderika, Spirit Tuner
+type: Creature — Human Cleric => Legendary Creature — Human Cleric
+
+Recluse
+rules_text: Whenever you cast an instant or sorcery spell, choose one for each creature in your party. [i](Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)[/i]
+• Add one mana of any color.
+• Other creatures you control get +1/+0 until end of turn.
+• The Recluse deals 1 damage to each opponent.
+• Surveil 1. => Whenever you cast an instant or sorcery spell, choose one for each creature in your party. [i](Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)[/i]
+• Add one mana of any color.
+• Other creatures you control get +1/+0 until end of turn.
+• Recluse deals 1 damage to each opponent.
+• Surveil 1.
+
+Guardian
+
+Will You Be My Consort
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each opponent puts a vow counter on a creature they control. Each of those creatures can't attack you for as long as it has a vow counter on it.
+II — Each opponent sacrifices a creature without a vow counter on it.
+III — You gain 1 life and draw a card. => 
+I — Each opponent puts a vow counter on a creature they control. Each of those creatures can't attack you for as long as it has a vow counter on it.
+II — Each opponent sacrifices a creature without a vow counter on it.
+III — You gain 1 life and draw a card.
+
+Stars of Darkness
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return all creatures except your commander to their owners' hands.
+II, III, IV — The first spell you cast this turn costs {1} less to cast for each lore counter on this Saga.
+​ => 
+I — Return all creatures except your commander to their owners' hands.
+II, III, IV — The first spell you cast this turn costs {1} less to cast for each lore counter on this Saga.
+​
+
+Enter Ranni's Service
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Surveil 2. Then if there are four or more instant and/or sorcery cards in your graveyard, create a 4/4 red Dragon creature token with flying.
+III — Exile up to one target instant or sorcery card from your graveyard. Copy it. You may cast the copy.
+​ => 
+I, II — Surveil 2. Then if there are four or more instant and/or sorcery cards in your graveyard, create a 4/4 red Dragon creature token with flying.
+III — Exile up to one target instant or sorcery card from your graveyard. Copy it. You may cast the copy.
+​
+
+Godwyn's Fall
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Sacrifice any number of other permanents. Draw that many cards.
+II — Return all nonlegendary creature cards from your graveyard to the battlefield.
+III — Return all legendary creature cards from your graveyard to the battlefield. => 
+I — Sacrifice any number of other permanents. Draw that many cards.
+II — Return all nonlegendary creature cards from your graveyard to the battlefield.
+III — Return all legendary creature cards from your graveyard to the battlefield.
+
+Divine Invocation
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Search your library for an instant or sorcery card with mana value 4 or less and cast that card without paying its mana cost. Then shuffle.
+III — Creatures you control get +X/+0 until end of turn, where X is the number of instant and/or sorcery cards in your graveyard.
+​ => 
+I, II — Search your library for an instant or sorcery card with mana value 4 or less and cast that card without paying its mana cost. Then shuffle.
+III — Creatures you control get +X/+0 until end of turn, where X is the number of instant and/or sorcery cards in your graveyard.
+
+Seekers of Redemption
+
+Land of Shadow
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Mill five cards.
+II — Return all land cards from your graveyard to the battlefield tapped.
+III — Separate your graveyard into two piles. An opponent chooses one of those piles. Return the chosen pile to your hand and leave the other in your graveyard. => 
+I — Mill five cards.
+II — Return all land cards from your graveyard to the battlefield tapped.
+III — Separate your graveyard into two piles. An opponent chooses one of those piles. Return the chosen pile to your hand and leave the other in your graveyard.
+
+Gnoster, Wisdom of Night
+cost: {4}{G}{U} => {3}{G}{U}
+rules_text: Flying
+Whenever you cast a noncreature spell, create a colorless land token named Everywhere that is every basic land type.
+When Gnoster dies, create Faurtis, a legendary X/X green Scorpion creature token with trample, where X is the number of lands you control. => Flying
+Whenever you cast a noncreature spell, create a colorless land token named Everywhere that is every basic land type.
+When Gnoster dies, create Faurtis Stoneshield, a legendary X/X green Scorpion creature token with trample, where X is the number of lands you control.
+pt: 5/5 => 4/4
+
+Fissure in the Fog
+
+Libra, Equilibrious Beast
+
+Caligo, Miasma of Night
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

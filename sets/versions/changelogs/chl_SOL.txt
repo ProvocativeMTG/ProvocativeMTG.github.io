@@ -1,4 +1,110 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Doom Monarch added.
+
+
+Scion of Heaven and Hell
+rules_text: Flying, trample
+As long as you have 5 or less life, you can't lose the game and your opponents can't win the game.
+As long as you have 1 or less life, you may cast spells without paying their mana costs. => Flying, trample
+As long as you have 5 or less life, prevent all damage that would be dealt to you.
+As long as you have 1 or less life, you may cast spells without paying their mana costs.
+
+Stonesprung Spirit
+
+Eclipse Paladin
+rules_text: Whenever this creature deals combat damage to a player or planeswalker, you may have each player discard a card.
+At the beginning of your upkeep, if you have one or fewer cards in hand, put a +1/+1 counter on this creature. It gains menace until end of turn. => Whenever this creature deals combat damage to a player or planeswalker, you may have each player discard a card.
+[i]Desolate[/i] — At the beginning of your upkeep, if you have one or fewer cards in hand, put a +1/+1 counter on this creature. It gains menace until end of turn.
+
+Aos, Augur of Damnations
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, surveil 2.
+Once during each of your turns, rather than pay the mana cost for a spell you cast, you may seal X, where X is that spell's mana value. [i](To seal X, exile up to X cards with X or more card types among them from your graveyard.)[/i] => [i]Landfall[/i] — Whenever a land you control enters, surveil 2.
+Rather than pay the mana cost for the first spell you cast each turn, you may seal X, where X is that spell's mana value. [i](To seal X, exile up to X cards with X or more card types among them from your graveyard.)[/i]
+
+Eira, Selfless Paladin
+special_text: [+1]: Create a 1/1 red Warrior creature token, then put a +1/+1 counter on a creature you control.
+[0]: Until end of turn, Eira becomes a 5/5 Human Solider creature with indestructible. [i](She doesn't lose loyalty while she's not a planeswalker.)[/i]
+[-3]: Each player chooses any number of creatures they control with total power 4 or less, then sacrifices all other creatures they control.
+[-8]: You get an emblem with “If you would lose 1 or more life, you lose 1 life instead.” => [+1]: Create a 1/1 red Warrior creature token, then put a +1/+1 counter on a creature you control.
+[0]: Until end of turn, Eira becomes a 5/5 Human Soldier creature with indestructible. [i](She doesn't lose loyalty while she's not a planeswalker.)[/i]
+[-3]: Each player chooses any number of creatures they control with total power 4 or less, then sacrifices all other creatures they control.
+[-8]: You get an emblem with “If you would lose 1 or more life, you lose 1 life instead.”
+
+The Memory Terminal
+cost: {4} => {3}
+
+Clarion Paladin
+
+Teluran Sarcophagus
+
+Carrion-Cutter Seraph
+rules_text: Flying
+Ward—Pay 4 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 4 life.)[/i]
+As long as you have one or fewer cards in hand, other creatures you control get +2/+0. => Flying
+Ward—Pay 4 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 4 life.)[/i]
+[i]Desolate[/i] — As long as you have one or fewer cards in hand, other creatures you control get +2/+0.
+
+Dawn's Herald
+
+Cleave the Soul
+
+Hell's Chorus
+rules_text: At the beginning of combat on your turn, discard a card. If you do, draw a card.
+{1}{R}, Sacrifice this enchantment, Seal X: Add X {R}. You can cast only one more spell this turn. [i](To seal X, exile up to X cards with X or more card types among them from your graveyard.)[/i] => At the beginning of combat on your turn, you may discard a card. If you do, draw a card.
+{1}{R}, Sacrifice this enchantment, Seal X: Add X {R}. You can cast only one more spell this turn. [i](To seal X, exile up to X cards with X or more card types among them from your graveyard.)[/i]
+
+Protean Scion
+
+Leonin Shadowcaster
+rules_text: [i]Desolate[/i] — Whenever this creature attacks, return target creature card from your graveyard to your hand if you have one or fewer cards in hand. If that creature card has mana value 3 or less, instead return it to the battlefield tapped and attacking. => [i]Desolate[/i] — Whenever this creature attacks, exile target card from defending player's graveyard. If you have one or fewer cards in hand, you may cast that card, and you may spend mana of any type to cast it.
+
+Overmorrow's Architect
+rules_text: Whenever you cast a noncreature spell, create a 1/1 colorless Solider artifact creature token.
+Soulsplit {4}{U} [i]({4}{U}: Create a 1/1 token copy of this creature without this ability. Activate only as a sorcery and only once.)[/i] => Whenever you cast a noncreature spell, create a 1/1 colorless Soldier artifact creature token.
+Soulsplit {4}{U} [i]({4}{U}: Create a 1/1 token copy of this creature without this ability. Activate only as a sorcery and only once.)[/i]
+
+Sentient Artificer
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, create a 1/1 colorless Solider artifact creature token.
+Artifact creatures you control have “{T}: Add one mana of any color.” => [i]Landfall[/i] — Whenever a land you control enters, create a 1/1 colorless Soldier artifact creature token.
+Artifact creatures you control have “{T}: Add one mana of any color.”
+
+Endless Tome
+
+Weave Infinity
+rules_text: Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Exile the top five cards of your library. You may play those cards until the end of your next turn. You may cast a spell with mana value X or less from among them, where X is the number of creatures that convoked this spell. => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Exile the top five cards of your library. You may play those cards until the end of your next turn. You may cast a spell with mana value X or less from among them without paying its mana cost, where X is the number of creatures that convoked this spell.
+
+Valentina, Dread Impaler
+rules_text: Whenever you cast a noncreature spell, you may pay 1 life. If you do, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+{B}{R}, {T}, Seal 4: Create a 4/4 black and red Vampire Dragon creature token with flying and lifelink. Activate only as a sorcery. [i](To seal 4, exile up to four cards with four or more card types among them from your graveyard.)[/i] => Whenever you cast a noncreature spell, you may pay 1 life. If you do, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+{1}{B}{R}, {T}, Seal 4: Create a 4/4 black and red Vampire Dragon creature token with flying and lifelink. Activate only as a sorcery. [i](To seal 4, exile up to four cards with four or more card types among them from your graveyard.)[/i]
+
+Pull of Heaven
+rules_text: Destroy target creature or planeswalker with mana value 2 or less.
+[i]Desolate[/i] — Destroy that permanent if it has mana value 4 or less instead if you have one or fewer cards in hand. => Destroy target creature or planeswalker if it has mana value 2 or less.
+[i]Desolate[/i] — Destroy that permanent if it has mana value 4 or less instead if you have one or fewer cards in hand.
+
+Cleave the Blood of Gods
+rules_text: Cleave the Blood of Gods deals 2 damage to any target. Until end of turn, if a player dealt damage this way would gain 1 or more life, they gain 1 life instead. => Cleave the Blood of Gods deals 2 damage to any target. If an opponent gained life this turn, Cleave the Blood of Gods deals 3 damage to any target instead.
+
+Eluriel, Final Evolution
+cost: {2}{U}{U} => {1}{U}{U}{U}
+
+Dracolich's Mastery
+rules_text: Look at the top eight cards of your library. Put three of them into your hand and the rest into your graveyard. => Look at the top six cards of your library. Put three of them into your hand and the rest into your graveyard.
+
+Charged Confluence
+rules_text: This land enters tapped unless you control two or fewer other lands.
+{T}, Add {R}.
+{1}{R}, {T}: The next spell you cast this turn has convoke. Activate only as a sorcery. [i](Your creatures can help cast the next spell you cast this turn. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i] => This land enters tapped unless you control two or fewer other lands.
+{T}, Add {R}.
+{R}, {T}: The next spell you cast this turn has convoke. Activate only as a sorcery. [i](Your creatures can help cast the next spell you cast this turn. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Ward of the Skies added.

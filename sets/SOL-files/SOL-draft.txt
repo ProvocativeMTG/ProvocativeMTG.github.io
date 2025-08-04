@@ -524,7 +524,7 @@
 		{
 			"name": "The Memory Terminal",
 			"rarity": "mythic",
-			"mana_cost": "{4}",
+			"mana_cost": "{3}",
 			"type": "Legendary Artifact",
 			"collector_number": "239",
 			"image_uris": {
@@ -2032,7 +2032,7 @@
 		{
 			"name": "Eluriel, Final Evolution",
 			"rarity": "rare",
-			"mana_cost": "{2}{U}{U}",
+			"mana_cost": "{1}{U}{U}{U}",
 			"type": "Legendary Artifact Creature — Angel",
 			"collector_number": "50",
 			"image_uris": {
@@ -2798,6 +2798,16 @@
 			"image_uris": {
 				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/6_Angel Demon.png"
 			}
+		},
+		{
+			"name": "Doom Monarch",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Zombie Noble",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/0_Doom Monarch.png"
+			}
 		}
 	]
 
@@ -2882,6 +2892,7 @@
 	2 Shattered Spires
 	2 Hollow Church
 	2 Desecrated Monument
+	2 Doom Monarch
 [uncommon(3)]
 	4 Persistent Contagion
 	4 Shadowbane Paladin
@@ -3319,6 +3330,7 @@
 	2 Hollow Church
 	2 Desecrated Monument
 	6 Shattered Peak
+	2 Doom Monarch
 [wildcard(1)]
 	4 Josiah, Bitter Survivor
 	4 Scion of Heaven and Hell
@@ -3577,3 +3589,4 @@
 	7 Hollow Church
 	7 Desecrated Monument
 	15 Shattered Peak
+	7 Doom Monarch

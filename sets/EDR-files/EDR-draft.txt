@@ -3204,7 +3204,7 @@
 			"name": "Roderika, Spirit Tuner",
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Cleric",
+			"type": "Legendary Creature — Human Cleric",
 			"collector_number": "80",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/80_Roderika, Spirit Tuner.png"
@@ -4271,16 +4271,6 @@
 			}
 		},
 		{
-			"name": "Caligo, Miasma of Night",
-			"rarity": "special",
-			"mana_cost": "{4}{W}{U}",
-			"type": "Legendary Creature — Dragon",
-			"collector_number": "267",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/267_Caligo, Miasma of Night.png"
-			}
-		},
-		{
 			"name": "Erdtree Burial",
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
@@ -4488,16 +4478,6 @@
 			"collector_number": "311",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/311_Heolstor, the Nightlord.png"
-			}
-		},
-		{
-			"name": "Libra, Equilibrious Beast",
-			"rarity": "special",
-			"mana_cost": "{2}{B}{R}",
-			"type": "Legendary Creature — Goat Demon",
-			"collector_number": "320",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/320_Libra, Equilibrious Beast.png"
 			}
 		},
 		{
@@ -4723,7 +4703,7 @@
 		{
 			"name": "Gnoster, Wisdom of Night",
 			"rarity": "special",
-			"mana_cost": "{4}{G}{U}",
+			"mana_cost": "{3}{G}{U}",
 			"type": "Legendary Creature — Insect",
 			"collector_number": "297",
 			"image_uris": {
@@ -4801,13 +4781,13 @@
 			}
 		},
 		{
-			"name": "Faurtis",
+			"name": "Faurtis Stoneshield",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Legendary Creature — Scorpion",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/28_Faurtis.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/28_Faurtis Stoneshield.png"
 			}
 		},
 		{
@@ -5038,6 +5018,26 @@
 			"collector_number": "6",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/6_Bird Spirit.png"
+			}
+		},
+		{
+			"name": "Libra, Equilibrious Beast",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Goat Demon",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/320_Libra, Equilibrious Beast.png"
+			}
+		},
+		{
+			"name": "Caligo, Miasma of Night",
+			"rarity": "special",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.hithub.io/sets/EDR-files/img/267_Caligo, Miasma of Night.png"
 			}
 		}
 	]
@@ -5436,7 +5436,6 @@
 	1 Rogier, Scholar of Death
 	1 Nature of the Shamans
 	1 Executor
-	1 Caligo, Miasma of Night
 	1 Erdtree Burial
 	1 Godwyn, First to Fall
 	1 Morgott, Veiled Monarch
@@ -5458,7 +5457,6 @@
 	1 Radagon of the Golden Order
 	1 Mend the Elden Ring
 	1 Heolstor, the Nightlord
-	1 Libra, Equilibrious Beast
 	1 Duke's Dear Freja
 	1 Crumbling Farum Azula
 	1 Maris, Fathom of Night
@@ -5501,3 +5499,5 @@
 	1 The Shadow Keep
 	1 The Great Jar
 	1 Restage
+	1 Libra, Equilibrious Beast
+	1 Caligo, Miasma of Night

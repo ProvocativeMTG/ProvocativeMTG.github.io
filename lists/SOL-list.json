@@ -138,8 +138,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Doom Monarch",
-        "number": 134,
+        "card_name": "Flame-Scarred Abomination",
+        "number": 138,
         "shape": "normal",
         "set": "SOL"
     },
@@ -168,8 +168,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Flame-Scarred Abomination",
-        "number": 138,
+        "card_name": "Hell's Chorus",
+        "number": 140,
         "shape": "normal",
         "set": "SOL"
     },
@@ -198,8 +198,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Hell's Chorus",
-        "number": 140,
+        "card_name": "Scarlet Liturgy",
+        "number": 149,
         "shape": "normal",
         "set": "SOL"
     },
@@ -228,8 +228,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Scarlet Liturgy",
-        "number": 149,
+        "card_name": "Scourge Taskmaster",
+        "number": 150,
         "shape": "normal",
         "set": "SOL"
     },
@@ -258,8 +258,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Scourge Taskmaster",
-        "number": 150,
+        "card_name": "Verox, the Forgelord",
+        "number": 155,
         "shape": "normal",
         "set": "SOL"
     },
@@ -288,8 +288,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Verox, the Forgelord",
-        "number": 155,
+        "card_name": "Augmented Dragon",
+        "number": 121,
         "shape": "normal",
         "set": "SOL"
     },
@@ -318,8 +318,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Augmented Dragon",
-        "number": 121,
+        "card_name": "Birth from Blood",
+        "number": 122,
         "shape": "normal",
         "set": "SOL"
     },
@@ -348,8 +348,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Birth from Blood",
-        "number": 122,
+        "card_name": "Blightchoke Exarch",
+        "number": 124,
         "shape": "normal",
         "set": "SOL"
     },
@@ -378,8 +378,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Blightchoke Exarch",
-        "number": 124,
+        "card_name": "Blood-Cursed Diabolist",
+        "number": 125,
         "shape": "normal",
         "set": "SOL"
     },
@@ -408,8 +408,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Blood-Cursed Diabolist",
-        "number": 125,
+        "card_name": "Braintree Divination",
+        "number": 127,
         "shape": "normal",
         "set": "SOL"
     },
@@ -438,8 +438,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Braintree Divination",
-        "number": 127,
+        "card_name": "Burning Eyebeam",
+        "number": 128,
         "shape": "normal",
         "set": "SOL"
     },
@@ -468,8 +468,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Burning Eyebeam",
-        "number": 128,
+        "card_name": "Descent into Chaos",
+        "number": 132,
         "shape": "normal",
         "set": "SOL"
     },
@@ -498,8 +498,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Descent into Chaos",
-        "number": 132,
+        "card_name": "Engines of Hell",
+        "number": 136,
         "shape": "normal",
         "set": "SOL"
     },
@@ -528,8 +528,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Engines of Hell",
-        "number": 136,
+        "card_name": "Gateway Protector",
+        "number": 139,
         "shape": "normal",
         "set": "SOL"
     },
@@ -558,8 +558,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Gateway Protector",
-        "number": 139,
+        "card_name": "Implement of Thuraxes",
+        "number": 141,
         "shape": "normal",
         "set": "SOL"
     },
@@ -588,8 +588,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Implement of Thuraxes",
-        "number": 141,
+        "card_name": "Infernal Torturer",
+        "number": 142,
         "shape": "normal",
         "set": "SOL"
     },
@@ -618,8 +618,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Infernal Torturer",
-        "number": 142,
+        "card_name": "Mad Tormentor",
+        "number": 144,
         "shape": "normal",
         "set": "SOL"
     },
@@ -648,8 +648,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Mad Tormentor",
-        "number": 144,
+        "card_name": "Portents of Blood",
+        "number": 147,
         "shape": "normal",
         "set": "SOL"
     },
@@ -678,8 +678,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Portents of Blood",
-        "number": 147,
+        "card_name": "Smoldering Tormentor",
+        "number": 152,
         "shape": "normal",
         "set": "SOL"
     },
@@ -708,8 +708,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Smoldering Tormentor",
-        "number": 152,
+        "card_name": "Ancient Transmutation",
+        "number": 119,
         "shape": "normal",
         "set": "SOL"
     },
@@ -738,8 +738,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Ancient Transmutation",
-        "number": 119,
+        "card_name": "Biting Pain",
+        "number": 123,
         "shape": "normal",
         "set": "SOL"
     },
@@ -768,8 +768,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Biting Pain",
-        "number": 123,
+        "card_name": "Cleave the Blood of Gods",
+        "number": 130,
         "shape": "normal",
         "set": "SOL"
     },
@@ -798,8 +798,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Cleave the Blood of Gods",
-        "number": 130,
+        "card_name": "Cruel Heartstealer",
+        "number": 131,
         "shape": "normal",
         "set": "SOL"
     },
@@ -828,8 +828,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Cruel Heartstealer",
-        "number": 131,
+        "card_name": "Devour Tender Flesh",
+        "number": 133,
         "shape": "normal",
         "set": "SOL"
     },
@@ -858,8 +858,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Devour Tender Flesh",
-        "number": 133,
+        "card_name": "Enclave Piercer",
+        "number": 135,
         "shape": "normal",
         "set": "SOL"
     },
@@ -888,8 +888,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Enclave Piercer",
-        "number": 135,
+        "card_name": "Extan Knight-Errant",
+        "number": 137,
         "shape": "normal",
         "set": "SOL"
     },
@@ -918,8 +918,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Extan Knight-Errant",
-        "number": 137,
+        "card_name": "Legate Sparkweaver",
+        "number": 143,
         "shape": "normal",
         "set": "SOL"
     },
@@ -948,8 +948,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Legate Sparkweaver",
-        "number": 143,
+        "card_name": "Molten Bloodhunter",
+        "number": 145,
         "shape": "normal",
         "set": "SOL"
     },
@@ -978,8 +978,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Molten Bloodhunter",
-        "number": 145,
+        "card_name": "Rock Scorpion",
+        "number": 148,
         "shape": "normal",
         "set": "SOL"
     },
@@ -1008,8 +1008,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Rock Scorpion",
-        "number": 148,
+        "card_name": "Skull Summoner",
+        "number": 151,
         "shape": "normal",
         "set": "SOL"
     },
@@ -1038,8 +1038,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Skull Summoner",
-        "number": 151,
+        "card_name": "Thunderous Corruscation",
+        "number": 153,
         "shape": "normal",
         "set": "SOL"
     },
@@ -1068,8 +1068,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Thunderous Corruscation",
-        "number": 153,
+        "card_name": "To Stone and Ash",
+        "number": 154,
         "shape": "normal",
         "set": "SOL"
     },
@@ -1098,8 +1098,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "To Stone and Ash",
-        "number": 154,
+        "card_name": "Voidhungry Avatar",
+        "number": 156,
         "shape": "normal",
         "set": "SOL"
     },
@@ -1128,8 +1128,8 @@
         "set": "SOL"
     },
     {
-        "card_name": "Voidhungry Avatar",
-        "number": 156,
+        "card_name": "Whisperer of Pale Boons",
+        "number": 157,
         "shape": "normal",
         "set": "SOL"
     },
@@ -1158,10 +1158,7 @@
         "set": "SOL"
     },
     {
-        "card_name": "Whisperer of Pale Boons",
-        "number": 157,
-        "shape": "normal",
-        "set": "SOL"
+        "card_name": "e"
     },
     {
         "card_name": "Swelling Growth",

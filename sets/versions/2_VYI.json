@@ -1,7 +1,7 @@
 ﻿{
     "name": "Kallatree: Voyage to Infinity",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "play booster",
     "cards": [
@@ -5565,6 +5565,5 @@
             "artist": "Jack Zhou",
             "notes": ""
         }
-    ],
-    "version": 2
+    ]
 }

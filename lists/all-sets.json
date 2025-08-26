@@ -29,6 +29,11 @@
             "set_code": "SOL",
             "set_name": "The Solitudines",
             "formats": ""
+        },
+        {
+            "set_code": "VYI",
+            "set_name": "Kallatree: Voyage to Infinity",
+            "formats": ""
         }
     ]
 }

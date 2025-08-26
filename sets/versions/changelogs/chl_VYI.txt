@@ -1,0 +1,28 @@
+﻿VERSION 2 CHANGELOG
+====================
+
+
+Sojourner's Gateway removed.
+Captain Elai removed.
+Kallatree, Whorl of Life removed.
+Origin's Vestige removed.
+Devour All Light removed.
+Terraformer Archengine removed.
+Myrkdrasil, Cradle of Nihility removed.
+Xenobotanist removed.
+Starhunter Drakkon removed.
+Aeon removed.
+Wolf of Anjarja removed.
+
+Aeon
+special_text: [+2]: Each player exiles cards from the top of their library until they exile a nonland card. You may cast a card exiled with Aeon without paying its mana cost.
+[-1]: Create a colorless enchantment token named Void Corona with “Sacrifice this token: The next spell you cast this turn has starstorm.” [i](When you cast that spell, copy it for each spell you cast before it this turn. You may choose new targets for the copies.)[/i]
+[-5]: Choose three numbers. Exile each other nonland permanent with a mana value that is equal to one of the chosen numbers. => [+2]: Each player exiles cards from the top of their library until they exile a nonland card. You may cast any card exiled with Aeon without paying its mana cost.
+[+1]: Create a colorless enchantment token named Void Corona with “Sacrifice this token: The next spell you cast this turn has starstorm.” [i](When you cast that spell, copy it for each spell you cast before it this turn. You may choose new targets for the copies.)[/i]
+[-5]: Choose three numbers. Exile each other nonland permanent with a mana value that is equal to one of the chosen numbers.
+
+
+VERSION 1 CHANGELOG
+====================
+
+First version published.

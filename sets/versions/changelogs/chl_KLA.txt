@@ -1,4 +1,82 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Wolf of Anjarja added.
+Kallaheart Hunter added.
+
+Bold Bulwark removed.
+Kallaheart Fireblade removed.
+
+Suncatcher Elk
+
+Madness in Annihilation
+
+Fryde, Patron of Fools
+
+Charged Berserker
+
+Ritualist of Old Blood
+
+Drakkon Boltcaster
+
+Lamplighter
+
+Prancing Flame
+
+Emissary of the Inferno
+
+Fugue Dirge
+
+Drakkonic Scion
+
+Crimson Deathmaw
+
+Myriad Forms
+
+Knutr, Blighted Embrace
+
+Kjaldiran Cavalry
+
+Transgress Heaven
+
+Realmsieger
+
+Corrupted Empyrean
+
+Lich's Masterpiece
+
+Fryde's Lurker
+
+Haunted Journeyman
+
+Demonic Rites
+
+Offering to Chaos
+
+Martyr's Funeral
+
+Drakkon Egg
+
+Compelling Demons
+
+Raging Giant
+
+Bring Ruin to the Realms
+
+Greedy Barbarian
+
+Stormguide Hammer
+
+Undying Wrath
+
+Decisive Cry
+
+Sungold Blade
+
+Wildspark Mage
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

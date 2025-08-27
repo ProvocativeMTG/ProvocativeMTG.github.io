@@ -3,7 +3,7 @@
     "formats": "",
     "trimmed": "y",
     "image_type": "png",
-    "draft_structure": "play booster",
+    "draft_structure": "draft booster",
     "cards": [
         {
             "card_name": "Prince Irakan, Heir to Dust",
@@ -293,7 +293,7 @@
             "number": 130,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Whenever a source you control deals noncombat damage to an opponent, you may exile that many cards from the top of your library.\nOnce during each of your turns, you may play a card exiled with this enchantment this turn.",
+            "rules_text": "Whenever a source you control deals noncombat damage to a player, you may add that much {R}. Do this only once each turn.",
             "flavor_text": "[i]\u201cThe Multiverse has been cruel to you. Don't you think it all needs a fresh start?\u201d\n\u2014Prince Irakan, to Elai[/i]",
             "pt": "",
             "special_text": "",
@@ -5976,5 +5976,5 @@
             "notes": ""
         }
     ],
-    "version": 2
+    "version": 3
 }

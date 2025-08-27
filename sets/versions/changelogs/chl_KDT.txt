@@ -1,4 +1,202 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Kinscale Reckoner added.
+
+Shigane Potionmaster removed.
+Threadweaver Shinobi removed.
+Spirit Realm Phoenix removed.
+Kage, Cursed Conqueror removed.
+Ageless Seishin removed.
+The Ancestral Legion removed.
+Stratostorm removed.
+Gereishin, the Stormlord removed.
+Butchery removed.
+Mastery removed.
+Shiori, the Trickster removed.
+Majesty removed.
+Tsubasa Shigane removed.
+Ayeshi, Time's Jailer removed.
+The Dutiful Wanderer removed.
+Giyama, Scion of Kage removed.
+Secrecy removed.
+Equanimity removed.
+Perils of Eternity removed.
+Aonuma, Princely Traveler removed.
+Koraja, the Broken Blade removed.
+
+Uncoiling Realmspawn
+rules_text: Whenever this creature attacks, choose one —
+• If you control another creature with greater power, put a +1/+1 counter on this creature.
+• The base power and toughness of other attacking creatures you control become equal to this creature's power and toughness until end of turn. => Revered [i](This creature shares the following abilities with other creatures you control that have counters on them.)[/i]
+Trample 
+Whenever you cast a spell with mana value 4 or greater, put a +1/+1 counter on this creature.
+
+The Dutiful Wanderer
+special_text: Each opponent who cast a spell this turn can't attack The Dutiful Wanderer.
+Each opponent who attacked The Dutiful Wanderer this turn can't cast spells.
+[+1]: Create a 2/2 white Samurai creature token with exalted.
+[-3]: Exile up to one target creature you control and up to one target creature you don't control, then return the creature you controlled to the battlefield under its owner's control. => Each opponent can't attack unless the total power of attacking creatures they control is 4 or less.
+[+1]: Until end of turn, The Dutiful Wanderer becomes a 3/3 Human Samurai creature with double strike and indestructible. [i](She doesn't lose loyalty while she's not a planeswalker.)[/i]
+[-3]: Exile up to one target creature you control and up to one target creature you don't control, then return the creature you controlled to the battlefield under its owner's control.
+
+Tsubasa Shigane
+special_text: Ninjutsu {1}{G}{U}
+As long as Tsubasa Shigane entered during combat this turn, he's a 4/4 Ninja creature with hexproof and you may activate his loyalty abilities any time you could cast an instant.
+[+1]: Put a shield counter on up to one other target creature without a shield counter on it.
+[-1]: Double another target creature's power until end of turn.
+[-2]: Return target creature to its owner's hand. => Ninjutsu {1}{G}{U}
+As long as Tsubasa Shigane entered during combat this turn, he's a 4/4 Ninja creature with hexproof and you may activate his loyalty abilities any time you could cast an instant.
+[+1]: Up to one other target creature gains indestructible until end of turn.
+[-1]: Double another target creature's power until end of turn.
+[-2]: Return target creature to its owner's hand.
+
+Nimble Mentor
+
+Nocturnal Glintblade
+
+Ukina, Aethersong Basker
+rules_text: When Ukina enters, create a 1/1 blue Bird creature token with flying.
+Flow[i] [/i]— {3}{WU}: Look at the top two cards of your library. Put one into your hand and the other on the bottom of your library. [i](Each creature you tap while activating pays for {1}.)[/i] => When Ukina enters, create a 1/1 blue Bird creature token with flying.
+Flow[i] [/i]— {5}{WU}: Look at the top two cards of your library. Put one into your hand and the other on the bottom of your library. [i](Each creature you tap while activating pays for {1}.)[/i]
+
+Illusory Savior
+rules_text: Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+Sacrifice this creature: Choose another target creature you control. When it's put into a graveyard this turn, return that card to the battlefield tapped under its owner's control. => Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+Sacrifice this creature: Choose another target creature you control. When it's put into a graveyard this turn, return that card to the battlefield tapped under its owner's control with a finality counter on it.
+
+Kirin of Boons
+rules_text: Revered [i](This creature shares the following abilities with other creatures you control that have counters on them.)[/i]
+Whenever this creature attacks, target creature defending player controls with can't block this turn if it has lesser power. => Revered [i](This creature shares the following abilities with other creatures you control that have counters on them.)[/i]
+Whenever this creature attacks, target creature defending player controls can't block this turn if its power is less than this creature's power.
+
+Spirit Realm Phoenix
+rules_text: Flying, haste
+Whenever one or more +1/+1 counters are put on this creature, it deals that much damage to each opponent.
+At the beginning of your end step, you may pay {1}. If you do, return this card from your graveyard to your hand if one or more +1/+1 counters were put on a creature you control this turn. => Flying, haste
+Whenever one or more +1/+1 counters are put on this creature, it deals that much damage to each opponent.
+At the beginning of your end step, you may pay {1} if one or more +1/+1 counters were put on a creature you control this turn. If you do, return this card from your graveyard to your hand.
+
+Lantern Festival
+
+Path's End
+
+Swift Reproach
+rules_text: Exile target creature or planeswalker an opponent controls. If its controller has more cards in hand than you, they scry 2. Otherwise, they draw a card. => Exile target creature or planeswalker an opponent controls. Its controller may draw a card unless they have more cards in hand than you. Otherwise, they may scry 2.
+
+Orochi Soulfang
+rules_text: Whenever another creature you control enters, if that creature's power is greater than this creature's power, you may put a +1/+1 counter on this creature.
+{2}{G}, Remove two +1/+1 counters from this creature or sacrifice it: Destroy target artifact or enchantment. => Whenever another creature you control enters, if that creature's power is greater than this creature's power, you may put a +1/+1 counter on this creature.
+{2}{G}: Move any number of +1/+1 counters from this creature to another target creature you control. Activate only as a sorcery.
+
+Monastery Teacher
+
+Teshima, Living Balance
+
+Emperor Tzuhan
+rules_text: Whenever you cycle a card, exile up to one other target creature you control. Return that card to the battlefield under its owner's control at the beginning of the next end step. => Whenever you cycle a card, exile up to one other target creature you control. Return that card to the battlefield under its owner's control at the beginning of he next end step.
+
+Koraja, the Broken Blade
+
+Frolicking Tatsuko
+
+Precognitive Combatant
+
+Kage's Mercenary
+rules_text: Whenever a nontoken creature you control dies, draw a card.
+{2}{B}, Sacrifice this creature: Create an X/X black Demon creature token, where X is the number of creatures you controlled that died this turn. Activate only as a sorcery. => Whenever a nontoken creature you control dies, you draw a card and you lose 1 life.
+{2}{B}, Sacrifice this creature: Create an X/X black Demon creature token, where X is the number of creatures you controlled that died this turn. Activate only as a sorcery.
+
+Ruinous Portents
+
+Moonlight Adversary
+rules_text: When this creature enters, you may pay X life. When you do, return X target cards you discarded this turn from your graveyard to your hand.
+Whenever you discard a card, each opponent loses 1 life and you gain 1 life. => When this creature enters, you may pay X life. When you do, return X target cards you discarded this turn from your graveyard to your hand.
+Whenever you discard a card, each opponent loses 1 life.
+
+Ruiner's Procession
+
+Prideful Reaper
+
+Butchery
+rules_text: Whenever a source you control deals noncombat damage to an opponent, you draw a card and you lose 1 life.
+At the beginning of your end step, this enchantment deals 3 damage to any target if you've sacrificed three or more permanents this turn. => Whenever a source you control deals noncombat damage to an opponent, you draw a card and you lose 1 life. This ability triggers only once each turn.
+At the beginning of your end step, if you sacrificed three or more permanents this turn, this enchantment deals 3 damage to any target.
+
+Natori Skyblade
+rules_text: Ninjutsu {3}{U}{U} [i]({3}{U}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+Flying
+Whenever this creature deals combat damage to a player or planeswalker, draw a card. Then if this creature entered this turn, create a token that's a copy of it. => Ninjutsu {3}{U}{U} [i]({3}{U}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+Flying
+Whenever this creature deals combat damage to a player, create a token that's a copy of target attacking creature you control that entered this turn.
+
+Master of the Twin Blades
+
+Amagaseto, Mother Spirit
+rules_text: At the beginning of combat on your turn, distribute two +1/+1 counters among one or two other target creatures you control.
+Once during each of your turns, you may cast a creature spell from your graveyard by removing a number of counters from among creatures you control equal to that spell's mana value in addition to paying its other costs. => At the beginning of combat on your turn, put a +1/+1 counter on another target creature you control.
+Once during each of your turns, you may cast a creature spell from your graveyard by removing a number of counters from among creatures you control equal to that spell's mana value in addition to paying its other costs.
+
+Painted Officer
+
+Meditation
+
+Mist-Draped Delver
+
+Menreiki, the Resplendent
+
+Sabotage the Supply Lines
+
+Portal Guardian
+
+Noble Shrineguard
+cost: {8}{R}{G} => {3}{R}{G}
+rules_text: This spell costs {X} less to cast, where X is the greatest power among creatures you control.
+Vigilance, reach, trample
+This creature enters with a number of +1/+1 counters on it equal to the total power of other creatures you control. => Trample 
+When this creature enters, double the number of +1/+1 counters on another target creature you control. Then for each counter on that creature, you may put a counter of that kind on this creature.
+pt: 6/6 => 1/1
+
+Shigane Clan Head
+
+Twilight Agent
+rules_text: Ninjutsu {1}{U} [i]({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+Whenever one or more other creatures you control leave the battlefield without dying, draw a card. => Ninjutsu {1}{U} [i]({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+Whenever this creature deals combat damage to a player, you may have it become a copy of another target creature, except it's a Ninja in addition to its other types.
+
+Nao, the Impenetrable
+
+Gereishin's Entrance
+cost: {4}{R}{G} => {5}{R}{G}
+
+Nimomae, Who Flows
+
+Revolutionary's Monument
+rules_text: When this creature enters, reveal the top ten cards of your library. For each non-Golem permanent card revealed this way, you may sacrifice a permanent that shares a card type with it. If you do, put that permanent card onto the battlefield under your control. Put the rest on the bottom of your library in a random order. => When this creature enters, reveal the top ten cards of your library. For each nonland, non-Golem permanent card revealed this way, you may sacrifice a permanent that shares a card type with it. If you do, put that permanent card onto the battlefield under your control. Put the rest on the bottom of your library in a random order.
+
+Koraja's Centipede
+
+Stratostorm
+
+Auspicious Return
+rules_text: When this enchantment enters, return target creature card from your graveyard to the battlefield.
+At the beginning of your end step, exile up to one target creature you control, then return that card to the battlefield under its owner's control. => When this enchantment enters, if it was cast, return target creature card from your graveyard to the battlefield.
+At the beginning of your upkeep, exile up to one target creature you control, then return that card to the battlefield under its owner's control.
+
+Gereishin, the Stormlord
+rules_text: Flying
+When Gereishin enters, you may cast a Dragon spell or a spell with mana value 6 or less from your hand without paying its mana cost.
+Once during each of your turns, when you spend less mana to cast a spell than its mana value, you may have Gereishin deal damage to each non-Dragon creature equal to that spell's mana value. => Flying
+When Gereishin enters, if it was cast, you may cast a Dragon spell or a spell with mana value 6 or less from your hand without paying its mana cost. 
+Once during each of your turns, when you spend less mana to cast a spell than its mana value, you may have Gereishin deal damage to up to one target creature equal to the difference.
+
+Faces of the Faceless
+rules_text: Cards in graveyards can't leave the graveyard. [i](Including by being cast.)[/i]
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => Cards can't leave the graveyards. [i](Including by being cast.)[/i]
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Threadweaver Shinobi added.

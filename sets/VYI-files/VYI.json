@@ -5537,7 +5537,7 @@
             "number": 228,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "Lifelink\nWhen this creature enters, each opponent loses life equal to the amount of life they lost this turn.\nOrbit 3\u2014{3}{W}{B} [i]({3}{W}{B}, Exile this card from your hand: Put three charge counters on it. Once during each of your turns, you may cast a copy of this card without paying its mana cost by removing a charge counter from it. Orbit only as a sorcery.)[/i]",
+            "rules_text": "Lifelink\nWhen this creature enters, each opponent loses life equal to the amount of life you gained this turn.\nOrbit 3\u2014{3}{W}{B} [i]({3}{W}{B}, Exile this card from your hand: Put three charge counters on it. Once during each of your turns, you may cast a copy of this card without paying its mana cost by removing a charge counter from it. Orbit only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -5566,5 +5566,5 @@
             "notes": ""
         }
     ],
-    "version": 2
+    "version": 3
 }

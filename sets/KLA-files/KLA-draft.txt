@@ -95,9 +95,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Elk Spirit",
-			"collector_number": "162",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/162_Suncatcher Elk.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/161_Suncatcher Elk.png"
 			}
 		},
 		{
@@ -215,9 +215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "153",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/153_Madness in Annihilation.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/152_Madness in Annihilation.png"
 			}
 		},
 		{
@@ -225,9 +225,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Legendary Creature — God",
-			"collector_number": "143",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/143_Fryde, Patron of Fools.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/142_Fryde, Patron of Fools.png"
 			}
 		},
 		{
@@ -255,9 +255,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "133",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/133_Charged Berserker.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/132_Charged Berserker.png"
 			}
 		},
 		{
@@ -285,9 +285,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Demon Shaman",
-			"collector_number": "160",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/160_Ritualist of Old Blood.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/159_Ritualist of Old Blood.png"
 			}
 		},
 		{
@@ -385,9 +385,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "139",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/139_Drakkon Boltcaster.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/138_Drakkon Boltcaster.png"
 			}
 		},
 		{
@@ -615,9 +615,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Spirit",
-			"collector_number": "151",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/151_Lamplighter.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/150_Lamplighter.png"
 			}
 		},
 		{
@@ -645,9 +645,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "157",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/157_Prancing Flame.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/156_Prancing Flame.png"
 			}
 		},
 		{
@@ -785,9 +785,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "142",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/142_Emissary of the Inferno.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/141_Emissary of the Inferno.png"
 			}
 		},
 		{
@@ -821,13 +821,13 @@
 			}
 		},
 		{
-			"name": "Bold Bulwark",
+			"name": "Wolf of Anjarja",
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "131",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/131_Bold Bulwark.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/166_Wolf of Anjarja.png"
 			}
 		},
 		{
@@ -1025,9 +1025,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Instant",
-			"collector_number": "145",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/145_Fugue Dirge.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/144_Fugue Dirge.png"
 			}
 		},
 		{
@@ -1035,9 +1035,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "141",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/141_Drakkonic Scion.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/140_Drakkonic Scion.png"
 			}
 		},
 		{
@@ -1105,9 +1105,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "136",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/136_Crimson Deathmaw.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/135_Crimson Deathmaw.png"
 			}
 		},
 		{
@@ -1125,9 +1125,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{R}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "155",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/155_Myriad Forms.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/154_Myriad Forms.png"
 			}
 		},
 		{
@@ -1295,9 +1295,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Creature — Demon Shaman",
-			"collector_number": "150",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/150_Knutr, Blighted Embrace.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/149_Knutr, Blighted Embrace.png"
 			}
 		},
 		{
@@ -1395,9 +1395,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "149",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/149_Kjaldiran Cavalry.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/148_Kjaldiran Cavalry.png"
 			}
 		},
 		{
@@ -1485,9 +1485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "164",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/164_Transgress Heaven.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/163_Transgress Heaven.png"
 			}
 		},
 		{
@@ -1515,9 +1515,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{R}{R}",
 			"type": "Creature — Demon Warrior",
-			"collector_number": "159",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/159_Realmsieger.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/158_Realmsieger.png"
 			}
 		},
 		{
@@ -1545,9 +1545,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Horror Warrior",
-			"collector_number": "135",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/135_Corrupted Empyrean.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/134_Corrupted Empyrean.png"
 			}
 		},
 		{
@@ -1775,9 +1775,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Zombie",
-			"collector_number": "152",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/152_Lich's Masterpiece.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/151_Lich's Masterpiece.png"
 			}
 		},
 		{
@@ -1855,9 +1855,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Demon",
-			"collector_number": "144",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/144_Fryde's Lurker.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/143_Fryde's Lurker.png"
 			}
 		},
 		{
@@ -1885,9 +1885,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Human",
-			"collector_number": "147",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/147_Haunted Journeyman.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/146_Haunted Journeyman.png"
 			}
 		},
 		{
@@ -1905,9 +1905,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Enchantment",
-			"collector_number": "138",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/138_Demonic Rites.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/137_Demonic Rites.png"
 			}
 		},
 		{
@@ -1935,9 +1935,9 @@
 			"rarity": "rare",
 			"mana_cost": "{8}{R}",
 			"type": "Sorcery",
-			"collector_number": "156",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/156_Offering to Chaos.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/155_Offering to Chaos.png"
 			}
 		},
 		{
@@ -1971,13 +1971,13 @@
 			}
 		},
 		{
-			"name": "Kallaheart Fireblade",
+			"name": "Kallaheart Hunter",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "148",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/148_Kallaheart Fireblade.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/147_Kallaheart Hunter.png"
 			}
 		},
 		{
@@ -1985,9 +1985,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "154",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/154_Martyr's Funeral.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/153_Martyr's Funeral.png"
 			}
 		},
 		{
@@ -2085,9 +2085,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Dragon Egg",
-			"collector_number": "140",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/140_Drakkon Egg.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/139_Drakkon Egg.png"
 			}
 		},
 		{
@@ -2185,9 +2185,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{R}",
 			"type": "Creature — Demon Shaman",
-			"collector_number": "134",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/134_Compelling Demons.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/133_Compelling Demons.png"
 			}
 		},
 		{
@@ -2195,9 +2195,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{R}",
 			"type": "Creature — Giant",
-			"collector_number": "158",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/158_Raging Giant.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/157_Raging Giant.png"
 			}
 		},
 		{
@@ -2205,9 +2205,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "132",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/132_Bring Ruin to the Realms.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/131_Bring Ruin to the Realms.png"
 			}
 		},
 		{
@@ -2215,9 +2215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "146",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/146_Greedy Barbarian.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/145_Greedy Barbarian.png"
 			}
 		},
 		{
@@ -2245,9 +2245,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact — Equipment",
-			"collector_number": "161",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/161_Stormguide Hammer.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/160_Stormguide Hammer.png"
 			}
 		},
 		{
@@ -2255,9 +2255,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "165",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/165_Undying Wrath.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/164_Undying Wrath.png"
 			}
 		},
 		{
@@ -2525,9 +2525,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "137",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/137_Decisive Cry.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/136_Decisive Cry.png"
 			}
 		},
 		{
@@ -2535,9 +2535,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact — Equipment",
-			"collector_number": "163",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/163_Sungold Blade.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/162_Sungold Blade.png"
 			}
 		},
 		{
@@ -2685,9 +2685,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "166",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/166_Wildspark Mage.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/KLA-files/img/165_Wildspark Mage.png"
 			}
 		},
 		{
@@ -2913,865 +2913,291 @@
 	]
 
 [rare(1)]
-	1 Surai, Anjarjan Tyrant
-	1 Alexei, Rime Magnarch
-	1 Elai Ascendant
-	2 Mesmer Enchantress
-	1 Fryde, Patron of Fools
-	2 Soul-Axe Veteran
-	2 Berserker's Cairn
-	1 Kallatree Reborn
-	2 Hogback Chieftain
-	2 Ardent Starcrafting
-	2 Whims of the Welkin
-	2 Living Aurora
-	1 Ourobori, Reincarnated
-	1 Kallatree Angel
-	2 Tender of the Land
-	2 Surai's Armillary
-	2 Winter's Dictate
-	2 Otherwordly Crafter
-	2 Realm Evacuation
-	2 Sigri, Kallatree Avatar
-	1 Skodir, Reborn
-	2 Teluran Portal
-	1 Njora, First Assembla
-	2 Dark Matter Kirin
-	1 Ifryn, Last Assembla
-	1 Zyxtron, the Realmslayer
-	2 Displace from Reality
-	2 Chromatic Apex
-	1 Amede, the Invoker
-	2 Deepwyn Summoning
-	2 Deep Depths Serpent
-	2 Cosmic Reaper
-	2 Emissary of the Inferno
-	2 Kallaroots Lich
-	2 Bold Bulwark
-	1 Lanion, Beyond Realms
-	1 Ingjald, Vile Calamity
-	2 Tiraan, the Uranographer
-	2 Drakkonic Scion
-	2 Predator's Wake
-	1 Galaxy Drakkon
-	2 Countervailing Drakkon
-	1 Wrath of the Empyreans
-	2 Myriad Forms
-	2 Rebel Rising
-	2 Bog Beetle
-	2 Glory of the Heavens
-	1 Moonshaker Cavalry
-	2 Starchaser
-	2 Xyvera, Who Remains
-	2 Knutr, Blighted Embrace
-	1 Katjar Peacebane
-	2 Challenge the Heavens
-	1 Convergent Cairn
-	2 Kjaldiran Cavalry
-	1 Wicked Elderspirit
-	2 Ecliptic Angel
-	2 Symbol of the Storm
-	1 Realmsieger
-	2 Self-Destruct
-	2 Reconstitute
-	2 Eirsdottir, the Insurgent
-	2 Uncharted Expanse
-	2 Talkia, Astral Current
-	1 Hoarfrost Greatwolf
-	2 Moonguard Empyrean
-	2 Frode, Assembla's Arrow
-	2 Glacial Expedition
-	2 Elderwurm's Lair
-	2 Lich's Masterpiece
-	2 Preserved Leviathan
-	1 Surge of the Ancestors
-	2 Mercurial Drakkon
-	1 Deathless Pact
-	2 Touch the Kallatree Heart
-	2 Offering to Chaos
-	2 Starforger Empyrean
-	2 Njora's Titan
-	1 Eye of the Oppressor
-	2 Age of Unceasing Ice
-	2 Binding of the Beast
-	2 Brutal Flail
-	2 Angel of Dusk and Dawn
-	1 Realmsundering
-	1 Heidra, the Deepheart
-	1 Razer of Planets
-	2 Brynhilda, the Avaricious
-	2 Tarja, Favored Keen-Eye
-	1 Anguished Creation
-	2 Vilemoon Apparition
-	2 Cosmic Oppression
-	2 Grave Seal
-	2 Throne of the Celestial Realm
-	2 Never Apart
+	5 Surai, Anjarjan Tyrant
+	5 Alexei, Rime Magnarch
+	5 Elai Ascendant
+	5 Mesmer Enchantress
+	5 Fryde, Patron of Fools
+	5 Soul-Axe Veteran
+	5 Berserker's Cairn
+	5 Kallatree Reborn
+	5 Hogback Chieftain
+	5 Ardent Starcrafting
+	5 Whims of the Welkin
+	5 Living Aurora
+	5 Ourobori, Reincarnated
+	5 Kallatree Angel
+	5 Tender of the Land
+	5 Surai's Armillary
+	5 Winter's Dictate
+	5 Otherwordly Crafter
+	5 Realm Evacuation
+	5 Sigri, Kallatree Avatar
+	5 Skodir, Reborn
+	5 Teluran Portal
+	5 Njora, First Assembla
+	5 Dark Matter Kirin
+	5 Ifryn, Last Assembla
+	5 Zyxtron, the Realmslayer
+	5 Displace from Reality
+	5 Chromatic Apex
+	5 Amede, the Invoker
+	5 Deepwyn Summoning
+	5 Deep Depths Serpent
+	5 Cosmic Reaper
+	5 Emissary of the Inferno
+	5 Kallaroots Lich
+	5 Wolf of Anjarja
+	5 Lanion, Beyond Realms
+	5 Ingjald, Vile Calamity
+	5 Tiraan, the Uranographer
+	5 Drakkonic Scion
+	5 Predator's Wake
+	5 Galaxy Drakkon
+	5 Countervailing Drakkon
+	5 Wrath of the Empyreans
+	5 Myriad Forms
+	5 Rebel Rising
+	5 Bog Beetle
+	5 Glory of the Heavens
+	5 Moonshaker Cavalry
+	5 Starchaser
+	5 Xyvera, Who Remains
+	5 Knutr, Blighted Embrace
+	5 Katjar Peacebane
+	5 Challenge the Heavens
+	5 Convergent Cairn
+	5 Kjaldiran Cavalry
+	5 Wicked Elderspirit
+	5 Ecliptic Angel
+	5 Symbol of the Storm
+	5 Realmsieger
+	5 Self-Destruct
+	5 Reconstitute
+	5 Eirsdottir, the Insurgent
+	5 Uncharted Expanse
+	5 Talkia, Astral Current
+	5 Hoarfrost Greatwolf
+	5 Moonguard Empyrean
+	5 Frode, Assembla's Arrow
+	5 Glacial Expedition
+	5 Elderwurm's Lair
+	5 Lich's Masterpiece
+	5 Preserved Leviathan
+	5 Surge of the Ancestors
+	5 Mercurial Drakkon
+	5 Deathless Pact
+	5 Touch the Kallatree Heart
+	5 Offering to Chaos
+	5 Starforger Empyrean
+	5 Njora's Titan
+	5 Eye of the Oppressor
+	5 Age of Unceasing Ice
+	5 Binding of the Beast
+	5 Brutal Flail
+	5 Angel of Dusk and Dawn
+	5 Realmsundering
+	5 Heidra, the Deepheart
+	5 Razer of Planets
+	5 Brynhilda, the Avaricious
+	5 Tarja, Favored Keen-Eye
+	5 Anguished Creation
+	5 Vilemoon Apparition
+	5 Cosmic Oppression
+	5 Grave Seal
+	5 Throne of the Celestial Realm
+	5 Never Apart
 [uncommon(3)]
-	4 Nebula Kraken
-	4 Piercing Star
-	4 Lignification
-	4 Assembla Pathfinder
-	4 Fungal Cadaver
-	4 Rimestaff Mentor
-	4 Madness in Annihilation
-	4 Charged Berserker
-	4 Aurora Harbinger
-	4 Host of Night
-	4 Cobbled Protector
-	4 Reweaving the Roots
-	4 Drakkon Boltcaster
-	4 Minor Empyrean
-	4 Arboreal Artisanry
-	4 Elvish Vitalist
-	4 Climbing the Tree
-	4 Cliffs of the Solemn Seekers
-	4 Chilling Cross
-	4 Heidra's Heartglade
-	4 Illusionist's Talent
-	4 Ifryn Unseals the Gate
-	4 Pray to the Forbidden
-	4 Cosmic Ascension
-	4 Pulsating Spire
-	4 Dawn on the Weary
-	4 Kjaldiran Elk
-	4 Returned Frostblade
-	4 Bearer of the Rage
-	4 Infested Kallaheart
-	4 Verglas Stagrider
-	4 Deathless Conscription
-	4 Elvish Branchwalker
-	4 Anjarjan Archangel
-	4 Deepwyn Lurker
-	4 Auspicious Avatar
-	4 Crimson Deathmaw
-	4 Constellamancer
-	4 Boreal Bastion
-	4 Locus Manipulator
-	4 Empyrean Inquisition
-	4 Saboteur's Display
-	4 Longboat Hunter
-	4 Celestial Vault
-	4 Frostdrakkon's Shadow
-	4 Runewarper
-	4 Unleashed Malevolence
-	4 Drakkon Tender
-	4 Convergence Pack
-	4 Empyrean Mare
-	4 Transgress Heaven
-	4 Kallaheart Commander
-	4 Blessed Dragonslayer
-	4 Resolute Starweaver
-	4 Guide the Way
-	4 Aurora Chorus
-	4 Claws of the Deepwyn
-	4 Demonic Rites
-	4 Kallaheart Fireblade
-	4 Bitter End
-	4 Deepwyn Witness
-	4 Bovi's Realmcutter
-	4 Mystic Repeal
-	4 Realmbranch Husk
-	4 Perdition
-	4 Cryodrakkon
-	4 Greedy Barbarian
-	4 Stormguide Hammer
-	4 Kin Waymarker
-	4 Storied Cairn
-	4 Comet Fox
-	4 Runed Axe
-	4 Vaunted Starmaker
-	4 Assembla's Guardian
-	4 Eager Sledrunners
-	4 Unseal the Cairn
-	4 Dark Star
-	4 Skolhan Crowcaster
-	4 Wildspark Mage
-[common(7)]
-	8 Star-Speckled Ursine
-	8 Alexei's Response
-	8 Anjarjan Adjudicator
-	8 Suncatcher Elk
-	8 Mooncrown Stag
-	8 Kallaroot Soulspinner
-	8 Smug Denial
-	8 Might of Kjaldir
-	8 Heavenly Empyrean
-	8 Aurora Charger
-	8 Icehide Golem
-	8 Solar Convert
-	8 Unbound Undead
-	8 Ritualist of Old Blood
-	8 Ascendant Binding
-	8 Deepwyn Desecrator
-	8 Purifying Perfumer
-	8 Deepfrost Citadel
-	8 Faithless Karaki
-	8 Arrested by Moonlight
-	8 Grip of the Rime
-	8 Lamplighter
-	8 Prancing Flame
-	8 True Ice Shard
-	8 Pale Life-Shadow
-	8 Chilling Presence
-	8 Snow on Empires Past
-	8 Pyrrhic Strike
-	8 Lanion's Sacrifice
-	8 Fugue Dirge
-	8 Starfang Serpent
-	8 Armillary Drakkon
-	8 Storm Drakkon
-	8 Bronzewing Sagittar
-	8 Warlock's Ire
-	8 Serpent of World's Edge
-	8 Arrow of the Heavens
-	8 Scryer's Safeguard
-	8 Realmtillers
-	8 Manifested Eclipse
-	8 Kallaheart Redeemer
-	8 Corrupted Empyrean
-	8 Hero of the Final Dawn
-	8 Mage-Warrior Prefect
-	8 Seal Away
-	8 Wandering Glacier
-	8 Frode's Messenger
-	8 Brilliance of the Heavens
-	8 Celestial Unicorn
-	8 Vestige of Spring
-	8 Haughty Empyrean
-	8 Umbral Trespasser
-	8 Skeletal Abomination
-	8 Portent of the End
-	8 Hulking Monstrosity
-	8 Slumbering Branchspeaker
-	8 Fryde's Lurker
-	8 Branchspine Serpent
-	8 Haunted Journeyman
-	8 Hunter's Stalking
-	8 Martyr's Funeral
-	8 Worthy Prey
-	8 Drakkon Egg
-	8 Entombed Blade
-	8 Realmbound Rider
-	8 Cairn Phantom
-	8 Wing-Granted Paladin
-	8 Aura of Redemption
-	8 Divine Inundation
-	8 Nova Angel
-	8 Compelling Demons
-	8 Raging Giant
-	8 Bring Ruin to the Realms
-	8 Ancestral Anger
-	8 Cloak of the Equinox
-	8 Undying Wrath
-	8 Trudge Skeleton
-	8 Tusked Snowlion
-	8 Blightlight Shaman
-	8 Welkin Communers
-	8 In Glory
-	8 Empyrean of Change
-	8 Granted Strength
-	8 Farsight Welkinborn
-	8 Moonbind Empyrean
-	8 Swift Karve
-	8 Ravenous Tracker
-	8 Heaven's Sprouting
-	8 Decisive Cry
-	8 Sungold Blade
-	8 Reshape the Heavens
-	8 Lich's Vile Throne
-	8 Restless Skeleton
-	8 Flowing Runes
-	8 Last Packmate
-	8 Ascend to Legend
-	8 Sigiled Prayer Sphere
-	8 Conjure the Snowstorm
-	8 Sleetfeather Owl
-	8 Frost Giants of Skolha
-	8 Cryomancer's Assembly
-	8 Furnace Golem
-	8 Clear the Mind
-	8 Aurora Tarn
-	8 Behemoth Gateway
-	8 Chilling Cavern
-	8 Frigid Fane
-	8 Icy Stronghold
-	8 Rime Copse
-	8 Snowy Pastures
-	8 Sunlit Whitecaps
-	8 Thawing Shipyward
-	8 Training Spires
-[foil(1)]
-	12 Star-Speckled Ursine
-	1 Surai, Anjarjan Tyrant
-	6 Nebula Kraken
-	6 Piercing Star
-	1 Alexei, Rime Magnarch
-	6 Lignification
-	1 Elai Ascendant
-	12 Alexei's Response
-	12 Anjarjan Adjudicator
-	12 Suncatcher Elk
-	6 Assembla Pathfinder
-	12 Mooncrown Stag
-	12 Kallaroot Soulspinner
-	12 Smug Denial
-	6 Fungal Cadaver
-	6 Rimestaff Mentor
-	12 Might of Kjaldir
-	12 Heavenly Empyrean
-	2 Mesmer Enchantress
-	12 Aurora Charger
-	12 Icehide Golem
-	6 Madness in Annihilation
-	1 Fryde, Patron of Fools
-	2 Soul-Axe Veteran
-	12 Solar Convert
-	6 Charged Berserker
-	2 Berserker's Cairn
-	12 Unbound Undead
-	12 Ritualist of Old Blood
-	6 Aurora Harbinger
-	1 Kallatree Reborn
-	6 Host of Night
-	12 Ascendant Binding
-	2 Hogback Chieftain
-	6 Cobbled Protector
-	12 Deepwyn Desecrator
-	12 Purifying Perfumer
-	6 Reweaving the Roots
-	6 Drakkon Boltcaster
-	6 Minor Empyrean
-	2 Ardent Starcrafting
-	12 Deepfrost Citadel
-	6 Arboreal Artisanry
-	2 Whims of the Welkin
-	12 Faithless Karaki
-	2 Living Aurora
-	1 Ourobori, Reincarnated
-	6 Elvish Vitalist
-	6 Climbing the Tree
-	1 Kallatree Angel
-	2 Tender of the Land
-	12 Arrested by Moonlight
-	2 Surai's Armillary
-	12 Grip of the Rime
-	6 Cliffs of the Solemn Seekers
-	6 Chilling Cross
-	2 Winter's Dictate
-	2 Otherwordly Crafter
-	2 Realm Evacuation
-	2 Sigri, Kallatree Avatar
-	6 Heidra's Heartglade
-	12 Lamplighter
-	6 Illusionist's Talent
-	1 Skodir, Reborn
-	12 Prancing Flame
-	2 Teluran Portal
-	1 Njora, First Assembla
-	2 Dark Matter Kirin
-	1 Ifryn, Last Assembla
-	6 Ifryn Unseals the Gate
-	1 Zyxtron, the Realmslayer
-	2 Displace from Reality
-	2 Chromatic Apex
-	1 Amede, the Invoker
-	2 Deepwyn Summoning
-	6 Pray to the Forbidden
-	2 Deep Depths Serpent
-	2 Cosmic Reaper
-	2 Emissary of the Inferno
-	2 Kallaroots Lich
-	6 Cosmic Ascension
-	6 Pulsating Spire
-	2 Bold Bulwark
-	6 Dawn on the Weary
-	12 True Ice Shard
-	6 Kjaldiran Elk
-	12 Pale Life-Shadow
-	12 Chilling Presence
-	6 Returned Frostblade
-	6 Bearer of the Rage
-	6 Infested Kallaheart
-	6 Verglas Stagrider
-	6 Deathless Conscription
-	6 Elvish Branchwalker
-	6 Anjarjan Archangel
-	6 Deepwyn Lurker
-	12 Snow on Empires Past
-	1 Lanion, Beyond Realms
-	12 Pyrrhic Strike
-	12 Lanion's Sacrifice
-	1 Ingjald, Vile Calamity
-	2 Tiraan, the Uranographer
-	12 Fugue Dirge
-	2 Drakkonic Scion
-	2 Predator's Wake
-	1 Galaxy Drakkon
-	6 Auspicious Avatar
-	12 Starfang Serpent
-	2 Countervailing Drakkon
-	12 Armillary Drakkon
-	6 Crimson Deathmaw
-	1 Wrath of the Empyreans
-	2 Myriad Forms
-	6 Constellamancer
-	12 Storm Drakkon
-	2 Rebel Rising
-	6 Boreal Bastion
-	2 Bog Beetle
-	12 Bronzewing Sagittar
-	2 Glory of the Heavens
-	6 Locus Manipulator
-	1 Moonshaker Cavalry
-	12 Warlock's Ire
-	12 Serpent of World's Edge
-	6 Empyrean Inquisition
-	6 Saboteur's Display
-	12 Arrow of the Heavens
-	2 Starchaser
-	2 Xyvera, Who Remains
-	2 Knutr, Blighted Embrace
-	6 Longboat Hunter
-	1 Katjar Peacebane
-	6 Celestial Vault
-	12 Scryer's Safeguard
-	6 Frostdrakkon's Shadow
-	6 Runewarper
-	6 Unleashed Malevolence
-	2 Challenge the Heavens
-	1 Convergent Cairn
-	2 Kjaldiran Cavalry
-	6 Drakkon Tender
-	6 Convergence Pack
-	1 Wicked Elderspirit
-	12 Realmtillers
-	2 Ecliptic Angel
-	2 Symbol of the Storm
-	6 Empyrean Mare
-	12 Manifested Eclipse
-	6 Transgress Heaven
-	6 Kallaheart Commander
-	6 Blessed Dragonslayer
-	1 Realmsieger
-	2 Self-Destruct
-	12 Kallaheart Redeemer
-	12 Corrupted Empyrean
-	12 Hero of the Final Dawn
-	12 Mage-Warrior Prefect
-	2 Reconstitute
-	6 Resolute Starweaver
-	12 Seal Away
-	2 Eirsdottir, the Insurgent
-	12 Wandering Glacier
-	2 Uncharted Expanse
-	6 Guide the Way
-	2 Talkia, Astral Current
-	1 Hoarfrost Greatwolf
-	2 Moonguard Empyrean
-	2 Frode, Assembla's Arrow
-	2 Glacial Expedition
-	2 Elderwurm's Lair
-	12 Frode's Messenger
-	12 Brilliance of the Heavens
-	12 Celestial Unicorn
-	12 Vestige of Spring
-	6 Aurora Chorus
-	12 Haughty Empyrean
-	12 Umbral Trespasser
-	2 Lich's Masterpiece
-	2 Preserved Leviathan
-	1 Surge of the Ancestors
-	2 Mercurial Drakkon
-	12 Skeletal Abomination
-	12 Portent of the End
-	12 Hulking Monstrosity
-	12 Slumbering Branchspeaker
-	12 Fryde's Lurker
-	6 Claws of the Deepwyn
-	12 Branchspine Serpent
-	12 Haunted Journeyman
-	12 Hunter's Stalking
-	6 Demonic Rites
-	1 Deathless Pact
-	2 Touch the Kallatree Heart
-	2 Offering to Chaos
-	2 Starforger Empyrean
-	2 Njora's Titan
-	1 Eye of the Oppressor
-	6 Kallaheart Fireblade
-	12 Martyr's Funeral
-	6 Bitter End
-	6 Deepwyn Witness
-	6 Bovi's Realmcutter
-	6 Mystic Repeal
-	6 Realmbranch Husk
-	12 Worthy Prey
-	2 Age of Unceasing Ice
-	6 Perdition
-	6 Cryodrakkon
-	12 Drakkon Egg
-	2 Binding of the Beast
-	2 Brutal Flail
-	12 Entombed Blade
-	12 Realmbound Rider
-	12 Cairn Phantom
-	12 Wing-Granted Paladin
-	12 Aura of Redemption
-	12 Divine Inundation
-	12 Nova Angel
-	12 Compelling Demons
-	12 Raging Giant
-	12 Bring Ruin to the Realms
-	6 Greedy Barbarian
-	12 Ancestral Anger
-	12 Cloak of the Equinox
-	6 Stormguide Hammer
-	12 Undying Wrath
-	12 Trudge Skeleton
-	12 Tusked Snowlion
-	12 Blightlight Shaman
-	12 Welkin Communers
-	12 In Glory
-	12 Empyrean of Change
-	12 Granted Strength
-	2 Angel of Dusk and Dawn
-	1 Realmsundering
-	6 Kin Waymarker
-	1 Heidra, the Deepheart
-	6 Storied Cairn
-	6 Comet Fox
-	6 Runed Axe
-	6 Vaunted Starmaker
-	1 Razer of Planets
-	6 Assembla's Guardian
-	6 Eager Sledrunners
-	2 Brynhilda, the Avaricious
-	12 Farsight Welkinborn
-	12 Moonbind Empyrean
-	2 Tarja, Favored Keen-Eye
-	12 Swift Karve
-	12 Ravenous Tracker
-	12 Heaven's Sprouting
-	1 Anguished Creation
-	12 Decisive Cry
-	12 Sungold Blade
-	12 Reshape the Heavens
-	12 Lich's Vile Throne
-	6 Unseal the Cairn
-	6 Dark Star
-	12 Restless Skeleton
-	12 Flowing Runes
-	12 Last Packmate
-	12 Ascend to Legend
-	12 Sigiled Prayer Sphere
-	12 Conjure the Snowstorm
-	12 Sleetfeather Owl
-	12 Frost Giants of Skolha
-	12 Cryomancer's Assembly
-	6 Skolhan Crowcaster
-	6 Wildspark Mage
-	2 Vilemoon Apparition
-	12 Furnace Golem
-	12 Clear the Mind
-	2 Cosmic Oppression
-	2 Grave Seal
-	2 Throne of the Celestial Realm
-	12 Aurora Tarn
-	12 Behemoth Gateway
-	12 Chilling Cavern
-	12 Frigid Fane
-	12 Icy Stronghold
-	12 Rime Copse
-	12 Snowy Pastures
-	12 Sunlit Whitecaps
-	12 Thawing Shipyward
-	12 Training Spires
-	2 Never Apart
-[wildcard(1)]
-	6 Star-Speckled Ursine
-	4 Surai, Anjarjan Tyrant
-	15 Nebula Kraken
-	15 Piercing Star
-	4 Alexei, Rime Magnarch
-	15 Lignification
-	4 Elai Ascendant
-	6 Alexei's Response
-	6 Anjarjan Adjudicator
-	6 Suncatcher Elk
-	15 Assembla Pathfinder
-	6 Mooncrown Stag
-	6 Kallaroot Soulspinner
-	6 Smug Denial
-	15 Fungal Cadaver
-	15 Rimestaff Mentor
-	6 Might of Kjaldir
-	6 Heavenly Empyrean
-	7 Mesmer Enchantress
-	6 Aurora Charger
-	6 Icehide Golem
-	15 Madness in Annihilation
-	4 Fryde, Patron of Fools
-	7 Soul-Axe Veteran
-	6 Solar Convert
-	15 Charged Berserker
-	7 Berserker's Cairn
-	6 Unbound Undead
-	6 Ritualist of Old Blood
-	15 Aurora Harbinger
-	4 Kallatree Reborn
-	15 Host of Night
-	6 Ascendant Binding
-	7 Hogback Chieftain
-	15 Cobbled Protector
-	6 Deepwyn Desecrator
-	6 Purifying Perfumer
-	15 Reweaving the Roots
-	15 Drakkon Boltcaster
-	15 Minor Empyrean
-	7 Ardent Starcrafting
-	6 Deepfrost Citadel
-	15 Arboreal Artisanry
-	7 Whims of the Welkin
-	6 Faithless Karaki
-	7 Living Aurora
-	4 Ourobori, Reincarnated
-	15 Elvish Vitalist
-	15 Climbing the Tree
-	4 Kallatree Angel
-	7 Tender of the Land
-	6 Arrested by Moonlight
-	7 Surai's Armillary
-	6 Grip of the Rime
-	15 Cliffs of the Solemn Seekers
-	15 Chilling Cross
-	7 Winter's Dictate
-	7 Otherwordly Crafter
-	7 Realm Evacuation
-	7 Sigri, Kallatree Avatar
-	15 Heidra's Heartglade
-	6 Lamplighter
-	15 Illusionist's Talent
-	4 Skodir, Reborn
-	6 Prancing Flame
-	7 Teluran Portal
-	4 Njora, First Assembla
-	7 Dark Matter Kirin
-	4 Ifryn, Last Assembla
-	15 Ifryn Unseals the Gate
-	4 Zyxtron, the Realmslayer
-	7 Displace from Reality
-	7 Chromatic Apex
-	4 Amede, the Invoker
-	7 Deepwyn Summoning
-	15 Pray to the Forbidden
-	7 Deep Depths Serpent
-	7 Cosmic Reaper
-	7 Emissary of the Inferno
-	7 Kallaroots Lich
-	15 Cosmic Ascension
-	15 Pulsating Spire
-	7 Bold Bulwark
-	15 Dawn on the Weary
-	6 True Ice Shard
-	15 Kjaldiran Elk
-	6 Pale Life-Shadow
-	6 Chilling Presence
-	15 Returned Frostblade
-	15 Bearer of the Rage
-	15 Infested Kallaheart
-	15 Verglas Stagrider
-	15 Deathless Conscription
-	15 Elvish Branchwalker
-	15 Anjarjan Archangel
-	15 Deepwyn Lurker
-	6 Snow on Empires Past
-	4 Lanion, Beyond Realms
-	6 Pyrrhic Strike
-	6 Lanion's Sacrifice
-	4 Ingjald, Vile Calamity
-	7 Tiraan, the Uranographer
-	6 Fugue Dirge
-	7 Drakkonic Scion
-	7 Predator's Wake
-	4 Galaxy Drakkon
-	15 Auspicious Avatar
-	6 Starfang Serpent
-	7 Countervailing Drakkon
-	6 Armillary Drakkon
-	15 Crimson Deathmaw
-	4 Wrath of the Empyreans
-	7 Myriad Forms
-	15 Constellamancer
-	6 Storm Drakkon
-	7 Rebel Rising
-	15 Boreal Bastion
-	7 Bog Beetle
-	6 Bronzewing Sagittar
-	7 Glory of the Heavens
-	15 Locus Manipulator
-	4 Moonshaker Cavalry
-	6 Warlock's Ire
-	6 Serpent of World's Edge
-	15 Empyrean Inquisition
-	15 Saboteur's Display
-	6 Arrow of the Heavens
-	7 Starchaser
-	7 Xyvera, Who Remains
-	7 Knutr, Blighted Embrace
-	15 Longboat Hunter
-	4 Katjar Peacebane
-	15 Celestial Vault
-	6 Scryer's Safeguard
-	15 Frostdrakkon's Shadow
-	15 Runewarper
-	15 Unleashed Malevolence
-	7 Challenge the Heavens
-	4 Convergent Cairn
-	7 Kjaldiran Cavalry
-	15 Drakkon Tender
-	15 Convergence Pack
-	4 Wicked Elderspirit
-	6 Realmtillers
-	7 Ecliptic Angel
-	7 Symbol of the Storm
-	15 Empyrean Mare
-	6 Manifested Eclipse
-	15 Transgress Heaven
-	15 Kallaheart Commander
-	15 Blessed Dragonslayer
-	4 Realmsieger
-	7 Self-Destruct
-	6 Kallaheart Redeemer
-	6 Corrupted Empyrean
-	6 Hero of the Final Dawn
-	6 Mage-Warrior Prefect
-	7 Reconstitute
-	15 Resolute Starweaver
-	6 Seal Away
-	7 Eirsdottir, the Insurgent
-	6 Wandering Glacier
-	7 Uncharted Expanse
-	15 Guide the Way
-	7 Talkia, Astral Current
-	4 Hoarfrost Greatwolf
-	7 Moonguard Empyrean
-	7 Frode, Assembla's Arrow
-	7 Glacial Expedition
-	7 Elderwurm's Lair
-	6 Frode's Messenger
-	6 Brilliance of the Heavens
-	6 Celestial Unicorn
-	6 Vestige of Spring
-	15 Aurora Chorus
-	6 Haughty Empyrean
-	6 Umbral Trespasser
-	7 Lich's Masterpiece
-	7 Preserved Leviathan
-	4 Surge of the Ancestors
-	7 Mercurial Drakkon
-	6 Skeletal Abomination
-	6 Portent of the End
-	6 Hulking Monstrosity
-	6 Slumbering Branchspeaker
-	6 Fryde's Lurker
-	15 Claws of the Deepwyn
-	6 Branchspine Serpent
-	6 Haunted Journeyman
-	6 Hunter's Stalking
-	15 Demonic Rites
-	4 Deathless Pact
-	7 Touch the Kallatree Heart
-	7 Offering to Chaos
-	7 Starforger Empyrean
-	7 Njora's Titan
-	4 Eye of the Oppressor
-	15 Kallaheart Fireblade
-	6 Martyr's Funeral
-	15 Bitter End
-	15 Deepwyn Witness
-	15 Bovi's Realmcutter
-	15 Mystic Repeal
-	15 Realmbranch Husk
-	6 Worthy Prey
-	7 Age of Unceasing Ice
-	15 Perdition
-	15 Cryodrakkon
-	6 Drakkon Egg
-	7 Binding of the Beast
-	7 Brutal Flail
-	6 Entombed Blade
-	6 Realmbound Rider
-	6 Cairn Phantom
-	6 Wing-Granted Paladin
-	6 Aura of Redemption
-	6 Divine Inundation
-	6 Nova Angel
-	6 Compelling Demons
-	6 Raging Giant
-	6 Bring Ruin to the Realms
-	15 Greedy Barbarian
-	6 Ancestral Anger
-	6 Cloak of the Equinox
-	15 Stormguide Hammer
-	6 Undying Wrath
-	6 Trudge Skeleton
-	6 Tusked Snowlion
-	6 Blightlight Shaman
-	6 Welkin Communers
-	6 In Glory
-	6 Empyrean of Change
-	6 Granted Strength
-	7 Angel of Dusk and Dawn
-	4 Realmsundering
-	15 Kin Waymarker
-	4 Heidra, the Deepheart
-	15 Storied Cairn
-	15 Comet Fox
-	15 Runed Axe
-	15 Vaunted Starmaker
-	4 Razer of Planets
-	15 Assembla's Guardian
-	15 Eager Sledrunners
-	7 Brynhilda, the Avaricious
-	6 Farsight Welkinborn
-	6 Moonbind Empyrean
-	7 Tarja, Favored Keen-Eye
-	6 Swift Karve
-	6 Ravenous Tracker
-	6 Heaven's Sprouting
-	4 Anguished Creation
-	6 Decisive Cry
-	6 Sungold Blade
-	6 Reshape the Heavens
-	6 Lich's Vile Throne
-	15 Unseal the Cairn
-	15 Dark Star
-	6 Restless Skeleton
-	6 Flowing Runes
-	6 Last Packmate
-	6 Ascend to Legend
-	6 Sigiled Prayer Sphere
-	6 Conjure the Snowstorm
-	6 Sleetfeather Owl
-	6 Frost Giants of Skolha
-	6 Cryomancer's Assembly
-	15 Skolhan Crowcaster
-	15 Wildspark Mage
-	7 Vilemoon Apparition
-	6 Furnace Golem
-	6 Clear the Mind
-	7 Cosmic Oppression
-	7 Grave Seal
-	7 Throne of the Celestial Realm
-	6 Aurora Tarn
-	6 Behemoth Gateway
-	6 Chilling Cavern
-	6 Frigid Fane
-	6 Icy Stronghold
-	6 Rime Copse
-	6 Snowy Pastures
-	6 Sunlit Whitecaps
-	6 Thawing Shipyward
-	6 Training Spires
-	7 Never Apart
+	5 Nebula Kraken
+	5 Piercing Star
+	5 Lignification
+	5 Assembla Pathfinder
+	5 Fungal Cadaver
+	5 Rimestaff Mentor
+	5 Madness in Annihilation
+	5 Charged Berserker
+	5 Aurora Harbinger
+	5 Host of Night
+	5 Cobbled Protector
+	5 Reweaving the Roots
+	5 Drakkon Boltcaster
+	5 Minor Empyrean
+	5 Arboreal Artisanry
+	5 Elvish Vitalist
+	5 Climbing the Tree
+	5 Cliffs of the Solemn Seekers
+	5 Chilling Cross
+	5 Heidra's Heartglade
+	5 Illusionist's Talent
+	5 Ifryn Unseals the Gate
+	5 Pray to the Forbidden
+	5 Cosmic Ascension
+	5 Pulsating Spire
+	5 Dawn on the Weary
+	5 Kjaldiran Elk
+	5 Returned Frostblade
+	5 Bearer of the Rage
+	5 Infested Kallaheart
+	5 Verglas Stagrider
+	5 Deathless Conscription
+	5 Elvish Branchwalker
+	5 Anjarjan Archangel
+	5 Deepwyn Lurker
+	5 Auspicious Avatar
+	5 Crimson Deathmaw
+	5 Constellamancer
+	5 Boreal Bastion
+	5 Locus Manipulator
+	5 Empyrean Inquisition
+	5 Saboteur's Display
+	5 Longboat Hunter
+	5 Celestial Vault
+	5 Frostdrakkon's Shadow
+	5 Runewarper
+	5 Unleashed Malevolence
+	5 Drakkon Tender
+	5 Convergence Pack
+	5 Empyrean Mare
+	5 Transgress Heaven
+	5 Kallaheart Commander
+	5 Blessed Dragonslayer
+	5 Resolute Starweaver
+	5 Guide the Way
+	5 Aurora Chorus
+	5 Claws of the Deepwyn
+	5 Demonic Rites
+	5 Kallaheart Hunter
+	5 Bitter End
+	5 Deepwyn Witness
+	5 Bovi's Realmcutter
+	5 Mystic Repeal
+	5 Realmbranch Husk
+	5 Perdition
+	5 Cryodrakkon
+	5 Greedy Barbarian
+	5 Stormguide Hammer
+	5 Kin Waymarker
+	5 Storied Cairn
+	5 Comet Fox
+	5 Runed Axe
+	5 Vaunted Starmaker
+	5 Assembla's Guardian
+	5 Eager Sledrunners
+	5 Unseal the Cairn
+	5 Dark Star
+	5 Skolhan Crowcaster
+	5 Wildspark Mage
+[common(10)]
+	5 Star-Speckled Ursine
+	5 Alexei's Response
+	5 Anjarjan Adjudicator
+	5 Suncatcher Elk
+	5 Mooncrown Stag
+	5 Kallaroot Soulspinner
+	5 Smug Denial
+	5 Might of Kjaldir
+	5 Heavenly Empyrean
+	5 Aurora Charger
+	5 Icehide Golem
+	5 Solar Convert
+	5 Unbound Undead
+	5 Ritualist of Old Blood
+	5 Ascendant Binding
+	5 Deepwyn Desecrator
+	5 Purifying Perfumer
+	5 Deepfrost Citadel
+	5 Faithless Karaki
+	5 Arrested by Moonlight
+	5 Grip of the Rime
+	5 Lamplighter
+	5 Prancing Flame
+	5 True Ice Shard
+	5 Pale Life-Shadow
+	5 Chilling Presence
+	5 Snow on Empires Past
+	5 Pyrrhic Strike
+	5 Lanion's Sacrifice
+	5 Fugue Dirge
+	5 Starfang Serpent
+	5 Armillary Drakkon
+	5 Storm Drakkon
+	5 Bronzewing Sagittar
+	5 Warlock's Ire
+	5 Serpent of World's Edge
+	5 Arrow of the Heavens
+	5 Scryer's Safeguard
+	5 Realmtillers
+	5 Manifested Eclipse
+	5 Kallaheart Redeemer
+	5 Corrupted Empyrean
+	5 Hero of the Final Dawn
+	5 Mage-Warrior Prefect
+	5 Seal Away
+	5 Wandering Glacier
+	5 Frode's Messenger
+	5 Brilliance of the Heavens
+	5 Celestial Unicorn
+	5 Vestige of Spring
+	5 Haughty Empyrean
+	5 Umbral Trespasser
+	5 Skeletal Abomination
+	5 Portent of the End
+	5 Hulking Monstrosity
+	5 Slumbering Branchspeaker
+	5 Fryde's Lurker
+	5 Branchspine Serpent
+	5 Haunted Journeyman
+	5 Hunter's Stalking
+	5 Martyr's Funeral
+	5 Worthy Prey
+	5 Drakkon Egg
+	5 Entombed Blade
+	5 Realmbound Rider
+	5 Cairn Phantom
+	5 Wing-Granted Paladin
+	5 Aura of Redemption
+	5 Divine Inundation
+	5 Nova Angel
+	5 Compelling Demons
+	5 Raging Giant
+	5 Bring Ruin to the Realms
+	5 Ancestral Anger
+	5 Cloak of the Equinox
+	5 Undying Wrath
+	5 Trudge Skeleton
+	5 Tusked Snowlion
+	5 Blightlight Shaman
+	5 Welkin Communers
+	5 In Glory
+	5 Empyrean of Change
+	5 Granted Strength
+	5 Farsight Welkinborn
+	5 Moonbind Empyrean
+	5 Swift Karve
+	5 Ravenous Tracker
+	5 Heaven's Sprouting
+	5 Decisive Cry
+	5 Sungold Blade
+	5 Reshape the Heavens
+	5 Lich's Vile Throne
+	5 Restless Skeleton
+	5 Flowing Runes
+	5 Last Packmate
+	5 Ascend to Legend
+	5 Sigiled Prayer Sphere
+	5 Conjure the Snowstorm
+	5 Sleetfeather Owl
+	5 Frost Giants of Skolha
+	5 Cryomancer's Assembly
+	5 Furnace Golem
+	5 Clear the Mind
+	5 Aurora Tarn
+	5 Behemoth Gateway
+	5 Chilling Cavern
+	5 Frigid Fane
+	5 Icy Stronghold
+	5 Rime Copse
+	5 Snowy Pastures
+	5 Sunlit Whitecaps
+	5 Thawing Shipyward
+	5 Training Spires

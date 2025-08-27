@@ -1,4 +1,14 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Burn It All Down
+rules_text: Whenever a source you control deals noncombat damage to an opponent, you may exile that many cards from the top of your library.
+Once during each of your turns, you may play a card exiled with this enchantment this turn. => Whenever a source you control deals noncombat damage to a player, you may add that much {R}. Do this only once each turn.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

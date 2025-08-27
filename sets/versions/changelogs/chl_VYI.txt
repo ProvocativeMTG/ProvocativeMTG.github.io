@@ -1,4 +1,17 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Mirrorscreen Vampire
+rules_text: Lifelink
+When this creature enters, each opponent loses life equal to the amount of life they lost this turn.
+Orbit 3—{3}{W}{B} [i]({3}{W}{B}, Exile this card from your hand: Put three charge counters on it. Once during each of your turns, you may cast a copy of this card without paying its mana cost by removing a charge counter from it. Orbit only as a sorcery.)[/i] => Lifelink
+When this creature enters, each opponent loses life equal to the amount of life you gained this turn.
+Orbit 3—{3}{W}{B} [i]({3}{W}{B}, Exile this card from your hand: Put three charge counters on it. Once during each of your turns, you may cast a copy of this card without paying its mana cost by removing a charge counter from it. Orbit only as a sorcery.)[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

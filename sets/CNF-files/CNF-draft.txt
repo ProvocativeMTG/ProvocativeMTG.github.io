@@ -3203,925 +3203,311 @@
 	]
 
 [rare(1)]
-	1 Prince Irakan, Heir to Dust
-	1 The Crown of Stars
-	2 Tsubasa, Blessed Blade
-	2 Dahlia, Blossom of Heresy
-	2 Kinn, the Clone
-	2 Move Heaven and Earth
-	2 Kallatree's Offshoot
-	2 Ayeshi, Eternal Archmage
-	1 Deliverance, Jewel of Telura
-	2 Burn It All Down
-	1 Elai and Lanion
-	2 Tzuhan, the Peacock
-	2 Vragut, Molten Monarch
-	2 Elai, Scion of the Stars
-	2 Lanion, Scion of the Umbra
-	2 Finnigan, Half-Fae Prince
-	2 Sylvua, Ancient Potentate
-	2 Confounding Kraken
-	1 Aurora Draconis
-	2 Everything Changes
-	2 Seishin-Boon Titan
-	2 Tidebreaker Leviathan
-	2 Giyama, Servant of Telura
-	2 Loom of a New World
-	2 Tanavir, Simulacra Ascetic
-	2 Endless Perfect Legions
-	2 Kai, the Origamist
-	2 Ecliptic Ending
-	2 Ourobori, Seishin-Fused
-	2 Zaender, Shattered Mind
-	2 Elphaen, Servant of Telura
-	2 Amede, Kallatree Speaker
-	1 Prince Irakan's Wish
-	2 Obsession, Lingering Shade
-	1 Warped Matterdancer
-	2 Invoker's Voidlord
-	2 Teluran Void
-	1 Brilliant Incursion
-	1 New Genesis
-	2 Commander Norara
-	2 Heaven's Hammerbearer
-	2 Champion of Confluence
-	2 Threadweaver Icon
-	1 Oblivion Cradle
-	2 Kinetic Cadaver
-	2 Shiori, Frostfire Kitsune
-	1 Dictate of the Heavens
-	2 Empyrean Wingserpent
-	2 Kaecil, the Starspeaker
-	2 Sojourner's Gateway
-	2 Slumbering Titanyard
-	2 Fruitless Paradise
-	2 Seat of the Last Empire
-	2 Bastion of Light
-	2 Dancing Rakshasa
-	1 Emperor's Attendant
-	1 Duskwing Inferno
-	2 Skodir, Uniter of Realms
-	2 Therisi, Her Soul Aflame
-	2 Risa, Ender of Empires
-	2 Missira, Heir to War
-	2 Alexei, Eye of the Storm
-	2 Archengine Ascendant
-	2 Rallying the Titans
-	2 Goldblossom Angel
-	2 Ghostlight Infiltrator
-	2 Hero of Sol Cuesta
-	2 Ironblood Jarl
-	1 Port Goliath
-	2 Beacon of Horizons
-	2 Usurper Program
-	2 Set the Heavens Ablaze
-	1 Singularity Courser
-	1 Blazing Knight-Errant
-	2 Nataltha, the Dark Star
-	2 Augmented Bankbuster
-	2 Enigma Variant
-	2 Malevolent Eradicator
-	2 Sunpiercer Blade
-	2 Eira, Immortal Champion
-	2 Fused Eviscerator
-	2 Pharai, Twin Fangs
-	2 Izhan, Last Piece of the Puzzle
-	2 High Magistrate Sonli
-	1 Sword of Dreams and Empire
-	1 Umbral Parturition
-	2 Terralight Stag
-	1 Sol Cuesta, Ignited Crucible
-	2 Obsession's Devourer
-	2 Tandem Feat
-	2 Encounter with the Sentinel
-	2 Trapped in the Umbra
-	1 The Radiance Zone
-	1 Consuming Ruin
-	2 All Things to Oblivion
-	2 Escaping A World's End
-	1 Tarre, Hands That Feed
-	1 Chosen Valiant
-	2 Wraith's Hijacking
-	2 Acolyte of Sylvua
-	2 Crux of Augmentation
-	2 Asher, Heron Champion
-	2 Battleworn Commander
-	2 Brutagan, Tarruk's Heir
-	2 Reydia, Umbral Augur
-	1 Stormmane Drakkon
-	1 Command the Cosmos
-	1 Rebuild What Is Lost
-	1 Embodiment of Life
+	5 Prince Irakan, Heir to Dust
+	5 The Crown of Stars
+	5 Tsubasa, Blessed Blade
+	5 Dahlia, Blossom of Heresy
+	5 Kinn, the Clone
+	5 Move Heaven and Earth
+	5 Kallatree's Offshoot
+	5 Ayeshi, Eternal Archmage
+	5 Deliverance, Jewel of Telura
+	5 Burn It All Down
+	5 Elai and Lanion
+	5 Tzuhan, the Peacock
+	5 Vragut, Molten Monarch
+	5 Elai, Scion of the Stars
+	5 Lanion, Scion of the Umbra
+	5 Finnigan, Half-Fae Prince
+	5 Sylvua, Ancient Potentate
+	5 Confounding Kraken
+	5 Aurora Draconis
+	5 Everything Changes
+	5 Seishin-Boon Titan
+	5 Tidebreaker Leviathan
+	5 Giyama, Servant of Telura
+	5 Loom of a New World
+	5 Tanavir, Simulacra Ascetic
+	5 Endless Perfect Legions
+	5 Kai, the Origamist
+	5 Ecliptic Ending
+	5 Ourobori, Seishin-Fused
+	5 Zaender, Shattered Mind
+	5 Elphaen, Servant of Telura
+	5 Amede, Kallatree Speaker
+	5 Prince Irakan's Wish
+	5 Obsession, Lingering Shade
+	5 Warped Matterdancer
+	5 Invoker's Voidlord
+	5 Teluran Void
+	5 Brilliant Incursion
+	5 New Genesis
+	5 Commander Norara
+	5 Heaven's Hammerbearer
+	5 Champion of Confluence
+	5 Threadweaver Icon
+	5 Oblivion Cradle
+	5 Kinetic Cadaver
+	5 Shiori, Frostfire Kitsune
+	5 Dictate of the Heavens
+	5 Empyrean Wingserpent
+	5 Kaecil, the Starspeaker
+	5 Sojourner's Gateway
+	5 Slumbering Titanyard
+	5 Fruitless Paradise
+	5 Seat of the Last Empire
+	5 Bastion of Light
+	5 Dancing Rakshasa
+	5 Emperor's Attendant
+	5 Duskwing Inferno
+	5 Skodir, Uniter of Realms
+	5 Therisi, Her Soul Aflame
+	5 Risa, Ender of Empires
+	5 Missira, Heir to War
+	5 Alexei, Eye of the Storm
+	5 Archengine Ascendant
+	5 Rallying the Titans
+	5 Goldblossom Angel
+	5 Ghostlight Infiltrator
+	5 Hero of Sol Cuesta
+	5 Ironblood Jarl
+	5 Port Goliath
+	5 Beacon of Horizons
+	5 Usurper Program
+	5 Set the Heavens Ablaze
+	5 Singularity Courser
+	5 Blazing Knight-Errant
+	5 Nataltha, the Dark Star
+	5 Augmented Bankbuster
+	5 Enigma Variant
+	5 Malevolent Eradicator
+	5 Sunpiercer Blade
+	5 Eira, Immortal Champion
+	5 Fused Eviscerator
+	5 Pharai, Twin Fangs
+	5 Izhan, Last Piece of the Puzzle
+	5 High Magistrate Sonli
+	5 Sword of Dreams and Empire
+	5 Umbral Parturition
+	5 Terralight Stag
+	5 Sol Cuesta, Ignited Crucible
+	5 Obsession's Devourer
+	5 Tandem Feat
+	5 Encounter with the Sentinel
+	5 Trapped in the Umbra
+	5 The Radiance Zone
+	5 Consuming Ruin
+	5 All Things to Oblivion
+	5 Escaping A World's End
+	5 Tarre, Hands That Feed
+	5 Chosen Valiant
+	5 Wraith's Hijacking
+	5 Acolyte of Sylvua
+	5 Crux of Augmentation
+	5 Asher, Heron Champion
+	5 Battleworn Commander
+	5 Brutagan, Tarruk's Heir
+	5 Reydia, Umbral Augur
+	5 Stormmane Drakkon
+	5 Command the Cosmos
+	5 Rebuild What Is Lost
+	5 Embodiment of Life
 [uncommon(3)]
-	4 Angel of Purpose
-	4 Slaughter's Shadow
-	4 Heart of the Deliverance
-	4 Planar Lockdown
-	4 Teluran Vanguard
-	4 Inscrutable Dancer
-	4 Council Speaker
-	4 Lure to Doom
-	4 Infectious Intelligence
-	4 Reality Rifts
-	4 Kimja Reckoner
-	4 Blighteater Lynxstag
-	4 Magister of Control
-	4 Engineered Worldsweeper
-	4 Heavencraft Gavel
-	4 Kiln of the Astral Flame
-	4 Tideweave Avatar
-	4 Enter the Avatar
-	4 Teluran Imperiarch
-	4 Terralight Smithy
-	4 Shrine to the Great Tree
-	4 Shrine to the Royal Family
-	4 Shrine to the Machine
-	4 Wise Runecaster
-	4 Patchwork Summons
-	4 Ionization Protocol
-	4 Dissolve into History
-	4 Inspired Resurrection
-	4 Calamitous Premonition
-	4 Lioncrest Hero
-	4 Chromatic Goggles
-	4 Gildleaf Unifier
-	4 Brackbloom Titan
-	4 Ravencorps Reavers
-	4 Portal Ring
-	4 Repeated Refusal
-	4 Gleaming Praetor
-	4 Become One with Telura
-	4 Oni-Power Production
-	4 Crested Raven
-	4 Guardian of the Cosmos
-	4 Drag Life into the Umbra
-	4 Darkhelm Karaki
-	4 Kallawarden Ancient
-	4 Shrine to the Spirit Realm
-	4 Shrine to the Divine
-	4 Firestorm Evangelist
-	4 Sol Cuesta Cavalry
-	4 Lady of the Inlet
-	4 Clearcut
-	4 Familiar Summoner
-	4 Playing with Portals
-	4 Seeds of a Dream
-	4 Absorption Matrix
-	4 Simian Swordmaster
-	4 Shake the Earth
-	4 Stormwake Dragon
-	4 Breaching the Stream
-	4 Constellar Deer
-	4 Union of Root and Steel
-	4 Wyrmflame Knight
-	4 Recovering the Pieces
-	4 Machinist of Souls
-	4 Earthreaver Drakkon
-	4 Searchlight Scout
-	4 Converted Ritualist
-	4 Vaunted Shinobi
-	4 Zydith's Adjudicator
-	4 Velheart Communer
-	4 Furtive Scrollkeeper
-	4 Crucible Druid
-	4 Blastfire Smith
-	4 Cursed Orb Oni
-	4 Bell-Clad Exponent
-	4 Shadow in the Psyche
-	4 Lies Revealed
-	4 Titan of Skolhan Pass
-	4 Ascendant Thaumaturge
-	4 In Full Bloom
-	4 Charged Gauntlets
-	4 Demonic Majesty
-	4 Sheltering the Light
-	4 The Locus of the Storm
-	4 Raze the Village
-	4 Bionic Rallier
-	4 Moonbright Wyrm
-	4 Phantom Liege
-	4 Divine Guide
-	4 Searing Barrage
-	4 Bring Down the Mountain
-	4 Inspired Creation
-	4 Arboreal Arrow
-	4 End Times Sentinel
-	4 Oni-Power Devastator
-	4 Solemn Simulacrum
-	4 Surveyor's Mechameleon
-	4 Dormant Seed
-	4 Shipyard Scrounger
-	4 Mercenary Enchanter
-	4 Bound Edifice
-	4 Naveian Protector
-	4 Kallaroot Lurkfiend
-	4 Fae Rootwielder
-	4 Viashino Brute
-	4 Faraway Worlds
-[common(7)]
-	8 Eradication Beam
-	8 Prince's Bargain
-	8 Time's Triumph
-	8 Awakened Brush
-	8 Deepwyn Worldbender
-	8 Anjarjan Phantom
-	8 Britlitte Librarian
-	8 Essence Serum
-	8 Adapted Lifespinner
-	8 Kallaheart Reckoner
-	8 Kindred Sentinel
-	8 Amplified Staticaster
-	8 Intrepid Tinkerer
-	8 Stormcrown Archlich
-	8 Empire's Vestiges
-	8 Rampaging Kavu
-	8 Ritual Grounds
-	8 Cloudtouched Hills
-	8 Spouting Lagoon
-	8 Ashchoke Bog
-	8 Prophetic Prism
-	8 Council Assistant
-	8 Terralight Prison
-	8 Deployment Zone
-	8 Soulcharged Colossus
-	8 Shaleville Rider
-	8 Starbearer Paladin
-	8 Portent Reader
-	8 Deployer Hulk
-	8 Skolhan Thundermage
-	8 Magmatic Manifestation
-	8 Territorial Drakkon
-	8 Council's Spear
-	8 New Realms
-	8 One with the Current
-	8 Sneap
-	8 Multiform Rapier
-	8 Adaptive Raider
-	8 Knight of Irakan
-	8 Sunblessed Range
-	8 Ethereal Wasteland
-	8 Dragoneye Shores
-	8 Overcharge
-	8 Peat Basin
-	8 Unleashed Steed
-	8 Dragon's Ire
-	8 Foreboding Memory
-	8 Automated Suppressor
-	8 Kjaldiran Stormbearer
-	8 Refugee Guardian
-	8 Core Shock
-	8 Down the Middle
-	8 Evolutionary Synergy
-	8 Terralight Spearman
-	8 Stand Strong
-	8 Radiant Shaman
-	8 Mark for Conquest
-	8 Skolhan Brawler
-	8 Negate
-	8 Accept the Gift
-	8 Bind the Lightning
-	8 Britlitte Guardian
-	8 Turn the Wheel
-	8 Opportunistic Monarch
-	8 Idyllian Battlemech
-	8 Demin's Valiant
-	8 Wyldwood Ursine
-	8 Terror of the Ridge
-	8 Scuttling Terror
-	8 Gladeheart Deadeye
-	8 Sylvua's Titan
-	8 Occult Diviner
-	8 Nature's Animosity
-	8 Defiant Retaliation
-	8 Steal the Source
-	8 Teluran Conscript
-	8 Sunblaze Empyrean
-	8 Peacebringer Titan
-	8 Tear Through the Light
-	8 Umbral Devouring
-	8 Death Is Not The End
-	8 Singularity's Pull
-	8 Aerial Suppressor
-	8 Throatseeker Valkyrie
-	8 Unearthed Might
-	8 Charged Duplication
-	8 Shaleville Sellsword
-	8 Integrated Kallaknight
-	8 Molten Schemer
-	8 Unstable Crystal
-	8 Dawnlit Fenland
-	8 Faraway Fiefdom
-[foil(1)]
-	1 Prince Irakan, Heir to Dust
-	1 The Crown of Stars
-	2 Tsubasa, Blessed Blade
-	2 Dahlia, Blossom of Heresy
-	2 Kinn, the Clone
-	6 Angel of Purpose
-	2 Move Heaven and Earth
-	2 Kallatree's Offshoot
-	6 Slaughter's Shadow
-	2 Ayeshi, Eternal Archmage
-	6 Heart of the Deliverance
-	1 Deliverance, Jewel of Telura
-	6 Planar Lockdown
-	6 Teluran Vanguard
-	6 Inscrutable Dancer
-	2 Burn It All Down
-	1 Elai and Lanion
-	2 Tzuhan, the Peacock
-	2 Vragut, Molten Monarch
-	2 Elai, Scion of the Stars
-	2 Lanion, Scion of the Umbra
-	2 Finnigan, Half-Fae Prince
-	12 Eradication Beam
-	6 Council Speaker
-	2 Sylvua, Ancient Potentate
-	2 Confounding Kraken
-	1 Aurora Draconis
-	2 Everything Changes
-	2 Seishin-Boon Titan
-	6 Lure to Doom
-	2 Tidebreaker Leviathan
-	2 Giyama, Servant of Telura
-	12 Prince's Bargain
-	2 Loom of a New World
-	2 Tanavir, Simulacra Ascetic
-	6 Infectious Intelligence
-	2 Endless Perfect Legions
-	6 Reality Rifts
-	2 Kai, the Origamist
-	2 Ecliptic Ending
-	12 Time's Triumph
-	6 Kimja Reckoner
-	2 Ourobori, Seishin-Fused
-	2 Zaender, Shattered Mind
-	2 Elphaen, Servant of Telura
-	2 Amede, Kallatree Speaker
-	12 Awakened Brush
-	6 Blighteater Lynxstag
-	1 Prince Irakan's Wish
-	6 Magister of Control
-	12 Deepwyn Worldbender
-	6 Engineered Worldsweeper
-	6 Heavencraft Gavel
-	6 Kiln of the Astral Flame
-	2 Obsession, Lingering Shade
-	1 Warped Matterdancer
-	6 Tideweave Avatar
-	6 Enter the Avatar
-	12 Anjarjan Phantom
-	2 Invoker's Voidlord
-	12 Britlitte Librarian
-	12 Essence Serum
-	12 Adapted Lifespinner
-	6 Teluran Imperiarch
-	12 Kallaheart Reckoner
-	2 Teluran Void
-	1 Brilliant Incursion
-	6 Terralight Smithy
-	6 Shrine to the Great Tree
-	6 Shrine to the Royal Family
-	6 Shrine to the Machine
-	6 Wise Runecaster
-	12 Kindred Sentinel
-	1 New Genesis
-	12 Amplified Staticaster
-	12 Intrepid Tinkerer
-	2 Commander Norara
-	6 Patchwork Summons
-	2 Heaven's Hammerbearer
-	12 Stormcrown Archlich
-	6 Ionization Protocol
-	6 Dissolve into History
-	12 Empire's Vestiges
-	6 Inspired Resurrection
-	2 Champion of Confluence
-	2 Threadweaver Icon
-	1 Oblivion Cradle
-	2 Kinetic Cadaver
-	6 Calamitous Premonition
-	2 Shiori, Frostfire Kitsune
-	6 Lioncrest Hero
-	12 Rampaging Kavu
-	1 Dictate of the Heavens
-	2 Empyrean Wingserpent
-	2 Kaecil, the Starspeaker
-	6 Chromatic Goggles
-	6 Gildleaf Unifier
-	12 Ritual Grounds
-	12 Cloudtouched Hills
-	12 Spouting Lagoon
-	12 Ashchoke Bog
-	2 Sojourner's Gateway
-	6 Brackbloom Titan
-	6 Ravencorps Reavers
-	6 Portal Ring
-	12 Prophetic Prism
-	12 Council Assistant
-	2 Slumbering Titanyard
-	2 Fruitless Paradise
-	12 Terralight Prison
-	2 Seat of the Last Empire
-	6 Repeated Refusal
-	6 Gleaming Praetor
-	6 Become One with Telura
-	6 Oni-Power Production
-	2 Bastion of Light
-	2 Dancing Rakshasa
-	12 Deployment Zone
-	1 Emperor's Attendant
-	12 Soulcharged Colossus
-	12 Shaleville Rider
-	12 Starbearer Paladin
-	12 Portent Reader
-	12 Deployer Hulk
-	12 Skolhan Thundermage
-	1 Duskwing Inferno
-	12 Magmatic Manifestation
-	12 Territorial Drakkon
-	6 Crested Raven
-	2 Skodir, Uniter of Realms
-	12 Council's Spear
-	12 New Realms
-	2 Therisi, Her Soul Aflame
-	6 Guardian of the Cosmos
-	2 Risa, Ender of Empires
-	6 Drag Life into the Umbra
-	6 Darkhelm Karaki
-	2 Missira, Heir to War
-	2 Alexei, Eye of the Storm
-	2 Archengine Ascendant
-	2 Rallying the Titans
-	2 Goldblossom Angel
-	2 Ghostlight Infiltrator
-	12 One with the Current
-	6 Kallawarden Ancient
-	2 Hero of Sol Cuesta
-	6 Shrine to the Spirit Realm
-	6 Shrine to the Divine
-	2 Ironblood Jarl
-	6 Firestorm Evangelist
-	6 Sol Cuesta Cavalry
-	6 Lady of the Inlet
-	12 Sneap
-	12 Multiform Rapier
-	12 Adaptive Raider
-	6 Clearcut
-	12 Knight of Irakan
-	1 Port Goliath
-	2 Beacon of Horizons
-	2 Usurper Program
-	2 Set the Heavens Ablaze
-	12 Sunblessed Range
-	12 Ethereal Wasteland
-	12 Dragoneye Shores
-	12 Overcharge
-	12 Peat Basin
-	6 Familiar Summoner
-	12 Unleashed Steed
-	6 Playing with Portals
-	12 Dragon's Ire
-	12 Foreboding Memory
-	6 Seeds of a Dream
-	12 Automated Suppressor
-	12 Kjaldiran Stormbearer
-	12 Refugee Guardian
-	12 Core Shock
-	12 Down the Middle
-	6 Absorption Matrix
-	1 Singularity Courser
-	12 Evolutionary Synergy
-	6 Simian Swordmaster
-	12 Terralight Spearman
-	1 Blazing Knight-Errant
-	12 Stand Strong
-	6 Shake the Earth
-	6 Stormwake Dragon
-	2 Nataltha, the Dark Star
-	2 Augmented Bankbuster
-	6 Breaching the Stream
-	2 Enigma Variant
-	12 Radiant Shaman
-	2 Malevolent Eradicator
-	12 Mark for Conquest
-	6 Constellar Deer
-	6 Union of Root and Steel
-	12 Skolhan Brawler
-	6 Wyrmflame Knight
-	12 Negate
-	12 Accept the Gift
-	12 Bind the Lightning
-	6 Recovering the Pieces
-	12 Britlitte Guardian
-	6 Machinist of Souls
-	12 Turn the Wheel
-	12 Opportunistic Monarch
-	6 Earthreaver Drakkon
-	6 Searchlight Scout
-	2 Sunpiercer Blade
-	2 Eira, Immortal Champion
-	6 Converted Ritualist
-	12 Idyllian Battlemech
-	2 Fused Eviscerator
-	12 Demin's Valiant
-	12 Wyldwood Ursine
-	12 Terror of the Ridge
-	12 Scuttling Terror
-	12 Gladeheart Deadeye
-	12 Sylvua's Titan
-	12 Occult Diviner
-	12 Nature's Animosity
-	12 Defiant Retaliation
-	2 Pharai, Twin Fangs
-	2 Izhan, Last Piece of the Puzzle
-	2 High Magistrate Sonli
-	6 Vaunted Shinobi
-	6 Zydith's Adjudicator
-	1 Sword of Dreams and Empire
-	6 Velheart Communer
-	6 Furtive Scrollkeeper
-	1 Umbral Parturition
-	2 Terralight Stag
-	6 Crucible Druid
-	1 Sol Cuesta, Ignited Crucible
-	12 Steal the Source
-	2 Obsession's Devourer
-	6 Blastfire Smith
-	6 Cursed Orb Oni
-	6 Bell-Clad Exponent
-	2 Tandem Feat
-	2 Encounter with the Sentinel
-	2 Trapped in the Umbra
-	1 The Radiance Zone
-	6 Shadow in the Psyche
-	6 Lies Revealed
-	1 Consuming Ruin
-	2 All Things to Oblivion
-	2 Escaping A World's End
-	12 Teluran Conscript
-	12 Sunblaze Empyrean
-	12 Peacebringer Titan
-	12 Tear Through the Light
-	12 Umbral Devouring
-	6 Titan of Skolhan Pass
-	12 Death Is Not The End
-	12 Singularity's Pull
-	12 Aerial Suppressor
-	12 Throatseeker Valkyrie
-	6 Ascendant Thaumaturge
-	6 In Full Bloom
-	6 Charged Gauntlets
-	12 Unearthed Might
-	12 Charged Duplication
-	12 Shaleville Sellsword
-	12 Integrated Kallaknight
-	12 Molten Schemer
-	1 Tarre, Hands That Feed
-	1 Chosen Valiant
-	12 Unstable Crystal
-	12 Dawnlit Fenland
-	12 Faraway Fiefdom
-	2 Wraith's Hijacking
-	6 Demonic Majesty
-	6 Sheltering the Light
-	6 The Locus of the Storm
-	6 Raze the Village
-	6 Bionic Rallier
-	2 Acolyte of Sylvua
-	2 Crux of Augmentation
-	2 Asher, Heron Champion
-	6 Moonbright Wyrm
-	6 Phantom Liege
-	6 Divine Guide
-	2 Battleworn Commander
-	6 Searing Barrage
-	6 Bring Down the Mountain
-	6 Inspired Creation
-	6 Arboreal Arrow
-	6 End Times Sentinel
-	6 Oni-Power Devastator
-	6 Solemn Simulacrum
-	6 Surveyor's Mechameleon
-	6 Dormant Seed
-	6 Shipyard Scrounger
-	6 Mercenary Enchanter
-	2 Brutagan, Tarruk's Heir
-	6 Bound Edifice
-	2 Reydia, Umbral Augur
-	6 Naveian Protector
-	6 Kallaroot Lurkfiend
-	6 Fae Rootwielder
-	6 Viashino Brute
-	1 Stormmane Drakkon
-	1 Command the Cosmos
-	6 Faraway Worlds
-	1 Rebuild What Is Lost
-	1 Embodiment of Life
-[wildcard(1)]
-	4 Prince Irakan, Heir to Dust
-	4 The Crown of Stars
-	7 Tsubasa, Blessed Blade
-	7 Dahlia, Blossom of Heresy
-	7 Kinn, the Clone
-	15 Angel of Purpose
-	7 Move Heaven and Earth
-	7 Kallatree's Offshoot
-	15 Slaughter's Shadow
-	7 Ayeshi, Eternal Archmage
-	15 Heart of the Deliverance
-	4 Deliverance, Jewel of Telura
-	15 Planar Lockdown
-	15 Teluran Vanguard
-	15 Inscrutable Dancer
-	7 Burn It All Down
-	4 Elai and Lanion
-	7 Tzuhan, the Peacock
-	7 Vragut, Molten Monarch
-	7 Elai, Scion of the Stars
-	7 Lanion, Scion of the Umbra
-	7 Finnigan, Half-Fae Prince
-	6 Eradication Beam
-	15 Council Speaker
-	7 Sylvua, Ancient Potentate
-	7 Confounding Kraken
-	4 Aurora Draconis
-	7 Everything Changes
-	7 Seishin-Boon Titan
-	15 Lure to Doom
-	7 Tidebreaker Leviathan
-	7 Giyama, Servant of Telura
-	6 Prince's Bargain
-	7 Loom of a New World
-	7 Tanavir, Simulacra Ascetic
-	15 Infectious Intelligence
-	7 Endless Perfect Legions
-	15 Reality Rifts
-	7 Kai, the Origamist
-	7 Ecliptic Ending
-	6 Time's Triumph
-	15 Kimja Reckoner
-	7 Ourobori, Seishin-Fused
-	7 Zaender, Shattered Mind
-	7 Elphaen, Servant of Telura
-	7 Amede, Kallatree Speaker
-	6 Awakened Brush
-	15 Blighteater Lynxstag
-	4 Prince Irakan's Wish
-	15 Magister of Control
-	6 Deepwyn Worldbender
-	15 Engineered Worldsweeper
-	15 Heavencraft Gavel
-	15 Kiln of the Astral Flame
-	7 Obsession, Lingering Shade
-	4 Warped Matterdancer
-	15 Tideweave Avatar
-	15 Enter the Avatar
-	6 Anjarjan Phantom
-	7 Invoker's Voidlord
-	6 Britlitte Librarian
-	6 Essence Serum
-	6 Adapted Lifespinner
-	15 Teluran Imperiarch
-	6 Kallaheart Reckoner
-	7 Teluran Void
-	4 Brilliant Incursion
-	15 Terralight Smithy
-	15 Shrine to the Great Tree
-	15 Shrine to the Royal Family
-	15 Shrine to the Machine
-	15 Wise Runecaster
-	6 Kindred Sentinel
-	4 New Genesis
-	6 Amplified Staticaster
-	6 Intrepid Tinkerer
-	7 Commander Norara
-	15 Patchwork Summons
-	7 Heaven's Hammerbearer
-	6 Stormcrown Archlich
-	15 Ionization Protocol
-	15 Dissolve into History
-	6 Empire's Vestiges
-	15 Inspired Resurrection
-	7 Champion of Confluence
-	7 Threadweaver Icon
-	4 Oblivion Cradle
-	7 Kinetic Cadaver
-	15 Calamitous Premonition
-	7 Shiori, Frostfire Kitsune
-	15 Lioncrest Hero
-	6 Rampaging Kavu
-	4 Dictate of the Heavens
-	7 Empyrean Wingserpent
-	7 Kaecil, the Starspeaker
-	15 Chromatic Goggles
-	15 Gildleaf Unifier
-	6 Ritual Grounds
-	6 Cloudtouched Hills
-	6 Spouting Lagoon
-	6 Ashchoke Bog
-	7 Sojourner's Gateway
-	15 Brackbloom Titan
-	15 Ravencorps Reavers
-	15 Portal Ring
-	6 Prophetic Prism
-	6 Council Assistant
-	7 Slumbering Titanyard
-	7 Fruitless Paradise
-	6 Terralight Prison
-	7 Seat of the Last Empire
-	15 Repeated Refusal
-	15 Gleaming Praetor
-	15 Become One with Telura
-	15 Oni-Power Production
-	7 Bastion of Light
-	7 Dancing Rakshasa
-	6 Deployment Zone
-	4 Emperor's Attendant
-	6 Soulcharged Colossus
-	6 Shaleville Rider
-	6 Starbearer Paladin
-	6 Portent Reader
-	6 Deployer Hulk
-	6 Skolhan Thundermage
-	4 Duskwing Inferno
-	6 Magmatic Manifestation
-	6 Territorial Drakkon
-	15 Crested Raven
-	7 Skodir, Uniter of Realms
-	6 Council's Spear
-	6 New Realms
-	7 Therisi, Her Soul Aflame
-	15 Guardian of the Cosmos
-	7 Risa, Ender of Empires
-	15 Drag Life into the Umbra
-	15 Darkhelm Karaki
-	7 Missira, Heir to War
-	7 Alexei, Eye of the Storm
-	7 Archengine Ascendant
-	7 Rallying the Titans
-	7 Goldblossom Angel
-	7 Ghostlight Infiltrator
-	6 One with the Current
-	15 Kallawarden Ancient
-	7 Hero of Sol Cuesta
-	15 Shrine to the Spirit Realm
-	15 Shrine to the Divine
-	7 Ironblood Jarl
-	15 Firestorm Evangelist
-	15 Sol Cuesta Cavalry
-	15 Lady of the Inlet
-	6 Sneap
-	6 Multiform Rapier
-	6 Adaptive Raider
-	15 Clearcut
-	6 Knight of Irakan
-	4 Port Goliath
-	7 Beacon of Horizons
-	7 Usurper Program
-	7 Set the Heavens Ablaze
-	6 Sunblessed Range
-	6 Ethereal Wasteland
-	6 Dragoneye Shores
-	6 Overcharge
-	6 Peat Basin
-	15 Familiar Summoner
-	6 Unleashed Steed
-	15 Playing with Portals
-	6 Dragon's Ire
-	6 Foreboding Memory
-	15 Seeds of a Dream
-	6 Automated Suppressor
-	6 Kjaldiran Stormbearer
-	6 Refugee Guardian
-	6 Core Shock
-	6 Down the Middle
-	15 Absorption Matrix
-	4 Singularity Courser
-	6 Evolutionary Synergy
-	15 Simian Swordmaster
-	6 Terralight Spearman
-	4 Blazing Knight-Errant
-	6 Stand Strong
-	15 Shake the Earth
-	15 Stormwake Dragon
-	7 Nataltha, the Dark Star
-	7 Augmented Bankbuster
-	15 Breaching the Stream
-	7 Enigma Variant
-	6 Radiant Shaman
-	7 Malevolent Eradicator
-	6 Mark for Conquest
-	15 Constellar Deer
-	15 Union of Root and Steel
-	6 Skolhan Brawler
-	15 Wyrmflame Knight
-	6 Negate
-	6 Accept the Gift
-	6 Bind the Lightning
-	15 Recovering the Pieces
-	6 Britlitte Guardian
-	15 Machinist of Souls
-	6 Turn the Wheel
-	6 Opportunistic Monarch
-	15 Earthreaver Drakkon
-	15 Searchlight Scout
-	7 Sunpiercer Blade
-	7 Eira, Immortal Champion
-	15 Converted Ritualist
-	6 Idyllian Battlemech
-	7 Fused Eviscerator
-	6 Demin's Valiant
-	6 Wyldwood Ursine
-	6 Terror of the Ridge
-	6 Scuttling Terror
-	6 Gladeheart Deadeye
-	6 Sylvua's Titan
-	6 Occult Diviner
-	6 Nature's Animosity
-	6 Defiant Retaliation
-	7 Pharai, Twin Fangs
-	7 Izhan, Last Piece of the Puzzle
-	7 High Magistrate Sonli
-	15 Vaunted Shinobi
-	15 Zydith's Adjudicator
-	4 Sword of Dreams and Empire
-	15 Velheart Communer
-	15 Furtive Scrollkeeper
-	4 Umbral Parturition
-	7 Terralight Stag
-	15 Crucible Druid
-	4 Sol Cuesta, Ignited Crucible
-	6 Steal the Source
-	7 Obsession's Devourer
-	15 Blastfire Smith
-	15 Cursed Orb Oni
-	15 Bell-Clad Exponent
-	7 Tandem Feat
-	7 Encounter with the Sentinel
-	7 Trapped in the Umbra
-	4 The Radiance Zone
-	15 Shadow in the Psyche
-	15 Lies Revealed
-	4 Consuming Ruin
-	7 All Things to Oblivion
-	7 Escaping A World's End
-	6 Teluran Conscript
-	6 Sunblaze Empyrean
-	6 Peacebringer Titan
-	6 Tear Through the Light
-	6 Umbral Devouring
-	15 Titan of Skolhan Pass
-	6 Death Is Not The End
-	6 Singularity's Pull
-	6 Aerial Suppressor
-	6 Throatseeker Valkyrie
-	15 Ascendant Thaumaturge
-	15 In Full Bloom
-	15 Charged Gauntlets
-	6 Unearthed Might
-	6 Charged Duplication
-	6 Shaleville Sellsword
-	6 Integrated Kallaknight
-	6 Molten Schemer
-	4 Tarre, Hands That Feed
-	4 Chosen Valiant
-	6 Unstable Crystal
-	6 Dawnlit Fenland
-	6 Faraway Fiefdom
-	7 Wraith's Hijacking
-	15 Demonic Majesty
-	15 Sheltering the Light
-	15 The Locus of the Storm
-	15 Raze the Village
-	15 Bionic Rallier
-	7 Acolyte of Sylvua
-	7 Crux of Augmentation
-	7 Asher, Heron Champion
-	15 Moonbright Wyrm
-	15 Phantom Liege
-	15 Divine Guide
-	7 Battleworn Commander
-	15 Searing Barrage
-	15 Bring Down the Mountain
-	15 Inspired Creation
-	15 Arboreal Arrow
-	15 End Times Sentinel
-	15 Oni-Power Devastator
-	15 Solemn Simulacrum
-	15 Surveyor's Mechameleon
-	15 Dormant Seed
-	15 Shipyard Scrounger
-	15 Mercenary Enchanter
-	7 Brutagan, Tarruk's Heir
-	15 Bound Edifice
-	7 Reydia, Umbral Augur
-	15 Naveian Protector
-	15 Kallaroot Lurkfiend
-	15 Fae Rootwielder
-	15 Viashino Brute
-	4 Stormmane Drakkon
-	4 Command the Cosmos
-	15 Faraway Worlds
-	4 Rebuild What Is Lost
-	4 Embodiment of Life
+	5 Angel of Purpose
+	5 Slaughter's Shadow
+	5 Heart of the Deliverance
+	5 Planar Lockdown
+	5 Teluran Vanguard
+	5 Inscrutable Dancer
+	5 Council Speaker
+	5 Lure to Doom
+	5 Infectious Intelligence
+	5 Reality Rifts
+	5 Kimja Reckoner
+	5 Blighteater Lynxstag
+	5 Magister of Control
+	5 Engineered Worldsweeper
+	5 Heavencraft Gavel
+	5 Kiln of the Astral Flame
+	5 Tideweave Avatar
+	5 Enter the Avatar
+	5 Teluran Imperiarch
+	5 Terralight Smithy
+	5 Shrine to the Great Tree
+	5 Shrine to the Royal Family
+	5 Shrine to the Machine
+	5 Wise Runecaster
+	5 Patchwork Summons
+	5 Ionization Protocol
+	5 Dissolve into History
+	5 Inspired Resurrection
+	5 Calamitous Premonition
+	5 Lioncrest Hero
+	5 Chromatic Goggles
+	5 Gildleaf Unifier
+	5 Brackbloom Titan
+	5 Ravencorps Reavers
+	5 Portal Ring
+	5 Repeated Refusal
+	5 Gleaming Praetor
+	5 Become One with Telura
+	5 Oni-Power Production
+	5 Crested Raven
+	5 Guardian of the Cosmos
+	5 Drag Life into the Umbra
+	5 Darkhelm Karaki
+	5 Kallawarden Ancient
+	5 Shrine to the Spirit Realm
+	5 Shrine to the Divine
+	5 Firestorm Evangelist
+	5 Sol Cuesta Cavalry
+	5 Lady of the Inlet
+	5 Clearcut
+	5 Familiar Summoner
+	5 Playing with Portals
+	5 Seeds of a Dream
+	5 Absorption Matrix
+	5 Simian Swordmaster
+	5 Shake the Earth
+	5 Stormwake Dragon
+	5 Breaching the Stream
+	5 Constellar Deer
+	5 Union of Root and Steel
+	5 Wyrmflame Knight
+	5 Recovering the Pieces
+	5 Machinist of Souls
+	5 Earthreaver Drakkon
+	5 Searchlight Scout
+	5 Converted Ritualist
+	5 Vaunted Shinobi
+	5 Zydith's Adjudicator
+	5 Velheart Communer
+	5 Furtive Scrollkeeper
+	5 Crucible Druid
+	5 Blastfire Smith
+	5 Cursed Orb Oni
+	5 Bell-Clad Exponent
+	5 Shadow in the Psyche
+	5 Lies Revealed
+	5 Titan of Skolhan Pass
+	5 Ascendant Thaumaturge
+	5 In Full Bloom
+	5 Charged Gauntlets
+	5 Demonic Majesty
+	5 Sheltering the Light
+	5 The Locus of the Storm
+	5 Raze the Village
+	5 Bionic Rallier
+	5 Moonbright Wyrm
+	5 Phantom Liege
+	5 Divine Guide
+	5 Searing Barrage
+	5 Bring Down the Mountain
+	5 Inspired Creation
+	5 Arboreal Arrow
+	5 End Times Sentinel
+	5 Oni-Power Devastator
+	5 Solemn Simulacrum
+	5 Surveyor's Mechameleon
+	5 Dormant Seed
+	5 Shipyard Scrounger
+	5 Mercenary Enchanter
+	5 Bound Edifice
+	5 Naveian Protector
+	5 Kallaroot Lurkfiend
+	5 Fae Rootwielder
+	5 Viashino Brute
+	5 Faraway Worlds
+[common(10)]
+	5 Eradication Beam
+	5 Prince's Bargain
+	5 Time's Triumph
+	5 Awakened Brush
+	5 Deepwyn Worldbender
+	5 Anjarjan Phantom
+	5 Britlitte Librarian
+	5 Essence Serum
+	5 Adapted Lifespinner
+	5 Kallaheart Reckoner
+	5 Kindred Sentinel
+	5 Amplified Staticaster
+	5 Intrepid Tinkerer
+	5 Stormcrown Archlich
+	5 Empire's Vestiges
+	5 Rampaging Kavu
+	5 Ritual Grounds
+	5 Cloudtouched Hills
+	5 Spouting Lagoon
+	5 Ashchoke Bog
+	5 Prophetic Prism
+	5 Council Assistant
+	5 Terralight Prison
+	5 Deployment Zone
+	5 Soulcharged Colossus
+	5 Shaleville Rider
+	5 Starbearer Paladin
+	5 Portent Reader
+	5 Deployer Hulk
+	5 Skolhan Thundermage
+	5 Magmatic Manifestation
+	5 Territorial Drakkon
+	5 Council's Spear
+	5 New Realms
+	5 One with the Current
+	5 Sneap
+	5 Multiform Rapier
+	5 Adaptive Raider
+	5 Knight of Irakan
+	5 Sunblessed Range
+	5 Ethereal Wasteland
+	5 Dragoneye Shores
+	5 Overcharge
+	5 Peat Basin
+	5 Unleashed Steed
+	5 Dragon's Ire
+	5 Foreboding Memory
+	5 Automated Suppressor
+	5 Kjaldiran Stormbearer
+	5 Refugee Guardian
+	5 Core Shock
+	5 Down the Middle
+	5 Evolutionary Synergy
+	5 Terralight Spearman
+	5 Stand Strong
+	5 Radiant Shaman
+	5 Mark for Conquest
+	5 Skolhan Brawler
+	5 Negate
+	5 Accept the Gift
+	5 Bind the Lightning
+	5 Britlitte Guardian
+	5 Turn the Wheel
+	5 Opportunistic Monarch
+	5 Idyllian Battlemech
+	5 Demin's Valiant
+	5 Wyldwood Ursine
+	5 Terror of the Ridge
+	5 Scuttling Terror
+	5 Gladeheart Deadeye
+	5 Sylvua's Titan
+	5 Occult Diviner
+	5 Nature's Animosity
+	5 Defiant Retaliation
+	5 Steal the Source
+	5 Teluran Conscript
+	5 Sunblaze Empyrean
+	5 Peacebringer Titan
+	5 Tear Through the Light
+	5 Umbral Devouring
+	5 Death Is Not The End
+	5 Singularity's Pull
+	5 Aerial Suppressor
+	5 Throatseeker Valkyrie
+	5 Unearthed Might
+	5 Charged Duplication
+	5 Shaleville Sellsword
+	5 Integrated Kallaknight
+	5 Molten Schemer
+	5 Unstable Crystal
+	5 Dawnlit Fenland
+	5 Faraway Fiefdom

@@ -1,4 +1,773 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Starwhale Harvest Port added.
+
+Starwhale Harvest removed.
+
+Drakkonic Mekkastruct
+rules_text: Ad astra [i](Each turn, upgrade the effect based on the colors of mana you've spent to cast spells this turn.)[/i]
+[b]3+ [/b]| Whenever this creature enters or attacks, put a +1/+1 counter on each artifact creature you control and two charge counters on each Spacecraft you control . . .
+[b]5+ [/b]| . . . then you may double the number of counters on each artifact you control. => Ad astra [i](Each turn, upgrade the effect based on the colors of mana you've spent to cast spells this turn.)[/i]
+[b]3+ [/b]| Whenever this creature enters or attacks, put a +1/+1 counter on each artifact creature you control . . .
+[b]5+ [/b]| . . . then double the number of counters on each artifact you control.
+
+Kjaldiran Battlewolves
+
+Null Knight
+
+Stalwart Spear
+
+Kjaldiran Talehunter
+
+Kjaldiran Berserker
+
+Go Forth and Slaughter
+
+Starkarve Deployment
+rules_text: Enchant creature you control
+Whenever enchanted creature deals combat damage to a player, draw a card.
+Orbit 2—{2}{G} [i]({2}{G}, Exile this card from your hand: Put two charge counters on it. Once during each of your turns, you may cast a copy of this card without paying its mana cost by removing a charge counter from it. Orbit only as a sorcery.)[/i] => Enchant creature or Spacecraft you control
+Whenever enchanted permanent deals combat damage to a player, draw a card.
+Orbit 2—{2}{G} [i]({2}{G}, Exile this card from your hand: Put two charge counters on it. Once during each of your turns, you may cast a copy of this card without paying its mana cost by removing a charge counter from it. Orbit only as a sorcery.)[/i]
+
+Collapsed Ring
+
+Terraformer Archengine
+
+Aeon's Forerunner
+
+Chart the Starpaths
+
+Valiant Titanhunter
+
+Kjaldiran Lookout
+
+Ancient Communion
+
+Unstoppable Remnant
+
+Esmund, Shard of Nebula
+
+Void Potentate
+
+Cosmic Heart
+
+Oda, Shard of Abyss
+
+Friede, Shard of Light
+
+Vjala, Shard of Creation
+
+Objects In Motion
+
+Inga, Shard of Genesis
+
+Chronicler of Irregularities
+
+Garden of Evolution
+
+Chronicler of Regrets
+
+Kallatree, Whorl of Life
+
+Captain Elai
+rules_text:  => Whenever you cast a noncreature spell, Captain Elai deals 1 damage to each opponent and you create a tapped Treasure token.
+[+1]: Draw a card for each card you've drawn this turn, then discard a card.
+[-X]: Captain Elai deals twice X damage to target creature or planeswalker.
+[-6]: You get an emblem with “Whenever you cast 
+a noncreature spell, copy it for each color of mana spent to cast it. You may choose new 
+targets for the copies.”
+
+Covet Infinity
+
+Amede, Vessel of Alune
+rules_text:  => [+1]: Create a Keen Sense token attached to up to one target creature you control. [i](It's an Aura enchantment with enchant creature and “Whenever enchanted creature deals damage to an opponent, you may draw a card.”)[/i]
+[-2]: Create a 3/3 green Elk Spirit creature token.
+[-2]: Target creature you control deals damage equal to its power to target creature an opponent controls. When it deals excess damage this way, destroy target artifact or enchantment an opponent controls with mana value less than or equal to that amount of excess damage.
+
+Sojourner's Gateway
+
+Sun-Eater Nautiloid
+rules_text: When this Spacecraft enters, each players exiles a nontoken creature they control.
+Station 6+ [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i] [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+Flying
+At the beginning of each opponent's upkeep, that player exiles a nontoken creature they control. If they can't, put a creature card exiled with this Spacecraft onto the battlefield, then sacrifice this Spacecraft. => When this Spacecraft enters, each opponent exiles a nontoken creature they control.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 7+] Flying
+At the beginning of each opponent's upkeep, that player exiles a nontoken creature they control. If they can't, put a creature card exiled with this Spacecraft onto the battlefield, then sacrifice this Spacecraft.
+
+
+Migrating Cetacean
+
+Origin's Vestige
+
+Titan of Helgahraun
+
+Sundeath Maw
+
+Currents of the Hyperlanes
+
+Atmosphere Trawlers
+
+Heaven's Exhalation
+
+Feed on the Cosmos
+
+Falling Star's Wake
+type: Instant => Sorcery
+cost: {1}{R} => {R}
+
+Shambling Terrarium
+
+Brightheart Serpent
+
+Go Dark
+
+Fraying Cluster
+
+Waning Child of Aeon
+
+Devour All Light
+
+Colony Migration
+
+Plant
+
+Prophecied Alignment
+
+Doomed Pilot
+
+Pilot
+
+Kion, Chosen Chronicler
+
+Parasite Incubation
+
+Chaotic Godling
+
+Starhunter Drakkon
+
+Hungering Abyss
+
+Xenobotanist
+
+Meteor Harvester
+
+Myrkdrasil, Cradle of Nihility
+
+Approach of the Black Sun
+
+Drakkonfell, First Starkarve
+rules_text:  => When Drakkonfell enters, create a 2/1 red Berserker creature token with “This token can't block.”
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 6+] Flying, menace
+Whenever Drakkonfell attacks, you may search your library for a land card, put it onto the battlefield tapped, then shuffle.
+
+special_text: When this Spacecraft enters, create a 2/1 red Berserker creature token with “This token can't block.”
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 6+] Flying, menace
+Whenever this Spacecraft attacks, you may search your library for a land card, put it onto the battlefield tapped, then shuffle.
+ => When Drakkonfell enters, create a 2/1 red Berserker creature token with “This token can't block.”
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 6+] Flying, menace
+Whenever Drakkonfell attacks, you may search your library for a land card, put it onto the battlefield tapped, then shuffle.
+
+
+Curious Horticulturist
+
+Charge into the Void
+
+Adrift in a Twilit Sea
+
+Hive Forerunner
+
+Shield Surfer
+
+The Colossus Approaches
+
+Ancestral Mageflame
+
+Sudden Decompression
+
+Woolly Abomination
+
+Mechanized Propagator
+
+Zero Gravity Maneuver
+
+Voidsent Ghoul
+
+Drifting Among Regrets
+
+Protostar Tender
+
+Prophetic Prism
+
+Excavator Spider
+
+Stardust Explorer
+
+Starscape Shift
+
+Repair Mech
+
+Ventilate
+
+Automatic Reconstruction
+rules_text: Return target artifact, creature, or planeswalker card from your graveyard to the battlefield. If it's a Spacecraft, you may put five charge counters on it. => Return target artifact, creature, or planeswalker card from your graveyard to the battlefield. If it's an artifact, you may put five charge counters on it.
+
+Living Meteor
+
+Pillbot
+
+Staunch Sentinel
+
+Chronicler's Directive
+
+Companion's Grave
+
+Quasar Tyrant
+
+Unknown Beings Lurk
+
+Eir, Voidtwisted Valkyrie
+
+Angel
+
+Void Corona
+
+Aeon
+rules_text:  => [+2]: Each player exiles cards from the top of their library until they exile a nonland card. You may cast any card exiled with Aeon without paying its mana cost.
+[+1]: Create a colorless enchantment token named Void Corona with “Sacrifice this token: The next spell you cast this turn has starstorm.” [i](When you cast that spell, copy it for each spell you cast before it this turn. You may choose new targets for the copies.)[/i]
+[-5]: Choose three numbers. Exile each other nonland permanent with a mana value that is equal to one of the chosen numbers.
+
+Into the Singularity
+
+Viridar Corpsehulk
+
+Fall Forever
+
+Zaender, Anomaly Analyst
+rules_text:  => [+1]: If any player has one or fewer cards in hand, you draw a card. Otherwise, each opponent loses 1 life.
+[-2]: Create a black Aura enchantment token named Nulltouched attached to target creature. It has enchant creature and “Enchanted creature gets -2/-2” and “At the beginning of the upkeep of enchanted creature's controller, that player loses 2 life.”
+[-X]: Draw X cards. Your maximum hand size becomes X. [i](This effects lasts indefinitely.)[/i]
+special_text: [+1]: If any player has one or fewer cards in hand, you draw a card. Otherwise, each opponent loses 1 life.
+[-2]: Create a black Aura enchantment token named Nulltouch attached to target creature. It has enchant creature and “Enchanted creature gets -2/-2” and “At the beginning of the upkeep of enchanted creature's controller, that player loses 2 life.”
+[-X]: Draw X cards. Your maximum hand size becomes X. [i](This effects lasts indefinitely.)[/i] => [+1]: If any player has one or fewer cards in hand, you draw a card. Otherwise, each opponent loses 1 life.
+[-2]: Create a black Aura enchantment token named Nulltouched attached to target creature. It has enchant creature and “Enchanted creature gets -2/-2” and “At the beginning of the upkeep of enchanted creature's controller, that player loses 2 life.”
+[-X]: Draw X cards. Your maximum hand size becomes X. [i](This effects lasts indefinitely.)[/i]
+
+Spirit Elk
+
+Last Audience
+
+Tectonic Megapod
+
+Brandr's Wrecksifters
+
+Lightning Strike
+
+Voidbeast's Fury
+
+Herald of Nothing
+
+Quintessence Division
+
+Mysterious Chronicler
+
+Eir Succumbs
+
+Guiding Seraph
+
+Sunshadow Drake
+
+Varassi, Firstborn of Aeon
+
+Share the Hyperlanes
+
+Starwhale Crossing
+
+Kjotvi, Chosen of Irne
+
+Berserker
+
+Shieldmaidens of Vjala
+
+Hero of Dofrar
+
+Wolf of Anjarja
+
+Valkyrie of Shared Dawn
+
+Fizzle Ray
+
+Viridar Chaoseer
+
+Caelistic Thunderhoof
+
+So Much Goo
+
+Uncontrolled Descent
+
+Prince Bronwyn, the Fair
+
+Unsettling Traveler
+
+Stitched Simulacrum
+
+System Cage
+
+Echoed Vanguard
+
+Varassi's Silencers
+
+Rocket-Powered Canine
+rules_text: Flash
+Flying
+When this creature enters, you may return another permanent you control to its owner's hand. If it had counters on it, you may put that many charge counters on target Spacecraft you control. => Flash
+Flying
+When this creature enters, you may return another permanent you control to its owner's hand. If it had counters on it, you may put that many charge counters on target artifact you control.
+pt: 2/1 => 2/2
+
+Intergalactic Security
+
+Beyond Design
+
+Viridar Voidmass
+rules_text: At the beginning of your end step, if a creature card was put into your graveyard from anywhere this turn, put a +1/+1 counter on target creature or two charge counters on target Spacecraft. => At the beginning of your end step, if a creature card was put into your graveyard from anywhere this turn, put a +1/+1 counter on target creature or two charge counters on target artifact.
+
+Nova Blast
+
+Machine Prophets
+
+Kinetic Gauntlets
+
+Scrapyard Repairer
+
+Abandoned Crewmate
+
+Hired Protector
+
+Modified Shieldmaiden
+
+Toxic Cavernicole
+
+Command Reality
+
+Massive Mantid
+
+Hive Scytheclaw
+
+Colossal Railgun
+
+Pulsar Prophet
+
+Desaturate
+
+It Takes Two
+
+Call the Infinite Bridge
+
+Leif, Hero of Kallatree
+
+Cybertouched Spirit
+
+Ecliptic Harbinger
+
+Sereium, Viridar Hegemon
+
+Leviathan
+
+Swimming in Moonlight
+
+Voidsent Stalker
+rules_text:  => When this Spacecraft enters, exile target creature an opponent controls until this Spacecraft leaves the battlefield.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 7+] Flying
+
+
+IGF Supplyship
+rules_text:  => When this Spacecraft enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 4+] Flying
+Whenever this Spacecraft attacks, surveil 1.
+
+
+Depths of the Dark
+
+Drop Through Reality
+
+Nythr, Stargate Goliath
+
+Supernova
+rules_text: Destroy all creatures. When you do, put X charge counters on target Spacecraft you control, where X is the number of creatures destroyed this way. => Destroy all creatures. When you do, put X charge counters on up to one target artifact you control, where X is the number of creatures destroyed this way.
+
+Faster than Light
+
+Corporate Fumigator
+
+Mageflame Unleashed
+
+Decimator Legion
+
+Scrapyard Bargain
+
+Driftweld Column
+rules_text:  => Other artifact creatures you control get +1/+1.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 8+] Flying
+This Spacecraft gets +1/+1 for each artifact you control.
+
+
+Trajectory Analyzer
+
+Domesticated Voidbeast
+
+Mangled Atrocity
+
+Event Horizon
+
+Through the Wormhole
+
+Behemoth Tracker
+
+Helgahraun Hero
+
+Noxela, the Gloom
+
+Kjotvi's Companion
+
+Upgraded Marauder
+
+Interdictor Skiff
+rules_text:  => When this Spacecraft enters, look at target opponent's hand. You may exile a nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 7+] Flying, lifelink
+Your opponents can't cast spells from anywhere other than their hands.
+
+
+The Infinity Bridge
+
+Brand New Frontiers
+
+Captain Brandr
+
+Nullforged Automaton
+
+Wreck Survivor
+
+Blazing Starstorm
+
+The Dead of Space
+
+Hull Fuser
+
+All Hands On Deck
+
+Cryosphere Trawler
+rules_text:  => Whenever this Spacecraft enters, tap target nonland permanent an opponent controls and put three stun counters on it.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 10+] Flying
+Other artifact creatures you control have flying.
+
+
+Dunebreaker Wurm
+
+Three Thousand Years Later
+
+Chronicler's Probe
+rules_text:  => When this artifact enters, draw a card.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 9+] Flying, vigilance
+Whenever you cast an artifact spell, tap up to one target creature and draw a card.
+
+
+Valkyrja, the Final Voyage
+rules_text:  => [i]Landfall[/i] — Whenever a land you control enters, put a +1/+1 counter on up to one target creature or two charge counters on up to one target Spacecraft.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 16+] Flying
+Whenever Valkyrja attacks, for each land you control, create a token that's a copy of it.
+
+
+Lightless, Star of Oblivion
+rules_text:  => When Lightless enters, exile target nonland permanent an opponent controls. Its controller loses 3 life.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 12+] Flying
+Whenever Lightless attacks, gain control of up to three target lands defending player controls. Then you may have that player's life total become equal to the number of lands they control.
+
+
+Man-Eating Mandrake
+
+Moonsea Terror
+
+Might of the Machine
+
+Viridar Yearling
+
+Floating Processors
+
+Android of Forgotten Creeds
+
+Eternal Mekkastruct
+
+Oblivion Monarch
+
+Scout the Landscape
+
+Mutated Ragebeast
+rules_text: This creature has double strike during your turn.
+{1}{R}, Discard this card: Create two 1/1 blue Pilot creature tokens. Activate only as a sorcery. => This creature has double strike during your turn.
+{1}{R}, Discard this card: Create two 1/1 blue Pilot creature tokens.
+
+Viridar Battalion
+
+Aridian Wanderer
+
+Warp-Ring Terror
+
+Terror of Skolha Peak
+
+Rimescale Wurm
+
+Recorder of Auroras
+
+Mystifying Denial
+
+Unknowable Bond
+
+Esmund's Starpather
+
+Leave Home Behind
+
+Inflated Siphonophore
+
+Ad Astra
+
+Spore Spew
+
+Reality Splicer
+
+Uploaded Intelligence
+
+Luminary Weaver
+
+Heavencraft Valkyrie
+
+Core Guardian
+
+Worldspan Treader
+
+Luscious Planetscape
+
+Edge of the Universe
+
+Narve, Lord of the Wastes
+
+Asbjal, Startouched
+
+Xrogg, Star's Shadow
+
+Shiruun, Evolved One
+
+Monument of Waning Faith
+
+In the Wake of Gods
+
+Creation Redoubled
+
+Touch the Infinite
+
+Asteroid Trawler
+rules_text:  => {T}: Tap target artifact or creature.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 10+] Flying, vigilance
+
+
+Portal Conservator
+
+Kallacore Vanguard
+
+Orrhion, Survey Medusae
+rules_text:  => At the beginning of your upkeep, give any number of permanents with counters on them another counter of each kind already there.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 8+] Flying, trample
+
+
+Icareum, Perfected Mind
+
+Wanderer of the Wastes
+
+Repel Aggression
+
+Rusted Moontrotter
+
+Hive Sporespreader
+rules_text:  => If you would put one or more counters on a permanent, put twice that many of each of those kinds of counters on that permanent instead.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 16+] Flying, trample
+Whenever this Spacecraft attacks, create a 0/0 green Tentacle creature token, then put a +1/+1 counter on each Tentacle you control.
+
+
+Onemind, Eye of Discovery
+
+Elin, Beyond the Horizon
+
+Demigod
+
+The Fludemarmak
+
+Caelira, Dawn Unbroken
+
+Brigand's Tanker
+rules_text:  => When this Spacecraft enters, it deals 4 damage to up to one target creature. Excess damage is dealt to that creature's controller instead.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 8+] Flying
+If a source you control would deal damage to an opponent, you may have it deal damage equal to this Spacecraft's power instead.
+
+
+Chaos Wyrm
+
+Into the Unknown
+
+Starscape Journeyer
+rules_text:  => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 4+] Flying, haste
+Whenever this Spacecraft attacks, create a Treasure token.
+
+
+Orbital Cannon
+rules_text:  => When this Spacecraft enters, you may have it deal 2 damage to each creature.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 9+] Flying
+Whenever this Spacecraft attacks, it deals 2 damage to each opponent.
+
+
+Viridar Research Vessel
+rules_text:  => {T}: Add one mana of any color.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 5+] Flying
+Other artifacts and creatures you control have “{T}: Add one mana of any color.”
+
+
+Nullforged Executioner
+
+Strange Avian
+
+Darkspace Probe
+rules_text: When this Spacecraft enters, you may sacrifice a creature. If you do. draw two cards and put a number of charge counters equal to that creature's power on this Spacecraft.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i] => When this Spacecraft enters, you may sacrifice a creature. If you do, put a number of charge counters equal to the sacrificed creature's power on this Spacecraft and draw two cards.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 7+] Flying, lifelink, deathtouch
+
+special_text: When this Spacecraft enters, you may sacrifice a creature. If you do, draw two cards and put a number of charge counters equal to the sacrificed creature's power on this Spacecraft.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 7+] Flying, lifelink, deathtouch
+ => When this Spacecraft enters, you may sacrifice a creature. If you do, put a number of charge counters equal to the sacrificed creature's power on this Spacecraft and draw two cards.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 7+] Flying, lifelink, deathtouch
+
+
+Kallaheart Rescuer
+
+Inverter Dreadnought
+cost: {3}{B} => {1}{B}{B}
+rules_text: When this Spacecraft enters, you may sacrifice a creature. If you do. draw two cards and put a number of charge counters equal to that creature's power on this Spacecraft.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i] => When this Spacecraft enters, each opponent discards two cards and lose 2 life.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 9+] Flying
+Whenever this Spacecraft attacks, if defending player has one or fewer cards in hand, draw a card.
+
+
+Reality Dissolution
+
+Friede's Purifier
+
+Robot
+
+Lauded Imperator
+
+Freefall Diver
+
+Emergent Godling
+
+First Expedition Explorer
+
+Steelframe Viridar
+
+Upload Capsule
+
+Mesa Dunedancer
+rules_text:  => Flash
+When this Spacecraft enters, it deals 5 damage to up to one target tapped creature.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 5+] Flying
+
+
+Gilded Corvette
+rules_text:  => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 7+] Flying
+Whenever this Spacecraft attacks, return up to one target permanent card with mana value 3 or less from your graveyard to the battlefield.
+
+
+IGF Enforcer
+
+Cloudsifter Float
+rules_text:  => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 6+] Flying
+Whenever this Spacecraft attacks, another target creature you control has base power and toughness 6/6 until end of turn.
+
+
+Skittering Geopede
+rules_text: This creature enters with four +1/+1 counters on it.
+When this creature dies, if it had counters on it, you may out that many +1/+1 counters on target creature you control or twice that many charge counters on target Spacecraft you control. => This creature enters with four +1/+1 counters on it.
+When this creature dies, if it had counters on it, you may put that many +1/+1 counters on target creature you control or twice that many charge counters on target artifact you control.
+
+Horde Scorpion
+
+Spawner Leviathan
+rules_text: When this creature enters, create a 0/0 green Tentacle creature token, then put three +1/+1 counters on target Tentacle you control.
+{1}{G}, Discard this card: Put three +1/+1 counters on target Tentacle you control. => When this creature enters, create a 0/0 green Tentacle creature token, then put three +1/+1 counters on each Tentacle you control.
+{1}{G}, Discard this card: Put three +1/+1 counters on target Tentacle you control.
+
+To Infinity
+
+Lanion, Lethal Hologram
+
+Trozel, Pyramid's Master
+
+Last Dusk
+
+Augmented Assassin
+
+Seek the Last Light
+
+Elevated by the Gods
+
+Rip in Half
+
+Battle for Survival
+
+False God Interface
+
+Signe, the First Maiden
+rules_text: Flying, vigilance
+Token creatures you control get +2/+2.
+Whenever Signe attacks, if it's the first combat phase of the turn, untap all tokens you control. After this phase, there is an additional combat phase. => Flying, vigilance
+Creature tokens you control get +2/+0.
+Whenever Signe attacks, if it's the first combat phase of the turn, untap all tokens you control. After this phase, there is an additional combat phase.
+
+Inexorable Advance
+
+Mirrorscreen Vampire
+
+Freydis, the Astrobiologist
+rules_text: Whenever Freydis attacks, create a 0/0 green Tentacle creature token, then put a +1/+1 counter on each Tentacle you control.
+{8}{G}{W}: Double the power and toughness of each creature you control until end of turn. This ability costs {1} less to activate for each Tentacle you control. => Whenever you attack, create a 0/0 green Tentacle creature token, then put a +1/+1 counter on each Tentacle you control.
+{8}{G}{W}: Double the power and toughness of each creature you control until end of turn. This ability costs {1} less to activate for each Tentacle you control.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

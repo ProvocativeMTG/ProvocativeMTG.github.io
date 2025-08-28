@@ -462,8 +462,8 @@
 		{
 			"name": "Falling Star's Wake",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
-			"type": "Instant",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
 			"collector_number": "134",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/134_Falling Star's Wake.png"
@@ -1819,13 +1819,13 @@
 			}
 		},
 		{
-			"name": "Starwhale Harvest",
+			"name": "Starwhale Harvest Port",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
-			"type": "Sorcery",
+			"type": "Artifact",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/240_Starwhale Harvest.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/240_Starwhale Harvest Port.png"
 			}
 		},
 		{
@@ -2790,7 +2790,7 @@
 		{
 			"name": "Inverter Dreadnought",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{B}",
+			"mana_cost": "{1}{B}{B}",
 			"type": "Artifact — Spacecraft",
 			"collector_number": "104",
 			"image_uris": {
@@ -3193,7 +3193,7 @@
 	2 Nythr, Stargate Goliath
 	2 Supernova
 	1 Faster than Light
-	2 Starwhale Harvest
+	2 Starwhale Harvest Port
 	2 Domesticated Voidbeast
 	2 Mangled Atrocity
 	2 Event Horizon
@@ -3572,7 +3572,7 @@
 	6 Corporate Fumigator
 	12 Mageflame Unleashed
 	6 Decimator Legion
-	2 Starwhale Harvest
+	2 Starwhale Harvest Port
 	6 Scrapyard Bargain
 	6 Driftweld Column
 	6 Trajectory Analyzer
@@ -3854,7 +3854,7 @@
 	15 Corporate Fumigator
 	6 Mageflame Unleashed
 	15 Decimator Legion
-	7 Starwhale Harvest
+	7 Starwhale Harvest Port
 	15 Scrapyard Bargain
 	15 Driftweld Column
 	15 Trajectory Analyzer

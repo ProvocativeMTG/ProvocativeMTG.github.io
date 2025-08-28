@@ -4,6 +4,7 @@
     "trimmed": "n",
     "image_type": "png",
     "draft_structure": "play booster",
+    "unpreviewed": "empty",
     "cards": [
         {
             "card_name": "Drakkonic Mekkastruct",
@@ -13,7 +14,7 @@
             "number": 260,
             "color_identity": "C",
             "cost": "{3}",
-            "rules_text": "Ad astra [i](Each turn, upgrade the effect based on the colors of mana you've spent to cast spells this turn.)[/i]\n[b]3+ [/b]| Whenever this creature enters or attacks, put a +1/+1 counter on each artifact creature you control and two charge counters on each Spacecraft you control . . .\n[b]5+ [/b]| . . . then you may double the number of counters on each artifact you control.",
+            "rules_text": "Ad astra [i](Each turn, upgrade the effect based on the colors of mana you've spent to cast spells this turn.)[/i]\n[b]3+ [/b]| Whenever this creature enters or attacks, put a +1/+1 counter on each artifact creature you control . . .\n[b]5+ [/b]| . . . then double the number of counters on each artifact you control.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -21,6 +22,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Geoffrey Ernault",
+            "alias": "",
             "notes": ""
         },
         {
@@ -39,6 +41,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Joseph Eichelberger",
+            "alias": "",
             "card_name2": "Desolate Expanse",
             "color2": "",
             "type2": "Land",
@@ -49,6 +52,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Michal Kv\u00e1c",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -67,6 +71,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Veli Nystrom",
+            "alias": "",
             "notes": ""
         },
         {
@@ -85,6 +90,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "G-Hamm",
+            "alias": "",
             "notes": ""
         },
         {
@@ -103,6 +109,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Matthew Ross Crafton",
+            "alias": "",
             "notes": ""
         },
         {
@@ -121,6 +128,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Jorge Oliveira",
+            "alias": "",
             "notes": ""
         },
         {
@@ -139,6 +147,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "A-u-R-e-L",
+            "alias": "",
             "notes": ""
         },
         {
@@ -149,7 +158,7 @@
             "number": 196,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Enchant creature you control\nWhenever enchanted creature deals combat damage to a player, draw a card.\nOrbit 2\u2014{2}{G} [i]({2}{G}, Exile this card from your hand: Put two charge counters on it. Once during each of your turns, you may cast a copy of this card without paying its mana cost by removing a charge counter from it. Orbit only as a sorcery.)[/i]",
+            "rules_text": "Enchant creature or Spacecraft you control\nWhenever enchanted permanent deals combat damage to a player, draw a card.\nOrbit 2\u2014{2}{G} [i]({2}{G}, Exile this card from your hand: Put two charge counters on it. Once during each of your turns, you may cast a copy of this card without paying its mana cost by removing a charge counter from it. Orbit only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -157,6 +166,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "A-u-R-e-L",
+            "alias": "",
             "notes": ""
         },
         {
@@ -175,6 +185,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "A-u-R-e-L",
+            "alias": "",
             "notes": ""
         },
         {
@@ -193,6 +204,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "A-u-R-e-L",
+            "alias": "",
             "notes": ""
         },
         {
@@ -211,6 +223,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "A-u-R-e-L",
+            "alias": "",
             "notes": ""
         },
         {
@@ -229,6 +242,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "A-u-R-e-L",
+            "alias": "",
             "notes": ""
         },
         {
@@ -247,6 +261,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "A-u-R-e-L",
+            "alias": "",
             "notes": ""
         },
         {
@@ -265,6 +280,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "A-u-R-e-L",
+            "alias": "",
             "notes": ""
         },
         {
@@ -283,6 +299,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "A-u-R-e-L",
+            "alias": "",
             "notes": ""
         },
         {
@@ -301,6 +318,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "A-u-R-e-L",
+            "alias": "",
             "notes": ""
         },
         {
@@ -319,6 +337,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "M0nkaeee",
+            "alias": "",
             "card_name2": "Fluctuating Domain",
             "color2": "",
             "type2": "Land",
@@ -329,6 +348,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Joe Grabenstetter",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -347,6 +367,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Javi Aqueche",
+            "alias": "",
             "notes": ""
         },
         {
@@ -365,6 +386,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Evigilatio",
+            "alias": "",
             "notes": ""
         },
         {
@@ -383,6 +405,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Han Flores",
+            "alias": "",
             "card_name2": "Consuming Domain",
             "color2": "",
             "type2": "Land",
@@ -393,6 +416,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Finnian MacManus",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -411,6 +435,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "George Bennett",
+            "alias": "",
             "card_name2": "Teeming Domain",
             "color2": "",
             "type2": "Land",
@@ -421,6 +446,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Michal Kv\u00e1c",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -439,6 +465,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "bigfatlow",
+            "alias": "",
             "card_name2": "Dancing Domain",
             "color2": "",
             "type2": "Land",
@@ -449,6 +476,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Igor Vitkovskiy",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -467,6 +495,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Fire Mountain Games",
+            "alias": "",
             "notes": ""
         },
         {
@@ -485,6 +514,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Sandara Tang",
+            "alias": "",
             "card_name2": "Surging Domain",
             "color2": "",
             "type2": "Land",
@@ -495,6 +525,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Victor Sales",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -513,6 +544,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "John Zeleznik",
+            "alias": "",
             "notes": ""
         },
         {
@@ -531,6 +563,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Ricardo Emig",
+            "alias": "",
             "notes": ""
         },
         {
@@ -549,6 +582,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Anton Oxenuk",
+            "alias": "",
             "notes": ""
         },
         {
@@ -567,6 +601,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "li moly",
+            "alias": "",
             "notes": ""
         },
         {
@@ -577,7 +612,7 @@
             "number": 210,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
-            "rules_text": "",
+            "rules_text": "Whenever you cast a noncreature spell, Captain Elai deals 1 damage to each opponent and you create a tapped Treasure token.\n[+1]: Draw a card for each card you've drawn this turn, then discard a card.\n[-X]: Captain Elai deals twice X damage to target creature or planeswalker.\n[-6]: You get an emblem with \u201cWhenever you cast \na noncreature spell, copy it for each color of mana spent to cast it. You may choose new \ntargets for the copies.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "Whenever you cast a noncreature spell, Captain Elai deals 1 damage to each opponent and you create a tapped Treasure token.\n[+1]: Draw a card for each card you've drawn this turn, then discard a card.\n[-X]: Captain Elai deals twice X damage to target creature or planeswalker.\n[-6]: You get an emblem with \u201cWhenever you cast \na noncreature spell, copy it for each color of mana spent to cast it. You may choose new \ntargets for the copies.\u201d",
@@ -585,6 +620,7 @@
             "set": "VYI",
             "loyalty": "3",
             "artist": "Egawa Akira",
+            "alias": "",
             "notes": ""
         },
         {
@@ -603,6 +639,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Valeria Sheina",
+            "alias": "",
             "notes": ""
         },
         {
@@ -613,7 +650,7 @@
             "number": 166,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
-            "rules_text": "",
+            "rules_text": "[+1]: Create a Keen Sense token attached to up to one target creature you control. [i](It's an Aura enchantment with enchant creature and \u201cWhenever enchanted creature deals damage to an opponent, you may draw a card.\u201d)[/i]\n[-2]: Create a 3/3 green Elk Spirit creature token.\n[-2]: Target creature you control deals damage equal to its power to target creature an opponent controls. When it deals excess damage this way, destroy target artifact or enchantment an opponent controls with mana value less than or equal to that amount of excess damage.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: Create a Keen Sense token attached to up to one target creature you control. [i](It's an Aura enchantment with enchant creature and \u201cWhenever enchanted creature deals damage to an opponent, you may draw a card.\u201d)[/i]\n[-2]: Create a 3/3 green Elk Spirit creature token.\n[-2]: Target creature you control deals damage equal to its power to target creature an opponent controls. When it deals excess damage this way, destroy target artifact or enchantment an opponent controls with mana value less than or equal to that amount of excess damage.",
@@ -621,6 +658,7 @@
             "set": "VYI",
             "loyalty": "3",
             "artist": "JasonTN",
+            "alias": "",
             "notes": ""
         },
         {
@@ -639,6 +677,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Louis Laurent",
+            "alias": "",
             "notes": ""
         },
         {
@@ -649,7 +688,7 @@
             "number": 116,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "When this Spacecraft enters, each players exiles a nontoken creature they control.\nStation 6+ [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i] [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\nFlying\nAt the beginning of each opponent's upkeep, that player exiles a nontoken creature they control. If they can't, put a creature card exiled with this Spacecraft onto the battlefield, then sacrifice this Spacecraft.",
+            "rules_text": "When this Spacecraft enters, each opponent exiles a nontoken creature they control.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 7+] Flying\nAt the beginning of each opponent's upkeep, that player exiles a nontoken creature they control. If they can't, put a creature card exiled with this Spacecraft onto the battlefield, then sacrifice this Spacecraft.\n",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "When this Spacecraft enters, each opponent exiles a nontoken creature they control.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 7+] Flying\nAt the beginning of each opponent's upkeep, that player exiles a nontoken creature they control. If they can't, put a creature card exiled with this Spacecraft onto the battlefield, then sacrifice this Spacecraft.\n",
@@ -657,6 +696,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Christina P. Myrvold",
+            "alias": "",
             "notes": ""
         },
         {
@@ -675,6 +715,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Ryan Anelowe",
+            "alias": "",
             "card_name2": "Ether Reef",
             "color2": "",
             "type2": "Land",
@@ -685,6 +726,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Yuri Kotov",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -703,6 +745,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Ryan Anelowe",
+            "alias": "",
             "notes": ""
         },
         {
@@ -721,6 +764,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Ryan Anelowe",
+            "alias": "",
             "notes": ""
         },
         {
@@ -739,6 +783,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Jakub Jagoda",
+            "alias": "",
             "notes": ""
         },
         {
@@ -757,6 +802,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Col Price",
+            "alias": "",
             "notes": ""
         },
         {
@@ -775,6 +821,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Flora Silve",
+            "alias": "",
             "notes": ""
         },
         {
@@ -793,6 +840,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "MK Art",
+            "alias": "",
             "notes": ""
         },
         {
@@ -811,16 +859,17 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Tenzin Rangdol",
+            "alias": "",
             "notes": ""
         },
         {
             "card_name": "Falling Star's Wake",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Instant",
+            "type": "Sorcery",
             "number": 134,
             "color_identity": "R",
-            "cost": "{1}{R}",
+            "cost": "{R}",
             "rules_text": "When you next cast an instant or sorcery spell this turn, copy it. You may choose new targets for the copy.\nOrbit 2\u2014{3}{R} [i]({3}{R}, Exile this card from your hand: Put two charge counters on it. Once during each of your turns, you may cast a copy of this card without paying its mana cost by removing a charge counter from it. Orbit only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -829,6 +878,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Luka Brico",
+            "alias": "",
             "notes": ""
         },
         {
@@ -847,6 +897,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Elizah Leigh",
+            "alias": "",
             "card_name2": "Sprouting Moon",
             "color2": "",
             "type2": "Land",
@@ -857,6 +908,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Cullen Cole",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -875,6 +927,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Reuben Tan",
+            "alias": "",
             "card_name2": "Shattered Temple",
             "color2": "",
             "type2": "Land",
@@ -885,6 +938,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Gabriel Yeganyan",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -903,6 +957,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Kamikaye",
+            "alias": "",
             "notes": ""
         },
         {
@@ -921,6 +976,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Platinum Fields",
+            "alias": "",
             "notes": ""
         },
         {
@@ -939,6 +995,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Thomas Bourdon",
+            "alias": "",
             "notes": ""
         },
         {
@@ -957,6 +1014,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Angga Dwipayana",
+            "alias": "",
             "notes": ""
         },
         {
@@ -975,6 +1033,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Peter Sakievich",
+            "alias": "",
             "notes": ""
         },
         {
@@ -993,6 +1052,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Timi Honkanen",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1011,6 +1071,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Ricardo Emig",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1029,6 +1090,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Mira Rakhmetova",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1047,6 +1109,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "mike heath",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1065,6 +1128,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Dylan Amelot",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1083,6 +1147,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Goottipoju",
+            "alias": "",
             "card_name2": "Hive Nest",
             "color2": "",
             "type2": "Land",
@@ -1093,6 +1158,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Lukasz Jaskolski",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -1111,6 +1177,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Jon Neimeister",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1129,6 +1196,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Mirco Paganessi",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1147,6 +1215,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "mobzeroone",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1165,6 +1234,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Joshu",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1183,6 +1253,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Albert Urmanov",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1201,6 +1272,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Syed Ali Qaiser",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1219,6 +1291,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Emilio Grasso",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1229,14 +1302,15 @@
             "number": 259,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "",
+            "rules_text": "When Drakkonfell enters, create a 2/1 red Berserker creature token with \u201cThis token can't block.\u201d\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 6+] Flying, menace\nWhenever Drakkonfell attacks, you may search your library for a land card, put it onto the battlefield tapped, then shuffle.\n",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "When this Spacecraft enters, create a 2/1 red Berserker creature token with \u201cThis token can't block.\u201d\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 6+] Flying, menace\nWhenever this Spacecraft attacks, you may search your library for a land card, put it onto the battlefield tapped, then shuffle.\n",
+            "special_text": "When Drakkonfell enters, create a 2/1 red Berserker creature token with \u201cThis token can't block.\u201d\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 6+] Flying, menace\nWhenever Drakkonfell attacks, you may search your library for a land card, put it onto the battlefield tapped, then shuffle.\n",
             "shape": "leveler",
             "set": "VYI",
             "loyalty": "",
             "artist": "Laura Geran",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1255,6 +1329,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Andres Agostini",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1273,6 +1348,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Infinity Pilot",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1291,6 +1367,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Wasan",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1309,6 +1386,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Angga Dwipayana",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1327,6 +1405,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Hekx",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1345,6 +1424,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Elian Charazka",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1363,6 +1443,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Carlos C Diaz",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1381,6 +1462,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Stephanie Shimerdla",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1399,6 +1481,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Duong ct",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1417,6 +1500,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Gary Chen",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1435,6 +1519,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "DarkDust",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1453,6 +1538,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Elvira Shatunova",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1471,6 +1557,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Anatoly Muschenko",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1489,6 +1576,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Josiah Scholten",
+            "alias": "",
             "card_name2": "Unknown Territory",
             "color2": "",
             "type2": "Land",
@@ -1499,6 +1587,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Roman Likholob",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -1517,6 +1606,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Antonio Bagia",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1535,6 +1625,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Sylvain Sarrailh",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1553,6 +1644,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Jennifer Beam",
+            "alias": "",
             "card_name2": "Glittering Wastes",
             "color2": "",
             "type2": "Land",
@@ -1563,6 +1655,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Michal Kv\u00e1c",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -1581,6 +1674,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Max Schiller",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1599,6 +1693,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "CARAVAN-",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1617,6 +1712,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Denis Zhbankov",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1627,7 +1723,7 @@
             "number": 4,
             "color_identity": "W",
             "cost": "{4}{W}",
-            "rules_text": "Return target artifact, creature, or planeswalker card from your graveyard to the battlefield. If it's a Spacecraft, you may put five charge counters on it.",
+            "rules_text": "Return target artifact, creature, or planeswalker card from your graveyard to the battlefield. If it's an artifact, you may put five charge counters on it.",
             "flavor_text": "[i]\u201cWhen I send a machine to meet its maker, it often takes more than just one cut.\u201d\n\u2014Caelira[/i]",
             "pt": "",
             "special_text": "",
@@ -1635,6 +1731,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Von Milano",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1653,6 +1750,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Wolka-Art",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1671,6 +1769,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Riley Dannenbring",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1689,6 +1788,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Jason Dobkin",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1707,6 +1807,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Viq Verglas",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1725,6 +1826,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Vladimir Zhdanov",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1743,6 +1845,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "SIXMOREVODKA",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1761,6 +1864,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Dan Shayu",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1779,6 +1883,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Laurien Edon Fichtner",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1797,6 +1902,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Adrianna Fory",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1815,6 +1921,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Erik Shoemaker",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1825,7 +1932,7 @@
             "number": 1,
             "color_identity": "C",
             "cost": "{8}",
-            "rules_text": "",
+            "rules_text": "[+2]: Each player exiles cards from the top of their library until they exile a nonland card. You may cast any card exiled with Aeon without paying its mana cost.\n[+1]: Create a colorless enchantment token named Void Corona with \u201cSacrifice this token: The next spell you cast this turn has starstorm.\u201d [i](When you cast that spell, copy it for each spell you cast before it this turn. You may choose new targets for the copies.)[/i]\n[-5]: Choose three numbers. Exile each other nonland permanent with a mana value that is equal to one of the chosen numbers.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+2]: Each player exiles cards from the top of their library until they exile a nonland card. You may cast any card exiled with Aeon without paying its mana cost.\n[+1]: Create a colorless enchantment token named Void Corona with \u201cSacrifice this token: The next spell you cast this turn has starstorm.\u201d [i](When you cast that spell, copy it for each spell you cast before it this turn. You may choose new targets for the copies.)[/i]\n[-5]: Choose three numbers. Exile each other nonland permanent with a mana value that is equal to one of the chosen numbers.",
@@ -1833,6 +1940,7 @@
             "set": "VYI",
             "loyalty": "7",
             "artist": "Victor Sales",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1851,6 +1959,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "august artist",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1869,6 +1978,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Zhang Li",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1887,6 +1997,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Tobias Roetsch",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1897,14 +2008,15 @@
             "number": 123,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
-            "rules_text": "",
+            "rules_text": "[+1]: If any player has one or fewer cards in hand, you draw a card. Otherwise, each opponent loses 1 life.\n[-2]: Create a black Aura enchantment token named Nulltouched attached to target creature. It has enchant creature and \u201cEnchanted creature gets -2/-2\u201d and \u201cAt the beginning of the upkeep of enchanted creature's controller, that player loses 2 life.\u201d\n[-X]: Draw X cards. Your maximum hand size becomes X. [i](This effects lasts indefinitely.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[+1]: If any player has one or fewer cards in hand, you draw a card. Otherwise, each opponent loses 1 life.\n[-2]: Create a black Aura enchantment token named Nulltouch attached to target creature. It has enchant creature and \u201cEnchanted creature gets -2/-2\u201d and \u201cAt the beginning of the upkeep of enchanted creature's controller, that player loses 2 life.\u201d\n[-X]: Draw X cards. Your maximum hand size becomes X. [i](This effects lasts indefinitely.)[/i]",
+            "special_text": "[+1]: If any player has one or fewer cards in hand, you draw a card. Otherwise, each opponent loses 1 life.\n[-2]: Create a black Aura enchantment token named Nulltouched attached to target creature. It has enchant creature and \u201cEnchanted creature gets -2/-2\u201d and \u201cAt the beginning of the upkeep of enchanted creature's controller, that player loses 2 life.\u201d\n[-X]: Draw X cards. Your maximum hand size becomes X. [i](This effects lasts indefinitely.)[/i]",
             "shape": "planeswalker",
             "set": "VYI",
             "loyalty": "3",
             "artist": "Irene Barboni",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1923,6 +2035,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Carly A-F",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1941,6 +2054,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Xistence Imaginations",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1959,6 +2073,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Monte Cook Games",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1977,6 +2092,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Noud van Miltenburg",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1995,6 +2111,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Kamikaye",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2013,6 +2130,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Giuliano Brocani",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2031,6 +2149,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Elias Kiknavelidze",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2049,6 +2168,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Derek Jones",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2067,6 +2187,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Sygdom",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2085,6 +2206,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "bioluminosity",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2103,6 +2225,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "bioluminosity",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2121,6 +2244,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "John Stone",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2139,6 +2263,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "bioluminosity",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2157,6 +2282,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Vincent LAIK",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2175,6 +2301,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Jessica Nguyen",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2193,6 +2320,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Ronnie Wong",
+            "alias": "",
             "notes": "REWORK"
         },
         {
@@ -2211,6 +2339,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Ha Ru",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2229,6 +2358,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Mongoose Publishing",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2247,6 +2377,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Moongoose Publishing",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2265,6 +2396,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Shawn Puckett",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2283,6 +2415,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Logan PERREAU",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2301,6 +2434,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Boris Radevski",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2319,6 +2453,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Thomas Bourdon",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2337,6 +2472,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Markus Neidel",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2355,6 +2491,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Mingchen Shen",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2373,6 +2510,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Tu Bui",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2391,6 +2529,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Ulfr Larynsson",
+            "alias": "",
             "notes": "REWORK"
         },
         {
@@ -2409,6 +2548,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Yongchun Huang",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2427,6 +2567,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "DOFRESH",
+            "alias": "",
             "notes": "REWORK art"
         },
         {
@@ -2445,6 +2586,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Ryan Anelowe",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2463,6 +2605,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Daryl Mandryk",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2481,6 +2624,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "FUJIAWEI",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2491,14 +2635,15 @@
             "number": 32,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Flash\nFlying\nWhen this creature enters, you may return another permanent you control to its owner's hand. If it had counters on it, you may put that many charge counters on target Spacecraft you control.",
+            "rules_text": "Flash\nFlying\nWhen this creature enters, you may return another permanent you control to its owner's hand. If it had counters on it, you may put that many charge counters on target artifact you control.",
             "flavor_text": "[i][/i]",
-            "pt": "2/1",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "VYI",
             "loyalty": "",
             "artist": "beffio studios",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2517,6 +2662,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Tony Paz",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2535,6 +2681,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Marina Lunina",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2545,7 +2692,7 @@
             "number": 203,
             "color_identity": "G",
             "cost": "{4}{G}",
-            "rules_text": "At the beginning of your end step, if a creature card was put into your graveyard from anywhere this turn, put a +1/+1 counter on target creature or two charge counters on target Spacecraft.",
+            "rules_text": "At the beginning of your end step, if a creature card was put into your graveyard from anywhere this turn, put a +1/+1 counter on target creature or two charge counters on target artifact.",
             "flavor_text": "[i]When the viradar travel off-world, they require containment suits to protect their filtration organs from foreign atmospheres.[/i]",
             "pt": "5/5",
             "special_text": "",
@@ -2553,6 +2700,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Roman Groph",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2571,6 +2719,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Danil Kuptsov",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2589,6 +2738,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Edward Groult",
+            "alias": "",
             "card_name2": "Temple of the Automaton",
             "color2": "",
             "type2": "Land",
@@ -2599,6 +2749,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Bastien Grivet",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -2617,6 +2768,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Bjorn Hurri",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2635,6 +2787,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Boris M",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2653,6 +2806,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Valentina Paz",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2671,6 +2825,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Vladimir Buchyk",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2689,6 +2844,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Dmitriy Leonovich",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2707,6 +2863,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Matt Forsyth",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2725,6 +2882,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Gou zhikun",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2743,6 +2901,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Jeremy Paillotin",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2761,6 +2920,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "spikulec",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2779,6 +2939,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Matthew Arnone",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2797,6 +2958,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Kevin Glint",
+            "alias": "",
             "card_name2": "Disintegrating Plateau",
             "color2": "",
             "type2": "Land",
@@ -2807,6 +2969,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Fivizzani Luca",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -2825,6 +2988,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Gabo Garza",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2843,6 +3007,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Felix Bauer Schlichtegroll.",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2861,6 +3026,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Pawel Kozera",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2879,6 +3045,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Drew Soman",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2897,6 +3064,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Raphael Madureira",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2915,6 +3083,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Arturo Gutierrez",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2933,6 +3102,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Ashley A. Adams",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2951,6 +3121,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Shinon",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2969,6 +3140,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "annemaria48",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2979,7 +3151,7 @@
             "number": 274,
             "color_identity": "C",
             "cost": "{7}",
-            "rules_text": "",
+            "rules_text": "When this Spacecraft enters, exile target creature an opponent controls until this Spacecraft leaves the battlefield.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 7+] Flying\n",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "When this Spacecraft enters, exile target creature an opponent controls until this Spacecraft leaves the battlefield.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 7+] Flying\n",
@@ -2987,6 +3159,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Eddie Del Rio",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2997,7 +3170,7 @@
             "number": 264,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "",
+            "rules_text": "When this Spacecraft enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 4+] Flying\nWhenever this Spacecraft attacks, surveil 1.\n",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "When this Spacecraft enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 4+] Flying\nWhenever this Spacecraft attacks, surveil 1.\n",
@@ -3005,6 +3178,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Eddie Del Rio",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3023,6 +3197,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Neil Blevins",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3041,6 +3216,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Donato Giancola",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3059,6 +3235,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Raphael Lacoste",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3077,6 +3254,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Raphael Lacoste",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3095,6 +3273,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "ShootingStarLogBook",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3113,6 +3292,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Jessica Rosier",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3131,6 +3311,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Luke Oram",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3149,6 +3330,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "DesignSpartan",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3159,14 +3341,15 @@
             "number": 37,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
-            "rules_text": "Destroy all creatures. When you do, put X charge counters on target Spacecraft you control, where X is the number of creatures destroyed this way.",
-            "flavor_text": "[i]The crew of the [/i]Starkarve[i] realized that to reach Myrkdrasil, they would need to slingshot around the system's star. The issue with that plan was that the star was exploding.[/i]",
+            "rules_text": "Destroy all creatures. When you do, put X charge counters on up to one target artifact you control, where X is the number of creatures destroyed this way.",
+            "flavor_text": "[i]The crew of the [/i]Drakkonfell[i] realized that to reach Myrkdrasil, they would need to slingshot around the system's star. The issue with that plan was that the star was exploding.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "VYI",
             "loyalty": "",
             "artist": "Tu Bui",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3178,13 +3361,14 @@
             "color_identity": "R",
             "cost": "{5}{R}{R}{R}",
             "rules_text": "Exile the top half of your library. Until end of turn, you may play cards not named Faster than Light exiled this way. For each land card exiled this way, add one mana of any color.",
-            "flavor_text": "[i]Propelled by their slingshot maneuver and powered by the Kallatree's might, the [/i]Starkarve[i] rocketed across the universe faster than anything else ever had.[/i]",
+            "flavor_text": "[i]Propelled by their slingshot maneuver and powered by the Kallatree's might, the [/i]Drakkonfell[i] rocketed across the universe faster than anything else ever had.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "VYI",
             "loyalty": "",
             "artist": "Derek Jones",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3203,6 +3387,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Palamarchuk Mikhail",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3221,6 +3406,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Debby Illanes",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3239,17 +3425,18 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "George REDreev",
+            "alias": "",
             "notes": ""
         },
         {
-            "card_name": "Starwhale Harvest",
+            "card_name": "Starwhale Harvest Port",
             "color": "UG",
             "rarity": "rare",
-            "type": "Sorcery",
+            "type": "Artifact",
             "number": 240,
             "color_identity": "UG",
             "cost": "{2}{G}{U}",
-            "rules_text": "As an additional cost to cast this spell, sacrifice a creature.\nYou draw X cards, gain X life, and create an X/X token that's a copy of the sacrificed creature, where X was the sacrificed creature's mana value.",
+            "rules_text": "Whenever you cast a spell with mana value 4 or greater, untap this artifact and put a charge counter on it.\n{T}, Discard a card: Draw two cards.\n{T}, Sacrifice a land: Create two Treasure tokens.\n{T}, Remove four charge counters from this artifact: Create a 6/6 blue Leviathan creature token with flying.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3257,6 +3444,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Seokin Chung",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3275,6 +3463,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Hannah Santos",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3285,7 +3474,7 @@
             "number": 52,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
-            "rules_text": "",
+            "rules_text": "Other artifact creatures you control get +1/+1.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 8+] Flying\nThis Spacecraft gets +1/+1 for each artifact you control.\n",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "Other artifact creatures you control get +1/+1.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 8+] Flying\nThis Spacecraft gets +1/+1 for each artifact you control.\n",
@@ -3293,6 +3482,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Yuliya Zabelina",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3311,6 +3501,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Alejandro Burdisio",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3329,6 +3520,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Allen Panakal",
+            "alias": "",
             "card_name2": "Edge of Civilization",
             "color2": "",
             "type2": "Land",
@@ -3339,6 +3531,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Anh Le",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -3357,6 +3550,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Treetrunk",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3375,6 +3569,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Keyi Li",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3393,6 +3588,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Irene Cabrejas",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3411,6 +3607,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Tim Shepherd",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3429,6 +3626,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Tim Shepherd",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3447,6 +3645,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "mist XG",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3465,6 +3664,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Seunghwan Kim",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3483,6 +3683,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Vincent Lefevre",
+            "alias": "",
             "card_name2": "Frigate Graveyard",
             "color2": "",
             "type2": "Land",
@@ -3493,6 +3694,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Jan Rozansk",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -3503,7 +3705,7 @@
             "number": 21,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "",
+            "rules_text": "When this Spacecraft enters, look at target opponent's hand. You may exile a nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 7+] Flying, lifelink\nYour opponents can't cast spells from anywhere other than their hands.\n",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "When this Spacecraft enters, look at target opponent's hand. You may exile a nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 7+] Flying, lifelink\nYour opponents can't cast spells from anywhere other than their hands.\n",
@@ -3511,6 +3713,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Brandon Jones",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3529,6 +3732,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Liza Gomza",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3547,6 +3751,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Dominik Mayer",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3565,6 +3770,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Pavel Tomashevskiy",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3583,6 +3789,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "TANG0 ST",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3601,6 +3808,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Lao lei",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3619,6 +3827,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Ingram Schell",
+            "alias": "",
             "card_name2": "Star-Ravaged Wastes",
             "color2": "",
             "type2": "Land",
@@ -3629,6 +3838,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Alex Monge",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -3647,6 +3857,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Arno Male",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3665,6 +3876,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Maciej Rebisz",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3683,6 +3895,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "oleg kuzmin",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3693,7 +3906,7 @@
             "number": 214,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
-            "rules_text": "",
+            "rules_text": "Whenever this Spacecraft enters, tap target nonland permanent an opponent controls and put three stun counters on it.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 10+] Flying\nOther artifact creatures you control have flying.\n",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "Whenever this Spacecraft enters, tap target nonland permanent an opponent controls and put three stun counters on it.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 10+] Flying\nOther artifact creatures you control have flying.\n",
@@ -3701,6 +3914,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Dmitrii Ustinov",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3719,6 +3933,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Wicky Bawangun",
+            "alias": "",
             "card_name2": "Hostile Desert",
             "color2": "",
             "type2": "Land",
@@ -3729,6 +3944,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Alexander Winkler",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -3747,6 +3963,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "miyumi",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3757,7 +3974,7 @@
             "number": 47,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "",
+            "rules_text": "When this artifact enters, draw a card.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 9+] Flying, vigilance\nWhenever you cast an artifact spell, tap up to one target creature and draw a card.\n",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "When this artifact enters, draw a card.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 9+] Flying, vigilance\nWhenever you cast an artifact spell, tap up to one target creature and draw a card.\n",
@@ -3765,6 +3982,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Johannes Mucke",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3775,7 +3993,7 @@
             "number": 273,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, put a +1/+1 counter on up to one target creature or two charge counters on up to one target Spacecraft.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 16+] Flying\nWhenever Valkyrja attacks, for each land you control, create a token that's a copy of it.\n",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, put a +1/+1 counter on up to one target creature or two charge counters on up to one target Spacecraft.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 16+] Flying\nWhenever Valkyrja attacks, for each land you control, create a token that's a copy of it.\n",
@@ -3783,6 +4001,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Elias Stern",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3793,7 +4012,7 @@
             "number": 267,
             "color_identity": "C",
             "cost": "{5}",
-            "rules_text": "",
+            "rules_text": "When Lightless enters, exile target nonland permanent an opponent controls. Its controller loses 3 life.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 12+] Flying\nWhenever Lightless attacks, gain control of up to three target lands defending player controls. Then you may have that player's life total become equal to the number of lands they control.\n",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "When Lightless enters, exile target nonland permanent an opponent controls. Its controller loses 3 life.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 12+] Flying\nWhenever Lightless attacks, gain control of up to three target lands defending player controls. Then you may have that player's life total become equal to the number of lands they control.\n",
@@ -3801,6 +4020,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Dmitrii Ustinov",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3819,6 +4039,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "J.R. Coffron",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3837,6 +4058,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Victor Wong",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3855,6 +4077,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Palamarchuk Mikhail",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3873,6 +4096,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Joseffyne Robinson",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3891,6 +4115,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Leon Tukker",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3909,6 +4134,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Stephen Boe",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3927,6 +4153,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Yidong Shui",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3945,6 +4172,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Yidong Shui",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3963,6 +4191,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Lucas Hurtado",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3973,14 +4202,15 @@
             "number": 145,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "This creature has double strike during your turn.\n{1}{R}, Discard this card: Create two 1/1 blue Pilot creature tokens. Activate only as a sorcery.",
-            "flavor_text": "[i][/i]",
+            "rules_text": "This creature has double strike during your turn.\n{1}{R}, Discard this card: Create two 1/1 blue Pilot creature tokens.",
+            "flavor_text": "[i]\u201cStill hot on the beast's trail. Something is off about this one.\u201d\n\u2014Belaire, Expedition 41[/i]",
             "pt": "2/3",
             "special_text": "",
             "shape": "normal",
             "set": "VYI",
             "loyalty": "",
             "artist": "Christian Reiske",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3999,6 +4229,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Koiranuk",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4017,6 +4248,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Eric Leclerc",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4035,6 +4267,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "crs1009",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4053,6 +4286,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Ryan Van Dongen",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4071,6 +4305,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Ivan Mikhalenko",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4089,6 +4324,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Elena Churkina",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4107,6 +4343,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Alice Boudry",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4125,6 +4362,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Ekaterina Yastrubetskaya",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4143,6 +4381,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Jorge Oliveira",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4161,6 +4400,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Sam Kemp",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4179,6 +4419,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Christian Bravery",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4197,6 +4438,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Yuumei Art",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4215,6 +4457,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Jared Krichevsky",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4233,6 +4476,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Atomhawk",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4251,6 +4495,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Lyss Menold",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4269,6 +4514,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Hada Bagus",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4287,6 +4533,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Celestial Fang",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4305,6 +4552,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Iqnatius Budi",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4323,6 +4571,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Simo R\u00e4s\u00e4nen",
+            "alias": "",
             "card_name2": "Starscraper Tundra",
             "color2": "",
             "type2": "Land",
@@ -4333,6 +4582,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Simo R\u00e4s\u00e4nen",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -4351,6 +4601,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Michal Kv\u00e1c",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4369,6 +4620,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Nyandere",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4387,6 +4639,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Draw Souls",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4405,6 +4658,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Alexandr Elichev",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4423,6 +4677,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Carpet-Crawler",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4441,6 +4696,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Spikulec",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4459,6 +4715,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Kevin Jick",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4477,6 +4734,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "mist XG",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4495,6 +4753,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Kevin Jick",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4513,6 +4772,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Atom Cyber",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4523,7 +4783,7 @@
             "number": 44,
             "color_identity": "U",
             "cost": "{4}{U}",
-            "rules_text": "",
+            "rules_text": "{T}: Tap target artifact or creature.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 10+] Flying, vigilance\n",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "{T}: Tap target artifact or creature.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 10+] Flying, vigilance\n",
@@ -4531,6 +4791,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "G-Hamm",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4549,6 +4810,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Ivan Skudnev",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4567,6 +4829,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Candelaria Caballo",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4577,7 +4840,7 @@
             "number": 232,
             "color_identity": "WUR",
             "cost": "{U}{R}{W}",
-            "rules_text": "",
+            "rules_text": "At the beginning of your upkeep, give any number of permanents with counters on them another counter of each kind already there.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 8+] Flying, trample\n",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "At the beginning of your upkeep, give any number of permanents with counters on them another counter of each kind already there.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 8+] Flying, trample\n",
@@ -4585,6 +4848,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Llia Yu",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4603,6 +4867,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Arseniy Popov",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4621,6 +4886,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "David Thor Fjalarsson",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4639,6 +4905,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Xiaoyu Wang",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4657,6 +4924,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Noah Thatcher",
+            "alias": "",
             "card_name2": "Twin Moon Mesa",
             "color2": "",
             "type2": "Land",
@@ -4667,6 +4935,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Raphael Lacoste",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -4677,7 +4946,7 @@
             "number": 182,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "",
+            "rules_text": "If you would put one or more counters on a permanent, put twice that many of each of those kinds of counters on that permanent instead.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 16+] Flying, trample\nWhenever this Spacecraft attacks, create a 0/0 green Tentacle creature token, then put a +1/+1 counter on each Tentacle you control.\n",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "If you would put one or more counters on a permanent, put twice that many of each of those kinds of counters on that permanent instead.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 16+] Flying, trample\nWhenever this Spacecraft attacks, create a 0/0 green Tentacle creature token, then put a +1/+1 counter on each Tentacle you control.\n",
@@ -4685,6 +4954,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Zsolt Kuczora",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4703,6 +4973,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Tom Joubert",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4721,6 +4992,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Jeff Jumper",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4739,6 +5011,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Fuxia",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4757,6 +5030,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Luke Oram",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4775,6 +5049,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Szab\u00f3 Bendeg\u00faz",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4785,7 +5060,7 @@
             "number": 130,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "",
+            "rules_text": "When this Spacecraft enters, it deals 4 damage to up to one target creature. Excess damage is dealt to that creature's controller instead.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 8+] Flying\nIf a source you control would deal damage to an opponent, you may have it deal damage equal to this Spacecraft's power instead.\n",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "When this Spacecraft enters, it deals 4 damage to up to one target creature. Excess damage is dealt to that creature's controller instead.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 8+] Flying\nIf a source you control would deal damage to an opponent, you may have it deal damage equal to this Spacecraft's power instead.\n",
@@ -4793,6 +5068,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Vitaliy Ostaschenko",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4811,6 +5087,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Bruno Machado",
+            "alias": "",
             "card_name2": "Chaos Well",
             "color2": "",
             "type2": "Land",
@@ -4821,6 +5098,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Chris Voy",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -4839,6 +5117,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Antti Martikainen",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4849,7 +5128,7 @@
             "number": 156,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "",
+            "rules_text": "Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 4+] Flying, haste\nWhenever this Spacecraft attacks, create a Treasure token.\n",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 4+] Flying, haste\nWhenever this Spacecraft attacks, create a Treasure token.\n",
@@ -4857,6 +5136,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "G-hamm",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4867,7 +5147,7 @@
             "number": 149,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "",
+            "rules_text": "When this Spacecraft enters, you may have it deal 2 damage to each creature.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 9+] Flying\nWhenever this Spacecraft attacks, it deals 2 damage to each opponent.\n",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "When this Spacecraft enters, you may have it deal 2 damage to each creature.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 9+] Flying\nWhenever this Spacecraft attacks, it deals 2 damage to each opponent.\n",
@@ -4875,6 +5155,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Hideyoshi",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4885,7 +5166,7 @@
             "number": 202,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "",
+            "rules_text": "{T}: Add one mana of any color.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 5+] Flying\nOther artifacts and creatures you control have \u201c{T}: Add one mana of any color.\u201d\n",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "{T}: Add one mana of any color.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 5+] Flying\nOther artifacts and creatures you control have \u201c{T}: Add one mana of any color.\u201d\n",
@@ -4893,6 +5174,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Enterprose-E",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4911,6 +5193,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "The NRG",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4929,6 +5212,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Lucas Roussel",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4939,14 +5223,15 @@
             "number": 91,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "When this Spacecraft enters, you may sacrifice a creature. If you do. draw two cards and put a number of charge counters equal to that creature's power on this Spacecraft.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]",
+            "rules_text": "When this Spacecraft enters, you may sacrifice a creature. If you do, put a number of charge counters equal to the sacrificed creature's power on this Spacecraft and draw two cards.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 7+] Flying, lifelink, deathtouch\n",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "When this Spacecraft enters, you may sacrifice a creature. If you do, draw two cards and put a number of charge counters equal to the sacrificed creature's power on this Spacecraft.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 7+] Flying, lifelink, deathtouch\n",
+            "special_text": "When this Spacecraft enters, you may sacrifice a creature. If you do, put a number of charge counters equal to the sacrificed creature's power on this Spacecraft and draw two cards.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 7+] Flying, lifelink, deathtouch\n",
             "shape": "leveler",
             "set": "VYI",
             "loyalty": "",
             "artist": "Dmitrii Ustinov",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4965,6 +5250,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Viko Menezes",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4974,8 +5260,8 @@
             "type": "Artifact \u2014 Spacecraft",
             "number": 104,
             "color_identity": "B",
-            "cost": "{3}{B}",
-            "rules_text": "When this Spacecraft enters, you may sacrifice a creature. If you do. draw two cards and put a number of charge counters equal to that creature's power on this Spacecraft.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]",
+            "cost": "{1}{B}{B}",
+            "rules_text": "When this Spacecraft enters, each opponent discards two cards and lose 2 life.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 9+] Flying\nWhenever this Spacecraft attacks, if defending player has one or fewer cards in hand, draw a card.\n",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "When this Spacecraft enters, each opponent discards two cards and lose 2 life.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 9+] Flying\nWhenever this Spacecraft attacks, if defending player has one or fewer cards in hand, draw a card.\n",
@@ -4983,6 +5269,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Dmitrii Ustinov",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5001,6 +5288,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Emre Yaratikol",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5019,6 +5307,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Fuyuan Tee",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5037,6 +5326,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Lehis Luguer",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5055,6 +5345,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Benjamin Yang",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5073,6 +5364,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Erik Eng",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5091,6 +5383,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "ketdawnatsunset",
+            "alias": "",
             "card_name2": "Depths of Calamity",
             "color2": "",
             "type2": "Land",
@@ -5101,6 +5394,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Pedro Sena",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -5119,6 +5413,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Li",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5137,6 +5432,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Andrea Piparo",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5155,6 +5451,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Grossic Guo",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5165,7 +5462,7 @@
             "number": 27,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "",
+            "rules_text": "Flash\nWhen this Spacecraft enters, it deals 5 damage to up to one target tapped creature.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 5+] Flying\n",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "Flash\nWhen this Spacecraft enters, it deals 5 damage to up to one target tapped creature.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 5+] Flying\n",
@@ -5173,6 +5470,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Edward Barons",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5183,7 +5481,7 @@
             "number": 15,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "",
+            "rules_text": "Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 7+] Flying\nWhenever this Spacecraft attacks, return up to one target permanent card with mana value 3 or less from your graveyard to the battlefield.\n",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 7+] Flying\nWhenever this Spacecraft attacks, return up to one target permanent card with mana value 3 or less from your graveyard to the battlefield.\n",
@@ -5191,6 +5489,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Ram",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5209,6 +5508,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "xlxbetoxlx",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5219,7 +5519,7 @@
             "number": 173,
             "color_identity": "G",
             "cost": "{5}{G}",
-            "rules_text": "",
+            "rules_text": "Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 6+] Flying\nWhenever this Spacecraft attacks, another target creature you control has base power and toughness 6/6 until end of turn.\n",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[ 6+] Flying\nWhenever this Spacecraft attacks, another target creature you control has base power and toughness 6/6 until end of turn.\n",
@@ -5227,6 +5527,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Ivan Jovanovic",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5237,7 +5538,7 @@
             "number": 192,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "This creature enters with four +1/+1 counters on it.\nWhen this creature dies, if it had counters on it, you may out that many +1/+1 counters on target creature you control or twice that many charge counters on target Spacecraft you control.",
+            "rules_text": "This creature enters with four +1/+1 counters on it.\nWhen this creature dies, if it had counters on it, you may put that many +1/+1 counters on target creature you control or twice that many charge counters on target artifact you control.",
             "flavor_text": "[i][/i]",
             "pt": "0/0",
             "special_text": "",
@@ -5245,6 +5546,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "peng lu",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5263,6 +5565,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Christina P. Myrvold",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5273,7 +5576,7 @@
             "number": 193,
             "color_identity": "G",
             "cost": "{5}{G}{G}",
-            "rules_text": "When this creature enters, create a 0/0 green Tentacle creature token, then put three +1/+1 counters on target Tentacle you control.\n{1}{G}, Discard this card: Put three +1/+1 counters on target Tentacle you control.",
+            "rules_text": "When this creature enters, create a 0/0 green Tentacle creature token, then put three +1/+1 counters on each Tentacle you control.\n{1}{G}, Discard this card: Put three +1/+1 counters on target Tentacle you control.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -5281,6 +5584,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Xiaoyu Wang",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5299,6 +5603,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Thomas Chamberlain-Keen",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5317,6 +5622,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Xiao Botong",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5335,6 +5641,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Fan Gao",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5353,6 +5660,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Nichelle Nolan",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5371,6 +5679,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Pedram Mohammadi",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5389,6 +5698,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "DarKayNess",
+            "alias": "",
             "card_name2": "Eclipsed Ruins",
             "color2": "",
             "type2": "Land",
@@ -5399,6 +5709,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Florent Llamas",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -5417,6 +5728,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Antonio Javier Caparo",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5435,6 +5747,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Andrey Korolev",
+            "alias": "",
             "card_name2": "Flourishing Ecosystem",
             "color2": "",
             "type2": "Land",
@@ -5445,6 +5758,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Chris Falkenberg",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -5463,6 +5777,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Archer Ding",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5481,6 +5796,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Li",
+            "alias": "",
             "card_name2": "Fascimile of Heaven",
             "color2": "",
             "type2": "Land",
@@ -5491,6 +5807,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Li",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -5501,7 +5818,7 @@
             "number": 237,
             "color_identity": "WR",
             "cost": "{4}{R}{W}",
-            "rules_text": "Flying, vigilance\nToken creatures you control get +2/+2.\nWhenever Signe attacks, if it's the first combat phase of the turn, untap all tokens you control. After this phase, there is an additional combat phase.",
+            "rules_text": "Flying, vigilance\nCreature tokens you control get +2/+0.\nWhenever Signe attacks, if it's the first combat phase of the turn, untap all tokens you control. After this phase, there is an additional combat phase.",
             "flavor_text": "[i]\u201cBy my hand, evil shall know fear.\u201d[/i]",
             "pt": "4/4",
             "special_text": "",
@@ -5509,6 +5826,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Mykyta Vasilchuk",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5527,6 +5845,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Mykyta Vasilchuk",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5545,6 +5864,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Arozu Art",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5555,7 +5875,7 @@
             "number": 219,
             "color_identity": "WG",
             "cost": "{G}{W}",
-            "rules_text": "Whenever Freydis attacks, create a 0/0 green Tentacle creature token, then put a +1/+1 counter on each Tentacle you control.\n{8}{G}{W}: Double the power and toughness of each creature you control until end of turn. This ability costs {1} less to activate for each Tentacle you control.",
+            "rules_text": "Whenever you attack, create a 0/0 green Tentacle creature token, then put a +1/+1 counter on each Tentacle you control.\n{8}{G}{W}: Double the power and toughness of each creature you control until end of turn. This ability costs {1} less to activate for each Tentacle you control.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -5563,6 +5883,7 @@
             "set": "VYI",
             "loyalty": "",
             "artist": "Jack Zhou",
+            "alias": "",
             "notes": ""
         }
     ]

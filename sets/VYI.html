@@ -1,7 +1,7 @@
 ﻿<html>
 <head>
-  <title>Midnight Omens of Xogoa</title>
-  <link rel="icon" type="image/x-icon" href="/sets/MOX-files/icon.png">
+  <title>Kallatree: Voyage to Infinity</title>
+  <link rel="icon" type="image/x-icon" href="/sets/VYI-files/icon.png">
   <link rel="stylesheet" href="/resources/mana.css">
   <link rel="stylesheet" href="/resources/header.css">
   <link rel="stylesheet" href="/resources/card-text.css">
@@ -62,7 +62,7 @@
 		color: #0492c2;
 	}
 	.select-text {
-		display: flex;
+		display: none;
 		align-items: center;
 		justify-content: left;
 		gap: 8px;
@@ -309,10 +309,8 @@
 	<div class="banner">
 		<div class="banner-container">
 			<div class="set-banner" id="set-banner">
-				<img class="set-logo" src="/sets/MOX-files/icon.png">
-				<div class="set-title">Midnight Omens of Xogoa</div><div class="dot"> • </div><a href="/sets/MOX-files/MOX-draft.txt" download>Draft</a>
-		<div class="dot"> • </div><a onclick="packOnePickOne()">P1P1</a>
-		</div>
+				<img class="set-logo" src="/sets/VYI-files/icon.png">
+				<div class="set-title">Kallatree: Voyage to Infinity</div>		</div>
 
 			<div class="select-text">Cards displayed as<select name="display" id="display"><option value="cards-only">Cards Only</option><option value="cards-text">Cards + Text</option></select>sorted by<select name="sort-by" id="sort-by"><option value="set-code">Set Number</option><option value="name">Name</option><option value="mv">Mana Value</option><option value="color">Color</option><option value="rarity">Rarity</option></select> : <select name="sort-order" id="sort-order"><option value="ascending">Asc</option><option value="descending">Desc</option></select></div>
 		</div>
@@ -367,7 +365,7 @@
 				card_list_arrayified = card_list.cards;
 
 
-			await fetch('/sets/MOX-files/MOX-draft.txt')
+			await fetch('/sets/VYI-files/VYI-draft.txt')
 				.then(response => response.text())
 				.then(text => {
 					draft_file = text.replace(/},\n\t]/g, '}\n\t]');
@@ -377,7 +375,7 @@
       
 			for (let i = 0; i < card_list_arrayified.length; i++)
 			{
-				if (card_list_arrayified[i].set == "MOX")
+				if (card_list_arrayified[i].set == "VYI")
 				{
 					set_list_arrayified.push(card_list_arrayified[i]);
 				}
@@ -431,7 +429,7 @@
 			}
 			cardGrid.innerHTML = "";
 
-			if (false)
+			if (true)
 			{
 				let text1 = document.createElement("div");
 				let text2 = document.createElement("div");

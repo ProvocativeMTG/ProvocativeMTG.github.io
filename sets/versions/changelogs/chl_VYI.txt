@@ -1,4 +1,77 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Valdrasil, Whorl of Life added.
+Leif, Hero of Valdrasil added.
+Vallacore Vanguard added.
+Vallaheart Rescuer added.
+
+Kallatree, Whorl of Life removed.
+Leif, Hero of Kallatree removed.
+Kallacore Vanguard removed.
+Kallaheart Rescuer removed.
+
+Cosmic Heart
+
+Garden of Evolution
+
+Prophetic Prism
+
+Mysterious Chronicler
+
+Kjotvi, Chosen of Irne
+
+Wolf of Anjarja
+
+Call the Infinite Bridge
+
+Faster than Light
+
+Starwhale Harvest Port
+rules_text: Whenever you cast a spell with mana value 4 or greater, untap this artifact and put a charge counter on it.
+{T}, Discard a card: Draw two cards.
+{T}, Sacrifice a land: Create two Treasure tokens.
+{T}, Remove four charge counters from this artifact: Create a 6/6 blue Leviathan creature token with flying. => Whenever you cast a spell with mana value 4 or greater, untap this artifact and put a charge counter on it.
+{T}, Discard a card: Draw two cards.
+{T}, Sacrifice a land: Create two Treasure tokens.
+{T}, Remove three charge counters from this artifact: Create a 6/6 blue Leviathan creature token with flying.
+
+Domesticated Voidbeast
+pt: 1/1 => 1/2
+
+Mangled Atrocity
+rules_text: Flying
+When this creature enters, target opponent separates their hand into a face-up pile and a face-down pile. Choose one of those piles. That player discards all the cards in that pile.
+Whenever a player discards a card, if it's a creature card, create a 2/2 black Horror creature token. If it's a land card, add {B}{B}. Otherwise, draw a card. => Flying
+When this creature enters, target opponent separates their hand into a face-up pile and a face-down pile. Choose one of those piles. That player discards all the cards in the chosen pile.
+Whenever a player discards a card, if it's a creature card, create a 2/2 black Horror creature token. If it's a land card, add {B}{B}. Otherwise, draw a card.
+
+The Infinity Bridge
+
+Three Thousand Years Later
+
+Eternal Mekkastruct
+
+Creation Redoubled
+rules_text: Create a token that's a copy of target token you control. If it's a creature token, it enters with a +1/+1 counter on it.
+Starstorm [i](When you cast this spell, copy it for each spell you cast before it this turn.)[/i] => Create a token that's a copy of target token you control. If it's a creature token, it enters with an additional +1/+1 counter on it.
+Starstorm [i](When you cast this spell, copy it for each spell you cast before it this turn.)[/i]
+
+Onemind, Eye of Discovery
+rules_text: Flying
+Whenever a creature you control with power equal to its toughness deals combat damage to a player, draw a card. => Flying
+Whenever a creature you control with power equal to its toughness deals combat damage to a player, draw a card.
+{1}{U}, Discard a card: Create a 2/2 colorless Robot artifact creature token. Activate only as a sorcery.
+
+Trozel, Pyramid's Master
+rules_text: You may pay {3}{B}{G} rather than pay this spell's mana cost. If you do, sacrifice Trozel when Trozel enters.
+Menace
+Whenever an artifact or creature you control dies, you may return target permanent card with lesser mana value from your graveyard to the battlefield tapped. => You may pay {3}{B}{G} rather than pay this spell's mana cost. If you do, sacrifice Trozel when he enters.
+Menace
+Whenever an artifact or creature you control dies, you may return target permanent card with lesser mana value from your graveyard to the battlefield tapped.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Starwhale Harvest Port added.

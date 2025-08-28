@@ -132,9 +132,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Berserker",
-			"collector_number": "81",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/81_Valiant Titanhunter.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/80_Valiant Titanhunter.png"
 			}
 		},
 		{
@@ -313,13 +313,13 @@
 			}
 		},
 		{
-			"name": "Kallatree, Whorl of Life",
+			"name": "Valdrasil, Whorl of Life",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "278",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/278_Kallatree, Whorl of Life.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/281_Valdrasil, Whorl of Life.png"
 			}
 		},
 		{
@@ -357,9 +357,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "281",
+			"collector_number": "280",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/281_Sojourner's Gateway.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/280_Sojourner's Gateway.png"
 			}
 		},
 		{
@@ -675,9 +675,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "280",
+			"collector_number": "279",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/280_Myrkdrasil, Cradle of Nihility.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/279_Myrkdrasil, Cradle of Nihility.png"
 			}
 		},
 		{
@@ -775,9 +775,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Instant",
-			"collector_number": "74",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/74_Sudden Decompression.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/73_Sudden Decompression.png"
 			}
 		},
 		{
@@ -889,9 +889,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "71",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/71_Starscape Shift.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/70_Starscape Shift.png"
 			}
 		},
 		{
@@ -899,9 +899,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Robot",
-			"collector_number": "67",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/67_Repair Mech.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/66_Repair Mech.png"
 			}
 		},
 		{
@@ -939,9 +939,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Robot",
-			"collector_number": "63",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/63_Pillbot.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/62_Pillbot.png"
 			}
 		},
 		{
@@ -949,9 +949,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact Creature — Robot Knight",
-			"collector_number": "34",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/34_Staunch Sentinel.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/33_Staunch Sentinel.png"
 			}
 		},
 		{
@@ -1099,9 +1099,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Kraken",
-			"collector_number": "76",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/76_Tectonic Megapod.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/75_Tectonic Megapod.png"
 			}
 		},
 		{
@@ -1159,9 +1159,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Artifact Creature — Avatar",
-			"collector_number": "29",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/29_Mysterious Chronicler.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/28_Mysterious Chronicler.png"
 			}
 		},
 		{
@@ -1189,9 +1189,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Drake",
-			"collector_number": "36",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/36_Sunshadow Drake.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/35_Sunshadow Drake.png"
 			}
 		},
 		{
@@ -1209,9 +1209,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Enchantment",
-			"collector_number": "70",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/70_Share the Hyperlanes.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/69_Share the Hyperlanes.png"
 			}
 		},
 		{
@@ -1219,9 +1219,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{U}{U}",
 			"type": "Enchantment",
-			"collector_number": "72",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/72_Starwhale Crossing.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/71_Starwhale Crossing.png"
 			}
 		},
 		{
@@ -1279,9 +1279,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Angel Berserker",
-			"collector_number": "41",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/41_Valkyrie of Shared Dawn.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/40_Valkyrie of Shared Dawn.png"
 			}
 		},
 		{
@@ -1349,9 +1349,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact Creature — Vampire Cyborg",
-			"collector_number": "39",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/39_Unsettling Traveler.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/38_Unsettling Traveler.png"
 			}
 		},
 		{
@@ -1359,9 +1359,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Robot",
-			"collector_number": "73",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/73_Stitched Simulacrum.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/72_Stitched Simulacrum.png"
 			}
 		},
 		{
@@ -1369,9 +1369,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact",
-			"collector_number": "38",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/38_System Cage.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/37_System Cage.png"
 			}
 		},
 		{
@@ -1399,9 +1399,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Dog",
-			"collector_number": "32",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/32_Rocket-Powered Canine.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/31_Rocket-Powered Canine.png"
 			}
 		},
 		{
@@ -1439,9 +1439,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "30",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/30_Nova Blast.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/29_Nova Blast.png"
 			}
 		},
 		{
@@ -1506,9 +1506,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Artifact Creature — Cyborg Berserker",
-			"collector_number": "28",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/28_Modified Shieldmaiden.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/27_Modified Shieldmaiden.png"
 			}
 		},
 		{
@@ -1566,16 +1566,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Artifact Creature — Angel Warlock",
-			"collector_number": "31",
+			"collector_number": "30",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/31_Pulsar Prophet_back.png"
+					"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/30_Pulsar Prophet_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/31_Pulsar Prophet_front.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/30_Pulsar Prophet_front.png"
 			}
 		},
 		{
@@ -1609,13 +1609,13 @@
 			}
 		},
 		{
-			"name": "Leif, Hero of Kallatree",
+			"name": "Leif, Hero of Valdrasil",
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Human Berserker",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/227_Leif, Hero of Kallatree.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/227_Leif, Hero of Valdrasil.png"
 			}
 		},
 		{
@@ -1663,9 +1663,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
-			"collector_number": "75",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/75_Swimming in Moonlight.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/74_Swimming in Moonlight.png"
 			}
 		},
 		{
@@ -1773,9 +1773,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "37",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/37_Supernova.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/36_Supernova.png"
 			}
 		},
 		{
@@ -1940,9 +1940,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Berserker",
-			"collector_number": "59",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/59_Kjotvi's Companion.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/58_Kjotvi's Companion.png"
 			}
 		},
 		{
@@ -2101,9 +2101,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "77",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/77_Three Thousand Years Later.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/76_Three Thousand Years Later.png"
 			}
 		},
 		{
@@ -2281,9 +2281,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{6}{U}{U}",
 			"type": "Creature — Wurm",
-			"collector_number": "69",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/69_Rimescale Wurm.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/68_Rimescale Wurm.png"
 			}
 		},
 		{
@@ -2291,9 +2291,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{U}",
 			"type": "Artifact Creature — Robot Lizard",
-			"collector_number": "66",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/66_Recorder of Auroras.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/65_Recorder of Auroras.png"
 			}
 		},
 		{
@@ -2301,9 +2301,9 @@
 			"rarity": "common",
 			"mana_cost": "{X}{U}",
 			"type": "Instant",
-			"collector_number": "61",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/61_Mystifying Denial.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/60_Mystifying Denial.png"
 			}
 		},
 		{
@@ -2311,9 +2311,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "79",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/79_Unknowable Bond.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/78_Unknowable Bond.png"
 			}
 		},
 		{
@@ -2331,9 +2331,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "60",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/60_Leave Home Behind.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/59_Leave Home Behind.png"
 			}
 		},
 		{
@@ -2371,9 +2371,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact",
-			"collector_number": "65",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/65_Reality Splicer.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/64_Reality Splicer.png"
 			}
 		},
 		{
@@ -2381,9 +2381,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "80",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/80_Uploaded Intelligence.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/79_Uploaded Intelligence.png"
 			}
 		},
 		{
@@ -2391,9 +2391,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Artifact Creature — Robot",
-			"collector_number": "26",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/26_Luminary Weaver.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/25_Luminary Weaver.png"
 			}
 		},
 		{
@@ -2438,9 +2438,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "279",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/279_Luscious Planetscape.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/278_Luscious Planetscape.png"
 			}
 		},
 		{
@@ -2528,9 +2528,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Sorcery",
-			"collector_number": "78",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/78_Touch the Infinite.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/77_Touch the Infinite.png"
 			}
 		},
 		{
@@ -2548,19 +2548,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Artifact Creature — Robot",
-			"collector_number": "64",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/64_Portal Conservator.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/63_Portal Conservator.png"
 			}
 		},
 		{
-			"name": "Kallacore Vanguard",
+			"name": "Vallacore Vanguard",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Elf Knight",
-			"collector_number": "58",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/58_Kallacore Vanguard.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/81_Vallacore Vanguard.png"
 			}
 		},
 		{
@@ -2598,9 +2598,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "68",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/68_Repel Aggression.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/67_Repel Aggression.png"
 			}
 		},
 		{
@@ -2608,16 +2608,16 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "Artifact Creature — Robot",
-			"collector_number": "33",
+			"collector_number": "32",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/33_Rusted Moontrotter_back.png"
+					"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/32_Rusted Moontrotter_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/33_Rusted Moontrotter_front.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/32_Rusted Moontrotter_front.png"
 			}
 		},
 		{
@@ -2635,9 +2635,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Artifact Creature — Orb Robot",
-			"collector_number": "62",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/62_Onemind, Eye of Discovery.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/61_Onemind, Eye of Discovery.png"
 			}
 		},
 		{
@@ -2778,13 +2778,13 @@
 			}
 		},
 		{
-			"name": "Kallaheart Rescuer",
+			"name": "Vallaheart Rescuer",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Human Scout",
-			"collector_number": "25",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/25_Kallaheart Rescuer.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/41_Vallaheart Rescuer.png"
 			}
 		},
 		{
@@ -2879,9 +2879,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Artifact Creature — Viridar Cyborg",
-			"collector_number": "35",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/35_Steelframe Viridar.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/34_Steelframe Viridar.png"
 			}
 		},
 		{
@@ -2889,9 +2889,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact",
-			"collector_number": "40",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/40_Upload Capsule.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/39_Upload Capsule.png"
 			}
 		},
 		{
@@ -2899,9 +2899,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Spacecraft",
-			"collector_number": "27",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/27_Mesa Dunedancer.png"
+				"en": "https://ProvocativeMTG.hithub.io/sets/VYI-files/img/26_Mesa Dunedancer.png"
 			}
 		},
 		{
@@ -3139,7 +3139,7 @@
 	1 Inga, Shard of Genesis
 	2 Chronicler of Irregularities
 	2 Garden of Evolution
-	2 Kallatree, Whorl of Life
+	2 Valdrasil, Whorl of Life
 	1 Captain Elai
 	1 Amede, Vessel of Alune
 	2 Sojourner's Gateway
@@ -3187,7 +3187,7 @@
 	2 Echoed Vanguard
 	2 Hive Scytheclaw
 	2 Call the Infinite Bridge
-	1 Leif, Hero of Kallatree
+	1 Leif, Hero of Valdrasil
 	1 Sereium, Viridar Hegemon
 	2 Depths of the Dark
 	2 Nythr, Stargate Goliath
@@ -3219,7 +3219,7 @@
 	2 The Fludemarmak
 	2 Caelira, Dawn Unbroken
 	2 Brigand's Tanker
-	2 Kallaheart Rescuer
+	2 Vallaheart Rescuer
 	2 Reality Dissolution
 	2 Lanion, Lethal Hologram
 	2 Trozel, Pyramid's Master
@@ -3297,7 +3297,7 @@
 	4 Touch the Infinite
 	4 Asteroid Trawler
 	4 Portal Conservator
-	4 Kallacore Vanguard
+	4 Vallacore Vanguard
 	4 Wanderer of the Wastes
 	4 Repel Aggression
 	4 Chaos Wyrm
@@ -3439,7 +3439,7 @@
 	2 Chronicler of Irregularities
 	2 Garden of Evolution
 	12 Chronicler of Regrets
-	2 Kallatree, Whorl of Life
+	2 Valdrasil, Whorl of Life
 	1 Captain Elai
 	6 Covet Infinity
 	1 Amede, Vessel of Alune
@@ -3557,7 +3557,7 @@
 	6 Desaturate
 	12 It Takes Two
 	2 Call the Infinite Bridge
-	1 Leif, Hero of Kallatree
+	1 Leif, Hero of Valdrasil
 	12 Cybertouched Spirit
 	12 Ecliptic Harbinger
 	1 Sereium, Viridar Hegemon
@@ -3642,7 +3642,7 @@
 	6 Touch the Infinite
 	6 Asteroid Trawler
 	6 Portal Conservator
-	6 Kallacore Vanguard
+	6 Vallacore Vanguard
 	2 Orrhion, Survey Medusae
 	1 Icareum, Perfected Mind
 	6 Wanderer of the Wastes
@@ -3662,7 +3662,7 @@
 	6 Nullforged Executioner
 	6 Strange Avian
 	6 Darkspace Probe
-	2 Kallaheart Rescuer
+	2 Vallaheart Rescuer
 	6 Inverter Dreadnought
 	2 Reality Dissolution
 	6 Friede's Purifier
@@ -3721,7 +3721,7 @@
 	7 Chronicler of Irregularities
 	7 Garden of Evolution
 	6 Chronicler of Regrets
-	7 Kallatree, Whorl of Life
+	7 Valdrasil, Whorl of Life
 	4 Captain Elai
 	15 Covet Infinity
 	4 Amede, Vessel of Alune
@@ -3839,7 +3839,7 @@
 	15 Desaturate
 	6 It Takes Two
 	7 Call the Infinite Bridge
-	4 Leif, Hero of Kallatree
+	4 Leif, Hero of Valdrasil
 	6 Cybertouched Spirit
 	6 Ecliptic Harbinger
 	4 Sereium, Viridar Hegemon
@@ -3924,7 +3924,7 @@
 	15 Touch the Infinite
 	15 Asteroid Trawler
 	15 Portal Conservator
-	15 Kallacore Vanguard
+	15 Vallacore Vanguard
 	7 Orrhion, Survey Medusae
 	4 Icareum, Perfected Mind
 	15 Wanderer of the Wastes
@@ -3944,7 +3944,7 @@
 	15 Nullforged Executioner
 	15 Strange Avian
 	15 Darkspace Probe
-	7 Kallaheart Rescuer
+	7 Vallaheart Rescuer
 	15 Inverter Dreadnought
 	7 Reality Dissolution
 	15 Friede's Purifier

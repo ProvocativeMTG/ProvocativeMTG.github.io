@@ -1,4 +1,677 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Valdrasil's Offshoot added.
+Amede, Valdrasil's Speaker added.
+Vallaheart Reckoner added.
+Vallawarden Ancient added.
+Integrated Vallaknight added.
+Vallaroot Lurkfiend added.
+
+Kallatree's Offshoot removed.
+Amede, Kallatree Speaker removed.
+Kallaheart Reckoner removed.
+Kallawarden Ancient removed.
+Integrated Kallaknight removed.
+Kallaroot Lurkfiend removed.
+
+Prince Irakan, Heir to Dust
+rules_text:  => Whenever you cast a noncreature spell, create a 1/1 colorless Soldier artifact creature token.
+[+1]: Create a 0/0 colorless Construct artifact creature token with “This creature gets +1/+1 for each artifact you control.”
+[-2]: Draw two cards, then you may tap three untapped artifacts you control. If you do, you gain 1 life for each card in your hand.
+[-3]: Exchange control of target artifact you control and target creature or planeswalker an opponent controls.
+
+The Crown of Stars
+
+Tsubasa, Blessed Blade
+
+Dahlia, Blossom of Heresy
+
+Kinn, the Clone
+
+Angel of Purpose
+
+Move Heaven and Earth
+rules_text: Move Heaven and Earth deals 3 damage to each creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Each player sacrifices three nonbasic lands. Move Heaven and Earth deals 3 damage to each creature.
+II, III — For each opponent, if they control more lands than you, create a Treasure token. Otherwise, create a 4/4 red Elemental creature token.
+​
+
+Slaughter's Shadow
+
+Ayeshi, Eternal Archmage
+
+Heart of the Deliverance
+
+Deliverance, Jewel of Telura
+
+Planar Lockdown
+
+Teluran Vanguard
+
+Inscrutable Dancer
+
+Burn It All Down
+
+Elai and Lanion
+rules_text:  => [+1]: Exile the top three cards of your library. Until the end of your next turn, you may play those cards. Cast cards exiled this way by sacrificing an artifact or token in addition to paying their other costs.
+[+1]: Create a 1/1 colorless Thopter artifact creature token with flying.
+[-3]: Elai and Lanion deals 4 damage to target creature. Excess damage is dealt to each other creature and each opponent instead.
+[-7]: You get an emblem with “You may cast copies of the spell most recently cast this turn.” [i](You still pay its costs. Timing rules still apply.)[/i]
+
+Tzuhan, the Peacock
+
+Vragut, Molten Monarch
+
+Elai, Scion of the Stars
+
+Lanion, Scion of the Umbra
+
+Finnigan, Half-Fae Prince
+
+Eradication Beam
+
+Council Speaker
+
+Sylvua, Ancient Potentate
+
+Confounding Kraken
+
+Aurora Draconis
+
+Everything Changes
+
+Seishin-Boon Titan
+
+Lure to Doom
+
+Tidebreaker Leviathan
+
+Giyama, Servant of Telura
+
+Prince's Bargain
+
+Loom of a New World
+
+Tanavir, Simulacra Ascetic
+
+Infectious Intelligence
+
+Endless Perfect Legions
+
+Reality Rifts
+
+Kai, the Origamist
+
+Ecliptic Ending
+
+Time's Triumph
+
+Kimja Reckoner
+
+Ourobori, Seishin-Fused
+
+Zaender, Shattered Mind
+
+Elphaen, Servant of Telura
+
+Awakened Brush
+
+Blighteater Lynxstag
+
+Prince Irakan's Wish
+rules_text:  => 
+I — Exchange your library for each card you own from outside the game, then shuffle.
+II, III — Exile target creature you control, then reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.
+​
+
+Magister of Control
+
+Deepwyn Worldbender
+
+Engineered Worldsweeper
+
+Heavencraft Gavel
+
+Kiln of the Astral Flame
+
+Obsession, Lingering Shade
+
+Warped Matterdancer
+
+Tideweave Avatar
+
+Enter the Avatar
+
+Anjarjan Phantom
+
+Invoker's Voidlord
+
+Britlitte Librarian
+
+Essence Serum
+
+Adapted Lifespinner
+
+Teluran Imperiarch
+
+Teluran Void
+
+Brilliant Incursion
+
+Terralight Smithy
+
+Shrine to the Great Tree
+
+Shrine to the Royal Family
+
+Shrine to the Machine
+
+Wise Runecaster
+
+Kindred Sentinel
+
+New Genesis
+
+Amplified Staticaster
+
+Intrepid Tinkerer
+
+Commander Norara
+
+Patchwork Summons
+
+Heaven's Hammerbearer
+
+Stormcrown Archlich
+
+Ionization Protocol
+
+Dissolve into History
+
+Empire's Vestiges
+
+Inspired Resurrection
+
+Champion of Confluence
+
+Threadweaver Icon
+
+Oblivion Cradle
+
+Kinetic Cadaver
+
+Calamitous Premonition
+
+Shiori, Frostfire Kitsune
+
+Lioncrest Hero
+
+Rampaging Kavu
+
+Dictate of the Heavens
+
+Empyrean Wingserpent
+
+Kaecil, the Starspeaker
+
+Chromatic Goggles
+
+Gildleaf Unifier
+
+Ritual Grounds
+
+Cloudtouched Hills
+
+Spouting Lagoon
+
+Ashchoke Bog
+
+Sojourner's Gateway
+
+Brackbloom Titan
+
+Ravencorps Reavers
+
+Portal Ring
+
+Prophetic Prism
+
+Council Assistant
+
+Slumbering Titanyard
+
+Fruitless Paradise
+
+Terralight Prison
+
+Seat of the Last Empire
+
+Repeated Refusal
+
+Gleaming Praetor
+
+Become One with Telura
+rules_text:  => 
+I — Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+You gain 1 life for each artifact you control.
+II, III — You may ionize target nonartifact creature you control. [i](That creature becomes a 0/0 artifact creature and gains “This creature gets +1/+1 for each artifact you control.”)[/i]
+
+Oni-Power Production
+
+Demon Warrior
+
+Bastion of Light
+
+Thopter
+
+Dancing Rakshasa
+
+Deployment Zone
+
+Emperor's Attendant
+
+Soulcharged Colossus
+
+Shaleville Rider
+
+Starbearer Paladin
+
+Portent Reader
+
+Deployer Hulk
+
+Skolhan Thundermage
+
+Duskwing Inferno
+
+Magmatic Manifestation
+
+Territorial Drakkon
+
+Crested Raven
+
+Skodir, Uniter of Realms
+
+Council's Spear
+
+New Realms
+
+Therisi, Her Soul Aflame
+
+Guardian of the Cosmos
+
+Risa, Ender of Empires
+
+Soldier
+
+Drag Life into the Umbra
+
+Darkhelm Karaki
+
+Missira, Heir to War
+
+Alexei, Eye of the Storm
+
+Archengine Ascendant
+
+Rallying the Titans
+rules_text:  => 
+I — Create a 3/3 colorless Vehicle artifact token with crew 1.
+II — Create a 1/1 colorless Soldier artifact creature token.
+III — For each artifact token you control, create a token that's a copy of it.
+
+Goldblossom Angel
+
+Ghostlight Infiltrator
+
+One with the Current
+
+Hero of Sol Cuesta
+
+Shrine to the Spirit Realm
+
+Shrine to the Divine
+
+Ironblood Jarl
+
+Firestorm Evangelist
+
+Sol Cuesta Cavalry
+
+Lady of the Inlet
+
+Sneap
+
+Knight
+
+Multiform Rapier
+
+Adaptive Raider
+
+Clearcut
+
+Knight of Irakan
+
+Port Goliath
+
+Beacon of Horizons
+
+Usurper Program
+
+Set the Heavens Ablaze
+
+Sunblessed Range
+
+Ethereal Wasteland
+
+Dragoneye Shores
+
+Overcharge
+
+Peat Basin
+
+Familiar Summoner
+
+Unleashed Steed
+
+Playing with Portals
+
+Dragon's Ire
+
+Foreboding Memory
+
+Seeds of a Dream
+
+Automated Suppressor
+
+Kjaldiran Stormbearer
+
+Refugee Guardian
+
+Core Shock
+
+Down the Middle
+
+Absorption Matrix
+
+Singularity Courser
+
+Evolutionary Synergy
+
+Simian Swordmaster
+
+Terralight Spearman
+
+Blazing Knight-Errant
+
+Stand Strong
+
+Shake the Earth
+
+Stormwake Dragon
+
+Elemental Avatar
+
+Nataltha, the Dark Star
+
+Augmented Bankbuster
+
+Breaching the Stream
+
+Enigma Variant
+
+Radiant Shaman
+
+Malevolent Eradicator
+
+Mark for Conquest
+
+Constellar Deer
+
+Union of Root and Steel
+
+Skolhan Brawler
+
+Wyrmflame Knight
+
+Negate
+
+Accept the Gift
+
+Bind the Lightning
+
+Relic
+
+Recovering the Pieces
+
+Britlitte Guardian
+
+Machinist of Souls
+
+Turn the Wheel
+
+Opportunistic Monarch
+
+Elemental
+
+Earthreaver Drakkon
+
+Searchlight Scout
+
+Sunpiercer Blade
+
+Eira, Immortal Champion
+
+Converted Ritualist
+
+Idyllian Battlemech
+
+Fused Eviscerator
+
+Demin's Valiant
+
+Wyldwood Ursine
+
+Terror of the Ridge
+
+Scuttling Terror
+
+Gladeheart Deadeye
+
+Sylvua's Titan
+
+Occult Diviner
+
+Nature's Animosity
+
+Defiant Retaliation
+
+Pharai, Twin Fangs
+
+Izhan, Last Piece of the Puzzle
+
+High Magistrate Sonli
+
+Vaunted Shinobi
+
+Zydith's Adjudicator
+
+Sword of Dreams and Empire
+
+Velheart Communer
+
+Furtive Scrollkeeper
+
+Umbral Parturition
+
+Terralight Stag
+
+Crucible Druid
+
+Sol Cuesta, Ignited Crucible
+
+Everywhere
+
+Steal the Source
+
+Obsession's Devourer
+
+Blastfire Smith
+
+Cursed Orb Oni
+
+Bell-Clad Exponent
+
+Tandem Feat
+
+Angel
+
+Encounter with the Sentinel
+rules_text:  => 
+I — Draw two cards, then discard two cards.
+II, III — You may cast an artifact spell with mana value 2 or less from your hand or graveyard without paying its mana cost.
+​
+
+Trapped in the Umbra
+
+The Radiance Zone
+
+Shadow in the Psyche
+
+Lies Revealed
+
+Consuming Ruin
+
+All Things to Oblivion
+
+Escaping A World's End
+rules_text:  => 
+I, II — Search your library for a land card, put it onto the battlefield tapped, then shuffle.
+III — Create an X/X green Elemental Avatar creature token with trample, where X is the number of differently named lands you control.
+
+Teluran Conscript
+
+Sunblaze Empyrean
+
+Peacebringer Titan
+
+Tear Through the Light
+
+Umbral Devouring
+
+Titan of Skolhan Pass
+
+Death Is Not The End
+
+Singularity's Pull
+
+Aerial Suppressor
+
+Throatseeker Valkyrie
+
+Ascendant Thaumaturge
+
+In Full Bloom
+
+Charged Gauntlets
+
+Unearthed Might
+
+Charged Duplication
+
+Shaleville Sellsword
+
+Molten Schemer
+
+Tarre, Hands That Feed
+
+Chosen Valiant
+
+Unstable Crystal
+
+Dawnlit Fenland
+
+Faraway Fiefdom
+
+Wraith's Hijacking
+
+Demonic Majesty
+
+Sheltering the Light
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Mill four cards. You gain 1 life for each permanent milled this way.
+III — Return all land cards from your graveyard to the battlefield. Until end of turn, lands you control gain “{T}: Add one mana of any color.”
+
+The Locus of the Storm
+rules_text:  => 
+I — Search your library for an instant card and/or a sorcery card, reveal them, put them into your hand, then shuffle.
+II, III — When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
+
+Raze the Village
+
+Bionic Rallier
+
+Acolyte of Sylvua
+
+Crux of Augmentation
+
+Asher, Heron Champion
+
+Moonbright Wyrm
+
+Phantom Liege
+
+Divine Guide
+
+Battleworn Commander
+
+Searing Barrage
+
+Bring Down the Mountain
+
+Inspired Creation
+
+Arboreal Arrow
+
+End Times Sentinel
+
+Oni-Power Devastator
+
+Solemn Simulacrum
+
+Surveyor's Mechameleon
+
+Dormant Seed
+
+Shipyard Scrounger
+
+Mercenary Enchanter
+
+Brutagan, Tarruk's Heir
+
+Bound Edifice
+
+Reydia, Umbral Augur
+
+Naveian Protector
+
+Fae Rootwielder
+
+Viashino Brute
+
+Stormmane Drakkon
+
+Command the Cosmos
+
+Faraway Worlds
+
+Rebuild What Is Lost
+
+Embodiment of Life
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

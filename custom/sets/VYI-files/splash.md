@@ -27,7 +27,6 @@ Aeon, an ancient planeswalker from the dawn of time, has only one, singular goal
 ####Elai####
 
 ![alt text](%Captain Elai% "hover-over text")
-![alt text](%Three Thousand Years Later% "hover-over text")
 
 Elai is a planeswalker from the past of Valdrasil who was sealed away within the tree itself during a conflict against the spawn of Aeon, though he did not yet know who his foe was. Now, he has awoken from three thousand years of slumber, and needs to save his people from the impending doom that is Aeon.
 

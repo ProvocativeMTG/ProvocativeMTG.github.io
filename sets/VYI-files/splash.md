@@ -11,7 +11,7 @@
 <br>
 ---
 
-###Aeon###
+###eon##
 <br>
 ![alt text](%Aeon% "hover-over text")
 <br>
@@ -22,7 +22,7 @@ Aeon, an ancient planeswalker from the dawn of time, has only one, singular goal
 <br>
 ---
 
-###Elai###
+##Elai##
 <br>
 ![alt text](%Captain Elai% "hover-over text")
 <br>
@@ -33,7 +33,7 @@ Elai is a planeswalker from the past of Valdrasil who was sealed away within the
 <br>
 ---
 
-###Amede###
+##Amede##
 <br>
 ![alt text](%Amede, Vessel of Alune% "hover-over text")
 <br>
@@ -44,7 +44,7 @@ Amede was a planeswalker from Valdrasil's past as well. However, after Elai was 
 <br>
 ---
 
-###Zaender###
+##Zaender##
 <br>
 ![alt text](%Zaender, Anomaly Analyst% "hover-over text")
 <br>

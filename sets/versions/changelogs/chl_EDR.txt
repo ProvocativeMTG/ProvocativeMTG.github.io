@@ -1,4 +1,1106 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+The Elden Beast
+
+Bloody Finger
+
+Afflicted with Frenzy
+
+Godrick, the Grafted
+
+Bear Witness!
+
+Sol Ring
+
+Waterfowl Dance
+
+A Numen Ascends
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a legendary card, reveal it, put it into your hand, then shuffle.
+II — Each player discards their hand, then draws that many cards minus one.
+III — Until end of turn, you may cast legendary spells from your graveyard.
+
+Ranni the Witch
+
+Ranni's Rise
+
+War Counselor Iji
+
+To the Three Sisters
+
+Ranni's Wedding
+
+Dark Moon Greatsword
+
+The Elden Ring
+
+Hold Back the Stars
+
+Carian Separation
+
+Millicent's Decay
+
+Flying Dragon Agheel
+
+Marika, the Eternal
+
+Iron Fist Alexander
+
+Battle in Caelid
+
+Starscourge Radahn
+
+Blaidd, Baleful Shadow
+
+Radahn's Meteor
+
+Radahn Festival
+
+Godwyn's Cursemark
+
+Comet Azur
+
+Wander the Wastes
+
+Miriel, Pastor of Vows
+
+Scarlet Phantoms
+
+Misericorde
+
+Juno Hoslow
+
+Diallos Hoslow
+
+Bell Bearing Hunter
+
+Contest of Claws
+
+Reprieve
+
+Sorceress Sellen
+
+Bloodborn Ritual
+
+The Twin Prodigies
+
+Abductor Virgin
+
+Marika, God-Queen
+
+Mimic Tear
+
+Dragon Cult Priestess
+
+Godwyn, Prince of Death
+
+Ancestral Follower
+
+Unknown Effigy
+
+Morgott, Omen King
+
+Lady Tanith
+
+Throes of Chaos
+
+Knight
+
+Blaidd, Carian Knight
+
+Secret Path to Nokron
+
+Loretta, Haligtree Knight
+
+Carian Knight
+
+White Mask Varre
+
+Gransax, Ancient One
+
+Tibia Mariner
+
+Torrent, Spirit Steed
+
+Siofra River Convergence
+
+Bloodhound Knight
+
+Sir Gideon Ofnir, All-Knowing
+
+Tree Sentinel
+
+Twin Sentinels
+
+Conjure
+
+Leyndell Siege
+
+The Erdtree
+
+Maliketh, Demigod's Demise
+
+Wandering Mausoleum
+
+Gideon's Revelation
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You gain 2 life and draw two cards.
+II — You may exile a nonland card from your hand. If you do, it becomes plotted. [i](You may cast it as a sorcery on a later turn without paying its mana cost.)[/i]
+III — Whenever you cast your second spell this turn, copy it. You may choose new targets for the copy.
+special_text: 
+I — You gain 2 life and draw two cards.
+II — You may exile a nonland card from your hand. If you do, it becomes plotted. [i](You may cast it as a sorcery on a later turn without paying its mana cost.)[/i]
+III — Whenever you cast your second spell this turn, copy it. You may choose new targets for the copy. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You gain 2 life and draw two cards.
+II — You may exile a nonland card from your hand. If you do, it becomes plotted. [i](You may cast it as a sorcery on a later turn without paying its mana cost.)[/i]
+III — Whenever you cast your second spell this turn, copy it. You may choose new targets for the copy.
+
+Rennala, Lunar Queen
+
+Melina, of Destined Death
+
+Black Knife Assassin
+
+Soldier of Godrick
+
+Occult Mystery
+
+St. Trina
+
+Frenzied Flame
+
+Grafted Scion
+
+Tarnished Bowcaster
+
+Wormface Encounter
+
+Death Rite Bird
+
+Glintstone Dragon
+
+Turtle
+
+Concept of Order
+
+Rennala of Caria
+
+Hardened Scales
+
+Dragonkin Roar
+rules_text:  => 
+I — Draw X cards, where X is the greatest power among creatures you control.
+II, III — Create an X/X green Dragon Warrior creature token, where X is the greatest power among creatures you control.
+
+Spirit-Calling Snail
+
+March to Caelid
+
+Rykard, Lord of Blasphemy
+
+Godfrey, First Elden Lord
+
+At the Heart of the Storm
+rules_text:  => 
+I — This Saga deals 3 damage to any target.
+II — Search your library for a Dragon card, reveal it, put it into your hand, then shuffle.
+III — The next Dragon spell you cast this turn has storm. The copies aren't legendary.
+
+Dragonlord Placidusax
+
+Dragonkin of Nokstella
+
+Riverwell Dragonkin
+
+Mountaintops of the Giants
+
+Leyndell, Royal Capital
+
+Nokron, Eternal City
+
+Raya Lucaria Academy
+
+Stormveil Castle
+
+Path to the Capital
+rules_text:  => 
+I, II, III, IV, V — Amass Warriors 1. [i](Put a +1/+1 counter on an Army you control. It's also a Warrior. If you don't control an Army, create a 0/0 black Warrior Army creature token first.)[/i]
+C — You gain 1 life for each counter among other permanents you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III, IV, V — Amass Warriors 1. [i](Put a +1/+1 counter on an Army you control. It's also a Warrior. If you don't control an Army, create a 0/0 black Warrior Army creature token first.)[/i]
+C — You gain 1 life for each counter among other permanents you control.
+​ => 
+I, II, III, IV, V — Amass Warriors 1. [i](Put a +1/+1 counter on an Army you control. It's also a Warrior. If you don't control an Army, create a 0/0 black Warrior Army creature token first.)[/i]
+C — You gain 1 life for each counter among other permanents you control.
+
+Forge of the Giants
+
+Hallowhorn Remains
+
+Ancestor Spirit
+
+Torrent, Miquella's Mount
+
+Tanith Devours Rykard
+
+Marika's Crucifixion
+
+Thousand Year Voyage
+
+To the Land of Shadow
+
+Those Who Live in Death
+
+Melina of Cardinal Sin
+
+Night of Black Knives
+
+Malenia, Goddess of Rot
+
+Carian Retaliation
+
+Lunar Princess Ranni
+
+Melina, Kindling Maiden
+
+Spider Horror
+
+Shabriri, the Reviled
+
+Shabriri Grape
+
+Malenia, Blade of Miquella
+
+Regal Ancestor Spirit
+
+Ancestral Presence
+
+Doubling Season
+
+Lord Miquella
+
+Banished Knight
+
+Godrick, the Golden
+
+Messmer, the Impaler
+
+Smithing Master Hewg
+
+Lightning Bolt
+
+Arcane Signet
+
+Living Jars
+
+Marika, Shaman Saint
+
+Radagon, King Consort
+
+Warrior Army
+
+Red Wolf of Radagon
+
+Wraithcaller
+
+Sword Monument
+
+Heretical Rise
+
+Rennala's Studies
+
+Sellen, Graven Witch
+
+Rya, Volcano Manor Scout
+
+D, Hunter of the Dead
+
+Portents of the Future
+
+Valkyrie's Prosthesis
+
+The Great Shattering
+
+Fire Giant
+
+Banish from Leyndell
+
+Hallowed Grounds
+
+Wizard
+
+Nascent Cocoon
+
+Marika's Hammer
+
+Nomadic Merchant
+
+Patches, the Untethered
+rules_text: Whenever a creature dies for the first time each turn, Patches connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a loyalty counter on Patches.)[/i] => Whenever a creature dies for the first time each turn, Patches connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a loyalty counter on Patches.)[/i]
+[+1]: Create a 1/1 black Skeleton creature token.
+[-3]: Destroy target creature if it has mana value 2 or less. Destroy that creature if it has mana value 4 or less instead if a permanent you controlled left the battlefield this turn.
+[-10]: You get an emblem with “Whenever a creature you don't control dies, return it to the battlefield under your control.”
+
+Yura, Bloody Finger Hunter
+
+Drake Knight
+
+Erdtree Burial Watchdog
+
+Naturalborn's Presence
+
+Placidusax, Elden Lord
+
+The Golden Star Beast
+
+Sacred Relic Sword
+
+Cleanrot Knight
+
+Messmer's Spear
+
+Marika's Ascension
+
+Miniature Doll
+
+Spirits of Nox
+
+Sorcerer Rogier
+
+Sword of Night and Flame
+
+Dark Moon Sorcery
+
+Floating Spirit
+
+Night's Cavalry
+
+War Against the Giants
+
+Fia, Deathbed Companion
+
+Challenge of the Ring
+
+Miquella, the Unalloyed
+
+Rellana, Blade of Messmer
+
+Dancer of Ranah
+
+Bathed in Gold
+
+Haligtree Knight
+
+Ancient Hero of Zamor
+
+Divine Beast Dancing Lion
+
+Miquella and Radahn
+
+Romina, Saint of the Bud
+
+Godwyn, the Golden
+
+Base Serpent Messmer
+
+Igon, Drake Warrior
+
+Messmer, Marika's Spear
+
+Scadutree Avatar
+
+Miquella's Promise
+
+Astel, Naturalborn of the Void
+
+Enchanted Knight
+
+Needle Knight Leda
+
+Marika's Soreseal
+
+Hoarah Loux, Warrior
+
+Feeding the Haligtree
+
+Sir Ansbach
+
+Lion Dance
+
+Trina's Lily
+
+The Madness Wells
+
+Forager Brood Gift
+
+Finger Crone's Blessing
+
+Bayle, the Dread
+
+Minor Erdtree
+
+Messmer's Orb
+
+Circlet of Light
+
+Bolt Bend
+
+Bayle, Terror Incarnate
+
+Marika's Communion
+
+Lightseeker Hyetta
+
+Death Prince's Domain
+
+Blaidd, Forlorn Hound
+
+Black Knight Captain
+
+Death Knight
+
+Bayle's Tyranny
+
+Becoming a Mother
+rules_text:  => 
+I, II — Return target permanent card from your graveyard to the battlefield.
+III — Create a 1/2 black Spider Horror creature token for each permanent type among permanents you control.
+
+Dryleaf Dane
+
+Redmane Freyja
+
+Those United in Common Cause
+
+Purge without Grace
+
+Midra, Lord of Frenzied Flame
+
+A God and a Lord
+
+Count Ymir, High Priest
+
+Thiollier's Plea
+
+Miquella, the Kind
+
+Spoken Echoes
+
+Dancing Lion of Rauh
+
+Bayle's Flame Lightning
+
+Basilisk
+
+Ancient Dragon
+
+Lichdragon Fortissax
+
+The Scadutree
+
+Perfect Order
+
+Crux of Fate
+
+Blasphemous Act
+
+Ancient Ruins of Rauh
+
+Red-Maned Radagon
+
+Formless Mother's Embrace
+
+Nepheli Loux, Warrior
+
+Promised Consort Radahn
+
+Roundtable Knight Vyke
+
+Slaughter the Strong
+
+Ymir's Entreaty
+
+Blackguard Boggart
+
+Strength of Runes
+
+Primeval Sorcerer Azur
+
+Madness
+
+Guardian Golem
+
+The Loathsome Dung Eater
+
+Cower in Fear of the Night
+
+The Shadow Sunflower
+
+Blade of Miquella
+
+Visions of Madness
+rules_text:  => 
+I — Each player discards their hand. Each player who does draws cards equal to the greatest number of cards discarded by a single player this way.
+II, III — Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+
+Dearest Nanaya
+
+Metyr, Mother of Fingers
+
+Dread Fortissax
+
+Fleeting Microcosm
+rules_text:  => 
+I, II — Each opponent discards a card. For each player who doesn't discard a nonland card this way, that player loses 2 life.
+III — Exile all opponents' graveyards. You may cast spells from among those cards this turn, and mana of any type can be spent to cast them.
+
+Praetor Rykard
+rules_text: At the beginning of your end step, each opponent loses life equal to the amount of life your other opponents have lost this turn. => At the beginning of your end step, each opponent loses life equal to the amount of life each of your other opponents have lost this turn.
+
+Divine Bird Warrior
+
+Sellen's Ponderance
+
+The Ever Brilliant Goldmask
+
+Belurat, Tower Settlement
+
+Marika's Statue
+rules_text: {T}: Add {C}.
+{1}, {T}: Target creature you control gains undying until end of turn. Activate only as a sorcery. [i](When that creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i] => Your commander has undying. [i](When that creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i]
+{T}: Add {C}.
+
+Haligtree Shrine
+
+Crucible Knights
+
+Serpent
+
+Founding Rain of Stars
+
+Oracle Envoy
+
+Jar-Bairn
+
+Miquella's Charm
+
+Golden Epitaph
+
+The Haligtree
+
+Rellana, Twin Moon Knight
+
+Merchant's Song
+
+Perfumer
+
+The Hornsent
+
+Primeval Sorcerer Lusat
+
+Horn-deck'd Beast
+
+Radahn's Resurrection
+
+The Gate of Divinity
+
+Eclipse Shotel
+
+Malenia, the Severed
+
+Ensha of the Royal Remains
+
+Seduction and Betrayal
+rules_text:  => 
+I — You become the monarch. [i](The monarch draws a card at the beginning of their end step. Whenever the monarch is dealt combat damage by a creature, its controller becomes the monarch.)[/i]
+II, III — The monarch sacrifices a creature.
+
+Dominula, Windmill Village
+
+Commander Gaius
+
+Infernal Grasp
+
+Claimed by Death
+
+Dominula Celebrant
+
+D and Rogier
+
+Roundtable Hold
+
+City of Nox
+
+Church of Marika
+
+Margit, the Fell Omen
+
+Induced Dreams
+
+Stick Together
+
+Aging Untouchable
+
+One-Eyed God's Flame
+
+The First Step
+
+Putrescent Knight
+
+Rauh Crucible Knight
+rules_text: Vigilance, trample
+Whenever this creature attacks, you may have the base power and toughness of another target creature become equal to this creature's power and toughness until end of turn. => Mutate {4}{G}{W} [i](If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)[/i]
+Vigilance, trample
+Whenever this creature attacks, you may have the base power and toughness of another target creature become equal to this creature's power and toughness until end of turn.
+
+Godwyn's Knight
+
+Mohg, Lord of Blood
+
+Boc, the Seamster
+
+Miquella's Cross
+
+Carian Inverted Statue
+
+Maliketh, the Black Blade
+
+Battling the Sisters of Rot
+
+Aspect of the Crucible
+
+Sage Midra
+
+Miquella's Love
+
+Gladius, Beast of Night
+rules_text: Whenever you cast a noncreature spell, put a myriad counter on Gladius.
+The “legend rule” doesn't apply to creature tokens you control.
+At the beginning of each of your postcombat main phases, remove all myriad counters from Gladius. He deals that much damage to any target and you add that much {R}. => Whenever you cast a noncreature spell, put a myriad counter on Gladius.
+The “legend rule” doesn't apply to creatures you control.
+At the beginning of each of your postcombat main phases, remove all myriad counters from Gladius. He deals that much damage to any target and you add that much {R}.
+
+Wylder
+
+Fingercreeper
+
+Ymir, Mother of Fingers
+
+Adula, Dark Moon Sworn
+
+Miquella's Sacrifice
+
+Abandoning Even His Fate
+rules_text: b => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II, III — You draw cards and lose life equal to the number of lore counters on this Saga.
+IV — You may have each player's life total become equal to the lowest life total among players.
+
+Fanged Imp
+
+Preceptor Seluvis
+
+Flames of the Crusade
+
+Hornsent Grandam
+
+Roderika, Spirit Tuner
+
+Hornsent Inquisition
+
+Millicent, Flowering Valkyrie
+
+Midra's Manse
+
+Blackgaol Knight
+
+Enir Ilim
+
+Marika, Born of Shadow
+
+Shaman Village
+
+Recluse
+
+Gurranq, Beast Clergyman
+
+Guardian
+
+Sir Moore
+
+Cerulean Coast
+
+Spirit Fish
+
+Spirit Eel
+
+Clue
+
+Fire Knight
+
+Crusader's Resentment
+
+Servants of Death
+
+Baleful Scarlet Rot
+
+Food
+
+Dragon Warrior
+
+Florissax, Dragon Priestess
+
+Feast Upon the Heart
+
+Furnace Golem
+rules_text: Whenever this creature attacks, add X {R}, where X is its power. Until end of turn, you don't lose this mana as steps and phases end. => 2R —
+
+Duchess
+
+Liurnia of the Lakes
+
+Foot of the Erdtree
+
+Beloved Child
+
+Will You Be My Consort
+rules_text:  => 
+I — Each opponent puts a vow counter on a creature they control. Each of those creatures can't attack you for as long as it has a vow counter on it.
+II — Each opponent sacrifices a creature without a vow counter on it.
+III — You gain 1 life and draw a card.
+
+Seeking the Crosses
+
+Seeker of Runes
+
+Spectral Hawk
+
+Blade of Destined Death
+
+Nox Maidens
+
+Jagged Peak Drake
+
+Albinauric Archer
+
+Radagon is Marika
+rules_text:  => 
+I — Turn target noncommander creature face down. It's a 2/2 Sculpture artifact creature.
+II, III — Discover 3. [i](Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Turn target noncommander creature face down. It's a 2/2 Sculpture artifact creature.
+II, III — Discover 3. [i](Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+​ => 
+I — Turn target noncommander creature face down. It's a 2/2 Sculpture artifact creature.
+II, III — Discover 3. [i](Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+​
+
+Stars of Darkness
+rules_text:  => 
+I — Return all creatures except your commander to their owners' hands.
+II, III, IV — The first spell you cast this turn costs {1} less to cast for each lore counter on this Saga.
+​
+
+Giant Crayfish
+
+Leonard, Radahn's Steed
+
+Liurnian Siege
+
+Epic Encounter
+
+Somber Remembrance
+
+Jori, Elder Inquisitor
+
+Enter Ranni's Service
+rules_text:  => 
+I, II — Surveil 2. Then if there are four or more instant and/or sorcery cards in your graveyard, create a 4/4 red Dragon creature token with flying.
+III — Exile up to one target instant or sorcery card from your graveyard. Copy it. You may cast the copy.
+​
+
+Vindicate
+
+Treasure
+
+Eternal City's Desolation
+
+Igneous Visions
+
+Demigod
+
+Frenzied Troll
+
+Confrontation at the Gate
+
+Dragonkin Soldier
+
+Desperate Measures
+
+Guided by Grace
+
+Mariner's Dirge
+
+The Gate of Night
+
+Golden Braid
+
+Marika, the Golden One
+
+Revenant
+
+Behold Primeval Currents
+
+Godwyn's Fall
+rules_text:  => 
+I — Sacrifice any number of other permanents. Draw that many cards.
+II — Return all nonlegendary creature cards from your graveyard to the battlefield.
+III — Return all legendary creature cards from your graveyard to the battlefield.
+
+Marika's Guidance
+
+Demigod
+
+Demigod
+
+Demigod
+
+Demigod
+
+Starscourge's Challenge
+
+Heartfelt Wish
+
+Secret Away
+
+Demigod
+
+Demigod
+
+Demigod
+
+Demigod
+
+Demigod
+
+Die a True Death
+
+Deathroot's Grasp
+
+Insidious Roots
+
+Divine Invocation
+rules_text:  => 
+I, II — Search your library for an instant or sorcery card with mana value 4 or less and cast that card without paying its mana cost. Then shuffle.
+III — Creatures you control get +X/+0 until end of turn, where X is the number of instant and/or sorcery cards in your graveyard.
+
+Royal Revenant
+
+Walking Mausoleum
+
+Soldier
+
+Poison Counter
+
+Ooze Horse
+
+Marika's Head
+
+Shard
+
+Lake of Rot
+
+The Three Fingers
+
+Wolf
+
+Human Warrior
+
+Skeleton
+
+Dragon
+
+Blood
+
+Map
+
+Everywhere
+
+Jar Innards
+
+Black Knife
+
+Into the Jar
+
+Seekers of Redemption
+
+Flee from Caelid
+
+Secret Rite
+
+Sweet Dreams
+
+Rogier, Scholar of Death
+
+The Monarch
+
+Nature of the Shamans
+
+Executor
+
+Erdtree Burial
+
+Godwyn, First to Fall
+
+Morgott, Veiled Monarch
+
+Erdtree Avatar
+
+Empyrean Cocoon
+
+Journey to the Haligtree
+
+Giant Spirit Skeleton
+
+Noklateo, the Shrouded City
+
+King of the Storm
+
+Gaping Dragon
+
+Centipede Demon
+
+Nameless King
+
+Dancer of the Boreal Valley
+
+Smelter Demon
+
+Snow Witch
+
+Fallingstar Beast
+
+Scadutree Base
+
+O, Elden Ring!
+
+Radagon of the Golden Order
+
+Mend the Elden Ring
+
+Heolstor, the Nightlord
+
+Duke's Dear Freja
+
+Crumbling Farum Azula
+
+Maris, Fathom of Night
+
+Consecrated Snowfield
+
+Altus Plateau
+
+Land of Shadow
+rules_text:  => 
+I — Mill five cards.
+II — Return all land cards from your graveyard to the battlefield tapped.
+III — Separate your graveyard into two piles. An opponent chooses one of those piles. Return the chosen pile to your hand and leave the other in your graveyard.
+
+A New Journey
+
+In Search of Purpose
+
+Melina and Torrent
+
+Adel, Gaping Jaw
+
+Ironeye
+
+Fire Knight Captain
+
+Fulghor, Darkdrift Knight
+
+Jarburg
+
+Wailing Dunes
+
+Ancient Golem
+
+Redmane Castle
+
+Elphael, Brace of the Haligtree
+
+Leyndell, Ashen Capital
+
+A Tarnished of No Renown
+
+Gnoster, Wisdom of Night
+
+Horned Warrior
+
+Empyrean Bond
+
+Silver Tear Seal
+
+Sunder Reality
+
+Scale-Bearing Merchant
+
+Iron Menial
+
+Construct
+
+Faurtis Stoneshield
+
+Serve the Gods
+
+Small Jar Bazaar
+
+Thiollier
+
+Raider
+
+Fissure in the Fog
+
+Great Exodus
+
+Unrelenting Hunger
+
+Gaol Binding
+
+Teardrop of Night
+
+Return to the Erdtree
+
+Tricephalos's Howl
+
+Godskin Duo
+
+The Shadow Keep
+
+The Great Jar
+
+On An Adventure
+
+Can Be Cast From Exile
+
+Restage
+
+Plant
+
+Butterfly
+
+Bird Spirit
+
+Libra, Equilibrious Beast
+
+Caligo, Miasma of Night
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Faurtis Stoneshield added.

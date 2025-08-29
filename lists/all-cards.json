@@ -6647,6 +6647,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "ribiadan",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -6666,6 +6667,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "dovahcaine",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -6685,6 +6687,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Miresia",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -6704,6 +6707,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Tsugikinogodorikku",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -6723,6 +6727,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "kankan33333",
+            "alias": "",
             "notes": "Board Wipe",
             "image_type": "png"
         },
@@ -6742,6 +6747,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "arles48",
+            "alias": "",
             "notes": "Reprint\nRamp",
             "image_type": "png"
         },
@@ -6761,6 +6767,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "achee",
+            "alias": "",
             "notes": "Board Wipe",
             "image_type": "png"
         },
@@ -6772,7 +6779,7 @@
             "number": 346,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Search your library for a legendary card, reveal it, put it into your hand, then shuffle.\nII \u2013 Each player discards their hand, then draws that many cards minus one.\nIII \u2013 Until end of turn, you may cast legendary spells from your graveyard.",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "",
             "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Search your library for a legendary card, reveal it, put it into your hand, then shuffle.\nII \u2013 Each player discards their hand, then draws that many cards minus one.\nIII \u2013 Until end of turn, you may cast legendary spells from your graveyard.",
@@ -6780,6 +6787,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "eyyojimbo",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -6799,6 +6807,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "missiah xvi",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -6818,6 +6827,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "momodacat",
+            "alias": "",
             "notes": "!group monarch\n!sort 01",
             "image_type": "png"
         },
@@ -6837,6 +6847,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "max58art",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -6856,6 +6867,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "ela vii",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -6875,6 +6887,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "hoh0101",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -6894,6 +6907,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "hammling",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -6913,6 +6927,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "ADePietro",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -6932,6 +6947,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Surya Prasetya",
+            "alias": "",
             "notes": "Board Wipe",
             "image_type": "png"
         },
@@ -6951,6 +6967,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Victor Garcia",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -6970,6 +6987,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "jeremy anninos",
+            "alias": "",
             "notes": "Removal",
             "image_type": "png"
         },
@@ -6989,6 +7007,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "NightCrowArt",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7008,6 +7027,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ariamis Arts",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7027,6 +7047,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Xuchaoyuan3",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7046,6 +7067,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Dante Kishishev",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7065,6 +7087,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "huabinwang",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7084,6 +7107,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "jacknguyenart",
+            "alias": "",
             "notes": "Removal",
             "image_type": "png"
         },
@@ -7103,6 +7127,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Anountloueac",
+            "alias": "",
             "notes": "Removal",
             "image_type": "png"
         },
@@ -7122,6 +7147,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "aljerek",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7141,6 +7167,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "groomgrimmart",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7160,6 +7187,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "jin dongyu",
+            "alias": "",
             "notes": "Removal",
             "image_type": "png"
         },
@@ -7179,6 +7207,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "la bo chu shi",
+            "alias": "",
             "notes": "Removal",
             "image_type": "png"
         },
@@ -7198,6 +7227,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "la bo chu shi",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7217,6 +7247,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "maassi",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7236,6 +7267,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Sykine",
+            "alias": "",
             "notes": "!exportname Misericorde",
             "image_type": "png"
         },
@@ -7255,6 +7287,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Torch Draws",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7274,6 +7307,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Sykine",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7293,6 +7327,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Anthony DePietro",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7312,6 +7347,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "A De Pietro",
+            "alias": "",
             "notes": "Removal",
             "image_type": "png"
         },
@@ -7331,6 +7367,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Jess Seto",
+            "alias": "",
             "notes": "Reprint",
             "image_type": "png"
         },
@@ -7350,6 +7387,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Groomgrim",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7369,6 +7407,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "shimhaq",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7388,6 +7427,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "onex111x",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7407,6 +7447,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ariamis Arts",
+            "alias": "",
             "notes": "Removal",
             "image_type": "png"
         },
@@ -7426,6 +7467,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ariamis Arts",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7445,6 +7487,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ariamis Arts",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7464,6 +7507,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ariamis Arts",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7483,6 +7527,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Navy Raccoon",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7502,6 +7547,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ariamis Arts",
+            "alias": "",
             "notes": "Ramp",
             "image_type": "png"
         },
@@ -7521,6 +7567,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ariamis Arts",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7540,6 +7587,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ishutani",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7559,6 +7607,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "SAMI",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7578,6 +7627,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "maddoze",
+            "alias": "",
             "notes": "Reprint",
             "image_type": "png"
         },
@@ -7597,6 +7647,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "marvor009",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7616,6 +7667,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "vincent price",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7635,6 +7687,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Fadly Romdhani",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7654,6 +7707,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Andrea Parrocho",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7673,6 +7727,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Manuel Casta\u00f1\u00f3n",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7692,6 +7747,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Alex Garner",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7711,6 +7767,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "ZeYu Zhang",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7730,6 +7787,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "bitspirit3",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7749,6 +7807,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Sandara Tang",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7768,6 +7827,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "CaellaighArt",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7787,6 +7847,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "abilmuchtarom",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7806,6 +7867,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Temmaru",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7825,6 +7887,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Fadly Romdhani",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7844,6 +7907,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "ZIONG",
+            "alias": "",
             "notes": "Removal",
             "image_type": "png"
         },
@@ -7863,6 +7927,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "world_(1257843324)",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7882,6 +7947,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "stanton feng",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7901,6 +7967,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "fantazyme",
+            "alias": "",
             "notes": "!group other\n!sort 12",
             "image_type": "png"
         },
@@ -7920,6 +7987,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Gustavo Landsmann",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7939,6 +8007,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "miso katsu",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7950,14 +8019,15 @@
             "number": 296,
             "color_identity": "WU",
             "cost": "{3}{W}{U}",
-            "rules_text": "",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 You gain 2 life and draw two cards.\nII \u2013 You may exile a nonland card from your hand. If you do, it becomes plotted. [i](You may cast it as a sorcery on a later turn without paying its mana cost.)[/i]\nIII \u2013 Whenever you cast your second spell this turn, copy it. You may choose new targets for the copy.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI \u2013 You gain 2 life and draw two cards.\nII \u2013 You may exile a nonland card from your hand. If you do, it becomes plotted. [i](You may cast it as a sorcery on a later turn without paying its mana cost.)[/i]\nIII \u2013 Whenever you cast your second spell this turn, copy it. You may choose new targets for the copy.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 You gain 2 life and draw two cards.\nII \u2013 You may exile a nonland card from your hand. If you do, it becomes plotted. [i](You may cast it as a sorcery on a later turn without paying its mana cost.)[/i]\nIII \u2013 Whenever you cast your second spell this turn, copy it. You may choose new targets for the copy.",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",
             "artist": "lack",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7977,6 +8047,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Xuchaoyuan3",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7996,6 +8067,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ariamis Arts",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8015,6 +8087,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "martinleborgne",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8034,6 +8107,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Fadly Romdhani",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8053,6 +8127,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Yuyu Wong",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8072,6 +8147,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "templarls",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8091,6 +8167,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Drunk_ferret",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8110,6 +8187,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "kankan3333",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8129,6 +8207,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "jperez",
+            "alias": "",
             "card_name2": "Greatbow Shot",
             "color2": "U",
             "type2": "Sorcery \u2013 Adventure",
@@ -8139,6 +8218,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8158,6 +8238,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "jya yan",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8177,6 +8258,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Jordi Rapture",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8196,6 +8278,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "jin dongyu",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8215,6 +8298,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "AndWhatArt",
+            "alias": "",
             "notes": "Ramp",
             "image_type": "png"
         },
@@ -8234,6 +8318,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Jordi Rapture",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8253,6 +8338,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "max58art",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8272,6 +8358,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "adyotr",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8283,7 +8370,7 @@
             "number": 211,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
-            "rules_text": "",
+            "rules_text": "\nI \u2013 Draw X cards, where X is the greatest power among creatures you control.\nII, III \u2013 Create an X/X green Dragon Warrior creature token, where X is the greatest power among creatures you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "\nI \u2013 Draw X cards, where X is the greatest power among creatures you control.\nII, III \u2013 Create an X/X green Dragon Warrior creature token, where X is the greatest power among creatures you control.",
@@ -8291,6 +8378,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ryinn",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8310,6 +8398,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Temmaru",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8329,6 +8418,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Mikko P\u00f6yry",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8348,6 +8438,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "aljerek",
+            "alias": "",
             "notes": "Board wipe",
             "image_type": "png"
         },
@@ -8367,6 +8458,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ibuo",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8378,7 +8470,7 @@
             "number": 152,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "",
+            "rules_text": "\nI \u2013 This Saga deals 3 damage to any target.\nII \u2013 Search your library for a Dragon card, reveal it, put it into your hand, then shuffle.\nIII \u2013 The next Dragon spell you cast this turn has storm. The copies aren't legendary.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "\nI \u2013 This Saga deals 3 damage to any target.\nII \u2013 Search your library for a Dragon card, reveal it, put it into your hand, then shuffle.\nIII \u2013 The next Dragon spell you cast this turn has storm. The copies aren't legendary.",
@@ -8386,6 +8478,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "towerknight art",
+            "alias": "",
             "notes": "Removal",
             "image_type": "png"
         },
@@ -8405,6 +8498,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "@umbra-daiwrfol",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8424,6 +8518,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Nemanja",
+            "alias": "",
             "notes": "Removal",
             "image_type": "png"
         },
@@ -8443,6 +8538,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Max58",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8462,6 +8558,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "jin dongyu",
+            "alias": "",
             "notes": "!group other\n!sort 07",
             "image_type": "png"
         },
@@ -8481,6 +8578,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "jin dongyu",
+            "alias": "",
             "notes": "!group channel\n!sort 05",
             "image_type": "png"
         },
@@ -8500,6 +8598,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Alex Kerr",
+            "alias": "",
             "notes": "!group channel\n!sort 02",
             "image_type": "png"
         },
@@ -8519,6 +8618,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "David Gonzalez Vaquero",
+            "alias": "",
             "notes": "!group channel\n!sort 07",
             "image_type": "png"
         },
@@ -8538,6 +8638,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Aaron Long",
+            "alias": "",
             "notes": "!group other\n!sort 11",
             "image_type": "png"
         },
@@ -8549,14 +8650,15 @@
             "number": 33,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "",
+            "rules_text": "\nI, II, III, IV, V \u2013 Amass Warriors 1. [i](Put a +1/+1 counter on an Army you control. It's also a Warrior. If you don't control an Army, create a 0/0 black Warrior Army creature token first.)[/i]\nC \u2013 You gain 1 life for each counter among other permanents you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II, III, IV, V \u2013 Amass Warriors 1. [i](Put a +1/+1 counter on an Army you control. It's also a Warrior. If you don't control an Army, create a 0/0 black Warrior Army creature token first.)[/i]\nC \u2013 You gain 1 life for each counter among other permanents you control.\n\u200b",
+            "special_text": "\nI, II, III, IV, V \u2013 Amass Warriors 1. [i](Put a +1/+1 counter on an Army you control. It's also a Warrior. If you don't control an Army, create a 0/0 black Warrior Army creature token first.)[/i]\nC \u2013 You gain 1 life for each counter among other permanents you control.",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",
             "artist": "David Gonzalez Vaquero",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8576,6 +8678,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "jin dongyu",
+            "alias": "",
             "notes": "!group channel\n!sort 09",
             "image_type": "png"
         },
@@ -8595,6 +8698,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "S-Mrry",
+            "alias": "",
             "notes": "Ramp",
             "image_type": "png"
         },
@@ -8614,6 +8718,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "HarshMallowz",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8633,6 +8738,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "NoLongerWendigo",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8652,6 +8758,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "jin dongyu",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8671,6 +8778,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "BlackSalander",
+            "alias": "",
             "notes": "Removal",
             "image_type": "png"
         },
@@ -8690,6 +8798,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "sin node",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8709,6 +8818,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "gravitydusty",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8728,6 +8838,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "iHF95",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8747,6 +8858,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Fadly Romdhani",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8766,6 +8878,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Lorian_LMF",
+            "alias": "",
             "notes": "Board Wipe",
             "image_type": "png"
         },
@@ -8785,6 +8898,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "aix-wxy",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8804,6 +8918,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Erry",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8823,6 +8938,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Jiun Qi",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8842,6 +8958,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Andrew Hung",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8861,6 +8978,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "nolan192",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8880,6 +8998,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Rio Yudha",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8899,6 +9018,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "candyborsch",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8918,6 +9038,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "rin04ka",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8937,6 +9058,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Cycle Circle",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8956,6 +9078,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "S-Mrry",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -8975,6 +9098,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Jordi Rapture",
+            "alias": "",
             "notes": "Reprint",
             "image_type": "png"
         },
@@ -8994,6 +9118,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "yujia0412",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9013,6 +9138,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Temmaru",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9032,6 +9158,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Jun Wen LU He Yao",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9051,6 +9178,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Jeon Tae Kang",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9070,6 +9198,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Victor Garcia",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9089,6 +9218,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Andrea Guardino",
+            "alias": "",
             "notes": "Reprint\nRemoval",
             "image_type": "png"
         },
@@ -9108,6 +9238,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Rose Benjamin",
+            "alias": "",
             "notes": "Reprint\nRamp",
             "image_type": "png"
         },
@@ -9127,6 +9258,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "who whoareuu",
+            "alias": "",
             "notes": "Ramp",
             "image_type": "png"
         },
@@ -9146,6 +9278,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ahvene",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9165,6 +9298,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Tatiandart",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9184,6 +9318,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Groomgrimm",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9203,6 +9338,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Groomgrimm",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9222,6 +9358,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "groomgrimm",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9241,6 +9378,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "la bo chu shi",
+            "alias": "",
             "notes": "Ramp",
             "image_type": "png"
         },
@@ -9260,6 +9398,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "la bo chu shi",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9279,6 +9418,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "la bo chu shi",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9298,6 +9438,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "mcgmark",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9317,6 +9458,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Hinchel Or",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9336,6 +9478,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "kero 1110",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9355,6 +9498,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "mubishuang",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9374,6 +9518,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Blank E.",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9393,6 +9538,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Yihua Ran",
+            "alias": "",
             "notes": "Board wipe",
             "image_type": "png"
         },
@@ -9412,6 +9558,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "shimhaq",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9431,6 +9578,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "shimhaq",
+            "alias": "",
             "notes": "Board Wipe",
             "image_type": "png"
         },
@@ -9450,6 +9598,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "la bo chu shi",
+            "alias": "",
             "notes": "Ramp",
             "image_type": "png"
         },
@@ -9469,6 +9618,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Groomgrim",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9488,6 +9638,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Moises German",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9507,6 +9658,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "v910050",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9526,6 +9678,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Alexis Susani",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9537,7 +9690,7 @@
             "number": 136,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "Whenever a creature dies for the first time each turn, Patches connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a loyalty counter on Patches.)[/i]",
+            "rules_text": "Whenever a creature dies for the first time each turn, Patches connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a loyalty counter on Patches.)[/i]\n[+1]: Create a 1/1 black Skeleton creature token.\n[-3]: Destroy target creature if it has mana value 2 or less. Destroy that creature if it has mana value 4 or less instead if a permanent you controlled left the battlefield this turn.\n[-10]: You get an emblem with \u201cWhenever a creature you don't control dies, return it to the battlefield under your control.\u201d",
             "flavor_text": "[i]Create a 1/1 black Skeleton creature token.[/i]",
             "pt": "",
             "special_text": "Whenever a creature dies for the first time each turn, Patches connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a loyalty counter on Patches.)[/i]\n[+1]: Create a 1/1 black Skeleton creature token.\n[-3]: Destroy target creature if it has mana value 2 or less. Destroy that creature if it has mana value 4 or less instead if a permanent you controlled left the battlefield this turn.\n[-10]: You get an emblem with \u201cWhenever a creature you don't control dies, return it to the battlefield under your control.\u201d",
@@ -9545,6 +9698,7 @@
             "set": "EDR",
             "loyalty": "4",
             "artist": "kamezaemon",
+            "alias": "",
             "notes": "Removal",
             "image_type": "png"
         },
@@ -9564,6 +9718,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "miso_kiccck",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9583,6 +9738,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "MISTYABYSS",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9602,6 +9758,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Diana Franco",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9621,6 +9778,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Annie Holliday",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9640,6 +9798,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "eureka1812",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9659,6 +9818,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "AliveWake4476",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9678,6 +9838,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "dingyhongy",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9697,6 +9858,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "agong",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9716,6 +9878,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "thefearmaster",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9735,6 +9898,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Tristan Brard",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9754,6 +9918,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Eyedealism",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9773,6 +9938,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "la bo chu shi",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9792,6 +9958,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Felix Oesinghaus",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9811,6 +9978,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Lys/blobmorning",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9830,6 +9998,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "ross tran",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9849,6 +10018,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "elna7070",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9868,6 +10038,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "tripdancer",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9887,6 +10058,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Victor Garcia",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9906,6 +10078,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ariamis Arts",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9925,6 +10098,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "yagaminoue",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9944,6 +10118,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Gonzamaru",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9963,6 +10138,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "brayonong999",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -9982,6 +10158,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ariamis Arts",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10001,6 +10178,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Temmaru",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10020,6 +10198,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Temmaru",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10039,6 +10218,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Mikyxone",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10058,6 +10238,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Timo Chou",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10077,6 +10258,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "rocker (fengs1993)",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10096,6 +10278,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "rdemoss_art",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10115,6 +10298,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Tatiandart",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10134,6 +10318,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "@ofwolvesandshatteredshields",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10153,6 +10338,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "ABIBIBIBIBIBIABIGAIL",
+            "alias": "",
             "notes": "Removal",
             "image_type": "png"
         },
@@ -10172,6 +10358,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "zhengangrao",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10191,6 +10378,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "la bo chu shi",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10210,6 +10398,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "lambsplash",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10229,6 +10418,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "arnaerr",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10248,6 +10438,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Fadly Romdhani",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10267,6 +10458,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Kelvin Ricardo",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10286,6 +10478,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "@_sosomon",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10305,6 +10498,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Vince Price",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10324,6 +10518,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "zhizhicyzey",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10343,6 +10538,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "satoyuki",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10362,6 +10558,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ediptus",
+            "alias": "",
             "card_name2": "Divine Fury",
             "color2": "WR",
             "type2": "Sorcery \u2013 Adventure",
@@ -10372,6 +10569,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "Removal",
             "image_type": "png"
         },
@@ -10391,6 +10589,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "lycoris13",
+            "alias": "",
             "notes": "Ramp",
             "image_type": "png"
         },
@@ -10410,6 +10609,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "jeremy anninos",
+            "alias": "",
             "notes": "Board wipe",
             "image_type": "png"
         },
@@ -10429,6 +10629,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "OmniLeaden",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10448,6 +10649,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "OmniLeaden",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10467,6 +10669,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "shimhaq",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10486,6 +10689,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "x37tc",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10505,6 +10709,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "cateille",
+            "alias": "",
             "notes": "Removal",
             "image_type": "png"
         },
@@ -10524,6 +10729,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Jun Wen LU He Yao",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10543,6 +10749,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "MiffedMist",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10562,6 +10769,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "AliveWake4476",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10581,6 +10789,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Fyrelix",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10600,6 +10809,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Vadim Berg",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10619,6 +10829,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Douglas De La Hoz",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10638,6 +10849,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Juan Acosta",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10657,6 +10869,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Temmaru",
+            "alias": "",
             "notes": "Removal",
             "image_type": "png"
         },
@@ -10676,6 +10889,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Temmaru",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10695,6 +10909,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Iranon",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10706,7 +10921,7 @@
             "number": 263,
             "color_identity": "WB",
             "cost": "{4}{W}{B}",
-            "rules_text": "",
+            "rules_text": "\nI, II \u2013 Return target permanent card from your graveyard to the battlefield.\nIII \u2013 Create a 1/2 black Spider Horror creature token for each permanent type among permanents you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "\nI, II \u2013 Return target permanent card from your graveyard to the battlefield.\nIII \u2013 Create a 1/2 black Spider Horror creature token for each permanent type among permanents you control.",
@@ -10714,6 +10929,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "carrottrembling",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10733,6 +10949,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Senerik",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10752,6 +10969,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "U60b",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10771,6 +10989,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "TAG",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10790,6 +11009,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Fyrelix",
+            "alias": "",
             "notes": "Board Wipe",
             "image_type": "png"
         },
@@ -10809,6 +11029,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Rioyudha",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10828,6 +11049,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "elden things",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10847,6 +11069,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "buriedinembers",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10866,6 +11089,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "buriedinembers",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10885,6 +11109,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "WuMei !",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10904,6 +11129,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "karmamonster011",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10923,6 +11149,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "cosme lucero",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10942,6 +11169,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "alivewake",
+            "alias": "",
             "notes": "Board Wipe",
             "image_type": "png"
         },
@@ -10961,6 +11189,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "RJ Palmer",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -10980,6 +11209,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Indra Atmana",
+            "alias": "",
             "notes": "Removal",
             "image_type": "png"
         },
@@ -10999,6 +11229,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "DSittaro",
+            "alias": "",
             "notes": "Removal",
             "image_type": "png"
         },
@@ -11018,6 +11249,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Rishi Shukla",
+            "alias": "",
             "notes": "!group other\n!sort 014",
             "image_type": "png"
         },
@@ -11037,6 +11269,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Temmaru",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11056,6 +11289,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "max58art",
+            "alias": "",
             "notes": "Board Wipe",
             "image_type": "png"
         },
@@ -11075,6 +11309,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Maitimo",
+            "alias": "",
             "notes": "Board Wipe",
             "image_type": "png"
         },
@@ -11094,6 +11329,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Umber",
+            "alias": "",
             "notes": "!group channel\n!sort 01",
             "image_type": "png"
         },
@@ -11113,6 +11349,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "BlueSkySmile",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11132,6 +11369,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Sin-Node",
+            "alias": "",
             "notes": "Removal",
             "image_type": "png"
         },
@@ -11151,6 +11389,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ariamis Arts",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11170,6 +11409,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Cyprien Rousson",
+            "alias": "",
             "notes": "Removal",
             "image_type": "png"
         },
@@ -11189,6 +11429,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "nira box",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11208,6 +11449,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "f_oskana",
+            "alias": "",
             "notes": "Board Wipe",
             "image_type": "png"
         },
@@ -11227,6 +11469,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "buriedinembers",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11246,6 +11489,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Rio Yudha",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11265,6 +11509,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "DC chris",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11284,6 +11529,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Vergizov Mikhail",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11303,6 +11549,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "AliveWake",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11322,6 +11569,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "jin dongyu",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11341,6 +11589,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "artorias345",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11360,6 +11609,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Claire Natice",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11379,6 +11629,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Miresia",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11398,6 +11649,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "eclipticass",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11409,7 +11661,7 @@
             "number": 381,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
-            "rules_text": "",
+            "rules_text": "\nI \u2013 Each player discards their hand. Each player who does draws cards equal to the greatest number of cards discarded by a single player this way.\nII, III \u2013 Return target creature card with mana value 3 or less from your graveyard to the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "\nI \u2013 Each player discards their hand. Each player who does draws cards equal to the greatest number of cards discarded by a single player this way.\nII, III \u2013 Return target creature card with mana value 3 or less from your graveyard to the battlefield.",
@@ -11417,6 +11669,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "EyYoJimbo",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11436,6 +11689,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Jdori",
+            "alias": "",
             "notes": "Ramp",
             "image_type": "png"
         },
@@ -11455,6 +11709,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Rio Yudha",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11474,6 +11729,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "xoo",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11485,7 +11741,7 @@
             "number": 291,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
-            "rules_text": "",
+            "rules_text": "\nI, II \u2013 Each opponent discards a card. For each player who doesn't discard a nonland card this way, that player loses 2 life.\nIII \u2013 Exile all opponents' graveyards. You may cast spells from among those cards this turn, and mana of any type can be spent to cast them.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "\nI, II \u2013 Each opponent discards a card. For each player who doesn't discard a nonland card this way, that player loses 2 life.\nIII \u2013 Exile all opponents' graveyards. You may cast spells from among those cards this turn, and mana of any type can be spent to cast them.",
@@ -11493,6 +11749,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "GraffitiGW",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11504,7 +11761,7 @@
             "number": 350,
             "color_identity": "UBR",
             "cost": "{5}{U}{B}{R}",
-            "rules_text": "At the beginning of your end step, each opponent loses life equal to the amount of life your other opponents have lost this turn.",
+            "rules_text": "At the beginning of your end step, each opponent loses life equal to the amount of life each of your other opponents have lost this turn.",
             "flavor_text": "[i]\u201cYou . . . Join the Serpent King as family! Together, we will devour the very gods!\u201d[/i]",
             "pt": "8/8",
             "special_text": "",
@@ -11512,6 +11769,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ybfan",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11531,6 +11789,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Temmaru",
+            "alias": "",
             "notes": "Removal",
             "image_type": "png"
         },
@@ -11550,6 +11809,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Temmaru",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11569,6 +11829,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "McSparkle0731",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11588,6 +11849,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Sarah Vittle",
+            "alias": "",
             "notes": "!group channel\n!sort 06",
             "image_type": "png"
         },
@@ -11599,7 +11861,7 @@
             "number": 403,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "{T}: Add {C}.\n{1}, {T}: Target creature you control gains undying until end of turn. Activate only as a sorcery. [i](When that creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i]",
+            "rules_text": "Your commander has undying. [i](When that creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i]\n{T}: Add {C}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -11607,6 +11869,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Mavis Fuji",
+            "alias": "",
             "notes": "Ramp",
             "image_type": "png"
         },
@@ -11626,6 +11889,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "jin dongyu",
+            "alias": "",
             "notes": "Ramp",
             "image_type": "png"
         },
@@ -11645,6 +11909,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "wenbo cui",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11664,6 +11929,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "CanadianMark",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11683,6 +11949,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "buriedinembers",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11702,6 +11969,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "A.PB",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11721,6 +11989,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Anato Finnstark",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11740,6 +12009,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Carmelo Santos",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11759,6 +12029,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "siriusbound",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11778,6 +12049,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Magnus Seim Olsen",
+            "alias": "",
             "notes": "!group other\n!sort 13",
             "image_type": "png"
         },
@@ -11797,6 +12069,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "shimhaq",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11816,6 +12089,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Fadly Romdhani",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11835,6 +12109,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Temmaru",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11854,6 +12129,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Sam Strykah",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11873,6 +12149,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "shimhaq",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11892,6 +12169,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "shimhaq",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11911,6 +12189,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Amir Borgheii",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11930,6 +12209,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Darcy HW",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11949,6 +12229,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "alinemorec",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11968,6 +12249,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "agong",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11987,6 +12269,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Neuntoterx",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -11998,7 +12281,7 @@
             "number": 142,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "",
+            "rules_text": "\nI \u2013 You become the monarch. [i](The monarch draws a card at the beginning of their end step. Whenever the monarch is dealt combat damage by a creature, its controller becomes the monarch.)[/i]\nII, III \u2013 The monarch sacrifices a creature.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "\nI \u2013 You become the monarch. [i](The monarch draws a card at the beginning of their end step. Whenever the monarch is dealt combat damage by a creature, its controller becomes the monarch.)[/i]\nII, III \u2013 The monarch sacrifices a creature.",
@@ -12006,6 +12289,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "delaneyjanuzzi",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12025,6 +12309,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Caius Augustus",
+            "alias": "",
             "notes": "!group other\n!sort 04",
             "image_type": "png"
         },
@@ -12044,6 +12329,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ariamis Arts",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12063,6 +12349,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Temmaru",
+            "alias": "",
             "notes": "Removal",
             "image_type": "png"
         },
@@ -12082,6 +12369,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ruint1",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12101,6 +12389,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ariamis Arts",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12120,6 +12409,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "kero 1110",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12139,6 +12429,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Temmaru",
+            "alias": "",
             "notes": "!group other\n!sort 09",
             "image_type": "png"
         },
@@ -12158,6 +12449,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "ABluSkittle",
+            "alias": "",
             "notes": "!group other\n!sort 02",
             "image_type": "png"
         },
@@ -12177,6 +12469,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Gthlart",
+            "alias": "",
             "notes": "!group other\n!sort 01",
             "image_type": "png"
         },
@@ -12196,6 +12489,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Sophie Story",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12215,6 +12509,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Rose Benjamin",
+            "alias": "",
             "notes": "Ramp",
             "image_type": "png"
         },
@@ -12234,6 +12529,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "max58art",
+            "alias": "",
             "notes": "Board Wipe",
             "image_type": "png"
         },
@@ -12253,6 +12549,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "UnalloyedRoyalty",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12272,6 +12569,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Temmaru",
+            "alias": "",
             "notes": "Removal",
             "image_type": "png"
         },
@@ -12291,6 +12589,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "antinoya",
+            "alias": "",
             "notes": "!group channel\n!sort 04",
             "image_type": "png"
         },
@@ -12310,6 +12609,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "uchi vs the world",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12321,7 +12621,7 @@
             "number": 357,
             "color_identity": "WG",
             "cost": "{4}{G}{W}",
-            "rules_text": "Vigilance, trample\nWhenever this creature attacks, you may have the base power and toughness of another target creature become equal to this creature's power and toughness until end of turn.",
+            "rules_text": "Mutate {4}{G}{W} [i](If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)[/i]\nVigilance, trample\nWhenever this creature attacks, you may have the base power and toughness of another target creature become equal to this creature's power and toughness until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "Mutate {4}{G}{W} [i](If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)[/i]\nVigilance, trample\nWhenever this creature attacks, you may have the base power and toughness of another target creature become equal to this creature's power and toughness until end of turn.",
@@ -12329,6 +12629,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "NavyRaccoon",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12348,6 +12649,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Proteus",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12367,6 +12669,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "copepo",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12386,6 +12689,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Alejandro Silva",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12405,6 +12709,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "AngZ",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12424,6 +12729,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "suomar",
+            "alias": "",
             "notes": "Ramp",
             "image_type": "png"
         },
@@ -12443,6 +12749,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "FeiHai",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12462,6 +12769,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "snailaql",
+            "alias": "",
             "notes": "Removal",
             "image_type": "png"
         },
@@ -12481,6 +12789,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "NSlacka",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12500,6 +12809,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "san xiao jin",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12519,6 +12829,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ariamis Arts",
+            "alias": "",
             "notes": "Removal",
             "image_type": "png"
         },
@@ -12530,14 +12841,15 @@
             "number": 171,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
-            "rules_text": "Whenever you cast a noncreature spell, put a myriad counter on Gladius.\nThe \u201clegend rule\u201d doesn't apply to creature tokens you control.\nAt the beginning of each of your postcombat main phases, remove all myriad counters from Gladius. He deals that much damage to any target and you add that much {R}.",
+            "rules_text": "Whenever you cast a noncreature spell, put a myriad counter on Gladius.\nThe \u201clegend rule\u201d doesn't apply to creatures you control.\nAt the beginning of each of your postcombat main phases, remove all myriad counters from Gladius. He deals that much damage to any target and you add that much {R}.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
             "shape": "normal",
             "set": "EDR",
             "loyalty": "",
-            "artist": "Temmaru",
+            "artist": "Rashuu",
+            "alias": "",
             "notes": "Nightreign",
             "image_type": "png"
         },
@@ -12557,6 +12869,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Shimhaq",
+            "alias": "",
             "notes": "Nightreign",
             "image_type": "png"
         },
@@ -12576,6 +12889,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Raki0v0",
+            "alias": "",
             "notes": "Removal",
             "image_type": "png"
         },
@@ -12595,6 +12909,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Raki0v0",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12614,6 +12929,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "iranon",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12633,6 +12949,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "awkwardtomato",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12644,7 +12961,7 @@
             "number": 101,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI, II, III \u2013 You draw cards and lose life equal to the number of lore counters on this Saga.\nIV \u2013 You may have each player's life total become equal to the lowest life total among players.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI, II, III \u2013 You draw cards and lose life equal to the number of lore counters on this Saga.\nIV \u2013 You may have each player's life total become equal to the lowest life total among players.",
@@ -12652,6 +12969,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "chengya huanwo",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12671,6 +12989,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Alexandru Munteanu",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12690,6 +13009,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ariamis Arts",
+            "alias": "",
             "notes": "Removal",
             "image_type": "png"
         },
@@ -12709,6 +13029,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "shimhaq",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12728,6 +13049,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "U60b",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12747,6 +13069,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "stades_jp",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12766,6 +13089,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "stades_jp",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12785,6 +13109,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ariamis Arts",
+            "alias": "",
             "notes": "Ramp",
             "image_type": "png"
         },
@@ -12804,6 +13129,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "-Bloodbird",
+            "alias": "",
             "notes": "!group channel\n!sort 03",
             "image_type": "png"
         },
@@ -12823,6 +13149,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ariamis Arts",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12842,6 +13169,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "IIIMP",
+            "alias": "",
             "notes": "!group other\n!sort 05",
             "image_type": "png"
         },
@@ -12861,6 +13189,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Daniel Kamarudin",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12880,6 +13209,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "bababonzer",
+            "alias": "",
             "notes": "!group other\n!sort 10",
             "image_type": "png"
         },
@@ -12899,6 +13229,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Florian Bobe",
+            "alias": "",
             "notes": "Nightreign",
             "image_type": "png"
         },
@@ -12918,6 +13249,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ariamis Arts",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12937,6 +13269,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "jacknguyen",
+            "alias": "",
             "notes": "Nightreign",
             "image_type": "png"
         },
@@ -12956,6 +13289,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "NSlacka",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -12975,6 +13309,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "devanstolp",
+            "alias": "",
             "notes": "!group channel\n!sort 10",
             "image_type": "png"
         },
@@ -12994,6 +13329,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Goblin's Doodles",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13013,6 +13349,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "imperatoralicia",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13032,6 +13369,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "x37t",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13051,6 +13389,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ariamis Arts",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13070,6 +13409,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ariamis Arts",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13089,6 +13429,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Rio Yudha",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13108,6 +13449,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Soulseal",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13127,6 +13469,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "_crimss_",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13146,6 +13489,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Agata Samborska",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13165,6 +13509,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "John Devlin",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13184,6 +13529,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Rio Yudha",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13195,7 +13541,7 @@
             "number": 395,
             "color_identity": "R",
             "cost": "{7}",
-            "rules_text": "Whenever this creature attacks, add X {R}, where X is its power. Until end of turn, you don't lose this mana as steps and phases end.",
+            "rules_text": "2R \u2013",
             "flavor_text": "[i][/i]",
             "pt": "6/6",
             "special_text": "2R \u2013",
@@ -13203,6 +13549,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Sebasti\u00e1n Franchini",
+            "alias": "",
             "notes": "Ramp",
             "image_type": "png"
         },
@@ -13222,6 +13569,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Mack",
+            "alias": "",
             "notes": "Nightreign",
             "image_type": "png"
         },
@@ -13241,6 +13589,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "David Alsina",
+            "alias": "",
             "notes": "!group other\n!sort 06",
             "image_type": "png"
         },
@@ -13260,6 +13609,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "David Lee Conley",
+            "alias": "",
             "notes": "!group monarch\n!sort 08",
             "image_type": "png"
         },
@@ -13279,6 +13629,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "ShyFurby",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13290,7 +13641,7 @@
             "number": 49,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "",
+            "rules_text": "\nI \u2013 Each opponent puts a vow counter on a creature they control. Each of those creatures can't attack you for as long as it has a vow counter on it.\nII \u2013 Each opponent sacrifices a creature without a vow counter on it.\nIII \u2013 You gain 1 life and draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "\nI \u2013 Each opponent puts a vow counter on a creature they control. Each of those creatures can't attack you for as long as it has a vow counter on it.\nII \u2013 Each opponent sacrifices a creature without a vow counter on it.\nIII \u2013 You gain 1 life and draw a card.",
@@ -13298,6 +13649,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Anato Finnstark",
+            "alias": "",
             "notes": "!exportname Will You Be My Consort",
             "image_type": "png"
         },
@@ -13317,6 +13669,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "wraith615",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13336,6 +13689,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "ari ibarra",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13355,6 +13709,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ariamis Arts",
+            "alias": "",
             "notes": "Nightreign",
             "image_type": "png"
         },
@@ -13374,6 +13729,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Naufal Mahaprana",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13393,6 +13749,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "siriusbound",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13412,6 +13769,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Corey Rivera",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13431,6 +13789,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Agatan",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13442,14 +13801,15 @@
             "number": 35,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "",
+            "rules_text": "\nI \u2013 Turn target noncommander creature face down. It's a 2/2 Sculpture artifact creature.\nII, III \u2013 Discover 3. [i](Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Turn target noncommander creature face down. It's a 2/2 Sculpture artifact creature.\nII, III \u2013 Discover 3. [i](Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]\n\u200b",
+            "special_text": "\nI \u2013 Turn target noncommander creature face down. It's a 2/2 Sculpture artifact creature.\nII, III \u2013 Discover 3. [i](Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]\n\u200b",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",
             "artist": "Sin_node",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13461,7 +13821,7 @@
             "number": 92,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
-            "rules_text": "",
+            "rules_text": "\nI \u2013 Return all creatures except your commander to their owners' hands.\nII, III, IV \u2013 The first spell you cast this turn costs {1} less to cast for each lore counter on this Saga.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "\nI \u2013 Return all creatures except your commander to their owners' hands.\nII, III, IV \u2013 The first spell you cast this turn costs {1} less to cast for each lore counter on this Saga.\n\u200b",
@@ -13469,6 +13829,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "eureka1812",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13488,6 +13849,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Nadine Schakel",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13507,6 +13869,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "ganondoodle",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13526,6 +13889,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "stu dts",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13545,6 +13909,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Anninosart",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13564,6 +13929,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Claire Natice",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13583,6 +13949,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Claire Natice & Rishi Shukla",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13594,7 +13961,7 @@
             "number": 61,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "",
+            "rules_text": "\nI, II \u2013 Surveil 2. Then if there are four or more instant and/or sorcery cards in your graveyard, create a 4/4 red Dragon creature token with flying.\nIII \u2013 Exile up to one target instant or sorcery card from your graveyard. Copy it. You may cast the copy.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "\nI, II \u2013 Surveil 2. Then if there are four or more instant and/or sorcery cards in your graveyard, create a 4/4 red Dragon creature token with flying.\nIII \u2013 Exile up to one target instant or sorcery card from your graveyard. Copy it. You may cast the copy.\n\u200b",
@@ -13602,6 +13969,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Halcyon Weeks",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13621,6 +13989,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Bossxie",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13640,6 +14009,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Diego Lopez",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13659,6 +14029,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ariamis Arts",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13678,6 +14049,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Miquellaonb",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13697,6 +14069,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "velvety1969",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13716,6 +14089,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "renekovacart",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13735,6 +14109,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "@radagon-in-eldentale",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13754,6 +14129,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "outcasto",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13773,6 +14149,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "danieljoyniel",
+            "alias": "",
             "notes": "Reprint",
             "image_type": "png"
         },
@@ -13792,6 +14169,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "francoyovich",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13811,6 +14189,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Samantha Spencer",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13830,6 +14209,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "GHONZ",
+            "alias": "",
             "notes": "Nightreign",
             "image_type": "png"
         },
@@ -13849,6 +14229,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Tatiandart",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13868,6 +14249,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ariamis Arts",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13887,6 +14269,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "TFMsaad",
+            "alias": "",
             "notes": "Nightreign",
             "image_type": "png"
         },
@@ -13906,6 +14289,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Anyrava",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13917,7 +14301,7 @@
             "number": 119,
             "color_identity": "B",
             "cost": "{5}{B}{B}",
-            "rules_text": "",
+            "rules_text": "\nI \u2013 Sacrifice any number of other permanents. Draw that many cards.\nII \u2013 Return all nonlegendary creature cards from your graveyard to the battlefield.\nIII \u2013 Return all legendary creature cards from your graveyard to the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "\nI \u2013 Sacrifice any number of other permanents. Draw that many cards.\nII \u2013 Return all nonlegendary creature cards from your graveyard to the battlefield.\nIII \u2013 Return all legendary creature cards from your graveyard to the battlefield.",
@@ -13925,6 +14309,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Dame Himari",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13944,6 +14329,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "zevrt1",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13963,6 +14349,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Maluesel",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -13982,6 +14369,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "cdsart",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14001,6 +14389,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "silicon65",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14020,6 +14409,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "akiyart",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14039,6 +14429,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "sorie612",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14058,6 +14449,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "uchivstheworld",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14077,6 +14469,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "blazemalefica",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14096,6 +14489,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "feathrvane",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14115,6 +14509,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Megi",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14134,6 +14529,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "ImperiusArt",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14153,6 +14549,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ricky Lee",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14172,6 +14569,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Ricky Lee",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14191,6 +14589,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "bellanoche oxo",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14210,6 +14609,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "klodwig",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14229,6 +14629,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Themis",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14240,7 +14641,7 @@
             "number": 279,
             "color_identity": "WR",
             "cost": "{3}{R}{W}",
-            "rules_text": "",
+            "rules_text": "\nI, II \u2013 Search your library for an instant or sorcery card with mana value 4 or less and cast that card without paying its mana cost. Then shuffle.\nIII \u2013 Creatures you control get +X/+0 until end of turn, where X is the number of instant and/or sorcery cards in your graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "\nI, II \u2013 Search your library for an instant or sorcery card with mana value 4 or less and cast that card without paying its mana cost. Then shuffle.\nIII \u2013 Creatures you control get +X/+0 until end of turn, where X is the number of instant and/or sorcery cards in your graveyard.",
@@ -14248,6 +14649,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "blasphemlousclaw",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14267,6 +14669,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "poi",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14286,6 +14689,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Marcos Villarroel",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14305,6 +14709,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Stine Kasa Hansen",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14324,6 +14729,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "elden things",
+            "alias": "",
             "notes": "!last",
             "image_type": "png"
         },
@@ -14343,6 +14749,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "CollegeArtist1",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14362,6 +14769,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "fengweic12",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14381,6 +14789,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Arabesque91",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14400,6 +14809,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "BitchingtonSteel",
+            "alias": "",
             "notes": "!group monarch\n!sort 02",
             "image_type": "png"
         },
@@ -14419,6 +14829,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "BitchingtonSteel",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14438,6 +14849,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Victor Lozada",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14457,6 +14869,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Anesvalt",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14476,6 +14889,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Pedro G. Ferreira",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14495,6 +14909,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "AliveWake",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14514,6 +14929,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "@Tworain_w",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14533,6 +14949,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "nokkipo",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14552,6 +14969,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "ReneKovacArt",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14571,6 +14989,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "all-lee24",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14590,6 +15009,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "emilyjulstrom",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14609,6 +15029,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "autisticqueenorder",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14628,6 +15049,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "gravitydusty",
+            "alias": "",
             "notes": "Nightreign",
             "image_type": "png"
         },
@@ -14647,6 +15069,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "karmamonster011",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14666,6 +15089,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Victor Garcia",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14685,6 +15109,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "subzeroparade",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14704,6 +15129,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "sabbat",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14723,6 +15149,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "serpentsistermadeofyore",
+            "alias": "",
             "notes": "!last",
             "image_type": "png"
         },
@@ -14742,6 +15169,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Rio Yudha",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14761,6 +15189,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "stephengiannart",
+            "alias": "",
             "notes": "Nightreign",
             "image_type": "png"
         },
@@ -14780,6 +15209,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "hivvernal",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14799,6 +15229,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Megi",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14818,6 +15249,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "UnalloyedRoyalty",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14837,6 +15269,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Sien Lee",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14856,6 +15289,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "TheVilebloods",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14875,6 +15309,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Matheus Vrech",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -14894,6 +15329,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "rashuu",
+            "alias": "",
             "notes": "Nightreign",
             "image_type": "png"
         },
@@ -14913,6 +15349,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Xinuo",
+            "alias": "",
             "notes": "!group other\n!sort 08",
             "image_type": "png"
         },
@@ -14932,6 +15369,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "NSlacka",
+            "alias": "",
             "notes": "!group darksouls\n!sort 02",
             "image_type": "png"
         },
@@ -14951,6 +15389,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Henrik Karpinnen",
+            "alias": "",
             "notes": "!group darksouls\n!sort 06",
             "image_type": "png"
         },
@@ -14970,6 +15409,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "OniRuu",
+            "alias": "",
             "notes": "!group darksouls\n!sort 04",
             "image_type": "png"
         },
@@ -14989,6 +15429,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "truejjack",
+            "alias": "",
             "notes": "!group darksouls\n!sort 07",
             "image_type": "png"
         },
@@ -15008,6 +15449,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Hong Hong",
+            "alias": "",
             "notes": "!group darksouls\n!sort 05",
             "image_type": "png"
         },
@@ -15027,6 +15469,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Inkyh",
+            "alias": "",
             "notes": "!group darksouls\n!sort 03",
             "image_type": "png"
         },
@@ -15046,6 +15489,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "ace_magnatron",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15065,6 +15509,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "OvenBakedCheese",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15084,6 +15529,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "IIIMP",
+            "alias": "",
             "notes": "!group channel\n!sort 08",
             "image_type": "png"
         },
@@ -15103,6 +15549,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "IIIMP",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15122,6 +15569,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "cloudbox9",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15141,6 +15589,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "gaungde",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15160,6 +15609,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Tatiandart",
+            "alias": "",
             "notes": "Nightreign",
             "image_type": "png"
         },
@@ -15179,6 +15629,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Fermaniarki",
+            "alias": "",
             "notes": "!group darksouls\n!sort 01",
             "image_type": "png"
         },
@@ -15198,6 +15649,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Derutta",
+            "alias": "",
             "notes": "!group other\n!sort 03",
             "image_type": "png"
         },
@@ -15217,6 +15669,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "AliveWake",
+            "alias": "",
             "notes": "Nightreign",
             "image_type": "png"
         },
@@ -15236,6 +15689,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "NecrosisArts",
+            "alias": "",
             "notes": "!group monarch\n!sort 10",
             "image_type": "png"
         },
@@ -15255,6 +15709,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "NecrosisArts",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15274,6 +15729,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "NecrosisArts",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15293,6 +15749,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "NecrosisArts",
+            "alias": "",
             "notes": "!group monarch\n!sort 05",
             "image_type": "png"
         },
@@ -15304,7 +15761,7 @@
             "number": 230,
             "color_identity": "G",
             "cost": "{4}{G}",
-            "rules_text": "",
+            "rules_text": "\nI \u2013 Mill five cards.\nII \u2013 Return all land cards from your graveyard to the battlefield tapped.\nIII \u2013 Separate your graveyard into two piles. An opponent chooses one of those piles. Return the chosen pile to your hand and leave the other in your graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "\nI \u2013 Mill five cards.\nII \u2013 Return all land cards from your graveyard to the battlefield tapped.\nIII \u2013 Separate your graveyard into two piles. An opponent chooses one of those piles. Return the chosen pile to your hand and leave the other in your graveyard.",
@@ -15312,6 +15769,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "AliveWake4476",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15331,6 +15789,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "WizardOfIce",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15350,6 +15809,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Gabriel Lopes",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15369,6 +15829,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Victor Garcia",
+            "alias": "",
             "notes": "Ramp",
             "image_type": "png"
         },
@@ -15388,6 +15849,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "AliveWake",
+            "alias": "",
             "notes": "Nightreign",
             "image_type": "png"
         },
@@ -15406,7 +15868,8 @@
             "shape": "normal",
             "set": "EDR",
             "loyalty": "",
-            "artist": "Uniqros",
+            "artist": "luneillusoire",
+            "alias": "",
             "notes": "Nightreign",
             "image_type": "png"
         },
@@ -15426,6 +15889,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "tavvoc",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15445,6 +15909,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Shimhaq",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15464,6 +15929,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Temmaru",
+            "alias": "",
             "notes": "!group monarch\n!sort 07",
             "image_type": "png"
         },
@@ -15483,6 +15949,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Leathil",
+            "alias": "",
             "notes": "!group monarch\n!sort 03",
             "image_type": "png"
         },
@@ -15502,6 +15969,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "SAMI",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15521,6 +15989,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Chloe Xu",
+            "alias": "",
             "notes": "!group monarch\n!sort 04",
             "image_type": "png"
         },
@@ -15540,6 +16009,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Siel Art",
+            "alias": "",
             "notes": "!group monarch\n!sort 09",
             "image_type": "png"
         },
@@ -15559,6 +16029,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "ROFLEMOON",
+            "alias": "",
             "notes": "!group monarch\n!sort 06",
             "image_type": "png"
         },
@@ -15578,6 +16049,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "TheChrisPMan",
+            "alias": "",
             "notes": "!group backup\n!sort 01",
             "image_type": "png"
         },
@@ -15597,6 +16069,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Temmaru",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15616,6 +16089,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "chuno",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15635,6 +16109,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Velvety",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15654,6 +16129,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "IvyJinna",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15673,6 +16149,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Dragwar3",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15692,6 +16169,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "TFMsaad",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15711,6 +16189,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "MannDuck",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15730,6 +16209,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Chloe Xu / Fromsoftware",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15749,6 +16229,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "jw_lulu",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15768,6 +16249,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "NSlacka",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15787,6 +16269,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "GHONZ",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15806,6 +16289,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "rithyra",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15825,6 +16309,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Rashuu",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15844,6 +16329,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "AliveWake",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15863,6 +16349,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "jw_lulu",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15882,6 +16369,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Mathiasteur",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15901,6 +16389,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "tbrow_art",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15920,6 +16409,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Temmaru",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15939,6 +16429,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "DSittaro",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15957,7 +16448,8 @@
             "shape": "normal",
             "set": "EDR",
             "loyalty": "",
-            "artist": "SAMI",
+            "artist": "Dormin",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15977,6 +16469,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Smearu Ren",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -15996,6 +16489,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "vitkovskayaart",
+            "alias": "",
             "notes": "!group other\n!sort 015",
             "image_type": "png"
         },
@@ -16015,6 +16509,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Dinocomics4ever",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -16034,6 +16529,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "arnaerr",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -16053,6 +16549,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "arnaerr",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -16072,6 +16569,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Genel Jumalon",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -16091,6 +16589,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Emile Ran",
+            "alias": "",
             "notes": "!last",
             "image_type": "png"
         },
@@ -16110,6 +16609,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "Sin_node",
+            "alias": "",
             "notes": "!last",
             "image_type": "png"
         },
@@ -16129,6 +16629,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "KiwiN",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -16148,6 +16649,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "rashuu",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -16167,6 +16669,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "GripolloProduction",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -16186,6 +16689,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "draw souls",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -16204,7 +16708,8 @@
             "shape": "normal",
             "set": "EDR",
             "loyalty": "",
-            "artist": "maddoze",
+            "artist": "Rio Yudha",
+            "alias": "",
             "notes": "Nightreign",
             "image_type": "png"
         },
@@ -16224,6 +16729,7 @@
             "set": "EDR",
             "loyalty": "",
             "artist": "lowstrear",
+            "alias": "",
             "notes": "Nightreign",
             "image_type": "png"
         },

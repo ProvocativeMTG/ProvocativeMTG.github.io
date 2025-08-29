@@ -321,7 +321,9 @@
 	</div>
 
 	<div class="splash-container" id="splash">
-	
+	<h1>Valdrasil: Voyage to Infinity</h1>
+<p><img alt="alt text" src="/sets/VYI-files/img/1_Aeon.png" title="hover-over text" /></p>
+<p><em>It's been three thousand years. Valdrasil's gods have fled, and a sentient supermassive black hole is bearing down on the defenseless world. A planeswalker out of time must journey from his home into the stars to save everyone.</em></p>
 	</div>
 
 	<div class="grid-container" id="grid">
@@ -380,8 +382,8 @@
 					set_list_arrayified.push(card_list_arrayified[i]);
 				}
 			}
-			
-		setCardView();
+					buttons.style.display = 'grid';
+				switchView('splash');
 		});
 
 		document.getElementById("sort-by").onchange = displayChangeListener;

@@ -38184,6 +38184,26 @@
             "alias": "",
             "notes": "!tag spotlight\n!tag yaoi",
             "image_type": "png"
+        },
+        {
+            "card_name": "Aeon",
+            "color": "",
+            "rarity": "mythic",
+            "type": "Legendary Planeswalker \u2013 Aeon",
+            "number": 1,
+            "color_identity": "C",
+            "cost": "{8}",
+            "rules_text": "[+2]: Each player exiles cards from the top of their library until they exile a nonland card. You may cast any card exiled with Aeon without paying its mana cost.\n[+1]: Create a colorless enchantment token named Void Corona with \u201cSacrifice this token: The next spell you cast this turn has starstorm.\u201d [i](When you cast that spell, copy it for each spell you cast before it this turn. You may choose new targets for the copies.)[/i]\n[-5]: Choose three numbers. Exile each other nonland permanent with a mana value that is equal to one of the chosen numbers.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "[+2]: Each player exiles cards from the top of their library until they exile a nonland card. You may cast any card exiled with Aeon without paying its mana cost.\n[+1]: Create a colorless enchantment token named Void Corona with \u201cSacrifice this token: The next spell you cast this turn has starstorm.\u201d [i](When you cast that spell, copy it for each spell you cast before it this turn. You may choose new targets for the copies.)[/i]\n[-5]: Choose three numbers. Exile each other nonland permanent with a mana value that is equal to one of the chosen numbers.",
+            "shape": "planeswalker",
+            "set": "VYI",
+            "loyalty": "7",
+            "artist": "Victor Sales",
+            "alias": "",
+            "notes": "",
+            "image_type": "png"
         }
     ]
 }

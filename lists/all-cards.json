@@ -38690,6 +38690,27 @@
             "alias": "",
             "notes": "!tag spotlight\n!tag yaoi",
             "image_type": "png"
+        },
+        {
+            "card_name": "Leif, Hero of Valdrasil",
+            "color": "WR",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2013 Human Berserker",
+            "number": 227,
+            "color_identity": "WR",
+            "cost": "{1}{R}{W}",
+            "rules_text": "Haste\nOther Berserkers, Knights, Soldiers, and Warriors you control have haste.\nAt the beginning of combat on your turn, for each land you control that entered this turn that doesn't share a name with another land you control, create a 2/1 red Berserker creature token with \u201cThis token can't block.\u201d",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "normal",
+            "set": "VYI",
+            "loyalty": "",
+            "artist": "Drew Soman",
+            "alias": "",
+            "notes": "",
+            "image_type": "png",
+            "designer_notes": "<p>Leader of the Vallaknights and the first berserker to leave Valdrasil\u2019s atmosphere, Leif is a pioneer in more ways than one. She is accompanying Elai on his quest to find the missing gods across the Infinity, and has attuned with the god Vjala on more than one occasion.</p>"
         }
     ]
 }

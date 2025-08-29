@@ -10,9 +10,9 @@
 
 ---
 
-![alt text](%Aeon% "hover-over text")
-
 ####Aeon####
+
+![alt text](%Aeon% "hover-over text")
 
 Aeon, an ancient planeswalker from the dawn of time, has only one, singular goal: To devour life and store its memory within him. He carries an unknowable amount of civilizations within his mass, and seeks only to consume more, to preserve them in a frozen death for eternity.
 

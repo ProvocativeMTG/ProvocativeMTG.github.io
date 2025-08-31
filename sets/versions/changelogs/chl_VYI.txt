@@ -1,4 +1,103 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Warriors of Vjala added.
+Starheart Harvest added.
+Uncharted Frontiers added.
+Blazing Meteors added.
+Deep Space Sentinel added.
+Asteroid Freighter added.
+Strip-Mining Charter added.
+Harnessed Suncage added.
+Outer System Shuttle added.
+Calamitous Battlecruiser added.
+The Astral Basilica added.
+Faraway Worlds Await added.
+Kjotvi, Conduit of Wrath added.
+Genesis Event added.
+
+Kjotvi, Chosen of Irne removed.
+Shieldmaidens of Vjala removed.
+Starwhale Harvest Port removed.
+Brand New Frontiers removed.
+Blazing Starstorm removed.
+Android of Forgotten Creeds removed.
+Asteroid Trawler removed.
+Last Dusk removed.
+
+Amede, Vessel of Alune
+rules_text: [+1]: Create a Keen Sense token attached to up to one target creature you control. [i](It's an Aura enchantment with enchant creature and “Whenever enchanted creature deals damage to an opponent, you may draw a card.”)[/i]
+[-2]: Create a 3/3 green Elk Spirit creature token.
+[-2]: Target creature you control deals damage equal to its power to target creature an opponent controls. When it deals excess damage this way, destroy target artifact or enchantment an opponent controls with mana value less than or equal to that amount of excess damage. => [+1]: Create a Keen Sense token attached to up to one target creature you control. [i](It's a {G} Aura enchantment with enchant creature and “Whenever enchanted creature deals damage to an opponent, you may draw a card.”)[/i]
+[-2]: Create a 3/3 green Elk Spirit creature token.
+[-2]: Target creature you control deals damage equal to its power to target creature an opponent controls. When it deals excess damage this way, destroy target artifact or enchantment an opponent controls with mana value less than or equal to that amount of excess damage.
+special_text: [+1]: Create a Keen Sense token attached to up to one target creature you control. [i](It's an Aura enchantment with enchant creature and “Whenever enchanted creature deals damage to an opponent, you may draw a card.”)[/i]
+[-2]: Create a 3/3 green Elk Spirit creature token.
+[-2]: Target creature you control deals damage equal to its power to target creature an opponent controls. When it deals excess damage this way, destroy target artifact or enchantment an opponent controls with mana value less than or equal to that amount of excess damage. => [+1]: Create a Keen Sense token attached to up to one target creature you control. [i](It's a {G} Aura enchantment with enchant creature and “Whenever enchanted creature deals damage to an opponent, you may draw a card.”)[/i]
+[-2]: Create a 3/3 green Elk Spirit creature token.
+[-2]: Target creature you control deals damage equal to its power to target creature an opponent controls. When it deals excess damage this way, destroy target artifact or enchantment an opponent controls with mana value less than or equal to that amount of excess damage.
+
+Sun-Eater Nautiloid
+rules_text: When this Spacecraft enters, each opponent exiles a nontoken creature they control.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 7+] Flying
+At the beginning of each opponent's upkeep, that player exiles a nontoken creature they control. If they can't, put a creature card exiled with this Spacecraft onto the battlefield, then sacrifice this Spacecraft.
+ => Whenever this Spacecraft enters or attacks, each opponent exiles a nontoken creature they control.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 7+] Flying
+At the beginning of your end step, if a player controls no creatures, sacrifice this Spacecraft, then put a creature card exiled with it onto the battlefield under your control.
+
+special_text: When this Spacecraft enters, each opponent exiles a nontoken creature they control.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 7+] Flying
+At the beginning of each opponent's upkeep, that player exiles a nontoken creature they control. If they can't, put a creature card exiled with this Spacecraft onto the battlefield, then sacrifice this Spacecraft.
+ => Whenever this Spacecraft enters or attacks, each opponent exiles a nontoken creature they control.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 7+] Flying
+At the beginning of your end step, if a player controls no creatures, sacrifice this Spacecraft, then put a creature card exiled with it onto the battlefield under your control.
+
+
+Sundeath Maw
+rules_text: When this creature enters, you may sacrifice any number of other nonland permanents. If you do, exile that many cards from the top of target opponent's library. Until end of turn, you may cast nonland cards exiled this way without paying their mana costs. Spells cast this way have starstorm. [i](When you cast a spell this way, copy it for each spell you cast before it this turn. You may choose new targets for the copies.)[/i] => When this creature enters, you may sacrifice any number of other nonland permanents. If you do, exile that many cards from the top of target opponent's library. Until end of turn, you may cast nonland cards exiled this way without paying their mana costs. Spells you cast this way have starstorm. [i](When you cast a spell this way, copy it for each spell you cast before it this turn. You may choose new targets for the copies.)[/i]
+
+Tectonic Megapod
+rules_text: {7}{U}: Until end of turn, this creature can't be blocked. This ability costs {4} less to activate if your expanse is four or greater. [i](Each differently named land you control adds to your expanse.)[/i]
+Islandcycling {2} [i]({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i] => [i]Landfall[/i] — Whenever a land you control enters, you may pay {1}{U}. If you do, this creature can't be blocked this turn.
+Islandcycling {2} [i]({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Berserker
+
+Caelistic Thunderhoof
+
+Prince Bronwyn, the Fair
+
+Stitched Simulacrum
+
+Call the Infinite Bridge
+rules_text: Reveal the top eight cards of your library. You may put a creature card, land card, and/or Spacecraft card from among them onto the battlefield. Put the rest on the bottom of your library in a random order. => Reveal the top six cards of your library. You may put up to two creature cards, up to two land card, and up to two Spacecraft cards from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
+
+Monument of Waning Faith
+
+Icareum, Perfected Mind
+rules_text: Trample
+Icareum enters with a number of +1/+1 counters on it equal to the amount of mana spent to cast it.
+Whenever Icareum or another artifact you control dies, if it had counters on it, put those counters on up to one target artifact you control. => Trample
+Icareum enters with a number of +1/+1 counters on it equal to the amount of mana spent to cast it.
+Whenever Icareum or another artifact you control leaves the battlefield, if it had counters on it, put those counters on up to one target artifact you control.
+
+Chaos Wyrm
+type: Creature — Dragon => Creature — Dragon Wurm
+
+Vallaheart Rescuer
+rules_text: When this creature enters, return target creature or artifact card with mana value 3 or less from your graveyard to the battlefield tapped. If that permanent entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time. => When this creature enters, return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield tapped. If that permanent entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+
+Upload Capsule
+rules_text: When this artifact enters, create a tapped 2/2 colorless Robot artifact creature token.
+Whenever this artifact or another artifact you control enters, target creature you control gets +1/+1 until end of turn. => When this artifact enters, create a 0/0 colorless Avatar artifact creature token with “This creature gets +1/+1 for each artifact you control.”
+{1}{W}, Sacrifice this artifact: You gain 3 life and draw a card.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Valdrasil, Whorl of Life added.

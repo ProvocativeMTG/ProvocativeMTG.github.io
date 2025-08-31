@@ -62,7 +62,7 @@
 		color: #0492c2;
 	}
 	.select-text {
-		display: none;
+		display: flex;
 		align-items: center;
 		justify-content: left;
 		gap: 8px;
@@ -310,7 +310,9 @@
 		<div class="banner-container">
 			<div class="set-banner" id="set-banner">
 				<img class="set-logo" src="/sets/VYI-files/icon.png">
-				<div class="set-title">Valdrisil: Voyage to Infinity</div>		</div>
+				<div class="set-title">Valdrisil: Voyage to Infinity</div><div class="dot"> • </div><a href="/sets/VYI-files/VYI-draft.txt" download>Draft</a>
+		<div class="dot"> • </div><a onclick="packOnePickOne()">P1P1</a>
+		</div>
 
 			<div class="select-text">Cards displayed as<select name="display" id="display"><option value="cards-only">Cards Only</option><option value="cards-text">Cards + Text</option></select>sorted by<select name="sort-by" id="sort-by"><option value="set-code">Set Number</option><option value="name">Name</option><option value="mv">Mana Value</option><option value="color">Color</option><option value="rarity">Rarity</option></select> : <select name="sort-order" id="sort-order"><option value="ascending">Asc</option><option value="descending">Desc</option></select></div>
 		</div>
@@ -345,7 +347,7 @@ Aeon, an ancient planeswalker from the dawn of time, has only one, singular goal
 <hr />
 <h2>Elai</h2>
 <p><br>
-<img alt="alt text" src="/sets/VYI-files/img/210_Captain Elai.png" title="hover-over text" />
+<img alt="alt text" src="/sets/VYI-files/img/212_Captain Elai.png" title="hover-over text" />
 <br>
 <br>
 <br>
@@ -355,7 +357,7 @@ Elai is a planeswalker from the past of Valdrasil who was sealed away within the
 <hr />
 <h2>Amede</h2>
 <p><br>
-<img alt="alt text" src="/sets/VYI-files/img/166_Amede, Vessel of Alune.png" title="hover-over text" />
+<img alt="alt text" src="/sets/VYI-files/img/167_Amede, Vessel of Alune.png" title="hover-over text" />
 <br>
 <br>
 <br>
@@ -365,7 +367,7 @@ Amede was a planeswalker from Valdrasil's past as well. However, after Elai was 
 <hr />
 <h2>Zaender</h2>
 <p><br>
-<img alt="alt text" src="/sets/VYI-files/img/123_Zaender, Anomaly Analyst.png" title="hover-over text" />
+<img alt="alt text" src="/sets/VYI-files/img/124_Zaender, Anomaly Analyst.png" title="hover-over text" />
 <br>
 <br>
 <br>
@@ -480,7 +482,7 @@ Zaender is a planeswalker from a world that has long since perished, and seeks a
 			}
 			cardGrid.innerHTML = "";
 
-			if (true)
+			if (false)
 			{
 				let text1 = document.createElement("div");
 				let text2 = document.createElement("div");

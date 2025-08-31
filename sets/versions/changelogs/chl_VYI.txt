@@ -1,4 +1,19 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Alien Contact added.
+
+To Infinity removed.
+
+Pillbot
+rules_text: Flying
+When this creature enters, you may tap target creature an opponent controls. if you do, put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i] => Flying
+When this creature enters, you may tap target creature an opponent controls. If you do, put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+
+Companion's Grave
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Warp-Ring Tyrant added.

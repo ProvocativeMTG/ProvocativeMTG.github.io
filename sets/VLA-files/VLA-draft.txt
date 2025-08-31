@@ -7,7 +7,7 @@
 			"type": "Enchantment Creature — Bear Luminary",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/202_Star-Speckled Ursine.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/202_Star-Speckled Ursine.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/245_Surai, Anjarjan Tyrant.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/245_Surai, Anjarjan Tyrant.png"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Enchantment Creature — Kraken Luminary",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/193_Nebula Kraken.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/193_Nebula Kraken.png"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Enchantment",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/28_Piercing Star.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/28_Piercing Star.png"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Legendary Snow Planeswalker — Alexei",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/44_Alexei, Rime Magnarch.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/44_Alexei, Rime Magnarch.png"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/65_Lignification.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/65_Lignification.png"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Legendary Planeswalker — Elai",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/224_Elai Ascendant.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/224_Elai Ascendant.png"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Snow Instant",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/45_Alexei's Response.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/45_Alexei's Response.png"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/1_Anjarjan Adjudicator.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/1_Anjarjan Adjudicator.png"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Creature — Elk Spirit",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/160_Suncatcher Elk.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/160_Suncatcher Elk.png"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Enchantment Creature — Wolf Luminary",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/170_Assembla Pathfinder.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/170_Assembla Pathfinder.png"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Enchantment Creature — Elk Luminary",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/190_Mooncrown Stag.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/190_Mooncrown Stag.png"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Creature — Skeleton",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/207_Vallaroot Soulspinner.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/207_Vallaroot Soulspinner.png"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"type": "Instant",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/79_Smug Denial.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/79_Smug Denial.png"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"type": "Creature — Fungus Zombie",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/99_Fungal Cadaver.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/99_Fungal Cadaver.png"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Snow Creature — Human Shaman",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/197_Rimestaff Mentor.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/197_Rimestaff Mentor.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Snow Instant",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/189_Might of Kjaldir.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/189_Might of Kjaldir.png"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"type": "Enchantment Creature — Luminary",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/21_Heavenly Empyrean.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/21_Heavenly Empyrean.png"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Enchantment Creature — Cat Spirit",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/188_Mesmer Enchantress.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/188_Mesmer Enchantress.png"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Enchantment Creature — Unicorn Luminary",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/5_Aurora Charger.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/5_Aurora Charger.png"
 			}
 		},
 		{
@@ -207,7 +207,7 @@
 			"type": "Snow Artifact Creature — Golem",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/257_Icehide Golem.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/257_Icehide Golem.png"
 			}
 		},
 		{
@@ -217,7 +217,7 @@
 			"type": "Sorcery",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/151_Madness in Annihilation.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/151_Madness in Annihilation.png"
 			}
 		},
 		{
@@ -227,7 +227,7 @@
 			"type": "Legendary Creature — God",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/142_Fryde, Patron of Fools.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/142_Fryde, Patron of Fools.png"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/35_Soul-Axe Veteran.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/35_Soul-Axe Veteran.png"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 			"type": "Creature — Human Shaman",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/34_Solar Convert.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/34_Solar Convert.png"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/132_Charged Berserker.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/132_Charged Berserker.png"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"type": "Snow Land",
 			"collector_number": "270",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/270_Berserker's Cairn.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/270_Berserker's Cairn.png"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 			"type": "Snow Creature — Zombie Warrior",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/118_Unbound Undead.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/118_Unbound Undead.png"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 			"type": "Creature — Demon Shaman",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/158_Ritualist of Old Blood.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/158_Ritualist of Old Blood.png"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"type": "Enchantment Creature — Bird Luminary",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/213_Aurora Harbinger.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/213_Aurora Harbinger.png"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 			"type": "Legendary Land",
 			"collector_number": "285",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/285_Valdrasil Reborn.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/285_Valdrasil Reborn.png"
 			}
 		},
 		{
@@ -317,7 +317,7 @@
 			"type": "Creature — Human Avatar",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/101_Host of Night.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/101_Host of Night.png"
 			}
 		},
 		{
@@ -327,7 +327,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/47_Ascendant Binding.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/47_Ascendant Binding.png"
 			}
 		},
 		{
@@ -337,7 +337,7 @@
 			"type": "Snow Creature — Human Warrior",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/184_Hogback Chieftain.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/184_Hogback Chieftain.png"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/218_Cobbled Protector.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/218_Cobbled Protector.png"
 			}
 		},
 		{
@@ -357,7 +357,7 @@
 			"type": "Snow Creature — Elf Shaman",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/175_Deepwyn Desecrator.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/175_Deepwyn Desecrator.png"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/73_Purifying Perfumer.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/73_Purifying Perfumer.png"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			"type": "Sorcery",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/196_Reweaving the Roots.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/196_Reweaving the Roots.png"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/138_Drakkon Boltcaster.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/138_Drakkon Boltcaster.png"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/23_Minor Empyrean.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/23_Minor Empyrean.png"
 			}
 		},
 		{
@@ -407,7 +407,7 @@
 			"type": "Enchantment",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/212_Ardent Starcrafting.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/212_Ardent Starcrafting.png"
 			}
 		},
 		{
@@ -417,7 +417,7 @@
 			"type": "Snow Land",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/274_Deepfrost Citadel.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/274_Deepfrost Citadel.png"
 			}
 		},
 		{
@@ -427,7 +427,7 @@
 			"type": "Enchantment",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/169_Arboreal Artisanry.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/169_Arboreal Artisanry.png"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 			"type": "Sorcery",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/123_Whims of the Welkin.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/123_Whims of the Welkin.png"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 			"type": "Snow Creature — Human Assassin",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/97_Faithless Karaki.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/97_Faithless Karaki.png"
 			}
 		},
 		{
@@ -457,7 +457,7 @@
 			"type": "Enchantment Creature — Dragon Luminary",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/66_Living Aurora.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/66_Living Aurora.png"
 			}
 		},
 		{
@@ -467,7 +467,7 @@
 			"type": "Legendary Enchantment Creature — Serpent",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/236_Ourobori, Reincarnated.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/236_Ourobori, Reincarnated.png"
 			}
 		},
 		{
@@ -477,7 +477,7 @@
 			"type": "Creature — Elf Shaman",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/178_Elvish Vitalist.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/178_Elvish Vitalist.png"
 			}
 		},
 		{
@@ -487,7 +487,7 @@
 			"type": "Enchantment",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/173_Climbing the Tree.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/173_Climbing the Tree.png"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/38_Valdrasil Angel.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/38_Valdrasil Angel.png"
 			}
 		},
 		{
@@ -507,7 +507,7 @@
 			"type": "Creature — Dryad",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/204_Tender of the Land.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/204_Tender of the Land.png"
 			}
 		},
 		{
@@ -517,7 +517,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/2_Arrested by Moonlight.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/2_Arrested by Moonlight.png"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 			"type": "Artifact",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/262_Surai's Armillary.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/262_Surai's Armillary.png"
 			}
 		},
 		{
@@ -537,7 +537,7 @@
 			"type": "Snow Sorcery",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/100_Grip of the Rime.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/100_Grip of the Rime.png"
 			}
 		},
 		{
@@ -547,7 +547,7 @@
 			"type": "Snow Land",
 			"collector_number": "273",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/273_Cliffs of the Solemn Seekers.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/273_Cliffs of the Solemn Seekers.png"
 			}
 		},
 		{
@@ -557,7 +557,7 @@
 			"type": "Snow Instant",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/51_Chilling Cross.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/51_Chilling Cross.png"
 			}
 		},
 		{
@@ -567,7 +567,7 @@
 			"type": "Snow Sorcery",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/84_Winter's Dictate.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/84_Winter's Dictate.png"
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/235_Otherwordly Crafter.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/235_Otherwordly Crafter.png"
 			}
 		},
 		{
@@ -587,7 +587,7 @@
 			"type": "Sorcery",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/29_Realm Evacuation.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/29_Realm Evacuation.png"
 			}
 		},
 		{
@@ -597,7 +597,7 @@
 			"type": "Legendary Creature — Elf Avatar",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/199_Sigri, Valdrasil Avatar.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/199_Sigri, Valdrasil Avatar.png"
 			}
 		},
 		{
@@ -607,7 +607,7 @@
 			"type": "Land",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/276_Heidra's Heartglade.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/276_Heidra's Heartglade.png"
 			}
 		},
 		{
@@ -617,7 +617,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/149_Lamplighter.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/149_Lamplighter.png"
 			}
 		},
 		{
@@ -627,7 +627,7 @@
 			"type": "Enchantment",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/64_Illusionist's Talent.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/64_Illusionist's Talent.png"
 			}
 		},
 		{
@@ -637,7 +637,7 @@
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/244_Skodir, Reborn.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/244_Skodir, Reborn.png"
 			}
 		},
 		{
@@ -647,7 +647,7 @@
 			"type": "Instant",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/155_Prancing Flame.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/155_Prancing Flame.png"
 			}
 		},
 		{
@@ -657,7 +657,7 @@
 			"type": "Enchantment",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/37_Teluran Portal.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/37_Teluran Portal.png"
 			}
 		},
 		{
@@ -667,7 +667,7 @@
 			"type": "Legendary Enchantment Creature — God",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/234_Njora, First Assembla.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/234_Njora, First Assembla.png"
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 			"type": "Enchantment Creature — Kirin Luminary",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/90_Dark Matter Kirin.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/90_Dark Matter Kirin.png"
 			}
 		},
 		{
@@ -687,7 +687,7 @@
 			"type": "Legendary Enchantment Creature — God",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/229_Ifryn, Last Assembla.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/229_Ifryn, Last Assembla.png"
 			}
 		},
 		{
@@ -697,7 +697,7 @@
 			"type": "Instant",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/103_Ifryn Unseals the Gate.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/103_Ifryn Unseals the Gate.png"
 			}
 		},
 		{
@@ -707,7 +707,7 @@
 			"type": "Legendary Artifact — Vehicle",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/267_Zyxtron, the Realmslayer.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/267_Zyxtron, the Realmslayer.png"
 			}
 		},
 		{
@@ -717,7 +717,7 @@
 			"type": "Instant",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/14_Displace from Reality.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/14_Displace from Reality.png"
 			}
 		},
 		{
@@ -727,7 +727,7 @@
 			"type": "Enchantment Creature — Dragon Luminary",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/217_Chromatic Apex.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/217_Chromatic Apex.png"
 			}
 		},
 		{
@@ -737,7 +737,7 @@
 			"type": "Legendary Planeswalker — Amede",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/168_Amede, the Invoker.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/168_Amede, the Invoker.png"
 			}
 		},
 		{
@@ -747,7 +747,7 @@
 			"type": "Sorcery",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/176_Deepwyn Summoning.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/176_Deepwyn Summoning.png"
 			}
 		},
 		{
@@ -757,7 +757,7 @@
 			"type": "Sorcery",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/110_Pray to the Forbidden.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/110_Pray to the Forbidden.png"
 			}
 		},
 		{
@@ -767,7 +767,7 @@
 			"type": "Creature — Serpent",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/93_Deep Depths Serpent.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/93_Deep Depths Serpent.png"
 			}
 		},
 		{
@@ -777,7 +777,7 @@
 			"type": "Enchantment Creature — Luminary",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/89_Cosmic Reaper.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/89_Cosmic Reaper.png"
 			}
 		},
 		{
@@ -787,7 +787,7 @@
 			"type": "Creature — Human Shaman",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/141_Emissary of the Inferno.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/141_Emissary of the Inferno.png"
 			}
 		},
 		{
@@ -797,7 +797,7 @@
 			"type": "Snow Creature — Zombie Wizard",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/121_Vallaroots Lich.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/121_Vallaroots Lich.png"
 			}
 		},
 		{
@@ -807,7 +807,7 @@
 			"type": "Instant",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/12_Cosmic Ascension.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/12_Cosmic Ascension.png"
 			}
 		},
 		{
@@ -817,7 +817,7 @@
 			"type": "Artifact",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/259_Pulsating Spire.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/259_Pulsating Spire.png"
 			}
 		},
 		{
@@ -827,7 +827,7 @@
 			"type": "Creature — Human Berserker",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/166_Wolf of Anjarja.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/166_Wolf of Anjarja.png"
 			}
 		},
 		{
@@ -837,7 +837,7 @@
 			"type": "Enchantment",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/13_Dawn on the Weary.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/13_Dawn on the Weary.png"
 			}
 		},
 		{
@@ -847,7 +847,7 @@
 			"type": "Snow Artifact",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/265_True Ice Shard.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/265_True Ice Shard.png"
 			}
 		},
 		{
@@ -857,7 +857,7 @@
 			"type": "Snow Creature — Elk",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/187_Kjaldiran Elk.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/187_Kjaldiran Elk.png"
 			}
 		},
 		{
@@ -867,7 +867,7 @@
 			"type": "Snow Creature — Zombie Warrior",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/72_Pale Life-Shadow.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/72_Pale Life-Shadow.png"
 			}
 		},
 		{
@@ -877,7 +877,7 @@
 			"type": "Snow Sorcery",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/87_Chilling Presence.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/87_Chilling Presence.png"
 			}
 		},
 		{
@@ -887,7 +887,7 @@
 			"type": "Snow Creature — Human Warrior",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/243_Returned Frostblade.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/243_Returned Frostblade.png"
 			}
 		},
 		{
@@ -897,7 +897,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/129_Bearer of the Rage.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/129_Bearer of the Rage.png"
 			}
 		},
 		{
@@ -907,7 +907,7 @@
 			"type": "Creature — Horror Warrior",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/230_Infested Vallaheart.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/230_Infested Vallaheart.png"
 			}
 		},
 		{
@@ -917,7 +917,7 @@
 			"type": "Snow Creature — Human Shaman",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/249_Verglas Stagrider.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/249_Verglas Stagrider.png"
 			}
 		},
 		{
@@ -927,7 +927,7 @@
 			"type": "Enchantment",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/220_Deathless Conscription.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/220_Deathless Conscription.png"
 			}
 		},
 		{
@@ -937,7 +937,7 @@
 			"type": "Creature — Elf Ranger",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/226_Elvish Branchwalker.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/226_Elvish Branchwalker.png"
 			}
 		},
 		{
@@ -947,7 +947,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/211_Anjarjan Archangel.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/211_Anjarjan Archangel.png"
 			}
 		},
 		{
@@ -957,7 +957,7 @@
 			"type": "Creature — Demon Shaman",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/221_Deepwyn Lurker.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/221_Deepwyn Lurker.png"
 			}
 		},
 		{
@@ -967,7 +967,7 @@
 			"type": "Snow Sorcery",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/201_Snow on Empires Past.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/201_Snow on Empires Past.png"
 			}
 		},
 		{
@@ -977,7 +977,7 @@
 			"type": "Legendary Artifact Planeswalker — Lanion",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/233_Lanion, Beyond Realms.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/233_Lanion, Beyond Realms.png"
 			}
 		},
 		{
@@ -987,7 +987,7 @@
 			"type": "Instant",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/111_Pyrrhic Strike.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/111_Pyrrhic Strike.png"
 			}
 		},
 		{
@@ -997,7 +997,7 @@
 			"type": "Instant",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/104_Lanion's Sacrifice.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/104_Lanion's Sacrifice.png"
 			}
 		},
 		{
@@ -1007,7 +1007,7 @@
 			"type": "Legendary Creature — Zombie Hydra",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/231_Ingjald, Vile Calamity.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/231_Ingjald, Vile Calamity.png"
 			}
 		},
 		{
@@ -1017,7 +1017,7 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/82_Tiraan, the Uranographer.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/82_Tiraan, the Uranographer.png"
 			}
 		},
 		{
@@ -1027,7 +1027,7 @@
 			"type": "Instant",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/144_Fugue Dirge.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/144_Fugue Dirge.png"
 			}
 		},
 		{
@@ -1037,7 +1037,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/140_Drakkonic Scion.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/140_Drakkonic Scion.png"
 			}
 		},
 		{
@@ -1047,7 +1047,7 @@
 			"type": "Enchantment",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/237_Predator's Wake.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/237_Predator's Wake.png"
 			}
 		},
 		{
@@ -1057,7 +1057,7 @@
 			"type": "Enchantment Creature — Dragon",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/62_Galaxy Drakkon.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/62_Galaxy Drakkon.png"
 			}
 		},
 		{
@@ -1067,7 +1067,7 @@
 			"type": "Enchantment Creature — Bird Luminary",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/48_Auspicious Avatar.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/48_Auspicious Avatar.png"
 			}
 		},
 		{
@@ -1077,7 +1077,7 @@
 			"type": "Enchantment Creature — Serpent Luminary",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/116_Starfang Serpent.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/116_Starfang Serpent.png"
 			}
 		},
 		{
@@ -1087,7 +1087,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/56_Countervailing Drakkon.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/56_Countervailing Drakkon.png"
 			}
 		},
 		{
@@ -1097,7 +1097,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/127_Armillary Drakkon.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/127_Armillary Drakkon.png"
 			}
 		},
 		{
@@ -1107,7 +1107,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/135_Crimson Deathmaw.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/135_Crimson Deathmaw.png"
 			}
 		},
 		{
@@ -1117,7 +1117,7 @@
 			"type": "Enchantment",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/167_Wrath of the Empyreans.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/167_Wrath of the Empyreans.png"
 			}
 		},
 		{
@@ -1127,7 +1127,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/153_Myriad Forms.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/153_Myriad Forms.png"
 			}
 		},
 		{
@@ -1137,7 +1137,7 @@
 			"type": "Enchantment Creature — Luminary",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/55_Constellamancer.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/55_Constellamancer.png"
 			}
 		},
 		{
@@ -1147,7 +1147,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/81_Storm Drakkon.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/81_Storm Drakkon.png"
 			}
 		},
 		{
@@ -1157,7 +1157,7 @@
 			"type": "Sorcery",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/241_Rebel Rising.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/241_Rebel Rising.png"
 			}
 		},
 		{
@@ -1167,7 +1167,7 @@
 			"type": "Snow Land",
 			"collector_number": "271",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/271_Boreal Bastion.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/271_Boreal Bastion.png"
 			}
 		},
 		{
@@ -1177,7 +1177,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/215_Bog Beetle.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/215_Bog Beetle.png"
 			}
 		},
 		{
@@ -1187,7 +1187,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/49_Bronzewing Sagittar.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/49_Bronzewing Sagittar.png"
 			}
 		},
 		{
@@ -1197,7 +1197,7 @@
 			"type": "Enchantment Creature — Fish Hydra",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/180_Glory of the Heavens.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/180_Glory of the Heavens.png"
 			}
 		},
 		{
@@ -1207,7 +1207,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/67_Locus Manipulator.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/67_Locus Manipulator.png"
 			}
 		},
 		{
@@ -1217,7 +1217,7 @@
 			"type": "Creature — Spirit Knight",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/24_Moonshaker Cavalry.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/24_Moonshaker Cavalry.png"
 			}
 		},
 		{
@@ -1227,7 +1227,7 @@
 			"type": "Sorcery",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/122_Warlock's Ire.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/122_Warlock's Ire.png"
 			}
 		},
 		{
@@ -1237,7 +1237,7 @@
 			"type": "Creature — Serpent",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/198_Serpent of World's Edge.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/198_Serpent of World's Edge.png"
 			}
 		},
 		{
@@ -1247,7 +1247,7 @@
 			"type": "Sorcery",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/95_Empyrean Inquisition.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/95_Empyrean Inquisition.png"
 			}
 		},
 		{
@@ -1257,7 +1257,7 @@
 			"type": "Instant",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/75_Saboteur's Display.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/75_Saboteur's Display.png"
 			}
 		},
 		{
@@ -1267,7 +1267,7 @@
 			"type": "Creature — Human Ranger",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/128_Arrow of the Heavens.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/128_Arrow of the Heavens.png"
 			}
 		},
 		{
@@ -1277,7 +1277,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/36_Starchaser.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/36_Starchaser.png"
 			}
 		},
 		{
@@ -1287,7 +1287,7 @@
 			"type": "Legendary Creature — Horror",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/125_Xyvera, Who Remains.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/125_Xyvera, Who Remains.png"
 			}
 		},
 		{
@@ -1297,7 +1297,7 @@
 			"type": "Legendary Creature — Demon Shaman",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/148_Knutr, Blighted Embrace.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/148_Knutr, Blighted Embrace.png"
 			}
 		},
 		{
@@ -1307,7 +1307,7 @@
 			"type": "Creature — Kraken",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/68_Longboat Hunter.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/68_Longboat Hunter.png"
 			}
 		},
 		{
@@ -1317,7 +1317,7 @@
 			"type": "Legendary Creature — God",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/232_Katjar Peacebane.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/232_Katjar Peacebane.png"
 			}
 		},
 		{
@@ -1327,7 +1327,7 @@
 			"type": "Artifact",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/252_Celestial Vault.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/252_Celestial Vault.png"
 			}
 		},
 		{
@@ -1337,7 +1337,7 @@
 			"type": "Instant",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/32_Scryer's Safeguard.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/32_Scryer's Safeguard.png"
 			}
 		},
 		{
@@ -1347,7 +1347,7 @@
 			"type": "Snow Sorcery",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/61_Frostdrakkon's Shadow.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/61_Frostdrakkon's Shadow.png"
 			}
 		},
 		{
@@ -1357,7 +1357,7 @@
 			"type": "Creature — Horror",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/113_Runewarper.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/113_Runewarper.png"
 			}
 		},
 		{
@@ -1367,7 +1367,7 @@
 			"type": "Creature — Spirit Horror",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/119_Unleashed Malevolence.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/119_Unleashed Malevolence.png"
 			}
 		},
 		{
@@ -1377,7 +1377,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/50_Challenge the Heavens.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/50_Challenge the Heavens.png"
 			}
 		},
 		{
@@ -1387,7 +1387,7 @@
 			"type": "Artifact",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/253_Convergent Cairn.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/253_Convergent Cairn.png"
 			}
 		},
 		{
@@ -1397,7 +1397,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/147_Kjaldiran Cavalry.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/147_Kjaldiran Cavalry.png"
 			}
 		},
 		{
@@ -1407,7 +1407,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/222_Drakkon Tender.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/222_Drakkon Tender.png"
 			}
 		},
 		{
@@ -1417,7 +1417,7 @@
 			"type": "Enchantment Creature — Wolf",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/174_Convergence Pack.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/174_Convergence Pack.png"
 			}
 		},
 		{
@@ -1427,7 +1427,7 @@
 			"type": "Creature — Spirit Horror",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/124_Wicked Elderspirit.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/124_Wicked Elderspirit.png"
 			}
 		},
 		{
@@ -1437,7 +1437,7 @@
 			"type": "Creature — Ox",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/194_Realmtillers.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/194_Realmtillers.png"
 			}
 		},
 		{
@@ -1447,7 +1447,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/94_Ecliptic Angel.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/94_Ecliptic Angel.png"
 			}
 		},
 		{
@@ -1457,7 +1457,7 @@
 			"type": "Snow Artifact",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/264_Symbol of the Storm.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/264_Symbol of the Storm.png"
 			}
 		},
 		{
@@ -1467,7 +1467,7 @@
 			"type": "Enchantment Creature — Horse Spirit",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/96_Empyrean Mare.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/96_Empyrean Mare.png"
 			}
 		},
 		{
@@ -1477,7 +1477,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/107_Manifested Eclipse.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/107_Manifested Eclipse.png"
 			}
 		},
 		{
@@ -1487,7 +1487,7 @@
 			"type": "Instant",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/162_Transgress Heaven.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/162_Transgress Heaven.png"
 			}
 		},
 		{
@@ -1497,7 +1497,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/39_Vallaheart Commander.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/39_Vallaheart Commander.png"
 			}
 		},
 		{
@@ -1507,7 +1507,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/7_Blessed Dragonslayer.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/7_Blessed Dragonslayer.png"
 			}
 		},
 		{
@@ -1517,7 +1517,7 @@
 			"type": "Creature — Demon Warrior",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/157_Realmsieger.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/157_Realmsieger.png"
 			}
 		},
 		{
@@ -1527,7 +1527,7 @@
 			"type": "Sorcery",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/114_Self-Destruct.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/114_Self-Destruct.png"
 			}
 		},
 		{
@@ -1537,7 +1537,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/40_Vallaheart Redeemer.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/40_Vallaheart Redeemer.png"
 			}
 		},
 		{
@@ -1547,7 +1547,7 @@
 			"type": "Creature — Horror Warrior",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/134_Corrupted Empyrean.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/134_Corrupted Empyrean.png"
 			}
 		},
 		{
@@ -1557,7 +1557,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/22_Hero of the Final Dawn.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/22_Hero of the Final Dawn.png"
 			}
 		},
 		{
@@ -1567,7 +1567,7 @@
 			"type": "Creature — Human Wizard Warrior",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/69_Mage-Warrior Prefect.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/69_Mage-Warrior Prefect.png"
 			}
 		},
 		{
@@ -1577,7 +1577,7 @@
 			"type": "Instant",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/242_Reconstitute.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/242_Reconstitute.png"
 			}
 		},
 		{
@@ -1587,7 +1587,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/31_Resolute Starweaver.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/31_Resolute Starweaver.png"
 			}
 		},
 		{
@@ -1597,7 +1597,7 @@
 			"type": "Enchantment",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/33_Seal Away.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/33_Seal Away.png"
 			}
 		},
 		{
@@ -1607,7 +1607,7 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/223_Eirsdottir, the Insurgent.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/223_Eirsdottir, the Insurgent.png"
 			}
 		},
 		{
@@ -1617,7 +1617,7 @@
 			"type": "Snow Artifact Creature — Golem",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/266_Wandering Glacier.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/266_Wandering Glacier.png"
 			}
 		},
 		{
@@ -1627,7 +1627,7 @@
 			"type": "Enchantment",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/248_Uncharted Expanse.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/248_Uncharted Expanse.png"
 			}
 		},
 		{
@@ -1637,7 +1637,7 @@
 			"type": "Instant",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/63_Guide the Way.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/63_Guide the Way.png"
 			}
 		},
 		{
@@ -1647,7 +1647,7 @@
 			"type": "Legendary Creature — Human Cleric",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/246_Talkia, Astral Current.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/246_Talkia, Astral Current.png"
 			}
 		},
 		{
@@ -1657,7 +1657,7 @@
 			"type": "Snow Creature — Wolf",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/183_Hoarfrost Greatwolf.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/183_Hoarfrost Greatwolf.png"
 			}
 		},
 		{
@@ -1667,7 +1667,7 @@
 			"type": "Enchantment Creature — Luminary",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/191_Moonguard Empyrean.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/191_Moonguard Empyrean.png"
 			}
 		},
 		{
@@ -1677,7 +1677,7 @@
 			"type": "Legendary Creature — Human Cleric",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/18_Frode, Assembla's Arrow.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/18_Frode, Assembla's Arrow.png"
 			}
 		},
 		{
@@ -1687,7 +1687,7 @@
 			"type": "Enchantment",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/227_Glacial Expedition.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/227_Glacial Expedition.png"
 			}
 		},
 		{
@@ -1697,7 +1697,7 @@
 			"type": "Enchantment",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/225_Elderwurm's Lair.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/225_Elderwurm's Lair.png"
 			}
 		},
 		{
@@ -1707,7 +1707,7 @@
 			"type": "Creature — Angel Warrior",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/19_Frode's Messenger.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/19_Frode's Messenger.png"
 			}
 		},
 		{
@@ -1717,7 +1717,7 @@
 			"type": "Sorcery",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/8_Brilliance of the Heavens.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/8_Brilliance of the Heavens.png"
 			}
 		},
 		{
@@ -1727,7 +1727,7 @@
 			"type": "Creature — Unicorn",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/10_Celestial Unicorn.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/10_Celestial Unicorn.png"
 			}
 		},
 		{
@@ -1737,7 +1737,7 @@
 			"type": "Snow Land",
 			"collector_number": "286",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/286_Vestige of Spring.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/286_Vestige of Spring.png"
 			}
 		},
 		{
@@ -1747,7 +1747,7 @@
 			"type": "Enchantment",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/6_Aurora Chorus.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/6_Aurora Chorus.png"
 			}
 		},
 		{
@@ -1757,7 +1757,7 @@
 			"type": "Enchantment Creature — Luminary",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/20_Haughty Empyrean.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/20_Haughty Empyrean.png"
 			}
 		},
 		{
@@ -1767,7 +1767,7 @@
 			"type": "Enchantment Creature — Insect Luminary",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/83_Umbral Trespasser.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/83_Umbral Trespasser.png"
 			}
 		},
 		{
@@ -1777,7 +1777,7 @@
 			"type": "Creature — Zombie",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/150_Lich's Masterpiece.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/150_Lich's Masterpiece.png"
 			}
 		},
 		{
@@ -1787,7 +1787,7 @@
 			"type": "Snow Creature — Leviathan",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/238_Preserved Leviathan.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/238_Preserved Leviathan.png"
 			}
 		},
 		{
@@ -1797,7 +1797,7 @@
 			"type": "Instant",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/203_Surge of the Ancestors.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/203_Surge of the Ancestors.png"
 			}
 		},
 		{
@@ -1807,7 +1807,7 @@
 			"type": "Creature — Shapeshifter Dragon",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/70_Mercurial Drakkon.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/70_Mercurial Drakkon.png"
 			}
 		},
 		{
@@ -1817,7 +1817,7 @@
 			"type": "Snow Creature — Skeleton",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/115_Skeletal Abomination.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/115_Skeletal Abomination.png"
 			}
 		},
 		{
@@ -1827,7 +1827,7 @@
 			"type": "Creature — Skeleton Bird",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/109_Portent of the End.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/109_Portent of the End.png"
 			}
 		},
 		{
@@ -1837,7 +1837,7 @@
 			"type": "Creature — Demon",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/102_Hulking Monstrosity.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/102_Hulking Monstrosity.png"
 			}
 		},
 		{
@@ -1847,7 +1847,7 @@
 			"type": "Snow Creature — Elf Shaman",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/200_Slumbering Branchspeaker.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/200_Slumbering Branchspeaker.png"
 			}
 		},
 		{
@@ -1857,7 +1857,7 @@
 			"type": "Creature — Demon",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/143_Fryde's Lurker.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/143_Fryde's Lurker.png"
 			}
 		},
 		{
@@ -1867,7 +1867,7 @@
 			"type": "Snow Creature — Demon",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/88_Claws of the Deepwyn.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/88_Claws of the Deepwyn.png"
 			}
 		},
 		{
@@ -1877,7 +1877,7 @@
 			"type": "Creature — Serpent",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/86_Branchspine Serpent.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/86_Branchspine Serpent.png"
 			}
 		},
 		{
@@ -1887,7 +1887,7 @@
 			"type": "Creature — Human",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/146_Haunted Journeyman.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/146_Haunted Journeyman.png"
 			}
 		},
 		{
@@ -1897,7 +1897,7 @@
 			"type": "Sorcery",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/185_Hunter's Stalking.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/185_Hunter's Stalking.png"
 			}
 		},
 		{
@@ -1907,7 +1907,7 @@
 			"type": "Enchantment",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/137_Demonic Rites.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/137_Demonic Rites.png"
 			}
 		},
 		{
@@ -1917,7 +1917,7 @@
 			"type": "Enchantment",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/92_Deathless Pact.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/92_Deathless Pact.png"
 			}
 		},
 		{
@@ -1927,7 +1927,7 @@
 			"type": "Sorcery",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/205_Touch Valdrasil's Heart.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/205_Touch Valdrasil's Heart.png"
 			}
 		},
 		{
@@ -1937,7 +1937,7 @@
 			"type": "Sorcery",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/154_Offering to Chaos.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/154_Offering to Chaos.png"
 			}
 		},
 		{
@@ -1947,7 +1947,7 @@
 			"type": "Enchantment Creature — Luminary",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/80_Starforger Empyrean.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/80_Starforger Empyrean.png"
 			}
 		},
 		{
@@ -1957,7 +1957,7 @@
 			"type": "Enchantment Creature — Giant Luminary",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/26_Njora's Titan.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/26_Njora's Titan.png"
 			}
 		},
 		{
@@ -1967,7 +1967,7 @@
 			"type": "Enchantment Artifact Creature — Eye",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/17_Eye of the Oppressor.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/17_Eye of the Oppressor.png"
 			}
 		},
 		{
@@ -1977,7 +1977,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/164_Vallaheart Hunter.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/164_Vallaheart Hunter.png"
 			}
 		},
 		{
@@ -1987,7 +1987,7 @@
 			"type": "Enchantment",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/152_Martyr's Funeral.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/152_Martyr's Funeral.png"
 			}
 		},
 		{
@@ -1997,7 +1997,7 @@
 			"type": "Instant",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/130_Bitter End.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/130_Bitter End.png"
 			}
 		},
 		{
@@ -2007,7 +2007,7 @@
 			"type": "Creature — Human Ranger",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/177_Deepwyn Witness.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/177_Deepwyn Witness.png"
 			}
 		},
 		{
@@ -2017,7 +2017,7 @@
 			"type": "Snow Creature — Human Warrior",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/172_Bovi's Realmcutter.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/172_Bovi's Realmcutter.png"
 			}
 		},
 		{
@@ -2027,7 +2027,7 @@
 			"type": "Instant",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/192_Mystic Repeal.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/192_Mystic Repeal.png"
 			}
 		},
 		{
@@ -2037,7 +2037,7 @@
 			"type": "Land",
 			"collector_number": "278",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/278_Realmbranch Husk.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/278_Realmbranch Husk.png"
 			}
 		},
 		{
@@ -2047,7 +2047,7 @@
 			"type": "Creature — Elk",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/209_Worthy Prey.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/209_Worthy Prey.png"
 			}
 		},
 		{
@@ -2057,7 +2057,7 @@
 			"type": "Snow Enchantment",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/43_Age of Unceasing Ice.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/43_Age of Unceasing Ice.png"
 			}
 		},
 		{
@@ -2067,7 +2067,7 @@
 			"type": "Instant",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/108_Perdition.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/108_Perdition.png"
 			}
 		},
 		{
@@ -2077,7 +2077,7 @@
 			"type": "Snow Creature — Dragon",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/57_Cryodrakkon.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/57_Cryodrakkon.png"
 			}
 		},
 		{
@@ -2087,7 +2087,7 @@
 			"type": "Creature — Dragon Egg",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/139_Drakkon Egg.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/139_Drakkon Egg.png"
 			}
 		},
 		{
@@ -2097,7 +2097,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/214_Binding of the Beast.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/214_Binding of the Beast.png"
 			}
 		},
 		{
@@ -2107,7 +2107,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/251_Brutal Flail.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/251_Brutal Flail.png"
 			}
 		},
 		{
@@ -2117,7 +2117,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/254_Entombed Blade.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/254_Entombed Blade.png"
 			}
 		},
 		{
@@ -2127,7 +2127,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/30_Realmbound Rider.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/30_Realmbound Rider.png"
 			}
 		},
 		{
@@ -2137,7 +2137,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/9_Cairn Phantom.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/9_Cairn Phantom.png"
 			}
 		},
 		{
@@ -2147,7 +2147,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/42_Wing-Granted Paladin.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/42_Wing-Granted Paladin.png"
 			}
 		},
 		{
@@ -2157,7 +2157,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/4_Aura of Redemption.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/4_Aura of Redemption.png"
 			}
 		},
 		{
@@ -2167,7 +2167,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/15_Divine Inundation.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/15_Divine Inundation.png"
 			}
 		},
 		{
@@ -2177,7 +2177,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/27_Nova Angel.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/27_Nova Angel.png"
 			}
 		},
 		{
@@ -2187,7 +2187,7 @@
 			"type": "Creature — Demon Shaman",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/133_Compelling Demons.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/133_Compelling Demons.png"
 			}
 		},
 		{
@@ -2197,7 +2197,7 @@
 			"type": "Creature — Giant",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/156_Raging Giant.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/156_Raging Giant.png"
 			}
 		},
 		{
@@ -2207,7 +2207,7 @@
 			"type": "Sorcery",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/131_Bring Ruin to the Realms.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/131_Bring Ruin to the Realms.png"
 			}
 		},
 		{
@@ -2217,7 +2217,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/145_Greedy Barbarian.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/145_Greedy Barbarian.png"
 			}
 		},
 		{
@@ -2227,7 +2227,7 @@
 			"type": "Sorcery",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/126_Ancestral Anger.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/126_Ancestral Anger.png"
 			}
 		},
 		{
@@ -2237,7 +2237,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/53_Cloak of the Equinox.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/53_Cloak of the Equinox.png"
 			}
 		},
 		{
@@ -2247,7 +2247,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/159_Stormguide Hammer.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/159_Stormguide Hammer.png"
 			}
 		},
 		{
@@ -2257,7 +2257,7 @@
 			"type": "Instant",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/163_Undying Wrath.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/163_Undying Wrath.png"
 			}
 		},
 		{
@@ -2267,7 +2267,7 @@
 			"type": "Snow Creature — Skeleton Warrior",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/117_Trudge Skeleton.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/117_Trudge Skeleton.png"
 			}
 		},
 		{
@@ -2277,7 +2277,7 @@
 			"type": "Snow Creature — Cat",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/206_Tusked Snowlion.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/206_Tusked Snowlion.png"
 			}
 		},
 		{
@@ -2287,7 +2287,7 @@
 			"type": "Creature — Dryad Shaman",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/171_Blightlight Shaman.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/171_Blightlight Shaman.png"
 			}
 		},
 		{
@@ -2297,7 +2297,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/208_Welkin Communers.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/208_Welkin Communers.png"
 			}
 		},
 		{
@@ -2307,7 +2307,7 @@
 			"type": "Sorcery",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/186_In Glory.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/186_In Glory.png"
 			}
 		},
 		{
@@ -2317,7 +2317,7 @@
 			"type": "Enchantment Creature — Luminary",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/179_Empyrean of Change.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/179_Empyrean of Change.png"
 			}
 		},
 		{
@@ -2327,7 +2327,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/181_Granted Strength.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/181_Granted Strength.png"
 			}
 		},
 		{
@@ -2337,7 +2337,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/210_Angel of Dusk and Dawn.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/210_Angel of Dusk and Dawn.png"
 			}
 		},
 		{
@@ -2347,7 +2347,7 @@
 			"type": "Enchantment",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/240_Realmsundering.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/240_Realmsundering.png"
 			}
 		},
 		{
@@ -2357,7 +2357,7 @@
 			"type": "Artifact",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/258_Kin Waymarker.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/258_Kin Waymarker.png"
 			}
 		},
 		{
@@ -2367,7 +2367,7 @@
 			"type": "Legendary Creature — Human Shaman",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/228_Heidra, the Deepheart.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/228_Heidra, the Deepheart.png"
 			}
 		},
 		{
@@ -2377,7 +2377,7 @@
 			"type": "Artifact",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/261_Storied Cairn.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/261_Storied Cairn.png"
 			}
 		},
 		{
@@ -2387,7 +2387,7 @@
 			"type": "Enchantment Creature — Fox Luminary",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/11_Comet Fox.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/11_Comet Fox.png"
 			}
 		},
 		{
@@ -2397,7 +2397,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/260_Runed Axe.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/260_Runed Axe.png"
 			}
 		},
 		{
@@ -2407,7 +2407,7 @@
 			"type": "Enchantment Creature — Luminary",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/41_Vaunted Starmaker.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/41_Vaunted Starmaker.png"
 			}
 		},
 		{
@@ -2417,7 +2417,7 @@
 			"type": "Enchantment Creature — Luminary",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/239_Razer of Planets.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/239_Razer of Planets.png"
 			}
 		},
 		{
@@ -2427,7 +2427,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/3_Assembla's Guardian.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/3_Assembla's Guardian.png"
 			}
 		},
 		{
@@ -2437,7 +2437,7 @@
 			"type": "Creature — Wolf",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/16_Eager Sledrunners.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/16_Eager Sledrunners.png"
 			}
 		},
 		{
@@ -2447,7 +2447,7 @@
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/216_Brynhilda, the Avaricious.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/216_Brynhilda, the Avaricious.png"
 			}
 		},
 		{
@@ -2457,7 +2457,7 @@
 			"type": "Enchantment Creature — Luminary",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/59_Farsight Welkinborn.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/59_Farsight Welkinborn.png"
 			}
 		},
 		{
@@ -2467,7 +2467,7 @@
 			"type": "Enchantment Creature — Elk Luminary",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/71_Moonbind Empyrean.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/71_Moonbind Empyrean.png"
 			}
 		},
 		{
@@ -2477,7 +2477,7 @@
 			"type": "Legendary Creature — Human Ranger",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/247_Tarja, Favored Keen-Eye.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/247_Tarja, Favored Keen-Eye.png"
 			}
 		},
 		{
@@ -2487,7 +2487,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/263_Swift Karve.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/263_Swift Karve.png"
 			}
 		},
 		{
@@ -2497,7 +2497,7 @@
 			"type": "Creature — Giant Ranger",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/74_Ravenous Tracker.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/74_Ravenous Tracker.png"
 			}
 		},
 		{
@@ -2507,7 +2507,7 @@
 			"type": "Sorcery",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/182_Heaven's Sprouting.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/182_Heaven's Sprouting.png"
 			}
 		},
 		{
@@ -2517,7 +2517,7 @@
 			"type": "Enchantment",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/46_Anguished Creation.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/46_Anguished Creation.png"
 			}
 		},
 		{
@@ -2527,7 +2527,7 @@
 			"type": "Instant",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/136_Decisive Cry.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/136_Decisive Cry.png"
 			}
 		},
 		{
@@ -2537,7 +2537,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/161_Sungold Blade.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/161_Sungold Blade.png"
 			}
 		},
 		{
@@ -2547,7 +2547,7 @@
 			"type": "Instant",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/195_Reshape the Heavens.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/195_Reshape the Heavens.png"
 			}
 		},
 		{
@@ -2557,7 +2557,7 @@
 			"type": "Enchantment",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/106_Lich's Vile Throne.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/106_Lich's Vile Throne.png"
 			}
 		},
 		{
@@ -2567,7 +2567,7 @@
 			"type": "Instant",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/120_Unseal the Cairn.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/120_Unseal the Cairn.png"
 			}
 		},
 		{
@@ -2577,7 +2577,7 @@
 			"type": "Enchantment Creature — Phoenix Luminary",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/91_Dark Star.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/91_Dark Star.png"
 			}
 		},
 		{
@@ -2587,7 +2587,7 @@
 			"type": "Creature — Skeleton Warrior",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/112_Restless Skeleton.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/112_Restless Skeleton.png"
 			}
 		},
 		{
@@ -2597,7 +2597,7 @@
 			"type": "Sorcery",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/98_Flowing Runes.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/98_Flowing Runes.png"
 			}
 		},
 		{
@@ -2607,7 +2607,7 @@
 			"type": "Creature — Wolf",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/105_Last Packmate.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/105_Last Packmate.png"
 			}
 		},
 		{
@@ -2617,7 +2617,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/85_Ascend to Legend.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/85_Ascend to Legend.png"
 			}
 		},
 		{
@@ -2627,7 +2627,7 @@
 			"type": "Artifact Creature — Eye",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/76_Sigiled Prayer Sphere.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/76_Sigiled Prayer Sphere.png"
 			}
 		},
 		{
@@ -2637,7 +2637,7 @@
 			"type": "Snow Instant",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/54_Conjure the Snowstorm.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/54_Conjure the Snowstorm.png"
 			}
 		},
 		{
@@ -2647,7 +2647,7 @@
 			"type": "Snow Creature — Bird",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/78_Sleetfeather Owl.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/78_Sleetfeather Owl.png"
 			}
 		},
 		{
@@ -2657,7 +2657,7 @@
 			"type": "Snow Creature — Giant",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/60_Frost Giants of Skolha.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/60_Frost Giants of Skolha.png"
 			}
 		},
 		{
@@ -2667,7 +2667,7 @@
 			"type": "Snow Sorcery",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/58_Cryomancer's Assembly.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/58_Cryomancer's Assembly.png"
 			}
 		},
 		{
@@ -2677,7 +2677,7 @@
 			"type": "Creature — Human Wizard Ramger",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/77_Skolhan Crowcaster.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/77_Skolhan Crowcaster.png"
 			}
 		},
 		{
@@ -2687,7 +2687,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/165_Wildspark Mage.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/165_Wildspark Mage.png"
 			}
 		},
 		{
@@ -2697,7 +2697,7 @@
 			"type": "Creature — Nightmare",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/250_Vilemoon Apparition.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/250_Vilemoon Apparition.png"
 			}
 		},
 		{
@@ -2707,7 +2707,7 @@
 			"type": "Snow Artifact Creature — Dragon Golem",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/255_Furnace Golem.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/255_Furnace Golem.png"
 			}
 		},
 		{
@@ -2717,7 +2717,7 @@
 			"type": "Sorcery",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/52_Clear the Mind.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/52_Clear the Mind.png"
 			}
 		},
 		{
@@ -2727,7 +2727,7 @@
 			"type": "Enchantment",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/219_Cosmic Oppression.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/219_Cosmic Oppression.png"
 			}
 		},
 		{
@@ -2737,7 +2737,7 @@
 			"type": "Artifact",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/256_Grave Seal.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/256_Grave Seal.png"
 			}
 		},
 		{
@@ -2747,7 +2747,7 @@
 			"type": "Land",
 			"collector_number": "283",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/283_Throne of the Celestial Realm.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/283_Throne of the Celestial Realm.png"
 			}
 		},
 		{
@@ -2757,7 +2757,7 @@
 			"type": "Snow Land",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/268_Aurora Tarn.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/268_Aurora Tarn.png"
 			}
 		},
 		{
@@ -2767,7 +2767,7 @@
 			"type": "Snow Land",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/269_Behemoth Gateway.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/269_Behemoth Gateway.png"
 			}
 		},
 		{
@@ -2777,7 +2777,7 @@
 			"type": "Snow Land",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/272_Chilling Cavern.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/272_Chilling Cavern.png"
 			}
 		},
 		{
@@ -2787,7 +2787,7 @@
 			"type": "Snow Land",
 			"collector_number": "275",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/275_Frigid Fane.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/275_Frigid Fane.png"
 			}
 		},
 		{
@@ -2797,7 +2797,7 @@
 			"type": "Snow Land",
 			"collector_number": "277",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/277_Icy Stronghold.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/277_Icy Stronghold.png"
 			}
 		},
 		{
@@ -2807,7 +2807,7 @@
 			"type": "Snow Land",
 			"collector_number": "279",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/279_Rime Copse.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/279_Rime Copse.png"
 			}
 		},
 		{
@@ -2817,7 +2817,7 @@
 			"type": "Snow Land",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/280_Snowy Pastures.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/280_Snowy Pastures.png"
 			}
 		},
 		{
@@ -2827,7 +2827,7 @@
 			"type": "Snow Land",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/281_Sunlit Whitecaps.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/281_Sunlit Whitecaps.png"
 			}
 		},
 		{
@@ -2837,7 +2837,7 @@
 			"type": "Snow Land",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/282_Thawing Shipyward.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/282_Thawing Shipyward.png"
 			}
 		},
 		{
@@ -2847,7 +2847,7 @@
 			"type": "Snow Land",
 			"collector_number": "284",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/284_Training Spires.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/284_Training Spires.png"
 			}
 		},
 		{
@@ -2857,7 +2857,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "290",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/290_Mountain.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/290_Mountain.png"
 			}
 		},
 		{
@@ -2867,7 +2867,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "291",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/291_Forest.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/291_Forest.png"
 			}
 		},
 		{
@@ -2877,7 +2877,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "288",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/288_Island.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/288_Island.png"
 			}
 		},
 		{
@@ -2887,7 +2887,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "287",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/287_Plains.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/287_Plains.png"
 			}
 		},
 		{
@@ -2897,7 +2897,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "289",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/289_Swamp.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/289_Swamp.png"
 			}
 		},
 		{
@@ -2907,7 +2907,7 @@
 			"type": "Enchantment",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/VLA-files/img/25_Never Apart.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VLA-files/img/25_Never Apart.png"
 			}
 		}
 	]

@@ -10,11 +10,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/59_Josiah, Bitter Survivor_back.png"
+					"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/59_Josiah, Bitter Survivor_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/59_Josiah, Bitter Survivor_front.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/59_Josiah, Bitter Survivor_front.png"
 			}
 		},
 		{
@@ -24,7 +24,7 @@
 			"type": "Creature — Angel Demon",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/108_Scion of Heaven and Hell.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/108_Scion of Heaven and Hell.png"
 			}
 		},
 		{
@@ -34,7 +34,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/111_Shadowborn Apostle.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/111_Shadowborn Apostle.png"
 			}
 		},
 		{
@@ -44,7 +44,7 @@
 			"type": "Creature — Fungus Skeleton",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/179_Persistent Contagion.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/179_Persistent Contagion.png"
 			}
 		},
 		{
@@ -54,7 +54,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/214_Mother of Hands.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/214_Mother of Hands.png"
 			}
 		},
 		{
@@ -64,7 +64,7 @@
 			"type": "Creature — Human Cleric Knight",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/110_Shadowbane Paladin.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/110_Shadowbane Paladin.png"
 			}
 		},
 		{
@@ -74,7 +74,7 @@
 			"type": "Creature — Nightmare Dragon",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/198_Artisan of Undeath.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/198_Artisan of Undeath.png"
 			}
 		},
 		{
@@ -84,7 +84,7 @@
 			"type": "Sorcery",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/13_Dust to Flesh to Dust.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/13_Dust to Flesh to Dust.png"
 			}
 		},
 		{
@@ -94,7 +94,7 @@
 			"type": "Legendary Planeswalker — Sylvua",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/219_Sylvua, Wyldwood Mother.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/219_Sylvua, Wyldwood Mother.png"
 			}
 		},
 		{
@@ -104,7 +104,7 @@
 			"type": "Enchantment",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/81_At Any Cost.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/81_At Any Cost.png"
 			}
 		},
 		{
@@ -114,7 +114,7 @@
 			"type": "Creature — Demon",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/150_Scourge Taskmaster.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/150_Scourge Taskmaster.png"
 			}
 		},
 		{
@@ -127,11 +127,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/35_Staunch Purifier_back.png"
+					"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/35_Staunch Purifier_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/35_Staunch Purifier_front.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/35_Staunch Purifier_front.png"
 			}
 		},
 		{
@@ -141,7 +141,7 @@
 			"type": "Sorcery",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/75_Touch of God.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/75_Touch of God.png"
 			}
 		},
 		{
@@ -151,7 +151,7 @@
 			"type": "Enchantment",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/185_Ripples of Rebirth.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/185_Ripples of Rebirth.png"
 			}
 		},
 		{
@@ -161,7 +161,7 @@
 			"type": "Artifact Creature — Spirit",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/190_Stonesprung Spirit.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/190_Stonesprung Spirit.png"
 			}
 		},
 		{
@@ -171,7 +171,7 @@
 			"type": "Creature — Nightmare Cleric Knight",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/88_Eclipse Paladin.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/88_Eclipse Paladin.png"
 			}
 		},
 		{
@@ -181,7 +181,7 @@
 			"type": "Enchantment",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/11_Death's Undoing.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/11_Death's Undoing.png"
 			}
 		},
 		{
@@ -191,7 +191,7 @@
 			"type": "Creature — Human Cleric Knight",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/29_Seeker of Atonement.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/29_Seeker of Atonement.png"
 			}
 		},
 		{
@@ -201,7 +201,7 @@
 			"type": "Artifact",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/107_Sanguis Sanctorum.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/107_Sanguis Sanctorum.png"
 			}
 		},
 		{
@@ -211,7 +211,7 @@
 			"type": "Legendary Creature — Skeleton Warlock",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/184_Reygias, Lord Phytolich.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/184_Reygias, Lord Phytolich.png"
 			}
 		},
 		{
@@ -221,7 +221,7 @@
 			"type": "Artifact Creature — Angel",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/246_Stonework Angel.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/246_Stonework Angel.png"
 			}
 		},
 		{
@@ -231,7 +231,7 @@
 			"type": "Creature — Spider Demon",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/117_Whisperer of Sweetest Lies.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/117_Whisperer of Sweetest Lies.png"
 			}
 		},
 		{
@@ -241,7 +241,7 @@
 			"type": "Creature — Demon",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/138_Flame-Scarred Abomination.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/138_Flame-Scarred Abomination.png"
 			}
 		},
 		{
@@ -251,7 +251,7 @@
 			"type": "Creature — Human Warlock",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/99_Kael-dun Inquisitor.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/99_Kael-dun Inquisitor.png"
 			}
 		},
 		{
@@ -261,7 +261,7 @@
 			"type": "Legendary Creature — Human Artificer",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/222_Terithius, the Iron Mind.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/222_Terithius, the Iron Mind.png"
 			}
 		},
 		{
@@ -271,7 +271,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/234_Engine of Our Eden.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/234_Engine of Our Eden.png"
 			}
 		},
 		{
@@ -281,7 +281,7 @@
 			"type": "Enchantment",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/114_They Shall Know Perdition.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/114_They Shall Know Perdition.png"
 			}
 		},
 		{
@@ -291,7 +291,7 @@
 			"type": "Enchantment",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/32_Sphere of Isolation.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/32_Sphere of Isolation.png"
 			}
 		},
 		{
@@ -301,7 +301,7 @@
 			"type": "Enchantment",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/119_Ancient Transmutation.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/119_Ancient Transmutation.png"
 			}
 		},
 		{
@@ -311,7 +311,7 @@
 			"type": "Legendary Creature — Skeleton",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/80_Aos, Augur of Damnations.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/80_Aos, Augur of Damnations.png"
 			}
 		},
 		{
@@ -321,7 +321,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/16_Grit.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/16_Grit.png"
 			}
 		},
 		{
@@ -331,7 +331,7 @@
 			"type": "Legendary Planeswalker — Eira",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/205_Eira, Selfless Paladin.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/205_Eira, Selfless Paladin.png"
 			}
 		},
 		{
@@ -341,7 +341,7 @@
 			"type": "Creature — Shapeshifter",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/44_Breaker of Reality.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/44_Breaker of Reality.png"
 			}
 		},
 		{
@@ -351,7 +351,7 @@
 			"type": "Artifact Creature — Zombie Warlock",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/171_Ironclad Necromancers.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/171_Ironclad Necromancers.png"
 			}
 		},
 		{
@@ -361,7 +361,7 @@
 			"type": "Artifact Creature — Gargoyle",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/237_Glittering Gargoyle.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/237_Glittering Gargoyle.png"
 			}
 		},
 		{
@@ -371,7 +371,7 @@
 			"type": "Legendary Creature — Zombie Avatar",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/223_Tessa, Saint Reborn.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/223_Tessa, Saint Reborn.png"
 			}
 		},
 		{
@@ -381,7 +381,7 @@
 			"type": "Artifact",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/232_Cradle of Nascence.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/232_Cradle of Nascence.png"
 			}
 		},
 		{
@@ -391,7 +391,7 @@
 			"type": "Legendary Creature — Moonfolk Artificer",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/19_Ijara, the Last Teluran.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/19_Ijara, the Last Teluran.png"
 			}
 		},
 		{
@@ -401,7 +401,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/180_Petalwisp Whisperer.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/180_Petalwisp Whisperer.png"
 			}
 		},
 		{
@@ -411,7 +411,7 @@
 			"type": "Creature — Dryad Warlock",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/118_Wyldwood Dryad.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/118_Wyldwood Dryad.png"
 			}
 		},
 		{
@@ -421,7 +421,7 @@
 			"type": "Legendary Creature — Avatar Noble",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/206_Emperor Thuraxes IV.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/206_Emperor Thuraxes IV.png"
 			}
 		},
 		{
@@ -434,11 +434,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/167_Fascimile of Gods_back.png"
+					"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/167_Fascimile of Gods_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/167_Fascimile of Gods_front.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/167_Fascimile of Gods_front.png"
 			}
 		},
 		{
@@ -448,7 +448,7 @@
 			"type": "Token Artifact — Blood",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/9_Blood.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/9_Blood.png"
 			}
 		},
 		{
@@ -458,7 +458,7 @@
 			"type": "Artifact",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/238_Hellfire Ballista.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/238_Hellfire Ballista.png"
 			}
 		},
 		{
@@ -468,7 +468,7 @@
 			"type": "Sorcery",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/197_Wyldwood Ceremony.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/197_Wyldwood Ceremony.png"
 			}
 		},
 		{
@@ -478,7 +478,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/20_Ironblessed Inquisitor.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/20_Ironblessed Inquisitor.png"
 			}
 		},
 		{
@@ -488,7 +488,7 @@
 			"type": "Instant",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/40_All are Slave to Time.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/40_All are Slave to Time.png"
 			}
 		},
 		{
@@ -498,7 +498,7 @@
 			"type": "Instant",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/98_Josiah's Betrayal.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/98_Josiah's Betrayal.png"
 			}
 		},
 		{
@@ -508,7 +508,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/170_Herald of an Age of Iron.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/170_Herald of an Age of Iron.png"
 			}
 		},
 		{
@@ -518,7 +518,7 @@
 			"type": "Instant",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/90_Execute for Blasphemy.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/90_Execute for Blasphemy.png"
 			}
 		},
 		{
@@ -528,7 +528,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/239_The Memory Terminal.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/239_The Memory Terminal.png"
 			}
 		},
 		{
@@ -538,7 +538,7 @@
 			"type": "Creature — Human Cleric Knight",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/9_Clarion Paladin.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/9_Clarion Paladin.png"
 			}
 		},
 		{
@@ -548,7 +548,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/146_Paladin of Fury.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/146_Paladin of Fury.png"
 			}
 		},
 		{
@@ -558,7 +558,7 @@
 			"type": "Enchantment",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/228_Walk Out of Hell.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/228_Walk Out of Hell.png"
 			}
 		},
 		{
@@ -571,11 +571,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/104_Odeon, Goldmask Rogue_back.png"
+					"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/104_Odeon, Goldmask Rogue_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/104_Odeon, Goldmask Rogue_front.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/104_Odeon, Goldmask Rogue_front.png"
 			}
 		},
 		{
@@ -585,7 +585,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/129_Calamity Tyrant.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/129_Calamity Tyrant.png"
 			}
 		},
 		{
@@ -595,7 +595,7 @@
 			"type": "Artifact Creature — Human Artificer",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/216_Reweaver of Thuraxes.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/216_Reweaver of Thuraxes.png"
 			}
 		},
 		{
@@ -605,7 +605,7 @@
 			"type": "Creature — Horror",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/183_Putrescent Branchstalker.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/183_Putrescent Branchstalker.png"
 			}
 		},
 		{
@@ -615,7 +615,7 @@
 			"type": "Sorcery",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/94_Go to Hell.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/94_Go to Hell.png"
 			}
 		},
 		{
@@ -625,7 +625,7 @@
 			"type": "Enchantment",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/211_Flesh and Bone Yield Easily.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/211_Flesh and Bone Yield Easily.png"
 			}
 		},
 		{
@@ -635,7 +635,7 @@
 			"type": "Artifact",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/221_Teluran Sarcophagus.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/221_Teluran Sarcophagus.png"
 			}
 		},
 		{
@@ -645,7 +645,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/142_Infernal Torturer.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/142_Infernal Torturer.png"
 			}
 		},
 		{
@@ -655,7 +655,7 @@
 			"type": "Artifact Creature — Angel",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/201_Carrion-Cutter Seraph.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/201_Carrion-Cutter Seraph.png"
 			}
 		},
 		{
@@ -665,7 +665,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/199_Bejeweled Dragon.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/199_Bejeweled Dragon.png"
 			}
 		},
 		{
@@ -675,7 +675,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/143_Legate Sparkweaver.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/143_Legate Sparkweaver.png"
 			}
 		},
 		{
@@ -685,7 +685,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/56_Glint-Edge Knight.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/56_Glint-Edge Knight.png"
 			}
 		},
 		{
@@ -695,7 +695,7 @@
 			"type": "Creature — Dryad Warlock",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/163_Coaxer of the Cycle.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/163_Coaxer of the Cycle.png"
 			}
 		},
 		{
@@ -705,7 +705,7 @@
 			"type": "Creature — Spirit Rogue",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/109_Shackled Phantom.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/109_Shackled Phantom.png"
 			}
 		},
 		{
@@ -715,7 +715,7 @@
 			"type": "Creature — Zombie Warlock",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/120_Auctor of the Testament.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/120_Auctor of the Testament.png"
 			}
 		},
 		{
@@ -725,7 +725,7 @@
 			"type": "Creature — Human Cleric Knight",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/1_Arbiter of Purity.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/1_Arbiter of Purity.png"
 			}
 		},
 		{
@@ -735,7 +735,7 @@
 			"type": "Instant",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/153_Thunderous Corruscation.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/153_Thunderous Corruscation.png"
 			}
 		},
 		{
@@ -748,11 +748,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/196_Ward of the Skies_back.png"
+					"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/196_Ward of the Skies_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/196_Ward of the Skies_front.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/196_Ward of the Skies_front.png"
 			}
 		},
 		{
@@ -762,7 +762,7 @@
 			"type": "Creature — Azra Knight",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/74_Surgeblade Duelist.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/74_Surgeblade Duelist.png"
 			}
 		},
 		{
@@ -772,7 +772,7 @@
 			"type": "Creature — Human Warlock",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/89_Exalted Persecutor.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/89_Exalted Persecutor.png"
 			}
 		},
 		{
@@ -785,11 +785,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/10_Dawn's Herald_back.png"
+					"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/10_Dawn's Herald_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/10_Dawn's Herald_front.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/10_Dawn's Herald_front.png"
 			}
 		},
 		{
@@ -799,7 +799,7 @@
 			"type": "Sorcery",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/85_Cleave the Soul.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/85_Cleave the Soul.png"
 			}
 		},
 		{
@@ -809,7 +809,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/72_Soulbound Chassis.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/72_Soulbound Chassis.png"
 			}
 		},
 		{
@@ -819,7 +819,7 @@
 			"type": "Creature — Demon",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/152_Smoldering Tormentor.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/152_Smoldering Tormentor.png"
 			}
 		},
 		{
@@ -829,7 +829,7 @@
 			"type": "Enchantment",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/140_Hell's Chorus.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/140_Hell's Chorus.png"
 			}
 		},
 		{
@@ -839,7 +839,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/182_Protean Scion.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/182_Protean Scion.png"
 			}
 		},
 		{
@@ -849,7 +849,7 @@
 			"type": "Artifact Creature — Horse Golem",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/164_Cobbled Equine.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/164_Cobbled Equine.png"
 			}
 		},
 		{
@@ -859,7 +859,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/243_Sol Construct.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/243_Sol Construct.png"
 			}
 		},
 		{
@@ -869,7 +869,7 @@
 			"type": "Creature — Cat Warlock",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/101_Leonin Shadowcaster.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/101_Leonin Shadowcaster.png"
 			}
 		},
 		{
@@ -879,7 +879,7 @@
 			"type": "Creature — Demon",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/124_Blightchoke Exarch.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/124_Blightchoke Exarch.png"
 			}
 		},
 		{
@@ -889,7 +889,7 @@
 			"type": "Creature — Skeleton Serpent",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/57_Grinning Serpent.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/57_Grinning Serpent.png"
 			}
 		},
 		{
@@ -899,7 +899,7 @@
 			"type": "Artifact Creature — Angel",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/61_Marble Arbiter.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/61_Marble Arbiter.png"
 			}
 		},
 		{
@@ -909,7 +909,7 @@
 			"type": "Creature — Avatar Artificer",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/66_Overmorrow's Architect.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/66_Overmorrow's Architect.png"
 			}
 		},
 		{
@@ -919,7 +919,7 @@
 			"type": "Artifact Creature — Construct Artificer",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/218_Sentient Artificer.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/218_Sentient Artificer.png"
 			}
 		},
 		{
@@ -929,7 +929,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/213_Lux Potentate.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/213_Lux Potentate.png"
 			}
 		},
 		{
@@ -939,7 +939,7 @@
 			"type": "Artifact",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/207_Endless Tome.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/207_Endless Tome.png"
 			}
 		},
 		{
@@ -949,7 +949,7 @@
 			"type": "Instant",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/76_Twisting Steel.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/76_Twisting Steel.png"
 			}
 		},
 		{
@@ -959,7 +959,7 @@
 			"type": "Creature — Zombie Cleric",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/227_Viscera Cultist.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/227_Viscera Cultist.png"
 			}
 		},
 		{
@@ -969,7 +969,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/225_Twinferno Summoner.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/225_Twinferno Summoner.png"
 			}
 		},
 		{
@@ -979,7 +979,7 @@
 			"type": "Sorcery",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/220_Sylvua's Reckoning.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/220_Sylvua's Reckoning.png"
 			}
 		},
 		{
@@ -989,7 +989,7 @@
 			"type": "Creature — Satyr",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/231_Wyldwood Guardian.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/231_Wyldwood Guardian.png"
 			}
 		},
 		{
@@ -999,7 +999,7 @@
 			"type": "Creature — Zombie Warlock",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/200_Blighted Theologist.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/200_Blighted Theologist.png"
 			}
 		},
 		{
@@ -1009,7 +1009,7 @@
 			"type": "Creature — Zombie",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/215_Muck Fiends.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/215_Muck Fiends.png"
 			}
 		},
 		{
@@ -1019,7 +1019,7 @@
 			"type": "Sorcery",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/202_Choir of Doubt.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/202_Choir of Doubt.png"
 			}
 		},
 		{
@@ -1029,7 +1029,7 @@
 			"type": "Sorcery",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/229_Weave Infinity.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/229_Weave Infinity.png"
 			}
 		},
 		{
@@ -1039,7 +1039,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/217_Rusted Colossus.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/217_Rusted Colossus.png"
 			}
 		},
 		{
@@ -1049,7 +1049,7 @@
 			"type": "Sorcery",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/230_Wrathful Judgment.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/230_Wrathful Judgment.png"
 			}
 		},
 		{
@@ -1059,7 +1059,7 @@
 			"type": "Creature — Zombie Giant",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/224_Tiller of the Damned.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/224_Tiller of the Damned.png"
 			}
 		},
 		{
@@ -1069,7 +1069,7 @@
 			"type": "Creature — Mole Horror",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/209_Ephiridian Tunneler.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/209_Ephiridian Tunneler.png"
 			}
 		},
 		{
@@ -1079,7 +1079,7 @@
 			"type": "Artifact Creature — Angel",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/17_Heaventouched Sentinel.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/17_Heaventouched Sentinel.png"
 			}
 		},
 		{
@@ -1089,7 +1089,7 @@
 			"type": "Artifact Creature — Construct Knight",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/92_Forlorn Knight.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/92_Forlorn Knight.png"
 			}
 		},
 		{
@@ -1099,7 +1099,7 @@
 			"type": "Creature — Spider",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/166_Everwatching Widow.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/166_Everwatching Widow.png"
 			}
 		},
 		{
@@ -1109,7 +1109,7 @@
 			"type": "Enchantment",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/181_Phytolich's Research.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/181_Phytolich's Research.png"
 			}
 		},
 		{
@@ -1119,7 +1119,7 @@
 			"type": "Sorcery",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/87_Drown in Fear.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/87_Drown in Fear.png"
 			}
 		},
 		{
@@ -1129,7 +1129,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/49_Elbrine Thundercaller.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/49_Elbrine Thundercaller.png"
 			}
 		},
 		{
@@ -1139,7 +1139,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/135_Enclave Piercer.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/135_Enclave Piercer.png"
 			}
 		},
 		{
@@ -1149,7 +1149,7 @@
 			"type": "Creature — Plant Skeleton Horror",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/168_Feverbite Winder.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/168_Feverbite Winder.png"
 			}
 		},
 		{
@@ -1159,7 +1159,7 @@
 			"type": "Creature — Avatar",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/169_Heart of the Wyldwood.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/169_Heart of the Wyldwood.png"
 			}
 		},
 		{
@@ -1169,7 +1169,7 @@
 			"type": "Creature — Mutant Beast",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/176_Misshapen Buck.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/176_Misshapen Buck.png"
 			}
 		},
 		{
@@ -1179,7 +1179,7 @@
 			"type": "Creature — Dryad",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/193_Sylvua's Dryad.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/193_Sylvua's Dryad.png"
 			}
 		},
 		{
@@ -1189,7 +1189,7 @@
 			"type": "Instant",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/68_Ritual of Negation.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/68_Ritual of Negation.png"
 			}
 		},
 		{
@@ -1199,7 +1199,7 @@
 			"type": "Creature — Leviathan",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/67_Plated Leviathan.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/67_Plated Leviathan.png"
 			}
 		},
 		{
@@ -1209,7 +1209,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/233_Eldest Archengine.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/233_Eldest Archengine.png"
 			}
 		},
 		{
@@ -1219,7 +1219,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/158_Ambling Ruins.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/158_Ambling Ruins.png"
 			}
 		},
 		{
@@ -1229,7 +1229,7 @@
 			"type": "Instant",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/133_Devour Tender Flesh.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/133_Devour Tender Flesh.png"
 			}
 		},
 		{
@@ -1239,7 +1239,7 @@
 			"type": "Artifact Creature — Horror",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/95_Grotesque Abomination.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/95_Grotesque Abomination.png"
 			}
 		},
 		{
@@ -1249,7 +1249,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/21_Lightborn Apostle.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/21_Lightborn Apostle.png"
 			}
 		},
 		{
@@ -1259,7 +1259,7 @@
 			"type": "Artifact",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/240_Prism of Portents.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/240_Prism of Portents.png"
 			}
 		},
 		{
@@ -1269,7 +1269,7 @@
 			"type": "Artifact Creature — Scorpion",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/148_Rock Scorpion.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/148_Rock Scorpion.png"
 			}
 		},
 		{
@@ -1279,7 +1279,7 @@
 			"type": "Enchantment",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/30_Sentence to the Gaol.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/30_Sentence to the Gaol.png"
 			}
 		},
 		{
@@ -1289,7 +1289,7 @@
 			"type": "Instant",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/210_Field Testing.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/210_Field Testing.png"
 			}
 		},
 		{
@@ -1299,7 +1299,7 @@
 			"type": "Creature — Azra Warlock",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/125_Blood-Cursed Diabolist.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/125_Blood-Cursed Diabolist.png"
 			}
 		},
 		{
@@ -1309,7 +1309,7 @@
 			"type": "Creature — Azra Warlock",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/157_Whisperer of Pale Boons.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/157_Whisperer of Pale Boons.png"
 			}
 		},
 		{
@@ -1319,7 +1319,7 @@
 			"type": "Legendary Creature — Azra Vampire",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/226_Valentina, Dread Impaler.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/226_Valentina, Dread Impaler.png"
 			}
 		},
 		{
@@ -1329,7 +1329,7 @@
 			"type": "Instant",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/212_Joy in Bright Chaos.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/212_Joy in Bright Chaos.png"
 			}
 		},
 		{
@@ -1342,11 +1342,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/159_Bismuth Guardian_back.png"
+					"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/159_Bismuth Guardian_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/159_Bismuth Guardian_front.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/159_Bismuth Guardian_front.png"
 			}
 		},
 		{
@@ -1356,7 +1356,7 @@
 			"type": "Artifact Creature — Angel",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/235_Finecraft Seraph.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/235_Finecraft Seraph.png"
 			}
 		},
 		{
@@ -1366,7 +1366,7 @@
 			"type": "Sorcery",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/186_Rotten Communion.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/186_Rotten Communion.png"
 			}
 		},
 		{
@@ -1376,7 +1376,7 @@
 			"type": "Artifact Creature — Scout",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/245_Steelskin Pilgrim.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/245_Steelskin Pilgrim.png"
 			}
 		},
 		{
@@ -1386,7 +1386,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/241_Radiant Sunwright.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/241_Radiant Sunwright.png"
 			}
 		},
 		{
@@ -1396,7 +1396,7 @@
 			"type": "Creature — Human Artificer",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/52_Extan Steelshifter.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/52_Extan Steelshifter.png"
 			}
 		},
 		{
@@ -1406,7 +1406,7 @@
 			"type": "Creature — Azra Cleric",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/34_Startouched Wayfarer.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/34_Startouched Wayfarer.png"
 			}
 		},
 		{
@@ -1416,7 +1416,7 @@
 			"type": "Token Creature — Vampire Dragon",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/7_Vampire Dragon.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/7_Vampire Dragon.png"
 			}
 		},
 		{
@@ -1426,7 +1426,7 @@
 			"type": "Artifact Creature — Spider",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/162_Clockwork Arachnid.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/162_Clockwork Arachnid.png"
 			}
 		},
 		{
@@ -1436,7 +1436,7 @@
 			"type": "Creature — Human Warlock",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/103_Lotus Cultivator.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/103_Lotus Cultivator.png"
 			}
 		},
 		{
@@ -1446,7 +1446,7 @@
 			"type": "Sorcery",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/126_Boiling Fury.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/126_Boiling Fury.png"
 			}
 		},
 		{
@@ -1456,7 +1456,7 @@
 			"type": "Instant",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/47_Disdainful Stroke.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/47_Disdainful Stroke.png"
 			}
 		},
 		{
@@ -1466,7 +1466,7 @@
 			"type": "Land",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/249_Bismuth Skycity.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/249_Bismuth Skycity.png"
 			}
 		},
 		{
@@ -1476,7 +1476,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/100_Knight of the Thorn.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/100_Knight of the Thorn.png"
 			}
 		},
 		{
@@ -1486,7 +1486,7 @@
 			"type": "Instant",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/84_Choking Grief.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/84_Choking Grief.png"
 			}
 		},
 		{
@@ -1496,7 +1496,7 @@
 			"type": "Sorcery",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/51_Extan Runeweaving.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/51_Extan Runeweaving.png"
 			}
 		},
 		{
@@ -1506,7 +1506,7 @@
 			"type": "Instant",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/106_Pull of Heaven.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/106_Pull of Heaven.png"
 			}
 		},
 		{
@@ -1516,7 +1516,7 @@
 			"type": "Instant",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/102_Lifeblood Imitation.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/102_Lifeblood Imitation.png"
 			}
 		},
 		{
@@ -1526,7 +1526,7 @@
 			"type": "Instant",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/116_Unnatural Hunger.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/116_Unnatural Hunger.png"
 			}
 		},
 		{
@@ -1536,7 +1536,7 @@
 			"type": "Artifact Creature — Demon",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/112_Spindlewail.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/112_Spindlewail.png"
 			}
 		},
 		{
@@ -1546,7 +1546,7 @@
 			"type": "Creature — Bat Demon",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/82_Belltower Haunt.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/82_Belltower Haunt.png"
 			}
 		},
 		{
@@ -1556,7 +1556,7 @@
 			"type": "Creature — Zombie Cleric Knight",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/113_Stitched Pontiff.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/113_Stitched Pontiff.png"
 			}
 		},
 		{
@@ -1566,7 +1566,7 @@
 			"type": "Sorcery",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/187_See Worlds Beyond.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/187_See Worlds Beyond.png"
 			}
 		},
 		{
@@ -1576,7 +1576,7 @@
 			"type": "Sorcery",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/192_Swelling Growth.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/192_Swelling Growth.png"
 			}
 		},
 		{
@@ -1586,7 +1586,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/161_Cloak of Miasma.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/161_Cloak of Miasma.png"
 			}
 		},
 		{
@@ -1596,7 +1596,7 @@
 			"type": "Sorcery",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/173_Life and Death.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/173_Life and Death.png"
 			}
 		},
 		{
@@ -1606,7 +1606,7 @@
 			"type": "Creature — Plant Skeleton",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/195_Virulent Husk.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/195_Virulent Husk.png"
 			}
 		},
 		{
@@ -1616,7 +1616,7 @@
 			"type": "Artifact Creature — Knight",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/189_Sprouting Sentinel.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/189_Sprouting Sentinel.png"
 			}
 		},
 		{
@@ -1626,7 +1626,7 @@
 			"type": "Creature — Zombie Warlock",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/177_Nascent Lich.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/177_Nascent Lich.png"
 			}
 		},
 		{
@@ -1636,7 +1636,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/191_Stump Brute.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/191_Stump Brute.png"
 			}
 		},
 		{
@@ -1646,7 +1646,7 @@
 			"type": "Artifact Creature — Knight",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/71_Silver Suitor.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/71_Silver Suitor.png"
 			}
 		},
 		{
@@ -1656,7 +1656,7 @@
 			"type": "Creature — Horror",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/38_Unleashed Guardian.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/38_Unleashed Guardian.png"
 			}
 		},
 		{
@@ -1666,7 +1666,7 @@
 			"type": "Sorcery",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/6_By Heaven's Decree.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/6_By Heaven's Decree.png"
 			}
 		},
 		{
@@ -1676,7 +1676,7 @@
 			"type": "Instant",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/12_Devotion Rewarded.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/12_Devotion Rewarded.png"
 			}
 		},
 		{
@@ -1686,7 +1686,7 @@
 			"type": "Instant",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/4_Banishing Thrust.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/4_Banishing Thrust.png"
 			}
 		},
 		{
@@ -1696,7 +1696,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/18_Herald of the Clarion.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/18_Herald of the Clarion.png"
 			}
 		},
 		{
@@ -1706,7 +1706,7 @@
 			"type": "Creature — Pegasus",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/23_Noble Steed.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/23_Noble Steed.png"
 			}
 		},
 		{
@@ -1716,7 +1716,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/8_Champion of Relos.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/8_Champion of Relos.png"
 			}
 		},
 		{
@@ -1726,7 +1726,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/25_Paladin of Sacred Testament.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/25_Paladin of Sacred Testament.png"
 			}
 		},
 		{
@@ -1736,7 +1736,7 @@
 			"type": "Artifact Creature — Knight",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/36_Steelwrought Sunblade.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/36_Steelwrought Sunblade.png"
 			}
 		},
 		{
@@ -1746,7 +1746,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/26_Prophet of Rheydia.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/26_Prophet of Rheydia.png"
 			}
 		},
 		{
@@ -1756,7 +1756,7 @@
 			"type": "Instant",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/43_Blessed Feathers.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/43_Blessed Feathers.png"
 			}
 		},
 		{
@@ -1766,7 +1766,7 @@
 			"type": "Sorcery",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/54_Gaze Inward.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/54_Gaze Inward.png"
 			}
 		},
 		{
@@ -1776,7 +1776,7 @@
 			"type": "Instant",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/79_Weigh the Soul.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/79_Weigh the Soul.png"
 			}
 		},
 		{
@@ -1786,7 +1786,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/41_Among the Lily Pads.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/41_Among the Lily Pads.png"
 			}
 		},
 		{
@@ -1796,7 +1796,7 @@
 			"type": "Sorcery",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/45_Call Beyond.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/45_Call Beyond.png"
 			}
 		},
 		{
@@ -1806,7 +1806,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/70_Seraph of Storms.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/70_Seraph of Storms.png"
 			}
 		},
 		{
@@ -1816,7 +1816,7 @@
 			"type": "Artifact Creature — Knight",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/60_Josiah's Bulwark.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/60_Josiah's Bulwark.png"
 			}
 		},
 		{
@@ -1826,7 +1826,7 @@
 			"type": "Token Artifact Creature — Soldier",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/12_Soldier.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/12_Soldier.png"
 			}
 		},
 		{
@@ -1836,7 +1836,7 @@
 			"type": "Sorcery",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/154_To Stone and Ash.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/154_To Stone and Ash.png"
 			}
 		},
 		{
@@ -1846,7 +1846,7 @@
 			"type": "Instant",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/130_Cleave the Blood of Gods.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/130_Cleave the Blood of Gods.png"
 			}
 		},
 		{
@@ -1856,7 +1856,7 @@
 			"type": "Creature — Azra Warlock",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/131_Cruel Heartstealer.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/131_Cruel Heartstealer.png"
 			}
 		},
 		{
@@ -1866,7 +1866,7 @@
 			"type": "Instant",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/123_Biting Pain.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/123_Biting Pain.png"
 			}
 		},
 		{
@@ -1876,7 +1876,7 @@
 			"type": "Creature — Demon",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/145_Molten Bloodhunter.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/145_Molten Bloodhunter.png"
 			}
 		},
 		{
@@ -1886,7 +1886,7 @@
 			"type": "Creature — Human Warlock",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/151_Skull Summoner.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/151_Skull Summoner.png"
 			}
 		},
 		{
@@ -1896,7 +1896,7 @@
 			"type": "Token Creature — Knight",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/2_Knight.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/2_Knight.png"
 			}
 		},
 		{
@@ -1906,7 +1906,7 @@
 			"type": "Token Artifact Creature — Golem",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/10_Golem.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/10_Golem.png"
 			}
 		},
 		{
@@ -1916,7 +1916,7 @@
 			"type": "Artifact Creature — Knight",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/137_Extan Knight-Errant.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/137_Extan Knight-Errant.png"
 			}
 		},
 		{
@@ -1926,7 +1926,7 @@
 			"type": "Creature — Avatar",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/156_Voidhungry Avatar.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/156_Voidhungry Avatar.png"
 			}
 		},
 		{
@@ -1936,7 +1936,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/244_Sol Herald.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/244_Sol Herald.png"
 			}
 		},
 		{
@@ -1946,7 +1946,7 @@
 			"type": "Land",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/252_Evolving Wilds.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/252_Evolving Wilds.png"
 			}
 		},
 		{
@@ -1956,7 +1956,7 @@
 			"type": "Instant",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/128_Burning Eyebeam.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/128_Burning Eyebeam.png"
 			}
 		},
 		{
@@ -1966,7 +1966,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/15_Glorious Protoseraph.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/15_Glorious Protoseraph.png"
 			}
 		},
 		{
@@ -1976,7 +1976,7 @@
 			"type": "Enchantment",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/175_March Against Fate.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/175_March Against Fate.png"
 			}
 		},
 		{
@@ -1986,7 +1986,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/42_Bismuth Archdeacon.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/42_Bismuth Archdeacon.png"
 			}
 		},
 		{
@@ -1996,7 +1996,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/5_Bismuth Cube.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/5_Bismuth Cube.png"
 			}
 		},
 		{
@@ -2006,7 +2006,7 @@
 			"type": "Artifact Creature — Dragon",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/121_Augmented Dragon.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/121_Augmented Dragon.png"
 			}
 		},
 		{
@@ -2016,7 +2016,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/65_Oracle of the Extan.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/65_Oracle of the Extan.png"
 			}
 		},
 		{
@@ -2026,7 +2026,7 @@
 			"type": "Artifact Creature — Horror",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/93_Forsaken Chalkmason.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/93_Forsaken Chalkmason.png"
 			}
 		},
 		{
@@ -2036,7 +2036,7 @@
 			"type": "Legendary Artifact Creature — Angel",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/50_Eluriel, Final Evolution.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/50_Eluriel, Final Evolution.png"
 			}
 		},
 		{
@@ -2046,7 +2046,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/24_Page of Gold.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/24_Page of Gold.png"
 			}
 		},
 		{
@@ -2056,7 +2056,7 @@
 			"type": "Artifact",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/248_Veintwinned Harp.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/248_Veintwinned Harp.png"
 			}
 		},
 		{
@@ -2066,7 +2066,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/14_Encased in Gold.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/14_Encased in Gold.png"
 			}
 		},
 		{
@@ -2076,7 +2076,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/96_Icon of the Blessed Horde.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/96_Icon of the Blessed Horde.png"
 			}
 		},
 		{
@@ -2086,7 +2086,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/3_Aureate Partizan.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/3_Aureate Partizan.png"
 			}
 		},
 		{
@@ -2096,7 +2096,7 @@
 			"type": "Creature — Cat",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/37_Suncrowned Lion.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/37_Suncrowned Lion.png"
 			}
 		},
 		{
@@ -2106,7 +2106,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/39_Wyldwood Sanctifier.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/39_Wyldwood Sanctifier.png"
 			}
 		},
 		{
@@ -2116,7 +2116,7 @@
 			"type": "Instant",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/7_Celestial Mandate.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/7_Celestial Mandate.png"
 			}
 		},
 		{
@@ -2126,7 +2126,7 @@
 			"type": "Creature — Zombie Warlock",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/2_Ashen Lichlord.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/2_Ashen Lichlord.png"
 			}
 		},
 		{
@@ -2136,7 +2136,7 @@
 			"type": "Artifact Creature — Knight",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/31_Soulchained Remnant.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/31_Soulchained Remnant.png"
 			}
 		},
 		{
@@ -2146,7 +2146,7 @@
 			"type": "Sorcery",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/27_Sacred Sacrament.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/27_Sacred Sacrament.png"
 			}
 		},
 		{
@@ -2156,7 +2156,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/28_Scion of Blossoms.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/28_Scion of Blossoms.png"
 			}
 		},
 		{
@@ -2166,7 +2166,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/22_Living Littany.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/22_Living Littany.png"
 			}
 		},
 		{
@@ -2176,7 +2176,7 @@
 			"type": "Instant",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/69_Runic Lockdown.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/69_Runic Lockdown.png"
 			}
 		},
 		{
@@ -2186,7 +2186,7 @@
 			"type": "Instant",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/48_Dracolich's Mastery.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/48_Dracolich's Mastery.png"
 			}
 		},
 		{
@@ -2196,7 +2196,7 @@
 			"type": "Creature — Archon",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/62_Messengers of the Void.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/62_Messengers of the Void.png"
 			}
 		},
 		{
@@ -2206,7 +2206,7 @@
 			"type": "Enchantment",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/136_Engines of Hell.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/136_Engines of Hell.png"
 			}
 		},
 		{
@@ -2216,7 +2216,7 @@
 			"type": "Sorcery",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/122_Birth from Blood.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/122_Birth from Blood.png"
 			}
 		},
 		{
@@ -2226,7 +2226,7 @@
 			"type": "Creature — Horror Knight",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/144_Mad Tormentor.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/144_Mad Tormentor.png"
 			}
 		},
 		{
@@ -2236,7 +2236,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/73_Starsent Speaker.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/73_Starsent Speaker.png"
 			}
 		},
 		{
@@ -2246,7 +2246,7 @@
 			"type": "Artifact Creature — Avatar",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/55_Generated Voidling.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/55_Generated Voidling.png"
 			}
 		},
 		{
@@ -2256,7 +2256,7 @@
 			"type": "Creature — Avatar Wizard",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/53_Fell Demiurge.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/53_Fell Demiurge.png"
 			}
 		},
 		{
@@ -2266,7 +2266,7 @@
 			"type": "Artifact Creature — Demon",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/86_Confounding Cambion.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/86_Confounding Cambion.png"
 			}
 		},
 		{
@@ -2276,7 +2276,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/194_Sylvua's Wyldbeast.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/194_Sylvua's Wyldbeast.png"
 			}
 		},
 		{
@@ -2286,7 +2286,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/77_Undeath's Domination.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/77_Undeath's Domination.png"
 			}
 		},
 		{
@@ -2296,7 +2296,7 @@
 			"type": "Creature — Plant",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/174_Lotus Tender.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/174_Lotus Tender.png"
 			}
 		},
 		{
@@ -2306,7 +2306,7 @@
 			"type": "Sorcery",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/58_Influence the Scales.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/58_Influence the Scales.png"
 			}
 		},
 		{
@@ -2316,7 +2316,7 @@
 			"type": "Artifact Creature — Horror Knight",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/115_Thorn Dragoon.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/115_Thorn Dragoon.png"
 			}
 		},
 		{
@@ -2326,7 +2326,7 @@
 			"type": "Sorcery",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/64_One Man Army.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/64_One Man Army.png"
 			}
 		},
 		{
@@ -2336,7 +2336,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/78_Voidbound Lightstealer.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/78_Voidbound Lightstealer.png"
 			}
 		},
 		{
@@ -2346,7 +2346,7 @@
 			"type": "Sorcery",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/46_Day of Calamity.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/46_Day of Calamity.png"
 			}
 		},
 		{
@@ -2356,7 +2356,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/83_Blighted Binding.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/83_Blighted Binding.png"
 			}
 		},
 		{
@@ -2366,7 +2366,7 @@
 			"type": "Enchantment",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/178_Natural Artifice.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/178_Natural Artifice.png"
 			}
 		},
 		{
@@ -2376,7 +2376,7 @@
 			"type": "Instant",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/97_Jailer's Ire.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/97_Jailer's Ire.png"
 			}
 		},
 		{
@@ -2386,7 +2386,7 @@
 			"type": "Sorcery",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/105_Osteogenesis.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/105_Osteogenesis.png"
 			}
 		},
 		{
@@ -2396,7 +2396,7 @@
 			"type": "Sorcery",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/91_Feed On the Crimson Sun.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/91_Feed On the Crimson Sun.png"
 			}
 		},
 		{
@@ -2406,7 +2406,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/160_Bog Ghoul.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/160_Bog Ghoul.png"
 			}
 		},
 		{
@@ -2416,7 +2416,7 @@
 			"type": "Creature — Azra Druid",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/172_Lady of the Lilies.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/172_Lady of the Lilies.png"
 			}
 		},
 		{
@@ -2426,7 +2426,7 @@
 			"type": "Artifact Creature — Spirit Golem",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/165_Ensouled Stones.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/165_Ensouled Stones.png"
 			}
 		},
 		{
@@ -2436,7 +2436,7 @@
 			"type": "Legendary Artifact Creature — Dragon",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/155_Verox, the Forgelord.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/155_Verox, the Forgelord.png"
 			}
 		},
 		{
@@ -2446,7 +2446,7 @@
 			"type": "Instant",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/147_Portents of Blood.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/147_Portents of Blood.png"
 			}
 		},
 		{
@@ -2456,7 +2456,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/139_Gateway Protector.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/139_Gateway Protector.png"
 			}
 		},
 		{
@@ -2466,7 +2466,7 @@
 			"type": "Sorcery",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/188_Shepherding the Rot.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/188_Shepherding the Rot.png"
 			}
 		},
 		{
@@ -2476,7 +2476,7 @@
 			"type": "Sorcery",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/127_Braintree Divination.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/127_Braintree Divination.png"
 			}
 		},
 		{
@@ -2486,7 +2486,7 @@
 			"type": "Enchantment",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/132_Descent into Chaos.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/132_Descent into Chaos.png"
 			}
 		},
 		{
@@ -2496,7 +2496,7 @@
 			"type": "Creature — Angel Sphinx",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/63_Nexus Serasphinx.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/63_Nexus Serasphinx.png"
 			}
 		},
 		{
@@ -2506,7 +2506,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/141_Implement of Thuraxes.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/141_Implement of Thuraxes.png"
 			}
 		},
 		{
@@ -2516,7 +2516,7 @@
 			"type": "Creature — Zombie Noble",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/134_Doom Monarch.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/134_Doom Monarch.png"
 			}
 		},
 		{
@@ -2526,7 +2526,7 @@
 			"type": "Enchantment",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/149_Scarlet Liturgy.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/149_Scarlet Liturgy.png"
 			}
 		},
 		{
@@ -2536,7 +2536,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/33_Starsent Angel.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/33_Starsent Angel.png"
 			}
 		},
 		{
@@ -2546,7 +2546,7 @@
 			"type": "Enchantment",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/203_Clamber to the Light.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/203_Clamber to the Light.png"
 			}
 		},
 		{
@@ -2556,7 +2556,7 @@
 			"type": "Enchantment",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/208_Endure Hell.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/208_Endure Hell.png"
 			}
 		},
 		{
@@ -2566,7 +2566,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/204_Dimension Dancer.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/204_Dimension Dancer.png"
 			}
 		},
 		{
@@ -2576,7 +2576,7 @@
 			"type": "Artifact",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/236_Gilded Maiden.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/236_Gilded Maiden.png"
 			}
 		},
 		{
@@ -2586,7 +2586,7 @@
 			"type": "Artifact Creature — Knight",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/247_Sword of Josiah.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/247_Sword of Josiah.png"
 			}
 		},
 		{
@@ -2596,7 +2596,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/242_Shepherd of Shadows.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/242_Shepherd of Shadows.png"
 			}
 		},
 		{
@@ -2606,7 +2606,7 @@
 			"type": "Land",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/257_Teluran Gardens.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/257_Teluran Gardens.png"
 			}
 		},
 		{
@@ -2616,7 +2616,7 @@
 			"type": "Land",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/254_Resurgent Ruins.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/254_Resurgent Ruins.png"
 			}
 		},
 		{
@@ -2626,7 +2626,7 @@
 			"type": "Land",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/250_Charged Confluence.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/250_Charged Confluence.png"
 			}
 		},
 		{
@@ -2636,7 +2636,7 @@
 			"type": "Land",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/256_Shattered Spires.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/256_Shattered Spires.png"
 			}
 		},
 		{
@@ -2646,7 +2646,7 @@
 			"type": "Land",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/253_Hollow Church.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/253_Hollow Church.png"
 			}
 		},
 		{
@@ -2656,7 +2656,7 @@
 			"type": "Land",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/251_Desecrated Monument.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/251_Desecrated Monument.png"
 			}
 		},
 		{
@@ -2666,7 +2666,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/262_Forest.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/262_Forest.png"
 			}
 		},
 		{
@@ -2676,7 +2676,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/259_Island.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/259_Island.png"
 			}
 		},
 		{
@@ -2686,7 +2686,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/261_Mountain.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/261_Mountain.png"
 			}
 		},
 		{
@@ -2696,7 +2696,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/258_Plains.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/258_Plains.png"
 			}
 		},
 		{
@@ -2706,7 +2706,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/260_Swamp.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/260_Swamp.png"
 			}
 		},
 		{
@@ -2716,7 +2716,7 @@
 			"type": "Land",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/255_Shattered Peak.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/255_Shattered Peak.png"
 			}
 		},
 		{
@@ -2726,7 +2726,7 @@
 			"type": "Token Creature — Zombie",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/3_Zombie.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/3_Zombie.png"
 			}
 		},
 		{
@@ -2736,7 +2736,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/13_Treasure.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/13_Treasure.png"
 			}
 		},
 		{
@@ -2746,7 +2746,7 @@
 			"type": "Token Artifact",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/8_Black Lotus.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/8_Black Lotus.png"
 			}
 		},
 		{
@@ -2756,7 +2756,7 @@
 			"type": "Token Creature — Dragon",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/4_Dragon.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/4_Dragon.png"
 			}
 		},
 		{
@@ -2766,7 +2766,7 @@
 			"type": "Token Creature — Warrior",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/5_Warrior.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/5_Warrior.png"
 			}
 		},
 		{
@@ -2776,7 +2776,7 @@
 			"type": "Token Artifact Land — Wastes",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/11_Iron Wastes.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/11_Iron Wastes.png"
 			}
 		},
 		{
@@ -2786,7 +2786,7 @@
 			"type": "Token Creature — Angel",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/1_Angel.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/1_Angel.png"
 			}
 		},
 		{
@@ -2796,7 +2796,7 @@
 			"type": "Token Creature — Angel Demon",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/6_Angel Demon.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/6_Angel Demon.png"
 			}
 		},
 		{
@@ -2806,7 +2806,7 @@
 			"type": "Creature — Zombie Noble",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.hithub.io/sets/SOL-files/img/0_Doom Monarch.png"
+				"en": "https://ProvocativeMTG.github.io/sets/SOL-files/img/0_Doom Monarch.png"
 			}
 		}
 	]

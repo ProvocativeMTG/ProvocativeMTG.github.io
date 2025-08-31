@@ -82,7 +82,7 @@
             "number": 195,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
-            "rules_text": "This creature enters with three +1/+1 counters on it.\nWhenever another creature you control enters or attacks, you may move a counter from this creature to that creature.",
+            "rules_text": "This creature enters with three +1/+1 counters on it.\nWhenever you cast your second spell each turn, you may remove a +1/+1 counter from this creature. If you do, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -215,7 +215,7 @@
             "number": 126,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Trample\nWhenever this creature deals combat damage to a player, create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "Trample\nWhenever this creature deals combat damage to a player, create a Treasure token.\nWhenever you cast your second spell each turn, put a +1/+1 counter on this creature.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -1082,7 +1082,7 @@
             "number": 178,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "This creature enters with two +1/+1 counters on it.\nWhen this creature dies, create a 0/0 green Tentacle creature token, then put this creature's counters on that token.",
+            "rules_text": "This creature enters with two +1/+1 counters on it.\nWhenever you cast your second spell each turn, put a +1/+1 counter on this creature.\nWhen this creature dies, create a 0/0 green Tentacle creature token, then put this creature's counters on that token.",
             "flavor_text": "[i][/i]",
             "pt": "0/0",
             "special_text": "",
@@ -1617,7 +1617,7 @@
             "number": 134,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Haste\nWhenever you cast your second spell each turn, put a +1/+1 counter on this creature.",
+            "rules_text": "Haste\nWhenever you cast your second spell each turn, put a +1/+1 counter on this creature. Then you may sacrifice it. If you do, it deals damage equal to its power to any target.",
             "flavor_text": "[i]Planets without the capacity for life are subject to aggressive strip mining operations under the Intergalactic Security Force.[/i]",
             "pt": "2/1",
             "special_text": "",
@@ -4233,7 +4233,7 @@
             "notes": ""
         },
         {
-            "card_name": "Warp-Ring Terror",
+            "card_name": "Warp-Ring Tyrant",
             "color": "",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Dragon",
@@ -5404,10 +5404,10 @@
             "type": "Artifact Creature \u2014 Viridar Cyborg",
             "number": 35,
             "color_identity": "W",
-            "cost": "{1}{W}{W}",
-            "rules_text": "Vigilance\nOnce during each of your turns, whenever you cast an artifact spell, you may pay {2}. If you do, create a 0/0 colorless Avatar artifact creature token with \u201cThis token gets +1/+1 for each artifact you control.\u201d",
+            "cost": "{W}",
+            "rules_text": "Exhaust \u2014 {1}{W}: Create a 0/0 colorless Avatar artifact creature token with \u201cThis creature gets +1/+1 for each artifact you control. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "2/2",
+            "pt": "2/1",
             "special_text": "",
             "shape": "normal",
             "set": "VYI",
@@ -6001,5 +6001,5 @@
             "notes": ""
         }
     ],
-    "version": 8
+    "version": 9
 }

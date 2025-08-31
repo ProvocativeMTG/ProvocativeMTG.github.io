@@ -2247,13 +2247,13 @@
 			}
 		},
 		{
-			"name": "Warp-Ring Terror",
+			"name": "Warp-Ring Tyrant",
 			"rarity": "common",
 			"mana_cost": "{6}",
 			"type": "Artifact Creature — Dragon",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/281_Warp-Ring Terror.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/281_Warp-Ring Tyrant.png"
 			}
 		},
 		{
@@ -2867,7 +2867,7 @@
 		{
 			"name": "Steelframe Viridar",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{W}",
+			"mana_cost": "{W}",
 			"type": "Artifact Creature — Viridar Cyborg",
 			"collector_number": "35",
 			"image_uris": {
@@ -3462,7 +3462,7 @@
 	8 Mutated Ragebeast
 	8 Viridar Battalion
 	8 Aridian Wanderer
-	8 Warp-Ring Terror
+	8 Warp-Ring Tyrant
 	8 Terror of Skolha Peak
 	8 Recorder of Auroras
 	8 Mystifying Denial
@@ -3678,7 +3678,7 @@
 	12 Mutated Ragebeast
 	12 Viridar Battalion
 	12 Aridian Wanderer
-	12 Warp-Ring Terror
+	12 Warp-Ring Tyrant
 	12 Terror of Skolha Peak
 	6 Rimescale Wurm
 	12 Recorder of Auroras
@@ -3966,7 +3966,7 @@
 	6 Mutated Ragebeast
 	6 Viridar Battalion
 	6 Aridian Wanderer
-	6 Warp-Ring Terror
+	6 Warp-Ring Tyrant
 	6 Terror of Skolha Peak
 	15 Rimescale Wurm
 	6 Recorder of Auroras

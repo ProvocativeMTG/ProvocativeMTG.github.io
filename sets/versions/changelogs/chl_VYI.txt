@@ -1,4 +1,40 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Warp-Ring Tyrant added.
+
+Warp-Ring Terror removed.
+
+Stalwart Spear
+rules_text: This creature enters with three +1/+1 counters on it.
+Whenever another creature you control enters or attacks, you may move a counter from this creature to that creature. => This creature enters with three +1/+1 counters on it.
+Whenever you cast your second spell each turn, you may remove a +1/+1 counter from this creature. If you do, draw a card.
+
+Aeon's Forerunner
+rules_text: Trample
+Whenever this creature deals combat damage to a player, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Trample
+Whenever this creature deals combat damage to a player, create a Treasure token.
+Whenever you cast your second spell each turn, put a +1/+1 counter on this creature.
+
+Doomed Pilot
+rules_text: This creature enters with two +1/+1 counters on it.
+When this creature dies, create a 0/0 green Tentacle creature token, then put this creature's counters on that token. => This creature enters with two +1/+1 counters on it.
+Whenever you cast your second spell each turn, put a +1/+1 counter on this creature.
+When this creature dies, create a 0/0 green Tentacle creature token, then put this creature's counters on that token.
+
+Excavator Spider
+rules_text: Haste
+Whenever you cast your second spell each turn, put a +1/+1 counter on this creature. => Haste
+Whenever you cast your second spell each turn, put a +1/+1 counter on this creature. Then you may sacrifice it. If you do, it deals damage equal to its power to any target.
+
+Steelframe Viridar
+cost: {1}{W}{W} => {W}
+rules_text: Vigilance
+Once during each of your turns, whenever you cast an artifact spell, you may pay {2}. If you do, create a 0/0 colorless Avatar artifact creature token with “This token gets +1/+1 for each artifact you control.” => Exhaust — {1}{W}: Create a 0/0 colorless Avatar artifact creature token with “This creature gets +1/+1 for each artifact you control. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i]
+pt: 2/2 => 2/1
+
+
+VERSION 8 CHANGELOG
 ====================
 
 No changes.

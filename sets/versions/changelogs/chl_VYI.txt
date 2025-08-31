@@ -1,4 +1,26 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Spiralgrowth Clouds added.
+Fulgurite Peaks added.
+Burning Hyperlane added.
+Asteroid Field added.
+Coral Lowlands added.
+Intergalactic Hub added.
+Reflected Canyon added.
+Fungal Fumarole added.
+Inverted Gulch added.
+Peat Bluffs added.
+
+Harnessed Suncage removed.
+Calamitous Battlecruiser removed.
+
+Falling Star's Wake
+type: Sorcery => Instant
+cost: {R} => {1}{R}
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Alien Contact added.

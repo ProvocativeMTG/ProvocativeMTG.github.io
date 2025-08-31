@@ -1623,25 +1623,25 @@
     },
     {
         "card_name": "Icareum, Perfected Mind",
-        "number": 268,
+        "number": 266,
         "shape": "normal",
         "set": "VYI"
     },
     {
         "card_name": "The Infinity Bridge",
-        "number": 270,
+        "number": 268,
         "shape": "normal",
         "set": "VYI"
     },
     {
         "card_name": "Lightless, Star of Oblivion",
-        "number": 272,
+        "number": 270,
         "shape": "leveler",
         "set": "VYI"
     },
     {
         "card_name": "Valkyrja, the Final Voyage",
-        "number": 279,
+        "number": 277,
         "shape": "leveler",
         "set": "VYI"
     },
@@ -1659,126 +1659,105 @@
     },
     {
         "card_name": "Cosmic Heart",
-        "number": 262,
-        "shape": "normal",
-        "set": "VYI"
-    },
-    {
-        "card_name": "Drakkonfell, First Starkarve",
-        "number": 263,
-        "shape": "leveler",
-        "set": "VYI"
-    },
-    {
-        "card_name": "Drakkonic Mekkastruct",
-        "number": 264,
-        "shape": "normal",
-        "set": "VYI"
-    },
-    {
-        "card_name": "Meteor Harvester",
-        "number": 273,
-        "shape": "normal",
-        "set": "VYI"
-    },
-    {
-        "card_name": "Calamitous Battlecruiser",
-        "number": 259,
-        "shape": "leveler",
-        "set": "VYI"
-    },
-    {
-        "card_name": "Colossal Railgun",
-        "number": 260,
-        "shape": "normal",
-        "set": "VYI"
-    },
-    {
-        "card_name": "Eternal Mekkastruct",
-        "number": 265,
-        "shape": "normal",
-        "set": "VYI"
-    },
-    {
-        "card_name": "Harnessed Suncage",
-        "number": 266,
-        "shape": "normal",
-        "set": "VYI"
-    },
-    {
-        "card_name": "Kinetic Gauntlets",
-        "number": 271,
-        "shape": "normal",
-        "set": "VYI"
-    },
-    {
-        "card_name": "Monument of Waning Faith",
-        "number": 274,
-        "shape": "normal",
-        "set": "VYI"
-    },
-    {
-        "card_name": "Outer System Shuttle",
-        "number": 275,
-        "shape": "leveler",
-        "set": "VYI"
-    },
-    {
-        "card_name": "Trajectory Analyzer",
-        "number": 277,
-        "shape": "normal",
-        "set": "VYI"
-    },
-    {
-        "card_name": "Unstoppable Remnant",
-        "number": 278,
-        "shape": "normal",
-        "set": "VYI"
-    },
-    {
-        "card_name": "Core Guardian",
         "number": 261,
         "shape": "normal",
         "set": "VYI"
     },
     {
-        "card_name": "Heavencraft Valkyrie",
-        "number": 267,
-        "shape": "normal",
-        "set": "VYI"
-    },
-    {
-        "card_name": "IGF Supplyship",
-        "number": 269,
+        "card_name": "Drakkonfell, First Starkarve",
+        "number": 262,
         "shape": "leveler",
         "set": "VYI"
     },
     {
-        "card_name": "Prophetic Prism",
+        "card_name": "Drakkonic Mekkastruct",
+        "number": 263,
+        "shape": "normal",
+        "set": "VYI"
+    },
+    {
+        "card_name": "Meteor Harvester",
+        "number": 271,
+        "shape": "normal",
+        "set": "VYI"
+    },
+    {
+        "card_name": "Colossal Railgun",
+        "number": 259,
+        "shape": "normal",
+        "set": "VYI"
+    },
+    {
+        "card_name": "Eternal Mekkastruct",
+        "number": 264,
+        "shape": "normal",
+        "set": "VYI"
+    },
+    {
+        "card_name": "Kinetic Gauntlets",
+        "number": 269,
+        "shape": "normal",
+        "set": "VYI"
+    },
+    {
+        "card_name": "Monument of Waning Faith",
+        "number": 272,
+        "shape": "normal",
+        "set": "VYI"
+    },
+    {
+        "card_name": "Outer System Shuttle",
+        "number": 273,
+        "shape": "leveler",
+        "set": "VYI"
+    },
+    {
+        "card_name": "Trajectory Analyzer",
+        "number": 275,
+        "shape": "normal",
+        "set": "VYI"
+    },
+    {
+        "card_name": "Unstoppable Remnant",
         "number": 276,
         "shape": "normal",
         "set": "VYI"
     },
     {
+        "card_name": "Core Guardian",
+        "number": 260,
+        "shape": "normal",
+        "set": "VYI"
+    },
+    {
+        "card_name": "Heavencraft Valkyrie",
+        "number": 265,
+        "shape": "normal",
+        "set": "VYI"
+    },
+    {
+        "card_name": "IGF Supplyship",
+        "number": 267,
+        "shape": "leveler",
+        "set": "VYI"
+    },
+    {
+        "card_name": "Prophetic Prism",
+        "number": 274,
+        "shape": "normal",
+        "set": "VYI"
+    },
+    {
         "card_name": "Voidsent Stalker",
-        "number": 280,
+        "number": 278,
         "shape": "leveler",
         "set": "VYI"
     },
     {
         "card_name": "Warp-Ring Tyrant",
-        "number": 281,
+        "number": 279,
         "shape": "normal",
         "set": "VYI"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -1804,7 +1783,7 @@
     },
     {
         "card_name": "Myrkdrasil, Cradle of Nihility",
-        "number": 285,
+        "number": 290,
         "shape": "normal",
         "set": "VYI"
     },
@@ -1813,7 +1792,97 @@
     },
     {
         "card_name": "Valdrasil, Whorl of Life",
+        "number": 295,
+        "shape": "normal",
+        "set": "VYI"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Intergalactic Hub",
         "number": 287,
+        "shape": "normal",
+        "set": "VYI"
+    },
+    {
+        "card_name": "Asteroid Field",
+        "number": 280,
+        "shape": "normal",
+        "set": "VYI"
+    },
+    {
+        "card_name": "Fulgurite Peaks",
+        "number": 285,
+        "shape": "normal",
+        "set": "VYI"
+    },
+    {
+        "card_name": "Spiralgrowth Clouds",
+        "number": 294,
+        "shape": "normal",
+        "set": "VYI"
+    },
+    {
+        "card_name": "Peat Bluffs",
+        "number": 291,
+        "shape": "normal",
+        "set": "VYI"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Inverted Gulch",
+        "number": 288,
+        "shape": "normal",
+        "set": "VYI"
+    },
+    {
+        "card_name": "Burning Hyperlane",
+        "number": 281,
+        "shape": "normal",
+        "set": "VYI"
+    },
+    {
+        "card_name": "Fungal Fumarole",
+        "number": 286,
+        "shape": "normal",
+        "set": "VYI"
+    },
+    {
+        "card_name": "Reflected Canyon",
+        "number": 292,
+        "shape": "normal",
+        "set": "VYI"
+    },
+    {
+        "card_name": "Coral Lowlands",
+        "number": 283,
         "shape": "normal",
         "set": "VYI"
     },
@@ -1834,7 +1903,7 @@
     },
     {
         "card_name": "Sojourner's Gateway",
-        "number": 286,
+        "number": 293,
         "shape": "normal",
         "set": "VYI"
     },
@@ -1846,13 +1915,13 @@
     },
     {
         "card_name": "Luscious Planetscape",
-        "number": 284,
+        "number": 289,
         "shape": "normal",
         "set": "VYI"
     },
     {
         "card_name": "Edge of the Universe",
-        "number": 283,
+        "number": 284,
         "shape": "normal",
         "set": "VYI"
     },
@@ -1876,31 +1945,31 @@
     },
     {
         "card_name": "Plains",
-        "number": 288,
+        "number": 296,
         "shape": "normal",
         "set": "VYI"
     },
     {
         "card_name": "Swamp",
-        "number": 290,
+        "number": 298,
         "shape": "normal",
         "set": "VYI"
     },
     {
         "card_name": "Island",
-        "number": 289,
+        "number": 297,
         "shape": "normal",
         "set": "VYI"
     },
     {
         "card_name": "Forest",
-        "number": 292,
+        "number": 300,
         "shape": "normal",
         "set": "VYI"
     },
     {
         "card_name": "Mountain",
-        "number": 291,
+        "number": 299,
         "shape": "normal",
         "set": "VYI"
     },

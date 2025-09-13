@@ -1,4 +1,19 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+Icareum, Perfected Mind added.
+Star Sentinel Xylo added.
+
+
+Mechanized Propagator
+rules_text: This creature can't block.
+You may exile this card from your graveyard rather than your hand when activating its warp ability.
+Orbit 2—{2}{B} [i]({2}{B}, Exile this card from your hand: Put two charge counters on it. Once during each of your turns, you may cast a copy of this card without paying its mana cost by removing a charge counter from it. Orbit only as a sorcery.)[/i] => This creature can't block.
+You may exile this card from your graveyard rather than your hand when activating its orbit ability.
+Orbit 2—{2}{B} [i]({2}{B}, Exile this card from your hand: Put two charge counters on it. Once during each of your turns, you may cast a copy of this card without paying its mana cost by removing a charge counter from it. Orbit only as a sorcery.)[/i]
+
+
+VERSION 11 CHANGELOG
 ====================
 
 Spiralgrowth Clouds added.

@@ -92,9 +92,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "284",
+			"collector_number": "282",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/284_Collapsed Ring.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/282_Collapsed Ring.png"
 			}
 		},
 		{
@@ -162,9 +162,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Robot",
-			"collector_number": "278",
+			"collector_number": "276",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/278_Unstoppable Remnant.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/276_Unstoppable Remnant.png"
 			}
 		},
 		{
@@ -317,9 +317,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "297",
+			"collector_number": "295",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/297_Valdrasil, Whorl of Life.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/295_Valdrasil, Whorl of Life.png"
 			}
 		},
 		{
@@ -357,9 +357,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "295",
+			"collector_number": "293",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/295_Sojourner's Gateway.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/293_Sojourner's Gateway.png"
 			}
 		},
 		{
@@ -514,13 +514,13 @@
 			}
 		},
 		{
-			"name": "Fraying Cluster",
+			"name": "Frayed Cluster",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/101_Fraying Cluster.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/101_Frayed Cluster.png"
 			}
 		},
 		{
@@ -598,15 +598,15 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}",
 			"type": "Legendary Artifact Creature — Avatar",
-			"collector_number": "225",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/225_Kion, Chosen Chronicler.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/224_Kion, Chosen Chronicler.png"
 			}
 		},
 		{
 			"name": "Parasite Incubation",
 			"rarity": "rare",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{B}",
 			"type": "Enchantment — Aura",
 			"collector_number": "114",
 			"back": {
@@ -665,9 +665,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Robot",
-			"collector_number": "273",
+			"collector_number": "271",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/273_Meteor Harvester.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/271_Meteor Harvester.png"
 			}
 		},
 		{
@@ -675,9 +675,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "292",
+			"collector_number": "290",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/292_Myrkdrasil, Cradle of Nihility.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/290_Myrkdrasil, Cradle of Nihility.png"
 			}
 		},
 		{
@@ -852,9 +852,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "276",
+			"collector_number": "274",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/276_Prophetic Prism.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/274_Prophetic Prism.png"
 			}
 		},
 		{
@@ -917,7 +917,7 @@
 		{
 			"name": "Automatic Reconstruction",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{W}",
+			"mana_cost": "{3}{W}",
 			"type": "Sorcery",
 			"collector_number": "4",
 			"image_uris": {
@@ -1089,9 +1089,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{B}{R}",
 			"type": "Instany",
-			"collector_number": "227",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/227_Last Audience.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/226_Last Audience.png"
 			}
 		},
 		{
@@ -1452,16 +1452,6 @@
 			}
 		},
 		{
-			"name": "Kinetic Gauntlets",
-			"rarity": "uncommon",
-			"mana_cost": "{3}",
-			"type": "Artifact — Equipment",
-			"collector_number": "271",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/271_Kinetic Gauntlets.png"
-			}
-		},
-		{
 			"name": "Scrapyard Repairer",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
@@ -1603,9 +1593,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Human Berserker",
-			"collector_number": "228",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/228_Leif, Hero of Valdrasil.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/227_Leif, Hero of Valdrasil.png"
 			}
 		},
 		{
@@ -1663,9 +1653,9 @@
 			"rarity": "common",
 			"mana_cost": "{7}",
 			"type": "Artifact — Spacecraft",
-			"collector_number": "280",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/280_Voidsent Stalker.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/278_Voidsent Stalker.png"
 			}
 		},
 		{
@@ -1673,9 +1663,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Spacecraft",
-			"collector_number": "269",
+			"collector_number": "268",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/269_IGF Supplyship.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/268_IGF Supplyship.png"
 			}
 		},
 		{
@@ -1703,9 +1693,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "298",
+			"collector_number": "296",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/298_Plains.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/296_Plains.png"
 			}
 		},
 		{
@@ -1713,9 +1703,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "300",
+			"collector_number": "298",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/300_Swamp.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/298_Swamp.png"
 			}
 		},
 		{
@@ -1723,9 +1713,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "299",
+			"collector_number": "297",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/299_Island.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/297_Island.png"
 			}
 		},
 		{
@@ -1743,9 +1733,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "302",
+			"collector_number": "300",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/302_Forest.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/300_Forest.png"
 			}
 		},
 		{
@@ -1753,9 +1743,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "301",
+			"collector_number": "299",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/301_Mountain.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/299_Mountain.png"
 			}
 		},
 		{
@@ -1843,9 +1833,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Robot",
-			"collector_number": "277",
+			"collector_number": "275",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/277_Trajectory Analyzer.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/275_Trajectory Analyzer.png"
 			}
 		},
 		{
@@ -1967,9 +1957,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}",
 			"type": "Legendary Artifact",
-			"collector_number": "270",
+			"collector_number": "269",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/270_The Infinity Bridge.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/269_The Infinity Bridge.png"
 			}
 		},
 		{
@@ -2111,9 +2101,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact — Spacecraft",
-			"collector_number": "279",
+			"collector_number": "277",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/279_Valkyrja, the Final Voyage.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/277_Valkyrja, the Final Voyage.png"
 			}
 		},
 		{
@@ -2121,9 +2111,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact — Spacecraft",
-			"collector_number": "272",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/272_Lightless, Star of Oblivion.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/270_Lightless, Star of Oblivion.png"
 			}
 		},
 		{
@@ -2187,16 +2177,6 @@
 			}
 		},
 		{
-			"name": "Eternal Mekkastruct",
-			"rarity": "uncommon",
-			"mana_cost": "{6}",
-			"type": "Artifact Creature — Dragon",
-			"collector_number": "265",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/265_Eternal Mekkastruct.png"
-			}
-		},
-		{
 			"name": "Oblivion Monarch",
 			"rarity": "common",
 			"mana_cost": "{5}{B}",
@@ -2247,13 +2227,13 @@
 			}
 		},
 		{
-			"name": "Warp-Ring Tyrant",
+			"name": "Eternal Mekkastruct",
 			"rarity": "common",
 			"mana_cost": "{6}",
 			"type": "Artifact Creature — Dragon",
-			"collector_number": "281",
+			"collector_number": "265",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/281_Warp-Ring Tyrant.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/265_Eternal Mekkastruct.png"
 			}
 		},
 		{
@@ -2428,9 +2408,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "291",
+			"collector_number": "289",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/291_Luscious Planetscape.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/289_Luscious Planetscape.png"
 			}
 		},
 		{
@@ -2438,9 +2418,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "286",
+			"collector_number": "284",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/286_Edge of the Universe.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/284_Edge of the Universe.png"
 			}
 		},
 		{
@@ -2488,9 +2468,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "274",
+			"collector_number": "272",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/274_Monument of Waning Faith.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/272_Monument of Waning Faith.png"
 			}
 		},
 		{
@@ -2547,7 +2527,7 @@
 			"name": "Vallacore Vanguard",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Elf Knight",
+			"type": "Creature — Human Berserker",
 			"collector_number": "82",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/82_Vallacore Vanguard.png"
@@ -2568,9 +2548,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}",
 			"type": "Legendary Artifact Creature — Robot",
-			"collector_number": "268",
+			"collector_number": "267",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/268_Icareum, Perfected Mind.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/267_Icareum, Perfected Mind.png"
 			}
 		},
 		{
@@ -2758,13 +2738,13 @@
 			}
 		},
 		{
-			"name": "Darkspace Probe",
+			"name": "Darkspace Shadow",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact — Spacecraft",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/91_Darkspace Probe.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/91_Darkspace Shadow.png"
 			}
 		},
 		{
@@ -2955,13 +2935,13 @@
 			}
 		},
 		{
-			"name": "Lanion, Lethal Hologram",
+			"name": "Lanion, Lethal Memory",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}",
-			"type": "Legendary Artifact Creature — Illusion",
-			"collector_number": "226",
+			"type": "Legendary Artifact Creature — Cyborg",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/226_Lanion, Lethal Hologram.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/225_Lanion, Lethal Memory.png"
 			}
 		},
 		{
@@ -3069,20 +3049,20 @@
 			"name": "Signe, the First Maiden",
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{W}",
-			"type": "Legendary Creature — Human Berserker",
+			"type": "Legendary Creature — Demigod Berserker",
 			"collector_number": "238",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/238_Signe, the First Maiden.png"
 			}
 		},
 		{
-			"name": "Inexorable Advance",
+			"name": "Moment of Wonder",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Enchantment",
-			"collector_number": "224",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/224_Inexorable Advance.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/229_Moment of Wonder.png"
 			}
 		},
 		{
@@ -3090,9 +3070,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Vampire",
-			"collector_number": "229",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/229_Mirrorscreen Vampire.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/228_Mirrorscreen Vampire.png"
 			}
 		},
 		{
@@ -3110,9 +3090,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact — Spacecraft",
-			"collector_number": "275",
+			"collector_number": "273",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/275_Outer System Shuttle.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/273_Outer System Shuttle.png"
 			}
 		},
 		{
@@ -3170,9 +3150,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "296",
+			"collector_number": "294",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/296_Spiralgrowth Clouds.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/294_Spiralgrowth Clouds.png"
 			}
 		},
 		{
@@ -3180,9 +3160,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "287",
+			"collector_number": "285",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/287_Fulgurite Peaks.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/285_Fulgurite Peaks.png"
 			}
 		},
 		{
@@ -3190,9 +3170,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "283",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/283_Burning Hyperlane.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/281_Burning Hyperlane.png"
 			}
 		},
 		{
@@ -3200,9 +3180,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "282",
+			"collector_number": "279",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/282_Asteroid Field.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/279_Asteroid Field.png"
 			}
 		},
 		{
@@ -3210,9 +3190,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "285",
+			"collector_number": "283",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/285_Coral Lowlands.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/283_Coral Lowlands.png"
 			}
 		},
 		{
@@ -3220,9 +3200,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "289",
+			"collector_number": "287",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/289_Intergalactic Hub.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/287_Intergalactic Hub.png"
 			}
 		},
 		{
@@ -3230,9 +3210,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "294",
+			"collector_number": "292",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/294_Reflected Canyon.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/292_Reflected Canyon.png"
 			}
 		},
 		{
@@ -3240,9 +3220,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "288",
+			"collector_number": "286",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/288_Fungal Fumarole.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/286_Fungal Fumarole.png"
 			}
 		},
 		{
@@ -3250,9 +3230,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "290",
+			"collector_number": "288",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/290_Inverted Gulch.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/288_Inverted Gulch.png"
 			}
 		},
 		{
@@ -3260,19 +3240,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "293",
+			"collector_number": "291",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/293_Peat Bluffs.png"
-			}
-		},
-		{
-			"name": "Icareum, Perfected Mind",
-			"rarity": "mythic",
-			"mana_cost": "{X}",
-			"type": "Legendary Artifact Creature — Robot",
-			"collector_number": "267",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/267_Icareum, Perfected Mind.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/291_Peat Bluffs.png"
 			}
 		},
 		{
@@ -3283,6 +3253,16 @@
 			"collector_number": "241",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/241_Star Sentinel Xylo.png"
+			}
+		},
+		{
+			"name": "Astral Reef",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/280_Astral Reef.png"
 			}
 		}
 	]
@@ -3309,7 +3289,7 @@
 	1 Sundeath Maw
 	2 Heaven's Exhalation
 	2 Brightheart Serpent
-	2 Fraying Cluster
+	2 Frayed Cluster
 	2 Devour All Light
 	2 Colony Migration
 	2 Prophecied Alignment
@@ -3380,20 +3360,20 @@
 	2 Brigand's Tanker
 	2 Vallaheart Rescuer
 	2 Reality Dissolution
-	2 Lanion, Lethal Hologram
+	2 Lanion, Lethal Memory
 	2 Trozel, Pyramid's Master
 	2 Strip-Mining Charter
 	2 Elevated by the Gods
 	2 Signe, the First Maiden
-	2 Inexorable Advance
+	2 Moment of Wonder
 	2 Mirrorscreen Vampire
 	2 Freydis, the Astrobiologist
 	2 The Astral Basilica
 	1 Faraway Worlds Await
 	2 Kjotvi, Conduit of Wrath
 	1 Genesis Event
-	1 Icareum, Perfected Mind
 	1 Star Sentinel Xylo
+	2 Astral Reef
 [uncommon(3)]
 	4 Kjaldiran Battlewolves
 	4 Stalwart Spear
@@ -3428,7 +3408,6 @@
 	4 So Much Goo
 	4 Rocket-Powered Canine
 	4 Machine Prophets
-	4 Kinetic Gauntlets
 	4 Command Reality
 	4 Colossal Railgun
 	4 Pulsar Prophet
@@ -3452,7 +3431,6 @@
 	4 All Hands On Deck
 	4 Cryosphere Trawler
 	4 Dunebreaker Wurm
-	4 Eternal Mekkastruct
 	4 Rimescale Wurm
 	4 Spore Spew
 	4 Luminary Weaver
@@ -3473,7 +3451,7 @@
 	4 Viridar Research Vessel
 	4 Nullforged Executioner
 	4 Strange Avian
-	4 Darkspace Probe
+	4 Darkspace Shadow
 	4 Inverter Dreadnought
 	4 Friede's Purifier
 	4 Lauded Imperator
@@ -3561,7 +3539,7 @@
 	8 Mutated Ragebeast
 	8 Viridar Battalion
 	8 Aridian Wanderer
-	8 Warp-Ring Tyrant
+	8 Eternal Mekkastruct
 	8 Terror of Skolha Peak
 	8 Recorder of Auroras
 	8 Mystifying Denial
@@ -3633,7 +3611,7 @@
 	6 Shambling Terrarium
 	2 Brightheart Serpent
 	12 Go Dark
-	2 Fraying Cluster
+	2 Frayed Cluster
 	6 Waning Child of Aeon
 	2 Devour All Light
 	2 Colony Migration
@@ -3718,7 +3696,6 @@
 	12 Viridar Voidmass
 	12 Nova Blast
 	6 Machine Prophets
-	6 Kinetic Gauntlets
 	12 Scrapyard Repairer
 	12 Abandoned Crewmate
 	12 Hired Protector
@@ -3782,13 +3759,12 @@
 	12 Viridar Yearling
 	12 Floating Processors
 	12 Deep Space Sentinel
-	6 Eternal Mekkastruct
 	12 Oblivion Monarch
 	12 Scout the Landscape
 	12 Mutated Ragebeast
 	12 Viridar Battalion
 	12 Aridian Wanderer
-	12 Warp-Ring Tyrant
+	12 Eternal Mekkastruct
 	12 Terror of Skolha Peak
 	6 Rimescale Wurm
 	12 Recorder of Auroras
@@ -3836,7 +3812,7 @@
 	6 Viridar Research Vessel
 	6 Nullforged Executioner
 	6 Strange Avian
-	6 Darkspace Probe
+	6 Darkspace Shadow
 	2 Vallaheart Rescuer
 	6 Inverter Dreadnought
 	2 Reality Dissolution
@@ -3854,7 +3830,7 @@
 	6 Skittering Geopede
 	6 Horde Scorpion
 	6 Spawner Leviathan
-	2 Lanion, Lethal Hologram
+	2 Lanion, Lethal Memory
 	2 Trozel, Pyramid's Master
 	2 Strip-Mining Charter
 	6 Augmented Assassin
@@ -3864,7 +3840,7 @@
 	12 Battle for Survival
 	6 False God Interface
 	2 Signe, the First Maiden
-	2 Inexorable Advance
+	2 Moment of Wonder
 	2 Mirrorscreen Vampire
 	2 Freydis, the Astrobiologist
 	6 Outer System Shuttle
@@ -3883,8 +3859,8 @@
 	12 Fungal Fumarole
 	12 Inverted Gulch
 	12 Peat Bluffs
-	1 Icareum, Perfected Mind
 	1 Star Sentinel Xylo
+	2 Astral Reef
 [wildcard(1)]
 	7 Drakkonic Mekkastruct
 	15 Kjaldiran Battlewolves
@@ -3931,7 +3907,7 @@
 	15 Shambling Terrarium
 	7 Brightheart Serpent
 	6 Go Dark
-	7 Fraying Cluster
+	7 Frayed Cluster
 	15 Waning Child of Aeon
 	7 Devour All Light
 	7 Colony Migration
@@ -4016,7 +3992,6 @@
 	6 Viridar Voidmass
 	6 Nova Blast
 	15 Machine Prophets
-	15 Kinetic Gauntlets
 	6 Scrapyard Repairer
 	6 Abandoned Crewmate
 	6 Hired Protector
@@ -4080,13 +4055,12 @@
 	6 Viridar Yearling
 	6 Floating Processors
 	6 Deep Space Sentinel
-	15 Eternal Mekkastruct
 	6 Oblivion Monarch
 	6 Scout the Landscape
 	6 Mutated Ragebeast
 	6 Viridar Battalion
 	6 Aridian Wanderer
-	6 Warp-Ring Tyrant
+	6 Eternal Mekkastruct
 	6 Terror of Skolha Peak
 	15 Rimescale Wurm
 	6 Recorder of Auroras
@@ -4134,7 +4108,7 @@
 	15 Viridar Research Vessel
 	15 Nullforged Executioner
 	15 Strange Avian
-	15 Darkspace Probe
+	15 Darkspace Shadow
 	7 Vallaheart Rescuer
 	15 Inverter Dreadnought
 	7 Reality Dissolution
@@ -4152,7 +4126,7 @@
 	15 Skittering Geopede
 	15 Horde Scorpion
 	15 Spawner Leviathan
-	7 Lanion, Lethal Hologram
+	7 Lanion, Lethal Memory
 	7 Trozel, Pyramid's Master
 	7 Strip-Mining Charter
 	15 Augmented Assassin
@@ -4162,7 +4136,7 @@
 	6 Battle for Survival
 	15 False God Interface
 	7 Signe, the First Maiden
-	7 Inexorable Advance
+	7 Moment of Wonder
 	7 Mirrorscreen Vampire
 	7 Freydis, the Astrobiologist
 	15 Outer System Shuttle
@@ -4181,5 +4155,5 @@
 	6 Fungal Fumarole
 	6 Inverted Gulch
 	6 Peat Bluffs
-	4 Icareum, Perfected Mind
 	4 Star Sentinel Xylo
+	7 Astral Reef

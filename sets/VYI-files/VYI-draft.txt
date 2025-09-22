@@ -363,16 +363,6 @@
 			}
 		},
 		{
-			"name": "Sun-Eater Nautiloid",
-			"rarity": "rare",
-			"mana_cost": "{1}{B}",
-			"type": "Artifact — Spacecraft",
-			"collector_number": "117",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/117_Sun-Eater Nautiloid.png"
-			}
-		},
-		{
 			"name": "Migrating Cetacean",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G/U}{G/U}",
@@ -688,16 +678,6 @@
 			"collector_number": "87",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/87_Approach of the Black Sun.png"
-			}
-		},
-		{
-			"name": "Drakkonfell, First Starkarve",
-			"rarity": "rare",
-			"mana_cost": "{2}",
-			"type": "Legendary Artifact — Spacecraft",
-			"collector_number": "263",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/263_Drakkonfell, First Starkarve.png"
 			}
 		},
 		{
@@ -1649,26 +1629,6 @@
 			}
 		},
 		{
-			"name": "Voidsent Stalker",
-			"rarity": "common",
-			"mana_cost": "{7}",
-			"type": "Artifact — Spacecraft",
-			"collector_number": "278",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/278_Voidsent Stalker.png"
-			}
-		},
-		{
-			"name": "IGF Supplyship",
-			"rarity": "common",
-			"mana_cost": "{2}",
-			"type": "Artifact — Spacecraft",
-			"collector_number": "268",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/268_IGF Supplyship.png"
-			}
-		},
-		{
 			"name": "Depths of the Dark",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
@@ -1819,16 +1779,6 @@
 			}
 		},
 		{
-			"name": "Driftweld Column",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{U}",
-			"type": "Artifact — Spacecraft",
-			"collector_number": "53",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/53_Driftweld Column.png"
-			}
-		},
-		{
 			"name": "Trajectory Analyzer",
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
@@ -1943,16 +1893,6 @@
 			}
 		},
 		{
-			"name": "Interdictor Skiff",
-			"rarity": "rare",
-			"mana_cost": "{1}{W}",
-			"type": "Artifact — Spacecraft",
-			"collector_number": "22",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/22_Interdictor Skiff.png"
-			}
-		},
-		{
 			"name": "The Infinity Bridge",
 			"rarity": "mythic",
 			"mana_cost": "{1}",
@@ -2050,16 +1990,6 @@
 			}
 		},
 		{
-			"name": "Cryosphere Trawler",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W}{U}",
-			"type": "Artifact — Spacecraft",
-			"collector_number": "216",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/216_Cryosphere Trawler.png"
-			}
-		},
-		{
 			"name": "Dunebreaker Wurm",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R/G}{R/G}",
@@ -2084,36 +2014,6 @@
 			"collector_number": "77",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/77_Three Thousand Years Later.png"
-			}
-		},
-		{
-			"name": "Chronicler's Probe",
-			"rarity": "rare",
-			"mana_cost": "{U}",
-			"type": "Artifact — Spacecraft",
-			"collector_number": "48",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/48_Chronicler's Probe.png"
-			}
-		},
-		{
-			"name": "Valkyrja, the Final Voyage",
-			"rarity": "mythic",
-			"mana_cost": "{2}",
-			"type": "Legendary Artifact — Spacecraft",
-			"collector_number": "277",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/277_Valkyrja, the Final Voyage.png"
-			}
-		},
-		{
-			"name": "Lightless, Star of Oblivion",
-			"rarity": "mythic",
-			"mana_cost": "{5}",
-			"type": "Legendary Artifact — Spacecraft",
-			"collector_number": "270",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/270_Lightless, Star of Oblivion.png"
 			}
 		},
 		{
@@ -2504,16 +2404,6 @@
 			}
 		},
 		{
-			"name": "Asteroid Freighter",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{U}",
-			"type": "Artifact — Spacecraft",
-			"collector_number": "45",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/45_Asteroid Freighter.png"
-			}
-		},
-		{
 			"name": "Portal Conservator",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
@@ -2531,16 +2421,6 @@
 			"collector_number": "82",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/82_Vallacore Vanguard.png"
-			}
-		},
-		{
-			"name": "Orrhion, Survey Medusae",
-			"rarity": "rare",
-			"mana_cost": "{U}{R}{W}",
-			"type": "Legendary Artifact — Spacecraft",
-			"collector_number": "233",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/233_Orrhion, Survey Medusae.png"
 			}
 		},
 		{
@@ -2588,16 +2468,6 @@
 			},
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/33_Rusted Moontrotter_front.png"
-			}
-		},
-		{
-			"name": "Hive Sporespreader",
-			"rarity": "rare",
-			"mana_cost": "{3}{G}",
-			"type": "Artifact — Spacecraft",
-			"collector_number": "184",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/184_Hive Sporespreader.png"
 			}
 		},
 		{
@@ -2651,16 +2521,6 @@
 			}
 		},
 		{
-			"name": "Brigand's Tanker",
-			"rarity": "rare",
-			"mana_cost": "{2}{R}",
-			"type": "Artifact — Spacecraft",
-			"collector_number": "131",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/131_Brigand's Tanker.png"
-			}
-		},
-		{
 			"name": "Chaos Wyrm",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{R}{R}",
@@ -2688,36 +2548,6 @@
 			}
 		},
 		{
-			"name": "Starscape Journeyer",
-			"rarity": "uncommon",
-			"mana_cost": "{R}",
-			"type": "Artifact — Spacecraft",
-			"collector_number": "156",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/156_Starscape Journeyer.png"
-			}
-		},
-		{
-			"name": "Orbital Cannon",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
-			"type": "Artifact — Spacecraft",
-			"collector_number": "150",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/150_Orbital Cannon.png"
-			}
-		},
-		{
-			"name": "Viridar Research Vessel",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
-			"type": "Artifact — Spacecraft",
-			"collector_number": "204",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/204_Viridar Research Vessel.png"
-			}
-		},
-		{
 			"name": "Nullforged Executioner",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
@@ -2738,16 +2568,6 @@
 			}
 		},
 		{
-			"name": "Darkspace Shadow",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
-			"type": "Artifact — Spacecraft",
-			"collector_number": "91",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/91_Darkspace Shadow.png"
-			}
-		},
-		{
 			"name": "Vallaheart Rescuer",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
@@ -2755,16 +2575,6 @@
 			"collector_number": "42",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/42_Vallaheart Rescuer.png"
-			}
-		},
-		{
-			"name": "Inverter Dreadnought",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{B}",
-			"type": "Artifact — Spacecraft",
-			"collector_number": "105",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/105_Inverter Dreadnought.png"
 			}
 		},
 		{
@@ -2865,26 +2675,6 @@
 			}
 		},
 		{
-			"name": "Mesa Dunedancer",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Artifact — Spacecraft",
-			"collector_number": "27",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/27_Mesa Dunedancer.png"
-			}
-		},
-		{
-			"name": "Gilded Corvette",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{W}",
-			"type": "Artifact — Spacecraft",
-			"collector_number": "16",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/16_Gilded Corvette.png"
-			}
-		},
-		{
 			"name": "IGF Enforcer",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
@@ -2892,16 +2682,6 @@
 			"collector_number": "20",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/20_IGF Enforcer.png"
-			}
-		},
-		{
-			"name": "Cloudsifter Float",
-			"rarity": "uncommon",
-			"mana_cost": "{5}{G}",
-			"type": "Artifact — Spacecraft",
-			"collector_number": "174",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/174_Cloudsifter Float.png"
 			}
 		},
 		{
@@ -3086,26 +2866,6 @@
 			}
 		},
 		{
-			"name": "Outer System Shuttle",
-			"rarity": "uncommon",
-			"mana_cost": "{1}",
-			"type": "Artifact — Spacecraft",
-			"collector_number": "273",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/273_Outer System Shuttle.png"
-			}
-		},
-		{
-			"name": "The Astral Basilica",
-			"rarity": "rare",
-			"mana_cost": "{6}",
-			"type": "Legendary Artifact — Spacecraft",
-			"collector_number": "259",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/259_The Astral Basilica.png"
-			}
-		},
-		{
 			"name": "Faraway Worlds Await",
 			"rarity": "mythic",
 			"mana_cost": "{4}{W}{W}",
@@ -3264,6 +3024,246 @@
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/280_Astral Reef.png"
 			}
+		},
+		{
+			"name": "Valkyrja, the Final Voyage",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Spacecraft",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/277_Valkyrja, the Final Voyage.png"
+			}
+		},
+		{
+			"name": "IGF Supplyship",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/268_IGF Supplyship.png"
+			}
+		},
+		{
+			"name": "Voidsent Stalker",
+			"rarity": "common",
+			"mana_cost": "{7}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/278_Voidsent Stalker.png"
+			}
+		},
+		{
+			"name": "Asteroid Freighter",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/45_Asteroid Freighter.png"
+			}
+		},
+		{
+			"name": "Cloudsifter Float",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/174_Cloudsifter Float.png"
+			}
+		},
+		{
+			"name": "Cryosphere Trawler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/216_Cryosphere Trawler.png"
+			}
+		},
+		{
+			"name": "Darkspace Shadow",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/91_Darkspace Shadow.png"
+			}
+		},
+		{
+			"name": "Driftweld Column",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/53_Driftweld Column.png"
+			}
+		},
+		{
+			"name": "Gilded Corvette",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/16_Gilded Corvette.png"
+			}
+		},
+		{
+			"name": "Inverter Dreadnought",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/105_Inverter Dreadnought.png"
+			}
+		},
+		{
+			"name": "Mesa Dunedancer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/27_Mesa Dunedancer.png"
+			}
+		},
+		{
+			"name": "Orbital Cannon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/150_Orbital Cannon.png"
+			}
+		},
+		{
+			"name": "Outer System Shuttle",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/273_Outer System Shuttle.png"
+			}
+		},
+		{
+			"name": "Starscape Journeyer",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/156_Starscape Journeyer.png"
+			}
+		},
+		{
+			"name": "Viridar Research Vessel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/204_Viridar Research Vessel.png"
+			}
+		},
+		{
+			"name": "Brigand's Tanker",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/131_Brigand's Tanker.png"
+			}
+		},
+		{
+			"name": "Chronicler's Probe",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/48_Chronicler's Probe.png"
+			}
+		},
+		{
+			"name": "Drakkonfell, First Starkarve",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "legendary Artifact — Spacecraft",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/263_Drakkonfell, First Starkarve.png"
+			}
+		},
+		{
+			"name": "Hive Sporespreader",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/184_Hive Sporespreader.png"
+			}
+		},
+		{
+			"name": "Interdictor Skiff",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/22_Interdictor Skiff.png"
+			}
+		},
+		{
+			"name": "Orrhion, Survey Medusae",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Legendary Artifact — Spacecraft",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/233_Orrhion, Survey Medusae.png"
+			}
+		},
+		{
+			"name": "Sun-Eater Nautiloid",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/117_Sun-Eater Nautiloid.png"
+			}
+		},
+		{
+			"name": "The Astral Basilica",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Legendary Artifact — Spacecraft",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/259_The Astral Basilica.png"
+			}
+		},
+		{
+			"name": "Lightless, Star of Oblivion",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact — Spacecraft",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/270_Lightless, Star of Oblivion.png"
+			}
 		}
 	]
 
@@ -3283,7 +3283,6 @@
 	1 Captain Elai
 	1 Amede, Vessel of Alune
 	2 Sojourner's Gateway
-	2 Sun-Eater Nautiloid
 	2 Origin's Vestige
 	2 Titan of Helgahraun
 	1 Sundeath Maw
@@ -3300,7 +3299,6 @@
 	2 Meteor Harvester
 	2 Myrkdrasil, Cradle of Nihility
 	2 Approach of the Black Sun
-	2 Drakkonfell, First Starkarve
 	2 Adrift in a Twilit Sea
 	2 Hive Forerunner
 	2 Ancestral Mageflame
@@ -3337,27 +3335,20 @@
 	2 Mangled Atrocity
 	2 Event Horizon
 	2 Noxela, the Gloom
-	2 Interdictor Skiff
 	1 The Infinity Bridge
 	2 Captain Brandr
 	2 Three Thousand Years Later
-	2 Chronicler's Probe
-	1 Valkyrja, the Final Voyage
-	1 Lightless, Star of Oblivion
 	2 Narve, Lord of the Wastes
 	2 Asbjal, Startouched
 	2 Xrogg, Star's Shadow
 	2 Shiruun, Evolved One
 	2 Creation Redoubled
-	2 Orrhion, Survey Medusae
 	1 Icareum, Perfected Mind
 	2 Rusted Moontrotter
-	2 Hive Sporespreader
 	2 Onemind, Eye of Discovery
 	2 Elin, Beyond the Horizon
 	2 The Fludemarmak
 	2 Caelira, Dawn Unbroken
-	2 Brigand's Tanker
 	2 Vallaheart Rescuer
 	2 Reality Dissolution
 	2 Lanion, Lethal Memory
@@ -3368,12 +3359,21 @@
 	2 Moment of Wonder
 	2 Mirrorscreen Vampire
 	2 Freydis, the Astrobiologist
-	2 The Astral Basilica
 	1 Faraway Worlds Await
 	2 Kjotvi, Conduit of Wrath
 	1 Genesis Event
 	1 Star Sentinel Xylo
 	2 Astral Reef
+	1 Valkyrja, the Final Voyage
+	2 Brigand's Tanker
+	2 Chronicler's Probe
+	2 Drakkonfell, First Starkarve
+	2 Hive Sporespreader
+	2 Interdictor Skiff
+	2 Orrhion, Survey Medusae
+	2 Sun-Eater Nautiloid
+	2 The Astral Basilica
+	1 Lightless, Star of Oblivion
 [uncommon(3)]
 	4 Kjaldiran Battlewolves
 	4 Stalwart Spear
@@ -3417,7 +3417,6 @@
 	4 Corporate Fumigator
 	4 Decimator Legion
 	4 Scrapyard Bargain
-	4 Driftweld Column
 	4 Trajectory Analyzer
 	4 Behemoth Tracker
 	4 Helgahraun Hero
@@ -3429,7 +3428,6 @@
 	4 The Dead of Space
 	4 Hull Fuser
 	4 All Hands On Deck
-	4 Cryosphere Trawler
 	4 Dunebreaker Wurm
 	4 Rimescale Wurm
 	4 Spore Spew
@@ -3439,20 +3437,14 @@
 	4 Monument of Waning Faith
 	4 In the Wake of Gods
 	4 Touch the Infinite
-	4 Asteroid Freighter
 	4 Portal Conservator
 	4 Vallacore Vanguard
 	4 Wanderer of the Wastes
 	4 Repel Aggression
 	4 Chaos Wyrm
 	4 Into the Unknown
-	4 Starscape Journeyer
-	4 Orbital Cannon
-	4 Viridar Research Vessel
 	4 Nullforged Executioner
 	4 Strange Avian
-	4 Darkspace Shadow
-	4 Inverter Dreadnought
 	4 Friede's Purifier
 	4 Lauded Imperator
 	4 Freefall Diver
@@ -3460,10 +3452,7 @@
 	4 First Expedition Explorer
 	4 Steelframe Viridar
 	4 Upload Capsule
-	4 Mesa Dunedancer
-	4 Gilded Corvette
 	4 IGF Enforcer
-	4 Cloudsifter Float
 	4 Skittering Geopede
 	4 Horde Scorpion
 	4 Spawner Leviathan
@@ -3471,7 +3460,18 @@
 	4 Seek the Last Light
 	4 Rip in Half
 	4 False God Interface
+	4 Asteroid Freighter
+	4 Cloudsifter Float
+	4 Cryosphere Trawler
+	4 Darkspace Shadow
+	4 Driftweld Column
+	4 Gilded Corvette
+	4 Inverter Dreadnought
+	4 Mesa Dunedancer
+	4 Orbital Cannon
 	4 Outer System Shuttle
+	4 Starscape Journeyer
+	4 Viridar Research Vessel
 [common(7)]
 	8 Kjaldiran Berserker
 	8 Go Forth and Slaughter
@@ -3523,8 +3523,6 @@
 	8 It Takes Two
 	8 Cybertouched Spirit
 	8 Ecliptic Harbinger
-	8 Voidsent Stalker
-	8 IGF Supplyship
 	8 Mageflame Unleashed
 	8 Through the Wormhole
 	8 Uncharted Frontiers
@@ -3565,6 +3563,8 @@
 	8 Fungal Fumarole
 	8 Inverted Gulch
 	8 Peat Bluffs
+	8 IGF Supplyship
+	8 Voidsent Stalker
 [foil(1)]
 	2 Drakkonic Mekkastruct
 	6 Kjaldiran Battlewolves
@@ -3598,7 +3598,6 @@
 	6 Covet Infinity
 	1 Amede, Vessel of Alune
 	2 Sojourner's Gateway
-	2 Sun-Eater Nautiloid
 	6 Migrating Cetacean
 	2 Origin's Vestige
 	2 Titan of Helgahraun
@@ -3626,7 +3625,6 @@
 	2 Meteor Harvester
 	2 Myrkdrasil, Cradle of Nihility
 	2 Approach of the Black Sun
-	2 Drakkonfell, First Starkarve
 	12 Curious Horticulturist
 	6 Charge into the Void
 	2 Adrift in a Twilit Sea
@@ -3714,8 +3712,6 @@
 	12 Ecliptic Harbinger
 	1 Sereium, Viridar Hegemon
 	6 Swimming in Moonlight
-	12 Voidsent Stalker
-	12 IGF Supplyship
 	2 Depths of the Dark
 	6 Drop Through Reality
 	2 Nythr, Stargate Goliath
@@ -3726,7 +3722,6 @@
 	6 Decimator Legion
 	2 Starheart Harvest
 	6 Scrapyard Bargain
-	6 Driftweld Column
 	6 Trajectory Analyzer
 	2 Domesticated Voidbeast
 	2 Mangled Atrocity
@@ -3737,7 +3732,6 @@
 	2 Noxela, the Gloom
 	6 Kjotvi's Companion
 	6 Upgraded Marauder
-	2 Interdictor Skiff
 	1 The Infinity Bridge
 	12 Uncharted Frontiers
 	2 Captain Brandr
@@ -3747,12 +3741,8 @@
 	6 The Dead of Space
 	6 Hull Fuser
 	6 All Hands On Deck
-	6 Cryosphere Trawler
 	6 Dunebreaker Wurm
 	2 Three Thousand Years Later
-	2 Chronicler's Probe
-	1 Valkyrja, the Final Voyage
-	1 Lightless, Star of Oblivion
 	12 Man-Eating Mandrake
 	12 Moonsea Terror
 	12 Might of the Machine
@@ -3791,30 +3781,21 @@
 	6 In the Wake of Gods
 	2 Creation Redoubled
 	6 Touch the Infinite
-	6 Asteroid Freighter
 	6 Portal Conservator
 	6 Vallacore Vanguard
-	2 Orrhion, Survey Medusae
 	1 Icareum, Perfected Mind
 	6 Wanderer of the Wastes
 	6 Repel Aggression
 	2 Rusted Moontrotter
-	2 Hive Sporespreader
 	2 Onemind, Eye of Discovery
 	2 Elin, Beyond the Horizon
 	2 The Fludemarmak
 	2 Caelira, Dawn Unbroken
-	2 Brigand's Tanker
 	6 Chaos Wyrm
 	6 Into the Unknown
-	6 Starscape Journeyer
-	6 Orbital Cannon
-	6 Viridar Research Vessel
 	6 Nullforged Executioner
 	6 Strange Avian
-	6 Darkspace Shadow
 	2 Vallaheart Rescuer
-	6 Inverter Dreadnought
 	2 Reality Dissolution
 	6 Friede's Purifier
 	6 Lauded Imperator
@@ -3823,10 +3804,7 @@
 	6 First Expedition Explorer
 	6 Steelframe Viridar
 	6 Upload Capsule
-	6 Mesa Dunedancer
-	6 Gilded Corvette
 	6 IGF Enforcer
-	6 Cloudsifter Float
 	6 Skittering Geopede
 	6 Horde Scorpion
 	6 Spawner Leviathan
@@ -3843,8 +3821,6 @@
 	2 Moment of Wonder
 	2 Mirrorscreen Vampire
 	2 Freydis, the Astrobiologist
-	6 Outer System Shuttle
-	2 The Astral Basilica
 	1 Faraway Worlds Await
 	2 Kjotvi, Conduit of Wrath
 	1 Genesis Event
@@ -3861,6 +3837,30 @@
 	12 Peat Bluffs
 	1 Star Sentinel Xylo
 	2 Astral Reef
+	1 Valkyrja, the Final Voyage
+	12 IGF Supplyship
+	12 Voidsent Stalker
+	6 Asteroid Freighter
+	6 Cloudsifter Float
+	6 Cryosphere Trawler
+	6 Darkspace Shadow
+	6 Driftweld Column
+	6 Gilded Corvette
+	6 Inverter Dreadnought
+	6 Mesa Dunedancer
+	6 Orbital Cannon
+	6 Outer System Shuttle
+	6 Starscape Journeyer
+	6 Viridar Research Vessel
+	2 Brigand's Tanker
+	2 Chronicler's Probe
+	2 Drakkonfell, First Starkarve
+	2 Hive Sporespreader
+	2 Interdictor Skiff
+	2 Orrhion, Survey Medusae
+	2 Sun-Eater Nautiloid
+	2 The Astral Basilica
+	1 Lightless, Star of Oblivion
 [wildcard(1)]
 	7 Drakkonic Mekkastruct
 	15 Kjaldiran Battlewolves
@@ -3894,7 +3894,6 @@
 	15 Covet Infinity
 	4 Amede, Vessel of Alune
 	7 Sojourner's Gateway
-	7 Sun-Eater Nautiloid
 	15 Migrating Cetacean
 	7 Origin's Vestige
 	7 Titan of Helgahraun
@@ -3922,7 +3921,6 @@
 	7 Meteor Harvester
 	7 Myrkdrasil, Cradle of Nihility
 	7 Approach of the Black Sun
-	7 Drakkonfell, First Starkarve
 	6 Curious Horticulturist
 	15 Charge into the Void
 	7 Adrift in a Twilit Sea
@@ -4010,8 +4008,6 @@
 	6 Ecliptic Harbinger
 	4 Sereium, Viridar Hegemon
 	15 Swimming in Moonlight
-	6 Voidsent Stalker
-	6 IGF Supplyship
 	7 Depths of the Dark
 	15 Drop Through Reality
 	7 Nythr, Stargate Goliath
@@ -4022,7 +4018,6 @@
 	15 Decimator Legion
 	7 Starheart Harvest
 	15 Scrapyard Bargain
-	15 Driftweld Column
 	15 Trajectory Analyzer
 	7 Domesticated Voidbeast
 	7 Mangled Atrocity
@@ -4033,7 +4028,6 @@
 	7 Noxela, the Gloom
 	15 Kjotvi's Companion
 	15 Upgraded Marauder
-	7 Interdictor Skiff
 	4 The Infinity Bridge
 	6 Uncharted Frontiers
 	7 Captain Brandr
@@ -4043,12 +4037,8 @@
 	15 The Dead of Space
 	15 Hull Fuser
 	15 All Hands On Deck
-	15 Cryosphere Trawler
 	15 Dunebreaker Wurm
 	7 Three Thousand Years Later
-	7 Chronicler's Probe
-	4 Valkyrja, the Final Voyage
-	4 Lightless, Star of Oblivion
 	6 Man-Eating Mandrake
 	6 Moonsea Terror
 	6 Might of the Machine
@@ -4087,30 +4077,21 @@
 	15 In the Wake of Gods
 	7 Creation Redoubled
 	15 Touch the Infinite
-	15 Asteroid Freighter
 	15 Portal Conservator
 	15 Vallacore Vanguard
-	7 Orrhion, Survey Medusae
 	4 Icareum, Perfected Mind
 	15 Wanderer of the Wastes
 	15 Repel Aggression
 	7 Rusted Moontrotter
-	7 Hive Sporespreader
 	7 Onemind, Eye of Discovery
 	7 Elin, Beyond the Horizon
 	7 The Fludemarmak
 	7 Caelira, Dawn Unbroken
-	7 Brigand's Tanker
 	15 Chaos Wyrm
 	15 Into the Unknown
-	15 Starscape Journeyer
-	15 Orbital Cannon
-	15 Viridar Research Vessel
 	15 Nullforged Executioner
 	15 Strange Avian
-	15 Darkspace Shadow
 	7 Vallaheart Rescuer
-	15 Inverter Dreadnought
 	7 Reality Dissolution
 	15 Friede's Purifier
 	15 Lauded Imperator
@@ -4119,10 +4100,7 @@
 	15 First Expedition Explorer
 	15 Steelframe Viridar
 	15 Upload Capsule
-	15 Mesa Dunedancer
-	15 Gilded Corvette
 	15 IGF Enforcer
-	15 Cloudsifter Float
 	15 Skittering Geopede
 	15 Horde Scorpion
 	15 Spawner Leviathan
@@ -4139,8 +4117,6 @@
 	7 Moment of Wonder
 	7 Mirrorscreen Vampire
 	7 Freydis, the Astrobiologist
-	15 Outer System Shuttle
-	7 The Astral Basilica
 	4 Faraway Worlds Await
 	7 Kjotvi, Conduit of Wrath
 	4 Genesis Event
@@ -4157,3 +4133,27 @@
 	6 Peat Bluffs
 	4 Star Sentinel Xylo
 	7 Astral Reef
+	4 Valkyrja, the Final Voyage
+	6 IGF Supplyship
+	6 Voidsent Stalker
+	15 Asteroid Freighter
+	15 Cloudsifter Float
+	15 Cryosphere Trawler
+	15 Darkspace Shadow
+	15 Driftweld Column
+	15 Gilded Corvette
+	15 Inverter Dreadnought
+	15 Mesa Dunedancer
+	15 Orbital Cannon
+	15 Outer System Shuttle
+	15 Starscape Journeyer
+	15 Viridar Research Vessel
+	7 Brigand's Tanker
+	7 Chronicler's Probe
+	7 Drakkonfell, First Starkarve
+	7 Hive Sporespreader
+	7 Interdictor Skiff
+	7 Orrhion, Survey Medusae
+	7 Sun-Eater Nautiloid
+	7 The Astral Basilica
+	4 Lightless, Star of Oblivion

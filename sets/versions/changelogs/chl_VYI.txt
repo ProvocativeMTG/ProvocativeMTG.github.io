@@ -1,4 +1,538 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+
+
+Chronicler of Irregularities
+rules_text: Flying
+Artifact spells you cast cost {1} less to cast.
+Exhaust — {4}{U}{U}: Draw cards equal to the greatest mana value among artifacts you control. [i](Activate each exhaust ability only once.)[/i] => Flying
+Artifact spells you cast cost {1} less to cast.
+Exhaust — {4}{U}{U}: Draw cards equal to the greatest mana value among artifacts you control. [i](Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i]
+
+Sojourner's Gateway
+rules_text: {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+{2}, {T}, Sacrifice this land: Search your library for a land card, put it onto the battlefield, then shuffle. => {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{2}, {T}, Sacrifice this land: Search your library for a land card, put it onto the battlefield tapped, then shuffle.
+
+Hungering Abyss
+rules_text: Enchant creature
+Enchanted creature gets -1/-0 and has “At the beginning of your upkeep, exile this creature unless you pay 1 life.”
+Starstorm [i](When you cast this spell, copy it for each spell you cast before it this turn.)[/i] => Enchant creature
+Enchanted creature gets -1/-0 and has “At the beginning of your upkeep, exile this creature unless you pay 1 life.”
+Starstorm [i](When you cast this spell, copy it for each spell you cast before it this turn. You may choose new targets for the copies.)[/i]
+
+Quintessence Division
+rules_text: Double target creature's power until end of turn.
+Starstorm [i](When you cast this spell, copy it for each spell you cast before it this turn.)[/i] => Double target creature's power until end of turn.
+Starstorm [i](When you cast this spell, copy it for each spell you cast before it this turn. You may choose new targets for the copies.)[/i]
+
+Hired Protector
+rules_text: Whenever one or more creatures you control with counters on them attack, tap target creature an opponent controls.
+Exhaust — {4}: Put a +1/+1 counter on this creature. Create a 1/1 blue Pilot creature token. [i](Activate each exhaust ability only once.)[/i] => Whenever one or more creatures you control with counters on them attack, tap target creature an opponent controls.
+Exhaust — {4}: Put a +1/+1 counter on this creature. Create a 1/1 blue Pilot creature token. [i](Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i]
+
+Call the Infinite Bridge
+rules_text: Reveal the top four cards of your library. You may put up to two creature, land, and/or Spacecraft cards from the revealed cards onto the battlefield. Put the rest on the bottom of your library in any order. Distribute four +1/+1 counters, four loyalty counters, or four charge counters among permanents you control. => Reveal the top four cards of your library. You may put up to two creature, land, and/or Spacecraft cards from the revealed cards onto the battlefield. Put the rest on the bottom of your library in any order. Distribute four counters in any combination of charge, loyalty, or +1/+1 counters among permanents you control.
+
+The Infinity Bridge
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, put a charge counter on The Infinity Bridge.
+As long as there are ten or more charge counters on The Infinity Bridge, spells you cast have starstorm. [i](Whenever you cast a spell with starstorm, copy it for each spell you cast before it this turn.)[/i] => [i]Landfall[/i] — Whenever a land you control enters, put a charge counter on The Infinity Bridge.
+As long as there are ten or more charge counters on The Infinity Bridge, spells you cast have starstorm. [i](When you cast a spell this way, copy it for each spell you cast before it this turn. You may choose new targets for the copies.)[/i]
+
+Heavencraft Valkyrie
+rules_text: Flying
+{T}: Add one mana of any color.
+Exhaust — {6}: Put a vigilance counter on this creature. Its base power and toughness become 4/4. [i](This effect lasts indefinitely. Activate each exhaust ability only once.)[/i] => Flying
+{T}: Add one mana of any color.
+Exhaust — {6}: Put a vigilance counter on this creature. Its base power and toughness become 4/4. [i](This effect lasts indefinitely. Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i]
+
+Narve, Lord of the Wastes
+rules_text: Whenever another creature you control enters, each opponent loses 1 life and you gain 1 life. If that creature is a token, instead each opponent loses X life and you gain X life, where X is that token's power.
+Exhaust — {3}{R}{W}{B}: Create a 4/4 colorless Dragon artifact creature token with flying. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i] => Whenever another creature you control enters, each opponent loses 1 life and you gain 1 life. If that creature is a token, instead each opponent loses X life and you gain X life, where X is that token's power.
+Exhaust — {3}{R}{W}{B}: Create a 4/4 colorless Dragon artifact creature token with flying. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i]
+
+In the Wake of Gods
+rules_text: Enchant creature
+Enchanted creature gets +1/+1.
+Whenever enchanted creature attacks, it gains first strike until end of turn. If it already has first strike, it gains double strike until end of turn instead.
+Starstorm [i](When you cast this spell, copy it for each spell you cast before it this turn.)[/i] => Enchant creature
+Enchanted creature gets +1/+1.
+Whenever enchanted creature attacks, it gains first strike until end of turn. If it already has first strike, it gains double strike until end of turn instead.
+Starstorm [i](When you cast this spell, copy it for each spell you cast before it this turn. You may choose new targets for the copies.)[/i]
+
+Creation Redoubled
+rules_text: Create a token that's a copy of target token you control. If it's a creature token, it enters with an additional +1/+1 counter on it.
+Starstorm [i](When you cast this spell, copy it for each spell you cast before it this turn.)[/i] => Create a token that's a copy of target token you control. If it's a creature token, it enters with an additional +1/+1 counter on it.
+Starstorm [i](When you cast this spell, copy it for each spell you cast before it this turn. You may choose new targets for the copies.)[/i]
+
+Portal Conservator
+rules_text: Flying
+Exhaust — {1}{U}: Put a +1/+1 counter on each artifact creature you control. [i](Activate each exhaust ability only once.)[/i]
+Exhaust — {3}{U}: Put a +1/+1 counter on each artifact creature you control.
+Exhaust — {5}{U}: Put a +1/+1 counter on each artifact creature you control. => Flying
+Exhaust — {1}{U}: Put a +1/+1 counter on each artifact creature you control. [i](Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i]
+Exhaust — {3}{U}: Put a +1/+1 counter on each artifact creature you control. [i](Activate each exhaust ability only once.)[/i]
+Exhaust — {5}{U}: Put a +1/+1 counter on each artifact creature you control. [i](Activate each exhaust ability only once.)[/i]
+
+Steelframe Viridar
+rules_text: Exhaust — {2}{W}: Create a 0/0 colorless Avatar artifact creature token with “This creature gets +1/+1 for each artifact you control. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i] => Exhaust — {2}{W}: Create a 0/0 colorless Avatar artifact creature token with “This creature gets +1/+1 for each artifact you control.” Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i]
+
+Valkyrja, the Final Voyage
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, put a +1/+1 counter on up to one target creature or two charge counters on up to one target artifact.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 16+] Flying
+Whenever Valkyrja attacks, for each land you control, create a token that's a copy of it. [6/6]
+ => [i]Landfall[/i] – Whenever a land you control enters, put a +1/+1 counter on up to one target creature or two charge counters on up to one target artifact.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 16+] Flying
+Whenever Valkyrja attacks, for each land you control, create a token that's a copy of it. [6/6]
+
+special_text: [i]Landfall[/i] — Whenever a land you control enters, put a +1/+1 counter on up to one target creature or two charge counters on up to one target artifact.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 16+] Flying
+Whenever Valkyrja attacks, for each land you control, create a token that's a copy of it. [6/6]
+ => [i]Landfall[/i] – Whenever a land you control enters, put a +1/+1 counter on up to one target creature or two charge counters on up to one target artifact.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 16+] Flying
+Whenever Valkyrja attacks, for each land you control, create a token that's a copy of it. [6/6]
+
+
+IGF Supplyship
+rules_text: When this Spacecraft enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 4+] Flying
+Whenever this Spacecraft attacks, surveil 1.
+ => When this Spacecraft enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 4+] Flying
+Whenever this Spacecraft attacks, surveil 1. [2/2]
+
+special_text: When this Spacecraft enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 4+] Flying
+Whenever this Spacecraft attacks, surveil 1.
+ => When this Spacecraft enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 4+] Flying
+Whenever this Spacecraft attacks, surveil 1. [2/2]
+
+
+Voidsent Stalker
+rules_text: When this Spacecraft enters, exile target creature an opponent controls until this Spacecraft leaves the battlefield.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 7+] Flying
+ => When this Spacecraft enters, exile target creature an opponent controls until this Spacecraft leaves the battlefield.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 7+] Flying [7/7]
+
+special_text: When this Spacecraft enters, exile target creature an opponent controls until this Spacecraft leaves the battlefield.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 7+] Flying
+ => When this Spacecraft enters, exile target creature an opponent controls until this Spacecraft leaves the battlefield.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 7+] Flying [7/7]
+
+
+Asteroid Freighter
+rules_text: {T}: Tap target artifact or creature.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 10+] Flying, vigilance
+ => {T}: Tap target artifact or creature.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 10+] Flying, vigilance [5/5]
+
+special_text: {T}: Tap target artifact or creature.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 10+] Flying, vigilance
+ => {T}: Tap target artifact or creature.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 10+] Flying, vigilance [5/5]
+
+
+Cloudsifter Float
+rules_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 6+] Flying
+Whenever this Spacecraft attacks, another target creature you control has base power and toughness 6/6 until end of turn.
+ => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 6+] Flying
+Whenever this Spacecraft attacks, another target creature you control has base power and toughness 6/6 until end of turn. [6/6]
+
+special_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 6+] Flying
+Whenever this Spacecraft attacks, another target creature you control has base power and toughness 6/6 until end of turn.
+ => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 6+] Flying
+Whenever this Spacecraft attacks, another target creature you control has base power and toughness 6/6 until end of turn. [6/6]
+
+
+Cryosphere Trawler
+rules_text: Whenever this Spacecraft enters, tap target nonland permanent an opponent controls and put three stun counters on it.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 10+] Flying
+Other artifact creatures you control have flying.
+ => Whenever this Spacecraft enters, tap target nonland permanent an opponent controls and put three stun counters on it.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 10+] Flying
+Other artifact creatures you control have flying. [4/4]
+
+special_text: Whenever this Spacecraft enters, tap target nonland permanent an opponent controls and put three stun counters on it.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 10+] Flying
+Other artifact creatures you control have flying.
+ => Whenever this Spacecraft enters, tap target nonland permanent an opponent controls and put three stun counters on it.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 10+] Flying
+Other artifact creatures you control have flying. [4/4]
+
+
+Darkspace Shadow
+rules_text: When this Spacecraft enters, you may sacrifice a creature. If you do, put a number of charge counters equal to the sacrificed creature's power on this Spacecraft and draw two cards.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 7+] Flying, lifelink, deathtouch
+ => Whenever this Spacecraft enters, you may sacrifice a creature. If you do, put a number of charge counters equal to the sacrificed creature's power on this Spacecraft and draw two cards.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 7+] Flying, lifelink, deathtouch [3/3]
+
+special_text: When this Spacecraft enters, you may sacrifice a creature. If you do, put a number of charge counters equal to the sacrificed creature's power on this Spacecraft and draw two cards.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 7+] Flying, lifelink, deathtouch
+ => Whenever this Spacecraft enters, you may sacrifice a creature. If you do, put a number of charge counters equal to the sacrificed creature's power on this Spacecraft and draw two cards.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 7+] Flying, lifelink, deathtouch [3/3]
+
+
+Driftweld Column
+rules_text: Other artifact creatures you control get +1/+1.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 8+] Flying
+This Spacecraft gets +1/+1 for each artifact you control.
+ => Other artifact creatures you control get +1/+1.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 8+] Flying
+This Spacecraft gets +1/+1 for each artifact you control. [0/0]
+
+special_text: Other artifact creatures you control get +1/+1.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 8+] Flying
+This Spacecraft gets +1/+1 for each artifact you control.
+ => Other artifact creatures you control get +1/+1.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 8+] Flying
+This Spacecraft gets +1/+1 for each artifact you control. [0/0]
+
+
+Gilded Corvette
+rules_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 7+] Flying
+Whenever this Spacecraft attacks, return up to one target permanent card with mana value 3 or less from your graveyard to the battlefield.
+ => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 7+] Flying
+Whenever this Spacecraft attacks, return up to one target permanent card with mana value 3 or less from your graveyard to the battlefield. [4/4]
+
+special_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 7+] Flying
+Whenever this Spacecraft attacks, return up to one target permanent card with mana value 3 or less from your graveyard to the battlefield.
+ => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 7+] Flying
+Whenever this Spacecraft attacks, return up to one target permanent card with mana value 3 or less from your graveyard to the battlefield. [4/4]
+
+
+Inverter Dreadnought
+rules_text: When this Spacecraft enters, each opponent discards two cards and lose 2 life.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 9+] Flying
+Whenever this Spacecraft attacks, if defending player has one or fewer cards in hand, draw a card.
+ => When this Spacecraft enters, each opponent discards two cards and lose 2 life.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 9+] Flying
+Whenever this Spacecraft attacks, if defending player has one or fewer cards in hand, draw a card. [4/4]
+
+special_text: When this Spacecraft enters, each opponent discards two cards and lose 2 life.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 9+] Flying
+Whenever this Spacecraft attacks, if defending player has one or fewer cards in hand, draw a card.
+ => When this Spacecraft enters, each opponent discards two cards and lose 2 life.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 9+] Flying
+Whenever this Spacecraft attacks, if defending player has one or fewer cards in hand, draw a card. [4/4]
+
+
+Mesa Dunedancer
+rules_text: Flash
+When this Spacecraft enters, it deals 5 damage to up to one target tapped creature.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 5+] Flying
+ => Flash
+When this Spacecraft enters, it deals 5 damage to up to one target tapped creature.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 5+] Flying [3/3]
+
+special_text: Flash
+When this Spacecraft enters, it deals 5 damage to up to one target tapped creature.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 5+] Flying
+ => Flash
+When this Spacecraft enters, it deals 5 damage to up to one target tapped creature.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 5+] Flying [3/3]
+
+
+Orbital Cannon
+rules_text: When this Spacecraft enters, you may have it deal 2 damage to each creature.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 9+] Flying
+Whenever this Spacecraft attacks, it deals 2 damage to each opponent.
+ => When this Spacecraft enters, you may have it deal 2 damage to each creature.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 9+] Flying
+Whenever this Spacecraft attacks, it deals 2 damage to each opponent. [4/4]
+
+special_text: When this Spacecraft enters, you may have it deal 2 damage to each creature.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 9+] Flying
+Whenever this Spacecraft attacks, it deals 2 damage to each opponent.
+ => When this Spacecraft enters, you may have it deal 2 damage to each creature.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 9+] Flying
+Whenever this Spacecraft attacks, it deals 2 damage to each opponent. [4/4]
+
+
+Outer System Shuttle
+rules_text: When this Spacecraft enters, exile each opponent's graveyard.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 5+] Flying
+Whenever this Spacecraft attacks, exile up to two target cards from a single graveyard.
+ => When this Spacecraft enters, exile each opponent's graveyard.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 5+] Flying
+Whenever this Spacecraft attacks, exile up to two target cards from a single graveyard. [3/3]
+
+special_text: When this Spacecraft enters, exile each opponent's graveyard.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 5+] Flying
+Whenever this Spacecraft attacks, exile up to two target cards from a single graveyard.
+ => When this Spacecraft enters, exile each opponent's graveyard.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 5+] Flying
+Whenever this Spacecraft attacks, exile up to two target cards from a single graveyard. [3/3]
+
+
+Starscape Journeyer
+rules_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 4+] Flying, haste
+Whenever this Spacecraft attacks, create a Treasure token.
+ => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 4+] Flying, haste
+Whenever this Spacecraft attacks, create a Treasure token. [2/2]
+
+special_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 4+] Flying, haste
+Whenever this Spacecraft attacks, create a Treasure token.
+ => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 4+] Flying, haste
+Whenever this Spacecraft attacks, create a Treasure token. [2/2]
+
+
+Viridar Research Vessel
+rules_text: {T}: Add one mana of any color.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 5+] Flying
+Other artifacts and creatures you control have “{T}: Add one mana of any color.”
+ => {T}: Add one mana of any color.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 5+] Flying
+Other creatures you control have “{T}: Add one mana of any color.” [3/3]
+
+special_text: {T}: Add one mana of any color.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 5+] Flying
+Other artifacts and creatures you control have “{T}: Add one mana of any color.”
+ => {T}: Add one mana of any color.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 5+] Flying
+Other creatures you control have “{T}: Add one mana of any color.” [3/3]
+
+
+Brigand's Tanker
+rules_text: When this Spacecraft enters, it deals 4 damage to up to one target creature or planeswalker. Excess damage is dealt to that permanent's controller instead.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 8+] Flying
+If a source you control would deal damage to an opponent, you may have it deal damage equal to this Spacecraft's power instead.
+ => When this Spacecraft enters, it deals 4 damage to up to one target creature or planeswalker. Excess damage is dealt to that permanent's controller instead.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 8+] Flying
+If a source you control would deal damage to an opponent, you may have it deal damage equal to this Spacecraft's power instead. [5/4]
+
+special_text: When this Spacecraft enters, it deals 4 damage to up to one target creature or planeswalker. Excess damage is dealt to that permanent's controller instead.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 8+] Flying
+If a source you control would deal damage to an opponent, you may have it deal damage equal to this Spacecraft's power instead.
+ => When this Spacecraft enters, it deals 4 damage to up to one target creature or planeswalker. Excess damage is dealt to that permanent's controller instead.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 8+] Flying
+If a source you control would deal damage to an opponent, you may have it deal damage equal to this Spacecraft's power instead. [5/4]
+
+
+Chronicler's Probe
+rules_text: When this Spacecraft enters, draw a card.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 9+] Flying, vigilance
+Whenever you cast an artifact spell, tap up to one target creature and draw a card.
+ => When this Spacecraft enters, draw a card.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 9+] Flying, vigilance
+Whenever you cast an artifact spell, tap up to one target creature and draw a card. [4/4]
+
+special_text: When this Spacecraft enters, draw a card.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 9+] Flying, vigilance
+Whenever you cast an artifact spell, tap up to one target creature and draw a card.
+ => When this Spacecraft enters, draw a card.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 9+] Flying, vigilance
+Whenever you cast an artifact spell, tap up to one target creature and draw a card. [4/4]
+
+
+Drakkonfell, First Starkarve
+type: Legendary Artifact — Spacecraft => legendary Artifact — Spacecraft
+rules_text: When Drakkonfell enters, create a 2/1 red Berserker creature token with “This token can't block.”
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 6+] Flying, menace
+Whenever Drakkonfell attacks, you may search your library for a land card, put it onto the battlefield tapped, then shuffle.
+ => When Drakkonfell enters, create a 2/1 red Berserker creature token with “This token can't block.”
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 6+] Flying, menace
+Whenever Drakkonfell attacks, you may search your library for a land card, put it onto the battlefield tapped, then shuffle. [3/3]
+
+special_text: When Drakkonfell enters, create a 2/1 red Berserker creature token with “This token can't block.”
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 6+] Flying, menace
+Whenever Drakkonfell attacks, you may search your library for a land card, put it onto the battlefield tapped, then shuffle.
+ => When Drakkonfell enters, create a 2/1 red Berserker creature token with “This token can't block.”
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 6+] Flying, menace
+Whenever Drakkonfell attacks, you may search your library for a land card, put it onto the battlefield tapped, then shuffle. [3/3]
+
+
+Hive Sporespreader
+rules_text: If you would put one or more counters on a permanent, put twice that many of each of those kinds of counters on that permanent instead.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 16+] Flying, trample
+Whenever this Spacecraft attacks, create a 0/0 green Tentacle creature token, then put a +1/+1 counter on each Tentacle you control.
+ => If you would put one or more counters on a permanent, put twice that many of each of those kinds of counters on that permanent instead.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 16+] Flying, trample
+Whenever this Spacecraft attacks, create a 0/0 green Tentacle creature token, then put a +1/+1 counter on each Tentacle you control. [6/6]
+
+special_text: If you would put one or more counters on a permanent, put twice that many of each of those kinds of counters on that permanent instead.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 16+] Flying, trample
+Whenever this Spacecraft attacks, create a 0/0 green Tentacle creature token, then put a +1/+1 counter on each Tentacle you control.
+ => If you would put one or more counters on a permanent, put twice that many of each of those kinds of counters on that permanent instead.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 16+] Flying, trample
+Whenever this Spacecraft attacks, create a 0/0 green Tentacle creature token, then put a +1/+1 counter on each Tentacle you control. [6/6]
+
+
+Interdictor Skiff
+rules_text: When this Spacecraft enters, look at target opponent's hand. You may exile a nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 7+] Flying, lifelink
+Your opponents can't cast spells from anywhere other than their hands.
+ => When this Spacecraft enters, look at target opponent's hand. You may exile a nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 7+] Flying, lifelink
+Your opponents can't cast spells from anywhere other than their hands. [3/3]
+
+special_text: When this Spacecraft enters, look at target opponent's hand. You may exile a nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 7+] Flying, lifelink
+Your opponents can't cast spells from anywhere other than their hands.
+ => When this Spacecraft enters, look at target opponent's hand. You may exile a nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 7+] Flying, lifelink
+Your opponents can't cast spells from anywhere other than their hands. [3/3]
+
+
+Orrhion, Survey Medusae
+rules_text: At the beginning of your upkeep, give any number of permanents with counters on them another counter of each kind already there.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 8+] Flying, trample
+ => At the beginning of your upkeep, give any number of permanents with counters on them another counter of each kind already there.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 8+] Flying, trample [8/8]
+
+special_text: At the beginning of your upkeep, give any number of permanents with counters on them another counter of each kind already there.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 8+] Flying, trample
+ => At the beginning of your upkeep, give any number of permanents with counters on them another counter of each kind already there.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 8+] Flying, trample [8/8]
+
+
+Sun-Eater Nautiloid
+rules_text: Whenever this Spacecraft enters or attacks, each opponent exiles a nontoken creature they control.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 7+] Flying
+At the beginning of your end step, if a player controls no creatures, sacrifice this Spacecraft, then put a creature card exiled with it onto the battlefield under your control.
+ => Whenever this Spacecraft enters or attacks, each opponent exiles a nontoken creature they control.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 7+] Flying
+At the beginning of your end step, if a player controls no creatures, sacrifice this Spacecraft, then put a creature card exiled with it onto the battlefield under your control. [4/4]
+
+special_text: Whenever this Spacecraft enters or attacks, each opponent exiles a nontoken creature they control.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 7+] Flying
+At the beginning of your end step, if a player controls no creatures, sacrifice this Spacecraft, then put a creature card exiled with it onto the battlefield under your control.
+ => Whenever this Spacecraft enters or attacks, each opponent exiles a nontoken creature they control.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 7+] Flying
+At the beginning of your end step, if a player controls no creatures, sacrifice this Spacecraft, then put a creature card exiled with it onto the battlefield under your control. [4/4]
+
+
+The Astral Basilica
+rules_text: When The Astral Basilica enters, exile each nonland, nonartifact permanent with mana value less than the number of artifacts you control. 
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 20+] Flying, indestructible
+Whenever The Astral Basilica attacks, exile all but the bottom card of defending player's library.
+ => When The Astral Basilica enters, exile each nonland, nonartifact permanent with mana value less than the number of artifacts you control. 
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 20+] Flying, indestructible
+Whenever The Astral Basilica attacks, exile all but the bottom card of defending player's library. [20/20]
+
+special_text: When The Astral Basilica enters, exile each nonland, nonartifact permanent with mana value less than the number of artifacts you control. 
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 20+] Flying, indestructible
+Whenever The Astral Basilica attacks, exile all but the bottom card of defending player's library.
+ => When The Astral Basilica enters, exile each nonland, nonartifact permanent with mana value less than the number of artifacts you control. 
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 20+] Flying, indestructible
+Whenever The Astral Basilica attacks, exile all but the bottom card of defending player's library. [20/20]
+
+
+Lightless, Star of Oblivion
+rules_text: When Lightless enters, exile target nonland permanent an opponent controls. Its controller loses 3 life.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 12+] Flying
+Whenever Lightless attacks, gain control of up to three target lands defending player controls. Then you may have that player's life total become equal to the number of lands they control.
+ => When Lightless enters, exile target nonland permanent an opponent controls. Its controller loses 3 life.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 12+] Flying
+Whenever Lightless attacks, gain control of up to three target lands defending player controls. Then you may have that player's life total become equal to the number of lands they control. [6/12]
+
+special_text: When Lightless enters, exile target nonland permanent an opponent controls. Its controller loses 3 life.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[ 12+] Flying
+Whenever Lightless attacks, gain control of up to three target lands defending player controls. Then you may have that player's life total become equal to the number of lands they control.
+ => When Lightless enters, exile target nonland permanent an opponent controls. Its controller loses 3 life.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 12+] Flying
+Whenever Lightless attacks, gain control of up to three target lands defending player controls. Then you may have that player's life total become equal to the number of lands they control. [6/12]
+
+
+
+VERSION 14 CHANGELOG
 ====================
 
 

@@ -1,4 +1,71 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+
+
+Chronicler of Irregularities
+rules_text: Flying
+Artifact spells you cast cost {1} less to cast.
+Exhaust — {4}{U}{U}: Draw cards equal to the greatest mana value among artifacts you control. [i](Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i] => Flying
+Artifact spells you cast cost {1} less to cast.
+Exhaust — {4}{U}{U}: Draw cards equal to the greatest mana value among artifacts you control. [i](Activate each exhaust ability only once.)[/i]
+
+Hired Protector
+rules_text: Whenever one or more creatures you control with counters on them attack, tap target creature an opponent controls.
+Exhaust — {4}: Put a +1/+1 counter on this creature. Create a 1/1 blue Pilot creature token. [i](Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i] => Whenever one or more creatures you control with counters on them attack, tap target creature an opponent controls.
+Exhaust — {4}: Put a +1/+1 counter on this creature. Create a 1/1 blue Pilot creature token. [i](Activate each exhaust ability only once.)[/i]
+
+Nullforged Automaton
+rules_text: Menace
+When this creature enters, choose an artifact or creature card with mana value 1 in your graveyard, then do the same for artifact or creature cards with mana value 2 and 3. Return those cards to the battlefield. => When this creature enters, choose an artifact or creature card with mana value 1 in your graveyard, then do the same for artifact or creature cards with mana value 2 and 3. Return those cards to the battlefield.
+{B}, Discard this card: Remove three counters from target permanent or target exiled card in orbit.
+
+Heavencraft Valkyrie
+rules_text: Flying
+{T}: Add one mana of any color.
+Exhaust — {6}: Put a vigilance counter on this creature. Its base power and toughness become 4/4. [i](This effect lasts indefinitely. Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i] => Flying
+{T}: Add one mana of any color.
+Exhaust — {6}: Put a vigilance counter on this creature. Its base power and toughness become 4/4. [i](Activate each exhaust ability only once.)[/i]
+
+Narve, Lord of the Wastes
+rules_text: Whenever another creature you control enters, each opponent loses 1 life and you gain 1 life. If that creature is a token, instead each opponent loses X life and you gain X life, where X is that token's power.
+Exhaust — {3}{R}{W}{B}: Create a 4/4 colorless Dragon artifact creature token with flying. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i] => Whenever another creature you control enters, each opponent loses 1 life and you gain 1 life. If that creature is a token, instead each opponent loses X life and you gain X life, where X is that token's power.
+Exhaust — {3}{R}{W}{B}: Create a 4/4 colorless Dragon artifact creature token with flying. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i]
+
+Portal Conservator
+rules_text: Flying
+Exhaust — {1}{U}: Put a +1/+1 counter on each artifact creature you control. [i](Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i]
+Exhaust — {3}{U}: Put a +1/+1 counter on each artifact creature you control. [i](Activate each exhaust ability only once.)[/i]
+Exhaust — {5}{U}: Put a +1/+1 counter on each artifact creature you control. [i](Activate each exhaust ability only once.)[/i] => Flying
+Exhaust — {1}{U}: Put a +1/+1 counter on each artifact creature you control. [i](Activate each exhaust ability only once.)[/i]
+Exhaust — {3}{U}: Put a +1/+1 counter on each artifact creature you control.
+Exhaust — {5}{U}: Put a +1/+1 counter on each artifact creature you control.
+
+Steelframe Viridar
+rules_text: Exhaust — {2}{W}: Create a 0/0 colorless Avatar artifact creature token with “This creature gets +1/+1 for each artifact you control.” Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i] => Exhaust — {2}{W}: Create a 0/0 colorless Avatar artifact creature token with “This creature gets +1/+1 for each artifact you control.” Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i]
+
+Mesa Dunedancer
+rules_text: Flash
+When this Spacecraft enters, it deals 5 damage to up to one target tapped creature.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 5+] Flying [3/3]
+ => Flash
+When this Spacecraft enters, it deals 3 damage to up to one target tapped creature.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 5+] Flying [3/3]
+
+special_text: Flash
+When this Spacecraft enters, it deals 5 damage to up to one target tapped creature.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 5+] Flying [3/3]
+ => Flash
+When this Spacecraft enters, it deals 3 damage to up to one target tapped creature.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 5+] Flying [3/3]
+
+
+
+VERSION 15 CHANGELOG
 ====================
 
 

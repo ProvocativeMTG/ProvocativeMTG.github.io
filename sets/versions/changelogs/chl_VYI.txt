@@ -1,4 +1,27 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+
+
+Brightheart Serpent
+
+Parasite Incubation
+
+Ancestral Mageflame
+cost: {R} => {1}{R}
+
+Protostar Tender
+
+Stardust Explorer
+
+Domesticated Voidbeast
+
+Worldspan Treader
+
+Rusted Moontrotter
+
+
+VERSION 17 CHANGELOG
 ====================
 
 

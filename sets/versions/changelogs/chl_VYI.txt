@@ -1,4 +1,120 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 20 CHANGELOG
+====================
+
+Starsent Voltwing added.
+
+Prophetic Prism removed.
+
+Cosmic Heart
+cost: {4} => {2}
+rules_text: Once during each of your turns, you may cast a spell with mana value X or less from your hand without paying its mana cost, where X is your expanse. [i](Each differently named land you control adds to your expanse.)[/i] => When this artifact enters, draw a card.
+{1}, {T}: Add one mana of any color.
+
+Eternal Mekkastruct
+
+
+VERSION 19 CHANGELOG
+====================
+
+Tentacle added.
+Fall for All Eternity added.
+Welkin Stampede added.
+Zombie added.
+Treasure added.
+Keen Sense added.
+Elemental added.
+Everywhere added.
+Avatar added.
+Horror added.
+Meteorite added.
+Dragon added.
+
+Plant removed.
+Fall Forever removed.
+Creation Redoubled removed.
+
+Null Knight
+rules_text: Deathtouch
+If an opponent would lose 1 or 2 life, they lose 3 life instead. [i](Damage causes loss of life.)[/i] => Deathtouch
+If an opponent would lose exactly 1 life, they lose 3 life instead. [i](Damage causes loss of life. Multiple creatures with 1 power dealing combat damage to a player will not be affected by this.)[/i]
+
+Collapsed Ring
+rules_text: {2}, {T}, Sacrifice this land: Destroy target nonbasic land an opponent controls. That land's controller may search their library for a basic land card, put it onto the battlefield, then shuffle. You may search your library for a basic land card, put it onto the battlefield, then shuffle. => {T}: Add {C}.
+{2}, {T}, Sacrifice this land: Destroy target nonbasic land an opponent controls. That land's controller may search their library for a basic land card, put it onto the battlefield, then shuffle. You may search your library for a basic land card, put it onto the battlefield, then shuffle.
+
+Esmund, Shard of Nebula
+rules_text: Indestructible
+Esmund can't attack or block unless a player's library has forty or fewer cards in it.
+At the beginning of each end step, choose up to one card in your graveyard that was put there from your hand this turn and up to one card in your graveyard that was put there from your library this turn. Return those cards to your hand. => Indestructible
+Esmund can't attack or block unless a player's library has fewer cards in it than half the starting deck size.
+At the beginning of each end step, choose up to one card in your graveyard that was put there from your hand this turn and up to one card in your graveyard that was put there from your library this turn. Return those cards to your hand.
+
+Oda, Shard of Abyss
+
+Parasite Incubation
+rules_text: Enchant creature
+[i]Landfall[/i] — Whenever a land you control enters, put a parasite counter on this Aura. Then destroy enchanted creature if this Aura has four or more parasite counters on it.
+When enchanted creature dies, create X 1/1 green Insect creature tokens, where X is the number of parasite counters on this Aura. => Enchant creature
+[i]Landfall[/i] — Whenever a land you control enters, put a parasite counter on this Aura. Then destroy enchanted creature if this Aura has four or more parasite counters on it.
+When enchanted creature dies, create X 1/1 black Zombie creature tokens, where X is the number of parasite counters on this Aura.
+
+Staunch Sentinel
+rules_text: Vigilance
+Whenever this creature becomes tapped, if it isn't attacking, put a +1/+1 counter on it. => Vigilance
+Whenever this creature becomes tapped, put a +1/+1 counter on it.
+
+Angel
+type: Token Creature — Angel => Token Artifact Creature — Angel
+
+Command Reality
+rules_text: Draw a card.
+As long as your expanse is five or greater, this card has flashback {1}{U}. [i](Each differently named land you control adds to your expanse.)[/i] => Draw a card.
+As long as your expanse is five or greater and this card is in your graveyard, it has flashback {1}{U}. [i](Each differently named land you control adds to your expanse.)[/i]
+
+Pulsar Prophet
+rules_text: Flying
+At the beginning of your end step, if you gained 3 or more life this turn, create a 3/3 white Angel creature token with flying. => Flying
+At the beginning of your end step, if you gained 3 or more life this turn, create a 3/3 white Angel artifact creature token with flying.
+
+Leif, Hero of Valdrasil
+rules_text: Haste
+Other Berserkers, Knights, Soldiers, and Warriors you control have haste.
+At the beginning of combat on your turn, for each land you control that entered this turn that doesn't share a name with another land you control, create a 2/1 red Berserker creature token with “This token can't block.” => Other Berserkers, Knights, Soldiers, and Warriors you control have haste.
+At the beginning of combat on your turn, for each land you control that entered this turn that doesn't share a name with another land you control, create a 2/1 red Berserker creature token with “This token can't block.”
+
+Eternal Mekkastruct
+
+Robot
+pt:  => 2/2
+
+Elevated by the Gods
+cost: {R}{W} => {1}{R}{W}
+rules_text: When this enchantment enters, create a tapped 4/4 white Demigod creature token with two stun counters on it.
+Whenever a creature you control enters, this enchantment deals 1 damage to each opponent and you gain 1 life. => When this enchantment enters, create a tapped 4/4 white Demigod creature token with two stun counters on it, then untap each creature you control.
+Whenever a creature you control enters, this enchantment deals 1 damage to each opponent and you gain 1 life.
+
+Inverter Dreadnought
+rules_text: When this Spacecraft enters, each opponent discards two cards and lose 2 life.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 9+] Flying
+Whenever this Spacecraft attacks, if defending player has one or fewer cards in hand, draw a card. [4/4]
+ => When this Spacecraft enters, if it was cast, each opponent discards two cards and lose 2 life.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 9+] Flying
+Whenever this Spacecraft attacks, if defending player has one or fewer cards in hand, draw a card. [4/4]
+
+special_text: When this Spacecraft enters, each opponent discards two cards and lose 2 life.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 9+] Flying
+Whenever this Spacecraft attacks, if defending player has one or fewer cards in hand, draw a card. [4/4]
+ => When this Spacecraft enters, if it was cast, each opponent discards two cards and lose 2 life.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 9+] Flying
+Whenever this Spacecraft attacks, if defending player has one or fewer cards in hand, draw a card. [4/4]
+
+
+
+VERSION 18 CHANGELOG
 ====================
 
 

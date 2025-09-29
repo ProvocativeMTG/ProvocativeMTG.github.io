@@ -72,9 +72,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Instant",
-			"collector_number": "17",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/17_Go Forth and Slaughter.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/16_Go Forth and Slaughter.png"
 			}
 		},
 		{
@@ -195,16 +195,6 @@
 			}
 		},
 		{
-			"name": "Cosmic Heart",
-			"rarity": "rare",
-			"mana_cost": "{4}",
-			"type": "Artifact",
-			"collector_number": "262",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/262_Cosmic Heart.png"
-			}
-		},
-		{
 			"name": "Oda, Shard of Abyss",
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}",
@@ -226,16 +216,16 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — God",
-			"collector_number": "14",
+			"collector_number": "13",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/14_Friede, Shard of Light_back.png"
+					"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/13_Friede, Shard of Light_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/14_Friede, Shard of Light_front.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/13_Friede, Shard of Light_front.png"
 			}
 		},
 		{
@@ -544,13 +534,13 @@
 			}
 		},
 		{
-			"name": "Plant",
+			"name": "Tentacle",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Plant",
-			"collector_number": "7",
+			"type": "Token Creature — Tentacle",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/7_Plant.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/11_Tentacle.png"
 			}
 		},
 		{
@@ -828,13 +818,13 @@
 			}
 		},
 		{
-			"name": "Prophetic Prism",
+			"name": "Cosmic Heart",
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "274",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/274_Prophetic Prism.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/262_Cosmic Heart.png"
 			}
 		},
 		{
@@ -929,9 +919,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact Creature — Robot Knight",
-			"collector_number": "34",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/34_Staunch Sentinel.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/33_Staunch Sentinel.png"
 			}
 		},
 		{
@@ -988,7 +978,7 @@
 			"name": "Angel",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Angel",
+			"type": "Token Artifact Creature — Angel",
 			"collector_number": "2",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/2_Angel.png"
@@ -1019,9 +1009,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "24",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/24_Into the Singularity.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/23_Into the Singularity.png"
 			}
 		},
 		{
@@ -1035,13 +1025,13 @@
 			}
 		},
 		{
-			"name": "Fall Forever",
+			"name": "Fall for All Eternity",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/98_Fall Forever.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/98_Fall for All Eternity.png"
 			}
 		},
 		{
@@ -1059,9 +1049,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Spirit Elk",
-			"collector_number": "8",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/8_Spirit Elk.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/10_Spirit Elk.png"
 			}
 		},
 		{
@@ -1139,9 +1129,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Artifact Creature — Avatar",
-			"collector_number": "29",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/29_Mysterious Chronicler.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/28_Mysterious Chronicler.png"
 			}
 		},
 		{
@@ -1159,9 +1149,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Angel",
-			"collector_number": "18",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/18_Guiding Seraph.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/17_Guiding Seraph.png"
 			}
 		},
 		{
@@ -1169,9 +1159,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Drake",
-			"collector_number": "36",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/36_Sunshadow Drake.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/35_Sunshadow Drake.png"
 			}
 		},
 		{
@@ -1209,9 +1199,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Berserker",
-			"collector_number": "6",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/6_Berserker.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/8_Berserker.png"
 			}
 		},
 		{
@@ -1249,9 +1239,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Angel Berserker",
-			"collector_number": "41",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/41_Valkyrie of Shared Dawn.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/40_Valkyrie of Shared Dawn.png"
 			}
 		},
 		{
@@ -1319,9 +1309,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact Creature — Vampire Cyborg",
-			"collector_number": "39",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/39_Unsettling Traveler.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/38_Unsettling Traveler.png"
 			}
 		},
 		{
@@ -1339,9 +1329,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact",
-			"collector_number": "38",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/38_System Cage.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/37_System Cage.png"
 			}
 		},
 		{
@@ -1349,9 +1339,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "9",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/9_Echoed Vanguard.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/8_Echoed Vanguard.png"
 			}
 		},
 		{
@@ -1369,9 +1359,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Dog",
-			"collector_number": "32",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/32_Rocket-Powered Canine.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/31_Rocket-Powered Canine.png"
 			}
 		},
 		{
@@ -1379,9 +1369,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Pilot",
-			"collector_number": "23",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/23_Intergalactic Security.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/22_Intergalactic Security.png"
 			}
 		},
 		{
@@ -1409,9 +1399,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "30",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/30_Nova Blast.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/29_Nova Blast.png"
 			}
 		},
 		{
@@ -1456,9 +1446,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "19",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/19_Hired Protector.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/18_Hired Protector.png"
 			}
 		},
 		{
@@ -1466,9 +1456,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Artifact Creature — Cyborg Berserker",
-			"collector_number": "28",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/28_Modified Shieldmaiden.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/27_Modified Shieldmaiden.png"
 			}
 		},
 		{
@@ -1526,16 +1516,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Artifact Creature — Angel Warlock",
-			"collector_number": "31",
+			"collector_number": "30",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/31_Pulsar Prophet_back.png"
+					"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/30_Pulsar Prophet_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/31_Pulsar Prophet_front.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/30_Pulsar Prophet_front.png"
 			}
 		},
 		{
@@ -1553,9 +1543,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "25",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/25_It Takes Two.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/24_It Takes Two.png"
 			}
 		},
 		{
@@ -1583,9 +1573,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact Creature — Spirit Cyborg",
-			"collector_number": "7",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/7_Cybertouched Spirit.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/6_Cybertouched Spirit.png"
 			}
 		},
 		{
@@ -1593,9 +1583,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "10",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/10_Ecliptic Harbinger.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/9_Ecliptic Harbinger.png"
 			}
 		},
 		{
@@ -1643,9 +1633,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Sorcery",
-			"collector_number": "8",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/8_Drop Through Reality.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/7_Drop Through Reality.png"
 			}
 		},
 		{
@@ -1713,9 +1703,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "37",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/37_Supernova.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/36_Supernova.png"
 			}
 		},
 		{
@@ -1820,9 +1810,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "12",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/12_Event Horizon.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/11_Event Horizon.png"
 			}
 		},
 		{
@@ -2261,9 +2251,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Artifact Creature — Robot",
-			"collector_number": "26",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/26_Luminary Weaver.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/25_Luminary Weaver.png"
 			}
 		},
 		{
@@ -2378,19 +2368,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "21",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/21_In the Wake of Gods.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/20_In the Wake of Gods.png"
 			}
 		},
 		{
-			"name": "Creation Redoubled",
+			"name": "Welkin Stampede",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
-			"collector_number": "6",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/6_Creation Redoubled.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/42_Welkin Stampede.png"
 			}
 		},
 		{
@@ -2458,16 +2448,16 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "Artifact Creature — Robot",
-			"collector_number": "33",
+			"collector_number": "32",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/33_Rusted Moontrotter_back.png"
+					"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/32_Rusted Moontrotter_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/33_Rusted Moontrotter_front.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/32_Rusted Moontrotter_front.png"
 			}
 		},
 		{
@@ -2485,9 +2475,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human Pilot",
-			"collector_number": "11",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/11_Elin, Beyond the Horizon.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/10_Elin, Beyond the Horizon.png"
 			}
 		},
 		{
@@ -2572,9 +2562,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Human Scout",
-			"collector_number": "42",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/42_Vallaheart Rescuer.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/41_Vallaheart Rescuer.png"
 			}
 		},
 		{
@@ -2592,9 +2582,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "15",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/15_Friede's Purifier.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/14_Friede's Purifier.png"
 			}
 		},
 		{
@@ -2602,9 +2592,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Robot",
-			"collector_number": "9",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/9_Robot.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/16_Robot.png"
 			}
 		},
 		{
@@ -2659,9 +2649,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Artifact Creature — Viridar Cyborg",
-			"collector_number": "35",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/35_Steelframe Viridar.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/34_Steelframe Viridar.png"
 			}
 		},
 		{
@@ -2669,9 +2659,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact",
-			"collector_number": "40",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/40_Upload Capsule.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/39_Upload Capsule.png"
 			}
 		},
 		{
@@ -2679,9 +2669,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "20",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/20_IGF Enforcer.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/19_IGF Enforcer.png"
 			}
 		},
 		{
@@ -2774,7 +2764,7 @@
 		{
 			"name": "Elevated by the Gods",
 			"rarity": "rare",
-			"mana_cost": "{R}{W}",
+			"mana_cost": "{1}{R}{W}",
 			"type": "Enchantment",
 			"collector_number": "219",
 			"image_uris": {
@@ -2870,9 +2860,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "13",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/13_Faraway Worlds Await.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/12_Faraway Worlds Await.png"
 			}
 		},
 		{
@@ -3110,9 +3100,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Artifact — Spacecraft",
-			"collector_number": "16",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/16_Gilded Corvette.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/15_Gilded Corvette.png"
 			}
 		},
 		{
@@ -3130,9 +3120,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Spacecraft",
-			"collector_number": "27",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/27_Mesa Dunedancer.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/26_Mesa Dunedancer.png"
 			}
 		},
 		{
@@ -3220,9 +3210,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Spacecraft",
-			"collector_number": "22",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/22_Interdictor Skiff.png"
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/21_Interdictor Skiff.png"
 			}
 		},
 		{
@@ -3264,6 +3254,106 @@
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/270_Lightless, Star of Oblivion.png"
 			}
+		},
+		{
+			"name": "Zombie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/7_Zombie.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/17_Treasure.png"
+			}
+		},
+		{
+			"name": "Keen Sense",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/9_Keen Sense.png"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/12_Elemental.png"
+			}
+		},
+		{
+			"name": "Everywhere",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land Token",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/18_Everywhere.png"
+			}
+		},
+		{
+			"name": "Avatar",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Avatar",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/13_Avatar.png"
+			}
+		},
+		{
+			"name": "Horror",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Horror",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/6_Horror.png"
+			}
+		},
+		{
+			"name": "Meteorite",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/15_Meteorite.png"
+			}
+		},
+		{
+			"name": "Dragon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Dragon",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/14_Dragon.png"
+			}
+		},
+		{
+			"name": "Starsent Voltwing",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Dragon",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/274_Starsent Voltwing.png"
+			}
 		}
 	]
 
@@ -3272,7 +3362,6 @@
 	2 Null Knight
 	2 Terraformer Archengine
 	1 Esmund, Shard of Nebula
-	2 Cosmic Heart
 	1 Oda, Shard of Abyss
 	1 Friede, Shard of Light
 	1 Vjala, Shard of Creation
@@ -3312,7 +3401,7 @@
 	2 Quasar Tyrant
 	2 Eir, Voidtwisted Valkyrie
 	1 Aeon
-	2 Fall Forever
+	2 Fall for All Eternity
 	1 Zaender, Anomaly Analyst
 	2 Quintessence Division
 	1 Varassi, Firstborn of Aeon
@@ -3342,7 +3431,7 @@
 	2 Asbjal, Startouched
 	2 Xrogg, Star's Shadow
 	2 Shiruun, Evolved One
-	2 Creation Redoubled
+	2 Welkin Stampede
 	1 Icareum, Perfected Mind
 	2 Rusted Moontrotter
 	2 Onemind, Eye of Discovery
@@ -3374,6 +3463,7 @@
 	2 Sun-Eater Nautiloid
 	2 The Astral Basilica
 	1 Lightless, Star of Oblivion
+	2 Starsent Voltwing
 [uncommon(3)]
 	4 Kjaldiran Battlewolves
 	4 Stalwart Spear
@@ -3489,7 +3579,7 @@
 	8 Shield Surfer
 	8 Zero Gravity Maneuver
 	8 Drifting Among Regrets
-	8 Prophetic Prism
+	8 Cosmic Heart
 	8 Starscape Shift
 	8 Repair Mech
 	8 Ventilate
@@ -3584,7 +3674,6 @@
 	6 Unstoppable Remnant
 	1 Esmund, Shard of Nebula
 	12 Void Potentate
-	2 Cosmic Heart
 	1 Oda, Shard of Abyss
 	1 Friede, Shard of Light
 	1 Vjala, Shard of Creation
@@ -3639,7 +3728,7 @@
 	2 Voidsent Ghoul
 	12 Drifting Among Regrets
 	2 Protostar Tender
-	12 Prophetic Prism
+	12 Cosmic Heart
 	6 Excavator Spider
 	6 Stardust Explorer
 	12 Starscape Shift
@@ -3657,7 +3746,7 @@
 	1 Aeon
 	6 Into the Singularity
 	6 Viridar Corpsehulk
-	2 Fall Forever
+	2 Fall for All Eternity
 	1 Zaender, Anomaly Analyst
 	6 Last Audience
 	12 Tectonic Megapod
@@ -3779,7 +3868,7 @@
 	2 Shiruun, Evolved One
 	6 Monument of Waning Faith
 	6 In the Wake of Gods
-	2 Creation Redoubled
+	2 Welkin Stampede
 	6 Touch the Infinite
 	6 Portal Conservator
 	6 Vallacore Vanguard
@@ -3861,6 +3950,7 @@
 	2 Sun-Eater Nautiloid
 	2 The Astral Basilica
 	1 Lightless, Star of Oblivion
+	2 Starsent Voltwing
 [wildcard(1)]
 	7 Drakkonic Mekkastruct
 	15 Kjaldiran Battlewolves
@@ -3880,7 +3970,6 @@
 	15 Unstoppable Remnant
 	4 Esmund, Shard of Nebula
 	6 Void Potentate
-	7 Cosmic Heart
 	4 Oda, Shard of Abyss
 	4 Friede, Shard of Light
 	4 Vjala, Shard of Creation
@@ -3935,7 +4024,7 @@
 	7 Voidsent Ghoul
 	6 Drifting Among Regrets
 	7 Protostar Tender
-	6 Prophetic Prism
+	6 Cosmic Heart
 	15 Excavator Spider
 	15 Stardust Explorer
 	6 Starscape Shift
@@ -3953,7 +4042,7 @@
 	4 Aeon
 	15 Into the Singularity
 	15 Viridar Corpsehulk
-	7 Fall Forever
+	7 Fall for All Eternity
 	4 Zaender, Anomaly Analyst
 	15 Last Audience
 	6 Tectonic Megapod
@@ -4075,7 +4164,7 @@
 	7 Shiruun, Evolved One
 	15 Monument of Waning Faith
 	15 In the Wake of Gods
-	7 Creation Redoubled
+	7 Welkin Stampede
 	15 Touch the Infinite
 	15 Portal Conservator
 	15 Vallacore Vanguard
@@ -4157,3 +4246,4 @@
 	7 Sun-Eater Nautiloid
 	7 The Astral Basilica
 	4 Lightless, Star of Oblivion
+	7 Starsent Voltwing

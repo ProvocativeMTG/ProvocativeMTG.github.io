@@ -1,4 +1,46 @@
-﻿VERSION 20 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+
+
+Esmund, Shard of Nebula
+rules_text: Indestructible
+Esmund can't attack or block unless a player's library has fewer cards in it than half the starting deck size.
+At the beginning of each end step, choose up to one card in your graveyard that was put there from your hand this turn and up to one card in your graveyard that was put there from your library this turn. Return those cards to your hand. => Indestructible
+Esmund can't attack or block unless your library has fewer cards in it than half the minimum deck size.
+Whenever one or more creatures you control deal combat damage to a player, choose up to one target card in your graveyard that was discarded or put there from a library this turn. Return that card to your hand.
+
+Xenobotanist
+rules_text: {T}: Add {G}.
+{T}: Add {G}{G}{G}. You can't spend this mana to cast your first, second, or third spell each turn. => {T}: Add {G}.
+{T}: Add {G}{G}{G}. Activate only if you've cast three or more spells this turn.
+pt: 0/2 => 0/1
+
+Herald of Nothing
+cost: {B} => {1}{B}
+rules_text: Whenever another artifact or creature you control dies, each opponent loses 1 life. => Whenever an artifact or creature you control dies, each opponent loses 2 life. This ability triggers only once each turn.
+pt: 1/1 => 2/2
+
+Prince Bronwyn, the Fair
+cost: {W}{B} => {2}{W}{B}
+pt: 2/2 => 4/4
+
+Welkin Stampede
+
+Star Sentinel Xylo
+rules_text: [+1]: Exile up to one target creature you own. Put two charge counters on it. It gains orbit. [i](Once during each of your turns, you may cast a copy of this card without paying its mana cost by removing a charge counter from it.)[/i]
+[0]: Whenever you cast a spell this turn, you draw a card and gain 1 life.
+[-3]: Exile target creature you don't own. => [+1]: Exile up to one target creature you own. Put two charge counters on it. It gains orbit. [i](Once during each of your turns, you may cast a copy of that card without paying its mana cost by removing a charge counter from it.)[/i]
+[0]: Whenever you cast a spell this turn, you draw a card and gain 1 life.
+[-3]: Exile target creature you don't own.
+special_text: [+1]: Exile up to one target creature you own. Put two charge counters on it. It gains orbit. [i](Once during each of your turns, you may cast a copy of this card without paying its mana cost by removing a charge counter from it.)[/i]
+[0]: Whenever you cast a spell this turn, you draw a card and gain 1 life.
+[-3]: Exile target creature you don't own. => [+1]: Exile up to one target creature you own. Put two charge counters on it. It gains orbit. [i](Once during each of your turns, you may cast a copy of that card without paying its mana cost by removing a charge counter from it.)[/i]
+[0]: Whenever you cast a spell this turn, you draw a card and gain 1 life.
+[-3]: Exile target creature you don't own.
+
+
+VERSION 20 CHANGELOG
 ====================
 
 Starsent Voltwing added.

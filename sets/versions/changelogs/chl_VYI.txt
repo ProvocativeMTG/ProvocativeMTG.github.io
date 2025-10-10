@@ -1,4 +1,38 @@
-﻿VERSION 22 CHANGELOG
+﻿VERSION 23 CHANGELOG
+====================
+
+Kaia, Shard of Abyss added.
+
+Oda, Shard of Abyss removed.
+
+Esmund, Shard of Nebula
+cost: {1}{U} => {2}{U}
+pt: 4/6 => 3/5
+
+Friede, Shard of Light
+pt: 4/4 => 4/3
+
+Garden of Evolution
+
+Captain Elai
+
+Migrating Cetacean
+
+Ancestral Mageflame
+rules_text: Whenever a source you control deals noncombat damage to a player, you may exile that many cards from the top of your library.
+Once during each of your turns, you may play a card exiled with this enchantment this turn. => Whenever a source you control deals noncombat damage to a player, you may exile that many cards from the top of your library.
+Once during each of your turns, you may play a card exiled with this enchantment if it was exiled this turn.
+
+Voidbeast's Fury
+
+Monument of Waning Faith
+
+Nullforged Executioner
+
+Storm Count
+
+
+VERSION 22 CHANGELOG
 ====================
 
 In Orbit added.

@@ -14,8 +14,8 @@
         "position": "16"
     },
     {
-        "card_name": "Oda, Shard of Abyss",
-        "number": 113,
+        "card_name": "Kaia, Shard of Abyss",
+        "number": 106,
         "shape": "modal double faced",
         "set": "VYI",
         "position": "18"
@@ -260,7 +260,7 @@
     },
     {
         "card_name": "Mangled Atrocity",
-        "number": 108,
+        "number": 109,
         "shape": "normal",
         "set": "VYI",
         "position": "169"
@@ -295,7 +295,7 @@
     },
     {
         "card_name": "Mechanized Propagator",
-        "number": 109,
+        "number": 110,
         "shape": "normal",
         "set": "VYI",
         "position": "69"
@@ -330,7 +330,7 @@
     },
     {
         "card_name": "Null Knight",
-        "number": 110,
+        "number": 111,
         "shape": "normal",
         "set": "VYI",
         "position": "2"
@@ -750,7 +750,7 @@
     },
     {
         "card_name": "Lauded Imperator",
-        "number": 107,
+        "number": 108,
         "shape": "normal",
         "set": "VYI",
         "position": "245"
@@ -785,7 +785,7 @@
     },
     {
         "card_name": "Nullforged Automaton",
-        "number": 111,
+        "number": 112,
         "shape": "normal",
         "set": "VYI",
         "position": "180"
@@ -1205,7 +1205,7 @@
     },
     {
         "card_name": "Kjaldiran Lookout",
-        "number": 106,
+        "number": 107,
         "shape": "normal",
         "set": "VYI",
         "position": "13"
@@ -1240,7 +1240,7 @@
     },
     {
         "card_name": "Oblivion Monarch",
-        "number": 112,
+        "number": 113,
         "shape": "normal",
         "set": "VYI",
         "position": "194"

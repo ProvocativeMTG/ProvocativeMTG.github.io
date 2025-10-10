@@ -32,7 +32,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Avatar Knight",
-			"collector_number": "110",
+			"collector_number": "111",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/2.png"
 			}
@@ -142,7 +142,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Scout",
-			"collector_number": "106",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/13.png"
 			}
@@ -170,7 +170,7 @@
 		{
 			"name": "Esmund, Shard of Nebula",
 			"rarity": "mythic",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — God",
 			"collector_number": "54",
 			"back": {
@@ -195,11 +195,11 @@
 			}
 		},
 		{
-			"name": "Oda, Shard of Abyss",
+			"name": "Kaia, Shard of Abyss",
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — God",
-			"collector_number": "113",
+			"collector_number": "106",
 			"back": {
 				"name": "",
 				"type": "",
@@ -765,7 +765,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Artifact Creature — Insect Robot",
-			"collector_number": "109",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/69.png"
 			}
@@ -1800,7 +1800,7 @@
 			"rarity": "rare",
 			"mana_cost": "{6}{B}{B}",
 			"type": "Creature — Dragon Horror",
-			"collector_number": "108",
+			"collector_number": "109",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/169.png"
 			}
@@ -1917,7 +1917,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{B}",
 			"type": "Artifact Creature — Robot",
-			"collector_number": "111",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/180.png"
 			}
@@ -2071,7 +2071,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}{B}",
 			"type": "Creature — Dragon",
-			"collector_number": "112",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/194.png"
 			}
@@ -2602,7 +2602,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Avatar Soldier",
-			"collector_number": "107",
+			"collector_number": "108",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/245.png"
 			}
@@ -3402,7 +3402,7 @@
 	2 Null Knight
 	2 Terraformer Archengine
 	1 Esmund, Shard of Nebula
-	1 Oda, Shard of Abyss
+	1 Kaia, Shard of Abyss
 	1 Friede, Shard of Light
 	1 Vjala, Shard of Creation
 	1 Inga, Shard of Genesis
@@ -3717,7 +3717,7 @@
 	6 Unstoppable Remnant
 	1 Esmund, Shard of Nebula
 	12 Void Potentate
-	1 Oda, Shard of Abyss
+	1 Kaia, Shard of Abyss
 	1 Friede, Shard of Light
 	1 Vjala, Shard of Creation
 	12 Objects In Motion
@@ -4016,7 +4016,7 @@
 	15 Unstoppable Remnant
 	4 Esmund, Shard of Nebula
 	6 Void Potentate
-	4 Oda, Shard of Abyss
+	4 Kaia, Shard of Abyss
 	4 Friede, Shard of Light
 	4 Vjala, Shard of Creation
 	6 Objects In Motion

@@ -1,4 +1,20 @@
-﻿VERSION 23 CHANGELOG
+﻿VERSION 24 CHANGELOG
+====================
+
+
+
+Brightheart Serpent
+cost: {6}{G}{G} => {5}{G}{G}
+
+Portal Conservator
+rules_text: Flying
+Exhaust — {2}{U}: Put a +1/+1 counter on each artifact creature you control. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i]
+Exhaust — {5}{U}: Put a +1/+1 counter on each artifact creature you control. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i] => Flying
+Exhaust — {2}{U}: Put a +1/+1 counter on each artifact creature you control. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i]
+Exhaust — {5}{U}: Put a +1/+1 counter on each artifact creature you control. Activate only as a sorcery.
+
+
+VERSION 23 CHANGELOG
 ====================
 
 Kaia, Shard of Abyss added.

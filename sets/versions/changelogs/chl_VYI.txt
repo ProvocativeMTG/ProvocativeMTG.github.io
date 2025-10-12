@@ -1,4 +1,13 @@
-﻿VERSION 24 CHANGELOG
+﻿VERSION 25 CHANGELOG
+====================
+
+
+
+Brightheart Serpent
+cost: {5}{G}{G} => {6}{G}{G}
+
+
+VERSION 24 CHANGELOG
 ====================
 
 

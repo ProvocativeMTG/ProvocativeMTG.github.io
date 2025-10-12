@@ -923,7 +923,7 @@
             "type": "Creature \u2014 Serpent",
             "number": 171,
             "color_identity": "G",
-            "cost": "{5}{G}{G}",
+            "cost": "{6}{G}{G}",
             "rules_text": "Trample, ward {2}\nWhen this creature enters, create a tapped colorless land token named Everywhere that's every basic land type.\n[i]Landfall[/i] \u2014 Whenever a land you control enters, double target creature's power and toughness until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
@@ -6724,5 +6724,5 @@
             "notes": ""
         }
     ],
-    "version": 24
+    "version": 25
 }

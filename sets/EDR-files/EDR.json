@@ -1013,7 +1013,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Token Creature \u2014 Knight",
-            "number": 5,
+            "number": 6,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -2344,7 +2344,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Token Creature \u2014 Spider Horror",
-            "number": 23,
+            "number": 27,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -2684,7 +2684,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Token Creature \u2014 Warrior Army",
-            "number": 24,
+            "number": 28,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -2984,7 +2984,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Token Creature \u2014 Wizard",
-            "number": 9,
+            "number": 10,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -4555,7 +4555,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Token Creature \u2014 Basilisk",
-            "number": 10,
+            "number": 11,
             "color_identity": "B",
             "cost": "",
             "rules_text": "Toxic 1 [i](Players dealt combat damage by this creature also get a poison counter.)[/i]",
@@ -5295,7 +5295,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Token Creature \u2014 Serpent",
-            "number": 21,
+            "number": 24,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -6695,7 +6695,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Token Creature \u2014 Spirit Fish",
-            "number": 8,
+            "number": 9,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -6735,7 +6735,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Token Artifact \u2014 Clue",
-            "number": 34,
+            "number": 42,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{2}, Sacrifice this artifact: Draw a card.",
@@ -6835,7 +6835,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Token Artifact \u2014 Food",
-            "number": 36,
+            "number": 44,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{2}, Sacrifice this artifact: You gain 3 life.",
@@ -6855,7 +6855,7 @@
             "color": "G",
             "rarity": "cube",
             "type": "Token Creature \u2014 Dragon Warrior",
-            "number": 27,
+            "number": 31,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -7375,7 +7375,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Token Artifact \u2014 Treasure",
-            "number": 39,
+            "number": 47,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Sacrifice this token: Add one mana of any color.",
@@ -7435,7 +7435,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Token Creature \u2014 Demigod",
-            "number": 17,
+            "number": 16,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -7595,7 +7595,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Token Legendary Artifact",
-            "number": 37,
+            "number": 45,
             "color_identity": "W",
             "cost": "",
             "rules_text": "{W}, {T}: Return target creature card with mana value 2 or less from your graveyard to the battlefield. Activate only as a sorcery.",
@@ -7715,7 +7715,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Token Creature \u2014 Demigod",
-            "number": 19,
+            "number": 17,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -7735,7 +7735,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Token Creature \u2014 Demigod",
-            "number": 20,
+            "number": 18,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -7755,7 +7755,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Token Creature \u2014 Demigod",
-            "number": 11,
+            "number": 19,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -7775,7 +7775,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Token Creature \u2014 Demigod",
-            "number": 13,
+            "number": 20,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -7855,7 +7855,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Token Creature \u2014 Demigod",
-            "number": 18,
+            "number": 21,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -7875,7 +7875,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Token Creature \u2014 Demigod",
-            "number": 16,
+            "number": 15,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -7895,7 +7895,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Token Creature \u2014 Demigod",
-            "number": 15,
+            "number": 12,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -7915,7 +7915,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Token Creature \u2014 Demigod",
-            "number": 14,
+            "number": 13,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -7935,7 +7935,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Token Creature \u2014 Demigod",
-            "number": 12,
+            "number": 14,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -8075,7 +8075,7 @@
             "color": "R",
             "rarity": "cube",
             "type": "Token Creature \u2014 Soldier",
-            "number": 26,
+            "number": 30,
             "color_identity": "R",
             "cost": "",
             "rules_text": "Haste",
@@ -8115,7 +8115,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Token Creature \u2014 Ooze Horse",
-            "number": 7,
+            "number": 8,
             "color_identity": "U",
             "cost": "",
             "rules_text": "Trample",
@@ -8215,7 +8215,7 @@
             "color": "G",
             "rarity": "cube",
             "type": "Token Creature \u2014 Wolf",
-            "number": 30,
+            "number": 34,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -8235,7 +8235,7 @@
             "color": "RG",
             "rarity": "cube",
             "type": "Token Creature \u2014 Human",
-            "number": 32,
+            "number": 39,
             "color_identity": "RG",
             "cost": "",
             "rules_text": "",
@@ -8255,7 +8255,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Token Creature \u2014 Skeleton",
-            "number": 22,
+            "number": 25,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -8275,7 +8275,7 @@
             "color": "R",
             "rarity": "cube",
             "type": "Token Creature \u2014 Dragon",
-            "number": 25,
+            "number": 29,
             "color_identity": "R",
             "cost": "",
             "rules_text": "Flying",
@@ -8295,7 +8295,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Token Artifact \u2014 Blood",
-            "number": 33,
+            "number": 41,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{1}, {T}, Discard a card, Sacrifice this token: Draw a card.",
@@ -8315,7 +8315,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Token Artifact \u2014 Map",
-            "number": 38,
+            "number": 46,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{1}, {T}, Sacrifice this token: Target creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]",
@@ -8335,7 +8335,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Token Land",
-            "number": 40,
+            "number": 48,
             "color_identity": "C",
             "cost": "",
             "rules_text": "This land is a Plains, Island, Swamp, Mountain, and Forest. [i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i]",
@@ -8735,14 +8735,14 @@
             "color": "B",
             "rarity": "cube",
             "type": "Legendary Creature \u2014 Dragon",
-            "number": 0,
+            "number": 23,
             "color_identity": "B",
             "cost": "{4}{B}",
             "rules_text": "Partner with Nameless King [i](When this creature enters, target player may put Nameless King into their hand from their library, then shuffle.)[/i]\nFlying\nWhenever King of the Storm attacks, you may sacrifice another creature. If you do, draw two cards.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "EDR",
             "loyalty": "",
             "artist": "NSlacka",
@@ -8755,14 +8755,14 @@
             "color": "BG",
             "rarity": "cube",
             "type": "Legendary Creature \u2014 Dragon",
-            "number": 0,
+            "number": 38,
             "color_identity": "BG",
             "cost": "{1}{B}{G}",
             "rules_text": "Trample\nToxic 2 [i](Players dealt combat damage by this creature also get two poison counters.)[/i]\nWhenever an opponent casts a noncreature spell, they get two poison counters.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "EDR",
             "loyalty": "",
             "artist": "Henrik Karpinnen",
@@ -8771,43 +8771,23 @@
             "notes": "!group darksouls\n!sort 06"
         },
         {
-            "card_name": "Centipede Demon",
-            "color": "BR",
-            "rarity": "cube",
-            "type": "Legendary Creature \u2014 Insect Demon",
-            "number": 0,
-            "color_identity": "BR",
-            "cost": "{2}{B}{R}",
-            "rules_text": "Whenever a creature you control attacks, put a +1/+1 counter on it.\n[i]Enrage[/i] \u2014 Whenever Centipede Demon is dealt damage, create a 1/1 token that's a copy of it, except it isn't legendary and it doesn't have this ability.",
-            "flavor_text": "[i][/i]",
-            "pt": "5/4",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EDR",
-            "loyalty": "",
-            "artist": "OniRuu",
-            "alias": "",
-            "position": "437",
-            "notes": "!group darksouls\n!sort 04"
-        },
-        {
             "card_name": "Nameless King",
             "color": "WB",
             "rarity": "cube",
             "type": "Legendary Creature \u2014 God",
-            "number": 0,
+            "number": 40,
             "color_identity": "WB",
             "cost": "{4}{W}{B}",
             "rules_text": "Partner with King of the Storm [i](When this creature enters, target player may put King into their hand from their library, then shuffle.)[/i]\nWhen Nameless King enters, you become the monarch.\nWhenever a creature you control dies, if you're the monarch, each opponent sacrifices a creature.",
             "flavor_text": "[i][/i]",
             "pt": "6/6",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "EDR",
             "loyalty": "",
             "artist": "truejjack",
             "alias": "",
-            "position": "438",
+            "position": "437",
             "notes": "!group darksouls\n!sort 07"
         },
         {
@@ -8815,19 +8795,19 @@
             "color": "UB",
             "rarity": "cube",
             "type": "Legendary Creature \u2014 Horror Rogue",
-            "number": 0,
+            "number": 37,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
             "rules_text": "Once during each of your turns, you may cast a copy of the spell most recently cast this turn. [i](Timing rules still apply.)[/i]",
             "flavor_text": "[i]She served first as a dancer, and then as an outrider knight.[/i]",
             "pt": "4/3",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "EDR",
             "loyalty": "",
             "artist": "Hong Hong",
             "alias": "",
-            "position": "439",
+            "position": "438",
             "notes": "!group darksouls\n!sort 05"
         },
         {
@@ -8835,19 +8815,19 @@
             "color": "B",
             "rarity": "cube",
             "type": "Legendary Artifact Creature \u2014 Golem",
-            "number": 0,
+            "number": 26,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "Indestructible, trample\nAt the beginning of your upkeep, put a +1/+1 counter on Smelter Demon, then each opponent loses life equal to its power.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "EDR",
             "loyalty": "",
             "artist": "Inkyh",
             "alias": "",
-            "position": "440",
+            "position": "439",
             "notes": "!group darksouls\n!sort 03"
         },
         {
@@ -8867,7 +8847,7 @@
             "loyalty": "",
             "artist": "ace_magnatron",
             "alias": "",
-            "position": "441",
+            "position": "440",
             "notes": ""
         },
         {
@@ -8887,7 +8867,7 @@
             "loyalty": "",
             "artist": "OvenBakedCheese",
             "alias": "",
-            "position": "442",
+            "position": "441",
             "notes": ""
         },
         {
@@ -8907,7 +8887,7 @@
             "loyalty": "",
             "artist": "IIIMP",
             "alias": "",
-            "position": "443",
+            "position": "442",
             "notes": "!group channel\n!sort 08"
         },
         {
@@ -8927,7 +8907,7 @@
             "loyalty": "",
             "artist": "IIIMP",
             "alias": "",
-            "position": "444",
+            "position": "443",
             "notes": ""
         },
         {
@@ -8947,7 +8927,7 @@
             "loyalty": "",
             "artist": "cloudbox9",
             "alias": "",
-            "position": "445",
+            "position": "444",
             "notes": ""
         },
         {
@@ -8967,7 +8947,7 @@
             "loyalty": "",
             "artist": "gaungde",
             "alias": "",
-            "position": "446",
+            "position": "445",
             "notes": ""
         },
         {
@@ -8987,7 +8967,7 @@
             "loyalty": "",
             "artist": "Tatiandart",
             "alias": "",
-            "position": "447",
+            "position": "446",
             "notes": "Nightreign"
         },
         {
@@ -8995,19 +8975,19 @@
             "color": "B",
             "rarity": "cube",
             "type": "Legendary Creature \u2014 Spider Demon",
-            "number": 0,
+            "number": 22,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "Whenever a creature an opponent controls dies, exile it and create a 1/2 black Spider Horror creature token.\nWhenever a Spider you control attacks, each opponent loses 1 life.",
             "flavor_text": "[i]It first took possession of a solitary insect, but grew its power, feasting on the wealth of twisted souls found in the land.[/i]",
             "pt": "2/8",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "EDR",
             "loyalty": "",
             "artist": "Fermaniarki",
             "alias": "",
-            "position": "448",
+            "position": "447",
             "notes": "!group darksouls\n!sort 01"
         },
         {
@@ -9027,7 +9007,7 @@
             "loyalty": "",
             "artist": "Derutta",
             "alias": "",
-            "position": "449",
+            "position": "448",
             "notes": "!group other\n!sort 03"
         },
         {
@@ -9047,7 +9027,7 @@
             "loyalty": "",
             "artist": "AliveWake",
             "alias": "",
-            "position": "450",
+            "position": "449",
             "notes": "Nightreign"
         },
         {
@@ -9067,7 +9047,7 @@
             "loyalty": "",
             "artist": "NecrosisArts",
             "alias": "",
-            "position": "451",
+            "position": "450",
             "notes": "!group monarch\n!sort 10"
         },
         {
@@ -9087,7 +9067,7 @@
             "loyalty": "",
             "artist": "NecrosisArts",
             "alias": "",
-            "position": "452",
+            "position": "451",
             "notes": ""
         },
         {
@@ -9107,7 +9087,7 @@
             "loyalty": "",
             "artist": "NecrosisArts",
             "alias": "",
-            "position": "453",
+            "position": "452",
             "notes": ""
         },
         {
@@ -9127,7 +9107,7 @@
             "loyalty": "",
             "artist": "NecrosisArts",
             "alias": "",
-            "position": "454",
+            "position": "453",
             "notes": "!group monarch\n!sort 05"
         },
         {
@@ -9147,7 +9127,7 @@
             "loyalty": "",
             "artist": "AliveWake4476",
             "alias": "",
-            "position": "455",
+            "position": "454",
             "notes": ""
         },
         {
@@ -9167,7 +9147,7 @@
             "loyalty": "",
             "artist": "WizardOfIce",
             "alias": "",
-            "position": "456",
+            "position": "455",
             "notes": ""
         },
         {
@@ -9187,7 +9167,7 @@
             "loyalty": "",
             "artist": "Gabriel Lopes",
             "alias": "",
-            "position": "457",
+            "position": "456",
             "notes": ""
         },
         {
@@ -9207,7 +9187,7 @@
             "loyalty": "",
             "artist": "Victor Garcia",
             "alias": "",
-            "position": "458",
+            "position": "457",
             "notes": "Ramp"
         },
         {
@@ -9227,7 +9207,7 @@
             "loyalty": "",
             "artist": "AliveWake",
             "alias": "",
-            "position": "459",
+            "position": "458",
             "notes": "Nightreign"
         },
         {
@@ -9247,7 +9227,7 @@
             "loyalty": "",
             "artist": "TFMsaad",
             "alias": "",
-            "position": "460",
+            "position": "459",
             "notes": "Nightreign"
         },
         {
@@ -9267,7 +9247,7 @@
             "loyalty": "",
             "artist": "tavvoc",
             "alias": "",
-            "position": "461",
+            "position": "460",
             "notes": ""
         },
         {
@@ -9287,7 +9267,7 @@
             "loyalty": "",
             "artist": "Shimhaq",
             "alias": "",
-            "position": "462",
+            "position": "461",
             "notes": ""
         },
         {
@@ -9307,7 +9287,7 @@
             "loyalty": "",
             "artist": "Temmaru",
             "alias": "",
-            "position": "463",
+            "position": "462",
             "notes": "!group monarch\n!sort 07"
         },
         {
@@ -9327,7 +9307,7 @@
             "loyalty": "",
             "artist": "Leathil",
             "alias": "",
-            "position": "464",
+            "position": "463",
             "notes": "!group monarch\n!sort 03"
         },
         {
@@ -9347,7 +9327,7 @@
             "loyalty": "",
             "artist": "SAMI",
             "alias": "",
-            "position": "465",
+            "position": "464",
             "notes": ""
         },
         {
@@ -9367,7 +9347,7 @@
             "loyalty": "",
             "artist": "Chloe Xu",
             "alias": "",
-            "position": "466",
+            "position": "465",
             "notes": "!group monarch\n!sort 04"
         },
         {
@@ -9387,7 +9367,7 @@
             "loyalty": "",
             "artist": "Siel Art",
             "alias": "",
-            "position": "467",
+            "position": "466",
             "notes": "!group monarch\n!sort 09"
         },
         {
@@ -9407,28 +9387,8 @@
             "loyalty": "",
             "artist": "ROFLEMOON",
             "alias": "",
-            "position": "468",
+            "position": "467",
             "notes": "!group monarch\n!sort 06"
-        },
-        {
-            "card_name": "A Tarnished of No Renown",
-            "color": "",
-            "rarity": "cube",
-            "type": "Legendary Creature \u2014 Human",
-            "number": 0,
-            "color_identity": "C",
-            "cost": "{3}",
-            "rules_text": "[i](Each player has access to this card as a commander. It can't be drafted.)[/i]\nWhenever another creature you control enters, if that creature has greater power than A Tarnished of No Renown, put a +1/+1 counter on this creature.",
-            "flavor_text": "[i][/i]",
-            "pt": "2/1",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EDR",
-            "loyalty": "",
-            "artist": "TheChrisPMan",
-            "alias": "",
-            "position": "469",
-            "notes": "!group backup\n!sort 01"
         },
         {
             "card_name": "Gnoster, Wisdom of Night",
@@ -9447,7 +9407,7 @@
             "loyalty": "",
             "artist": "Temmaru",
             "alias": "",
-            "position": "470",
+            "position": "468",
             "notes": ""
         },
         {
@@ -9467,7 +9427,7 @@
             "loyalty": "",
             "artist": "chuno",
             "alias": "",
-            "position": "471",
+            "position": "469",
             "notes": ""
         },
         {
@@ -9487,7 +9447,7 @@
             "loyalty": "",
             "artist": "Velvety",
             "alias": "",
-            "position": "472",
+            "position": "470",
             "notes": ""
         },
         {
@@ -9507,7 +9467,7 @@
             "loyalty": "",
             "artist": "IvyJinna",
             "alias": "",
-            "position": "473",
+            "position": "471",
             "notes": ""
         },
         {
@@ -9527,7 +9487,7 @@
             "loyalty": "",
             "artist": "Dragwar3",
             "alias": "",
-            "position": "474",
+            "position": "472",
             "notes": ""
         },
         {
@@ -9547,7 +9507,7 @@
             "loyalty": "",
             "artist": "TFMsaad",
             "alias": "",
-            "position": "475",
+            "position": "473",
             "notes": ""
         },
         {
@@ -9567,7 +9527,7 @@
             "loyalty": "",
             "artist": "MannDuck",
             "alias": "",
-            "position": "476",
+            "position": "474",
             "notes": ""
         },
         {
@@ -9575,7 +9535,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Token Artifact Creature \u2014 Construct",
-            "number": 35,
+            "number": 43,
             "color_identity": "C",
             "cost": "",
             "rules_text": "This token gets +1/+1 for each artifact you control.",
@@ -9587,7 +9547,7 @@
             "loyalty": "",
             "artist": "Chloe Xu / Fromsoftware",
             "alias": "",
-            "position": "477",
+            "position": "475",
             "notes": ""
         },
         {
@@ -9595,7 +9555,7 @@
             "color": "G",
             "rarity": "cube",
             "type": "Token Legendary Creature \u2014 Scorpion",
-            "number": 28,
+            "number": 32,
             "color_identity": "G",
             "cost": "",
             "rules_text": "Trample",
@@ -9607,7 +9567,7 @@
             "loyalty": "",
             "artist": "jw_lulu",
             "alias": "",
-            "position": "478",
+            "position": "476",
             "notes": ""
         },
         {
@@ -9627,7 +9587,7 @@
             "loyalty": "",
             "artist": "NSlacka",
             "alias": "",
-            "position": "479",
+            "position": "477",
             "notes": ""
         },
         {
@@ -9647,7 +9607,7 @@
             "loyalty": "",
             "artist": "GHONZ",
             "alias": "",
-            "position": "480",
+            "position": "478",
             "notes": ""
         },
         {
@@ -9667,7 +9627,7 @@
             "loyalty": "",
             "artist": "rithyra",
             "alias": "",
-            "position": "481",
+            "position": "479",
             "notes": ""
         },
         {
@@ -9687,7 +9647,7 @@
             "loyalty": "",
             "artist": "Ariamis Arts",
             "alias": "",
-            "position": "482",
+            "position": "480",
             "notes": ""
         },
         {
@@ -9707,7 +9667,7 @@
             "loyalty": "",
             "artist": "AliveWake",
             "alias": "",
-            "position": "483",
+            "position": "481",
             "notes": ""
         },
         {
@@ -9727,7 +9687,7 @@
             "loyalty": "",
             "artist": "jw_lulu",
             "alias": "",
-            "position": "484",
+            "position": "482",
             "notes": ""
         },
         {
@@ -9747,7 +9707,7 @@
             "loyalty": "",
             "artist": "Mathiasteur",
             "alias": "",
-            "position": "485",
+            "position": "483",
             "notes": ""
         },
         {
@@ -9767,7 +9727,7 @@
             "loyalty": "",
             "artist": "tbrow_art",
             "alias": "",
-            "position": "486",
+            "position": "484",
             "notes": ""
         },
         {
@@ -9787,7 +9747,7 @@
             "loyalty": "",
             "artist": "Temmaru",
             "alias": "",
-            "position": "487",
+            "position": "485",
             "notes": ""
         },
         {
@@ -9807,7 +9767,7 @@
             "loyalty": "",
             "artist": "DSittaro",
             "alias": "",
-            "position": "488",
+            "position": "486",
             "notes": ""
         },
         {
@@ -9827,7 +9787,7 @@
             "loyalty": "",
             "artist": "Dormin",
             "alias": "",
-            "position": "489",
+            "position": "487",
             "notes": ""
         },
         {
@@ -9847,7 +9807,7 @@
             "loyalty": "",
             "artist": "Smearu Ren",
             "alias": "",
-            "position": "490",
+            "position": "488",
             "notes": ""
         },
         {
@@ -9867,7 +9827,7 @@
             "loyalty": "",
             "artist": "vitkovskayaart",
             "alias": "",
-            "position": "491",
+            "position": "489",
             "notes": "!group other\n!sort 015"
         },
         {
@@ -9887,7 +9847,7 @@
             "loyalty": "",
             "artist": "Dinocomics4ever",
             "alias": "",
-            "position": "492",
+            "position": "490",
             "notes": ""
         },
         {
@@ -9907,7 +9867,7 @@
             "loyalty": "",
             "artist": "arnaerr",
             "alias": "",
-            "position": "493",
+            "position": "491",
             "notes": ""
         },
         {
@@ -9927,7 +9887,7 @@
             "loyalty": "",
             "artist": "arnaerr",
             "alias": "",
-            "position": "494",
+            "position": "492",
             "notes": ""
         },
         {
@@ -9947,7 +9907,7 @@
             "loyalty": "",
             "artist": "Genel Jumalon",
             "alias": "",
-            "position": "495",
+            "position": "493",
             "notes": ""
         },
         {
@@ -9967,7 +9927,7 @@
             "loyalty": "",
             "artist": "Emile Ran",
             "alias": "",
-            "position": "496",
+            "position": "494",
             "notes": "!last"
         },
         {
@@ -9987,7 +9947,7 @@
             "loyalty": "",
             "artist": "Sin_node",
             "alias": "",
-            "position": "497",
+            "position": "495",
             "notes": "!last"
         },
         {
@@ -10007,7 +9967,7 @@
             "loyalty": "",
             "artist": "KiwiN",
             "alias": "",
-            "position": "498",
+            "position": "496",
             "notes": ""
         },
         {
@@ -10015,7 +9975,7 @@
             "color": "G",
             "rarity": "cube",
             "type": "Token Creature \u2014 Plant",
-            "number": 29,
+            "number": 33,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -10027,7 +9987,7 @@
             "loyalty": "",
             "artist": "rashuu",
             "alias": "",
-            "position": "499",
+            "position": "497",
             "notes": ""
         },
         {
@@ -10035,7 +9995,7 @@
             "color": "RG",
             "rarity": "cube",
             "type": "Token Creature \u2014 Insect",
-            "number": 31,
+            "number": 35,
             "color_identity": "RG",
             "cost": "",
             "rules_text": "Flying",
@@ -10047,7 +10007,7 @@
             "loyalty": "",
             "artist": "GripolloProduction",
             "alias": "",
-            "position": "500",
+            "position": "498",
             "notes": ""
         },
         {
@@ -10055,7 +10015,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Token Creature \u2014 Bird Spirit",
-            "number": 6,
+            "number": 7,
             "color_identity": "U",
             "cost": "",
             "rules_text": "Flying",
@@ -10067,7 +10027,7 @@
             "loyalty": "",
             "artist": "draw souls",
             "alias": "",
-            "position": "501",
+            "position": "499",
             "notes": ""
         },
         {
@@ -10087,7 +10047,7 @@
             "loyalty": "",
             "artist": "Shimhaq",
             "alias": "",
-            "position": "502",
+            "position": "500",
             "notes": "Nightreign"
         },
         {
@@ -10107,7 +10067,7 @@
             "loyalty": "",
             "artist": "lowstrear",
             "alias": "",
-            "position": "503",
+            "position": "501",
             "notes": "Nightreign"
         },
         {
@@ -10127,7 +10087,7 @@
             "loyalty": "",
             "artist": "nameno92372763",
             "alias": "",
-            "position": "504",
+            "position": "502",
             "notes": ""
         },
         {
@@ -10147,7 +10107,7 @@
             "loyalty": "",
             "artist": "yujia0412",
             "alias": "",
-            "position": "505",
+            "position": "503",
             "notes": ""
         },
         {
@@ -10167,7 +10127,7 @@
             "loyalty": "",
             "artist": "J Paz Diaz",
             "alias": "",
-            "position": "506",
+            "position": "504",
             "notes": ""
         },
         {
@@ -10187,7 +10147,7 @@
             "loyalty": "",
             "artist": "geranbb",
             "alias": "",
-            "position": "507",
+            "position": "505",
             "notes": ""
         },
         {
@@ -10207,7 +10167,7 @@
             "loyalty": "",
             "artist": "BluBoiArt",
             "alias": "",
-            "position": "508",
+            "position": "506",
             "notes": ""
         },
         {
@@ -10227,7 +10187,7 @@
             "loyalty": "",
             "artist": "niji-ewe",
             "alias": "",
-            "position": "509",
+            "position": "507",
             "notes": ""
         },
         {
@@ -10247,7 +10207,7 @@
             "loyalty": "",
             "artist": "Lune Illusoire",
             "alias": "",
-            "position": "510",
+            "position": "508",
             "notes": ""
         },
         {
@@ -10267,7 +10227,7 @@
             "loyalty": "",
             "artist": "AliveWake",
             "alias": "",
-            "position": "511",
+            "position": "509",
             "notes": ""
         },
         {
@@ -10287,7 +10247,7 @@
             "loyalty": "",
             "artist": "Nippemeow",
             "alias": "",
-            "position": "512",
+            "position": "510",
             "notes": ""
         },
         {
@@ -10307,7 +10267,7 @@
             "loyalty": "",
             "artist": "AnYa_orz",
             "alias": "",
-            "position": "513",
+            "position": "511",
             "notes": ""
         },
         {
@@ -10327,7 +10287,7 @@
             "loyalty": "",
             "artist": "Dormin_Mh",
             "alias": "",
-            "position": "514",
+            "position": "512",
             "notes": ""
         },
         {
@@ -10347,7 +10307,7 @@
             "loyalty": "",
             "artist": "X37TC",
             "alias": "",
-            "position": "515",
+            "position": "513",
             "notes": ""
         },
         {
@@ -10367,7 +10327,7 @@
             "loyalty": "",
             "artist": "Viamorrri",
             "alias": "",
-            "position": "516",
+            "position": "514",
             "notes": ""
         },
         {
@@ -10387,7 +10347,7 @@
             "loyalty": "",
             "artist": "ark nemesis",
             "alias": "",
-            "position": "517",
+            "position": "515",
             "notes": ""
         },
         {
@@ -10407,7 +10367,7 @@
             "loyalty": "",
             "artist": "Philipp Stein",
             "alias": "",
-            "position": "518",
+            "position": "516",
             "notes": ""
         },
         {
@@ -10427,7 +10387,7 @@
             "loyalty": "",
             "artist": "Rashuu",
             "alias": "",
-            "position": "519",
+            "position": "517",
             "notes": ""
         },
         {
@@ -10447,7 +10407,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "position": "520",
+            "position": "518",
             "notes": ""
         },
         {
@@ -10467,7 +10427,7 @@
             "loyalty": "",
             "artist": "taco1704",
             "alias": "",
-            "position": "521",
+            "position": "519",
             "notes": ""
         },
         {
@@ -10487,7 +10447,7 @@
             "loyalty": "",
             "artist": "Shimhaq",
             "alias": "",
-            "position": "522",
+            "position": "520",
             "notes": ""
         },
         {
@@ -10507,7 +10467,7 @@
             "loyalty": "",
             "artist": "Joao Victor",
             "alias": "",
-            "position": "523",
+            "position": "521",
             "notes": ""
         },
         {
@@ -10527,7 +10487,7 @@
             "loyalty": "",
             "artist": "Xenamos",
             "alias": "",
-            "position": "524",
+            "position": "522",
             "notes": ""
         },
         {
@@ -10547,7 +10507,7 @@
             "loyalty": "",
             "artist": "diomijimadeiney",
             "alias": "",
-            "position": "525",
+            "position": "523",
             "notes": ""
         },
         {
@@ -10567,7 +10527,7 @@
             "loyalty": "",
             "artist": "Davide Gozzi",
             "alias": "",
-            "position": "526",
+            "position": "524",
             "notes": ""
         },
         {
@@ -10587,7 +10547,7 @@
             "loyalty": "",
             "artist": "Gabriele Pelc / Umraen.",
             "alias": "",
-            "position": "527",
+            "position": "525",
             "notes": ""
         },
         {
@@ -10607,7 +10567,7 @@
             "loyalty": "",
             "artist": "deadpool yuchan",
             "alias": "",
-            "position": "528",
+            "position": "526",
             "notes": ""
         },
         {
@@ -10627,7 +10587,7 @@
             "loyalty": "",
             "artist": "hvfrue",
             "alias": "",
-            "position": "529",
+            "position": "527",
             "notes": ""
         },
         {
@@ -10647,7 +10607,7 @@
             "loyalty": "",
             "artist": "cressily",
             "alias": "",
-            "position": "530",
+            "position": "528",
             "notes": ""
         },
         {
@@ -10667,7 +10627,7 @@
             "loyalty": "",
             "artist": "sofusan1526",
             "alias": "",
-            "position": "531",
+            "position": "529",
             "notes": ""
         },
         {
@@ -10687,7 +10647,7 @@
             "loyalty": "",
             "artist": "@maeisdrawing",
             "alias": "",
-            "position": "532",
+            "position": "530",
             "notes": ""
         },
         {
@@ -10707,9 +10667,49 @@
             "loyalty": "",
             "artist": "Rio Yudha",
             "alias": "",
-            "position": "533",
+            "position": "531",
             "notes": ""
+        },
+        {
+            "card_name": "A Tarnished of No Renown",
+            "color": "",
+            "rarity": "cube",
+            "type": "Legendary Creature \u2014 Human",
+            "number": 5,
+            "color_identity": "C",
+            "cost": "{3}",
+            "rules_text": "[i](Each player has access to this card as a commander. It can't be drafted.)[/i]\nWhenever another creature you control enters, if that creature has greater power than A Tarnished of No Renown, put a +1/+1 counter on this creature.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "EDR",
+            "loyalty": "",
+            "artist": "TheChrisPMan",
+            "alias": "",
+            "position": "532",
+            "notes": "!group backup\n!sort 01"
+        },
+        {
+            "card_name": "Centipede Demon",
+            "color": "BR",
+            "rarity": "cube",
+            "type": "Legendary Creature \u2014 Insect Demon",
+            "number": 36,
+            "color_identity": "BR",
+            "cost": "{2}{B}{R}",
+            "rules_text": "Whenever a creature you control attacks, put a +1/+1 counter on it.\n[i]Enrage[/i] \u2014 Whenever Centipede Demon is dealt damage, create a 1/1 token that's a copy of it, except it isn't legendary and it doesn't have this ability.",
+            "flavor_text": "[i][/i]",
+            "pt": "5/4",
+            "special_text": "",
+            "shape": "token",
+            "set": "EDR",
+            "loyalty": "",
+            "artist": "OniRuu",
+            "alias": "",
+            "position": "533",
+            "notes": "!group darksouls\n!sort 04"
         }
     ],
-    "version": 6
+    "version": 7
 }

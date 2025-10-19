@@ -1,4 +1,198 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+King of the Storm
+
+Gaping Dragon
+
+Nameless King
+
+Dancer of the Boreal Valley
+
+Smelter Demon
+
+Snow Witch
+
+Fallingstar Beast
+
+Scadutree Base
+
+O, Elden Ring!
+
+Radagon of the Golden Order
+
+Mend the Elden Ring
+
+Heolstor, the Nightlord
+
+Duke's Dear Freja
+
+Crumbling Farum Azula
+
+Maris, Fathom of Night
+
+Consecrated Snowfield
+
+Altus Plateau
+
+Land of Shadow
+
+A New Journey
+
+In Search of Purpose
+
+Melina and Torrent
+
+Adel, Gaping Jaw
+
+Ironeye
+
+Fire Knight Captain
+
+Fulghor, Darkdrift Knight
+
+Jarburg
+
+Wailing Dunes
+
+Ancient Golem
+
+Redmane Castle
+
+Elphael, Brace of the Haligtree
+
+Leyndell, Ashen Capital
+
+Gnoster, Wisdom of Night
+
+Horned Warrior
+
+Empyrean Bond
+
+Silver Tear Seal
+
+Sunder Reality
+
+Make Your Choice
+
+Iron Menial
+
+Construct
+
+Faurtis Stoneshield
+
+Serve the Gods
+
+Small Jar Bazaar
+
+Thiollier
+
+Raider
+
+Fissure in the Fog
+
+Great Exodus
+
+Unrelenting Hunger
+
+Gaol Binding
+
+Teardrop of Night
+
+Return to the Erdtree
+
+Tricephalos's Howl
+
+Godskin Duo
+
+The Shadow Keep
+
+The Great Jar
+
+On An Adventure
+
+Can Be Cast From Exile
+
+Restage
+
+Plant
+
+Butterfly
+
+Bird Spirit
+
+Libra, Equilibrious Beast
+
+Caligo, Miasma of Night
+
+Arrow of Nightglow
+
+Condemn to Memory
+
+Light of Miquella
+
+Offer Pita Bread
+
+Serosh, Beast Regent
+
+Glow
+
+Larval Transformation
+
+Maris, Unknown Entity
+
+Rellana's Cameo
+
+Shadows Colder than Death
+
+Call the Condemned
+
+Footprints of the Nightlord
+
+Grave Keeper
+
+Night's Tide
+
+The Shape of Night
+
+Animus, Ascendant Light
+
+Farum Azula Dragon
+
+Fire Prelate
+
+Flames of Gladius
+
+Forge's Flames
+
+Behold the Jagged Peak
+
+Cradled by Death
+
+Roderika and Hewg
+
+Shaman Village Sentinel
+
+Storm Ruler
+
+Eclipsed Sun
+
+Ghiza's Wheel
+
+Larval Tear
+
+Marika's Jars
+
+Moonlight Greatsword
+
+A Tarnished of No Renown
+
+Centipede Demon
+
+
+VERSION 6 CHANGELOG
 ====================
 
 No changes.

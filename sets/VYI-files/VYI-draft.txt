@@ -170,7 +170,7 @@
 		{
 			"name": "Esmund, Shard of Nebula",
 			"rarity": "mythic",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{3}{U}",
 			"type": "Legendary Creature — God",
 			"collector_number": "54",
 			"back": {
@@ -197,7 +197,7 @@
 		{
 			"name": "Kaia, Shard of Abyss",
 			"rarity": "mythic",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{3}{B}",
 			"type": "Legendary Creature — God",
 			"collector_number": "106",
 			"back": {
@@ -214,7 +214,7 @@
 		{
 			"name": "Friede, Shard of Light",
 			"rarity": "mythic",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{4}{W}",
 			"type": "Legendary Creature — God",
 			"collector_number": "13",
 			"back": {
@@ -231,7 +231,7 @@
 		{
 			"name": "Vjala, Shard of Creation",
 			"rarity": "mythic",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — God",
 			"collector_number": "163",
 			"back": {
@@ -258,7 +258,7 @@
 		{
 			"name": "Inga, Shard of Genesis",
 			"rarity": "mythic",
-			"mana_cost": "{3}{G}",
+			"mana_cost": "{4}{G}",
 			"type": "Legendary Creature — God",
 			"collector_number": "186",
 			"back": {
@@ -840,7 +840,7 @@
 		{
 			"name": "Stardust Explorer",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Pilot",
 			"collector_number": "197",
 			"back": {
@@ -957,7 +957,7 @@
 		{
 			"name": "Unknown Beings Lurk",
 			"rarity": "uncommon",
-			"mana_cost": "{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
 			"collector_number": "203",
 			"image_uris": {
@@ -1185,10 +1185,10 @@
 			}
 		},
 		{
-			"name": "Starwhale Crossing",
+			"name": "The Starwhale Crossing",
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{U}{U}",
-			"type": "Enchantment",
+			"type": "Legendary Enchantment",
 			"collector_number": "72",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/110.png"
@@ -1512,10 +1512,10 @@
 			}
 		},
 		{
-			"name": "Pulsar Prophet",
+			"name": "Prophet's Birth",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}{W}",
-			"type": "Artifact Creature — Angel Warlock",
+			"type": "Sorcery",
 			"collector_number": "30",
 			"back": {
 				"name": "",
@@ -1751,7 +1751,7 @@
 		{
 			"name": "Starheart Harvest",
 			"rarity": "rare",
-			"mana_cost": "{2}{G}{U}",
+			"mana_cost": "{3}{G}{U}",
 			"type": "Enchantment",
 			"collector_number": "242",
 			"image_uris": {
@@ -1781,7 +1781,7 @@
 		{
 			"name": "Domesticated Voidbeast",
 			"rarity": "rare",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{4}{U}",
 			"type": "Creature — Lizard Horror",
 			"collector_number": "52",
 			"back": {
@@ -3446,7 +3446,7 @@
 	2 Quintessence Division
 	1 Varassi, Firstborn of Aeon
 	2 Share the Hyperlanes
-	1 Starwhale Crossing
+	1 The Starwhale Crossing
 	2 Wolf of Anjarja
 	1 Valkyrie of Shared Dawn
 	2 Prince Bronwyn, the Fair
@@ -3540,7 +3540,7 @@
 	4 Machine Prophets
 	4 Command Reality
 	4 Colossal Railgun
-	4 Pulsar Prophet
+	4 Prophet's Birth
 	4 Desaturate
 	4 Swimming in Moonlight
 	4 Drop Through Reality
@@ -3804,7 +3804,7 @@
 	12 Sunshadow Drake
 	1 Varassi, Firstborn of Aeon
 	2 Share the Hyperlanes
-	1 Starwhale Crossing
+	1 The Starwhale Crossing
 	6 Warriors of Vjala
 	6 Hero of Dofrar
 	2 Wolf of Anjarja
@@ -3835,7 +3835,7 @@
 	12 Massive Mantid
 	2 Hive Scytheclaw
 	6 Colossal Railgun
-	6 Pulsar Prophet
+	6 Prophet's Birth
 	6 Desaturate
 	12 It Takes Two
 	2 Call the Infinite Bridge
@@ -4103,7 +4103,7 @@
 	6 Sunshadow Drake
 	4 Varassi, Firstborn of Aeon
 	7 Share the Hyperlanes
-	4 Starwhale Crossing
+	4 The Starwhale Crossing
 	15 Warriors of Vjala
 	15 Hero of Dofrar
 	7 Wolf of Anjarja
@@ -4134,7 +4134,7 @@
 	6 Massive Mantid
 	7 Hive Scytheclaw
 	15 Colossal Railgun
-	15 Pulsar Prophet
+	15 Prophet's Birth
 	15 Desaturate
 	6 It Takes Two
 	7 Call the Infinite Bridge

@@ -1,4 +1,219 @@
-﻿VERSION 25 CHANGELOG
+﻿VERSION 26 CHANGELOG
+====================
+
+The Starwhale Crossing added.
+Prophet's Birth added.
+
+Starwhale Crossing removed.
+Pulsar Prophet removed.
+
+Esmund, Shard of Nebula
+cost: {2}{U} => {3}{U}
+rules_text: Indestructible
+Esmund can't attack or block unless your library has fewer cards in it than half the minimum deck size.
+{T}: You may play target card from your graveyard this turn if it was discarded or put there from your library this turn. => Indestructible
+Esmund can't attack or block unless your library has fewer cards in it than half the minimum deck size.
+Once during each of your turns, you may play a card from your graveyard this turn if it was discarded or put there from your library this turn.
+pt: 3/5 => 4/6
+
+Void Potentate
+
+Kaia, Shard of Abyss
+cost: {2}{B} => {3}{B}
+rules_text: Indestructible
+Kaia can't attack or block unless an opponent has less than half their starting life total.
+{T}: Target opponent discards a card or sacrifices a nonland permanent. If they can't, they lose the game. Activate only if an opponent lost life this turn. [i](One or more creatures dealing combat damage to a player is one instance of life loss.)[/i] => Indestructible
+Kaia can't attack or block unless an opponent has less than half their starting life total.
+Whenever an opponent loses life for the first time each turn, they discard a card or sacrifice a nonland permanent. If they can't, they lose the game.
+pt: 5/3 => 5/5
+
+Friede, Shard of Light
+cost: {1}{W} => {4}{W}
+rules_text: Indestructible
+Friede can't attack or block unless you control ten or more permanents.
+{T}: The next time one or more tokens would be created under your control this turn, you may instead create that many tapped 4/4 white Demigod creature tokens with two stun counters on each of them. [i](Copies of permanent spells entering do not count as creating tokens.)[/i] => Indestructible
+Friede can't attack or block unless you control ten or more permanents.
+If one or more tokens would be created under your control this turn, you may instead create that many tapped 4/4 white Demigod creature tokens with two stun counters on each of them. [i](Copies of permanent spells entering do not count as creating tokens.)[/i]
+pt: 4/3 => 6/6
+
+Vjala, Shard of Creation
+cost: {1}{R} => {2}{R}
+rules_text: Indestructible
+Vjala can't attack or block unless you've cast or copied three or more spells this turn.
+{T}: You may cast a copy of the instant or sorcery spell you most recently cast this turn. [i](Timing rules still apply.)[/i] => Indestructible
+Vjala can't attack or block unless you've cast or copied three or more spells this turn.
+Once during each of your turns, you may cast a copy of the instant or sorcery spell you most recently cast this turn. [i](Timing rules still apply.)[/i]
+pt: 3/4 => 4/4
+
+Inga, Shard of Genesis
+cost: {3}{G} => {4}{G}
+rules_text: Indestructible
+Inga can't attack or block unless your graveyard has seven or more cards in it.
+{T}, Sacrifice another creature: Search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield, then shuffle. Activate only as a sorcery and only once each turn. => Indestructible
+Inga can't attack or block unless your graveyard has seven or more cards in it.
+Once each turn, whenever another creature you control enters, search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield, then shuffle.
+pt: 5/5 => 7/5
+
+Captain Elai
+
+Covet Infinity
+
+Amede, Vessel of Alune
+
+Titan of Helgahraun
+
+Currents of the Hyperlanes
+rules_text: When this enchantment enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+[i]Landfall[/i] — Whenever a land you control enters, put a crossing counter on this enchantment.
+Remove six crossing counters from this enchantment: Create a 6/6 blue Leviathan creature token with flying. => When this enchantment enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+[i]Landfall[/i] — Whenever a land you control enters, put a crossing counter on this enchantment.
+Remove six crossing counters from this enchantment: Create a 6/6 blue Leviathan creature token with flying. Activate only as a sorcery.
+
+Shambling Terrarium
+rules_text: Whenever another creature you control dies, put a +1/+1 counter on this creature.
+{3}{B}{G}: This creature becomes a copy of target creature card in your graveyard until end of turn, except it has “Whenever another creature you control dies, put a +1/+1 counter on this creature.” => Whenever another creature you control dies, put a +1/+1 counter on this creature.
+
+Brightheart Serpent
+
+Mechanized Propagator
+
+Stardust Explorer
+cost: {1}{G} => {2}{G}
+pt: 1/3 => 2/3
+
+Automatic Reconstruction
+
+Chronicler's Directive
+
+Unknown Beings Lurk
+cost: {G} => {1}{G}
+rules_text: When this enchantment enters, create a 0/0 green Tentacle creature token, then put a +1/1 counter on each Tentacle you control.
+[i]Landfall[/i] — Whenever a land you control enters, if your expanse is three or greater, put a +1/+1 counter on target creature you control. [i](Each differently named land you control adds to your expanse.)[/i] => When this enchantment enters, create a 0/0 green Tentacle creature token, then put two +1/1 counters on each Tentacle you control.
+[i]Landfall[/i] — Whenever a land you control enters, if your expanse is four or greater, put a +1/+1 counter on target creature you control. [i](Each differently named land you control adds to your expanse.)[/i]
+
+Eir, Voidtwisted Valkyrie
+
+Zaender, Anomaly Analyst
+rules_text: [+1]: If any player has one or fewer cards in hand, you may pay 1 life. If you do, draw a card. If you don't draw a card this way, each opponent loses 1 life.
+[-2]: Create a black Aura enchantment token named Nulltouched attached to target creature. It has enchant creature and “Enchanted creature gets -2/-2” and “At the beginning of the upkeep of enchanted creature's controller, that player loses 2 life.”
+[-X]: Draw X cards. Your maximum hand size becomes X. [i](This effects lasts indefinitely.)[/i] => [+1]: Each opponent loses 1 life. If any player has one or fewer cards in hand, you may pay 1 life. If you do, draw a card.
+[-2]: Create a black Aura enchantment token named Nulltouched attached to target creature. It has enchant creature and “Enchanted creature gets -2/-2” and “At the beginning of the upkeep of enchanted creature's controller, that player loses 2 life.”
+[-X]: Draw X cards. Your maximum hand size becomes X. [i](This effects lasts indefinitely.)[/i]
+special_text: [+1]: If any player has one or fewer cards in hand, you may pay 1 life. If you do, draw a card. If you don't draw a card this way, each opponent loses 1 life.
+[-2]: Create a black Aura enchantment token named Nulltouched attached to target creature. It has enchant creature and “Enchanted creature gets -2/-2” and “At the beginning of the upkeep of enchanted creature's controller, that player loses 2 life.”
+[-X]: Draw X cards. Your maximum hand size becomes X. [i](This effects lasts indefinitely.)[/i] => [+1]: Each opponent loses 1 life. If any player has one or fewer cards in hand, you may pay 1 life. If you do, draw a card.
+[-2]: Create a black Aura enchantment token named Nulltouched attached to target creature. It has enchant creature and “Enchanted creature gets -2/-2” and “At the beginning of the upkeep of enchanted creature's controller, that player loses 2 life.”
+[-X]: Draw X cards. Your maximum hand size becomes X. [i](This effects lasts indefinitely.)[/i]
+
+Voidbeast's Fury
+
+Herald of Nothing
+
+It Takes Two
+rules_text: Create two 1/1 blue Pilot creature tokens.
+Orbit 2—{5}{W} [i]({5}{W}, Exile this card from your hand: Put two charge counters on it. Once during each of your turns, you may cast a copy of this card without paying its mana cost by removing a charge counter from it. Orbit only as a sorcery.)[/i] => Create two 1/1 blue Pilot creature tokens.
+Orbit 2—{4}{W} [i]({4}{W}, Exile this card from your hand: Put two charge counters on it. Once during each of your turns, you may cast a copy of this card without paying its mana cost by removing a charge counter from it. Orbit only as a sorcery.)[/i]
+
+Call the Infinite Bridge
+
+Leif, Hero of Valdrasil
+
+Drop Through Reality
+
+Decimator Legion
+
+Starheart Harvest
+cost: {2}{G}{U} => {3}{G}{U}
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, untap up to three target lands you control.
+Whenever a Kraken, Leviathan, Octopus, or Serpent creature you control enters, put X +1/+1 counters on it, where X is that creature's power. => Whenever you tap a land for mana, add one mana of any type that permanent produced.
+Whenever one or more Kraken, Leviathan, Octopus, or Serpent creatures you control attack, untap all lands you control.
+
+Domesticated Voidbeast
+cost: {2}{U} => {4}{U}
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, draw a card, then discard a card if this is the first time this ability has resolved this turn. => [i]Landfall[/i] — Whenever a land you control enters, draw a card, then discard a card.
+Whenever you draw a card, put a +1/+1 counter on this creature.
+
+Upgraded Marauder
+rules_text: When this creature enters, create a Treasure token.
+Whenever you cast a spell, this creature gets +X/+X until end of turn, where X is the number of colors of mana you spent to cast that spell. => When this creature enters, create a Treasure token.
+pt: 2/2 => 3/2
+
+Uncharted Frontiers
+
+Blazing Meteors
+
+All Hands On Deck
+
+Dunebreaker Wurm
+
+Might of the Machine
+
+Spore Spew
+rules_text: For each permanent you control with with one or more counters on it, create a 0/0 green Tentacle creature token. Then put a +1/+1 counter on each Tentacle you control.
+Orbit 2—{4}{G}{W} [i]({4}{G}{W}, Exile this card from your hand: Put two charge counters on it. Once during each of your turns, you may cast a copy of this card without paying its mana cost by removing a charge counter from it. Orbit only as a sorcery.)[/i] => For each nonland permanent you control with with one or more counters on it, create a 0/0 green Tentacle creature token. Then put a +1/+1 counter on each Tentacle you control.
+Orbit 2—{4}{G}{W} [i]({4}{G}{W}, Exile this card from your hand: Put two charge counters on it. Once during each of your turns, you may cast a copy of this card without paying its mana cost by removing a charge counter from it. Orbit only as a sorcery.)[/i]
+
+Luscious Planetscape
+
+Asbjal, Startouched
+
+Portal Conservator
+
+Icareum, Perfected Mind
+
+Repel Aggression
+
+Rusted Moontrotter
+
+Elin, Beyond the Horizon
+
+Caelira, Dawn Unbroken
+
+Chaos Wyrm
+
+Nullforged Executioner
+
+Vallaheart Rescuer
+
+Friede's Purifier
+rules_text: Whenever you create one or more tokens, create a 1/1 blue Pilot creature token. This ability triggers only once each turn.
+{1}{W}, Sacrifice this creature: Tokens you control gains indestructible until end of turn. => Whenever a token you control enters, create a 1/1 blue Pilot creature token. This ability triggers only once each turn.
+{1}{W}, Sacrifice this creature: Tokens you control gains indestructible until end of turn.
+
+Steelframe Viridar
+
+Upload Capsule
+
+Seek the Last Light
+
+False God Interface
+
+Freydis, the Astrobiologist
+
+Star Sentinel Xylo
+rules_text: [+1]: Exile up to one target creature you own. Put two charge counters on it. It gains orbit. [i](Once during each of your turns, you may cast a copy of that card without paying its mana cost by removing a charge counter from it.)[/i]
+[0]: Whenever you cast a spell this turn, you draw a card and gain 1 life.
+[-3]: Exile target creature you don't own. => [+1]: Exile up to one target nontoken creature you own. Put two charge counters on it. It gains orbit. [i](Once during each of your turns, you may cast a copy of that card without paying its mana cost by removing a charge counter from it.)[/i]
+[0]: You gain 1 life and draw a card for each spell you cast this turn.
+[-3]: Exile target creature you don't own.
+special_text: [+1]: Exile up to one target creature you own. Put two charge counters on it. It gains orbit. [i](Once during each of your turns, you may cast a copy of that card without paying its mana cost by removing a charge counter from it.)[/i]
+[0]: Whenever you cast a spell this turn, you draw a card and gain 1 life.
+[-3]: Exile target creature you don't own. => [+1]: Exile up to one target nontoken creature you own. Put two charge counters on it. It gains orbit. [i](Once during each of your turns, you may cast a copy of that card without paying its mana cost by removing a charge counter from it.)[/i]
+[0]: You gain 1 life and draw a card for each spell you cast this turn.
+[-3]: Exile target creature you don't own.
+
+Brigand's Tanker
+
+Chronicler's Probe
+
+Drakkonfell, First Starkarve
+
+Sun-Eater Nautiloid
+
+Lightless, Star of Oblivion
+
+
+VERSION 25 CHANGELOG
 ====================
 
 

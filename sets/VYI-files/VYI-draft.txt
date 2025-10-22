@@ -957,7 +957,7 @@
 		{
 			"name": "Unknown Beings Lurk",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{G}",
 			"type": "Enchantment",
 			"collector_number": "203",
 			"image_uris": {

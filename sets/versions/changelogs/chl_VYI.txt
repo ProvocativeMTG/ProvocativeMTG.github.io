@@ -1,4 +1,65 @@
-﻿VERSION 27 CHANGELOG
+﻿VERSION 28 CHANGELOG
+====================
+
+
+
+Esmund, Shard of Nebula
+cost: {3}{U} => {2}{U}
+rules_text: Indestructible
+Esmund can't attack or block unless your library has fewer cards in it than half the minimum deck size.
+Once during each of your turns, you may play a card from your graveyard this turn if it was discarded or put there from your library this turn. => As long as your library has fewer cards in it than half the minimum deck size, Esmund has indestructible.
+Once during each of your turns, you may play a card from your graveyard this turn if it was discarded or put there from your library this turn.
+pt: 4/6 => 2/4
+
+Kaia, Shard of Abyss
+rules_text: Indestructible
+Kaia can't attack or block unless an opponent has less than half their starting life total.
+Whenever an opponent loses life for the first time each turn, they discard a card or sacrifice a nonland permanent. If they can't, they lose the game. => As long as an opponent has less than half their starting life total, Kaia has indestructible.
+Whenever an opponent loses life for the first time each turn, they discard a card or sacrifice a nonland permanent. If they can't, they lose the game.
+pt: 5/5 => 3/4
+
+Friede, Shard of Light
+cost: {4}{W} => {2}{W}
+rules_text: Indestructible
+Friede can't attack or block unless you control ten or more permanents.
+If one or more tokens would be created under your control this turn, you may instead create that many tapped 4/4 white Demigod creature tokens with two stun counters on each of them. [i](Copies of permanent spells entering do not count as creating tokens.)[/i] => As long as you control ten or more permanents, Friede has indestructible.
+If one or more tokens would be created under your control this turn, you may instead create that many tapped 4/4 white Demigod creature tokens with two stun counters on each of them. [i](Copies of permanent spells entering do not count as creating tokens.)[/i]
+pt: 6/6 => 3/3
+
+Vjala, Shard of Creation
+cost: {2}{R} => {1}{R}
+rules_text: Indestructible
+Vjala can't attack or block unless you've cast or copied three or more spells this turn.
+Once during each of your turns, you may cast a copy of the instant or sorcery spell you most recently cast this turn. [i](Timing rules still apply.)[/i] => As long as you've cast or copied three or more spells this turn, Vjala has indestructible.
+Once during each of your turns, you may cast a copy of the instant or sorcery spell you most recently cast this turn. [i](Timing rules still apply.)[/i]
+pt: 4/4 => 4/2
+loyalty:  => 4/
+
+Inga, Shard of Genesis
+cost: {4}{G} => {3}{G}
+rules_text: Indestructible
+Inga can't attack or block unless your graveyard has seven or more cards in it.
+Once each turn, whenever another creature you control enters, search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield, then shuffle. => As long as your graveyard has ten or more cards in it, Inga has indestructible.
+Once each turn, whenever another creature you control enters, search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield, then shuffle.
+pt: 7/5 => 4/3
+
+Devour All Light
+rules_text: Each player sacrifices two permanents that are each one or more colors. For each permanent you sacrificed this way, create a colorless enchantment token named [i]Void[/i] Corona with “Sacrifice this token: The next spell you cast this turn has starstorm.” [i](When you cast that spell, copy it for each spell you cast before it this turn. You may choose new targets for the copies.)[/i] => Each player sacrifices two permanents that are each one or more colors. For each permanent you sacrificed this way, create a colorless enchantment token named Void Corona with “Sacrifice this token: The next spell you cast this turn has starstorm.” [i](When you cast that spell, copy it for each spell you cast before it this turn. You may choose new targets for the copies.)[/i]
+
+Aeon
+rules_text: [+2]: Each player exiles cards from the top of their library until they exile a nonland card. You may cast any card exiled with Aeon without paying its mana cost.
+[+1]: Create a colorless enchantment token named [i]Void[/i] Corona with “Sacrifice this token: The next spell you cast this turn has starstorm.” [i](When you cast that spell, copy it for each spell you cast before it this turn. You may choose new targets for the copies.)[/i]
+[-5]: Choose three numbers. Exile each other nonland permanent with a mana value that is equal to one of the chosen numbers. => [+2]: Each player exiles cards from the top of their library until they exile a nonland card. You may cast any card exiled with Aeon without paying its mana cost.
+[+1]: Create a colorless enchantment token named Void Corona with “Sacrifice this token: The next spell you cast this turn has starstorm.” [i](When you cast that spell, copy it for each spell you cast before it this turn. You may choose new targets for the copies.)[/i]
+[-5]: Choose three numbers. Exile each other nonland permanent with a mana value that is equal to one of the chosen numbers.
+special_text: [+2]: Each player exiles cards from the top of their library until they exile a nonland card. You may cast any card exiled with Aeon without paying its mana cost.
+[+1]: Create a colorless enchantment token named [i]Void[/i] Corona with “Sacrifice this token: The next spell you cast this turn has starstorm.” [i](When you cast that spell, copy it for each spell you cast before it this turn. You may choose new targets for the copies.)[/i]
+[-5]: Choose three numbers. Exile each other nonland permanent with a mana value that is equal to one of the chosen numbers. => [+2]: Each player exiles cards from the top of their library until they exile a nonland card. You may cast any card exiled with Aeon without paying its mana cost.
+[+1]: Create a colorless enchantment token named Void Corona with “Sacrifice this token: The next spell you cast this turn has starstorm.” [i](When you cast that spell, copy it for each spell you cast before it this turn. You may choose new targets for the copies.)[/i]
+[-5]: Choose three numbers. Exile each other nonland permanent with a mana value that is equal to one of the chosen numbers.
+
+
+VERSION 27 CHANGELOG
 ====================
 
 

@@ -1,4 +1,794 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Naturalborn of the Void added.
+Shadow Keep added.
+
+Astel, Naturalborn of the Void removed.
+The Shadow Keep removed.
+
+Bear Witness!
+
+Patches, the Untethered
+rules_text: Whenever a creature dies for the first time each turn, Patches connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a loyalty counter on Patches.)[/i]
+[+1]: Create a 1/1 black Skeleton creature token.
+[-3]: Destroy target creature if it has mana value 2 or less. Destroy that creature if it has mana value 4 or less instead if a permanent you controlled left the battlefield this turn.
+[-10]: You get an emblem with “Whenever a creature you don't control dies, return it to the battlefield under your control.” => Whenever a creature dies for the first time each turn, Patches connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a loyalty counter on Patches.)[/i]
+[+1]: Create a 1/1 black Skeleton creature token.
+[-3]: Destroy target creature if it has mana value 2 or less or if a permanent you controlled left the battlefield this turn.
+[-10]: You get an emblem with “Whenever a creature you don't control dies, return it to the battlefield under your control.”
+special_text: Whenever a creature dies for the first time each turn, Patches connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a loyalty counter on Patches.)[/i]
+[+1]: Create a 1/1 black Skeleton creature token.
+[-3]: Destroy target creature if it has mana value 2 or less. Destroy that creature if it has mana value 4 or less instead if a permanent you controlled left the battlefield this turn.
+[-10]: You get an emblem with “Whenever a creature you don't control dies, return it to the battlefield under your control.” => Whenever a creature dies for the first time each turn, Patches connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a loyalty counter on Patches.)[/i]
+[+1]: Create a 1/1 black Skeleton creature token.
+[-3]: Destroy target creature if it has mana value 2 or less or if a permanent you controlled left the battlefield this turn.
+[-10]: You get an emblem with “Whenever a creature you don't control dies, return it to the battlefield under your control.”
+
+Placidusax, Elden Lord
+
+The Golden Star Beast
+
+Sacred Relic Sword
+
+Cleanrot Knight
+
+Messmer's Spear
+
+Marika's Ascension
+
+Miniature Doll
+
+Spirits of Nox
+
+Sorcerer Rogier
+
+Sword of Night and Flame
+
+Dark Moon Sorcery
+
+Floating Spirit
+
+Night's Cavalry
+
+War Against the Giants
+
+Fia, Deathbed Companion
+
+Challenge of the Ring
+
+Miquella, the Unalloyed
+
+Rellana, Blade of Messmer
+
+Dancer of Ranah
+
+Bathed in Gold
+
+Haligtree Knight
+
+Ancient Hero of Zamor
+
+Divine Beast Dancing Lion
+
+Miquella and Radahn
+
+Romina, Saint of the Bud
+
+Godwyn, the Golden
+
+Base Serpent Messmer
+
+Igon, Drake Warrior
+
+Messmer, Marika's Spear
+
+Scadutree Avatar
+
+Miquella's Promise
+
+Enchanted Knight
+
+Needle Knight Leda
+
+Marika's Soreseal
+
+Hoarah Loux, Warrior
+
+Feeding the Haligtree
+
+Sir Ansbach
+
+Lion Dance
+
+Trina's Lily
+
+The Madness Wells
+
+Forager Brood Gift
+
+Finger Crone's Blessing
+
+Bayle, the Dread
+
+Minor Erdtree
+
+Messmer's Orb
+
+Circlet of Light
+
+Bolt Bend
+
+Bayle, Terror Incarnate
+
+Marika's Communion
+
+Lightseeker Hyetta
+
+Death Prince's Domain
+
+Blaidd, Forlorn Hound
+
+Black Knight Captain
+
+Death Knight
+
+Bayle's Tyranny
+
+Becoming a Mother
+
+Dryleaf Dane
+
+Redmane Freyja
+
+Those United in Common Cause
+
+Purge without Grace
+
+Midra, Lord of Frenzied Flame
+
+A God and a Lord
+
+Count Ymir, High Priest
+
+Thiollier's Plea
+
+Miquella, the Kind
+
+Spoken Echoes
+
+Dancing Lion of Rauh
+
+Bayle's Flame Lightning
+
+Basilisk
+
+Ancient Dragon
+
+Lichdragon Fortissax
+
+The Scadutree
+
+Perfect Order
+
+Crux of Fate
+
+Blasphemous Act
+
+Ancient Ruins of Rauh
+
+Red-Maned Radagon
+
+Formless Mother's Embrace
+
+Nepheli Loux, Warrior
+
+Promised Consort Radahn
+
+Roundtable Knight Vyke
+
+Slaughter the Strong
+
+Ymir's Entreaty
+
+Blackguard Boggart
+
+Strength of Runes
+
+Primeval Sorcerer Azur
+
+Madness
+
+Guardian Golem
+
+The Loathsome Dung Eater
+
+Veiled Monarch's Reign
+
+The Shadow Sunflower
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, creatures you control get +4/+4 until end of turn.
+Exhaust — {3}{G}: The Shadow Sunflower deals X damage divided as you choose among up to X target creatures your opponents control, where X is its power. Each of those creatures deals damage equal to its power to The Shadow Sunflower. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i] => [i]Landfall[/i] — Whenever a land you control enters, creatures you control get +4/+4 until end of turn.
+Exhaust — {3}{G}: The Shadow Sunflower deals X damage divided as you choose among up to X target creatures your opponents control, where X is its power. Each of those creatures deals damage equal to its power to The Shadow Sunflower. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i]
+
+Blade of Miquella
+
+Visions of Madness
+
+Dearest Nanaya
+
+Metyr, Mother of Fingers
+
+Dread Fortissax
+
+Fleeting Microcosm
+
+Praetor Rykard
+
+Divine Bird Warrior
+
+Sellen's Ponderance
+
+The Ever Brilliant Goldmask
+
+Belurat, Tower Settlement
+
+Marika's Statue
+
+Haligtree Shrine
+
+Crucible Knights
+
+Serpent
+
+Founding Rain of Stars
+
+Oracle Envoy
+
+Jar-Bairn
+
+Miquella's Charm
+
+Golden Epitaph
+
+The Haligtree
+
+Rellana, Twin Moon Knight
+
+Merchant's Song
+
+Perfumer
+
+The Hornsent
+
+Primeval Sorcerer Lusat
+
+Horn-deck'd Beast
+
+Radahn's Resurrection
+
+The Gate of Divinity
+
+Eclipse Shotel
+
+Malenia, the Severed
+
+Ensha of the Royal Remains
+
+Seduction and Betrayal
+
+Dominula, Windmill Village
+
+Commander Gaius
+
+Infernal Grasp
+
+Claimed by Death
+
+Dominula Celebrant
+
+D and Rogier
+
+Roundtable Hold
+
+City of Nox
+
+Church of Marika
+
+Margit, the Fell Omen
+
+Induced Dreams
+
+Stick Together
+
+Aging Untouchable
+
+One-Eyed God's Flame
+
+The First Step
+
+Putrescent Knight
+
+Rauh Crucible Knight
+
+Godwyn's Knight
+
+Mohg, Lord of Blood
+
+Boc, the Seamster
+
+Miquella's Cross
+
+Carian Inverted Statue
+
+Maliketh, the Black Blade
+
+Battling the Sisters of Rot
+
+Aspect of the Crucible
+
+Sage Midra
+
+Miquella's Love
+
+Gladius, Beast of Night
+
+Wylder
+
+Fingercreeper
+
+Ymir, Mother of Fingers
+
+Adula, Dark Moon Sworn
+
+Miquella's Sacrifice
+
+Abandoning Even His Fate
+
+Fanged Imp
+
+Preceptor Seluvis
+
+Flames of the Crusade
+
+Hornsent Grandam
+
+Roderika, Spirit Tuner
+
+Hornsent Inquisition
+
+Millicent, Flowering Valkyrie
+
+Midra's Manse
+
+Blackgaol Knight
+
+Enir Ilim
+
+Marika, Born of Shadow
+
+Shaman Village
+
+Recluse
+
+Gurranq, Beast Clergyman
+
+Guardian
+
+Sir Moore
+
+Cerulean Coast
+
+Spirit Fish
+
+Spirit Eel
+
+Clue
+
+Fire Knight
+
+Crusader's Resentment
+rules_text: Choose two—
+• Exile target tapped creature.
+• Exile target artifact.
+• Exile target enchantment.
+• Exile target player's graveyard. => Choose two —
+• Exile target tapped creature.
+• Exile target artifact.
+• Exile target enchantment.
+• Exile target player's graveyard.
+
+Servants of Death
+
+Baleful Scarlet Rot
+
+Food
+
+Dragon Warrior
+
+Florissax, Dragon Priestess
+
+Feast Upon the Heart
+
+Furnace Golem
+
+Duchess
+
+Liurnia of the Lakes
+
+Foot of the Erdtree
+
+Beloved Child
+
+Will You Be My Consort
+
+Seeking the Crosses
+
+Seeker of Runes
+
+Spectral Hawk
+
+Blade of Destined Death
+
+Nox Maidens
+
+Jagged Peak Drake
+
+Albinauric Archer
+
+Radagon is Marika
+
+Stars of Darkness
+
+Giant Crayfish
+
+Leonard, Radahn's Steed
+
+Liurnian Siege
+
+Epic Encounter
+
+Somber Remembrance
+
+Jori, Elder Inquisitor
+
+Enter Ranni's Service
+
+Vindicate
+
+Treasure
+
+Eternal City's Desolation
+
+Igneous Visions
+
+Demigod
+
+Frenzied Troll
+
+Confrontation at the Gate
+
+Dragonkin Soldier
+
+Desperate Measures
+
+Guided by Grace
+
+Mariner's Dirge
+
+The Gate of Night
+
+Golden Braid
+
+Marika, the Golden One
+
+Revenant
+
+Behold Primeval Currents
+
+Godwyn's Fall
+
+Marika's Guidance
+
+Demigod
+
+Demigod
+
+Demigod
+
+Demigod
+
+Starscourge's Challenge
+
+Heartfelt Wish
+
+Secret Away
+
+Demigod
+
+Demigod
+
+Demigod
+
+Demigod
+
+Demigod
+
+Die a True Death
+
+Deathroot's Grasp
+
+Insidious Roots
+
+Divine Invocation
+
+Royal Revenant
+
+Walking Mausoleum
+
+Soldier
+
+Poison Counter
+
+Ooze Horse
+
+Marika's Head
+
+Shard
+
+Lake of Rot
+
+The Three Fingers
+
+Wolf
+
+Human Warrior
+
+Skeleton
+
+Dragon
+
+Blood
+
+Map
+
+Everywhere
+
+Jar Innards
+
+Black Knife
+
+Into the Jar
+
+Seekers of Redemption
+
+Flee from Caelid
+
+Secret Rite
+
+Sweet Dreams
+
+Rogier, Scholar of Death
+
+The Monarch
+
+Nature of the Shamans
+
+Executor
+
+Erdtree Burial
+
+Godwyn, First to Fall
+
+Morgott, Veiled Monarch
+
+Erdtree Avatar
+
+Empyrean Cocoon
+
+Journey to the Haligtree
+
+Giant Spirit Skeleton
+
+Noklateo, the Shrouded City
+
+King of the Storm
+
+Gaping Dragon
+
+Nameless King
+
+Dancer of the Boreal Valley
+
+Smelter Demon
+
+Snow Witch
+
+Fallingstar Beast
+
+Scadutree Base
+
+O, Elden Ring!
+
+Radagon of the Golden Order
+
+Mend the Elden Ring
+
+Heolstor, the Nightlord
+
+Duke's Dear Freja
+
+Crumbling Farum Azula
+
+Maris, Fathom of Night
+
+Consecrated Snowfield
+
+Altus Plateau
+
+Land of Shadow
+
+A New Journey
+
+In Search of Purpose
+
+Melina and Torrent
+
+Adel, Gaping Jaw
+
+Ironeye
+
+Fire Knight Captain
+
+Fulghor, Darkdrift Knight
+
+Jarburg
+
+Wailing Dunes
+
+Ancient Golem
+
+Redmane Castle
+
+Elphael, Brace of the Haligtree
+
+Leyndell, Ashen Capital
+
+Gnoster, Wisdom of Night
+
+Horned Warrior
+
+Empyrean Bond
+
+Silver Tear Seal
+
+Sunder Reality
+
+Make Your Choice
+
+Iron Menial
+
+Construct
+
+Faurtis Stoneshield
+
+Serve the Gods
+
+Small Jar Bazaar
+
+Thiollier
+
+Raider
+
+Fissure in the Fog
+
+Great Exodus
+
+Unrelenting Hunger
+type: Sorcery => Instant
+cost: {2}{B}{B} => {1}{B}{B}
+rules_text: This spell costs {1}{B} less to cast if you control a Dragon or if your commander is a Dragon.
+Exile target creature. Until the end of your next turn, you may cast that card and you may spend mana as though it were mana of any color to cast that spell. => As long as you control a Dragon or your commander is a Dragon, this card has overload {5}{B}{B}{B}. [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i]
+Exile target creature you don't control.
+
+Gaol Binding
+
+Teardrop of Night
+
+Return to the Erdtree
+
+Tricephalos's Howl
+
+Godskin Duo
+
+The Great Jar
+
+On An Adventure
+
+Can Be Cast From Exile
+
+Restage
+
+Plant
+pt:  => 0/1
+
+Butterfly
+
+Bird Spirit
+
+Libra, Equilibrious Beast
+
+Caligo, Miasma of Night
+
+Arrow of Nightglow
+
+Condemn to Memory
+
+Light of Miquella
+
+Offer Pita Bread
+
+Serosh, Beast Regent
+
+Glow
+
+Larval Transformation
+
+Maris, Unknown Entity
+
+Rellana's Cameo
+
+Shadows Colder than Death
+
+Call the Condemned
+
+Footprints of the Nightlord
+
+Grave Keeper
+
+Night's Tide
+
+The Shape of Night
+
+Animus, Ascendant Light
+
+Farum Azula Dragon
+
+Fire Prelate
+
+Flames of Gladius
+
+Forge's Flames
+
+Behold the Jagged Peak
+
+Cradled by Death
+cost: {2}{G} => {3}{G}
+rules_text: At the beginning of your end step, you may sacrifice a creature. If you do, create a tapped colorless land token named Everywhere that is every basic land type. => At the beginning of your end step, you may sacrifice a creature. If you do, create two tapped colorless land tokens named Everywhere that is every basic land type.
+
+Roderika and Hewg
+
+Shaman Village Sentinel
+
+Storm Ruler
+
+Eclipsed Sun
+
+Ghiza's Wheel
+
+Larval Tear
+
+Marika's Jars
+
+Moonlight Greatsword
+
+A Tarnished of No Renown
+
+Centipede Demon
+
+Naturalborn's Presence
+
+
+VERSION 8 CHANGELOG
 ====================
 
 No changes.

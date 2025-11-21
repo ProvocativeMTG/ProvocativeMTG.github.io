@@ -34,6 +34,11 @@
             "set_code": "VYI",
             "set_name": "Valdrasil: Voyage to Infinity",
             "formats": ""
+        },
+        {
+            "set_code": "WOD",
+            "set_name": "Wylds of Derrigoa",
+            "formats": ""
         }
     ]
 }

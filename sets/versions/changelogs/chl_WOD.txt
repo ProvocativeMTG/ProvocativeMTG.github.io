@@ -1,4 +1,17 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Rise on Wicked Winds
+rules_text: Choose or both—
+• Destroy target creature.
+• Return target creature card from your graveyard to the battlefield. => Choose one or both—
+• Destroy target creature.
+• Return target creature card from your graveyard to the battlefield.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 The Glory of Derrigoa added.

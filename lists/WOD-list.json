@@ -1,6 +1,6 @@
 ﻿[
     {
-        "card_name": "Glory",
+        "card_name": "The Glory of Derrigoa",
         "number": 14,
         "shape": "normal",
         "set": "WOD",
@@ -2108,11 +2108,11 @@
         "position": "83"
     },
     {
-        "card_name": "Arid Canyon",
-        "number": 270,
+        "card_name": "Well-Trodden Gulch",
+        "number": 294,
         "shape": "normal",
         "set": "WOD",
-        "position": "128"
+        "position": "91"
     },
     {
         "card_name": "Spectral Steppe",
@@ -2143,7 +2143,11 @@
         "position": "303"
     },
     {
-        "card_name": "e"
+        "card_name": "Arid Canyon",
+        "number": 270,
+        "shape": "normal",
+        "set": "WOD",
+        "position": "128"
     },
     {
         "card_name": "Cactus Copse",
@@ -2182,13 +2186,6 @@
         "position": "86"
     },
     {
-        "card_name": "Well-Trodden Gulch",
-        "number": 294,
-        "shape": "normal",
-        "set": "WOD",
-        "position": "91"
-    },
-    {
         "card_name": "Nowhere Land",
         "number": 279,
         "shape": "normal",
@@ -2208,18 +2205,6 @@
         "shape": "normal",
         "set": "WOD",
         "position": "191"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"

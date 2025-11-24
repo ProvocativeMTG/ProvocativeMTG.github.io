@@ -1,4 +1,21 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+The Glory of Derrigoa added.
+
+Glory removed.
+
+Well-Trodden Gulch
+rules_text: This land enters tapped.
+{T}: Add {R} or {W}.
+{1}{R}{G}: This land becomes a 2/2 Dinosaur creature until end of turn. It's still a land.
+Whenever this land attacks, creatures you control get +1/+0 until end of turn. => This land enters tapped.
+{T}: Add {R} or {W}.
+{1}{R}{W}: This land becomes a 2/2 Dinosaur creature until end of turn. It's still a land.
+Whenever this land attacks, creatures you control get +1/+0 until end of turn.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

@@ -1429,7 +1429,7 @@
             "notes": ""
         },
         {
-            "card_name": "Glory",
+            "card_name": "The Glory of Derrigoa",
             "color": "W",
             "rarity": "mythic",
             "type": "Enchantment",
@@ -1834,9 +1834,9 @@
             "rarity": "rare",
             "type": "Land \u2014 Desert",
             "number": 294,
-            "color_identity": "WRG",
+            "color_identity": "WR",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {R} or {W}.\n{1}{R}{G}: This land becomes a 2/2 Dinosaur creature until end of turn. It's still a land.\nWhenever this land attacks, creatures you control get +1/+0 until end of turn.",
+            "rules_text": "This land enters tapped.\n{T}: Add {R} or {W}.\n{1}{R}{W}: This land becomes a 2/2 Dinosaur creature until end of turn. It's still a land.\nWhenever this land attacks, creatures you control get +1/+0 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",

@@ -742,7 +742,7 @@
         "position": "503"
     },
     {
-        "card_name": "Maris, Fathom of Night",
+        "card_name": "Maris, Master of Bubbles",
         "number": 79,
         "shape": "normal",
         "set": "EDR",
@@ -2233,7 +2233,7 @@
     },
     {
         "card_name": "One-Eyed God's Flame",
-        "number": 375,
+        "number": 374,
         "shape": "normal",
         "set": "EDR",
         "position": "294"
@@ -2247,7 +2247,7 @@
     },
     {
         "card_name": "Rauh Crucible Knight",
-        "number": 383,
+        "number": 382,
         "shape": "normal",
         "set": "EDR",
         "position": "297"
@@ -2268,21 +2268,21 @@
     },
     {
         "card_name": "Rya, Volcano Manor Scout",
-        "number": 393,
+        "number": 392,
         "shape": "normal",
         "set": "EDR",
         "position": "140"
     },
     {
         "card_name": "Radahn Festival",
-        "number": 382,
+        "number": 381,
         "shape": "normal",
         "set": "EDR",
         "position": "25"
     },
     {
         "card_name": "Return to the Erdtree",
-        "number": 389,
+        "number": 388,
         "shape": "normal",
         "set": "EDR",
         "position": "485"
@@ -2296,21 +2296,21 @@
     },
     {
         "card_name": "Revenant",
-        "number": 390,
+        "number": 389,
         "shape": "normal",
         "set": "EDR",
         "position": "379"
     },
     {
         "card_name": "Sage Midra",
-        "number": 394,
+        "number": 393,
         "shape": "normal",
         "set": "EDR",
         "position": "306"
     },
     {
         "card_name": "Romina, Saint of the Bud",
-        "number": 392,
+        "number": 391,
         "shape": "normal",
         "set": "EDR",
         "position": "180"
@@ -2331,7 +2331,7 @@
     },
     {
         "card_name": "Rogier, Scholar of Death",
-        "number": 391,
+        "number": 390,
         "shape": "normal",
         "set": "EDR",
         "position": "422"
@@ -2556,7 +2556,7 @@
     },
     {
         "card_name": "Promised Consort Radahn",
-        "number": 379,
+        "number": 378,
         "shape": "normal",
         "set": "EDR",
         "position": "236"
@@ -2591,7 +2591,7 @@
     },
     {
         "card_name": "Recluse",
-        "number": 384,
+        "number": 383,
         "shape": "normal",
         "set": "EDR",
         "position": "327"
@@ -2626,7 +2626,7 @@
     },
     {
         "card_name": "Rellana, Twin Moon Knight",
-        "number": 387,
+        "number": 386,
         "shape": "normal",
         "set": "EDR",
         "position": "269"
@@ -2640,21 +2640,21 @@
     },
     {
         "card_name": "Radagon, King Consort",
-        "number": 381,
+        "number": 380,
         "shape": "normal",
         "set": "EDR",
         "position": "132"
     },
     {
         "card_name": "Primeval Sorcerer Azur",
-        "number": 378,
+        "number": 377,
         "shape": "normal",
         "set": "EDR",
         "position": "242"
     },
     {
-        "card_name": "A Numen Ascends",
-        "number": 373,
+        "card_name": "A Shaman Ascends",
+        "number": 395,
         "shape": "saga",
         "set": "EDR",
         "position": "7"
@@ -2675,14 +2675,14 @@
     },
     {
         "card_name": "Redmane Freyja",
-        "number": 385,
+        "number": 384,
         "shape": "normal",
         "set": "EDR",
         "position": "214"
     },
     {
         "card_name": "Putrescent Knight",
-        "number": 380,
+        "number": 379,
         "shape": "normal",
         "set": "EDR",
         "position": "296"
@@ -2717,7 +2717,7 @@
     },
     {
         "card_name": "Rennala of Caria",
-        "number": 388,
+        "number": 387,
         "shape": "normal",
         "set": "EDR",
         "position": "84"
@@ -2781,7 +2781,7 @@
     },
     {
         "card_name": "Praetor Rykard",
-        "number": 377,
+        "number": 376,
         "shape": "normal",
         "set": "EDR",
         "position": "254"
@@ -2852,7 +2852,7 @@
     },
     {
         "card_name": "Regal Ancestor Spirit",
-        "number": 386,
+        "number": 385,
         "shape": "normal",
         "set": "EDR",
         "position": "120"
@@ -2873,14 +2873,14 @@
     },
     {
         "card_name": "Scadutree Avatar",
-        "number": 395,
+        "number": 394,
         "shape": "normal",
         "set": "EDR",
         "position": "185"
     },
     {
         "card_name": "Placidusax, Elden Lord",
-        "number": 376,
+        "number": 375,
         "shape": "normal",
         "set": "EDR",
         "position": "156"
@@ -2937,7 +2937,7 @@
     },
     {
         "card_name": "O, Elden Ring!",
-        "number": 374,
+        "number": 373,
         "shape": "normal",
         "set": "EDR",
         "position": "442"

@@ -1,4 +1,133 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+A Shaman Ascends added.
+Maris, Master of Bubbles added.
+
+A Numen Ascends removed.
+Maris, Fathom of Night removed.
+
+Iron Fist Alexander
+rules_text: Trample
+Whenever another creature you control dies, put a +1/+1 counter on Iron Fist Alexander.
+{3}{G}{G}: Double the number of +1/+1 counters on target creature. => Trample
+Whenever another permanent you control leaves the battlefield, put a +1/+1 counter on Iron Fist Alexander.
+{3}{G}{G}: Double the number of +1/+1 counters on target creature.
+
+Melina, of Destined Death
+cost: {4}{U}{B} => {2}{U}{B}
+rules_text: Once during each of your turns, you may cast a copy of an opponent's commander, and you may spend mana of any type to cast it. If Melina entered this turn, you may cast the copy without paying its mana cost. => At the beginning of your upkeep, each player discards a card. For each player who can't, they sacrifice a nontoken permanent.
+Whenever Melina deals combat damage to a player with no cards in hand, they lose the game.
+pt: 3/3 => 4/4
+
+Hallowed Grounds
+rules_text: Enchant land
+Whenever enchanted land is tapped for mana, add an additional one mana of any color among cards in your graveyard. [i](If you have no cards in your graveyard that are one or more colors, you add no mana.)[/i] => Enchant land
+Whenever enchanted land is tapped for mana, add an additional one mana of any color among cards in your graveyard. [i](If you have no cards in your graveyard that are one or more colors, you add no additional mana.)[/i]
+
+Patches, the Untethered
+rules_text: Whenever a creature dies for the first time each turn, Patches connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a loyalty counter on Patches.)[/i]
+[+1]: Create a 1/1 black Skeleton creature token.
+[-3]: Destroy target creature if it has mana value 2 or less or if a permanent you controlled left the battlefield this turn.
+[-10]: You get an emblem with “Whenever a creature you don't control dies, return it to the battlefield under your control.” => Whenever a creature dies for the first time each turn, Patches connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a loyalty counter on Patches.)[/i]
+[+1]: Create a 1/1 black Skeleton creature token.
+[-3]: Destroy target creature if it has mana value 3 or less or if a permanent you controlled left the battlefield this turn.
+[-10]: You get an emblem with “Whenever a creature you don't control dies, return it to the battlefield under your control.”
+special_text: Whenever a creature dies for the first time each turn, Patches connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a loyalty counter on Patches.)[/i]
+[+1]: Create a 1/1 black Skeleton creature token.
+[-3]: Destroy target creature if it has mana value 2 or less or if a permanent you controlled left the battlefield this turn.
+[-10]: You get an emblem with “Whenever a creature you don't control dies, return it to the battlefield under your control.” => Whenever a creature dies for the first time each turn, Patches connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a loyalty counter on Patches.)[/i]
+[+1]: Create a 1/1 black Skeleton creature token.
+[-3]: Destroy target creature if it has mana value 3 or less or if a permanent you controlled left the battlefield this turn.
+[-10]: You get an emblem with “Whenever a creature you don't control dies, return it to the battlefield under your control.”
+
+Dark Moon Sorcery
+rules_text: This spell costs {1} less to cast if targets a spell with mana value less than your commander's mana value.
+Counter target spell. => This spell costs {1} less to cast if it targets a spell with mana value less than your commander's mana value.
+Counter target spell.
+
+Challenge of the Ring
+rules_text: When this enchantment enters, you become the monarch. [i](The monarch draws a card at the beginning of their end step. Whenever the monarch is dealt combat damage by a creature, its controller becomes the monarch.)[/i]
+If a triggered ability of a permanent you control would trigger, if you're the monarch, that ability triggers an additional time. => When this enchantment enters, you become the monarch. [i](The monarch draws a card at the beginning of their end step. Whenever the monarch is dealt combat damage by a creature, its controller becomes the monarch.)[/i]
+If a triggered ability of a permanent you control triggers while you're the monarch, that ability triggers an additional time.
+
+Blaidd, Forlorn Hound
+
+Death Knight
+
+Dearest Nanaya
+rules_text: {T}: Target player discards a card, then draws a card. Add one mana of any color.
+[i]Delirium[/i] — As long as there are four or more card types among cards in your graveyard, whenever you cast a spell using mana produced by Dearest Nanaya, she deals damage equal to that spell's mana value to each opponent. => {T}: Target player discards a card, then draws a card. Add one mana of any color.
+[i]Delirium[/i] — Whenever you cast a spell using mana produced by Dearest Nanaya, she deals damage equal to that spell's mana value to each opponent if there's four or more card types among cards in your graveyard.
+
+Fleeting Microcosm
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each opponent discards a card. For each player who doesn't discard a nonland card this way, that player loses 2 life.
+III — Exile all opponents' graveyards. You may cast spells from among those cards this turn, and mana of any type can be spent to cast them.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each opponent discards a card. Each player who doesn't discard a nonland card this way loses 2 life.
+III — Exile all opponents' graveyards. You may cast spells from among those cards this turn, and mana of any type can be spent to cast them.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each opponent discards a card. For each player who doesn't discard a nonland card this way, that player loses 2 life.
+III — Exile all opponents' graveyards. You may cast spells from among those cards this turn, and mana of any type can be spent to cast them.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each opponent discards a card. Each player who doesn't discard a nonland card this way loses 2 life.
+III — Exile all opponents' graveyards. You may cast spells from among those cards this turn, and mana of any type can be spent to cast them.
+​
+
+Furnace Golem
+rules_text: Prototype [i](You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)[/i] {2}{R} — 2/2 [i](You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)[/i]
+Whenever this creature attacks, add X {R}, where X is its power. Until end of turn, you don't lose this mana as steps and phases end. => Prototype {2}{R} — 2/2 [i](You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)[/i]
+Whenever this creature attacks, add X {R}, where X is its power. Until end of turn, you don't lose this mana as steps and phases end.
+special_text: Prototype [i](You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)[/i] {2}{R} — 2/2 [i](You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)[/i]
+Whenever this creature attacks, add X {R}, where X is its power. Until end of turn, you don't lose this mana as steps and phases end. => Prototype {2}{R} — 2/2 [i](You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)[/i]
+Whenever this creature attacks, add X {R}, where X is its power. Until end of turn, you don't lose this mana as steps and phases end.
+
+Duchess
+rules_text: Deathtouch
+Whenever Duchess deals combat damage to a player, that player loses life equal to the life that player lost this turn. If you have a full party, you gain life equal to the life lost this way. [i](Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)[/i] => Deathtouch
+Whenever Duchess deals combat damage to a player, that player loses life equal to the amount of life that player has lost this turn. If you have a full party, you gain life equal to the life lost this way. [i](Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)[/i]
+
+Beloved Child
+rules_text: Deathtouch
+Whenever this creature deals combat damage to a player, exile up to one target nonland permanent card in a graveyard that was put there from anywhere this turn. Until end of turn, you may cast a copy of that card and you may spend mana as though it were mana of any type to cast that spell. => Deathtouch
+Whenever this creature deals combat damage to a player, exile up to one target nonland permanent card in a graveyard that was put there from anywhere this turn. Until end of turn, you may cast a copy of that card, and you may spend mana as though it were mana of any type to cast it.
+
+Leonard, Radahn's Steed
+pt: 2/1 => 2/2
+
+Mariner's Dirge
+rules_text: Return target creature card from your graveyard to the battlefield tapped.
+Harmonize {5}{B} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i] [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i] => Return target creature card from your graveyard to the battlefield tapped.
+Harmonize {5}{B} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i]
+
+Revenant
+
+Snow Witch
+rules_text: {T}: Add one mana of any color.
+[i]Coven[/i] — As long as you control three or more creatures with different powers, creatures you control have “{T}: Add one mana of any color.” => {T}: Add one mana of any color.
+[i]Coven[/i] — As long as you control three or more creatures with different powers, other creatures you control have “{T}: Add one mana of any color.”
+
+A New Journey
+rules_text: Hideaway 5 [i](When this enchantment enters, look at the top five cards of your library, exile one face down, then put the rest on the bottom in a random order.)[/i]
+Whenever you create one or more tokens for the first time each turn, create a 2/2 white Knight creature token. Then if you control five or more tokens, you may cast the exiled card without paying its mana cost. => Hideaway 5 [i](When this enchantment enters, look at the top five cards of your library, exile one face down, then put the rest on the bottom in a random order.)[/i]
+Whenever you create one or more tokens, create a 2/2 white Knight creature token. Then if you control five or more tokens, you may cast the exiled card without paying its mana cost. This ability triggers only once each turn.
+
+Flames of Gladius
+rules_text: Mountains you control have “{T}: Add {R}{R}{R}.”
+If a source would deal damage to an opponent or a permanent an opponent controls, it deals triple that damage to that permanent or player instead. => Mountains you control have “{T}, Sacrifice this land: Add {R}{R}{R}.”
+If a source would deal damage to an opponent or a permanent an opponent controls, it deals triple that damage to that permanent or player instead.
+
+Ghiza's Wheel
+rules_text: Whenever an opponent loses life, put a spin counter on this Equipment. [i](One or more creatures dealing combat damage to a player is one instance of life loss.)[/i]
+Equipped creature gets +X/+0, where X is the amount of spin counters on this Equipment.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i] => Whenever an opponent loses life, put a spin counter on this Equipment. [i](One or more creatures dealing combat damage to a player is a single instance of life loss.)[/i]
+Equipped creature gets +X/+0, where X is the amount of spin counters on this Equipment.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Naturalborn of the Void added.

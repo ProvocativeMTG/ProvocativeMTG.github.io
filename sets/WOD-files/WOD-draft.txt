@@ -711,7 +711,7 @@
 			}
 		},
 		{
-			"name": "Glory",
+			"name": "The Glory of Derrigoa",
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
@@ -3062,7 +3062,7 @@
 	2 Elvish Lawbringer
 	2 Forgemaster's Salamander
 	2 Fungal Pampas
-	1 Glory
+	1 The Glory of Derrigoa
 	2 Here Comes Calamity
 	2 Ichorblessed Slinger
 	2 Indecipherable Bones
@@ -3407,7 +3407,7 @@
 	6 Firebird of Yore
 	2 Forgemaster's Salamander
 	2 Fungal Pampas
-	1 Glory
+	1 The Glory of Derrigoa
 	2 Here Comes Calamity
 	2 Ichorblessed Slinger
 	2 Indecipherable Bones
@@ -3702,7 +3702,7 @@
 	15 Firebird of Yore
 	7 Forgemaster's Salamander
 	7 Fungal Pampas
-	4 Glory
+	4 The Glory of Derrigoa
 	7 Here Comes Calamity
 	7 Ichorblessed Slinger
 	7 Indecipherable Bones

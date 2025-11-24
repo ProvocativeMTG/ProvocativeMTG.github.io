@@ -11626,28 +11626,6 @@
             "v_mana": ""
         },
         {
-            "card_name": "Ancient Dragon",
-            "color": "R",
-            "rarity": "cube",
-            "type": "Creature \u2013 Dragon",
-            "number": 172,
-            "color_identity": "R",
-            "cost": "{3}{R}",
-            "rules_text": "Flying\nWhen this creature enters, it deals X damage to any target, where X is the greatest power among Dragons you control.",
-            "flavor_text": "[i]The ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.[/i]",
-            "pt": "3/3",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EDR",
-            "loyalty": "",
-            "artist": "Indra Atmana",
-            "alias": "",
-            "position": "226",
-            "notes": "Removal",
-            "image_type": "png",
-            "v_mana": ""
-        },
-        {
             "card_name": "Lichdragon Fortissax",
             "color": "WBR",
             "rarity": "cube",
@@ -11664,7 +11642,7 @@
             "loyalty": "",
             "artist": "DSittaro",
             "alias": "",
-            "position": "227",
+            "position": "226",
             "notes": "Removal",
             "image_type": "png",
             "v_mana": ""
@@ -11686,7 +11664,7 @@
             "loyalty": "",
             "artist": "Rishi Shukla",
             "alias": "",
-            "position": "228",
+            "position": "227",
             "notes": "!group other\n!sort 014",
             "image_type": "png",
             "v_mana": ""
@@ -11708,7 +11686,7 @@
             "loyalty": "",
             "artist": "Temmaru",
             "alias": "",
-            "position": "229",
+            "position": "228",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11730,7 +11708,7 @@
             "loyalty": "",
             "artist": "max58art",
             "alias": "",
-            "position": "230",
+            "position": "229",
             "notes": "Board Wipe",
             "image_type": "png",
             "v_mana": ""
@@ -11752,7 +11730,7 @@
             "loyalty": "",
             "artist": "Maitimo",
             "alias": "",
-            "position": "231",
+            "position": "230",
             "notes": "Board Wipe",
             "image_type": "png",
             "v_mana": ""
@@ -11774,7 +11752,7 @@
             "loyalty": "",
             "artist": "Umber",
             "alias": "",
-            "position": "232",
+            "position": "231",
             "notes": "!group channel\n!sort 01",
             "image_type": "png",
             "v_mana": ""
@@ -11796,7 +11774,7 @@
             "loyalty": "",
             "artist": "BlueSkySmile",
             "alias": "",
-            "position": "233",
+            "position": "232",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11818,7 +11796,7 @@
             "loyalty": "",
             "artist": "Sin-Node",
             "alias": "",
-            "position": "234",
+            "position": "233",
             "notes": "Removal",
             "image_type": "png",
             "v_mana": ""
@@ -11840,7 +11818,7 @@
             "loyalty": "",
             "artist": "Ariamis Arts",
             "alias": "",
-            "position": "235",
+            "position": "234",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11862,7 +11840,7 @@
             "loyalty": "",
             "artist": "Cyprien Rousson",
             "alias": "",
-            "position": "236",
+            "position": "235",
             "notes": "Removal",
             "image_type": "png",
             "v_mana": ""
@@ -11884,7 +11862,7 @@
             "loyalty": "",
             "artist": "nira box",
             "alias": "",
-            "position": "237",
+            "position": "236",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11906,7 +11884,7 @@
             "loyalty": "",
             "artist": "f_oskana",
             "alias": "",
-            "position": "238",
+            "position": "237",
             "notes": "Board Wipe",
             "image_type": "png",
             "v_mana": ""
@@ -11928,7 +11906,7 @@
             "loyalty": "",
             "artist": "buriedinembers",
             "alias": "",
-            "position": "239",
+            "position": "238",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11950,7 +11928,7 @@
             "loyalty": "",
             "artist": "Rio Yudha",
             "alias": "",
-            "position": "240",
+            "position": "239",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11972,7 +11950,7 @@
             "loyalty": "",
             "artist": "DC chris",
             "alias": "",
-            "position": "241",
+            "position": "240",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11994,7 +11972,7 @@
             "loyalty": "",
             "artist": "Vergizov Mikhail",
             "alias": "",
-            "position": "242",
+            "position": "241",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12016,7 +11994,7 @@
             "loyalty": "",
             "artist": "AliveWake",
             "alias": "",
-            "position": "243",
+            "position": "242",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12038,7 +12016,7 @@
             "loyalty": "",
             "artist": "jin dongyu",
             "alias": "",
-            "position": "244",
+            "position": "243",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12060,7 +12038,7 @@
             "loyalty": "",
             "artist": "artorias345",
             "alias": "",
-            "position": "245",
+            "position": "244",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12082,7 +12060,7 @@
             "loyalty": "",
             "artist": "diesel0212",
             "alias": "",
-            "position": "246",
+            "position": "245",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12104,7 +12082,7 @@
             "loyalty": "",
             "artist": "Miresia",
             "alias": "",
-            "position": "247",
+            "position": "246",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12126,7 +12104,7 @@
             "loyalty": "",
             "artist": "eclipticass",
             "alias": "",
-            "position": "248",
+            "position": "247",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12148,7 +12126,7 @@
             "loyalty": "",
             "artist": "EyYoJimbo",
             "alias": "",
-            "position": "249",
+            "position": "248",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12170,7 +12148,7 @@
             "loyalty": "",
             "artist": "Jdori",
             "alias": "",
-            "position": "250",
+            "position": "249",
             "notes": "Ramp",
             "image_type": "png",
             "v_mana": ""
@@ -12192,7 +12170,7 @@
             "loyalty": "",
             "artist": "Rio Yudha",
             "alias": "",
-            "position": "251",
+            "position": "250",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12214,7 +12192,7 @@
             "loyalty": "",
             "artist": "xoo",
             "alias": "",
-            "position": "252",
+            "position": "251",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12236,7 +12214,7 @@
             "loyalty": "",
             "artist": "GraffitiGW",
             "alias": "",
-            "position": "253",
+            "position": "252",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12258,7 +12236,7 @@
             "loyalty": "",
             "artist": "Ybfan",
             "alias": "",
-            "position": "254",
+            "position": "253",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12280,7 +12258,7 @@
             "loyalty": "",
             "artist": "Temmaru",
             "alias": "",
-            "position": "255",
+            "position": "254",
             "notes": "Removal",
             "image_type": "png",
             "v_mana": ""
@@ -12302,7 +12280,7 @@
             "loyalty": "",
             "artist": "Temmaru",
             "alias": "",
-            "position": "256",
+            "position": "255",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12324,7 +12302,7 @@
             "loyalty": "",
             "artist": "McSparkle0731",
             "alias": "",
-            "position": "257",
+            "position": "256",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12346,7 +12324,7 @@
             "loyalty": "",
             "artist": "Sarah Vittle",
             "alias": "",
-            "position": "258",
+            "position": "257",
             "notes": "!group channel\n!sort 06",
             "image_type": "png",
             "v_mana": ""
@@ -12368,7 +12346,7 @@
             "loyalty": "",
             "artist": "Mavis Fuji",
             "alias": "",
-            "position": "259",
+            "position": "258",
             "notes": "Ramp",
             "image_type": "png",
             "v_mana": ""
@@ -12390,7 +12368,7 @@
             "loyalty": "",
             "artist": "jin dongyu",
             "alias": "",
-            "position": "260",
+            "position": "259",
             "notes": "Ramp",
             "image_type": "png",
             "v_mana": ""
@@ -12412,7 +12390,7 @@
             "loyalty": "",
             "artist": "wenbo cui",
             "alias": "",
-            "position": "261",
+            "position": "260",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12434,7 +12412,7 @@
             "loyalty": "",
             "artist": "CanadianMark",
             "alias": "",
-            "position": "262",
+            "position": "261",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12456,7 +12434,7 @@
             "loyalty": "",
             "artist": "buriedinembers",
             "alias": "",
-            "position": "263",
+            "position": "262",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12478,7 +12456,7 @@
             "loyalty": "",
             "artist": "A.PB",
             "alias": "",
-            "position": "264",
+            "position": "263",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12500,7 +12478,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "position": "265",
+            "position": "264",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12522,7 +12500,7 @@
             "loyalty": "",
             "artist": "Carmelo Santos",
             "alias": "",
-            "position": "266",
+            "position": "265",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12544,7 +12522,7 @@
             "loyalty": "",
             "artist": "siriusbound",
             "alias": "",
-            "position": "267",
+            "position": "266",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12566,7 +12544,7 @@
             "loyalty": "",
             "artist": "Magnus Seim Olsen",
             "alias": "",
-            "position": "268",
+            "position": "267",
             "notes": "!group other\n!sort 13",
             "image_type": "png",
             "v_mana": ""
@@ -12588,7 +12566,7 @@
             "loyalty": "",
             "artist": "shimhaq",
             "alias": "",
-            "position": "269",
+            "position": "268",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12610,7 +12588,7 @@
             "loyalty": "",
             "artist": "Fadly Romdhani",
             "alias": "",
-            "position": "270",
+            "position": "269",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12632,7 +12610,7 @@
             "loyalty": "",
             "artist": "Temmaru",
             "alias": "",
-            "position": "271",
+            "position": "270",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12652,9 +12630,9 @@
             "shape": "normal",
             "set": "EDR",
             "loyalty": "",
-            "artist": "Sam Strykah",
+            "artist": "knight parzival",
             "alias": "",
-            "position": "272",
+            "position": "271",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12676,7 +12654,7 @@
             "loyalty": "",
             "artist": "shimhaq",
             "alias": "",
-            "position": "273",
+            "position": "272",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12698,8 +12676,8 @@
             "loyalty": "",
             "artist": "shimhaq",
             "alias": "",
-            "position": "274",
-            "notes": "",
+            "position": "273",
+            "notes": "Lion",
             "image_type": "png",
             "v_mana": ""
         },
@@ -12720,7 +12698,7 @@
             "loyalty": "",
             "artist": "Amir Borgheii",
             "alias": "",
-            "position": "275",
+            "position": "274",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12742,7 +12720,7 @@
             "loyalty": "",
             "artist": "Darcy HW",
             "alias": "",
-            "position": "276",
+            "position": "275",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12764,7 +12742,7 @@
             "loyalty": "",
             "artist": "alinemorec",
             "alias": "",
-            "position": "277",
+            "position": "276",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12786,7 +12764,7 @@
             "loyalty": "",
             "artist": "agong",
             "alias": "",
-            "position": "278",
+            "position": "277",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12808,7 +12786,7 @@
             "loyalty": "",
             "artist": "Neuntoterx",
             "alias": "",
-            "position": "279",
+            "position": "278",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12830,7 +12808,7 @@
             "loyalty": "",
             "artist": "delaneyjanuzzi",
             "alias": "",
-            "position": "280",
+            "position": "279",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12852,7 +12830,7 @@
             "loyalty": "",
             "artist": "Caius Augustus",
             "alias": "",
-            "position": "281",
+            "position": "280",
             "notes": "!group other\n!sort 04",
             "image_type": "png",
             "v_mana": ""
@@ -12874,7 +12852,7 @@
             "loyalty": "",
             "artist": "Ariamis Arts",
             "alias": "",
-            "position": "282",
+            "position": "281",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12894,9 +12872,9 @@
             "shape": "normal",
             "set": "EDR",
             "loyalty": "",
-            "artist": "Temmaru",
+            "artist": "eyecager",
             "alias": "",
-            "position": "283",
+            "position": "282",
             "notes": "Removal",
             "image_type": "png",
             "v_mana": ""
@@ -12918,7 +12896,7 @@
             "loyalty": "",
             "artist": "Ruint1",
             "alias": "",
-            "position": "284",
+            "position": "283",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12940,7 +12918,7 @@
             "loyalty": "",
             "artist": "Ariamis Arts",
             "alias": "",
-            "position": "285",
+            "position": "284",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12962,7 +12940,7 @@
             "loyalty": "",
             "artist": "kero 1110",
             "alias": "",
-            "position": "286",
+            "position": "285",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12984,7 +12962,7 @@
             "loyalty": "",
             "artist": "Temmaru",
             "alias": "",
-            "position": "287",
+            "position": "286",
             "notes": "!group other\n!sort 09",
             "image_type": "png",
             "v_mana": ""
@@ -13006,7 +12984,7 @@
             "loyalty": "",
             "artist": "ABluSkittle",
             "alias": "",
-            "position": "288",
+            "position": "287",
             "notes": "!group other\n!sort 02",
             "image_type": "png",
             "v_mana": ""
@@ -13028,7 +13006,7 @@
             "loyalty": "",
             "artist": "Gthlart",
             "alias": "",
-            "position": "289",
+            "position": "288",
             "notes": "!group other\n!sort 01",
             "image_type": "png",
             "v_mana": ""
@@ -13050,7 +13028,7 @@
             "loyalty": "",
             "artist": "Sophie Story",
             "alias": "",
-            "position": "290",
+            "position": "289",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13072,7 +13050,7 @@
             "loyalty": "",
             "artist": "Rose Benjamin",
             "alias": "",
-            "position": "291",
+            "position": "290",
             "notes": "Ramp",
             "image_type": "png",
             "v_mana": ""
@@ -13094,7 +13072,7 @@
             "loyalty": "",
             "artist": "max58art",
             "alias": "",
-            "position": "292",
+            "position": "291",
             "notes": "Board Wipe",
             "image_type": "png",
             "v_mana": ""
@@ -13116,7 +13094,7 @@
             "loyalty": "",
             "artist": "UnalloyedRoyalty",
             "alias": "",
-            "position": "293",
+            "position": "292",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13138,7 +13116,7 @@
             "loyalty": "",
             "artist": "Temmaru",
             "alias": "",
-            "position": "294",
+            "position": "293",
             "notes": "Removal",
             "image_type": "png",
             "v_mana": ""
@@ -13160,7 +13138,7 @@
             "loyalty": "",
             "artist": "antinoya",
             "alias": "",
-            "position": "295",
+            "position": "294",
             "notes": "!group channel\n!sort 04",
             "image_type": "png",
             "v_mana": ""
@@ -13182,7 +13160,7 @@
             "loyalty": "",
             "artist": "uchi vs the world",
             "alias": "",
-            "position": "296",
+            "position": "295",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13204,7 +13182,7 @@
             "loyalty": "",
             "artist": "NavyRaccoon",
             "alias": "",
-            "position": "297",
+            "position": "296",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13226,7 +13204,7 @@
             "loyalty": "",
             "artist": "Proteus",
             "alias": "",
-            "position": "298",
+            "position": "297",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13248,7 +13226,7 @@
             "loyalty": "",
             "artist": "copepo",
             "alias": "",
-            "position": "299",
+            "position": "298",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13270,7 +13248,7 @@
             "loyalty": "",
             "artist": "Alejandro Silva",
             "alias": "",
-            "position": "300",
+            "position": "299",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13292,7 +13270,7 @@
             "loyalty": "",
             "artist": "AngZ",
             "alias": "",
-            "position": "301",
+            "position": "300",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13314,7 +13292,7 @@
             "loyalty": "",
             "artist": "suomar",
             "alias": "",
-            "position": "302",
+            "position": "301",
             "notes": "Ramp",
             "image_type": "png",
             "v_mana": ""
@@ -13336,7 +13314,7 @@
             "loyalty": "",
             "artist": "FeiHai",
             "alias": "",
-            "position": "303",
+            "position": "302",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13358,7 +13336,7 @@
             "loyalty": "",
             "artist": "snailaql",
             "alias": "",
-            "position": "304",
+            "position": "303",
             "notes": "Removal",
             "image_type": "png",
             "v_mana": ""
@@ -13380,7 +13358,7 @@
             "loyalty": "",
             "artist": "NSlacka",
             "alias": "",
-            "position": "305",
+            "position": "304",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13402,7 +13380,7 @@
             "loyalty": "",
             "artist": "san xiao jin",
             "alias": "",
-            "position": "306",
+            "position": "305",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13424,7 +13402,7 @@
             "loyalty": "",
             "artist": "Ariamis Arts",
             "alias": "",
-            "position": "307",
+            "position": "306",
             "notes": "Removal",
             "image_type": "png",
             "v_mana": ""
@@ -13446,7 +13424,7 @@
             "loyalty": "",
             "artist": "Rashuu",
             "alias": "",
-            "position": "308",
+            "position": "307",
             "notes": "Nightreign",
             "image_type": "png",
             "v_mana": ""
@@ -13468,7 +13446,7 @@
             "loyalty": "",
             "artist": "Shimhaq",
             "alias": "",
-            "position": "309",
+            "position": "308",
             "notes": "Nightreign",
             "image_type": "png",
             "v_mana": ""
@@ -13490,7 +13468,7 @@
             "loyalty": "",
             "artist": "Raki0v0",
             "alias": "",
-            "position": "310",
+            "position": "309",
             "notes": "Removal",
             "image_type": "png",
             "v_mana": ""
@@ -13512,7 +13490,7 @@
             "loyalty": "",
             "artist": "Raki0v0",
             "alias": "",
-            "position": "311",
+            "position": "310",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13534,7 +13512,7 @@
             "loyalty": "",
             "artist": "iranon",
             "alias": "",
-            "position": "312",
+            "position": "311",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13556,7 +13534,7 @@
             "loyalty": "",
             "artist": "awkwardtomato",
             "alias": "",
-            "position": "313",
+            "position": "312",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13578,7 +13556,7 @@
             "loyalty": "",
             "artist": "chengya huanwo",
             "alias": "",
-            "position": "314",
+            "position": "313",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13600,7 +13578,7 @@
             "loyalty": "",
             "artist": "Alexandru Munteanu",
             "alias": "",
-            "position": "315",
+            "position": "314",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13622,7 +13600,7 @@
             "loyalty": "",
             "artist": "Ariamis Arts",
             "alias": "",
-            "position": "316",
+            "position": "315",
             "notes": "Removal",
             "image_type": "png",
             "v_mana": ""
@@ -13644,7 +13622,7 @@
             "loyalty": "",
             "artist": "shimhaq",
             "alias": "",
-            "position": "317",
+            "position": "316",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13666,7 +13644,7 @@
             "loyalty": "",
             "artist": "U60b",
             "alias": "",
-            "position": "318",
+            "position": "317",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13688,7 +13666,7 @@
             "loyalty": "",
             "artist": "stades_jp",
             "alias": "",
-            "position": "319",
+            "position": "318",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13710,7 +13688,7 @@
             "loyalty": "",
             "artist": "stades_jp",
             "alias": "",
-            "position": "320",
+            "position": "319",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13732,7 +13710,7 @@
             "loyalty": "",
             "artist": "Ariamis Arts",
             "alias": "",
-            "position": "321",
+            "position": "320",
             "notes": "Ramp",
             "image_type": "png",
             "v_mana": ""
@@ -13754,7 +13732,7 @@
             "loyalty": "",
             "artist": "-Bloodbird",
             "alias": "",
-            "position": "322",
+            "position": "321",
             "notes": "!group channel\n!sort 03",
             "image_type": "png",
             "v_mana": ""
@@ -13776,7 +13754,7 @@
             "loyalty": "",
             "artist": "Ariamis Arts",
             "alias": "",
-            "position": "323",
+            "position": "322",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13796,9 +13774,9 @@
             "shape": "normal",
             "set": "EDR",
             "loyalty": "",
-            "artist": "IIIMP",
+            "artist": "vintersdrom",
             "alias": "",
-            "position": "324",
+            "position": "323",
             "notes": "!group other\n!sort 05",
             "image_type": "png",
             "v_mana": ""
@@ -13820,7 +13798,7 @@
             "loyalty": "",
             "artist": "Daniel Kamarudin",
             "alias": "",
-            "position": "325",
+            "position": "324",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13842,7 +13820,7 @@
             "loyalty": "",
             "artist": "bababonzer",
             "alias": "",
-            "position": "326",
+            "position": "325",
             "notes": "!group other\n!sort 10",
             "image_type": "png",
             "v_mana": ""
@@ -13864,7 +13842,7 @@
             "loyalty": "",
             "artist": "Florian Bobe",
             "alias": "",
-            "position": "327",
+            "position": "326",
             "notes": "Nightreign",
             "image_type": "png",
             "v_mana": ""
@@ -13886,7 +13864,7 @@
             "loyalty": "",
             "artist": "Ariamis Arts",
             "alias": "",
-            "position": "328",
+            "position": "327",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13908,7 +13886,7 @@
             "loyalty": "",
             "artist": "jacknguyen",
             "alias": "",
-            "position": "329",
+            "position": "328",
             "notes": "Nightreign",
             "image_type": "png",
             "v_mana": ""
@@ -13930,7 +13908,7 @@
             "loyalty": "",
             "artist": "NSlacka",
             "alias": "",
-            "position": "330",
+            "position": "329",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13952,7 +13930,7 @@
             "loyalty": "",
             "artist": "devanstolp",
             "alias": "",
-            "position": "331",
+            "position": "330",
             "notes": "!group channel\n!sort 10",
             "image_type": "png",
             "v_mana": ""
@@ -13974,7 +13952,7 @@
             "loyalty": "",
             "artist": "Goblin's Doodles",
             "alias": "",
-            "position": "332",
+            "position": "331",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13996,7 +13974,7 @@
             "loyalty": "",
             "artist": "imperatoralicia",
             "alias": "",
-            "position": "333",
+            "position": "332",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14018,7 +13996,7 @@
             "loyalty": "",
             "artist": "x37t",
             "alias": "",
-            "position": "334",
+            "position": "333",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14040,7 +14018,7 @@
             "loyalty": "",
             "artist": "Ariamis Arts",
             "alias": "",
-            "position": "335",
+            "position": "334",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14062,7 +14040,7 @@
             "loyalty": "",
             "artist": "Ariamis Arts",
             "alias": "",
-            "position": "336",
+            "position": "335",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14084,7 +14062,7 @@
             "loyalty": "",
             "artist": "Rio Yudha",
             "alias": "",
-            "position": "337",
+            "position": "336",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14106,7 +14084,7 @@
             "loyalty": "",
             "artist": "Soulseal",
             "alias": "",
-            "position": "338",
+            "position": "337",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14128,7 +14106,7 @@
             "loyalty": "",
             "artist": "_crimss_",
             "alias": "",
-            "position": "339",
+            "position": "338",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14150,7 +14128,7 @@
             "loyalty": "",
             "artist": "Agata Samborska",
             "alias": "",
-            "position": "340",
+            "position": "339",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14172,7 +14150,7 @@
             "loyalty": "",
             "artist": "John Devlin",
             "alias": "",
-            "position": "341",
+            "position": "340",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14194,7 +14172,7 @@
             "loyalty": "",
             "artist": "Rio Yudha",
             "alias": "",
-            "position": "342",
+            "position": "341",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14216,7 +14194,7 @@
             "loyalty": "",
             "artist": "Sebasti\u00e1n Franchini",
             "alias": "",
-            "position": "343",
+            "position": "342",
             "notes": "Ramp",
             "image_type": "png",
             "v_mana": ""
@@ -14238,7 +14216,7 @@
             "loyalty": "",
             "artist": "Mack",
             "alias": "",
-            "position": "344",
+            "position": "343",
             "notes": "Nightreign",
             "image_type": "png",
             "v_mana": ""
@@ -14260,7 +14238,7 @@
             "loyalty": "",
             "artist": "David Alsina",
             "alias": "",
-            "position": "345",
+            "position": "344",
             "notes": "!group other\n!sort 06",
             "image_type": "png",
             "v_mana": ""
@@ -14282,7 +14260,7 @@
             "loyalty": "",
             "artist": "David Lee Conley",
             "alias": "",
-            "position": "346",
+            "position": "345",
             "notes": "!group monarch\n!sort 08",
             "image_type": "png",
             "v_mana": ""
@@ -14304,7 +14282,7 @@
             "loyalty": "",
             "artist": "ShyFurby",
             "alias": "",
-            "position": "347",
+            "position": "346",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14326,7 +14304,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "position": "348",
+            "position": "347",
             "notes": "!exportname Will You Be My Consort",
             "image_type": "png",
             "v_mana": ""
@@ -14348,7 +14326,7 @@
             "loyalty": "",
             "artist": "wraith615",
             "alias": "",
-            "position": "349",
+            "position": "348",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14370,7 +14348,7 @@
             "loyalty": "",
             "artist": "ari ibarra",
             "alias": "",
-            "position": "350",
+            "position": "349",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14392,7 +14370,7 @@
             "loyalty": "",
             "artist": "Ariamis Arts",
             "alias": "",
-            "position": "351",
+            "position": "350",
             "notes": "Nightreign",
             "image_type": "png",
             "v_mana": ""
@@ -14414,7 +14392,7 @@
             "loyalty": "",
             "artist": "Naufal Mahaprana",
             "alias": "",
-            "position": "352",
+            "position": "351",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14436,7 +14414,7 @@
             "loyalty": "",
             "artist": "siriusbound",
             "alias": "",
-            "position": "353",
+            "position": "352",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14458,7 +14436,7 @@
             "loyalty": "",
             "artist": "Corey Rivera",
             "alias": "",
-            "position": "354",
+            "position": "353",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14480,7 +14458,7 @@
             "loyalty": "",
             "artist": "Agatan",
             "alias": "",
-            "position": "355",
+            "position": "354",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14502,7 +14480,7 @@
             "loyalty": "",
             "artist": "Sin_node",
             "alias": "",
-            "position": "356",
+            "position": "355",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14524,7 +14502,7 @@
             "loyalty": "",
             "artist": "eureka1812",
             "alias": "",
-            "position": "357",
+            "position": "356",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14546,7 +14524,7 @@
             "loyalty": "",
             "artist": "Nadine Schakel",
             "alias": "",
-            "position": "358",
+            "position": "357",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14568,7 +14546,7 @@
             "loyalty": "",
             "artist": "ganondoodle",
             "alias": "",
-            "position": "359",
+            "position": "358",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14590,7 +14568,7 @@
             "loyalty": "",
             "artist": "stu dts",
             "alias": "",
-            "position": "360",
+            "position": "359",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14612,7 +14590,7 @@
             "loyalty": "",
             "artist": "Anninosart",
             "alias": "",
-            "position": "361",
+            "position": "360",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14634,7 +14612,7 @@
             "loyalty": "",
             "artist": "Claire Natice",
             "alias": "",
-            "position": "362",
+            "position": "361",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14656,7 +14634,7 @@
             "loyalty": "",
             "artist": "Claire Natice & Rishi Shukla",
             "alias": "",
-            "position": "363",
+            "position": "362",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14678,7 +14656,7 @@
             "loyalty": "",
             "artist": "Halcyon Weeks",
             "alias": "",
-            "position": "364",
+            "position": "363",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14700,7 +14678,7 @@
             "loyalty": "",
             "artist": "Bossxie",
             "alias": "",
-            "position": "365",
+            "position": "364",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14722,7 +14700,7 @@
             "loyalty": "",
             "artist": "Diego Lopez",
             "alias": "",
-            "position": "366",
+            "position": "365",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14744,7 +14722,7 @@
             "loyalty": "",
             "artist": "Ariamis Arts",
             "alias": "",
-            "position": "367",
+            "position": "366",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14766,7 +14744,7 @@
             "loyalty": "",
             "artist": "Miquellaonb",
             "alias": "",
-            "position": "368",
+            "position": "367",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14788,7 +14766,7 @@
             "loyalty": "",
             "artist": "velvety1969",
             "alias": "",
-            "position": "369",
+            "position": "368",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14810,7 +14788,7 @@
             "loyalty": "",
             "artist": "renekovacart",
             "alias": "",
-            "position": "370",
+            "position": "369",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14832,7 +14810,7 @@
             "loyalty": "",
             "artist": "@radagon-in-eldentale",
             "alias": "",
-            "position": "371",
+            "position": "370",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14854,7 +14832,7 @@
             "loyalty": "",
             "artist": "outcasto",
             "alias": "",
-            "position": "372",
+            "position": "371",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14876,7 +14854,7 @@
             "loyalty": "",
             "artist": "danieljoyniel",
             "alias": "",
-            "position": "373",
+            "position": "372",
             "notes": "Reprint",
             "image_type": "png",
             "v_mana": ""
@@ -14898,7 +14876,7 @@
             "loyalty": "",
             "artist": "francoyovich",
             "alias": "",
-            "position": "374",
+            "position": "373",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14920,7 +14898,7 @@
             "loyalty": "",
             "artist": "Samantha Spencer",
             "alias": "",
-            "position": "375",
+            "position": "374",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14942,7 +14920,7 @@
             "loyalty": "",
             "artist": "GHONZ",
             "alias": "",
-            "position": "376",
+            "position": "375",
             "notes": "Nightreign",
             "image_type": "png",
             "v_mana": ""
@@ -14964,7 +14942,7 @@
             "loyalty": "",
             "artist": "Tatiandart",
             "alias": "",
-            "position": "377",
+            "position": "376",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -14986,7 +14964,7 @@
             "loyalty": "",
             "artist": "Ariamis Arts",
             "alias": "",
-            "position": "378",
+            "position": "377",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15008,7 +14986,7 @@
             "loyalty": "",
             "artist": "sandpontiff",
             "alias": "",
-            "position": "379",
+            "position": "378",
             "notes": "Nightreign",
             "image_type": "png",
             "v_mana": ""
@@ -15030,7 +15008,7 @@
             "loyalty": "",
             "artist": "Anyrava",
             "alias": "",
-            "position": "380",
+            "position": "379",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15052,7 +15030,7 @@
             "loyalty": "",
             "artist": "Dame Himari",
             "alias": "",
-            "position": "381",
+            "position": "380",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15074,7 +15052,7 @@
             "loyalty": "",
             "artist": "zevrt1",
             "alias": "",
-            "position": "382",
+            "position": "381",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15096,7 +15074,7 @@
             "loyalty": "",
             "artist": "Maluesel",
             "alias": "",
-            "position": "383",
+            "position": "382",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15118,7 +15096,7 @@
             "loyalty": "",
             "artist": "cdsart",
             "alias": "",
-            "position": "384",
+            "position": "383",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15140,7 +15118,7 @@
             "loyalty": "",
             "artist": "silicon65",
             "alias": "",
-            "position": "385",
+            "position": "384",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15162,7 +15140,7 @@
             "loyalty": "",
             "artist": "akiyart",
             "alias": "",
-            "position": "386",
+            "position": "385",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15184,7 +15162,7 @@
             "loyalty": "",
             "artist": "sorie612",
             "alias": "",
-            "position": "387",
+            "position": "386",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15206,7 +15184,7 @@
             "loyalty": "",
             "artist": "uchivstheworld",
             "alias": "",
-            "position": "388",
+            "position": "387",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15228,7 +15206,7 @@
             "loyalty": "",
             "artist": "blazemalefica",
             "alias": "",
-            "position": "389",
+            "position": "388",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15250,7 +15228,7 @@
             "loyalty": "",
             "artist": "feathrvane",
             "alias": "",
-            "position": "390",
+            "position": "389",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15272,7 +15250,7 @@
             "loyalty": "",
             "artist": "Megi",
             "alias": "",
-            "position": "391",
+            "position": "390",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15294,7 +15272,7 @@
             "loyalty": "",
             "artist": "ImperiusArt",
             "alias": "",
-            "position": "392",
+            "position": "391",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15316,7 +15294,7 @@
             "loyalty": "",
             "artist": "Ricky Lee",
             "alias": "",
-            "position": "393",
+            "position": "392",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15338,7 +15316,7 @@
             "loyalty": "",
             "artist": "Ricky Lee",
             "alias": "",
-            "position": "394",
+            "position": "393",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15360,7 +15338,7 @@
             "loyalty": "",
             "artist": "bellanoche oxo",
             "alias": "",
-            "position": "395",
+            "position": "394",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15382,7 +15360,7 @@
             "loyalty": "",
             "artist": "klodwig",
             "alias": "",
-            "position": "396",
+            "position": "395",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15404,7 +15382,7 @@
             "loyalty": "",
             "artist": "Themis",
             "alias": "",
-            "position": "397",
+            "position": "396",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15426,7 +15404,7 @@
             "loyalty": "",
             "artist": "blasphemlousclaw",
             "alias": "",
-            "position": "398",
+            "position": "397",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15448,7 +15426,7 @@
             "loyalty": "",
             "artist": "poi",
             "alias": "",
-            "position": "399",
+            "position": "398",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15470,7 +15448,7 @@
             "loyalty": "",
             "artist": "Marcos Villarroel",
             "alias": "",
-            "position": "400",
+            "position": "399",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15492,7 +15470,7 @@
             "loyalty": "",
             "artist": "Stine Kasa Hansen",
             "alias": "",
-            "position": "401",
+            "position": "400",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15514,7 +15492,7 @@
             "loyalty": "",
             "artist": "elden things",
             "alias": "",
-            "position": "402",
+            "position": "401",
             "notes": "!last",
             "image_type": "png",
             "v_mana": ""
@@ -15536,7 +15514,7 @@
             "loyalty": "",
             "artist": "CollegeArtist1",
             "alias": "",
-            "position": "403",
+            "position": "402",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15558,7 +15536,7 @@
             "loyalty": "",
             "artist": "fengweic12",
             "alias": "",
-            "position": "404",
+            "position": "403",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15580,7 +15558,7 @@
             "loyalty": "",
             "artist": "Arabesque91",
             "alias": "",
-            "position": "405",
+            "position": "404",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15602,7 +15580,7 @@
             "loyalty": "",
             "artist": "BitchingtonSteel",
             "alias": "",
-            "position": "406",
+            "position": "405",
             "notes": "!group monarch\n!sort 02",
             "image_type": "png",
             "v_mana": ""
@@ -15624,7 +15602,7 @@
             "loyalty": "",
             "artist": "BitchingtonSteel",
             "alias": "",
-            "position": "407",
+            "position": "406",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15646,7 +15624,7 @@
             "loyalty": "",
             "artist": "Victor Lozada",
             "alias": "",
-            "position": "408",
+            "position": "407",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15668,7 +15646,7 @@
             "loyalty": "",
             "artist": "Anesvalt",
             "alias": "",
-            "position": "409",
+            "position": "408",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15690,7 +15668,7 @@
             "loyalty": "",
             "artist": "Pedro G. Ferreira",
             "alias": "",
-            "position": "410",
+            "position": "409",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15712,7 +15690,7 @@
             "loyalty": "",
             "artist": "AliveWake",
             "alias": "",
-            "position": "411",
+            "position": "410",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15734,7 +15712,7 @@
             "loyalty": "",
             "artist": "@Tworain_w",
             "alias": "",
-            "position": "412",
+            "position": "411",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15756,7 +15734,7 @@
             "loyalty": "",
             "artist": "nokkipo",
             "alias": "",
-            "position": "413",
+            "position": "412",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15778,7 +15756,7 @@
             "loyalty": "",
             "artist": "ReneKovacArt",
             "alias": "",
-            "position": "414",
+            "position": "413",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15800,7 +15778,7 @@
             "loyalty": "",
             "artist": "all-lee24",
             "alias": "",
-            "position": "415",
+            "position": "414",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15822,7 +15800,7 @@
             "loyalty": "",
             "artist": "emilyjulstrom",
             "alias": "",
-            "position": "416",
+            "position": "415",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15844,7 +15822,7 @@
             "loyalty": "",
             "artist": "autisticqueenorder",
             "alias": "",
-            "position": "417",
+            "position": "416",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15864,9 +15842,9 @@
             "shape": "normal",
             "set": "EDR",
             "loyalty": "",
-            "artist": "gravitydusty",
+            "artist": "Shimhaq",
             "alias": "",
-            "position": "418",
+            "position": "417",
             "notes": "Nightreign",
             "image_type": "png",
             "v_mana": ""
@@ -15888,7 +15866,7 @@
             "loyalty": "",
             "artist": "karmamonster011",
             "alias": "",
-            "position": "419",
+            "position": "418",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15910,7 +15888,7 @@
             "loyalty": "",
             "artist": "Victor Garcia",
             "alias": "",
-            "position": "420",
+            "position": "419",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15932,7 +15910,7 @@
             "loyalty": "",
             "artist": "subzeroparade",
             "alias": "",
-            "position": "421",
+            "position": "420",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15954,7 +15932,7 @@
             "loyalty": "",
             "artist": "sabbat",
             "alias": "",
-            "position": "422",
+            "position": "421",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -15976,7 +15954,7 @@
             "loyalty": "",
             "artist": "serpentsistermadeofyore",
             "alias": "",
-            "position": "423",
+            "position": "422",
             "notes": "!last",
             "image_type": "png",
             "v_mana": ""
@@ -15998,7 +15976,7 @@
             "loyalty": "",
             "artist": "Rio Yudha",
             "alias": "",
-            "position": "424",
+            "position": "423",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -16020,7 +15998,7 @@
             "loyalty": "",
             "artist": "stephengiannart",
             "alias": "",
-            "position": "425",
+            "position": "424",
             "notes": "Nightreign",
             "image_type": "png",
             "v_mana": ""
@@ -16042,7 +16020,7 @@
             "loyalty": "",
             "artist": "hivvernal",
             "alias": "",
-            "position": "426",
+            "position": "425",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -16062,9 +16040,9 @@
             "shape": "normal",
             "set": "EDR",
             "loyalty": "",
-            "artist": "Megi",
+            "artist": "emberizidaemelo",
             "alias": "",
-            "position": "427",
+            "position": "426",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -16086,7 +16064,7 @@
             "loyalty": "",
             "artist": "UnalloyedRoyalty",
             "alias": "",
-            "position": "428",
+            "position": "427",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -16108,7 +16086,7 @@
             "loyalty": "",
             "artist": "Sien Lee",
             "alias": "",
-            "position": "429",
+            "position": "428",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -16130,7 +16108,7 @@
             "loyalty": "",
             "artist": "TheVilebloods",
             "alias": "",
-            "position": "430",
+            "position": "429",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -16152,7 +16130,7 @@
             "loyalty": "",
             "artist": "Matheus Vrech",
             "alias": "",
-            "position": "431",
+            "position": "430",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -16174,7 +16152,7 @@
             "loyalty": "",
             "artist": "rashuu",
             "alias": "",
-            "position": "432",
+            "position": "431",
             "notes": "Nightreign",
             "image_type": "png",
             "v_mana": ""
@@ -16196,7 +16174,7 @@
             "loyalty": "",
             "artist": "Xinuo",
             "alias": "",
-            "position": "433",
+            "position": "432",
             "notes": "!group other\n!sort 08",
             "image_type": "png",
             "v_mana": ""
@@ -16218,7 +16196,7 @@
             "loyalty": "",
             "artist": "NSlacka",
             "alias": "",
-            "position": "434",
+            "position": "433",
             "notes": "!group darksouls\n!sort 02",
             "image_type": "png",
             "v_mana": ""
@@ -16240,7 +16218,7 @@
             "loyalty": "",
             "artist": "Henrik Karpinnen",
             "alias": "",
-            "position": "435",
+            "position": "434",
             "notes": "!group darksouls\n!sort 06",
             "image_type": "png",
             "v_mana": ""
@@ -16262,7 +16240,7 @@
             "loyalty": "",
             "artist": "truejjack",
             "alias": "",
-            "position": "436",
+            "position": "435",
             "notes": "!group darksouls\n!sort 07",
             "image_type": "png",
             "v_mana": ""
@@ -16284,7 +16262,7 @@
             "loyalty": "",
             "artist": "Hong Hong",
             "alias": "",
-            "position": "437",
+            "position": "436",
             "notes": "!group darksouls\n!sort 05",
             "image_type": "png",
             "v_mana": ""
@@ -16306,7 +16284,7 @@
             "loyalty": "",
             "artist": "Inkyh",
             "alias": "",
-            "position": "438",
+            "position": "437",
             "notes": "!group darksouls\n!sort 03",
             "image_type": "png",
             "v_mana": ""
@@ -16328,7 +16306,7 @@
             "loyalty": "",
             "artist": "ace_magnatron",
             "alias": "",
-            "position": "439",
+            "position": "438",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -16350,7 +16328,7 @@
             "loyalty": "",
             "artist": "OvenBakedCheese",
             "alias": "",
-            "position": "440",
+            "position": "439",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -16372,7 +16350,7 @@
             "loyalty": "",
             "artist": "IIIMP",
             "alias": "",
-            "position": "441",
+            "position": "440",
             "notes": "!group channel\n!sort 08",
             "image_type": "png",
             "v_mana": ""
@@ -16394,7 +16372,7 @@
             "loyalty": "",
             "artist": "IIIMP",
             "alias": "",
-            "position": "442",
+            "position": "441",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -16416,7 +16394,7 @@
             "loyalty": "",
             "artist": "cloudbox9",
             "alias": "",
-            "position": "443",
+            "position": "442",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -16438,7 +16416,7 @@
             "loyalty": "",
             "artist": "gaungde",
             "alias": "",
-            "position": "444",
+            "position": "443",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -16460,7 +16438,7 @@
             "loyalty": "",
             "artist": "Tatiandart",
             "alias": "",
-            "position": "445",
+            "position": "444",
             "notes": "Nightreign",
             "image_type": "png",
             "v_mana": ""
@@ -16482,7 +16460,7 @@
             "loyalty": "",
             "artist": "Fermaniarki",
             "alias": "",
-            "position": "446",
+            "position": "445",
             "notes": "!group darksouls\n!sort 01",
             "image_type": "png",
             "v_mana": ""
@@ -16504,7 +16482,7 @@
             "loyalty": "",
             "artist": "Derutta",
             "alias": "",
-            "position": "447",
+            "position": "446",
             "notes": "!group other\n!sort 03",
             "image_type": "png",
             "v_mana": ""
@@ -16526,7 +16504,7 @@
             "loyalty": "",
             "artist": "AliveWake",
             "alias": "",
-            "position": "448",
+            "position": "447",
             "notes": "Nightreign",
             "image_type": "png",
             "v_mana": ""
@@ -16548,7 +16526,7 @@
             "loyalty": "",
             "artist": "NecrosisArts",
             "alias": "",
-            "position": "449",
+            "position": "448",
             "notes": "!group monarch\n!sort 10",
             "image_type": "png",
             "v_mana": ""
@@ -16570,7 +16548,7 @@
             "loyalty": "",
             "artist": "NecrosisArts",
             "alias": "",
-            "position": "450",
+            "position": "449",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -16592,7 +16570,7 @@
             "loyalty": "",
             "artist": "NecrosisArts",
             "alias": "",
-            "position": "451",
+            "position": "450",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -16614,7 +16592,7 @@
             "loyalty": "",
             "artist": "NecrosisArts",
             "alias": "",
-            "position": "452",
+            "position": "451",
             "notes": "!group monarch\n!sort 05",
             "image_type": "png",
             "v_mana": ""
@@ -16636,7 +16614,7 @@
             "loyalty": "",
             "artist": "AliveWake4476",
             "alias": "",
-            "position": "453",
+            "position": "452",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -16658,7 +16636,7 @@
             "loyalty": "",
             "artist": "WizardOfIce",
             "alias": "",
-            "position": "454",
+            "position": "453",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -16680,7 +16658,7 @@
             "loyalty": "",
             "artist": "Gabriel Lopes",
             "alias": "",
-            "position": "455",
+            "position": "454",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -16702,7 +16680,7 @@
             "loyalty": "",
             "artist": "Victor Garcia",
             "alias": "",
-            "position": "456",
+            "position": "455",
             "notes": "Ramp",
             "image_type": "png",
             "v_mana": ""
@@ -16724,7 +16702,7 @@
             "loyalty": "",
             "artist": "AliveWake",
             "alias": "",
-            "position": "457",
+            "position": "456",
             "notes": "Nightreign",
             "image_type": "png",
             "v_mana": ""
@@ -16746,7 +16724,7 @@
             "loyalty": "",
             "artist": "TFMsaad",
             "alias": "",
-            "position": "458",
+            "position": "457",
             "notes": "Nightreign",
             "image_type": "png",
             "v_mana": ""
@@ -16768,7 +16746,7 @@
             "loyalty": "",
             "artist": "tavvoc",
             "alias": "",
-            "position": "459",
+            "position": "458",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -16790,7 +16768,7 @@
             "loyalty": "",
             "artist": "Shimhaq",
             "alias": "",
-            "position": "460",
+            "position": "459",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -16812,7 +16790,7 @@
             "loyalty": "",
             "artist": "Temmaru",
             "alias": "",
-            "position": "461",
+            "position": "460",
             "notes": "!group monarch\n!sort 07",
             "image_type": "png",
             "v_mana": ""
@@ -16834,7 +16812,7 @@
             "loyalty": "",
             "artist": "Leathil",
             "alias": "",
-            "position": "462",
+            "position": "461",
             "notes": "!group monarch\n!sort 03",
             "image_type": "png",
             "v_mana": ""
@@ -16856,7 +16834,7 @@
             "loyalty": "",
             "artist": "SAMI",
             "alias": "",
-            "position": "463",
+            "position": "462",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -16878,7 +16856,7 @@
             "loyalty": "",
             "artist": "Chloe Xu",
             "alias": "",
-            "position": "464",
+            "position": "463",
             "notes": "!group monarch\n!sort 04",
             "image_type": "png",
             "v_mana": ""
@@ -16900,7 +16878,7 @@
             "loyalty": "",
             "artist": "Siel Art",
             "alias": "",
-            "position": "465",
+            "position": "464",
             "notes": "!group monarch\n!sort 09",
             "image_type": "png",
             "v_mana": ""
@@ -16922,7 +16900,7 @@
             "loyalty": "",
             "artist": "ROFLEMOON",
             "alias": "",
-            "position": "466",
+            "position": "465",
             "notes": "!group monarch\n!sort 06",
             "image_type": "png",
             "v_mana": ""
@@ -16944,7 +16922,7 @@
             "loyalty": "",
             "artist": "Temmaru",
             "alias": "",
-            "position": "467",
+            "position": "466",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -16966,7 +16944,7 @@
             "loyalty": "",
             "artist": "chuno",
             "alias": "",
-            "position": "468",
+            "position": "467",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -16988,7 +16966,7 @@
             "loyalty": "",
             "artist": "Velvety",
             "alias": "",
-            "position": "469",
+            "position": "468",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17010,7 +16988,7 @@
             "loyalty": "",
             "artist": "IvyJinna",
             "alias": "",
-            "position": "470",
+            "position": "469",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17032,7 +17010,7 @@
             "loyalty": "",
             "artist": "Dragwar3",
             "alias": "",
-            "position": "471",
+            "position": "470",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17054,7 +17032,7 @@
             "loyalty": "",
             "artist": "TFMsaad",
             "alias": "",
-            "position": "472",
+            "position": "471",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17076,7 +17054,7 @@
             "loyalty": "",
             "artist": "MannDuck",
             "alias": "",
-            "position": "473",
+            "position": "472",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17098,7 +17076,7 @@
             "loyalty": "",
             "artist": "Chloe Xu / Fromsoftware",
             "alias": "",
-            "position": "474",
+            "position": "473",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17120,7 +17098,7 @@
             "loyalty": "",
             "artist": "jw_lulu",
             "alias": "",
-            "position": "475",
+            "position": "474",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17142,7 +17120,7 @@
             "loyalty": "",
             "artist": "NSlacka",
             "alias": "",
-            "position": "476",
+            "position": "475",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17164,7 +17142,7 @@
             "loyalty": "",
             "artist": "GHONZ",
             "alias": "",
-            "position": "477",
+            "position": "476",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17186,7 +17164,7 @@
             "loyalty": "",
             "artist": "rithyra",
             "alias": "",
-            "position": "478",
+            "position": "477",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17208,7 +17186,7 @@
             "loyalty": "",
             "artist": "Ariamis Arts",
             "alias": "",
-            "position": "479",
+            "position": "478",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17230,7 +17208,7 @@
             "loyalty": "",
             "artist": "AliveWake",
             "alias": "",
-            "position": "480",
+            "position": "479",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17252,7 +17230,7 @@
             "loyalty": "",
             "artist": "jw_lulu",
             "alias": "",
-            "position": "481",
+            "position": "480",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17274,7 +17252,7 @@
             "loyalty": "",
             "artist": "Mathiasteur",
             "alias": "",
-            "position": "482",
+            "position": "481",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17296,7 +17274,7 @@
             "loyalty": "",
             "artist": "tbrow_art",
             "alias": "",
-            "position": "483",
+            "position": "482",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17318,7 +17296,7 @@
             "loyalty": "",
             "artist": "Temmaru",
             "alias": "",
-            "position": "484",
+            "position": "483",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17340,7 +17318,7 @@
             "loyalty": "",
             "artist": "DSittaro",
             "alias": "",
-            "position": "485",
+            "position": "484",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17362,7 +17340,7 @@
             "loyalty": "",
             "artist": "Dormin",
             "alias": "",
-            "position": "486",
+            "position": "485",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17384,7 +17362,7 @@
             "loyalty": "",
             "artist": "Smearu Ren",
             "alias": "",
-            "position": "487",
+            "position": "486",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17406,7 +17384,7 @@
             "loyalty": "",
             "artist": "vitkovskayaart",
             "alias": "",
-            "position": "488",
+            "position": "487",
             "notes": "!group other\n!sort 015",
             "image_type": "png",
             "v_mana": ""
@@ -17428,7 +17406,7 @@
             "loyalty": "",
             "artist": "Dinocomics4ever",
             "alias": "",
-            "position": "489",
+            "position": "488",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17450,7 +17428,7 @@
             "loyalty": "",
             "artist": "arnaerr",
             "alias": "",
-            "position": "490",
+            "position": "489",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17472,7 +17450,7 @@
             "loyalty": "",
             "artist": "arnaerr",
             "alias": "",
-            "position": "491",
+            "position": "490",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17494,7 +17472,7 @@
             "loyalty": "",
             "artist": "Genel Jumalon",
             "alias": "",
-            "position": "492",
+            "position": "491",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17516,7 +17494,7 @@
             "loyalty": "",
             "artist": "Emile Ran",
             "alias": "",
-            "position": "493",
+            "position": "492",
             "notes": "!last",
             "image_type": "png",
             "v_mana": ""
@@ -17538,7 +17516,7 @@
             "loyalty": "",
             "artist": "Sin_node",
             "alias": "",
-            "position": "494",
+            "position": "493",
             "notes": "!last",
             "image_type": "png",
             "v_mana": ""
@@ -17560,7 +17538,7 @@
             "loyalty": "",
             "artist": "KiwiN",
             "alias": "",
-            "position": "495",
+            "position": "494",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17582,7 +17560,7 @@
             "loyalty": "",
             "artist": "rashuu",
             "alias": "",
-            "position": "496",
+            "position": "495",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17604,7 +17582,7 @@
             "loyalty": "",
             "artist": "GripolloProduction",
             "alias": "",
-            "position": "497",
+            "position": "496",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17626,7 +17604,7 @@
             "loyalty": "",
             "artist": "draw souls",
             "alias": "",
-            "position": "498",
+            "position": "497",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17648,7 +17626,7 @@
             "loyalty": "",
             "artist": "Shimhaq",
             "alias": "",
-            "position": "499",
+            "position": "498",
             "notes": "Nightreign",
             "image_type": "png",
             "v_mana": ""
@@ -17670,7 +17648,7 @@
             "loyalty": "",
             "artist": "lowstrear",
             "alias": "",
-            "position": "500",
+            "position": "499",
             "notes": "Nightreign",
             "image_type": "png",
             "v_mana": ""
@@ -17692,7 +17670,7 @@
             "loyalty": "",
             "artist": "nameno92372763",
             "alias": "",
-            "position": "501",
+            "position": "500",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17714,7 +17692,7 @@
             "loyalty": "",
             "artist": "yujia0412",
             "alias": "",
-            "position": "502",
+            "position": "501",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17736,7 +17714,7 @@
             "loyalty": "",
             "artist": "J Paz Diaz",
             "alias": "",
-            "position": "503",
+            "position": "502",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17758,7 +17736,7 @@
             "loyalty": "",
             "artist": "geranbb",
             "alias": "",
-            "position": "504",
+            "position": "503",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17780,7 +17758,7 @@
             "loyalty": "",
             "artist": "BluBoiArt",
             "alias": "",
-            "position": "505",
+            "position": "504",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17802,7 +17780,7 @@
             "loyalty": "",
             "artist": "niji-ewe",
             "alias": "",
-            "position": "506",
+            "position": "505",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17824,7 +17802,7 @@
             "loyalty": "",
             "artist": "Lune Illusoire",
             "alias": "",
-            "position": "507",
+            "position": "506",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17846,7 +17824,7 @@
             "loyalty": "",
             "artist": "AliveWake",
             "alias": "",
-            "position": "508",
+            "position": "507",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17868,7 +17846,7 @@
             "loyalty": "",
             "artist": "Nippemeow",
             "alias": "",
-            "position": "509",
+            "position": "508",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17888,9 +17866,9 @@
             "shape": "normal",
             "set": "EDR",
             "loyalty": "",
-            "artist": "AnYa_orz",
+            "artist": "Mathiasteur",
             "alias": "",
-            "position": "510",
+            "position": "509",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17912,7 +17890,7 @@
             "loyalty": "",
             "artist": "Dormin_Mh",
             "alias": "",
-            "position": "511",
+            "position": "510",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17934,7 +17912,7 @@
             "loyalty": "",
             "artist": "X37TC",
             "alias": "",
-            "position": "512",
+            "position": "511",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17956,7 +17934,7 @@
             "loyalty": "",
             "artist": "Viamorrri",
             "alias": "",
-            "position": "513",
+            "position": "512",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17978,7 +17956,7 @@
             "loyalty": "",
             "artist": "ark nemesis",
             "alias": "",
-            "position": "514",
+            "position": "513",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18000,7 +17978,7 @@
             "loyalty": "",
             "artist": "Philipp Stein",
             "alias": "",
-            "position": "515",
+            "position": "514",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18022,7 +18000,7 @@
             "loyalty": "",
             "artist": "Rashuu",
             "alias": "",
-            "position": "516",
+            "position": "515",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18044,7 +18022,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "position": "517",
+            "position": "516",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18066,7 +18044,7 @@
             "loyalty": "",
             "artist": "taco1704",
             "alias": "",
-            "position": "518",
+            "position": "517",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18088,7 +18066,7 @@
             "loyalty": "",
             "artist": "Shimhaq",
             "alias": "",
-            "position": "519",
+            "position": "518",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18110,7 +18088,7 @@
             "loyalty": "",
             "artist": "Joao Victor",
             "alias": "",
-            "position": "520",
+            "position": "519",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18132,7 +18110,7 @@
             "loyalty": "",
             "artist": "Xenamos",
             "alias": "",
-            "position": "521",
+            "position": "520",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18154,7 +18132,7 @@
             "loyalty": "",
             "artist": "diomijimadeiney",
             "alias": "",
-            "position": "522",
+            "position": "521",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18176,7 +18154,7 @@
             "loyalty": "",
             "artist": "Davide Gozzi",
             "alias": "",
-            "position": "523",
+            "position": "522",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18198,7 +18176,7 @@
             "loyalty": "",
             "artist": "Gabriele Pelc / Umraen.",
             "alias": "",
-            "position": "524",
+            "position": "523",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18220,7 +18198,7 @@
             "loyalty": "",
             "artist": "deadpool yuchan",
             "alias": "",
-            "position": "525",
+            "position": "524",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18242,7 +18220,7 @@
             "loyalty": "",
             "artist": "hvfrue",
             "alias": "",
-            "position": "526",
+            "position": "525",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18264,7 +18242,7 @@
             "loyalty": "",
             "artist": "cressily",
             "alias": "",
-            "position": "527",
+            "position": "526",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18286,7 +18264,7 @@
             "loyalty": "",
             "artist": "sofusan1526",
             "alias": "",
-            "position": "528",
+            "position": "527",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18308,7 +18286,7 @@
             "loyalty": "",
             "artist": "@maeisdrawing",
             "alias": "",
-            "position": "529",
+            "position": "528",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18330,7 +18308,7 @@
             "loyalty": "",
             "artist": "xemanos",
             "alias": "",
-            "position": "530",
+            "position": "529",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18352,7 +18330,7 @@
             "loyalty": "",
             "artist": "TheChrisPMan",
             "alias": "",
-            "position": "531",
+            "position": "530",
             "notes": "!group backup\n!sort 01",
             "image_type": "png",
             "v_mana": ""
@@ -18374,7 +18352,7 @@
             "loyalty": "",
             "artist": "OniRuu",
             "alias": "",
-            "position": "532",
+            "position": "531",
             "notes": "!group darksouls\n!sort 04",
             "image_type": "png",
             "v_mana": ""
@@ -18396,8 +18374,30 @@
             "loyalty": "",
             "artist": "arnaerr",
             "alias": "",
-            "position": "533",
+            "position": "532",
             "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Ancient Dragon",
+            "color": "R",
+            "rarity": "cube",
+            "type": "Creature \u2013 Dragon",
+            "number": 172,
+            "color_identity": "R",
+            "cost": "{3}{R}",
+            "rules_text": "Flying\nWhen this creature enters, it deals X damage to any target, where X is the greatest power among Dragons you control.",
+            "flavor_text": "[i]The ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.[/i]",
+            "pt": "3/3",
+            "special_text": "",
+            "shape": "normal",
+            "set": "EDR",
+            "loyalty": "",
+            "artist": "starrythroat",
+            "alias": "",
+            "position": "533",
+            "notes": "Removal",
             "image_type": "png",
             "v_mana": ""
         },

@@ -1,4 +1,616 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+
+
+Lichdragon Fortissax
+
+The Scadutree
+
+Perfect Order
+
+Crux of Fate
+
+Blasphemous Act
+
+Ancient Ruins of Rauh
+
+Red-Maned Radagon
+
+Formless Mother's Embrace
+
+Nepheli Loux, Warrior
+
+Promised Consort Radahn
+
+Roundtable Knight Vyke
+
+Slaughter the Strong
+
+Ymir's Entreaty
+
+Blackguard Boggart
+
+Strength of Runes
+
+Primeval Sorcerer Azur
+
+Madness
+
+Guardian Golem
+
+The Loathsome Dung Eater
+
+Veiled Monarch's Reign
+
+The Shadow Sunflower
+
+Blade of Miquella
+
+Visions of Madness
+
+Dearest Nanaya
+
+Metyr, Mother of Fingers
+
+Dread Fortissax
+
+Fleeting Microcosm
+
+Praetor Rykard
+
+Divine Bird Warrior
+
+Sellen's Ponderance
+
+The Ever Brilliant Goldmask
+
+Belurat, Tower Settlement
+
+Marika's Statue
+
+Haligtree Shrine
+
+Crucible Knights
+
+Serpent
+
+Founding Rain of Stars
+
+Oracle Envoy
+
+Jar-Bairn
+
+Miquella's Charm
+
+Golden Epitaph
+
+The Haligtree
+
+Rellana, Twin Moon Knight
+
+Merchant's Song
+
+Perfumer
+
+The Hornsent
+
+Primeval Sorcerer Lusat
+
+Horn-deck'd Beast
+
+Radahn's Resurrection
+
+The Gate of Divinity
+
+Eclipse Shotel
+
+Malenia, the Severed
+
+Ensha of the Royal Remains
+
+Seduction and Betrayal
+
+Dominula, Windmill Village
+
+Commander Gaius
+
+Infernal Grasp
+
+Claimed by Death
+
+Dominula Celebrant
+
+D and Rogier
+
+Roundtable Hold
+
+City of Nox
+
+Church of Marika
+
+Margit, the Fell Omen
+
+Induced Dreams
+
+Stick Together
+
+Aging Untouchable
+
+One-Eyed God's Flame
+
+The First Step
+
+Putrescent Knight
+
+Rauh Crucible Knight
+
+Godwyn's Knight
+
+Mohg, Lord of Blood
+
+Boc, the Seamster
+
+Miquella's Cross
+
+Carian Inverted Statue
+
+Maliketh, the Black Blade
+
+Battling the Sisters of Rot
+
+Aspect of the Crucible
+
+Sage Midra
+
+Miquella's Love
+
+Gladius, Beast of Night
+
+Wylder
+
+Fingercreeper
+
+Ymir, Mother of Fingers
+
+Adula, Dark Moon Sworn
+
+Miquella's Sacrifice
+
+Abandoning Even His Fate
+
+Fanged Imp
+
+Preceptor Seluvis
+
+Flames of the Crusade
+
+Hornsent Grandam
+
+Roderika, Spirit Tuner
+
+Hornsent Inquisition
+
+Millicent, Flowering Valkyrie
+
+Midra's Manse
+
+Blackgaol Knight
+
+Enir Ilim
+
+Marika, Born of Shadow
+
+Shaman Village
+
+Recluse
+
+Gurranq, Beast Clergyman
+
+Guardian
+
+Sir Moore
+
+Cerulean Coast
+
+Spirit Fish
+
+Spirit Eel
+
+Clue
+
+Fire Knight
+
+Crusader's Resentment
+
+Servants of Death
+
+Baleful Scarlet Rot
+
+Food
+
+Dragon Warrior
+
+Florissax, Dragon Priestess
+
+Feast Upon the Heart
+
+Furnace Golem
+
+Duchess
+
+Liurnia of the Lakes
+
+Foot of the Erdtree
+
+Beloved Child
+
+Will You Be My Consort
+
+Seeking the Crosses
+
+Seeker of Runes
+
+Spectral Hawk
+
+Blade of Destined Death
+
+Nox Maidens
+
+Jagged Peak Drake
+
+Albinauric Archer
+
+Radagon is Marika
+
+Stars of Darkness
+
+Giant Crayfish
+
+Leonard, Radahn's Steed
+
+Liurnian Siege
+
+Epic Encounter
+
+Somber Remembrance
+
+Jori, Elder Inquisitor
+
+Enter Ranni's Service
+
+Vindicate
+
+Treasure
+
+Eternal City's Desolation
+
+Igneous Visions
+
+Demigod
+
+Frenzied Troll
+
+Confrontation at the Gate
+
+Dragonkin Soldier
+
+Desperate Measures
+
+Guided by Grace
+
+Mariner's Dirge
+
+The Gate of Night
+
+Golden Braid
+
+Marika, the Golden One
+
+Revenant
+
+Behold Primeval Currents
+
+Godwyn's Fall
+
+Marika's Guidance
+
+Demigod
+
+Demigod
+
+Demigod
+
+Demigod
+
+Starscourge's Challenge
+
+Heartfelt Wish
+
+Secret Away
+
+Demigod
+
+Demigod
+
+Demigod
+
+Demigod
+
+Demigod
+
+Die a True Death
+
+Deathroot's Grasp
+
+Insidious Roots
+
+Divine Invocation
+
+Royal Revenant
+
+Walking Mausoleum
+
+Soldier
+
+Poison Counter
+
+Ooze Horse
+
+Marika's Head
+
+Shard
+
+Lake of Rot
+
+The Three Fingers
+
+Wolf
+
+Human Warrior
+
+Skeleton
+
+Dragon
+
+Blood
+
+Map
+
+Everywhere
+
+Jar Innards
+
+Black Knife
+
+Into the Jar
+
+Seekers of Redemption
+
+Flee from Caelid
+
+Secret Rite
+
+Sweet Dreams
+
+Rogier, Scholar of Death
+
+The Monarch
+
+Nature of the Shamans
+
+Executor
+
+Erdtree Burial
+
+Godwyn, First to Fall
+
+Morgott, Veiled Monarch
+
+Erdtree Avatar
+
+Empyrean Cocoon
+
+Journey to the Haligtree
+
+Giant Spirit Skeleton
+
+Noklateo, the Shrouded City
+
+King of the Storm
+
+Gaping Dragon
+
+Nameless King
+
+Dancer of the Boreal Valley
+
+Smelter Demon
+
+Snow Witch
+
+Fallingstar Beast
+
+Scadutree Base
+
+O, Elden Ring!
+
+Radagon of the Golden Order
+
+Mend the Elden Ring
+
+Heolstor, the Nightlord
+
+Duke's Dear Freja
+
+Crumbling Farum Azula
+
+Maris, Master of Bubbles
+
+Consecrated Snowfield
+
+Altus Plateau
+
+Land of Shadow
+
+A New Journey
+
+In Search of Purpose
+
+Melina and Torrent
+
+Adel, Gaping Jaw
+
+Ironeye
+
+Fire Knight Captain
+
+Fulghor, Darkdrift Knight
+
+Jarburg
+
+Wailing Dunes
+
+Ancient Golem
+
+Redmane Castle
+
+Elphael, Brace of the Haligtree
+
+Leyndell, Ashen Capital
+
+Gnoster, Wisdom of Night
+
+Horned Warrior
+
+Empyrean Bond
+
+Silver Tear Seal
+
+Sunder Reality
+
+Make Your Choice
+
+Iron Menial
+
+Construct
+
+Faurtis Stoneshield
+
+Serve the Gods
+
+Small Jar Bazaar
+
+Thiollier
+
+Raider
+
+Fissure in the Fog
+
+Great Exodus
+
+Unrelenting Hunger
+
+Gaol Binding
+
+Teardrop of Night
+
+Return to the Erdtree
+
+Tricephalos's Howl
+
+Godskin Duo
+
+Shadow Keep
+
+The Great Jar
+
+On An Adventure
+
+Can Be Cast From Exile
+
+Restage
+
+Plant
+
+Butterfly
+
+Bird Spirit
+
+Libra, Equilibrious Beast
+
+Caligo, Miasma of Night
+
+Arrow of Nightglow
+
+Condemn to Memory
+
+Light of Miquella
+
+Offer Pita Bread
+
+Serosh, Beast Regent
+
+Glow
+
+Larval Transformation
+
+Maris, Unknown Entity
+
+Rellana's Cameo
+
+Shadows Colder than Death
+
+Call the Condemned
+
+Footprints of the Nightlord
+
+Grave Keeper
+
+Night's Tide
+
+The Shape of Night
+
+Animus, Ascendant Light
+
+Farum Azula Dragon
+
+Fire Prelate
+
+Flames of Gladius
+
+Forge's Flames
+
+Behold the Jagged Peak
+
+Cradled by Death
+
+Roderika and Hewg
+
+Shaman Village Sentinel
+
+Storm Ruler
+
+Eclipsed Sun
+
+Ghiza's Wheel
+
+Larval Tear
+
+Marika's Jars
+
+Moonlight Greatsword
+
+A Tarnished of No Renown
+
+Centipede Demon
+
+Naturalborn's Presence
+
+Ancient Dragon
+
+
+VERSION 10 CHANGELOG
 ====================
 
 A Shaman Ascends added.

@@ -35,7 +35,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "260",
+			"collector_number": "261",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/3.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "297",
+			"collector_number": "298",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/7.png"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Skeleton Rogue",
-			"collector_number": "214",
+			"collector_number": "215",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/15.png"
 			}
@@ -355,7 +355,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Creature — Plant Bird",
-			"collector_number": "213",
+			"collector_number": "214",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/35.png"
 			}
@@ -365,7 +365,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "253",
+			"collector_number": "254",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/36.png"
 			}
@@ -375,7 +375,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Elf Ranger",
-			"collector_number": "219",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/37.png"
 			}
@@ -395,7 +395,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Vampire Rogue",
-			"collector_number": "221",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/39.png"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Sorcery",
-			"collector_number": "225",
+			"collector_number": "226",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/40.png"
 			}
@@ -445,7 +445,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Enchantment",
-			"collector_number": "244",
+			"collector_number": "245",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/44.png"
 			}
@@ -463,7 +463,7 @@
 		{
 			"name": "Trihorn Rancher",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Human Ranger",
 			"collector_number": "158",
 			"image_uris": {
@@ -495,7 +495,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "250",
+			"collector_number": "251",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/49.png"
 			}
@@ -575,7 +575,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Desert",
-			"collector_number": "273",
+			"collector_number": "274",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/57.png"
 			}
@@ -595,7 +595,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "254",
+			"collector_number": "255",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/59.png"
 			}
@@ -605,7 +605,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Desert",
-			"collector_number": "275",
+			"collector_number": "276",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/60.png"
 			}
@@ -615,7 +615,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "218",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/61.png"
 			}
@@ -655,7 +655,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Human Scout",
-			"collector_number": "212",
+			"collector_number": "213",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/65.png"
 			}
@@ -705,7 +705,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Desert",
-			"collector_number": "276",
+			"collector_number": "277",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/70.png"
 			}
@@ -745,7 +745,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "258",
+			"collector_number": "259",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/74.png"
 			}
@@ -755,7 +755,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "227",
+			"collector_number": "228",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/75.png"
 			}
@@ -795,7 +795,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Bird Dinosaur",
-			"collector_number": "230",
+			"collector_number": "231",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/79.png"
 			}
@@ -835,7 +835,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Desert",
-			"collector_number": "282",
+			"collector_number": "283",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/83.png"
 			}
@@ -845,7 +845,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Enchantment",
-			"collector_number": "237",
+			"collector_number": "238",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/84.png"
 			}
@@ -855,7 +855,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Desert",
-			"collector_number": "286",
+			"collector_number": "287",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/85.png"
 			}
@@ -865,7 +865,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Desert",
-			"collector_number": "287",
+			"collector_number": "288",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/86.png"
 			}
@@ -885,7 +885,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Desert",
-			"collector_number": "290",
+			"collector_number": "291",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/88.png"
 			}
@@ -895,7 +895,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Desert",
-			"collector_number": "291",
+			"collector_number": "292",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/89.png"
 			}
@@ -915,7 +915,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Desert",
-			"collector_number": "294",
+			"collector_number": "295",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/91.png"
 			}
@@ -975,7 +975,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Creature — Insect",
-			"collector_number": "211",
+			"collector_number": "212",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/97.png"
 			}
@@ -1005,7 +1005,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Demon Rogue",
-			"collector_number": "228",
+			"collector_number": "229",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/100.png"
 			}
@@ -1015,7 +1015,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "262",
+			"collector_number": "263",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/101.png"
 			}
@@ -1035,7 +1035,7 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Legendary Land — Desert",
-			"collector_number": "271",
+			"collector_number": "272",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/103.png"
 			}
@@ -1045,7 +1045,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{W}{U}{B}{R}{G}",
 			"type": "Legendary Creature — Dinosaur Avatar",
-			"collector_number": "248",
+			"collector_number": "249",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/104.png"
 			}
@@ -1095,7 +1095,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{B}",
 			"type": "Legendary Planeswalker — Varus",
-			"collector_number": "249",
+			"collector_number": "250",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/109.png"
 			}
@@ -1265,7 +1265,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Desert",
-			"collector_number": "289",
+			"collector_number": "290",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/126.png"
 			}
@@ -1275,7 +1275,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Desert",
-			"collector_number": "283",
+			"collector_number": "284",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/127.png"
 			}
@@ -1285,7 +1285,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Desert",
-			"collector_number": "270",
+			"collector_number": "271",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/128.png"
 			}
@@ -1305,7 +1305,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Creature — Giant Scout",
-			"collector_number": "239",
+			"collector_number": "240",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/130.png"
 			}
@@ -1315,7 +1315,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Desert",
-			"collector_number": "280",
+			"collector_number": "281",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/131.png"
 			}
@@ -1325,7 +1325,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{0}",
 			"type": "Legendary Artifact",
-			"collector_number": "255",
+			"collector_number": "256",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/132.png"
 			}
@@ -1395,7 +1395,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Construct Rogue",
-			"collector_number": "266",
+			"collector_number": "267",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/139.png"
 			}
@@ -1435,7 +1435,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Planeswalker — Maria",
-			"collector_number": "229",
+			"collector_number": "230",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/143.png"
 			}
@@ -1655,7 +1655,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Spirit",
-			"collector_number": "232",
+			"collector_number": "233",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/165.png"
 			}
@@ -1745,7 +1745,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Construct Bard",
-			"collector_number": "269",
+			"collector_number": "270",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/174.png"
 			}
@@ -1885,7 +1885,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{U}",
 			"type": "Creature — Plant Beast",
-			"collector_number": "241",
+			"collector_number": "242",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/188.png"
 			}
@@ -1915,7 +1915,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "292",
+			"collector_number": "293",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/191.png"
 			}
@@ -1925,7 +1925,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "224",
+			"collector_number": "225",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/192.png"
 			}
@@ -1945,7 +1945,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Desert",
-			"collector_number": "279",
+			"collector_number": "280",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/194.png"
 			}
@@ -1965,7 +1965,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Desert",
-			"collector_number": "288",
+			"collector_number": "289",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/196.png"
 			}
@@ -2055,7 +2055,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "257",
+			"collector_number": "258",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/205.png"
 			}
@@ -2145,7 +2145,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "259",
+			"collector_number": "260",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/214.png"
 			}
@@ -2155,7 +2155,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Angel",
-			"collector_number": "268",
+			"collector_number": "269",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/215.png"
 			}
@@ -2165,7 +2165,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "261",
+			"collector_number": "262",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/216.png"
 			}
@@ -2175,7 +2175,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "267",
+			"collector_number": "268",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/217.png"
 			}
@@ -2225,7 +2225,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Creature — Lizard Dragon",
-			"collector_number": "223",
+			"collector_number": "224",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/222.png"
 			}
@@ -2355,7 +2355,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{R}{G}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "246",
+			"collector_number": "247",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/235.png"
 			}
@@ -2365,7 +2365,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "298",
+			"collector_number": "299",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/236.png"
 			}
@@ -2495,7 +2495,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Desert",
-			"collector_number": "278",
+			"collector_number": "279",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/249.png"
 			}
@@ -2585,7 +2585,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "256",
+			"collector_number": "257",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/258.png"
 			}
@@ -2595,7 +2595,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{9}",
 			"type": "Artifact Creature — Construct Knight",
-			"collector_number": "251",
+			"collector_number": "252",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/259.png"
 			}
@@ -2605,7 +2605,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "265",
+			"collector_number": "266",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/260.png"
 			}
@@ -2615,7 +2615,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "252",
+			"collector_number": "253",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/261.png"
 			}
@@ -2625,7 +2625,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Planeswalker — Fel",
-			"collector_number": "220",
+			"collector_number": "221",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/262.png"
 			}
@@ -2635,7 +2635,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Artifact",
-			"collector_number": "217",
+			"collector_number": "218",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/263.png"
 			}
@@ -2645,7 +2645,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "240",
+			"collector_number": "241",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/264.png"
 			}
@@ -2665,7 +2665,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
 			"type": "Sorcery",
-			"collector_number": "238",
+			"collector_number": "239",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/266.png"
 			}
@@ -2675,7 +2675,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "295",
+			"collector_number": "296",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/267.png"
 			}
@@ -2685,7 +2685,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Enchantment",
-			"collector_number": "247",
+			"collector_number": "248",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/268.png"
 			}
@@ -2695,7 +2695,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "296",
+			"collector_number": "297",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/269.png"
 			}
@@ -2705,7 +2705,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Enchantment",
-			"collector_number": "236",
+			"collector_number": "237",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/270.png"
 			}
@@ -2715,7 +2715,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "299",
+			"collector_number": "300",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/271.png"
 			}
@@ -2745,7 +2745,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Creature — Human Rogur",
-			"collector_number": "231",
+			"collector_number": "232",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/274.png"
 			}
@@ -2755,7 +2755,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}{U}",
 			"type": "Artifact Creature — Dragon Warlock",
-			"collector_number": "215",
+			"collector_number": "216",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/275.png"
 			}
@@ -2765,7 +2765,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Enchantment",
-			"collector_number": "216",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/276.png"
 			}
@@ -2775,7 +2775,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Sorcery",
-			"collector_number": "245",
+			"collector_number": "246",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/277.png"
 			}
@@ -2785,7 +2785,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "242",
+			"collector_number": "243",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/278.png"
 			}
@@ -2795,7 +2795,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "263",
+			"collector_number": "264",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/279.png"
 			}
@@ -2835,7 +2835,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{G}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "235",
+			"collector_number": "236",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/283.png"
 			}
@@ -2855,7 +2855,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "226",
+			"collector_number": "227",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/285.png"
 			}
@@ -2865,7 +2865,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "233",
+			"collector_number": "234",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/286.png"
 			}
@@ -2885,7 +2885,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Desert",
-			"collector_number": "277",
+			"collector_number": "278",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/288.png"
 			}
@@ -2895,7 +2895,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Dragon",
-			"collector_number": "264",
+			"collector_number": "265",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/289.png"
 			}
@@ -2921,9 +2921,9 @@
 			}
 		},
 		{
-			"name": "Paurl, Lord Dreadbeast",
+			"name": "Paurl, Lord of Unlife",
 			"rarity": "rare",
-			"mana_cost": "{5}{B}{B}{B}",
+			"mana_cost": "{4}{B}{B}{B}",
 			"type": "Legendary Creature — Elk Demon Dragon",
 			"collector_number": "102",
 			"image_uris": {
@@ -2934,8 +2934,8 @@
 			"name": "Ramiro, Shadowcaster",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
-			"type": "Legendary Creature — Vampire",
-			"collector_number": "234",
+			"type": "Legendary Creature — Vampire Warlock",
+			"collector_number": "235",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/293.png"
 			}
@@ -2945,7 +2945,7 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{G}{W}",
 			"type": "Artifact Creature — Dinosaur Cyborg",
-			"collector_number": "222",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/294.png"
 			}
@@ -2955,7 +2955,7 @@
 			"rarity": "rare",
 			"mana_cost": "{8}{U}{R}",
 			"type": "Enchantment",
-			"collector_number": "243",
+			"collector_number": "244",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/295.png"
 			}
@@ -2975,7 +2975,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Desert",
-			"collector_number": "293",
+			"collector_number": "294",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/297.png"
 			}
@@ -2985,7 +2985,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Planeswalker — Bonnie",
-			"collector_number": "210",
+			"collector_number": "211",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/298.png"
 			}
@@ -2995,7 +2995,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Desert",
-			"collector_number": "272",
+			"collector_number": "273",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/299.png"
 			}
@@ -3005,7 +3005,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Desert",
-			"collector_number": "274",
+			"collector_number": "275",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/300.png"
 			}
@@ -3015,7 +3015,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Desert",
-			"collector_number": "281",
+			"collector_number": "282",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/301.png"
 			}
@@ -3025,7 +3025,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Desert",
-			"collector_number": "284",
+			"collector_number": "285",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/302.png"
 			}
@@ -3035,9 +3035,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Desert",
-			"collector_number": "285",
+			"collector_number": "286",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/303.png"
+			}
+		},
+		{
+			"name": "Biledeep Marshal",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Skeleton Rogue",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/304.png"
 			}
 		}
 	]
@@ -3140,12 +3150,13 @@
 	1 Rocket-Powered Dragon
 	2 Jess, High Heavens Marshal
 	2 Deepmine Skitterer
-	2 Paurl, Lord Dreadbeast
+	2 Paurl, Lord of Unlife
 	2 Ramiro, Shadowcaster
 	2 Forgesaddled Strider
 	2 Storm at the Pinnacle
 	1 Return with the Storm
 	1 Bonnie, Worldtrotter
+	2 Biledeep Marshal
 [uncommon(3)]
 	4 Long Arm of the Law
 	4 Slipspace Freight
@@ -3622,7 +3633,7 @@
 	1 Rocket-Powered Dragon
 	2 Jess, High Heavens Marshal
 	2 Deepmine Skitterer
-	2 Paurl, Lord Dreadbeast
+	2 Paurl, Lord of Unlife
 	2 Ramiro, Shadowcaster
 	2 Forgesaddled Strider
 	2 Storm at the Pinnacle
@@ -3634,6 +3645,7 @@
 	12 Prismatic Dunes
 	12 Shalehewn Ridges
 	12 Soot-Covered Glade
+	2 Biledeep Marshal
 [wildcard(1)]
 	6 Lady Wicked's Huntress
 	6 Send Straight to Hell
@@ -3917,7 +3929,7 @@
 	4 Rocket-Powered Dragon
 	7 Jess, High Heavens Marshal
 	7 Deepmine Skitterer
-	7 Paurl, Lord Dreadbeast
+	7 Paurl, Lord of Unlife
 	7 Ramiro, Shadowcaster
 	7 Forgesaddled Strider
 	7 Storm at the Pinnacle
@@ -3929,3 +3941,4 @@
 	6 Prismatic Dunes
 	6 Shalehewn Ridges
 	6 Soot-Covered Glade
+	7 Biledeep Marshal

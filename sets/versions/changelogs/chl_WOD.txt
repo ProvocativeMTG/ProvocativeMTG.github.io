@@ -1,4 +1,55 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Paurl, Lord of Unlife added.
+Biledeep Marshal added.
+
+Paurl, Lord Dreadbeast removed.
+
+Trihorn Rancher
+cost: {2}{R} => {1}{R}{R}
+
+Big Bull
+rules_text: Trample
+Whenever this creature attacks, put four +1/+1 counters on target Dinosaur you control. => Trample
+Whenever Big Bull attacks, put four +1/+1 counters on target Dinosaur you control.
+
+Bennett, the Pilgrim
+rules_text: Sojourn [i](If there are twelve or more different names among permanents you control and cards in your graveyard, you've touched the horizon this game.)[/i]
+[+1]: Mill two cards. Then if you've touched the horizon, you may return one of the milled cards to your hand.
+[-2]: Create a colorless land token named Bennett's Beanstalk that's all land types.
+[-5]: You get an emblem with “Whenever a land you control enters, you gain 1 life and draw a card.” If you've touched the horizon, you get two of those emblems instead. => Sojourn [i](If there are twelve or more different names among permanents you control and cards in your graveyard, you've touched the horizon this game.)[/i]
+[+1]: Mill two cards. Then if you've touched the horizon, you may return one of the milled cards to your hand.
+[-2]: Create a colorless land token named Bennett's Beanstalk that's all land types.
+[-5]: You get an emblem with “Whenever a land you control enters, you may gain 1 life and draw a card.” If you've touched the horizon, you get two of those emblems instead.
+special_text: Sojourn [i](If there are twelve or more different names among permanents you control and cards in your graveyard, you've touched the horizon this game.)[/i]
+[+1]: Mill two cards. Then if you've touched the horizon, you may return one of the milled cards to your hand.
+[-2]: Create a colorless land token named Bennett's Beanstalk that's all land types.
+[-5]: You get an emblem with “Whenever a land you control enters, you gain 1 life and draw a card.” If you've touched the horizon, you get two of those emblems instead. => Sojourn [i](If there are twelve or more different names among permanents you control and cards in your graveyard, you've touched the horizon this game.)[/i]
+[+1]: Mill two cards. Then if you've touched the horizon, you may return one of the milled cards to your hand.
+[-2]: Create a colorless land token named Bennett's Beanstalk that's all land types.
+[-5]: You get an emblem with “Whenever a land you control enters, you may gain 1 life and draw a card.” If you've touched the horizon, you get two of those emblems instead.
+
+Necrosaurus Caller
+rules_text: Other Shades, Skeletons, Specters, Spirits, Vampires, Wraiths, and Zombies you control get +1/+1.
+Exhaust — {3}{B}: Return target creature card from your graveyard to the battlefield. It's a black Zombie in addition to its other types.Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i] => Other Shades, Skeletons, Specters, Spirits, Vampires, Wraiths, and Zombies you control get +1/+1.
+Exhaust — {3}{B}: Return target creature card from your graveyard to the battlefield. It's a black Zombie in addition to its other types. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i]
+
+Ravenous Locomotive
+rules_text: Whenever this creature attacks, sacrifice each creature that crewed it this turn. If you do, you draw that many cards.
+Crew 4 [i](Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Whenever this Vehicle attacks, sacrifice each creature that crewed it this turn. If you do, you draw that many cards.
+Crew 4 [i](Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Deepmine Skitterer
+rules_text: Whenever you create one or more tokens, tap up to one target creature an opponent controls and draw a card.
+Tall tale {3}{W}{W} [i]({3}{W}{W}, Exile this card from your graveyard: Create a token that's a copy of it, except it's also a Saga enchantment and it can't block. Sacrifice it after r{3}. Activate only as a sorcery.)[/i] => Whenever you create one or more tokens, tap up to one target creature an opponent controls. If this is the first time this ability has resolved this turn, draw a card.
+Tall tale {3}{W}{W} [i]({3}{W}{W}, Exile this card from your graveyard: Create a token that's a copy of it, except it's also a Saga enchantment and it can't block. Sacrifice it after r{3}. Activate only as a sorcery.)[/i]
+
+Ramiro, Shadowcaster
+type: Legendary Creature — Vampire => Legendary Creature — Vampire Warlock
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

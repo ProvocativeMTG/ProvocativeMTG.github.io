@@ -296,9 +296,9 @@
             "number": 264,
             "color_identity": "BG",
             "cost": "{2}{BG}",
-            "rules_text": "",
+            "rules_text": "[i]Converge[/i] \u2014 This creature enters with a +1/+1 counter on it for each color of mana spent to cast it.\n{B}{G}, Remove a +1/+1 counter from this creature: You draw a card and lose 1 life.",
             "flavor_text": "[i][/i]",
-            "pt": "3/2",
+            "pt": "1/1",
             "special_text": "",
             "shape": "normal",
             "set": "EDR",
@@ -6428,7 +6428,7 @@
             "cost": "",
             "rules_text": "",
             "flavor_text": "[i][/i]",
-            "pt": "*/*",
+            "pt": "1/1",
             "special_text": "",
             "shape": "token",
             "set": "EDR",
@@ -6599,5 +6599,5 @@
             "notes": ""
         }
     ],
-    "version": 14
+    "version": 15
 }

@@ -260,7 +260,8 @@ Whenever you gain life, each opponent loses 1 life.</text>
 		</card>
 		<card>
 			<name>Tarnished Recusant</name>
-			<text></text>
+			<text>Converge — This creature enters with a +1/+1 counter on it for each color of mana spent to cast it.
+{B}{G}, Remove a +1/+1 counter from this creature: You draw a card and lose 1 life.</text>
 			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/14.png" num="264">EDR</set>
 			<prop>
 				<layout>normal</layout>
@@ -271,7 +272,7 @@ Whenever you gain life, each opponent loses 1 life.</text>
 				<cmc>3</cmc>
 				<colors>BG</colors>
 				<coloridentity>BG</coloridentity>
-				<pt>3/2</pt>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -5757,7 +5758,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 				<cmc>0</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>*/*</pt>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>

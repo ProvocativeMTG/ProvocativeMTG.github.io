@@ -1,4 +1,18 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+
+
+Tarnished Recusant
+rules_text:  => [i]Converge[/i] — This creature enters with a +1/+1 counter on it for each color of mana spent to cast it.
+{B}{G}, Remove a +1/+1 counter from this creature: You draw a card and lose 1 life.
+pt: 3/2 => 1/1
+
+Spirit
+pt: */* => 1/1
+
+
+VERSION 14 CHANGELOG
 ====================
 
 

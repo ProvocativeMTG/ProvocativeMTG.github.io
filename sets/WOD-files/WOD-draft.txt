@@ -3258,7 +3258,99 @@
 	4 Covet Humanity
 	4 Tied to the Tracks
 	4 Startouched Hotshot
-[common(7)]
+[common(6)]
+	8 Lady Wicked's Huntress
+	8 Send Straight to Hell
+	8 Forktongued Balladeer
+	8 King of Skull Pass
+	8 Farseeker's Leatherwing
+	8 Sky Cities Messenger
+	8 Noble Ranger
+	8 Bayou Boon
+	8 Bullet Down the Gullet
+	8 Dirgepoint Survivor
+	8 Oasis Nest
+	8 Eccentric Skinner
+	8 Mewling Hatchling
+	8 Line Em' Up, Knock Em' Down
+	8 Avatar of Persistence
+	8 Notorious Hijacker
+	8 Surging Tentacles
+	8 Whirlwind Romance
+	8 Spineplate Behemoth
+	8 Hunted Thief
+	8 Broken Lands Offering
+	8 Commune with Dinosaurs
+	8 Territorial Trihorns
+	8 Tricerastop
+	8 Caravan Colossus
+	8 Ride the Lightning
+	8 Strange Wasteland
+	8 Secluded Oasis
+	8 Arid Canyon
+	8 Dirgepoint Traveler
+	8 Orcish Ferriers
+	8 Buckshot
+	8 Vicious Greatbat
+	8 Steeljaw Desperado
+	8 Specter of Biledeep
+	8 Run Hot
+	8 Cocky Sureshot
+	8 Nefarious Mercenary
+	8 Pilgrim's Bison
+	8 Roaming Sheriffs
+	8 Vinelash
+	8 Rotting Rex
+	8 Magma Splash
+	8 Leave to Die
+	8 Sunset Chaser
+	8 Ignited Helltaker
+	8 Apex of the Sands
+	8 Corrupted Tyrant
+	8 Hellsent Executioner
+	8 Search for Answers
+	8 Saddled Trihorn
+	8 Basking Sunfrill
+	8 To New Lands
+	8 Hillhopper Scout
+	8 Oasis Mantis
+	8 Starpluck
+	8 Guiding Tumblewagg
+	8 Ridge Raptor
+	8 Worn-Down Marvel
+	8 Clockwork Dragon
+	8 Cursed Miner
+	8 Shadow of Hollowgrave
+	8 Reclaimed Vitality
+	8 Run Down the Convoy
+	8 Modified Leatherwing
+	8 Cheery Ruffian
+	8 Ironwyst Sheriff
+	8 Giant Cyhawk
+	8 Careen Off The Cliff
+	8 Engine Surge
+	8 Killer Crustacean
+	8 Ironwyst Tycoon
+	8 Haunting Hangman
+	8 Jig of Protection
+	8 Bestial Tempest
+	8 Scout the Broken Lands
+	8 Arcane Thievery
+	8 Train Ride to Nowhere
+	8 Dead Man's Peace
+	8 Steelcast Steed
+	8 Ironwyst Express
+	8 Wind-Up Angel
+	8 Malevolent Effigy
+	8 Tool-Laden Saddle
+	8 Imposing Flats
+	8 Watering Hole
+	8 Cactus Copse
+	8 Dead Sandsea
+	8 Prismatic Dunes
+	8 Shalehewn Ridges
+	8 Soot-Covered Glade
+[common | masterpiece(1)]
 	8 Lady Wicked's Huntress
 	8 Send Straight to Hell
 	8 Forktongued Balladeer

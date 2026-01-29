@@ -5,14 +5,14 @@
 			<name>EDR</name>
 			<longname>Elden Ring</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-01-28</releasedate>
+			<releasedate>2026-01-29</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
 			<name>Veiled Monarch&apos;s Reign</name>
 			<text>Grace-given (As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)
-I — Create two 1/1 white Soldier creature tokens.
+Create two 1/1 white Soldier creature tokens.
 II — You gain 1 life for each creature you control.
 III — This Saga deals X damage to up to one target creature or planeswalker, where X is the number of creatures you control.</text>
 			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/0.png" num="39">EDR</set>
@@ -32,7 +32,7 @@ III — This Saga deals X damage to up to one target creature or planeswalker, w
 			<name>Wisdom of the Moon</name>
 			<text>Grace-given (As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)
 Draw a card, then discard a card.
-I, II, III — Look at the top card of your library. If it shares a name with a card in your graveyard, you may reveal it and put it into your hand. Otherwise, you may put it into your graveyard.
+II, III — Look at the top card of your library. If it shares a name with a card in your graveyard, you may reveal it and put it into your hand. Otherwise, you may put it into your graveyard.
 ​</text>
 			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/1.png" num="81">EDR</set>
 			<prop>
@@ -50,7 +50,7 @@ I, II, III — Look at the top card of your library. If it shares a name with a 
 		<card>
 			<name>Placidusax&apos;s Ruin</name>
 			<text>Grace-given (As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)
-I — This Saga deals 2 damage to any target.
+This Saga deals 2 damage to any target.
 II — Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.
 III — Whenever you cast a Dragon spell this turn, copy it. The copy isn&apos;t legendary.</text>
 			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/2.png" num="151">EDR</set>
@@ -4640,7 +4640,7 @@ Sacrifice a legendary creature: Draw a card.</text>
 		</card>
 		<card>
 			<name>Twin Moons</name>
-			<text>Exile up to two target instant and/or sorcery cards from your graveyard. Until end of turn, whenever you cast an instant or sorcery spell, copy one of the exiled cards. You may cast the copy without paying its mana cost.
+			<text>Exile up to two target instant and/or sorcery cards from your graveyard. Until end of turn, whenever you cast an instant or sorcery spell from your hand, copy one of the exiled cards. You may cast the copy without paying its mana cost.
 Exile Twin Moons.</text>
 			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/250.png" num="162">EDR</set>
 			<prop>
@@ -4694,7 +4694,7 @@ Whenever this creature attacks, create a 2/2 white Knight creature token.</text>
 		<card>
 			<name>Radagon is Marika</name>
 			<text>Grace-given (As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)
-I — Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+Return target creature card with mana value 2 or less from your graveyard to the battlefield.
 II — Target creature you control gains lifelink or indestructible until end of turn.
 III — Creatures you control get +1/+1 until end of turn.</text>
 			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/253.png" num="31">EDR</set>
@@ -5396,7 +5396,7 @@ Landfall — Whenever a land you control enters, create a 3/3 black Demigod crea
 		<card>
 			<name>Majesty of the Erdtree</name>
 			<text>As an additional cost to cast this spell, exile a land card from your graveyard.
-Creatures you control get +1/+1 and gain trample.
+Creatures you control get +1/+1 and gain trample until end of turn.
 Until end of turn, whenever a creature you control deals combat damage to a player, create a token that&apos;s a copy of the exiled card, except it isn&apos;t legendary.</text>
 			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/294.png" num="189">EDR</set>
 			<prop>

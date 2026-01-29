@@ -1,4 +1,86 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+
+
+Veiled Monarch's Reign
+rules_text: Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — Create two 1/1 white Soldier creature tokens.
+II — You gain 1 life for each creature you control.
+III — This Saga deals X damage to up to one target creature or planeswalker, where X is the number of creatures you control. => Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+Create two 1/1 white Soldier creature tokens.
+II — You gain 1 life for each creature you control.
+III — This Saga deals X damage to up to one target creature or planeswalker, where X is the number of creatures you control.
+special_text: Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — Create two 1/1 white Soldier creature tokens.
+II — You gain 1 life for each creature you control.
+III — This Saga deals X damage to up to one target creature or planeswalker, where X is the number of creatures you control. => Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+Create two 1/1 white Soldier creature tokens.
+II — You gain 1 life for each creature you control.
+III — This Saga deals X damage to up to one target creature or planeswalker, where X is the number of creatures you control.
+
+Wisdom of the Moon
+rules_text: Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+Draw a card, then discard a card.
+I, II, III — Look at the top card of your library. If it shares a name with a card in your graveyard, you may reveal it and put it into your hand. Otherwise, you may put it into your graveyard.
+​ => Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+Draw a card, then discard a card.
+II, III — Look at the top card of your library. If it shares a name with a card in your graveyard, you may reveal it and put it into your hand. Otherwise, you may put it into your graveyard.
+​
+special_text: Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+Draw a card, then discard a card.
+I, II, III — Look at the top card of your library. If it shares a name with a card in your graveyard, you may reveal it and put it into your hand. Otherwise, you may put it into your graveyard.
+​ => Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+Draw a card, then discard a card.
+II, III — Look at the top card of your library. If it shares a name with a card in your graveyard, you may reveal it and put it into your hand. Otherwise, you may put it into your graveyard.
+​
+
+Placidusax's Ruin
+rules_text: Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — This Saga deals 2 damage to any target.
+II — Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.
+III — Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary. => Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+This Saga deals 2 damage to any target.
+II — Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.
+III — Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary.
+special_text: Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — This Saga deals 2 damage to any target.
+II — Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.
+III — Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary. => Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+This Saga deals 2 damage to any target.
+II — Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.
+III — Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary.
+
+Twin Moons
+rules_text: Exile up to two target instant and/or sorcery cards from your graveyard. Until end of turn, whenever you cast an instant or sorcery spell, copy one of the exiled cards. You may cast the copy without paying its mana cost.
+Exile Twin Moons. => Exile up to two target instant and/or sorcery cards from your graveyard. Until end of turn, whenever you cast an instant or sorcery spell from your hand, copy one of the exiled cards. You may cast the copy without paying its mana cost.
+Exile Twin Moons.
+
+Radagon is Marika
+rules_text: Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+II — Target creature you control gains lifelink or indestructible until end of turn.
+III — Creatures you control get +1/+1 until end of turn. => Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+II — Target creature you control gains lifelink or indestructible until end of turn.
+III — Creatures you control get +1/+1 until end of turn.
+special_text: Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+II — Target creature you control gains lifelink or indestructible until end of turn.
+III — Creatures you control get +1/+1 until end of turn. => Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+II — Target creature you control gains lifelink or indestructible until end of turn.
+III — Creatures you control get +1/+1 until end of turn.
+
+Majesty of the Erdtree
+rules_text: As an additional cost to cast this spell, exile a land card from your graveyard.
+Creatures you control get +1/+1 and gain trample.
+Until end of turn, whenever a creature you control deals combat damage to a player, create a token that's a copy of the exiled card, except it isn't legendary. => As an additional cost to cast this spell, exile a land card from your graveyard.
+Creatures you control get +1/+1 and gain trample until end of turn.
+Until end of turn, whenever a creature you control deals combat damage to a player, create a token that's a copy of the exiled card, except it isn't legendary.
+
+
+VERSION 16 CHANGELOG
 ====================
 
 

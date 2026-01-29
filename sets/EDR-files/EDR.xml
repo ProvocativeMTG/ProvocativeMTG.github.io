@@ -3816,7 +3816,7 @@ As long as another card left your graveyard this turn, you may cast this card fr
 		<card>
 			<name>Radagon, King Consort</name>
 			<text>Trample
-When Radagon dies, if he was a creature, return him to the battlefield. He&apos;s an Equipment artifact named Sacred Relic Sword with equip {2} and &quot;Equipped creature gets +X/+X and has trample, where X is the total mana value of legendary permanents you control.&quot;</text>
+When Radagon dies, if he was a creature, return him to the battlefield. He&apos;s a legendary Equipment artifact named Sacred Relic Sword with equip {2} and &quot;Equipped creature gets +X/+X and has trample, where X is the total mana value of legendary permanents you control.&quot;</text>
 			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/203.png" num="236">EDR</set>
 			<prop>
 				<layout>normal</layout>
@@ -4135,7 +4135,7 @@ At the beginning of combat on your turn, if your life total is greater than your
 			<name>Miquella&apos;s Love</name>
 			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
 Enchant creature
-When this Aura enters, gain control of each permanent attached to enchanted creature.
+When this Aura enters, gain control of each permanent attached to enchanted creature for as long as you control this Aura.
 You control enchanted creature.</text>
 			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/221.png" num="231">EDR</set>
 			<prop>
@@ -4331,7 +4331,7 @@ Converge — When this creature enters, exile target spell an opponent controls 
 			<name>Blackguard Boggart</name>
 			<text>Vigilance
 Whenever Blackguard Boggart attacks, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
-{T}: Add {G} for each token you control.</text>
+{1}, {T}: Add {G} for each token you control.</text>
 			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/232.png" num="171">EDR</set>
 			<prop>
 				<layout>normal</layout>
@@ -4694,7 +4694,7 @@ Whenever this creature attacks, create a 2/2 white Knight creature token.</text>
 		<card>
 			<name>Radagon is Marika</name>
 			<text>Grace-given (As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)
-Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+I — Return target creature card with mana value 2 or less from your graveyard to the battlefield.
 II — Target creature you control gains lifelink or indestructible until end of turn.
 III — Creatures you control get +1/+1 until end of turn.</text>
 			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/253.png" num="31">EDR</set>
@@ -5343,17 +5343,16 @@ Exile Banish to the Sewers.</text>
 		</card>
 		<card>
 			<name>Weave the Scarlet Rot</name>
-			<text>Choose one—
-• Return target permanent card from your graveyard to your hand.
-• Exile target permanent card from your graveyard. When you do, Weave the Scarlet Rot deals damage equal to that card&apos;s mana value to target creature.</text>
+			<text>As an additional cost to cast this spell, exile a nonland card from your graveyard.
+Weave the Scarlet Rot deals X damage to target creature or planeswalker, where X is the mana value of the exiled card. If excess damage was dealt this way, you gain that much life.</text>
 			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/291.png" num="255">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1RG</manacost>
-				<cmc>3</cmc>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
 				<colors>RG</colors>
 				<coloridentity>RG</coloridentity>
 			</prop>
@@ -5386,8 +5385,8 @@ Landfall — Whenever a land you control enters, create a 3/3 black Demigod crea
 				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2GG</manacost>
-				<cmc>4</cmc>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>

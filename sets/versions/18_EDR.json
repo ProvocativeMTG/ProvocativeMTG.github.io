@@ -1936,7 +1936,7 @@
             "artist": "NI_RA_10",
             "alias": "",
             "position": "90",
-            "notes": ""
+            "notes": "!tag:twink"
         },
         {
             "card_name": "Join the Mohgwyn Dynasty",
@@ -3556,7 +3556,7 @@
             "artist": "WuMei !",
             "alias": "",
             "position": "171",
-            "notes": ""
+            "notes": "!tag:twink"
         },
         {
             "card_name": "Midra's Manse",
@@ -3896,7 +3896,7 @@
             "artist": "FelixOesinghaus",
             "alias": "",
             "position": "188",
-            "notes": ""
+            "notes": "!tag:twink"
         },
         {
             "card_name": "Melina's Sacrifice",
@@ -4186,7 +4186,7 @@
             "number": 236,
             "color_identity": "WR",
             "cost": "{3}{R}{W}",
-            "rules_text": "Trample\nWhen Radagon dies, if he was a creature, return him to the battlefield. He's an Equipment artifact named Sacred Relic Sword with equip {2} and \u201cEquipped creature gets +X/+X and has trample, where X is the total mana value of legendary permanents you control.\u201d",
+            "rules_text": "Trample\nWhen Radagon dies, if he was a creature, return him to the battlefield. He's a legendary Equipment artifact named Sacred Relic Sword with equip {2} and \u201cEquipped creature gets +X/+X and has trample, where X is the total mana value of legendary permanents you control.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -4436,7 +4436,7 @@
             "artist": "Rose Benjamin",
             "alias": "",
             "position": "215",
-            "notes": "Ramp"
+            "notes": "!tag:twink"
         },
         {
             "card_name": "Dearest Nanaya",
@@ -4546,7 +4546,7 @@
             "number": 231,
             "color_identity": "WU",
             "cost": "{5}{W}{U}",
-            "rules_text": "Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]\nEnchant creature\nWhen this Aura enters, gain control of each permanent attached to enchanted creature.\nYou control enchanted creature.",
+            "rules_text": "Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]\nEnchant creature\nWhen this Aura enters, gain control of each permanent attached to enchanted creature for as long as you control this Aura.\nYou control enchanted creature.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4766,7 +4766,7 @@
             "number": 171,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Vigilance\nWhenever Blackguard Boggart attacks, create a Food token. [i](It's an artifact with \u201c{2}, {T}, Sacrifice this token: You gain 3 life.\u201d)[/i]\n{T}: Add {G} for each token you control.",
+            "rules_text": "Vigilance\nWhenever Blackguard Boggart attacks, create a Food token. [i](It's an artifact with \u201c{2}, {T}, Sacrifice this token: You gain 3 life.\u201d)[/i]\n{1}, {T}: Add {G} for each token you control.",
             "flavor_text": "[i]\u201cMarika's tits, you must be \u2018ungry.\u201d[/i]",
             "pt": "2/3",
             "special_text": "",
@@ -4816,7 +4816,7 @@
             "artist": "FeiHai",
             "alias": "",
             "position": "234",
-            "notes": ""
+            "notes": "!tag:yaoi"
         },
         {
             "card_name": "Purge Without Grace",
@@ -5186,10 +5186,10 @@
             "number": 31,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nReturn target creature card with mana value 2 or less from your graveyard to the battlefield.\nII \u2014 Target creature you control gains lifelink or indestructible until end of turn.\nIII \u2014 Creatures you control get +1/+1 until end of turn.",
+            "rules_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nI \u2014 Return target creature card with mana value 2 or less from your graveyard to the battlefield.\nII \u2014 Target creature you control gains lifelink or indestructible until end of turn.\nIII \u2014 Creatures you control get +1/+1 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nReturn target creature card with mana value 2 or less from your graveyard to the battlefield.\nII \u2014 Target creature you control gains lifelink or indestructible until end of turn.\nIII \u2014 Creatures you control get +1/+1 until end of turn.",
+            "special_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nI \u2014 Return target creature card with mana value 2 or less from your graveyard to the battlefield.\nII \u2014 Target creature you control gains lifelink or indestructible until end of turn.\nIII \u2014 Creatures you control get +1/+1 until end of turn.",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",
@@ -5945,8 +5945,8 @@
             "type": "Sorcery",
             "number": 255,
             "color_identity": "RG",
-            "cost": "{1}{R}{G}",
-            "rules_text": "Choose one\u2014\n\u2022 Return target permanent card from your graveyard to your hand.\n\u2022 Exile target permanent card from your graveyard. When you do, Weave the Scarlet Rot deals damage equal to that card's mana value to target creature.",
+            "cost": "{R}{G}",
+            "rules_text": "As an additional cost to cast this spell, exile a nonland card from your graveyard.\nWeave the Scarlet Rot deals X damage to target creature or planeswalker, where X is the mana value of the exiled card. If excess damage was dealt this way, you gain that much life.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5985,7 +5985,7 @@
             "type": "Enchantment",
             "number": 172,
             "color_identity": "G",
-            "cost": "{2}{G}{G}",
+            "cost": "{3}{G}{G}",
             "rules_text": "Whenever a nontoken creature you control dies, you may return it to the battlefield face down under its owner's control. It's a Forest land. [i](It has no other types or abilities.)[/i]\n[i]Landfall[/i] \u2014 Whenever a land you control enters, create a 3/3 black Demigod creature token.",
             "flavor_text": "[i][/i]",
             "pt": "",

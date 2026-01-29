@@ -2983,7 +2983,7 @@
 		{
 			"name": "Weave the Scarlet Rot",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}{G}",
+			"mana_cost": "{R}{G}",
 			"type": "Sorcery",
 			"collector_number": "255",
 			"image_uris": {
@@ -3003,7 +3003,7 @@
 		{
 			"name": "Challenge of the Ring",
 			"rarity": "mythic",
-			"mana_cost": "{2}{G}{G}",
+			"mana_cost": "{3}{G}{G}",
 			"type": "Enchantment",
 			"collector_number": "172",
 			"image_uris": {

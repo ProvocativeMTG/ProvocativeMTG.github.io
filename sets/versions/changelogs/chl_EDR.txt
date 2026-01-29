@@ -1,4 +1,67 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+
+
+Vyke, Festering Fingerprint
+
+Miquella, the Kind
+
+Spellblade Rogier
+
+Radagon, King Consort
+rules_text: Trample
+When Radagon dies, if he was a creature, return him to the battlefield. He's an Equipment artifact named Sacred Relic Sword with equip {2} and “Equipped creature gets +X/+X and has trample, where X is the total mana value of legendary permanents you control.” => Trample
+When Radagon dies, if he was a creature, return him to the battlefield. He's a legendary Equipment artifact named Sacred Relic Sword with equip {2} and “Equipped creature gets +X/+X and has trample, where X is the total mana value of legendary permanents you control.”
+
+Thiollier, in Sweet Sleep
+
+Miquella's Love
+rules_text: Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Enchant creature
+When this Aura enters, gain control of each permanent attached to enchanted creature.
+You control enchanted creature. => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Enchant creature
+When this Aura enters, gain control of each permanent attached to enchanted creature for as long as you control this Aura.
+You control enchanted creature.
+
+Blackguard Boggart
+rules_text: Vigilance
+Whenever Blackguard Boggart attacks, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+{T}: Add {G} for each token you control. => Vigilance
+Whenever Blackguard Boggart attacks, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+{1}, {T}: Add {G} for each token you control.
+
+Radahn's Return
+
+Radagon is Marika
+rules_text: Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+II — Target creature you control gains lifelink or indestructible until end of turn.
+III — Creatures you control get +1/+1 until end of turn. => Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+II — Target creature you control gains lifelink or indestructible until end of turn.
+III — Creatures you control get +1/+1 until end of turn.
+special_text: Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+II — Target creature you control gains lifelink or indestructible until end of turn.
+III — Creatures you control get +1/+1 until end of turn. => Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+II — Target creature you control gains lifelink or indestructible until end of turn.
+III — Creatures you control get +1/+1 until end of turn.
+
+Weave the Scarlet Rot
+cost: {1}{R}{G} => {R}{G}
+rules_text: Choose one—
+• Return target permanent card from your graveyard to your hand.
+• Exile target permanent card from your graveyard. When you do, Weave the Scarlet Rot deals damage equal to that card's mana value to target creature. => As an additional cost to cast this spell, exile a nonland card from your graveyard.
+Weave the Scarlet Rot deals X damage to target creature or planeswalker, where X is the mana value of the exiled card. If excess damage was dealt this way, you gain that much life.
+
+Challenge of the Ring
+cost: {2}{G}{G} => {3}{G}{G}
+
+
+VERSION 17 CHANGELOG
 ====================
 
 

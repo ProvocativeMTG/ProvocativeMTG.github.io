@@ -54,7 +54,7 @@
 			"name": "Crumbling Farum Azula",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land",
+			"type": "Legendary Land",
 			"collector_number": "287",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/5.png"
@@ -95,7 +95,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "188",
+			"collector_number": "189",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/9.png"
 			}
@@ -625,7 +625,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
-			"collector_number": "112",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/55.png"
 			}
@@ -665,7 +665,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "183",
+			"collector_number": "184",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/59.png"
 			}
@@ -685,7 +685,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Knight",
-			"collector_number": "184",
+			"collector_number": "185",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/61.png"
 			}
@@ -875,7 +875,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Skeleton Spirit",
-			"collector_number": "118",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/80.png"
 			}
@@ -995,7 +995,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "114",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/92.png"
 			}
@@ -1005,7 +1005,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Horror Rogue",
-			"collector_number": "120",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/93.png"
 			}
@@ -1055,7 +1055,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Sorcery",
-			"collector_number": "119",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/98.png"
 			}
@@ -1485,7 +1485,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Mutant Warrior",
-			"collector_number": "182",
+			"collector_number": "183",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/141.png"
 			}
@@ -1495,7 +1495,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Mutant Warrior",
-			"collector_number": "185",
+			"collector_number": "186",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/142.png"
 			}
@@ -1935,7 +1935,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Legendary Creature — Finger Horror",
-			"collector_number": "117",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/186.png"
 			}
@@ -1983,7 +1983,7 @@
 		{
 			"name": "Divine Bird Warrior",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Bird Warrior",
 			"collector_number": "9",
 			"image_uris": {
@@ -2115,7 +2115,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Spider Horror",
-			"collector_number": "113",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/204.png"
 			}
@@ -2165,7 +2165,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "115",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/209.png"
 			}
@@ -2423,7 +2423,7 @@
 		{
 			"name": "Purge Without Grace",
 			"rarity": "rare",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{3}{R}",
 			"type": "Enchantment — Saga",
 			"collector_number": "152",
 			"image_uris": {
@@ -2535,7 +2535,7 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Creature — Mutant Cleric",
-			"collector_number": "186",
+			"collector_number": "187",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/246.png"
 			}
@@ -2583,7 +2583,7 @@
 		{
 			"name": "The Radahn Festival",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}{R}{W}",
+			"mana_cost": "{2}{U}{R}{W}",
 			"type": "Enchantment",
 			"collector_number": "237",
 			"image_uris": {
@@ -2635,7 +2635,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Insect Cleric",
-			"collector_number": "187",
+			"collector_number": "188",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/256.png"
 			}
@@ -2754,7 +2754,7 @@
 			"name": "Mired in Despair",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}",
-			"type": "Enchantment",
+			"type": "Sorcery",
 			"collector_number": "232",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/268.png"
@@ -2783,7 +2783,7 @@
 		{
 			"name": "Erdtree Aflame",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{1}{R}{R}",
 			"type": "Enchantment — Saga",
 			"collector_number": "136",
 			"image_uris": {
@@ -2865,7 +2865,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Knight",
-			"collector_number": "116",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/279.png"
 			}
@@ -2911,11 +2911,11 @@
 			}
 		},
 		{
-			"name": "Well-Laid Plans",
+			"name": "Ranni's Scheme",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "121",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/284.png"
 			}
@@ -2993,7 +2993,7 @@
 		{
 			"name": "Rennala's Amber Egg",
 			"rarity": "mythic",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Legendary Artifact",
 			"collector_number": "69",
 			"image_uris": {
@@ -3011,11 +3011,11 @@
 			}
 		},
 		{
-			"name": "Majesty of the Erdtree",
+			"name": "Golden Seeds",
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}",
 			"type": "Instant",
-			"collector_number": "189",
+			"collector_number": "182",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/294.png"
 			}
@@ -3418,7 +3418,7 @@
 	2 The Two Fingers
 	1 Rennala's Amber Egg
 	1 Challenge of the Ring
-	1 Majesty of the Erdtree
+	1 Golden Seeds
 	2 City of Nox
 [uncommon(3)]
 	4 Veiled Monarch's Reign
@@ -3509,7 +3509,7 @@
 	4 Duskborn's Presence
 	4 Rogier's Talent
 	4 Fleeting Microcosm
-	4 Well-Laid Plans
+	4 Ranni's Scheme
 	4 Bloodhound's Fang
 	4 New Life Grows
 	4 Miquella's Sacrifice
@@ -3996,7 +3996,7 @@
 	6 Duskborn's Presence
 	6 Rogier's Talent
 	6 Fleeting Microcosm
-	6 Well-Laid Plans
+	6 Ranni's Scheme
 	6 Bloodhound's Fang
 	6 New Life Grows
 	6 Miquella's Sacrifice
@@ -4006,7 +4006,7 @@
 	6 Weave the Scarlet Rot
 	1 Rennala's Amber Egg
 	1 Challenge of the Ring
-	1 Majesty of the Erdtree
+	1 Golden Seeds
 	2 City of Nox
 	6 Forge of the Giants
 	6 Foot of the Erdtree
@@ -4302,7 +4302,7 @@
 	15 Duskborn's Presence
 	15 Rogier's Talent
 	15 Fleeting Microcosm
-	15 Well-Laid Plans
+	15 Ranni's Scheme
 	15 Bloodhound's Fang
 	15 New Life Grows
 	15 Miquella's Sacrifice
@@ -4312,7 +4312,7 @@
 	15 Weave the Scarlet Rot
 	4 Rennala's Amber Egg
 	4 Challenge of the Ring
-	4 Majesty of the Erdtree
+	4 Golden Seeds
 	7 City of Nox
 	15 Forge of the Giants
 	15 Foot of the Erdtree

@@ -152,8 +152,8 @@
         "position": "2"
     },
     {
-        "card_name": "Majesty of the Erdtree",
-        "number": 189,
+        "card_name": "Golden Seeds",
+        "number": 182,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -273,7 +273,7 @@
     },
     {
         "card_name": "Hornsent Grandam",
-        "number": 186,
+        "number": 187,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -313,7 +313,7 @@
     },
     {
         "card_name": "Kindreds of Rot",
-        "number": 187,
+        "number": 188,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -377,7 +377,7 @@
     },
     {
         "card_name": "Ritual Ascension",
-        "number": 112,
+        "number": 113,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -417,7 +417,7 @@
     },
     {
         "card_name": "Ruinous Encounter",
-        "number": 114,
+        "number": 115,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -457,7 +457,7 @@
     },
     {
         "card_name": "The Three Fingers",
-        "number": 117,
+        "number": 118,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -713,7 +713,7 @@
     },
     {
         "card_name": "Great Jar",
-        "number": 183,
+        "number": 184,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -753,7 +753,7 @@
     },
     {
         "card_name": "Horned Warrior",
-        "number": 185,
+        "number": 186,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -776,12 +776,12 @@
         "position": "85"
     },
     {
-        "card_name": "Royal Revenant",
-        "number": 113,
+        "card_name": "Ranni's Scheme",
+        "number": 112,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "204"
+        "position": "284"
     },
     {
         "card_name": "Igon, Drake Warrior",
@@ -793,7 +793,7 @@
     },
     {
         "card_name": "Lord of All That Is Golden",
-        "number": 188,
+        "number": 189,
         "shape": "saga",
         "set": "EDR",
         "rotated": false,
@@ -816,12 +816,12 @@
         "position": "3"
     },
     {
-        "card_name": "Sir Ansbach",
-        "number": 115,
+        "card_name": "Royal Revenant",
+        "number": 114,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "209"
+        "position": "204"
     },
     {
         "card_name": "Lesser Dragon",
@@ -856,12 +856,12 @@
         "position": "282"
     },
     {
-        "card_name": "Swordhand of Night",
+        "card_name": "Sir Ansbach",
         "number": 116,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "279"
+        "position": "209"
     },
     {
         "card_name": "Millicent's Journey",
@@ -896,12 +896,12 @@
         "position": "206"
     },
     {
-        "card_name": "Tibia Mariner",
-        "number": 118,
+        "card_name": "Swordhand of Night",
+        "number": 117,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "80"
+        "position": "279"
     },
     {
         "card_name": "Redmane Freyja",
@@ -936,12 +936,12 @@
         "position": "215"
     },
     {
-        "card_name": "Virgin Abduction",
+        "card_name": "Tibia Mariner",
         "number": 119,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "98"
+        "position": "80"
     },
     {
         "card_name": "Rya, Volcano Manor Scout",
@@ -976,12 +976,12 @@
         "position": "1"
     },
     {
-        "card_name": "Well-Laid Plans",
-        "number": 121,
+        "card_name": "Virgin Abduction",
+        "number": 120,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "284"
+        "position": "98"
     },
     {
         "card_name": "Secret Away",
@@ -1353,7 +1353,7 @@
     },
     {
         "card_name": "Grafted Scion",
-        "number": 182,
+        "number": 183,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1393,7 +1393,7 @@
     },
     {
         "card_name": "Haligtree Knight",
-        "number": 184,
+        "number": 185,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1577,7 +1577,7 @@
     },
     {
         "card_name": "Vulgar Militiamen",
-        "number": 120,
+        "number": 121,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,

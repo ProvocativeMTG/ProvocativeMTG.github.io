@@ -1,4 +1,143 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+Ranni's Scheme added.
+Golden Seeds added.
+
+Well-Laid Plans removed.
+Majesty of the Erdtree removed.
+
+Veiled Monarch's Reign
+rules_text: Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+Create two 1/1 white Soldier creature tokens.
+II — You gain 1 life for each creature you control.
+III — This Saga deals X damage to up to one target creature or planeswalker, where X is the number of creatures you control. => Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — Create two 1/1 white Soldier creature tokens.
+II — You gain 1 life for each creature you control.
+III — This Saga deals X damage to up to one target creature or planeswalker, where X is the number of creatures you control.
+special_text: Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+Create two 1/1 white Soldier creature tokens.
+II — You gain 1 life for each creature you control.
+III — This Saga deals X damage to up to one target creature or planeswalker, where X is the number of creatures you control. => Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — Create two 1/1 white Soldier creature tokens.
+II — You gain 1 life for each creature you control.
+III — This Saga deals X damage to up to one target creature or planeswalker, where X is the number of creatures you control.
+
+Rennala's Studies
+rules_text: If it's your turn, you get an additional upkeep step and an additional draw step after this phase. => If it's your turn, you get an additional upkeep step and an additional draw step after this phase, followed by an additional main phase.
+
+Crumbling Farum Azula
+type: Land => Legendary Land
+rules_text: Whenever you cast a Dragon spell, you may exile this card. If you do, create a token that's a copy of this card.
+{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. => Whenever you cast a Dragon spell, you may exile this card from your graveyard. If you do, create a token that's a copy of it.
+{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+Divine Beast Dancing Lion
+rules_text: Remembrance {1}{R} [i]({1}{R}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)[/i]
+Whenever this creature attacks, add {R} equal to its power. Until end of turn, you don't lose this mana as steps and phases end. => Remembrance {2}{R} [i]({2}{R}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)[/i]
+Whenever this creature attacks, add {R} equal to its power. Until end of turn, you don't lose this mana as steps and phases end.
+pt: 2/4 => 2/3
+
+Dragonbolt Blessing
+rules_text: Enchant creature or Equipment
+When this Aura enters, target creature can't block this turn.
+As long as enchanted permanent is a creature, it gets +2/+0 and is a Dragon.
+As long as enchanted permanent is an Equipment, it has “Equipped creature gets +2/+0 and is a Dragon.” => Enchant creature or Equipment
+When this Aura enters, target creature can't block this turn.
+As long as enchanted permanent is a creature, it gets +1/+1 and is a Dragon.
+As long as enchanted permanent is an Equipment, it has “Equipped creature gets +1/+1 and is a Dragon.”
+
+Walking Mausoleum
+rules_text: Trample
+When this creature dies, create five 3/3 black Demigod creature tokens. => Trample
+When this creature dies, create four 3/3 black Demigod creature tokens.
+pt: 15/15 => 12/12
+
+Sir Gideon Ofnir
+rules_text: Whenever a player searches a library for the first time each turn, draw a card. This ability triggers only once each turn. => When Gideon Ofnir enters, draw a card. If you have 100 or more or 20 or fewer cards in your library, draw three cards instead.
+pt: 1/3 => 1/1
+
+The Three Fingers
+rules_text: At the beginning of your end step, draw or discard cards until you have three cards in your hand.
+Whenever you discard a nonland card, copy it. You may cast the copy by paying life equal to its mana value rather than paying its mana cost. => Your maximum hand size is three.
+At the beginning of your end step, if you have fewer than three cards in hand, draw cards equal to the difference.
+Whenever you discard a nonland card, copy it. You may cast the copy by paying life equal to its mana value rather than pay its mana cost.
+
+Divine Bird Warrior
+cost: {1}{W} => {2}{W}{W}
+pt: 2/2 => 3/2
+
+Purge Without Grace
+cost: {1}{R} => {3}{R}
+rules_text: Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — Exile the top three cards of your library.
+II — You may play a card exiled with this Saga this turn.
+III — You may put a card exiled with this Saga into its owner's graveyard. When you do, this Saga deals damage equal to that card's mana value to target creature. => Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+II — Add {R}{R}.
+III — Until end of turn, if a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead.
+special_text: Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — Exile the top three cards of your library.
+II — You may play a card exiled with this Saga this turn.
+III — You may put a card exiled with this Saga into its owner's graveyard. When you do, this Saga deals damage equal to that card's mana value to target creature. => Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+II — Add {R}{R}.
+III — Until end of turn, if a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead.
+
+Seeking the Crosses
+rules_text: If you would gain life, you gain that much life plus 1 instead.
+At the beginning of your end step, if you gained 4 or more life this turn, return target creature card with mana value 3 or less from your graveyard to the battlefield. => If you would gain life, you gain that much life plus 1 instead.
+At the beginning of your end step, if you gained 4 or more life this turn, exile up to one target creature card with mana value 2 or less from your graveyard. Create a token that's a copy of it.
+
+The Radahn Festival
+cost: {1}{U}{R}{W} => {2}{U}{R}{W}
+
+Radagon is Marika
+rules_text: Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+II — Target creature you control gains lifelink or indestructible until end of turn.
+III — Creatures you control get +1/+1 until end of turn. => Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+II — Target creature you control gains lifelink or indestructible until end of turn.
+III — Creatures you control get +1/+1 until end of turn.
+special_text: Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+II — Target creature you control gains lifelink or indestructible until end of turn.
+III — Creatures you control get +1/+1 until end of turn. => Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+II — Target creature you control gains lifelink or indestructible until end of turn.
+III — Creatures you control get +1/+1 until end of turn.
+
+Mired in Despair
+type: Enchantment => Sorcery
+
+Erdtree Aflame
+cost: {3}{R} => {1}{R}{R}
+rules_text: Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — This Saga deals 1 damage to each creature your opponents control.
+II — Discard a card, then draw a card for each card you've discarded this turn.
+III — Add {R}{R}. => Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — This Saga deals 1 damage to each creature your opponents control.
+II — Target creature can't block this turn.
+III — Discard a card, then draw a card for each card you've discarded this turn.
+special_text: Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — This Saga deals 1 damage to each creature your opponents control.
+II — Discard a card, then draw a card for each card you've discarded this turn.
+III — Add {R}{R}. => Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — This Saga deals 1 damage to each creature your opponents control.
+II — Target creature can't block this turn.
+III — Discard a card, then draw a card for each card you've discarded this turn.
+
+Rennala's Amber Egg
+cost: {1}{U} => {2}{U}
+
+City of Nox
+rules_text: {T}: Add {C}.
+{X}: City of Nox becomes a copy of target creature you control with mana value X until end of turn, except it has changeling. [i](It is every creature type.)[/i] => {T}: Add {C}.
+{X}: City of Nox becomes a copy of target nontoken creature you control with mana value X until end of turn, except it has changeling. [i](It is every creature type.)[/i]
+
+
+VERSION 18 CHANGELOG
 ====================
 
 

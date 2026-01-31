@@ -3309,6 +3309,56 @@
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/323.png"
 			}
+		},
+		{
+			"name": "Forest_EDR",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/324.png"
+			}
+		},
+		{
+			"name": "Island_EDR",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/325.png"
+			}
+		},
+		{
+			"name": "Mountain_EDR",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/326.png"
+			}
+		},
+		{
+			"name": "Plains_EDR",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/327.png"
+			}
+		},
+		{
+			"name": "Swamp_EDR",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/328.png"
+			}
 		}
 	]
 

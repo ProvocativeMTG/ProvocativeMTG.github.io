@@ -31,7 +31,7 @@ III — This Saga deals X damage to up to one target creature or planeswalker, w
 		<card>
 			<name>Wisdom of the Moon</name>
 			<text>Grace-given (As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)
-Draw a card, then discard a card.
+I — Draw a card, then discard a card.
 II, III — Look at the top card of your library. If it shares a name with a card in your graveyard, you may reveal it and put it into your hand. Otherwise, you may put it into your graveyard.
 ​</text>
 			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/1.png" num="81">EDR</set>
@@ -50,7 +50,7 @@ II, III — Look at the top card of your library. If it shares a name with a car
 		<card>
 			<name>Placidusax&apos;s Ruin</name>
 			<text>Grace-given (As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)
-This Saga deals 2 damage to any target.
+I — This Saga deals 2 damage to any target.
 II — Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.
 III — Whenever you cast a Dragon spell this turn, copy it. The copy isn&apos;t legendary.</text>
 			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/2.png" num="151">EDR</set>
@@ -4695,7 +4695,7 @@ Whenever this creature attacks, create a 2/2 white Knight creature token.</text>
 		<card>
 			<name>Radagon is Marika</name>
 			<text>Grace-given (As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)
-Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+I — Return target creature card with mana value 2 or less from your graveyard to the battlefield.
 II — Target creature you control gains lifelink or indestructible until end of turn.
 III — Creatures you control get +1/+1 until end of turn.</text>
 			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/253.png" num="31">EDR</set>
@@ -5898,6 +5898,81 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
+		</card>
+		<card>
+			<name>Forest_EDR</name>
+			<text></text>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/324.png" num="0">EDR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island_EDR</name>
+			<text></text>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/325.png" num="0">EDR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain_EDR</name>
+			<text></text>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/326.png" num="0">EDR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains_EDR</name>
+			<text></text>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/327.png" num="0">EDR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp_EDR</name>
+			<text></text>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/328.png" num="0">EDR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

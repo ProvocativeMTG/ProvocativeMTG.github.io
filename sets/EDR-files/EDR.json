@@ -36,10 +36,10 @@
             "number": 81,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nDraw a card, then discard a card.\nII, III \u2014 Look at the top card of your library. If it shares a name with a card in your graveyard, you may reveal it and put it into your hand. Otherwise, you may put it into your graveyard.\n\u200b",
+            "rules_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nI \u2014 Draw a card, then discard a card.\nII, III \u2014 Look at the top card of your library. If it shares a name with a card in your graveyard, you may reveal it and put it into your hand. Otherwise, you may put it into your graveyard.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nDraw a card, then discard a card.\nII, III \u2014 Look at the top card of your library. If it shares a name with a card in your graveyard, you may reveal it and put it into your hand. Otherwise, you may put it into your graveyard.\n\u200b",
+            "special_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nI \u2014 Draw a card, then discard a card.\nII, III \u2014 Look at the top card of your library. If it shares a name with a card in your graveyard, you may reveal it and put it into your hand. Otherwise, you may put it into your graveyard.\n\u200b",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",
@@ -56,10 +56,10 @@
             "number": 151,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
-            "rules_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nThis Saga deals 2 damage to any target.\nII \u2014 Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.\nIII \u2014 Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary.",
+            "rules_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nI \u2014 This Saga deals 2 damage to any target.\nII \u2014 Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.\nIII \u2014 Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nThis Saga deals 2 damage to any target.\nII \u2014 Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.\nIII \u2014 Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary.",
+            "special_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nI \u2014 This Saga deals 2 damage to any target.\nII \u2014 Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.\nIII \u2014 Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary.",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",
@@ -1034,7 +1034,7 @@
             "loyalty2": "",
             "artist2": "Ali Shimhaq",
             "alias2": "",
-            "notes": ""
+            "notes": "!tag:wishlist"
         },
         {
             "card_name": "Godwyn, First to Fall",
@@ -1236,7 +1236,7 @@
             "artist": "Penguin322",
             "alias": "",
             "position": "55",
-            "notes": ""
+            "notes": "!tag:wishlist"
         },
         {
             "card_name": "Braid Cutting",
@@ -1576,7 +1576,7 @@
             "artist": "ela vii",
             "alias": "",
             "position": "72",
-            "notes": ""
+            "notes": "!tag:wishlist"
         },
         {
             "card_name": "Knight's Warhawk",
@@ -4396,7 +4396,7 @@
             "artist": "Cycle Circle",
             "alias": "",
             "position": "213",
-            "notes": ""
+            "notes": "!tag:wishlist"
         },
         {
             "card_name": "Rellana, Twin Moon Knight",
@@ -4836,7 +4836,7 @@
             "artist": "rashuu",
             "alias": "",
             "position": "235",
-            "notes": ""
+            "notes": "!tag:wishlist"
         },
         {
             "card_name": "Seeking the Crosses",
@@ -5186,10 +5186,10 @@
             "number": 31,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nReturn target creature card with mana value 2 or less from your graveyard to the battlefield.\nII \u2014 Target creature you control gains lifelink or indestructible until end of turn.\nIII \u2014 Creatures you control get +1/+1 until end of turn.",
+            "rules_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nI \u2014 Return target creature card with mana value 2 or less from your graveyard to the battlefield.\nII \u2014 Target creature you control gains lifelink or indestructible until end of turn.\nIII \u2014 Creatures you control get +1/+1 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nReturn target creature card with mana value 2 or less from your graveyard to the battlefield.\nII \u2014 Target creature you control gains lifelink or indestructible until end of turn.\nIII \u2014 Creatures you control get +1/+1 until end of turn.",
+            "special_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nI \u2014 Return target creature card with mana value 2 or less from your graveyard to the battlefield.\nII \u2014 Target creature you control gains lifelink or indestructible until end of turn.\nIII \u2014 Creatures you control get +1/+1 until end of turn.",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",
@@ -6597,7 +6597,107 @@
             "alias": "",
             "position": "323",
             "notes": ""
+        },
+        {
+            "card_name": "Forest_EDR",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2014 Forest",
+            "number": 0,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "EDR",
+            "loyalty": "",
+            "artist": "arnaerr",
+            "alias": "",
+            "position": "324",
+            "notes": "!exportname Forest_EDR"
+        },
+        {
+            "card_name": "Island_EDR",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2014 Island",
+            "number": 0,
+            "color_identity": "U",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "EDR",
+            "loyalty": "",
+            "artist": "NecrosisArts",
+            "alias": "",
+            "position": "325",
+            "notes": "!exportname Island_EDR"
+        },
+        {
+            "card_name": "Mountain_EDR",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2014 Mountain",
+            "number": 0,
+            "color_identity": "R",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "EDR",
+            "loyalty": "",
+            "artist": "Tsutomu Kitazawa",
+            "alias": "",
+            "position": "326",
+            "notes": "!exportname Mountain_EDR"
+        },
+        {
+            "card_name": "Plains_EDR",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2014 Plains",
+            "number": 0,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "EDR",
+            "loyalty": "",
+            "artist": "arnaerr",
+            "alias": "",
+            "position": "327",
+            "notes": "!exportname Plains_EDR"
+        },
+        {
+            "card_name": "Swamp_EDR",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2014 Swamp",
+            "number": 0,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "EDR",
+            "loyalty": "",
+            "artist": "NecrosisArts",
+            "alias": "",
+            "position": "328",
+            "notes": "!exportname Swamp_EDR"
         }
     ],
-    "version": 19
+    "version": 20
 }

@@ -2595,6 +2595,61 @@
     {
         "card_name": "er"
     },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Forest_EDR",
+        "number": 0,
+        "shape": "normal",
+        "set": "EDR",
+        "rotated": false,
+        "position": "324"
+    },
+    {
+        "card_name": "Island_EDR",
+        "number": 0,
+        "shape": "normal",
+        "set": "EDR",
+        "rotated": false,
+        "position": "325"
+    },
+    {
+        "card_name": "Mountain_EDR",
+        "number": 0,
+        "shape": "normal",
+        "set": "EDR",
+        "rotated": false,
+        "position": "326"
+    },
+    {
+        "card_name": "Plains_EDR",
+        "number": 0,
+        "shape": "normal",
+        "set": "EDR",
+        "rotated": false,
+        "position": "327"
+    },
+    {
+        "card_name": "Swamp_EDR",
+        "number": 0,
+        "shape": "normal",
+        "set": "EDR",
+        "rotated": false,
+        "position": "328"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
     "a->token",
     {
         "card_name": "Shard",

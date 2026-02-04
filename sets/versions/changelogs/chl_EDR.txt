@@ -1,4 +1,28 @@
-﻿VERSION 20 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+Saga added.
+Patches added.
+Dark Moon Greatsword added.
+
+
+Godwyn, First to Fall
+rules_text: Whenever Godwyn enters or attacks, you may sacrifice a land. If you do, search your library for a land card, put it onto the battlefield, then shuffle.
+Final form {5}{G}{UB} [i](You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)[/i] => Whenever Godwyn enters or attacks, you may sacrifice a land. If you do, search your library for a land card, put it onto the battlefield tapped, then shuffle.
+Final form {5}{G}{UB} [i](You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)[/i]
+
+Siofra River
+rules_text: This land enters tapped.
+{T}: Add {G} or {U}.
+[i]Channel[/i] — {1}{G}{U}, Discard this card: Create a tapped colorless land token named Everywhere with every basic land type. => This land enters tapped.
+{T}: Add {G} or {U}.
+[i]Channel[/i] — {2}{G}{U}, Discard this card: Create a tapped colorless land token named Everywhere with every basic land type.
+
+Finger Spider
+type: Token Creature — Spider Horror => Token Creature — Finger Spider
+
+
+VERSION 20 CHANGELOG
 ====================
 
 

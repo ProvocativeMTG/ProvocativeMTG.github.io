@@ -12,7 +12,7 @@
 		<card>
 			<name>Veiled Monarch&apos;s Reign</name>
 			<text>Grace-given (As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)
-Create two 1/1 white Soldier creature tokens.
+I — Create two 1/1 white Soldier creature tokens.
 II — You gain 1 life for each creature you control.
 III — This Saga deals X damage to up to one target creature or planeswalker, where X is the number of creatures you control.</text>
 			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/0.png" num="39">EDR</set>
@@ -31,7 +31,7 @@ III — This Saga deals X damage to up to one target creature or planeswalker, w
 		<card>
 			<name>Wisdom of the Moon</name>
 			<text>Grace-given (As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)
-Draw a card, then discard a card.
+I — Draw a card, then discard a card.
 II, III — Look at the top card of your library. If it shares a name with a card in your graveyard, you may reveal it and put it into your hand. Otherwise, you may put it into your graveyard.
 ​</text>
 			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/1.png" num="81">EDR</set>
@@ -50,7 +50,7 @@ II, III — Look at the top card of your library. If it shares a name with a car
 		<card>
 			<name>Placidusax&apos;s Ruin</name>
 			<text>Grace-given (As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)
-This Saga deals 2 damage to any target.
+I — This Saga deals 2 damage to any target.
 II — Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.
 III — Whenever you cast a Dragon spell this turn, copy it. The copy isn&apos;t legendary.</text>
 			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/2.png" num="151">EDR</set>
@@ -4695,7 +4695,7 @@ Whenever this creature attacks, create a 2/2 white Knight creature token.</text>
 		<card>
 			<name>Radagon is Marika</name>
 			<text>Grace-given (As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)
-Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+I — Return target creature card with mana value 2 or less from your graveyard to the battlefield.
 II — Target creature you control gains lifelink or indestructible until end of turn.
 III — Creatures you control get +1/+1 until end of turn.</text>
 			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/253.png" num="31">EDR</set>
@@ -5975,7 +5975,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Saga</name>
+			<name>Marika&apos;s Hammer&apos;s Saga token</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — &quot;Hear me, Demigods. My children beloved. Make of thyselves that which ye desire. Be it a Lord. Be it a God.&quot;
 II — &quot;But should ye fail to become aught at all, ye will be forsaken. Amounting only to sacrifices...&quot;

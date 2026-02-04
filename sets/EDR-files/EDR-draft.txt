@@ -3361,7 +3361,7 @@
 			}
 		},
 		{
-			"name": "Saga",
+			"name": "Marika's Hammer's Saga token",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Enchantment — Saga",
@@ -3700,7 +3700,7 @@
 	8 Claymore
 	8 Table of Lost Grace
 	8 The First Step
-	8 Saga
+	8 Marika's Hammer's Saga token
 [common | masterpiece(1)]
 	8 Fanged Imp
 	8 Crystalian
@@ -3794,7 +3794,7 @@
 	8 Claymore
 	8 Table of Lost Grace
 	8 The First Step
-	8 Saga
+	8 Marika's Hammer's Saga token
 [foil(1)]
 	6 Veiled Monarch's Reign
 	6 Wisdom of the Moon
@@ -4101,7 +4101,7 @@
 	6 Grand Cloister
 	6 Ruin-Strewn Precipice
 	6 Siofra River
-	12 Saga
+	12 Marika's Hammer's Saga token
 [wildcard(1)]
 	15 Veiled Monarch's Reign
 	15 Wisdom of the Moon
@@ -4408,4 +4408,4 @@
 	15 Grand Cloister
 	15 Ruin-Strewn Precipice
 	15 Siofra River
-	6 Saga
+	6 Marika's Hammer's Saga token

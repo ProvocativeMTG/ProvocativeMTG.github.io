@@ -1,4 +1,60 @@
-﻿VERSION 23 CHANGELOG
+﻿VERSION 24 CHANGELOG
+====================
+
+
+
+Wisdom of the Moon
+cost: {U} => {1}{U}
+rules_text: Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — Draw a card, then discard a card.
+II, III — Look at the top card of your library. If it shares a name with a card in your graveyard, you may reveal it and put it into your hand. Otherwise, you may put it into your graveyard.
+​ => Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — Draw a card, then discard a card.
+II, III, IV — Look at the top card of your library. If it shares a name with a card in your graveyard, you may reveal it and put it into your hand. Otherwise, you may put it into your graveyard.
+​
+special_text: Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — Draw a card, then discard a card.
+II, III — Look at the top card of your library. If it shares a name with a card in your graveyard, you may reveal it and put it into your hand. Otherwise, you may put it into your graveyard.
+​ => Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — Draw a card, then discard a card.
+II, III, IV — Look at the top card of your library. If it shares a name with a card in your graveyard, you may reveal it and put it into your hand. Otherwise, you may put it into your graveyard.
+​
+
+Feeding the Haligtree
+type: Instant => Sorcery
+
+Crucible Knight
+rules_text: Vigilance, reach, trample
+[i]Landfall[/i] — Whenever a land you control enters, put a +1/+1 counter on target creature you control. => Vigilance, trample
+[i]Landfall[/i] — Whenever a land you control enters, put a +1/+1 counter on target creature you control.
+
+Needle Knight Leda
+cost: {1}{W} => {2}{W}
+rules_text: Whenever another creature you control dies, put a +1/+1 counter on Needle Knight Leda.
+Sacrifice another creature: Needle Knight Leda gains indestructible until end of turn. Tap her. Activate only once each turn. => Whenever another creature you control dies, put a +1/+1 counter on Needle Knight Leda.
+{W}, Sacrifice another creature: Needle Knight Leda gains indestructible until end of turn. Tap her. Activate only once each turn.
+pt: 2/1 => 2/2
+
+Ancestor Spirit
+rules_text: When this creature enters, create a tapped Ancient Tomb token. [i](It's a land with “{T}: Add {C}{C}. This land deals 2 damage to you.”)[/i] => When this creature dies, create a tapped Ancient Tomb token. [i](It's a land with “{T}: Add {C}{C}. This land deals 2 damage to you.”)[/i]
+
+Midra, Lord of Frenzied Flame
+rules_text: When Midra enters, you may discard a card. If you do, target opponent reveals their hand. You choose a nonland card revealed this way. Exile that card.
+At the beginning of combat on your turn, for each player, put X +1/+1 counters on Midra, where X is three minus the number of cards in their hand. => Menace
+When Midra enters, you may discard a card. If you do, target opponent reveals their hand. You choose a nonland card revealed this way. Exile that card.
+Whenever Midra attacks, put a +1/+1 counter on him for each player with three or fewer cards in hand.
+
+The Gate of Divinity
+cost: {8} => {10}
+
+Seeking the Crosses
+cost: {W} => {1}{W}
+
+Challenge of the Ring
+cost: {3}{G}{G} => {4}{G}{G}
+
+
+VERSION 23 CHANGELOG
 ====================
 
 Marika's Hammer's Saga token added.

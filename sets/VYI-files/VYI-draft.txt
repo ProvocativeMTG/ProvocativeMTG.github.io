@@ -231,7 +231,7 @@
 		{
 			"name": "Vjala, Shard of Creation",
 			"rarity": "mythic",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — God",
 			"collector_number": "163",
 			"back": {
@@ -2407,7 +2407,7 @@
 			"name": "Vallacore Vanguard",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Berserker",
+			"type": "Creature — Human Noble Berserker",
 			"collector_number": "82",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/VYI-files/img/227.png"

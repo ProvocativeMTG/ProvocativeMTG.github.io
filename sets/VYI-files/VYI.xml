@@ -5,13 +5,13 @@
 			<name>VYI</name>
 			<longname>Valdrasil: Voyage to Infinity</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-01-28</releasedate>
+			<releasedate>2026-02-25</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
 			<name>Drakkonic Mekkastruct</name>
-			<text>Trample
+			<text>Vigilance, trample
 Ad astra (Each turn, upgrade the effect based on the colors of mana you&apos;ve spent to cast spells this turn.)
 [b]3+ [/b]| Whenever this creature enters or attacks, put a +1/+1 counter on each artifact creature you control . . .
 [b]5+ [/b]| . . . then double the number of counters on each artifact you control.</text>
@@ -321,7 +321,7 @@ Whenever another artifact you control enters, each opponent loses 1 life.</text>
 		<card>
 			<name>Esmund, Shard of Nebula</name>
 			<text>As long as your library has fewer cards in it than half the minimum deck size, Esmund has indestructible.
-Once during each of your turns, you may play a card from your graveyard this turn if it was discarded or put there from your library this turn.
+Once each turn, you may play a land or cast a spell from your graveyard if it was discarded or put there from your library this turn.
 ---
 (Back): Fluctuating Domain</text>
 			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/VYI-files/img/16_front.png" num="54a">VYI</set>
@@ -470,8 +470,8 @@ Once during each of your turns, you may cast a copy of the instant or sorcery sp
 				<side>front</side>
 				<type>Legendary Creature — God</type>
 				<maintype>Creature</maintype>
-				<manacost>1R</manacost>
-				<cmc>2</cmc>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 				<pt>4/2</pt>
@@ -520,7 +520,7 @@ Orbit 3—{2}{R}{R} ({2}{R}{R}, Exile this card from your hand: Put three charge
 		<card>
 			<name>Inga, Shard of Genesis</name>
 			<text>As long as your graveyard has ten or more cards in it, Inga has indestructible.
-Once each turn, whenever another creature you control enters, search your library for a creature card with mana value equal to 1 plus the sacrificed creature&apos;s mana value, put that card onto the battlefield, then shuffle.
+Once each turn, whenever another creature you control enters, you may sacrifice it. If you do, search your library for a creature card with mana value equal to 1 plus the sacrificed creature&apos;s mana value, put that card onto the battlefield, then shuffle.
 ---
 (Back): Surging Domain</text>
 			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/VYI-files/img/22_front.png" num="186a">VYI</set>
@@ -1718,7 +1718,7 @@ Exile target creature.</text>
 This creature can&apos;t block creatures without flying.
 Ad astra (Each turn, upgrade the effect based on the colors of mana you&apos;ve spent to cast spells this turn.)
 [b]3+ [/b]| At the beginning of your end step, you may cast this card from your graveyard . . .
-[b]5+ [/b]| . . . without paying its mana cost.</text>
+[b]5+ [/b]| . . . without paying its mana cost. It enters with two additional +1/+1 counters on it.</text>
 			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/VYI-files/img/81.png" num="144">VYI</set>
 			<prop>
 				<layout>normal</layout>
@@ -1822,7 +1822,7 @@ Ad astra (Each turn, upgrade the effect based on the colors of mana you&apos;ve 
 				<cmc>4</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
-				<pt>3/3</pt>
+				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1898,7 +1898,7 @@ At the beginning of your second main phase, if your life total is greater than y
 		<card>
 			<name>Aeon</name>
 			<text>[+2]: Each player exiles cards from the top of their library until they exile a nonland card. You may cast any card exiled with Aeon without paying its mana cost.
-[+1]: Create a colorless enchantment token named Void Corona with &quot;Sacrifice this token: The next spell you cast this turn has starstorm.&quot; (When you cast that spell, copy it for each spell you cast before it this turn. You may choose new targets for the copies.)
+[+2]: Create a colorless enchantment token named Void Corona with &quot;Sacrifice this token: The next spell you cast this turn has starstorm.&quot; (When you cast that spell, copy it for each spell you cast before it this turn. You may choose new targets for the copies.)
 [-5]: Choose three numbers. Exile each other nonland permanent with a mana value that is equal to one of the chosen numbers.</text>
 			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/VYI-files/img/91.png" num="1">VYI</set>
 			<prop>
@@ -2233,7 +2233,7 @@ Starstorm (When you cast this spell, copy it for each spell you cast before it t
 		<card>
 			<name>The Starwhale Crossing</name>
 			<text>When this enchantment enters, if it was cast, return all other nonland permanents to their owners&apos; hands except for Krakens, Leviathans, Octopuses, and Serpents.
-Landfall — Whenever a land you control enters, create an 6/6 blue Leviathan creature token with flying.</text>
+Landfall — Whenever a land you control enters, create a 6/6 blue Leviathan creature token with flying.</text>
 			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/VYI-files/img/110.png" num="72">VYI</set>
 			<prop>
 				<layout>normal</layout>
@@ -2580,7 +2580,7 @@ When this creature enters, you may return another permanent you control to its o
 		</card>
 		<card>
 			<name>Viridar Voidmass</name>
-			<text>At the beginning of your end step, if a creature card was put into your graveyard from anywhere this turn, put a +1/+1 counter on target creature or two charge counters on target artifact.</text>
+			<text>At the beginning of your end step, if a creature card was put into your graveyard from anywhere this turn, put a +1/+1 counter on up to one target creature or two charge counters on up to one target artifact.</text>
 			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/VYI-files/img/130.png" num="205">VYI</set>
 			<prop>
 				<layout>normal</layout>
@@ -2952,7 +2952,7 @@ Orbit 2—{4}{W} ({4}{W}, Exile this card from your hand: Put two charge counter
 		</card>
 		<card>
 			<name>Sereium, Viridar Hegemon</name>
-			<text>Once during each of your turns, you may cast a spell from your hand by sacrificing a permanent that shares a color with it rather than paying its mana cost. The same is true for discarding a card that shares a color with that spell and paying life equal to it&apos;s mana value. (Pay each of these costs no more than once each turn.)</text>
+			<text>Once during each of your turns, you may cast a spell from your hand by sacrificing a permanent that shares a color with it rather than paying its mana cost. The same is true for discarding a card that shares a color with that spell and paying life equal to its mana value. (Pay each of these costs no more than once each turn.)</text>
 			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/VYI-files/img/149.png" num="116">VYI</set>
 			<prop>
 				<layout>normal</layout>
@@ -3148,7 +3148,7 @@ Nythr can&apos;t attack or block unless your expanse is seven or greater. (Each 
 		</card>
 		<card>
 			<name>Faster than Light</name>
-			<text>Exile the top half of your library. Until end of turn, you may play cards not named Faster than Light exiled this way. For each land card exiled this way, add one mana of any color.</text>
+			<text>Exile the top half of your library, rounded up. Until end of turn, you may play cards not named Faster than Light exiled this way. For each land card exiled this way, add one mana of any color.</text>
 			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/VYI-files/img/161.png" num="136">VYI</set>
 			<prop>
 				<layout>normal</layout>
@@ -3501,7 +3501,7 @@ As long as there are ten or more charge counters on The Infinity Bridge, spells 
 			<name>Captain Brandr</name>
 			<text>Haste
 Ad astra (Each turn, upgrade the effect based on the colors of mana you&apos;ve spent to cast spells this turn.)
-[b]3+ [/b]| Whenever you attack, exile the top card of target opponent&apos;s library. You may play that card for as long as it remains in exile . . .
+[b]3+ [/b]| Whenever you attack, exile the top two cards of target opponent&apos;s library. You may play those cards for as long as they remain in exile . . .
 [b]5+ [/b]| . . . then create a Treasure token for each attacking creature.</text>
 			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/VYI-files/img/179.png" num="211">VYI</set>
 			<prop>
@@ -4404,13 +4404,13 @@ Exhaust — {5}{U}: Put a +1/+1 counter on each artifact creature you control. A
 		<card>
 			<name>Vallacore Vanguard</name>
 			<text>Ad astra (Each turn, upgrade the effect based on the colors of mana you&apos;ve spent to cast spells this turn.)
-[b]3+ [/b]| Whenever this creature attacks, exile up to one other target attacking creature you control, then return it to the battlefield tapped and attacking . . .
-[b]5+ [/b]| . . . then create a tapped and attacking token that&apos;s a copy of that creature.</text>
+[b]3+ [/b]| When this creature enters, exile up to one other target non-Noble creature you control, then return it to the battlefield under its owner&apos;s control . . .
+[b]5+ [/b]| . . . then create a token that&apos;s a copy of that creature.</text>
 			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/VYI-files/img/227.png" num="82">VYI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Berserker</type>
+				<type>Creature — Human Noble Berserker</type>
 				<maintype>Creature</maintype>
 				<manacost>2U</manacost>
 				<cmc>3</cmc>
@@ -4704,7 +4704,7 @@ When this creature enters, for each color of mana spent to cast it, add one mana
 		</card>
 		<card>
 			<name>Vallaheart Rescuer</name>
-			<text>When this creature enters, if it was cast, return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield tapped. If that permanent entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
+			<text>When this creature enters, if it was cast, return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield tapped. If that permanent entering this turn causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
 			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/VYI-files/img/241.png" num="41">VYI</set>
 			<prop>
 				<layout>normal</layout>
@@ -5012,7 +5012,7 @@ Whenever an artifact or creature you control dies, you may return target permane
 			<name>Strip-Mining Charter</name>
 			<text>You can&apos;t play lands.
 Sacrifice a land: Draw two cards and create a Treasure token. Activate only once each turn and only as a sorcery.
-{5}: Destroy this enchantment. If you spent {W}{U}{B}{R}{G} to activate this ability, create a 6/6 blue Leviathan creature token with flying. it gains haste until end of turn. Activate only as a sorcery.</text>
+{5}: Destroy this enchantment. If you spent {W}{U}{B}{R}{G} to activate this ability, create a 6/6 blue Leviathan creature token with flying. It gains haste until end of turn. Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/VYI-files/img/257.png" num="243">VYI</set>
 			<prop>
 				<layout>normal</layout>
@@ -6128,7 +6128,7 @@ Whenever enchanted creature deals damage to an opponent, you may draw a card.
 		<card>
 			<name>Starsent Voltwing</name>
 			<text>Flying
-When this creature enters, return up to one target artifact card with mana value 2 or less from your graveyard to the battlefield with a finality counter on it.
+When this creature enters, return up to one target artifact card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.
 At the beginning of your end step, each artifact you control with a counter on it deals 1 damage to each opponent.</text>
 			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/VYI-files/img/317.png" num="274">VYI</set>
 			<prop>

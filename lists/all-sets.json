@@ -26,6 +26,11 @@
             "formats": ""
         },
         {
+            "set_code": "SSC",
+            "set_name": "Snapshot Cube",
+            "formats": ""
+        },
+        {
             "set_code": "VLA",
             "set_name": "Valdrasil: Ascension",
             "formats": ""

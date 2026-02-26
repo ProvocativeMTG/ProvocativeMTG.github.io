@@ -1,4 +1,17 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Skeleton added.
+Embittered Flenser added.
+Flourishing Sporecap added.
+Galewing Pterosaur added.
+Gluttonous Hogtrap added.
+Lure into the Maw added.
+Rust-Crowned Raptor added.
+
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

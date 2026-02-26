@@ -1,39 +1,79 @@
 ﻿[
     {
-        "card_name": "Intrepid Exile",
+        "card_name": "Galewing Pterosaur",
         "number": 1,
         "shape": "normal",
         "set": "SSC",
         "rotated": false,
-        "position": "1"
+        "position": "28"
     },
     {
         "card_name": "Brazen Turncoat",
-        "number": 6,
+        "number": 7,
         "shape": "normal",
         "set": "SSC",
         "rotated": false,
         "position": "19"
     },
     {
-        "card_name": "His Withering Gaze",
-        "number": 10,
+        "card_name": "Embittered Flenser",
+        "number": 12,
         "shape": "normal",
         "set": "SSC",
         "rotated": false,
-        "position": "14"
+        "position": "26"
     },
     {
         "card_name": "Crimson Fleet Cutthroat",
-        "number": 14,
+        "number": 17,
         "shape": "normal",
         "set": "SSC",
         "rotated": false,
         "position": "20"
     },
     {
+        "card_name": "Flourishing Sporecap",
+        "number": 21,
+        "shape": "normal",
+        "set": "SSC",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "Intrepid Exile",
+        "number": 2,
+        "shape": "normal",
+        "set": "SSC",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "Clash of Ego",
+        "number": 8,
+        "shape": "normal",
+        "set": "SSC",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "His Withering Gaze",
+        "number": 13,
+        "shape": "normal",
+        "set": "SSC",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "Fifth Street Faire",
+        "number": 18,
+        "shape": "normal",
+        "set": "SSC",
+        "rotated": false,
+        "position": "12"
+    },
+    {
         "card_name": "Free-for-All Event",
-        "number": 17,
+        "number": 22,
         "shape": "normal",
         "set": "SSC",
         "rotated": false,
@@ -41,87 +81,87 @@
     },
     {
         "card_name": "Noah Kingsley",
-        "number": 2,
+        "number": 3,
         "shape": "normal",
         "set": "SSC",
         "rotated": false,
         "position": "16"
     },
     {
-        "card_name": "Clash of Ego",
-        "number": 7,
-        "shape": "normal",
-        "set": "SSC",
-        "rotated": false,
-        "position": "0"
-    },
-    {
-        "card_name": "Miralda's Tithe",
-        "number": 11,
-        "shape": "normal",
-        "set": "SSC",
-        "rotated": false,
-        "position": "22"
-    },
-    {
-        "card_name": "Fifth Street Faire",
-        "number": 15,
-        "shape": "normal",
-        "set": "SSC",
-        "rotated": false,
-        "position": "12"
-    },
-    {
-        "card_name": "Jaguar-Frame Sync",
-        "number": 18,
-        "shape": "normal",
-        "set": "SSC",
-        "rotated": false,
-        "position": "3"
-    },
-    {
-        "card_name": "Queen's Bay Admiral",
-        "number": 3,
-        "shape": "normal",
-        "set": "SSC",
-        "rotated": false,
-        "position": "23"
-    },
-    {
         "card_name": "Kiana, Corpo Racer",
-        "number": 8,
+        "number": 9,
         "shape": "planeswalker",
         "set": "SSC",
         "rotated": false,
         "position": "8"
     },
     {
-        "card_name": "Persistent Zabin",
-        "number": 12,
+        "card_name": "Miralda's Tithe",
+        "number": 14,
         "shape": "normal",
         "set": "SSC",
         "rotated": false,
-        "position": "4"
+        "position": "22"
     },
     {
         "card_name": "Reef Racer",
-        "number": 16,
+        "number": 19,
         "shape": "normal",
         "set": "SSC",
         "rotated": false,
         "position": "9"
     },
     {
-        "card_name": "Might of Orazca",
-        "number": 19,
+        "card_name": "Gluttonous Hogtrap",
+        "number": 23,
         "shape": "normal",
         "set": "SSC",
         "rotated": false,
-        "position": "21"
+        "position": "29"
+    },
+    {
+        "card_name": "Queen's Bay Admiral",
+        "number": 4,
+        "shape": "normal",
+        "set": "SSC",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "Lure into the Maw",
+        "number": 10,
+        "shape": "normal",
+        "set": "SSC",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Persistent Zabin",
+        "number": 15,
+        "shape": "normal",
+        "set": "SSC",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "Rust-Crowned Raptor",
+        "number": 20,
+        "shape": "normal",
+        "set": "SSC",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "Jaguar-Frame Sync",
+        "number": 24,
+        "shape": "normal",
+        "set": "SSC",
+        "rotated": false,
+        "position": "3"
     },
     {
         "card_name": "Soaring Leatherwing",
-        "number": 4,
+        "number": 5,
         "shape": "normal",
         "set": "SSC",
         "rotated": false,
@@ -129,7 +169,7 @@
     },
     {
         "card_name": "Midnight Communion",
-        "number": 9,
+        "number": 11,
         "shape": "normal",
         "set": "SSC",
         "rotated": false,
@@ -137,7 +177,7 @@
     },
     {
         "card_name": "Snaggle, Reigning Champ",
-        "number": 13,
+        "number": 16,
         "shape": "normal",
         "set": "SSC",
         "rotated": false,
@@ -147,11 +187,16 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Might of Orazca",
+        "number": 25,
+        "shape": "normal",
+        "set": "SSC",
+        "rotated": false,
+        "position": "21"
     },
     {
         "card_name": "Watch the End",
-        "number": 5,
+        "number": 6,
         "shape": "normal",
         "set": "SSC",
         "rotated": false,
@@ -184,7 +229,7 @@
     "a->gold",
     {
         "card_name": "Beach Day",
-        "number": 20,
+        "number": 26,
         "shape": "normal",
         "set": "SSC",
         "rotated": false,
@@ -219,7 +264,7 @@
     },
     {
         "card_name": "Saint Elenda of Garrano",
-        "number": 22,
+        "number": 28,
         "shape": "normal",
         "set": "SSC",
         "rotated": false,
@@ -236,7 +281,7 @@
     },
     {
         "card_name": "His Thousand Arms",
-        "number": 21,
+        "number": 27,
         "shape": "normal",
         "set": "SSC",
         "rotated": false,
@@ -257,7 +302,7 @@
     "a->colorless",
     {
         "card_name": "Itotia's Sentry",
-        "number": 23,
+        "number": 29,
         "shape": "normal",
         "set": "SSC",
         "rotated": false,
@@ -265,7 +310,7 @@
     },
     {
         "card_name": "Weaver of the Primordial",
-        "number": 24,
+        "number": 30,
         "shape": "normal",
         "set": "SSC",
         "rotated": false,
@@ -302,7 +347,12 @@
         "position": "18"
     },
     {
-        "card_name": "e"
+        "card_name": "Skeleton",
+        "number": 2,
+        "shape": "token",
+        "set": "SSC",
+        "rotated": false,
+        "position": "25"
     },
     {
         "card_name": "e"

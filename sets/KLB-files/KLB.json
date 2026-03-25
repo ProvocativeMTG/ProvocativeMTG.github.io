@@ -4929,66 +4929,6 @@
             "notes": ""
         },
         {
-            "card_name": "Minenohana, Blossom's Cradle",
-            "color": "",
-            "rarity": "mythic",
-            "type": "Legendary Land",
-            "number": 0,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "{T}: Add {C}.\n{2}, {T}: For each different color pair among permanents you control that are exactly two colors, add two mana of those colors.",
-            "flavor_text": "[i]The cradle hums, colors cascading across a world drunk on abundance.[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "KLB",
-            "loyalty": "",
-            "artist": "VV",
-            "alias": "",
-            "position": "246",
-            "notes": ""
-        },
-        {
-            "card_name": "Minenohana, Blossom's Cradle",
-            "color": "",
-            "rarity": "mythic",
-            "type": "Legendary Land",
-            "number": 0,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "{T}: Add {C}.\n{2}, {T}: For each different color pair among permanents you control that are exactly two colors, add two mana of those colors.",
-            "flavor_text": "[i]The cradle burns, maybe bright enough to stave off the coming cold.[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "KLB",
-            "loyalty": "",
-            "artist": "VV",
-            "alias": "",
-            "position": "247",
-            "notes": ""
-        },
-        {
-            "card_name": "Minenohana, Blossom's Cradle",
-            "color": "",
-            "rarity": "mythic",
-            "type": "Legendary Land",
-            "number": 0,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "{T}: Add {C}.\n{2}, {T}: For each different color pair among permanents you control that are exactly two colors, add two mana of those colors.",
-            "flavor_text": "[i]The cradle dreams, of myriad colors that have been forgotten.[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "KLB",
-            "loyalty": "",
-            "artist": "VV",
-            "alias": "",
-            "position": "248",
-            "notes": ""
-        },
-        {
             "card_name": "Fractal Realmway",
             "color": "",
             "rarity": "rare",
@@ -5005,7 +4945,7 @@
             "loyalty": "",
             "artist": "Young Qin",
             "alias": "",
-            "position": "249",
+            "position": "246",
             "notes": ""
         },
         {
@@ -5025,7 +4965,7 @@
             "loyalty": "",
             "artist": "Adrian Virlan",
             "alias": "",
-            "position": "250",
+            "position": "247",
             "notes": ""
         },
         {
@@ -5045,7 +4985,7 @@
             "loyalty": "",
             "artist": "Cycle Circle",
             "alias": "",
-            "position": "251",
+            "position": "248",
             "notes": ""
         },
         {
@@ -5065,7 +5005,7 @@
             "loyalty": "",
             "artist": "li moly",
             "alias": "",
-            "position": "252",
+            "position": "249",
             "notes": ""
         },
         {
@@ -5085,7 +5025,7 @@
             "loyalty": "",
             "artist": "Frank Sun",
             "alias": "",
-            "position": "253",
+            "position": "250",
             "notes": ""
         },
         {
@@ -5105,7 +5045,7 @@
             "loyalty": "",
             "artist": "David Durna",
             "alias": "",
-            "position": "254",
+            "position": "251",
             "notes": ""
         },
         {
@@ -5125,7 +5065,7 @@
             "loyalty": "",
             "artist": "li moly",
             "alias": "",
-            "position": "255",
+            "position": "252",
             "notes": ""
         },
         {
@@ -5145,7 +5085,7 @@
             "loyalty": "",
             "artist": "Jenny Li",
             "alias": "",
-            "position": "256",
+            "position": "253",
             "notes": ""
         },
         {
@@ -5165,7 +5105,7 @@
             "loyalty": "",
             "artist": "Jenny LI",
             "alias": "",
-            "position": "257",
+            "position": "254",
             "notes": ""
         },
         {
@@ -5185,7 +5125,7 @@
             "loyalty": "",
             "artist": "Jenny Li",
             "alias": "",
-            "position": "258",
+            "position": "255",
             "notes": ""
         },
         {
@@ -5205,7 +5145,7 @@
             "loyalty": "",
             "artist": "Jenny Li",
             "alias": "",
-            "position": "259",
+            "position": "256",
             "notes": ""
         },
         {
@@ -5225,7 +5165,7 @@
             "loyalty": "",
             "artist": "Jenny Li",
             "alias": "",
-            "position": "260",
+            "position": "257",
             "notes": ""
         },
         {
@@ -5245,7 +5185,7 @@
             "loyalty": "",
             "artist": "Lenin Valerio",
             "alias": "",
-            "position": "261",
+            "position": "258",
             "notes": ""
         },
         {
@@ -5265,7 +5205,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "262",
+            "position": "259",
             "notes": ""
         },
         {
@@ -5285,7 +5225,7 @@
             "loyalty": "",
             "artist": "Philip Sun",
             "alias": "",
-            "position": "263",
+            "position": "260",
             "notes": ""
         },
         {
@@ -5305,7 +5245,7 @@
             "loyalty": "",
             "artist": "Billy Christian",
             "alias": "",
-            "position": "264",
+            "position": "261",
             "notes": ""
         },
         {
@@ -5325,7 +5265,7 @@
             "loyalty": "",
             "artist": "Emicathe",
             "alias": "",
-            "position": "265",
+            "position": "262",
             "notes": ""
         },
         {
@@ -5345,7 +5285,7 @@
             "loyalty": "",
             "artist": "Dao Trong Le",
             "alias": "",
-            "position": "266",
+            "position": "263",
             "notes": ""
         },
         {
@@ -5365,7 +5305,7 @@
             "loyalty": "",
             "artist": "Robery Peary Dolendo",
             "alias": "",
-            "position": "267",
+            "position": "264",
             "notes": ""
         },
         {
@@ -5385,7 +5325,7 @@
             "loyalty": "",
             "artist": "illustratiopath",
             "alias": "",
-            "position": "268",
+            "position": "265",
             "notes": ""
         },
         {
@@ -5405,7 +5345,7 @@
             "loyalty": "",
             "artist": "Alexander Mokhov",
             "alias": "",
-            "position": "269",
+            "position": "266",
             "notes": ""
         },
         {
@@ -5425,7 +5365,7 @@
             "loyalty": "",
             "artist": "Vinh Tran",
             "alias": "",
-            "position": "270",
+            "position": "267",
             "notes": ""
         },
         {
@@ -5445,7 +5385,7 @@
             "loyalty": "",
             "artist": "Anastasia Revyakina",
             "alias": "",
-            "position": "271",
+            "position": "268",
             "notes": ""
         },
         {
@@ -5465,7 +5405,7 @@
             "loyalty": "",
             "artist": "Art Gutierrez",
             "alias": "",
-            "position": "272",
+            "position": "269",
             "notes": ""
         },
         {
@@ -5485,7 +5425,7 @@
             "loyalty": "",
             "artist": "Veselin Ivanov",
             "alias": "",
-            "position": "273",
+            "position": "270",
             "notes": ""
         },
         {
@@ -5505,7 +5445,7 @@
             "loyalty": "",
             "artist": "Konstantin Porubov",
             "alias": "",
-            "position": "274",
+            "position": "271",
             "notes": ""
         },
         {
@@ -5525,7 +5465,7 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
-            "position": "275",
+            "position": "272",
             "notes": ""
         },
         {
@@ -5545,18 +5485,18 @@
             "loyalty": "",
             "artist": "Antonio De Luca",
             "alias": "",
-            "position": "276",
+            "position": "273",
             "notes": ""
         },
         {
             "card_name": "Cloud Dance",
             "color": "WU",
             "rarity": "common",
-            "type": "Sorcery",
+            "type": "Instant",
             "number": 248,
             "color_identity": "WU",
-            "cost": "{WU}",
-            "rules_text": "Exile target creature you control, then return it to the battlefield under its owner's control. If that creature was tapped, it enters with an additional +1/+1 counter on it.",
+            "cost": "{1}{WU}",
+            "rules_text": "This spell costs {1} less to cast if targets a tapped creature.\nExile target creature, then return it to the battlefield under its owner's control. Put a +1/+1 counter on it.",
             "flavor_text": "[i]Shiori was the first of the kitsune to learn human magics, but he was not the last.[/i]",
             "pt": "",
             "special_text": "",
@@ -5565,7 +5505,7 @@
             "loyalty": "",
             "artist": "Kate Fox",
             "alias": "",
-            "position": "277",
+            "position": "274",
             "notes": ""
         },
         {
@@ -5585,7 +5525,7 @@
             "loyalty": "",
             "artist": "SCG",
             "alias": "",
-            "position": "278",
+            "position": "275",
             "notes": ""
         },
         {
@@ -5605,7 +5545,7 @@
             "loyalty": "",
             "artist": "Lim Wai Yee",
             "alias": "",
-            "position": "279",
+            "position": "276",
             "notes": ""
         },
         {
@@ -5625,7 +5565,7 @@
             "loyalty": "",
             "artist": "Koch43",
             "alias": "",
-            "position": "280",
+            "position": "277",
             "notes": ""
         },
         {
@@ -5645,7 +5585,7 @@
             "loyalty": "",
             "artist": "Samuel Amar",
             "alias": "",
-            "position": "281",
+            "position": "278",
             "notes": ""
         },
         {
@@ -5665,7 +5605,7 @@
             "loyalty": "",
             "artist": "Anastasia Tupikova",
             "alias": "",
-            "position": "282",
+            "position": "279",
             "notes": ""
         },
         {
@@ -5685,7 +5625,7 @@
             "loyalty": "",
             "artist": "IvanChanCL",
             "alias": "",
-            "position": "283",
+            "position": "280",
             "notes": ""
         },
         {
@@ -5705,7 +5645,7 @@
             "loyalty": "",
             "artist": "Marco Espinosa",
             "alias": "",
-            "position": "284",
+            "position": "281",
             "notes": ""
         },
         {
@@ -5725,7 +5665,7 @@
             "loyalty": "",
             "artist": "syarul",
             "alias": "",
-            "position": "285",
+            "position": "282",
             "notes": ""
         },
         {
@@ -5745,7 +5685,7 @@
             "loyalty": "",
             "artist": "yuchenghong",
             "alias": "",
-            "position": "286",
+            "position": "283",
             "notes": ""
         },
         {
@@ -5765,7 +5705,7 @@
             "loyalty": "",
             "artist": "Sichen Jiang",
             "alias": "",
-            "position": "287",
+            "position": "284",
             "notes": ""
         },
         {
@@ -5785,7 +5725,7 @@
             "loyalty": "",
             "artist": "Alexandr Leskinen",
             "alias": "",
-            "position": "288",
+            "position": "285",
             "notes": ""
         },
         {
@@ -5805,7 +5745,7 @@
             "loyalty": "",
             "artist": "Vanette Kosman",
             "alias": "",
-            "position": "289",
+            "position": "286",
             "notes": ""
         },
         {
@@ -5825,7 +5765,7 @@
             "loyalty": "",
             "artist": "Nalak-Bel",
             "alias": "",
-            "position": "290",
+            "position": "287",
             "notes": ""
         },
         {
@@ -5845,7 +5785,7 @@
             "loyalty": "",
             "artist": "Francisco Miyara",
             "alias": "",
-            "position": "291",
+            "position": "288",
             "notes": ""
         },
         {
@@ -5865,7 +5805,7 @@
             "loyalty": "",
             "artist": "tobi",
             "alias": "",
-            "position": "292",
+            "position": "289",
             "notes": ""
         },
         {
@@ -5885,7 +5825,7 @@
             "loyalty": "",
             "artist": "Ari-Matti Toivonen",
             "alias": "",
-            "position": "293",
+            "position": "290",
             "notes": ""
         },
         {
@@ -5905,7 +5845,7 @@
             "loyalty": "",
             "artist": "Christina Kraus",
             "alias": "",
-            "position": "294",
+            "position": "291",
             "notes": ""
         },
         {
@@ -5925,7 +5865,7 @@
             "loyalty": "",
             "artist": "Gin",
             "alias": "",
-            "position": "295",
+            "position": "292",
             "notes": ""
         },
         {
@@ -5945,7 +5885,7 @@
             "loyalty": "",
             "artist": "Shringarayonii",
             "alias": "",
-            "position": "296",
+            "position": "293",
             "notes": ""
         },
         {
@@ -5965,7 +5905,7 @@
             "loyalty": "",
             "artist": "Sofie Bris Kalinova",
             "alias": "",
-            "position": "297",
+            "position": "294",
             "notes": ""
         },
         {
@@ -5985,7 +5925,7 @@
             "loyalty": "",
             "artist": "Mary Holian",
             "alias": "",
-            "position": "298",
+            "position": "295",
             "notes": ""
         },
         {
@@ -6005,7 +5945,7 @@
             "loyalty": "",
             "artist": "Marin Nicolas Grasso",
             "alias": "",
-            "position": "299",
+            "position": "296",
             "notes": ""
         },
         {
@@ -6025,7 +5965,7 @@
             "loyalty": "",
             "artist": "Thomas Caputo",
             "alias": "",
-            "position": "300",
+            "position": "297",
             "notes": ""
         },
         {
@@ -6045,7 +5985,7 @@
             "loyalty": "",
             "artist": "liang qian",
             "alias": "",
-            "position": "301",
+            "position": "298",
             "notes": ""
         },
         {
@@ -6065,7 +6005,7 @@
             "loyalty": "",
             "artist": "Aleksa Drageljevic",
             "alias": "",
-            "position": "302",
+            "position": "299",
             "notes": ""
         },
         {
@@ -6085,7 +6025,7 @@
             "loyalty": "",
             "artist": "Virginie Juteau",
             "alias": "",
-            "position": "303",
+            "position": "300",
             "notes": ""
         },
         {
@@ -6105,7 +6045,7 @@
             "loyalty": "",
             "artist": "Sima Zhao",
             "alias": "",
-            "position": "304",
+            "position": "301",
             "notes": ""
         },
         {
@@ -6125,7 +6065,7 @@
             "loyalty": "",
             "artist": "Eilene Cherie",
             "alias": "",
-            "position": "305",
+            "position": "302",
             "notes": ""
         },
         {
@@ -6145,7 +6085,7 @@
             "loyalty": "",
             "artist": "HeonHwa Choe",
             "alias": "",
-            "position": "306",
+            "position": "303",
             "notes": ""
         },
         {
@@ -6165,7 +6105,7 @@
             "loyalty": "",
             "artist": "efaru",
             "alias": "",
-            "position": "307",
+            "position": "304",
             "notes": ""
         },
         {
@@ -6185,7 +6125,7 @@
             "loyalty": "",
             "artist": "Thomas Ricci",
             "alias": "",
-            "position": "308",
+            "position": "305",
             "notes": ""
         },
         {
@@ -6205,7 +6145,7 @@
             "loyalty": "",
             "artist": "SolarrG2",
             "alias": "",
-            "position": "309",
+            "position": "306",
             "notes": ""
         },
         {
@@ -6225,7 +6165,7 @@
             "loyalty": "",
             "artist": "Bryann Orion",
             "alias": "",
-            "position": "310",
+            "position": "307",
             "notes": ""
         },
         {
@@ -6245,7 +6185,7 @@
             "loyalty": "",
             "artist": "Tiffany Chu",
             "alias": "",
-            "position": "311",
+            "position": "308",
             "notes": ""
         },
         {
@@ -6265,7 +6205,7 @@
             "loyalty": "",
             "artist": "ShadeOfSinon",
             "alias": "",
-            "position": "312",
+            "position": "309",
             "notes": ""
         },
         {
@@ -6285,7 +6225,7 @@
             "loyalty": "",
             "artist": "hen-lee",
             "alias": "",
-            "position": "313",
+            "position": "310",
             "notes": ""
         },
         {
@@ -6305,7 +6245,7 @@
             "loyalty": "",
             "artist": "Areakst Kingglost",
             "alias": "",
-            "position": "314",
+            "position": "311",
             "notes": ""
         },
         {
@@ -6325,7 +6265,7 @@
             "loyalty": "",
             "artist": "Dao Trong Le",
             "alias": "",
-            "position": "315",
+            "position": "312",
             "notes": ""
         },
         {
@@ -6345,7 +6285,7 @@
             "loyalty": "",
             "artist": "Linda Jansson",
             "alias": "",
-            "position": "316",
+            "position": "313",
             "notes": ""
         },
         {
@@ -6365,7 +6305,7 @@
             "loyalty": "",
             "artist": "Louise Goalby",
             "alias": "",
-            "position": "317",
+            "position": "314",
             "notes": ""
         },
         {
@@ -6385,7 +6325,7 @@
             "loyalty": "",
             "artist": "G xy",
             "alias": "",
-            "position": "318",
+            "position": "315",
             "notes": ""
         },
         {
@@ -6405,7 +6345,7 @@
             "loyalty": "",
             "artist": "Mads Ahm",
             "alias": "",
-            "position": "319",
+            "position": "316",
             "notes": ""
         },
         {
@@ -6425,7 +6365,7 @@
             "loyalty": "",
             "artist": "Sara Contreras",
             "alias": "",
-            "position": "320",
+            "position": "317",
             "notes": ""
         },
         {
@@ -6445,7 +6385,7 @@
             "loyalty": "",
             "artist": "Aviral Shukla",
             "alias": "",
-            "position": "321",
+            "position": "318",
             "notes": ""
         },
         {
@@ -6465,7 +6405,7 @@
             "loyalty": "",
             "artist": "Anna Khepri",
             "alias": "",
-            "position": "322",
+            "position": "319",
             "notes": ""
         },
         {
@@ -6485,7 +6425,7 @@
             "loyalty": "",
             "artist": "Kristian Nusser",
             "alias": "",
-            "position": "323",
+            "position": "320",
             "notes": ""
         },
         {
@@ -6505,9 +6445,9 @@
             "loyalty": "",
             "artist": "Yoojin Rhee",
             "alias": "",
-            "position": "324",
+            "position": "321",
             "notes": ""
         }
     ],
-    "version": 3
+    "version": 4
 }

@@ -1,4 +1,159 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+Minenohana, Blossom's Cradle removed.
+Minenohana, Blossom's Cradle removed.
+Minenohana, Blossom's Cradle removed.
+
+Fractal Realmway
+
+Escape the Demon Realm
+
+Celebration of Peace
+
+Kitsune Gate
+
+Monolith Gate
+
+Accursed Gate
+
+Hewn Gate
+
+Lotus Pools
+
+Oni-Engine Forge
+
+Dragonmaw Gate
+
+Turncoat Ruiner
+
+Runecut Ronin
+
+Kei, Who Still Stands
+
+Shigane Diviner
+
+Aquatic Ambusher
+
+Warnings Unheeded
+
+Spiralhorn Winder
+
+Hirohito, Guiding Blossom
+
+Dreamwalk
+
+Harmonious Monks
+
+Rushing Blood
+
+March to War
+
+Furious Confrontation
+
+Cloud Dance
+type: Sorcery => Instant
+cost: {WU} => {1}{WU}
+rules_text: Exile target creature you control, then return it to the battlefield under its owner's control. If that creature was tapped, it enters with an additional +1/+1 counter on it. => This spell costs {1} less to cast if targets a tapped creature.
+Exile target creature, then return it to the battlefield under its owner's control. Put a +1/+1 counter on it.
+
+Jiro, the Flutist
+
+Benevolent Serpent
+
+Kitsune's Allure
+
+Soaring Trackers
+
+Corrupted Wanderer
+
+Esouled Yoroi
+
+Regal Mount
+
+Legions Upon Legions
+
+Kitsune Maiden
+
+Coiling Abyss's Blessing
+
+Burning-Blood Toad
+
+Shadow-Haunted Captain
+
+Yokinzan Formshifter
+
+Uiki Rockslinger
+
+Chaffcutter Shinobi
+
+Animated Lantern-Guide
+
+Omen Strix
+
+Condemned Huntress
+
+Fleetfooted Messenger
+
+Destiny of Ash and Flame
+
+Tiger Koi
+
+Kinscale Harrier
+
+Warden of Kaibyo
+
+Golden Horned Serpent
+
+Jade Komainu
+
+Sea of Light
+
+Relic Seeker
+
+Resourceful Adversary
+
+March for the Demonlord
+
+Dragon Grandam
+
+Kaibyo Ensorceller
+
+Curse of the Barren
+
+Kimja Dualblades
+
+Clue
+
+Bird
+
+Ninja
+
+Demon
+
+Monk
+
+Dragon
+
+Spirit Beast
+
+Shade
+
+Snake
+
+Ofuda
+
+Bird Construct
+
+Lotus Cobra
+
+Avatar
+
+Inkling Horror
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Kimja Dualblades added.

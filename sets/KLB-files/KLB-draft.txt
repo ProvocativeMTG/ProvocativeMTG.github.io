@@ -2461,43 +2461,13 @@
 			}
 		},
 		{
-			"name": "Minenohana, Blossom's Cradle",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/246.png"
-			}
-		},
-		{
-			"name": "Minenohana, Blossom's Cradle",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/247.png"
-			}
-		},
-		{
-			"name": "Minenohana, Blossom's Cradle",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/248.png"
-			}
-		},
-		{
 			"name": "Fractal Realmway",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Gate",
 			"collector_number": "285",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/249.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/246.png"
 			}
 		},
 		{
@@ -2507,7 +2477,7 @@
 			"type": "Sorcery",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/250.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/247.png"
 			}
 		},
 		{
@@ -2517,7 +2487,7 @@
 			"type": "Instant",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/251.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/248.png"
 			}
 		},
 		{
@@ -2527,7 +2497,7 @@
 			"type": "Land — Gate",
 			"collector_number": "292",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/252.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/249.png"
 			}
 		},
 		{
@@ -2537,7 +2507,7 @@
 			"type": "Land — Gate",
 			"collector_number": "294",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/253.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/250.png"
 			}
 		},
 		{
@@ -2547,7 +2517,7 @@
 			"type": "Land — Gate",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/254.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/251.png"
 			}
 		},
 		{
@@ -2557,7 +2527,7 @@
 			"type": "Land — Gate",
 			"collector_number": "291",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/255.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/252.png"
 			}
 		},
 		{
@@ -2567,7 +2537,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "300",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/256.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/253.png"
 			}
 		},
 		{
@@ -2577,7 +2547,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "299",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/257.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/254.png"
 			}
 		},
 		{
@@ -2587,7 +2557,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "296",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/258.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/255.png"
 			}
 		},
 		{
@@ -2597,7 +2567,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "298",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/259.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/256.png"
 			}
 		},
 		{
@@ -2607,7 +2577,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "297",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/260.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/257.png"
 			}
 		},
 		{
@@ -2617,7 +2587,7 @@
 			"type": "Enchantment",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/261.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/258.png"
 			}
 		},
 		{
@@ -2627,7 +2597,7 @@
 			"type": "Land",
 			"collector_number": "295",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/262.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/259.png"
 			}
 		},
 		{
@@ -2637,7 +2607,7 @@
 			"type": "Land — Gate",
 			"collector_number": "284",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/263.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/260.png"
 			}
 		},
 		{
@@ -2647,7 +2617,7 @@
 			"type": "Creature — Human Samurai Rogue",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/264.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/261.png"
 			}
 		},
 		{
@@ -2657,7 +2627,7 @@
 			"type": "Creature — Human Samurai",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/265.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/262.png"
 			}
 		},
 		{
@@ -2667,7 +2637,7 @@
 			"type": "Legendary Creature — Human Samurai",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/266.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/263.png"
 			}
 		},
 		{
@@ -2677,7 +2647,7 @@
 			"type": "Creature — Human Ninja",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/267.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/264.png"
 			}
 		},
 		{
@@ -2687,7 +2657,7 @@
 			"type": "Creature — Human Ninja",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/268.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/265.png"
 			}
 		},
 		{
@@ -2697,7 +2667,7 @@
 			"type": "Sorcery",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/269.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/266.png"
 			}
 		},
 		{
@@ -2707,7 +2677,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/270.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/267.png"
 			}
 		},
 		{
@@ -2717,7 +2687,7 @@
 			"type": "Legendary Creature — Avatar Monk",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/271.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/268.png"
 			}
 		},
 		{
@@ -2727,7 +2697,7 @@
 			"type": "Sorcery",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/272.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/269.png"
 			}
 		},
 		{
@@ -2737,7 +2707,7 @@
 			"type": "Creature — Human Monk",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/273.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/270.png"
 			}
 		},
 		{
@@ -2747,7 +2717,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/274.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/271.png"
 			}
 		},
 		{
@@ -2757,7 +2727,7 @@
 			"type": "Instant",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/275.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/272.png"
 			}
 		},
 		{
@@ -2767,17 +2737,17 @@
 			"type": "Instant",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/276.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/273.png"
 			}
 		},
 		{
 			"name": "Cloud Dance",
 			"rarity": "common",
-			"mana_cost": "{W/U}",
-			"type": "Sorcery",
+			"mana_cost": "{1}{W/U}",
+			"type": "Instant",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/277.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/274.png"
 			}
 		},
 		{
@@ -2787,7 +2757,7 @@
 			"type": "Legendary Creature — Human Ninja",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/278.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/275.png"
 			}
 		},
 		{
@@ -2797,7 +2767,7 @@
 			"type": "Creature — Serpent",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/279.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/276.png"
 			}
 		},
 		{
@@ -2807,7 +2777,7 @@
 			"type": "Sorcery",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/280.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/277.png"
 			}
 		},
 		{
@@ -2817,7 +2787,7 @@
 			"type": "Creature — Human Bird Ninja",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/281.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/278.png"
 			}
 		},
 		{
@@ -2827,7 +2797,7 @@
 			"type": "Creature — Demon Warrior",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/282.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/279.png"
 			}
 		},
 		{
@@ -2837,7 +2807,7 @@
 			"type": "Artifact Creature — Demon Construct",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/283.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/280.png"
 			}
 		},
 		{
@@ -2847,7 +2817,7 @@
 			"type": "Creature — Spirit Beast",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/284.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/281.png"
 			}
 		},
 		{
@@ -2857,7 +2827,7 @@
 			"type": "Sorcery",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/285.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/282.png"
 			}
 		},
 		{
@@ -2867,7 +2837,7 @@
 			"type": "Creature — Fox Shapeshifter",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/286.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/283.png"
 			}
 		},
 		{
@@ -2877,7 +2847,7 @@
 			"type": "Enchantment",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/287.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/284.png"
 			}
 		},
 		{
@@ -2887,7 +2857,7 @@
 			"type": "Creature — Demon Frog",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/288.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/285.png"
 			}
 		},
 		{
@@ -2897,7 +2867,7 @@
 			"type": "Creature — Human Samurai",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/289.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/286.png"
 			}
 		},
 		{
@@ -2907,7 +2877,7 @@
 			"type": "Creature — Fox Shapeshifter",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/290.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/287.png"
 			}
 		},
 		{
@@ -2917,7 +2887,7 @@
 			"type": "Creature — Human Monk",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/291.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/288.png"
 			}
 		},
 		{
@@ -2927,7 +2897,7 @@
 			"type": "Creature — Human Ninja",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/292.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/289.png"
 			}
 		},
 		{
@@ -2937,7 +2907,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/293.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/290.png"
 			}
 		},
 		{
@@ -2947,7 +2917,7 @@
 			"type": "Creature — Bird",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/294.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/291.png"
 			}
 		},
 		{
@@ -2957,7 +2927,7 @@
 			"type": "Creature — Demon Warrior",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/295.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/292.png"
 			}
 		},
 		{
@@ -2967,7 +2937,7 @@
 			"type": "Creature — Human Ninja",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/296.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/293.png"
 			}
 		},
 		{
@@ -2977,7 +2947,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/297.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/294.png"
 			}
 		},
 		{
@@ -2987,7 +2957,7 @@
 			"type": "Creature — Cat Fish Spirit",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/298.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/295.png"
 			}
 		},
 		{
@@ -2997,7 +2967,7 @@
 			"type": "Creature — Dragon Archer",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/299.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/296.png"
 			}
 		},
 		{
@@ -3007,7 +2977,7 @@
 			"type": "Creature — Illusion Warrior",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/300.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/297.png"
 			}
 		},
 		{
@@ -3017,7 +2987,7 @@
 			"type": "Creature — Serpent",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/301.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/298.png"
 			}
 		},
 		{
@@ -3027,7 +2997,7 @@
 			"type": "Artifact Creature — Cat Golem",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/302.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/299.png"
 			}
 		},
 		{
@@ -3037,7 +3007,7 @@
 			"type": "Sorcery",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/303.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/300.png"
 			}
 		},
 		{
@@ -3047,7 +3017,7 @@
 			"type": "Creature — Human Ninja",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/304.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/301.png"
 			}
 		},
 		{
@@ -3057,7 +3027,7 @@
 			"type": "Creature — Human Samurai",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/305.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/302.png"
 			}
 		},
 		{
@@ -3067,7 +3037,7 @@
 			"type": "Enchantment",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/306.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/303.png"
 			}
 		},
 		{
@@ -3077,7 +3047,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/307.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/304.png"
 			}
 		},
 		{
@@ -3087,7 +3057,7 @@
 			"type": "Creature — Human Warlock",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/308.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/305.png"
 			}
 		},
 		{
@@ -3097,7 +3067,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/309.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/306.png"
 			}
 		},
 		{
@@ -3107,7 +3077,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/310.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/307.png"
 			}
 		},
 		{
@@ -3117,7 +3087,7 @@
 			"type": "Token Artifact — Clue",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/311.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/308.png"
 			}
 		},
 		{
@@ -3127,7 +3097,7 @@
 			"type": "Token Creature — Bird",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/312.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/309.png"
 			}
 		},
 		{
@@ -3137,7 +3107,7 @@
 			"type": "Token Creature — Ninja",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/313.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/310.png"
 			}
 		},
 		{
@@ -3147,7 +3117,7 @@
 			"type": "Token Creature — Demon",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/314.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/311.png"
 			}
 		},
 		{
@@ -3157,7 +3127,7 @@
 			"type": "Token Creature — Monk",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/315.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/312.png"
 			}
 		},
 		{
@@ -3167,7 +3137,7 @@
 			"type": "Token Creature — Dragon",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/316.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/313.png"
 			}
 		},
 		{
@@ -3177,7 +3147,7 @@
 			"type": "Token Creature — Spirit Beast",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/317.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/314.png"
 			}
 		},
 		{
@@ -3187,7 +3157,7 @@
 			"type": "Token Creature — Shade",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/318.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/315.png"
 			}
 		},
 		{
@@ -3197,7 +3167,7 @@
 			"type": "Token Creature — Snake",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/319.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/316.png"
 			}
 		},
 		{
@@ -3207,7 +3177,7 @@
 			"type": "Token Artifact",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/320.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/317.png"
 			}
 		},
 		{
@@ -3217,7 +3187,7 @@
 			"type": "Token Artifact Creature — Bird Construct",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/321.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/318.png"
 			}
 		},
 		{
@@ -3227,7 +3197,7 @@
 			"type": "Token Creature — Snake",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/322.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/319.png"
 			}
 		},
 		{
@@ -3237,7 +3207,7 @@
 			"type": "Token Enchantment Creature — Avatar",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/323.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/320.png"
 			}
 		},
 		{
@@ -3247,7 +3217,7 @@
 			"type": "Token Creature — Inkling Horror",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/324.png"
+				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/321.png"
 			}
 		}
 	]
@@ -3335,9 +3305,6 @@
 	1 God-Tree Saptender
 	1 Scrollbound Beast
 	1 Splintering Raiju
-	1 Minenohana, Blossom's Cradle
-	1 Minenohana, Blossom's Cradle
-	1 Minenohana, Blossom's Cradle
 	1 Minenohana, Blossom's Cradle
 	2 Fractal Realmway
 	2 Escape the Demon Realm
@@ -3889,9 +3856,6 @@
 	1 Scrollbound Beast
 	1 Splintering Raiju
 	1 Minenohana, Blossom's Cradle
-	1 Minenohana, Blossom's Cradle
-	1 Minenohana, Blossom's Cradle
-	1 Minenohana, Blossom's Cradle
 	2 Fractal Realmway
 	2 Escape the Demon Realm
 	2 Celebration of Peace
@@ -4187,9 +4151,6 @@
 	4 God-Tree Saptender
 	4 Scrollbound Beast
 	4 Splintering Raiju
-	4 Minenohana, Blossom's Cradle
-	4 Minenohana, Blossom's Cradle
-	4 Minenohana, Blossom's Cradle
 	4 Minenohana, Blossom's Cradle
 	7 Fractal Realmway
 	7 Escape the Demon Realm

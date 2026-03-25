@@ -72,7 +72,7 @@ You may cast spells and activate Tsubasa&apos;s loyalty abilities during each pl
 I — If an opponent controls more lands than you, search your library for a basic Plains card, put it onto the battlefield tapped, then shuffle.
 II — If an opponent has more cards in hand than you, draw a card.
 III — If an opponent has more life than you, you gain 2 life.</text>
-			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/3.png" num="25">KLB</set>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/3.png" num="24">KLB</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -935,7 +935,7 @@ Elbow Strike deals 4 damage to target attacking or blocking creature.</text>
 			<name>Seishin Binding</name>
 			<text>Dualism (As you cast this spell, you may tap three untapped creatures you control to reduce this spell&apos;s cost by {3} or to copy it. The copy becomes a token.)
 When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/51.png" num="24">KLB</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/51.png" num="23">KLB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1345,7 +1345,7 @@ Whenever you tap a permanent for mana, add an additional one mana of any color.<
 			<name>Studies in Spirits and Steel</name>
 			<text>Create a 0/0 colorless Construct artifact creature token with &quot;This token gets +1/+1 for each artifact you control.&quot;
 Create a 0/0 colorless Avatar enchantment creature token with &quot;This token gets +1/+1 for each enchantment you control.&quot;</text>
-			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/74.png" num="27">KLB</set>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/74.png" num="26">KLB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1543,7 +1543,7 @@ Persevere {W} (You may cast a copy of this card from your graveyard by exiling i
 			<name>Warlord&apos;s Capture</name>
 			<text>When this enchantment enters, exile target creature or planeswalker an opponent controls until this enchantment leaves the battlefield.
 At the beginning of your end step, if one or more cards were exiled this turn, scry 1.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/85.png" num="34">KLB</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/85.png" num="33">KLB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2210,7 +2210,7 @@ Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
 			<name>Simian Exemplar</name>
 			<text>Whenever this creature attacks, return target creature card with mana value 3 or less from your graveyard to the battlefield.
 Persevere {1}{W} (You may cast a copy of this card from your graveyard by exiling it and paying the persevere cost. If you do, it can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/123.png" num="26">KLB</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/123.png" num="25">KLB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2869,7 +2869,7 @@ Persevere {3}{W}{W} (You may cast a copy of this card from your graveyard by exi
 			<name>Wanderer&apos;s Echo</name>
 			<text>When this creature dies, you may search your library for a planeswalker card, put it onto the battlefield, then shuffle.
 Persevere {3}{W}{W} (You may cast a copy of this card from your graveyard by exiling it and paying the persevere cost. If you do, it can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/160.png" num="33">KLB</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/160.png" num="32">KLB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2975,7 +2975,7 @@ Whenever you cast a spell, create a token that&apos;s a copy of this creature if
 			<name>Tea-Haze Wisp</name>
 			<text>This spell costs {2} less to cast if you control two or more tapped creatures.
 Flying</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/166.png" num="29">KLB</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/166.png" num="28">KLB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3013,7 +3013,7 @@ Whenever you cast a spell with mana value 4 or greater, tap up to two target cre
 Enchant creature
 When this Aura enters, untap enchanted creature. It gets +2/+2 until end of turn.
 Enchanted creature has flying.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/168.png" num="23">KLB</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/168.png" num="22">KLB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3449,10 +3449,10 @@ Draw a card.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Return on Waves of Gold</name>
+			<name>Waves of Gold</name>
 			<text>Dualism (As you cast this spell, you may tap three untapped creatures you control to reduce this spell&apos;s cost by {3} or to copy it. You may choose new targets for the copy.)
 Return target creature card with mana value X or less from your graveyard to the battlefield with X +1/+1 counters on it.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/193.png" num="22">KLB</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/193.png" num="34">KLB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3793,7 +3793,7 @@ When this creature enters, it deals X damage to each of up to two targets and yo
 			<name>Sunsong Player</name>
 			<text>Whenever this creature becomes tapped, put a +1/+1 counter on it.
 {3}{W}, Sacrifice this creature: For each +1/+1 counter on it, create a 1/1 white Monk creature token. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/213.png" num="28">KLB</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/213.png" num="27">KLB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3811,7 +3811,7 @@ When this creature enters, it deals X damage to each of up to two targets and yo
 			<name>Tsuru, the Tattooist</name>
 			<text>When Tsuru enters, exile up to one target nonland permanent card with mana value 3 or less from your graveyard. You may pay {1}{W}. If you do, create a token that&apos;s a copy of it.
 At the beginning of combat on your turn, up to one target token you control becomes a 3/3 Dragon creature with flying in addition to its other types until end of turn.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/214.png" num="30">KLB</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/214.png" num="29">KLB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4189,7 +4189,7 @@ Double all damage that multicolored sources you control would deal.</text>
 			<text>Double strike
 Whenever you cast a multicolored spell, create a 4/4 blue Dragon creature token with flying.
 Exhaust — {3}{W}{U}{B}{R}{G}: Exile any number of multicolored cards from your graveyard. Copy each card exiled this way. You may cast the copies without paying their mana costs. (Activate each exhaust ability only once.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/235.png" num="31">KLB</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/235.png" num="30">KLB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5096,7 +5096,7 @@ During your turn, as long as you haven&apos;t activated a favor ability this tur
 			<name>Uiki Rockslinger</name>
 			<text>Flash
 When this creature enters, create a 1/1 white Monk creature token. When you do, this creature deals X damage to target attacking creature, where X is the number of creatures you control.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/288.png" num="32">KLB</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/288.png" num="31">KLB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

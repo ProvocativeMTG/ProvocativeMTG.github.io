@@ -1,11 +1,11 @@
 ﻿[
     {
-        "card_name": "Return on Waves of Gold",
-        "number": 22,
+        "card_name": "Tzuhan, the Last Heir",
+        "number": 30,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
-        "position": "193"
+        "position": "235"
     },
     {
         "card_name": "God-Tree Saptender",
@@ -40,12 +40,12 @@
         "position": "8"
     },
     {
-        "card_name": "Tzuhan, the Last Heir",
-        "number": 31,
+        "card_name": "Wanderer's Echo",
+        "number": 32,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
-        "position": "235"
+        "position": "160"
     },
     {
         "card_name": "Shigane Fatereader",
@@ -80,12 +80,12 @@
         "position": "73"
     },
     {
-        "card_name": "Wanderer's Echo",
-        "number": 33,
+        "card_name": "Waves of Gold",
+        "number": 34,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
-        "position": "160"
+        "position": "193"
     },
     {
         "card_name": "Warnings Unheeded",
@@ -321,7 +321,7 @@
     },
     {
         "card_name": "Shigane Manor Stands Tall",
-        "number": 25,
+        "number": 24,
         "shape": "saga",
         "set": "KLB",
         "rotated": false,
@@ -361,7 +361,7 @@
     },
     {
         "card_name": "Studies in Spirits and Steel",
-        "number": 27,
+        "number": 26,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -641,7 +641,7 @@
     },
     {
         "card_name": "Seishin Binding",
-        "number": 24,
+        "number": 23,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -681,7 +681,7 @@
     },
     {
         "card_name": "Simian Exemplar",
-        "number": 26,
+        "number": 25,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -721,7 +721,7 @@
     },
     {
         "card_name": "Sunsong Player",
-        "number": 28,
+        "number": 27,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -761,7 +761,7 @@
     },
     {
         "card_name": "Tsuru, the Tattooist",
-        "number": 30,
+        "number": 29,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -801,7 +801,7 @@
     },
     {
         "card_name": "Uiki Rockslinger",
-        "number": 32,
+        "number": 31,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -1201,7 +1201,7 @@
     },
     {
         "card_name": "Sail the Spirit Realms",
-        "number": 23,
+        "number": 22,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -1241,7 +1241,7 @@
     },
     {
         "card_name": "Tea-Haze Wisp",
-        "number": 29,
+        "number": 28,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -1281,7 +1281,7 @@
     },
     {
         "card_name": "Warlord's Capture",
-        "number": 34,
+        "number": 33,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,

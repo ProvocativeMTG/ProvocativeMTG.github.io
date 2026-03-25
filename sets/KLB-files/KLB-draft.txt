@@ -35,7 +35,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Saga",
-			"collector_number": "25",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/3.png"
 			}
@@ -515,7 +515,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment",
-			"collector_number": "24",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/51.png"
 			}
@@ -745,7 +745,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
-			"collector_number": "27",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/74.png"
 			}
@@ -855,7 +855,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
-			"collector_number": "34",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/85.png"
 			}
@@ -1235,7 +1235,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Monkey Samurai",
-			"collector_number": "26",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/123.png"
 			}
@@ -1605,7 +1605,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Human Samurai",
-			"collector_number": "33",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/160.png"
 			}
@@ -1665,7 +1665,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}{W}",
 			"type": "Creature — Fox Plant",
-			"collector_number": "29",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/166.png"
 			}
@@ -1685,7 +1685,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "23",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/168.png"
 			}
@@ -1931,11 +1931,11 @@
 			}
 		},
 		{
-			"name": "Return on Waves of Gold",
+			"name": "Waves of Gold",
 			"rarity": "mythic",
 			"mana_cost": "{X}{W}",
 			"type": "Sorcery",
-			"collector_number": "22",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/193.png"
 			}
@@ -2135,7 +2135,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Monk",
-			"collector_number": "28",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/213.png"
 			}
@@ -2145,7 +2145,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Human Performer",
-			"collector_number": "30",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/214.png"
 			}
@@ -2355,7 +2355,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "31",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/235.png"
 			}
@@ -2885,7 +2885,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{W}",
 			"type": "Creature — Human Monk",
-			"collector_number": "32",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/288.png"
 			}
@@ -3282,7 +3282,7 @@
 	2 Astral Projection
 	2 Dragonbone Sculptor
 	2 Honored Master-at-Arms
-	1 Return on Waves of Gold
+	1 Waves of Gold
 	2 Murmuring Monument
 	2 Oni Daimyo
 	2 Path of Flame
@@ -3806,7 +3806,7 @@
 	6 Runic Mercenary
 	12 Preening Peacock
 	12 Poisoned Edge
-	1 Return on Waves of Gold
+	1 Waves of Gold
 	12 Sentinel of Binding
 	12 Walking Pagoda
 	12 Broken Vow
@@ -4102,7 +4102,7 @@
 	15 Runic Mercenary
 	6 Preening Peacock
 	6 Poisoned Edge
-	4 Return on Waves of Gold
+	4 Waves of Gold
 	6 Sentinel of Binding
 	6 Walking Pagoda
 	6 Broken Vow

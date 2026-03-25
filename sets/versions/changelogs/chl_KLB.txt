@@ -1,4 +1,12 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Waves of Gold added.
+
+Return on Waves of Gold removed.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 No changes.

@@ -1,4 +1,440 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+Tsubasa, Curseridden removed.
+Ugin, Ghostflame Scholar removed.
+The Last Bloom removed.
+Oni-Engine Acolyte removed.
+
+Kimja Charm
+
+Uiki Charm
+
+Kage, Soul Clad in Steel
+
+Majestic Phoenix
+
+Ambush Seishin
+
+Thundercall
+
+Cleaving Cut
+
+Haruki, Ofuda Duelist
+
+Bloodstained Ruiners
+
+Still the Surface
+
+Ancestral Guidance
+
+Stand Alone
+
+Ripple in the Waters
+
+Woven Amigasa
+
+Emperor's Seal
+
+Tales of Ages Past
+
+Simian Exemplar
+
+Majestic Duo
+
+Oath Sworn in Blood
+
+Jadescale Viper
+
+Young Qilin
+
+Stonecarved Protector
+
+The Last Bloom
+
+Ugin's Command
+
+Giant Mossy Frog
+
+Aonuma and Koraja
+
+Internal Crisis
+
+Bloom in Blood
+
+Koto's Anthem
+
+Noble Dragonguard
+
+Ukina, Hyomon's Legacy
+
+Eager Pupil
+
+Three-Headed Heron
+
+Avatar of the Skies
+
+Guardian of Tsuge
+
+Welkin Summoning
+
+Dappled Predator
+
+Adrift in the Wake
+
+Scion of Ikurimoko
+
+Scion of Yingjun
+
+Scion of Keuya
+
+Scion of Gereishin
+
+Scion of Aoushun
+
+Sunkissed Kirin
+
+Old Demonlord
+
+Immortal Flames
+
+Corrupting Urge
+
+Fan the Flames
+
+Upstart Soulseer
+
+Exalted Wanderer
+
+Natori Cannoneer
+
+Natori Realmwalker
+
+Flowing Duelist
+
+Wanderer's Echo
+
+Guardian Kinscale
+
+Bearer of the Cresset
+
+Yuuto, Son of Toyotomi
+
+Astral Projection
+
+Black Lotus
+
+Tea-Haze Wisp
+
+Dragonblessed Stormcaller
+
+Sail the Spirit Realms
+
+Shrine Communion
+
+Dragonbone Sculptor
+
+Allure of the Kitsune
+
+Minori, the Puppeteer
+
+Graceful Spinstress
+
+Walk Two Paths
+
+Fatherly Mentor
+
+Honored Master-at-Arms
+
+Ruined Champion
+
+Kage's Reaver
+
+Bedevil
+
+Mow Down
+
+Witch's Branchblade
+
+Segmented Seishin
+
+Looming Firehulk
+
+Lady of Yokinza
+
+Honorbound Undead
+
+Shigane Branchdancer
+
+Measured Assault
+
+Brave Martyr
+
+Deep Sea Shinobi
+
+Runic Mercenary
+
+Preening Peacock
+
+Poisoned Edge
+
+Return on Waves of Gold
+
+Sentinel of Binding
+
+Walking Pagoda
+
+Broken Vow
+
+Construct
+
+Engraved Fanblade
+
+Enduring Memory
+
+Murmuring Monument
+
+Run-Down Shrine
+
+Manifest
+
+Young Trainee
+
+Spirit Realm Trawler
+
+Realm Devouring
+
+Backline Deadeye
+
+Ritual of Returning
+
+Immortal Warlord
+
+Macabre Collector
+
+Condemned Souleater
+
+Lotus Petal
+
+Horizon Chaser
+
+Sunsong Player
+
+Tsuru, the Tattooist
+
+Oni Daimyo
+
+Path of Flame
+
+Stillness and Motion
+
+Dragoncaller Immortal
+
+Kazuko, Lord of Chaos
+
+Reo, First Gunblade
+
+Ayeshi's Lament
+
+Colossal Seishin
+
+Runewrapped Onryo
+
+Faceless Hunter
+
+Cursed Plate
+
+Haughty Oblate
+
+Honored Commander
+
+Koshin, the Kin-Killer
+
+Gates Ablaze
+
+Grim Bruiser
+
+Gereishin, Last of His Kin
+
+Amagaseto, Alone No More
+
+Lion Dancer
+
+Hatazo, Shiny Finder
+
+Tzuhan, the Last Heir
+
+Nimomae, the Origamist
+
+The Multiverse Awaits
+
+Mercenary's Blade
+
+Zaiku o Toge
+
+Bind in Jade
+
+Riyoto, the First Immortal
+
+God-Tree Saptender
+
+Scrollbound Beast
+
+Splintering Raiju
+
+Minenohana, Blossom's Cradle
+
+Minenohana, Blossom's Cradle
+
+Minenohana, Blossom's Cradle
+
+Minenohana, Blossom's Cradle
+
+Fractal Realmway
+
+Escape the Demon Realm
+
+Celebration of Peace
+
+Kitsune Gate
+
+Monolith Gate
+
+Accursed Gate
+
+Hewn Gate
+
+Lotus Pools
+
+Oni-Engine Forge
+
+Dragonmaw Gate
+
+Turncoat Ruiner
+
+Runecut Ronin
+
+Kei, Who Still Stands
+
+Shigane Diviner
+
+Aquatic Ambusher
+
+Warnings Unheeded
+
+Spiralhorn Winder
+
+Hirohito, Guiding Blossom
+
+Dreamwalk
+
+Harmonious Monks
+
+Rushing Blood
+
+March to War
+
+Furious Confrontation
+
+Cloud Dance
+
+Jiro, the Flutist
+
+Benevolent Serpent
+
+Kitsune's Allure
+
+Soaring Trackers
+
+Corrupted Wanderer
+
+Esouled Yoroi
+
+Regal Mount
+
+Legions Upon Legions
+
+Kitsune Maiden
+
+Coiling Abyss's Blessing
+
+Burning-Blood Toad
+
+Shadow-Haunted Captain
+
+Yokinzan Formshifter
+
+Uiki Rockslinger
+
+Chaffcutter Shinobi
+
+Animated Lantern-Guide
+
+Omen Strix
+
+Condemned Huntress
+
+Fleetfooted Messenger
+
+Destiny of Ash and Flame
+
+Tiger Koi
+
+Kinscale Harrier
+
+Warden of Kaibyo
+
+Golden Horned Serpent
+
+Jade Komainu
+
+Sea of Light
+
+Relic Seeker
+
+Resourceful Adversary
+
+March for the Demonlord
+
+Dragon Grandam
+
+Kaibyo Ensorceller
+
+Curse of the Barren
+
+Kimja Blaster
+
+Clue
+
+Bird
+
+Ninja
+
+Demon
+
+Monk
+
+Dragon
+
+Spirit Beast
+
+Shade
+
+Snake
+
+Ofuda
+
+Bird Construct
+
+Lotus Cobra
+
+Avatar
+
+Inkling Horror
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

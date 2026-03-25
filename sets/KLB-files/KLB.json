@@ -2153,7 +2153,7 @@
             "color": "WB",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 200,
+            "number": 199,
             "color_identity": "WB",
             "cost": "{W}{B}",
             "rules_text": "Choose one \u2014\n\u2022 Return target nonland permanent card with mana value 1 or less from your graveyard to the battlefield.\n\u2022 Each opponent sacrifices a creature.\n\u2022 Each opponent loses 4 life.",
@@ -2695,8 +2695,8 @@
             "type": "Instant",
             "number": 177,
             "color_identity": "BR",
-            "cost": "{2}{B}{R}",
-            "rules_text": "You may pay {B}{R} rather than pay this spell's mana cost.\nDestroy target creature or planeswalker. If the {B}{R} cost was paid, its controller creates a colorless Lotus Petal token. Otherwise, you create that token. [i](It's a {0} artifact with \u201c{T}, Sacrifice Lotus Petal: Add one mana of any color.\u201d)[/i]",
+            "cost": "{B}{R}",
+            "rules_text": "Kicker {2} [i](You may pay an additional {2} as you cast this spell.)[/i]\nDestroy target creature or planeswalker. Its controller creates a colorless Lotus Petal token. If this spell was kicked, you create that token instead. [i](It's a {0} artifact with \u201c{T}, Sacrifice Lotus Petal: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i]Ayeshi saw a blood soaked future where they ruled.[/i]",
             "pt": "",
             "special_text": "",
@@ -6209,11 +6209,11 @@
             "notes": ""
         },
         {
-            "card_name": "Kimja Blaster",
+            "card_name": "Kimja Dualblades",
             "color": "WB",
             "rarity": "rare",
             "type": "Artifact \u2014 Equipment",
-            "number": 199,
+            "number": 200,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
             "rules_text": "When this Equipment enters, if it was cast, exile target nonland permanent an opponent controls.\nIf a triggered ability of equipped creature triggers, it triggers an additional time.\nEquip {3} [i]({3}: Attach to target creature you control. Equip only as a sorcery.)[/i]",
@@ -6456,7 +6456,7 @@
             "number": 12,
             "color_identity": "G",
             "cost": "",
-            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, add one mana of any color.",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, add one mana of any color.\n[i](This token's mana cost is {1}{G}.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -6509,5 +6509,5 @@
             "notes": ""
         }
     ],
-    "version": 2
+    "version": 3
 }

@@ -2018,8 +2018,8 @@
         "position": "18"
     },
     {
-        "card_name": "Kimja Blaster",
-        "number": 199,
+        "card_name": "Kimja Dualblades",
+        "number": 200,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -2169,7 +2169,7 @@
     },
     {
         "card_name": "Kimja Charm",
-        "number": 200,
+        "number": 199,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,

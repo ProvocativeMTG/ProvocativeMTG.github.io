@@ -1,4 +1,22 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Kimja Dualblades added.
+
+Kimja Blaster removed.
+
+Bloom in Blood
+cost: {2}{B}{R} => {B}{R}
+rules_text: You may pay {B}{R} rather than pay this spell's mana cost.
+Destroy target creature or planeswalker. If the {B}{R} cost was paid, its controller creates a colorless Lotus Petal token. Otherwise, you create that token. [i](It's a {0} artifact with “{T}, Sacrifice Lotus Petal: Add one mana of any color.”)[/i] => Kicker {2} [i](You may pay an additional {2} as you cast this spell.)[/i]
+Destroy target creature or planeswalker. Its controller creates a colorless Lotus Petal token. If this spell was kicked, you create that token instead. [i](It's a {0} artifact with “{T}, Sacrifice Lotus Petal: Add one mana of any color.”)[/i]
+
+Lotus Cobra
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, add one mana of any color. => [i]Landfall[/i] — Whenever a land you control enters, add one mana of any color.
+[i](This token's mana cost is {1}{G}.)[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

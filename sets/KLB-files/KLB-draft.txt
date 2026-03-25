@@ -1075,7 +1075,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Instant",
-			"collector_number": "200",
+			"collector_number": "199",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/107.png"
 			}
@@ -1343,7 +1343,7 @@
 		{
 			"name": "Bloom in Blood",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{B}{R}",
+			"mana_cost": "{B}{R}",
 			"type": "Instant",
 			"collector_number": "177",
 			"image_uris": {
@@ -3101,11 +3101,11 @@
 			}
 		},
 		{
-			"name": "Kimja Blaster",
+			"name": "Kimja Dualblades",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "199",
+			"collector_number": "200",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/310.png"
 			}
@@ -3363,7 +3363,7 @@
 	2 Dragon Grandam
 	2 Kaibyo Ensorceller
 	1 Curse of the Barren
-	2 Kimja Blaster
+	2 Kimja Dualblades
 [uncommon(3)]
 	4 Aoki, Kinscale Champion
 	4 Seishin Charm
@@ -3948,7 +3948,7 @@
 	2 Dragon Grandam
 	2 Kaibyo Ensorceller
 	1 Curse of the Barren
-	2 Kimja Blaster
+	2 Kimja Dualblades
 [wildcard(1)]
 	7 Lotus Dragon Turtle
 	4 Dragonsoul Combatant
@@ -4247,4 +4247,4 @@
 	7 Dragon Grandam
 	7 Kaibyo Ensorceller
 	4 Curse of the Barren
-	7 Kimja Blaster
+	7 Kimja Dualblades

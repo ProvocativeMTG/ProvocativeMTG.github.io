@@ -1932,7 +1932,7 @@ Destroy target creature or planeswalker. If there are four or more card types am
 • Return target nonland permanent card with mana value 1 or less from your graveyard to the battlefield.
 • Each opponent sacrifices a creature.
 • Each opponent loses 4 life.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/107.png" num="200">KLB</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/107.png" num="199">KLB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2397,16 +2397,16 @@ Draw two cards. Internal Crisis deals 2 damage to each opponent.</text>
 		</card>
 		<card>
 			<name>Bloom in Blood</name>
-			<text>You may pay {B}{R} rather than pay this spell&apos;s mana cost.
-Destroy target creature or planeswalker. If the {B}{R} cost was paid, its controller creates a colorless Lotus Petal token. Otherwise, you create that token. (It&apos;s a {0} artifact with &quot;{T}, Sacrifice Lotus Petal: Add one mana of any color.&quot;)</text>
+			<text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Destroy target creature or planeswalker. Its controller creates a colorless Lotus Petal token. If this spell was kicked, you create that token instead. (It&apos;s a {0} artifact with &quot;{T}, Sacrifice Lotus Petal: Add one mana of any color.&quot;)</text>
 			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/134.png" num="177">KLB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>2BR</manacost>
-				<cmc>4</cmc>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
 			</prop>
@@ -5475,11 +5475,11 @@ If enchanted player would create one or more tokens, instead they create a 1/1 b
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Kimja Blaster</name>
+			<name>Kimja Dualblades</name>
 			<text>When this Equipment enters, if it was cast, exile target nonland permanent an opponent controls.
 If a triggered ability of equipped creature triggers, it triggers an additional time.
 Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/310.png" num="199">KLB</set>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/310.png" num="200">KLB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5683,7 +5683,8 @@ Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
 		</card>
 		<card>
 			<name>Lotus Cobra KLB</name>
-			<text>Landfall — Whenever a land you control enters, add one mana of any color.</text>
+			<text>Landfall — Whenever a land you control enters, add one mana of any color.
+(This token&apos;s mana cost is {1}{G}.)</text>
 			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/322.png" num="12">KLB</set>
 			<prop>
 				<layout>normal</layout>

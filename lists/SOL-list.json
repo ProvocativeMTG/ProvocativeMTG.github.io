@@ -1,46 +1,11 @@
 ﻿[
     {
-        "card_name": "Doom Monarch",
-        "number": 0,
-        "shape": "normal",
-        "set": "SOL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
         "card_name": "Death's Undoing",
         "number": 11,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "16"
     },
     {
         "card_name": "All are Slave to Time",
@@ -48,7 +13,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "46"
     },
     {
         "card_name": "Odeon, Goldmask Rogue",
@@ -56,7 +21,7 @@
         "shape": "transform double faced",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "54"
     },
     {
         "card_name": "Calamity Tyrant",
@@ -64,7 +29,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "55"
     },
     {
         "card_name": "Bismuth Guardian",
@@ -72,7 +37,7 @@
         "shape": "transform double faced",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "129"
     },
     {
         "card_name": "Starsent Angel",
@@ -80,7 +45,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "248"
     },
     {
         "card_name": "Josiah, Bitter Survivor",
@@ -88,7 +53,7 @@
         "shape": "transform double faced",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "0"
     },
     {
         "card_name": "Scion of Heaven and Hell",
@@ -96,7 +61,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "1"
     },
     {
         "card_name": "Paladin of Fury",
@@ -104,7 +69,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "52"
     },
     {
         "card_name": "Herald of an Age of Iron",
@@ -112,7 +77,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "48"
     },
     {
         "card_name": "Aureate Partizan",
@@ -120,7 +85,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "203"
     },
     {
         "card_name": "Nexus Serasphinx",
@@ -128,7 +93,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "244"
     },
     {
         "card_name": "Aos, Augur of Damnations",
@@ -136,7 +101,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "29"
     },
     {
         "card_name": "Auctor of the Testament",
@@ -144,7 +109,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "68"
     },
     {
         "card_name": "Lotus Tender",
@@ -152,7 +117,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "224"
     },
     {
         "card_name": "Clarion Paladin",
@@ -160,7 +125,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "51"
     },
     {
         "card_name": "Breaker of Reality",
@@ -168,7 +133,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "32"
     },
     {
         "card_name": "At Any Cost",
@@ -176,7 +141,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "9"
     },
     {
         "card_name": "Boiling Fury",
@@ -184,7 +149,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "139"
     },
     {
         "card_name": "Fascimile of Gods",
@@ -192,7 +157,7 @@
         "shape": "transform double faced",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "41"
     },
     {
         "card_name": "Dust to Flesh to Dust",
@@ -200,7 +165,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "7"
     },
     {
         "card_name": "Day of Calamity",
@@ -208,7 +173,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "229"
     },
     {
         "card_name": "Cleave the Soul",
@@ -216,15 +181,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "75"
     },
     {
-        "card_name": "Flame-Scarred Abomination",
-        "number": 138,
+        "card_name": "Doom Monarch",
+        "number": 134,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "246"
     },
     {
         "card_name": "Ironclad Necromancers",
@@ -232,7 +197,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "33"
     },
     {
         "card_name": "Grit",
@@ -240,7 +205,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "30"
     },
     {
         "card_name": "Eluriel, Final Evolution",
@@ -248,7 +213,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "198"
     },
     {
         "card_name": "Confounding Cambion",
@@ -256,15 +221,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "221"
     },
     {
-        "card_name": "Hell's Chorus",
-        "number": 140,
+        "card_name": "Flame-Scarred Abomination",
+        "number": 138,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "22"
     },
     {
         "card_name": "Protean Scion",
@@ -272,7 +237,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "79"
     },
     {
         "card_name": "Ijara, the Last Teluran",
@@ -280,7 +245,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "37"
     },
     {
         "card_name": "Fell Demiurge",
@@ -288,7 +253,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "220"
     },
     {
         "card_name": "Josiah's Betrayal",
@@ -296,15 +261,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "47"
     },
     {
-        "card_name": "Scarlet Liturgy",
-        "number": 149,
+        "card_name": "Hell's Chorus",
+        "number": 140,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "78"
     },
     {
         "card_name": "Reygias, Lord Phytolich",
@@ -312,7 +277,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "19"
     },
     {
         "card_name": "Ironblessed Inquisitor",
@@ -320,7 +285,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "45"
     },
     {
         "card_name": "Grinning Serpent",
@@ -328,7 +293,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "84"
     },
     {
         "card_name": "Stitched Pontiff",
@@ -336,15 +301,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "150"
     },
     {
-        "card_name": "Scourge Taskmaster",
-        "number": 150,
+        "card_name": "Scarlet Liturgy",
+        "number": 149,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "247"
     },
     {
         "card_name": "Ripples of Rebirth",
@@ -352,7 +317,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "13"
     },
     {
         "card_name": "Page of Gold",
@@ -360,7 +325,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "199"
     },
     {
         "card_name": "Overmorrow's Architect",
@@ -368,7 +333,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "86"
     },
     {
         "card_name": "They Shall Know Perdition",
@@ -376,15 +341,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "26"
     },
     {
-        "card_name": "Verox, the Forgelord",
-        "number": 155,
+        "card_name": "Scourge Taskmaster",
+        "number": 150,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "10"
     },
     {
         "card_name": "Stonesprung Spirit",
@@ -392,7 +357,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "14"
     },
     {
         "card_name": "Staunch Purifier",
@@ -400,7 +365,7 @@
         "shape": "transform double faced",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "11"
     },
     {
         "card_name": "Soulbound Chassis",
@@ -408,7 +373,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "76"
     },
     {
         "card_name": "Whisperer of Sweetest Lies",
@@ -416,15 +381,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "21"
     },
     {
-        "card_name": "Augmented Dragon",
-        "number": 121,
+        "card_name": "Verox, the Forgelord",
+        "number": 155,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "238"
     },
     {
         "card_name": "Sylvua's Wyldbeast",
@@ -432,7 +397,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "222"
     },
     {
         "card_name": "Arbiter of Purity",
@@ -440,7 +405,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "69"
     },
     {
         "card_name": "Twisting Steel",
@@ -448,7 +413,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "90"
     },
     {
         "card_name": "Blighted Binding",
@@ -456,15 +421,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "230"
     },
     {
-        "card_name": "Birth from Blood",
-        "number": 122,
+        "card_name": "Augmented Dragon",
+        "number": 121,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "195"
     },
     {
         "card_name": "Virulent Husk",
@@ -472,7 +437,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "155"
     },
     {
         "card_name": "Ashen Lichlord",
@@ -480,7 +445,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "207"
     },
     {
         "card_name": "Bismuth Archdeacon",
@@ -488,7 +453,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "193"
     },
     {
         "card_name": "Eclipse Paladin",
@@ -496,15 +461,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "15"
     },
     {
-        "card_name": "Blightchoke Exarch",
-        "number": 124,
+        "card_name": "Birth from Blood",
+        "number": 122,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "216"
     },
     {
         "card_name": "Bog Ghoul",
@@ -512,7 +477,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "235"
     },
     {
         "card_name": "Bismuth Cube",
@@ -520,7 +485,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "194"
     },
     {
         "card_name": "Disdainful Stroke",
@@ -528,7 +493,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "140"
     },
     {
         "card_name": "Feed On the Crimson Sun",
@@ -536,15 +501,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "234"
     },
     {
-        "card_name": "Blood-Cursed Diabolist",
-        "number": 125,
+        "card_name": "Blightchoke Exarch",
+        "number": 124,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "83"
     },
     {
         "card_name": "Clockwork Arachnid",
@@ -552,7 +517,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "137"
     },
     {
         "card_name": "Celestial Mandate",
@@ -560,7 +525,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "206"
     },
     {
         "card_name": "Dracolich's Mastery",
@@ -568,7 +533,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "213"
     },
     {
         "card_name": "Forsaken Chalkmason",
@@ -576,15 +541,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "197"
     },
     {
-        "card_name": "Braintree Divination",
-        "number": 127,
+        "card_name": "Blood-Cursed Diabolist",
+        "number": 125,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "125"
     },
     {
         "card_name": "Coaxer of the Cycle",
@@ -592,7 +557,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "66"
     },
     {
         "card_name": "Dawn's Herald",
@@ -600,7 +565,7 @@
         "shape": "transform double faced",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "74"
     },
     {
         "card_name": "Generated Voidling",
@@ -608,7 +573,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "219"
     },
     {
         "card_name": "Go to Hell",
@@ -616,15 +581,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "58"
     },
     {
-        "card_name": "Burning Eyebeam",
-        "number": 128,
+        "card_name": "Braintree Divination",
+        "number": 127,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "242"
     },
     {
         "card_name": "Ensouled Stones",
@@ -632,7 +597,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "237"
     },
     {
         "card_name": "Encased in Gold",
@@ -640,7 +605,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "201"
     },
     {
         "card_name": "Influence the Scales",
@@ -648,7 +613,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "225"
     },
     {
         "card_name": "Icon of the Blessed Horde",
@@ -656,15 +621,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "202"
     },
     {
-        "card_name": "Descent into Chaos",
-        "number": 132,
+        "card_name": "Burning Eyebeam",
+        "number": 128,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "190"
     },
     {
         "card_name": "Lady of the Lilies",
@@ -672,7 +637,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "236"
     },
     {
         "card_name": "Glorious Protoseraph",
@@ -680,7 +645,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "191"
     },
     {
         "card_name": "Messengers of the Void",
@@ -688,7 +653,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "214"
     },
     {
         "card_name": "Jailer's Ire",
@@ -696,15 +661,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "232"
     },
     {
-        "card_name": "Engines of Hell",
-        "number": 136,
+        "card_name": "Descent into Chaos",
+        "number": 132,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "243"
     },
     {
         "card_name": "March Against Fate",
@@ -712,7 +677,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "192"
     },
     {
         "card_name": "Living Littany",
@@ -720,7 +685,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "211"
     },
     {
         "card_name": "One Man Army",
@@ -728,7 +693,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "227"
     },
     {
         "card_name": "Kael-dun Inquisitor",
@@ -736,15 +701,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "23"
     },
     {
-        "card_name": "Gateway Protector",
-        "number": 139,
+        "card_name": "Engines of Hell",
+        "number": 136,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "215"
     },
     {
         "card_name": "Natural Artifice",
@@ -752,7 +717,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "231"
     },
     {
         "card_name": "Sacred Sacrament",
@@ -760,7 +725,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "209"
     },
     {
         "card_name": "Oracle of the Extan",
@@ -768,7 +733,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "196"
     },
     {
         "card_name": "Leonin Shadowcaster",
@@ -776,15 +741,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "82"
     },
     {
-        "card_name": "Implement of Thuraxes",
-        "number": 141,
+        "card_name": "Gateway Protector",
+        "number": 139,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "240"
     },
     {
         "card_name": "Persistent Contagion",
@@ -792,7 +757,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "3"
     },
     {
         "card_name": "Scion of Blossoms",
@@ -800,7 +765,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "210"
     },
     {
         "card_name": "Runic Lockdown",
@@ -808,7 +773,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "212"
     },
     {
         "card_name": "Lotus Cultivator",
@@ -816,15 +781,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "138"
     },
     {
-        "card_name": "Infernal Torturer",
-        "number": 142,
+        "card_name": "Implement of Thuraxes",
+        "number": 141,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "245"
     },
     {
         "card_name": "Petalwisp Whisperer",
@@ -832,7 +797,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "38"
     },
     {
         "card_name": "Soulchained Remnant",
@@ -840,7 +805,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "208"
     },
     {
         "card_name": "Starsent Speaker",
@@ -848,7 +813,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "218"
     },
     {
         "card_name": "Osteogenesis",
@@ -856,15 +821,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "233"
     },
     {
-        "card_name": "Mad Tormentor",
-        "number": 144,
+        "card_name": "Infernal Torturer",
+        "number": 142,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "61"
     },
     {
         "card_name": "Putrescent Branchstalker",
@@ -872,7 +837,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "57"
     },
     {
         "card_name": "Sphere of Isolation",
@@ -880,7 +845,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "27"
     },
     {
         "card_name": "Surgeblade Duelist",
@@ -888,7 +853,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "72"
     },
     {
         "card_name": "Sanguis Sanctorum",
@@ -896,15 +861,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "18"
     },
     {
-        "card_name": "Portents of Blood",
-        "number": 147,
+        "card_name": "Mad Tormentor",
+        "number": 144,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "217"
     },
     {
         "card_name": "Rotten Communion",
@@ -912,7 +877,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "131"
     },
     {
         "card_name": "Suncrowned Lion",
@@ -920,7 +885,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "204"
     },
     {
         "card_name": "Touch of God",
@@ -928,7 +893,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "12"
     },
     {
         "card_name": "Shadowbane Paladin",
@@ -936,15 +901,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "5"
     },
     {
-        "card_name": "Smoldering Tormentor",
-        "number": 152,
+        "card_name": "Portents of Blood",
+        "number": 147,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "239"
     },
     {
         "card_name": "Shepherding the Rot",
@@ -952,7 +917,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "241"
     },
     {
         "card_name": "Wyldwood Sanctifier",
@@ -960,7 +925,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "205"
     },
     {
         "card_name": "Undeath's Domination",
@@ -968,7 +933,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "223"
     },
     {
         "card_name": "Thorn Dragoon",
@@ -976,15 +941,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "226"
     },
     {
-        "card_name": "Ancient Transmutation",
-        "number": 119,
+        "card_name": "Smoldering Tormentor",
+        "number": 152,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "77"
     },
     {
         "card_name": "Ward of the Skies",
@@ -992,7 +957,7 @@
         "shape": "transform double faced",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "71"
     },
     {
         "card_name": "Banishing Thrust",
@@ -1000,7 +965,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "163"
     },
     {
         "card_name": "Voidbound Lightstealer",
@@ -1008,7 +973,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "228"
     },
     {
         "card_name": "Belltower Haunt",
@@ -1016,15 +981,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "149"
     },
     {
-        "card_name": "Biting Pain",
-        "number": 123,
+        "card_name": "Ancient Transmutation",
+        "number": 119,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "28"
     },
     {
         "card_name": "Wyldwood Ceremony",
@@ -1032,7 +997,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "44"
     },
     {
         "card_name": "By Heaven's Decree",
@@ -1040,7 +1005,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "161"
     },
     {
         "card_name": "Among the Lily Pads",
@@ -1048,7 +1013,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "173"
     },
     {
         "card_name": "Choking Grief",
@@ -1056,15 +1021,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "143"
     },
     {
-        "card_name": "Cleave the Blood of Gods",
-        "number": 130,
+        "card_name": "Biting Pain",
+        "number": 123,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "181"
     },
     {
         "card_name": "Ambling Ruins",
@@ -1072,7 +1037,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "117"
     },
     {
         "card_name": "Champion of Relos",
@@ -1080,7 +1045,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "166"
     },
     {
         "card_name": "Blessed Feathers",
@@ -1088,7 +1053,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "170"
     },
     {
         "card_name": "Drown in Fear",
@@ -1096,15 +1061,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "107"
     },
     {
-        "card_name": "Cruel Heartstealer",
-        "number": 131,
+        "card_name": "Cleave the Blood of Gods",
+        "number": 130,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "179"
     },
     {
         "card_name": "Cloak of Miasma",
@@ -1112,7 +1077,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "153"
     },
     {
         "card_name": "Devotion Rewarded",
@@ -1120,7 +1085,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "162"
     },
     {
         "card_name": "Call Beyond",
@@ -1128,7 +1093,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "174"
     },
     {
         "card_name": "Exalted Persecutor",
@@ -1136,15 +1101,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "73"
     },
     {
-        "card_name": "Devour Tender Flesh",
-        "number": 133,
+        "card_name": "Cruel Heartstealer",
+        "number": 131,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "180"
     },
     {
         "card_name": "Cobbled Equine",
@@ -1152,7 +1117,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "80"
     },
     {
         "card_name": "Heaventouched Sentinel",
@@ -1160,7 +1125,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "103"
     },
     {
         "card_name": "Elbrine Thundercaller",
@@ -1168,7 +1133,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "108"
     },
     {
         "card_name": "Execute for Blasphemy",
@@ -1176,15 +1141,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "49"
     },
     {
-        "card_name": "Enclave Piercer",
-        "number": 135,
+        "card_name": "Devour Tender Flesh",
+        "number": 133,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "118"
     },
     {
         "card_name": "Everwatching Widow",
@@ -1192,7 +1157,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "105"
     },
     {
         "card_name": "Herald of the Clarion",
@@ -1200,7 +1165,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "164"
     },
     {
         "card_name": "Extan Runeweaving",
@@ -1208,7 +1173,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "144"
     },
     {
         "card_name": "Forlorn Knight",
@@ -1216,15 +1181,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "104"
     },
     {
-        "card_name": "Extan Knight-Errant",
-        "number": 137,
+        "card_name": "Enclave Piercer",
+        "number": 135,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "109"
     },
     {
         "card_name": "Feverbite Winder",
@@ -1232,7 +1197,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "110"
     },
     {
         "card_name": "Lightborn Apostle",
@@ -1240,7 +1205,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "120"
     },
     {
         "card_name": "Extan Steelshifter",
@@ -1248,7 +1213,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "134"
     },
     {
         "card_name": "Grotesque Abomination",
@@ -1256,15 +1221,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "119"
     },
     {
-        "card_name": "Legate Sparkweaver",
-        "number": 143,
+        "card_name": "Extan Knight-Errant",
+        "number": 137,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "186"
     },
     {
         "card_name": "Heart of the Wyldwood",
@@ -1272,7 +1237,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "111"
     },
     {
         "card_name": "Noble Steed",
@@ -1280,7 +1245,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "165"
     },
     {
         "card_name": "Gaze Inward",
@@ -1288,7 +1253,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "171"
     },
     {
         "card_name": "Knight of the Thorn",
@@ -1296,15 +1261,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "142"
     },
     {
-        "card_name": "Molten Bloodhunter",
-        "number": 145,
+        "card_name": "Legate Sparkweaver",
+        "number": 143,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "64"
     },
     {
         "card_name": "Life and Death",
@@ -1312,7 +1277,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "154"
     },
     {
         "card_name": "Paladin of Sacred Testament",
@@ -1320,7 +1285,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "167"
     },
     {
         "card_name": "Glint-Edge Knight",
@@ -1328,7 +1293,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "65"
     },
     {
         "card_name": "Lifeblood Imitation",
@@ -1336,15 +1301,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "146"
     },
     {
-        "card_name": "Rock Scorpion",
-        "number": 148,
+        "card_name": "Molten Bloodhunter",
+        "number": 145,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "182"
     },
     {
         "card_name": "Misshapen Buck",
@@ -1352,7 +1317,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "112"
     },
     {
         "card_name": "Prophet of Rheydia",
@@ -1360,7 +1325,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "169"
     },
     {
         "card_name": "Josiah's Bulwark",
@@ -1368,7 +1333,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "176"
     },
     {
         "card_name": "Pull of Heaven",
@@ -1376,15 +1341,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "145"
     },
     {
-        "card_name": "Skull Summoner",
-        "number": 151,
+        "card_name": "Rock Scorpion",
+        "number": 148,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "122"
     },
     {
         "card_name": "Nascent Lich",
@@ -1392,7 +1357,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "157"
     },
     {
         "card_name": "Seeker of Atonement",
@@ -1400,7 +1365,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "17"
     },
     {
         "card_name": "Marble Arbiter",
@@ -1408,7 +1373,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "85"
     },
     {
         "card_name": "Shackled Phantom",
@@ -1416,15 +1381,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "67"
     },
     {
-        "card_name": "Thunderous Corruscation",
-        "number": 153,
+        "card_name": "Skull Summoner",
+        "number": 151,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "183"
     },
     {
         "card_name": "Phytolich's Research",
@@ -1432,7 +1397,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "106"
     },
     {
         "card_name": "Sentence to the Gaol",
@@ -1440,7 +1405,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "123"
     },
     {
         "card_name": "Plated Leviathan",
@@ -1448,7 +1413,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "115"
     },
     {
         "card_name": "Shadowborn Apostle",
@@ -1456,15 +1421,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "2"
     },
     {
-        "card_name": "To Stone and Ash",
-        "number": 154,
+        "card_name": "Thunderous Corruscation",
+        "number": 153,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "70"
     },
     {
         "card_name": "See Worlds Beyond",
@@ -1472,7 +1437,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "151"
     },
     {
         "card_name": "Startouched Wayfarer",
@@ -1480,7 +1445,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "135"
     },
     {
         "card_name": "Ritual of Negation",
@@ -1488,7 +1453,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "114"
     },
     {
         "card_name": "Spindlewail",
@@ -1496,15 +1461,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "148"
     },
     {
-        "card_name": "Voidhungry Avatar",
-        "number": 156,
+        "card_name": "To Stone and Ash",
+        "number": 154,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "178"
     },
     {
         "card_name": "Sprouting Sentinel",
@@ -1512,7 +1477,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "156"
     },
     {
         "card_name": "Steelwrought Sunblade",
@@ -1520,7 +1485,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "168"
     },
     {
         "card_name": "Seraph of Storms",
@@ -1528,7 +1493,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "175"
     },
     {
         "card_name": "Unnatural Hunger",
@@ -1536,15 +1501,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "147"
     },
     {
-        "card_name": "Whisperer of Pale Boons",
-        "number": 157,
+        "card_name": "Voidhungry Avatar",
+        "number": 156,
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "187"
     },
     {
         "card_name": "Stump Brute",
@@ -1552,7 +1517,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "158"
     },
     {
         "card_name": "Unleashed Guardian",
@@ -1560,7 +1525,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "160"
     },
     {
         "card_name": "Silver Suitor",
@@ -1568,7 +1533,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "159"
     },
     {
         "card_name": "Wyldwood Dryad",
@@ -1576,10 +1541,15 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "39"
     },
     {
-        "card_name": "e"
+        "card_name": "Whisperer of Pale Boons",
+        "number": 157,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "126"
     },
     {
         "card_name": "Swelling Growth",
@@ -1587,7 +1557,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "152"
     },
     {
         "card_name": "e"
@@ -1598,7 +1568,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "172"
     },
     {
         "card_name": "e"
@@ -1612,7 +1582,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "113"
     },
     {
         "card_name": "er"
@@ -1633,7 +1603,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "24"
     },
     {
         "card_name": "Blighted Theologist",
@@ -1641,7 +1611,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "95"
     },
     {
         "card_name": "Emperor Thuraxes IV",
@@ -1649,7 +1619,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "40"
     },
     {
         "card_name": "Reweaver of Thuraxes",
@@ -1657,7 +1627,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "56"
     },
     {
         "card_name": "Endure Hell",
@@ -1665,7 +1635,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "250"
     },
     {
         "card_name": "Endless Tome",
@@ -1673,7 +1643,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "89"
     },
     {
         "card_name": "Choir of Doubt",
@@ -1681,7 +1651,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "97"
     },
     {
         "card_name": "Valentina, Dread Impaler",
@@ -1689,7 +1659,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "127"
     },
     {
         "card_name": "Ephiridian Tunneler",
@@ -1697,7 +1667,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "102"
     },
     {
         "card_name": "Sylvua's Reckoning",
@@ -1705,7 +1675,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "93"
     },
     {
         "card_name": "Lux Potentate",
@@ -1713,7 +1683,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "88"
     },
     {
         "card_name": "Muck Fiends",
@@ -1721,7 +1691,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "96"
     },
     {
         "card_name": "Carrion-Cutter Seraph",
@@ -1729,7 +1699,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "62"
     },
     {
         "card_name": "Field Testing",
@@ -1737,7 +1707,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "124"
     },
     {
         "card_name": "Wyldwood Guardian",
@@ -1745,7 +1715,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "94"
     },
     {
         "card_name": "e"
@@ -1759,7 +1729,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "100"
     },
     {
         "card_name": "e"
@@ -1788,7 +1758,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "35"
     },
     {
         "card_name": "Dimension Dancer",
@@ -1796,7 +1766,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "251"
     },
     {
         "card_name": "Sylvua, Wyldwood Mother",
@@ -1804,7 +1774,7 @@
         "shape": "planeswalker",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "8"
     },
     {
         "card_name": "Eira, Selfless Paladin",
@@ -1812,7 +1782,7 @@
         "shape": "planeswalker",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "31"
     },
     {
         "card_name": "Teluran Sarcophagus",
@@ -1820,7 +1790,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "60"
     },
     {
         "card_name": "Mother of Hands",
@@ -1828,7 +1798,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "4"
     },
     {
         "card_name": "Bejeweled Dragon",
@@ -1836,7 +1806,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "63"
     },
     {
         "card_name": "Artisan of Undeath",
@@ -1844,7 +1814,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "6"
     },
     {
         "card_name": "Clamber to the Light",
@@ -1852,7 +1822,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "249"
     },
     {
         "card_name": "Rusted Colossus",
@@ -1860,7 +1830,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "99"
     },
     {
         "card_name": "Flesh and Bone Yield Easily",
@@ -1868,7 +1838,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "59"
     },
     {
         "card_name": "Weave Infinity",
@@ -1876,7 +1846,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "98"
     },
     {
         "card_name": "Tiller of the Damned",
@@ -1884,7 +1854,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "101"
     },
     {
         "card_name": "Joy in Bright Chaos",
@@ -1892,7 +1862,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "128"
     },
     {
         "card_name": "Sentient Artificer",
@@ -1900,7 +1870,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "87"
     },
     {
         "card_name": "Viscera Cultist",
@@ -1908,7 +1878,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "91"
     },
     {
         "card_name": "e"
@@ -1919,7 +1889,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "53"
     },
     {
         "card_name": "Twinferno Summoner",
@@ -1927,7 +1897,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "92"
     },
     {
         "card_name": "e"
@@ -1951,7 +1921,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "116"
     },
     {
         "card_name": "Engine of Our Eden",
@@ -1959,7 +1929,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "25"
     },
     {
         "card_name": "The Memory Terminal",
@@ -1967,7 +1937,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "50"
     },
     {
         "card_name": "Cradle of Nascence",
@@ -1975,7 +1945,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "36"
     },
     {
         "card_name": "Finecraft Seraph",
@@ -1983,7 +1953,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "130"
     },
     {
         "card_name": "Radiant Sunwright",
@@ -1991,7 +1961,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "133"
     },
     {
         "card_name": "Sol Construct",
@@ -1999,7 +1969,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "81"
     },
     {
         "card_name": "Veintwinned Harp",
@@ -2007,7 +1977,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "200"
     },
     {
         "card_name": "Gilded Maiden",
@@ -2015,7 +1985,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "252"
     },
     {
         "card_name": "Glittering Gargoyle",
@@ -2023,7 +1993,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "34"
     },
     {
         "card_name": "Shepherd of Shadows",
@@ -2031,7 +2001,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "254"
     },
     {
         "card_name": "Sword of Josiah",
@@ -2039,7 +2009,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "253"
     },
     {
         "card_name": "Hellfire Ballista",
@@ -2047,7 +2017,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "43"
     },
     {
         "card_name": "Prism of Portents",
@@ -2055,7 +2025,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "121"
     },
     {
         "card_name": "Sol Herald",
@@ -2063,7 +2033,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "188"
     },
     {
         "card_name": "Steelskin Pilgrim",
@@ -2071,7 +2041,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "132"
     },
     {
         "card_name": "Stonework Angel",
@@ -2079,7 +2049,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "20"
     },
     {
         "card_name": "e"
@@ -2109,7 +2079,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "260"
     },
     {
         "card_name": "Shattered Spires",
@@ -2117,7 +2087,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "258"
     },
     {
         "card_name": "Hollow Church",
@@ -2125,7 +2095,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "259"
     },
     {
         "card_name": "Charged Confluence",
@@ -2133,7 +2103,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "257"
     },
     {
         "card_name": "Resurgent Ruins",
@@ -2141,7 +2111,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "256"
     },
     {
         "card_name": "er"
@@ -2164,7 +2134,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "141"
     },
     {
         "card_name": "Shattered Peak",
@@ -2172,7 +2142,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "266"
     },
     {
         "card_name": "Teluran Gardens",
@@ -2180,7 +2150,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "255"
     },
     {
         "card_name": "Evolving Wilds",
@@ -2188,7 +2158,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "189"
     },
     {
         "card_name": "e"
@@ -2214,7 +2184,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "261"
     },
     {
         "card_name": "Island",
@@ -2222,7 +2192,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "262"
     },
     {
         "card_name": "Mountain",
@@ -2230,7 +2200,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "263"
     },
     {
         "card_name": "Plains",
@@ -2238,7 +2208,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "264"
     },
     {
         "card_name": "Swamp",
@@ -2246,7 +2216,7 @@
         "shape": "normal",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "265"
     },
     {
         "card_name": "er"
@@ -2267,7 +2237,7 @@
         "shape": "token",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "269"
     },
     {
         "card_name": "Blood",
@@ -2275,7 +2245,7 @@
         "shape": "token",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "42"
     },
     {
         "card_name": "Golem",
@@ -2283,7 +2253,7 @@
         "shape": "token",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "185"
     },
     {
         "card_name": "Iron Wastes",
@@ -2291,7 +2261,7 @@
         "shape": "token",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "272"
     },
     {
         "card_name": "Soldier",
@@ -2299,7 +2269,7 @@
         "shape": "token",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "177"
     },
     {
         "card_name": "Treasure",
@@ -2307,7 +2277,7 @@
         "shape": "token",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "268"
     },
     {
         "card_name": "Angel",
@@ -2315,7 +2285,7 @@
         "shape": "token",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "273"
     },
     {
         "card_name": "Knight",
@@ -2323,7 +2293,7 @@
         "shape": "token",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "184"
     },
     {
         "card_name": "Zombie",
@@ -2331,7 +2301,7 @@
         "shape": "token",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "267"
     },
     {
         "card_name": "Dragon",
@@ -2339,7 +2309,7 @@
         "shape": "token",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "270"
     },
     {
         "card_name": "Warrior",
@@ -2347,7 +2317,7 @@
         "shape": "token",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "271"
     },
     {
         "card_name": "Angel Demon",
@@ -2355,7 +2325,7 @@
         "shape": "token",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "274"
     },
     {
         "card_name": "Vampire Dragon",
@@ -2363,7 +2333,7 @@
         "shape": "token",
         "set": "SOL",
         "rotated": false,
-        "position": ""
+        "position": "136"
     },
     {
         "card_name": "e"

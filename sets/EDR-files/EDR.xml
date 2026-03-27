@@ -5,14 +5,14 @@
 			<name>EDR</name>
 			<longname>Elden Ring</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-15</releasedate>
+			<releasedate>2026-03-26</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
 			<name>Veiled Monarch&apos;s Reign</name>
 			<text>Grace-given (As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)
-I — Create two 1/1 white Soldier creature tokens.
+Create two 1/1 white Soldier creature tokens.
 II — You gain 1 life for each creature you control.
 III — This Saga deals X damage to up to one target creature or planeswalker, where X is the number of creatures you control.</text>
 			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/0.png" num="39">EDR</set>
@@ -31,10 +31,10 @@ III — This Saga deals X damage to up to one target creature or planeswalker, w
 		<card>
 			<name>Wisdom of the Moon</name>
 			<text>Grace-given (As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)
-I — Draw a card, then discard a card.
+Draw a card, then discard a card.
 II, III, IV — Look at the top card of your library. If it shares a name with a card in your graveyard, you may reveal it and put it into your hand. Otherwise, you may put it into your graveyard.
 ​</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/1.png" num="81">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/1.png" num="82">EDR</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -50,7 +50,7 @@ II, III, IV — Look at the top card of your library. If it shares a name with a
 		<card>
 			<name>Placidusax&apos;s Ruin</name>
 			<text>Grace-given (As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)
-I — This Saga deals 2 damage to any target.
+This Saga deals 2 damage to any target.
 II — Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.
 III — Whenever you cast a Dragon spell this turn, copy it. The copy isn&apos;t legendary.</text>
 			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/2.png" num="151">EDR</set>
@@ -69,7 +69,7 @@ III — Whenever you cast a Dragon spell this turn, copy it. The copy isn&apos;t
 		<card>
 			<name>Rennala&apos;s Studies</name>
 			<text>If it&apos;s your turn, you get an additional upkeep step and an additional draw step after this phase, followed by an additional main phase.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/3.png" num="70">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/3.png" num="71">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -134,7 +134,7 @@ I, II, III — You draw cards and lose life equal to the number of lore counters
 		<card>
 			<name>Igon, Drake Warrior</name>
 			<text>Whenever a Dragon dies, Igon deals damage equal to that creature&apos;s power to any target.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/7.png" num="142">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/7.png" num="141">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -152,7 +152,7 @@ I, II, III — You draw cards and lose life equal to the number of lore counters
 			<name>Crystalian</name>
 			<text>When this creature enters, scry 2.
 {T}: Add one mana of any color. You can&apos;t spend this mana to cast creature spells.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/8.png" num="49">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/8.png" num="48">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -191,7 +191,7 @@ III — Put a +1/+1 counter on each creature you control with a counter on it.
 I — Each creature gets -X/-X until end of turn.
 II — Each opponent discards a card.
 III — Each opponent chooses a creature card in their graveyard. Put it onto the battlefield under your control.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/10.png" num="107">EDR</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/10.png" num="106">EDR</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -208,7 +208,7 @@ III — Each opponent chooses a creature card in their graveyard. Put it onto th
 			<name>Black Knife Assassin</name>
 			<text>Deathtouch, lifelink
 Whenever you gain life, each opponent loses 1 life.</text>
-			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/11.png" num="86">EDR</set>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/11.png" num="85">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -225,7 +225,7 @@ Whenever you gain life, each opponent loses 1 life.</text>
 		<card>
 			<name>Sellen&apos;s Triumph</name>
 			<text>Look at the top four cards of your library. Put two into your hand and the rest into your graveyard. Create a Treasure token.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/12.png" num="72">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/12.png" num="73">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -443,7 +443,7 @@ Whenever another artifact, creature, or enchantment you control enters, this cre
 			<name>Glintstone Dragon</name>
 			<text>Flying, prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/24.png" num="56">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/24.png" num="55">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -493,10 +493,10 @@ Ancient Dragon&apos;s Lightning deals 2 damage to any target. If a Dragon was be
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Banished Knight</name>
+			<name>Knight of the Fringes</name>
 			<text>Remembrance {3}{R}{R} ({3}{R}{R}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)
 Double strike</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/27.png" num="125">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/27.png" num="142">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -531,7 +531,7 @@ Double strike</text>
 			<name>Dragon Cult Priestess</name>
 			<text>Remembrance {1}{R} ({1}{R}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)
 Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/29.png" num="133">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/29.png" num="132">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -565,7 +565,7 @@ Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.</te
 		<card>
 			<name>Baleful Shadow</name>
 			<text>Whenever this creature attacks, you may sacrifice another creature or enchantment. If you do, this creature gains indestructible until end of turn and you draw a card.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/31.png" num="85">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/31.png" num="84">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -601,7 +601,7 @@ Whenever another Dragon you control dies, draw two cards.</text>
 		<card>
 			<name>Mimic Tear</name>
 			<text>You may have this creature enter as a copy of a creature you control, except its name is Mimic Tear and it has &quot;If a triggered ability of this creature triggers, that ability triggers an additional time.&quot;</text>
-			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/33.png" num="62">EDR</set>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/33.png" num="61">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -635,7 +635,7 @@ Whenever another Dragon you control dies, draw two cards.</text>
 			<name>Night&apos;s Cavalry</name>
 			<text>When this creature enters, you may have each player discard a card. Then put two +1/+1 counters on this creature if a player has one or fewer cards in hand.
 Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/35.png" num="108">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/35.png" num="107">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -753,7 +753,7 @@ Whenever you cast a noncreature spell, create a 1/1 blue Wizard creature token.
 Final form {4}{GW}{U} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)
 ---
 (Back): Rennala, Queen of the Moon</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/40_front.png" num="68a">EDR</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/40_front.png" num="69a">EDR</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -774,7 +774,7 @@ Final form {4}{GW}{U} (You may cast a copy of this from the battlefield or your 
 Whenever you cast a noncreature spell, create X 1/1 blue Wizard creature tokens, where X is that spell&apos;s mana value.
 ---
 (Front): Rennala of Caria</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/40_back.png" num="68b">EDR</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/40_back.png" num="69b">EDR</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -795,7 +795,7 @@ Whenever you cast a noncreature spell, create X 1/1 blue Wizard creature tokens,
 Final form {4}{UR}{B} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)
 ---
 (Back): Base Serpent Messmer</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/41_front.png" num="105a">EDR</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/41_front.png" num="104a">EDR</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -816,7 +816,7 @@ Final form {4}{UR}{B} (You may cast a copy of this from the battlefield or your 
 If an opponent would lose life during your turn, they lose twice that much life instead.
 ---
 (Front): Messmer, the Impaler</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/41_back.png" num="105b">EDR</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/41_back.png" num="104b">EDR</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -879,7 +879,7 @@ Whenever you attack, you choose how up to one target creature defending player c
 Final form {3}{GU}{R} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)
 ---
 (Back): Godrick, the Golden</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/43_front.png" num="141a">EDR</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/43_front.png" num="140a">EDR</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -900,7 +900,7 @@ Final form {3}{GU}{R} (You may cast a copy of this from the battlefield or your 
 Whenever Godrick attacks, you may discard any number of cards, then draw that many cards plus one. Then you may exile four cards from your graveyard. If you do, create a 4/4 red Dragon creature token with flying that&apos;s tapped and attacking.
 ---
 (Front): Godrick, the Grafted</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/43_back.png" num="141b">EDR</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/43_back.png" num="140b">EDR</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -922,7 +922,7 @@ At the beginning of your upkeep, tap Gurranq unless you pay 2 life.
 Final form {5}{WU}{B} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)
 ---
 (Back): Maliketh, the Black Blade</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/44_front.png" num="99a">EDR</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/44_front.png" num="98a">EDR</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -945,7 +945,7 @@ Whenever a creature an opponent controls dies, exile it and its controller loses
 Your opponents can&apos;t cast creature spells that share a name with any card exiled with Maliketh.
 ---
 (Front): Gurranq, Beast Clergyman</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/44_back.png" num="99b">EDR</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/44_back.png" num="98b">EDR</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1008,17 +1008,17 @@ Whenever another legendary creature you control dies, put a number of +1/+1 coun
 Final form {6}{RW}{U} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)
 ---
 (Back): Radahn, Consort of Miquella</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/46_front.png" num="66a">EDR</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/46_front.png" num="67a">EDR</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Creature — Demigod</type>
 				<maintype>Creature</maintype>
-				<manacost>3U</manacost>
-				<cmc>4</cmc>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>WUR</coloridentity>
-				<pt>3/4</pt>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<related attach="transform">Radahn, Consort of Miquella</related>
@@ -1029,7 +1029,7 @@ Final form {6}{RW}{U} (You may cast a copy of this from the battlefield or your 
 As long as it&apos;s your turn, each instant and sorcery card in your graveyard has flashback. The flashback cost is equal to that card&apos;s mana cost reduced by {X}, where X is Radahn&apos;s power.
 ---
 (Front): Promised Consort Radahn</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/46_back.png" num="66b">EDR</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/46_back.png" num="67b">EDR</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1090,7 +1090,7 @@ Whenever another creature you control leaves the battlefield, draw a card.
 			<name>Divine Beast Dancing Lion</name>
 			<text>Remembrance {2}{R} ({2}{R}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)
 Whenever this creature attacks, add {R} equal to its power. Until end of turn, you don&apos;t lose this mana as steps and phases end.</text>
-			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/48.png" num="131">EDR</set>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/48.png" num="130">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1108,7 +1108,7 @@ Whenever this creature attacks, add {R} equal to its power. Until end of turn, y
 			<name>Godwyn&apos;s Death Knight</name>
 			<text>Remembrance {3}{B} ({3}{B}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)
 Discard a card: This creature gains indestructible until end of turn. Tap it. Activate only once each turn.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/49.png" num="96">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/49.png" num="95">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1124,7 +1124,7 @@ Discard a card: This creature gains indestructible until end of turn. Tap it. Ac
 		</card>
 		<card>
 			<name>God-Devouring Serpent</name>
-			<text>Deathtouch
+			<text>As long as you&apos;ve sacrificed a permanent this turn, God-Devouring Serpent has deathtouch.
 Whenever God-Devouring Serpent deals combat damage to a player, create a Shard token.
 Final form {6}{BR}{G} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)
 ---
@@ -1224,7 +1224,7 @@ Whenever Marika attacks, you may have her name become Radagon of the Golden Orde
 			<name>Destined Death</name>
 			<text>Exile target creature or planeswalker.
 Converge — You gain 1 life for each color of mana spent to cast this spell.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/54.png" num="89">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/54.png" num="88">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1292,7 +1292,7 @@ Equip {2}</text>
 			<name>Graven Mass Transformation</name>
 			<text>Enchant creature
 Enchanted creature loses all abilities and is a Zombie Wizard Orb creature with base power and toughness 0/2 in addition to its other types.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/58.png" num="57">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/58.png" num="56">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1327,7 +1327,7 @@ Converge — This creature enters with X +1/+1 counters on it, where X is the nu
 			<name>Ashen Remains</name>
 			<text>Remembrance {1}{U} ({1}{U}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)
 Whenever this creature attacks, another target creature you control can&apos;t be blocked this turn.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/60.png" num="44">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/60.png" num="43">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1399,7 +1399,7 @@ Your opponents can&apos;t cast spells from libraries or graveyards or activate a
 			<name>Black Knight Captain</name>
 			<text>Flying
 Converge — When this creature enters, target opponent reveals a number of cards from their hand equal to the number of colors spent to cast this spell. You choose one of those cards. That player discards that card.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/64.png" num="87">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/64.png" num="86">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1488,7 +1488,7 @@ When this creature enters, search your library for a creature card with mana val
 			<name>Nomadic Tribe Warrior</name>
 			<text>Deathtouch
 When this creature enters, you may exile target card from a graveyard. If you exiled a creature card this way, create a Treasure token.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/69.png" num="109">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/69.png" num="108">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1541,7 +1541,7 @@ When Blaidd enters, you may exile target instant or sorcery card with mana value
 		<card>
 			<name>To the Three Sisters</name>
 			<text>Exile target instant or sorcery card from your graveyard. Copy it three times. You may cast each of the copies. (You do not have to cast all three of the copies. You still pay each of their costs.)</text>
-			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/72.png" num="80">EDR</set>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/72.png" num="81">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1576,7 +1576,7 @@ As long as this creature is enchanted or equipped, it gets +1/+1.</text>
 			<name>Spirit of the Stormhawk</name>
 			<text>Flying
 When this creature enters, you may return another permanent you control to its owner&apos;s hand. If you do, create a Shard token. (It&apos;s an enchantment with &quot;{2}, Sacrifice this token: Scry 1, then draw a card.&quot;)</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/74.png" num="76">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/74.png" num="77">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1594,7 +1594,7 @@ When this creature enters, you may return another permanent you control to its o
 			<name>Living Jar</name>
 			<text>Whenever you sacrifice an enchantment, each opponent loses 1 life and you gain 1 life.
 When this creature dies, create a Shard token. (It&apos;s an enchantment with &quot;{2}, Sacrifice this token: Scry 1, then draw a card.&quot;)</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/75.png" num="103">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/75.png" num="102">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1766,7 +1766,7 @@ Whenever The Hornsent attacks, each opponent loses X life, where X is the number
 			<name>Primeval Sorcerer Lusat</name>
 			<text>Whenever you cast an instant or sorcery spell, create a Treasure token. If you control a creature named Primeval Sorcerer Azur, create two Treasure tokens instead.
 {T}: Add two mana of different colors. Spend this mana only to cast noncreature spells with mana costs that contain {X}.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/85.png" num="65">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/85.png" num="66">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1784,7 +1784,7 @@ Whenever The Hornsent attacks, each opponent loses X life, where X is the number
 			<name>Primeval Sorcerer Azur</name>
 			<text>Whenever you cast an instant or sorcery spell, draw a card, then discard a card unless you control a creature named Primeval Sorcerer Lusat.
 {T}: Add two mana of different colors. Spend this mana only to cast noncreature spells with mana costs that contain {X}.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/86.png" num="64">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/86.png" num="65">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1874,7 +1874,7 @@ Whenever you attack, creatures you control get +1/+0 until end of turn if you ha
 		<card>
 			<name>Join the Mohgwyn Dynasty</name>
 			<text>Look at the top four cards of your library. Put up to two into your hand and the rest into your graveyard. You lose 2 life.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/91.png" num="101">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/91.png" num="100">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2008,7 +2008,7 @@ Whenever you attack, put a +1/+1 counter on each attacking creature you control 
 			<name>Bayle&apos;s Tyranny</name>
 			<text>As an additional cost to cast this spell, behold a Dragon or pay {1}. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)
 Bayle&apos;s Tyranny deals 2 damage to each creature.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/99.png" num="126">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/99.png" num="125">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2025,7 +2025,7 @@ Bayle&apos;s Tyranny deals 2 damage to each creature.</text>
 			<name>Gravebird</name>
 			<text>Flying
 Converge — When this creature enters, each opponent loses X life and you gain X life, where X is the number of colors of mana spent to cast this spell.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/100.png" num="98">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/100.png" num="97">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2063,7 +2063,7 @@ Menace
 			<text>Choose one —
 • Target opponent reveals their hand. You choose a nonland card from that player&apos;s graveyard or hand and exile it.
 • Exile target creature or planeswalker with mana value 3 or less.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/102.png" num="100">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/102.png" num="99">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2080,7 +2080,7 @@ Menace
 			<name>Fia&apos;s Embrace</name>
 			<text>Target creature gains your choice of lifelink or indestructible until end of turn.
 Create a Shard token. (It&apos;s an enchantment with &quot;{2}, Sacrifice this token: Scry 1, then draw a card.&quot;)</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/103.png" num="92">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/103.png" num="91">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2098,7 +2098,7 @@ Create a Shard token. (It&apos;s an enchantment with &quot;{2}, Sacrifice this t
 			<text>Flash
 When this enchantment enters, each opponent sacrifices a creature.
 {1}{B}, Discard a card, Sacrifice this enchantment: Return target creature card from your graveyard to your hand.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/104.png" num="97">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/104.png" num="96">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2115,7 +2115,7 @@ When this enchantment enters, each opponent sacrifices a creature.
 			<name>Feeding the Haligtree</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature or token.
 Draw two cards.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/105.png" num="90">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/105.png" num="89">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2292,7 +2292,7 @@ At the beginning of your end step, if one or more cards left your graveyard this
 			<name>Fire Monk</name>
 			<text>Whenever you cast an instant or sorcery spell, untap this creature.
 {T}: This creature deals 1 damage to each opponent.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/115.png" num="139">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/115.png" num="138">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2345,7 +2345,7 @@ At the beginning of your end step, if one or more cards left your graveyard this
 			<text>When this Equipment enters, create a 2/2 white Knight creature token, then attach this Equipment to it.
 Equipped creature gets +1/+1 and has haste.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/118.png" num="138">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/118.png" num="137">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2364,7 +2364,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 When this Aura enters, target creature can&apos;t block this turn.
 As long as enchanted permanent is a creature, it gets +1/+1 and is a Dragon.
 As long as enchanted permanent is an Equipment, it has &quot;Equipped creature gets +1/+1 and is a Dragon.&quot;</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/119.png" num="134">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/119.png" num="133">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2462,7 +2462,7 @@ Gain control of target creature until end of turn. Untap it. It gains haste unti
 		<card>
 			<name>Champion&apos;s Blessing</name>
 			<text>Creatures you control get +2/+0 until end of turn. If you control an enchanted or equipped creature, draw a card.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/125.png" num="128">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/125.png" num="127">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2478,7 +2478,7 @@ Gain control of target creature until end of turn. Untap it. It gains haste unti
 		<card>
 			<name>Dominula Celebrant</name>
 			<text>{2}{U}: This creature can&apos;t be blocked this turn. This ability costs {2} less to activate if you sacrificed an enchantment this turn.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/126.png" num="52">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/126.png" num="51">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2496,7 +2496,7 @@ Gain control of target creature until end of turn. Untap it. It gains haste unti
 			<name>Spirit Jellyfish</name>
 			<text>Flying
 Landfall — Whenever a land you control enters, this creature gets +1/+0 until end of turn.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/127.png" num="75">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/127.png" num="76">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2514,7 +2514,7 @@ Landfall — Whenever a land you control enters, this creature gets +1/+0 until 
 			<name>Magic Preceptor</name>
 			<text>Prowess
 When this creature enters, tap up to one target creature and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/128.png" num="61">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/128.png" num="60">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2532,7 +2532,7 @@ When this creature enters, tap up to one target creature and put a stun counter 
 			<name>Dragonkin Spirit</name>
 			<text>Vigilance
 Converge — When this creature enters, look at the top X cards of your library, where X is the number of colors of mana spent to cast this spell. Put one into your hand and the rest on the bottom of your library in a random order.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/129.png" num="53">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/129.png" num="52">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2550,7 +2550,7 @@ Converge — When this creature enters, look at the top X cards of your library,
 			<name>Carian Retaliation</name>
 			<text>Counter target spell unless its controller pays {X}.
 Create a Shard token. (It&apos;s an enchantment with &quot;{2}, Sacrifice this token: Scry 1, then draw a card.&quot;)</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/130.png" num="47">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/130.png" num="46">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2567,7 +2567,7 @@ Create a Shard token. (It&apos;s an enchantment with &quot;{2}, Sacrifice this t
 			<name>Rellana&apos;s Cameo</name>
 			<text>Draw a card.
 As long as you&apos;ve cast two or more noncreature spells this turn, this card has flashback {U}. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/131.png" num="67">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/131.png" num="68">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2601,7 +2601,7 @@ Once during each of your turns, you may cast an instant or sorcery spell from yo
 		<card>
 			<name>Destiny Portends</name>
 			<text>Converge — Put target nonland permanent X cards from the top of its owner&apos;s library, where X is the number of colors of mana spent to cast this spell.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/133.png" num="51">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/133.png" num="50">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2619,7 +2619,7 @@ Once during each of your turns, you may cast an instant or sorcery spell from yo
 			<text>Equipped creature gets +2/+1.
 Whenever equipped creature attacks, draw a card, then discard a card.
 Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/134.png" num="60">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/134.png" num="59">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2635,7 +2635,7 @@ Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
 		<card>
 			<name>Hallowhorn Communion</name>
 			<text>Target creature you control has base power and toughness 4/4 until end of turn. Create a Shard token. (It&apos;s an enchantment with &quot;{2}, Sacrifice this token: Scry 1, then draw a card.&quot;)</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/135.png" num="58">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/135.png" num="57">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2652,7 +2652,7 @@ Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
 			<name>Carian Knight</name>
 			<text>Vigilance
 Whenever you cast a noncreature spell, target creature gets +X/+0 until end of turn, where X is that spell&apos;s mana value.</text>
-			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/136.png" num="46">EDR</set>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/136.png" num="45">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2685,11 +2685,11 @@ Converge — When this creature enters, you gain 1 life for each color of mana s
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Ancestral Follower</name>
+			<name>Capital Perfumer</name>
 			<text>Vigilance
 {T}: Add one mana if any color.
 {4}{G}: Double this creature&apos;s power and toughness until end of turn.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/138.png" num="168">EDR</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/138.png" num="171">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2981,7 +2981,7 @@ Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
 			<text>When this Equipment enters, you may pay 2 life. When you do, destroy target creature.
 Equipped creature gets +2/+0 and has menace.
 Equip—Pay 2 life. (Pay 2 life: Attach to target creature you control. Equip only as a sorcery.)</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/155.png" num="95">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/155.png" num="94">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3048,7 +3048,7 @@ If a triggered ability of an equipped creature you control or an Equipment you c
 		<card>
 			<name>Gift of Madness</name>
 			<text>Target opponent reveals all but one card in their hand. You choose a nonland card revealed this way. That player discards that card.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/159.png" num="94">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/159.png" num="93">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3101,7 +3101,7 @@ Each modified creature you control with toughness greater than its power assigns
 			<name>Lichdragon Fortissax</name>
 			<text>Flying, deathtouch, lifelink
 Converge — When Lichdragon Fortissax enters, return target creature card with mana value twice X or less from your graveyard to the battlefield, where X is the number of colors of mana spent to cast this spell. It gains &quot;When you don&apos;t control a Dragon, sacrifice this creature.&quot;</text>
-			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/162.png" num="102">EDR</set>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/162.png" num="101">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3194,7 +3194,7 @@ Whenever a creature dealt damage by this creature this turn dies, put a +1/+1 co
 			<text>Flying
 Whenever this creature attacks, you may exile target card from a graveyard. If you do, this creature gets +X/+0 until end of turn, where X is the exiled card&apos;s mana value.
 When this creature dies, you may put a creature card exiled with it onto the battlefield under your control.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/167.png" num="93">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/167.png" num="92">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3226,11 +3226,11 @@ When this creature dies, you may put a creature card exiled with it onto the bat
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Aging Untouchable</name>
+			<name>Old Untouchable</name>
 			<text>Remembrance {4}{B} ({4}{B}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)
 This creature has deathtouch and indestructible as long as it attacked this turn.
 Whenever this creature deals combat damage to a player, draw that many cards.</text>
-			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/169.png" num="84">EDR</set>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/169.png" num="109">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3364,7 +3364,7 @@ Landfall — Whenever a land you control enters, put a +1/+1 counter on target c
 		<card>
 			<name>Sir Gideon Ofnir</name>
 			<text>When Gideon Ofnir enters, draw a card. If you have 100 or more or 20 or fewer cards in your library, draw three cards instead.</text>
-			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/177.png" num="73">EDR</set>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/177.png" num="74">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3556,7 +3556,7 @@ When this creature enters, put a +1/+1 counter on target creature you control. I
 			<name>Spellblade Rogier</name>
 			<text>{T}: Draw a card, then discard a card.
 Whenever you cast an instant or sorcery spell, untap Spellblade Rogier.</text>
-			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/188.png" num="74">EDR</set>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/188.png" num="75">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3590,7 +3590,7 @@ Whenever you cast an instant or sorcery spell, untap Spellblade Rogier.</text>
 			<name>Count Ymir</name>
 			<text>You may look at the top card of your library any time.
 Once during each of your turns, you may cast a spell from the top of your library. If you cast a permanent spell this way, it gains &quot;When this permanent enters, sacrifice it and create a 1/2 black Finger Spider creature token.&quot;</text>
-			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/190.png" num="48">EDR</set>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/190.png" num="47">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3627,7 +3627,7 @@ When this creature enters, you may return another permanent you control to its o
 			<name>Bloodhound Knight</name>
 			<text>This creature can&apos;t block.
 Whenever you discard this card or discard another card, you may cast this card from your graveyard.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/192.png" num="88">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/192.png" num="87">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3645,7 +3645,7 @@ Whenever you discard this card or discard another card, you may cast this card f
 			<name>Dancer of Ranah</name>
 			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 If a spell you control would deal damage, you may have it deal damage equal to the number of spells you cast this turn instead.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/193.png" num="129">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/193.png" num="128">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3662,7 +3662,7 @@ If a spell you control would deal damage, you may have it deal damage equal to t
 		<card>
 			<name>Drake Knight</name>
 			<text>If a triggered ability of a Dragon you control triggers, that ability triggers an additional time.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/194.png" num="135">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/194.png" num="134">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3713,7 +3713,7 @@ Sacrifice Dryleaf Dane: Another target creature you control gains indestructible
 			<name>Fire Giant</name>
 			<text>Remembrance {1}{R} ({1}{R}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)
 Whenever this creature attacks, target creature an opponent controls with lesser power can&apos;t block this turn.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/197.png" num="137">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/197.png" num="136">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3747,7 +3747,7 @@ Whenever this creature attacks, target creature an opponent controls with lesser
 			<name>Fia, Deathbed Companion</name>
 			<text>Deathtouch
 At the beginning of your end step, each opponent loses life equal to the number of tapped creatures you control.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/199.png" num="91">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/199.png" num="90">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3872,7 +3872,7 @@ Search your library for a creature card with mana value equal to X plus the sacr
 			<text>You may choose not to untap this creature during your untap step.
 {1}{U}, {T}: Create a token that&apos;s a copy of another target creature you control, except it&apos;s a Spirit in addition to its other types.
 Whenever this creature leaves the battlefield or becomes untapped, exile each token created by it.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/206.png" num="77">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/206.png" num="78">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3994,7 +3994,8 @@ Whenever you cast a spell with mana value 1 or less, copy it, except the copy is
 		</card>
 		<card>
 			<name>Ancestor Spirit</name>
-			<text>When this creature dies, create a tapped Ancient Tomb token. (It&apos;s a land with &quot;{T}: Add {C}{C}. This land deals 2 damage to you.&quot;)</text>
+			<text>Flying
+When this creature dies, create a tapped Ancient Tomb token. (It&apos;s a land with &quot;{T}: Add {C}{C}. This land deals 2 damage to you.&quot;)</text>
 			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/213.png" num="206">EDR</set>
 			<prop>
 				<layout>normal</layout>
@@ -4031,7 +4032,7 @@ Whenever you cast an instant or sorcery spell with mana value 4 or greater, put 
 			<name>Thiollier, in Sweet Sleep</name>
 			<text>When this creature enters, tap target creature an opponent controls and put a stun counter on it.
 At the beginning of each opponent&apos;s upkeep, draw a card for each tapped nonland permanent they control.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/215.png" num="78">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/215.png" num="79">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4049,7 +4050,7 @@ At the beginning of each opponent&apos;s upkeep, draw a card for each tapped non
 			<name>Dearest Nanaya</name>
 			<text>{T}: Add {R}.
 Whenever a creature you control enters, if mana from Dearest Nanaya was spent to cast it, you may discard a card. If you do, until end of turn, that creature gains haste and &quot;Whenever this creature deals combat damage to a player, draw a card.&quot;</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/216.png" num="130">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/216.png" num="129">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4086,7 +4087,7 @@ Whenever a creature you control enters, if mana from Dearest Nanaya was spent to
 			<text>Menace
 When Midra enters, you may discard a card. If you do, target opponent reveals their hand. You choose a nonland card revealed this way. Exile that card.
 Whenever Midra attacks, put a +1/+1 counter on him for each player with three or fewer cards in hand.</text>
-			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/218.png" num="106">EDR</set>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/218.png" num="105">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4111,8 +4112,8 @@ When The Gate of Divinity enters, you may return a creature card from your grave
 				<side>front</side>
 				<type>Legendary Artifact</type>
 				<maintype>Artifact</maintype>
-				<manacost>10</manacost>
-				<cmc>10</cmc>
+				<manacost>12</manacost>
+				<cmc>12</cmc>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
@@ -4158,7 +4159,7 @@ You control enchanted creature.</text>
 I — Put +1/+1 counters on up to one target creature equal to its power.
 II — Draw cards equal to the greatest power among creatures you control.
 III — You may put any number of land cards from your hand onto the battlefield. If you do, draw that many cards.</text>
-			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/222.png" num="169">EDR</set>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/222.png" num="168">EDR</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -4263,7 +4264,7 @@ Whenever you cast a spell, you may pay {W}{U}{B}{R}{G} any number of times. If y
 			<name>Thousand Year Voyage</name>
 			<text>Shuffle your hand and graveyard into your library, then draw seven cards.
 Converge — You may cast a spell with mana value X or less from your hand without paying its mana cost, where X is the number of colors of mana spent to cast this spell.</text>
-			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/228.png" num="79">EDR</set>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/228.png" num="80">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4281,7 +4282,7 @@ Converge — You may cast a spell with mana value X or less from your hand witho
 			<text>This spell can&apos;t be countered.
 When this creature enters, you may attach target Equipment you control to it.
 Whenever this creature attacks, it deals X damage to any target, where X is the total mana value of Equipment attached to this creature.</text>
-			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/229.png" num="127">EDR</set>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/229.png" num="126">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4315,7 +4316,7 @@ Whenever this creature attacks, it deals X damage to any target, where X is the 
 			<text>Flash
 Flying
 Converge — When this creature enters, exile target spell an opponent controls unless its controller pays {X}, where X is the number of colors of mana spent to cast this spell.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/231.png" num="50">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/231.png" num="49">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4334,7 +4335,7 @@ Converge — When this creature enters, exile target spell an opponent controls 
 			<text>Vigilance
 Whenever Blackguard Boggart attacks, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
 {1}, {T}: Add {G} for each token you control.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/232.png" num="171">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/232.png" num="170">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4439,7 +4440,7 @@ If one or more tokens would be created under your control, those tokens plus an 
 			<text>Enchant creature or Equipment
 If enchanted permanent is a creature, it&apos;s a red Dragon and gets +1/+1 and has flying and &quot;{R}: This creature gets +1/+0 until end of turn.&quot;
 If enchanted permanent is an Equipment, it has &quot;Equipped creature is a red Dragon and gets +1/+1 and has flying and ‘{R}: This creature gets +1/+0 until end of turn.&apos;&quot;</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/238.png" num="132">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/238.png" num="131">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4458,7 +4459,7 @@ If enchanted permanent is an Equipment, it has &quot;Equipped creature is a red 
 I — Each player loses 3 life unless they sacrifice a nonland permanent or discard a card.
 II, III — Target creature gets +X/+0 until end of turn, where X is the number of card types among cards in your graveyard.
 ​</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/239.png" num="104">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/239.png" num="103">EDR</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -4853,7 +4854,7 @@ Equip {1}</text>
 			<text>Menace
 Whenever a creature you control attacks, put a flame counter on this creature.
 If a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus an amount of damage equal to the number of flame counters on this creature instead.</text>
-			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/262.png" num="140">EDR</set>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/262.png" num="139">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4873,7 +4874,7 @@ If a source you control would deal damage to an opponent or a permanent an oppon
 I — Exile target instant or sorcery card from a graveyard.
 II — Create X 1/2 black Finger Spider creature tokens, where X is the total mana value of cards exiled with this Saga.
 III — Copy each card exiled with this Saga. You may cast the copies without paying their mana costs.</text>
-			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/263.png" num="45">EDR</set>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/263.png" num="44">EDR</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -4890,7 +4891,7 @@ III — Copy each card exiled with this Saga. You may cast the copies without pa
 			<name>Hold Back the Stars</name>
 			<text>Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
 Return all nonland permanents that didn&apos;t enter this turn to their owners&apos; hands.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/264.png" num="59">EDR</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/264.png" num="58">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4904,9 +4905,9 @@ Return all nonland permanents that didn&apos;t enter this turn to their owners&a
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Ancient Hero of Zamor</name>
+			<name>Old Hero of Zamor</name>
 			<text>Landfall — Whenever a land you control enters, tap up to one target creature. Put a stun counter on that creature if this isn&apos;t the first time this ability has resolved this turn.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/265.png" num="43">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/265.png" num="63">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4921,9 +4922,9 @@ Return all nonland permanents that didn&apos;t enter this turn to their owners&a
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Zamor Ice Storm</name>
+			<name>Pawns in a Plan</name>
 			<text>Converge — Tap one or two target creatures. Distribute X stun counters among them, where X is the number of colors of mana spent to cast this spell.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/266.png" num="82">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/266.png" num="64">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5010,7 +5011,7 @@ Sacrifice Diallos: Creatures you control gain indestructible until end of turn.<
 I — This Saga deals 1 damage to each creature your opponents control.
 II — Target creature can&apos;t block this turn.
 III — Discard a card, then draw a card for each card you&apos;ve discarded this turn.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/271.png" num="136">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/271.png" num="135">EDR</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -5026,7 +5027,7 @@ III — Discard a card, then draw a card for each card you&apos;ve discarded thi
 		<card>
 			<name>Founding Rain of Stars</name>
 			<text>Reveal the top ten cards of your library. For each card type, you may put a card of that type from among the revealed cards into your hand. Put the rest on the bottom of your library in a random order.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/272.png" num="55">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/272.png" num="54">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5163,7 +5164,7 @@ Whenever an enchantment you control dies, each opponent sacrifices a creature.</
 		<card>
 			<name>Behold the Jagged Peak</name>
 			<text>Converge — Put a +1/+1 counter on each of up to X target creatures, where X is the number of colors of mana spent to cast this spell. Then double the number of +1/+1 counters on each of those creatures.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/280.png" num="170">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/280.png" num="169">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5196,7 +5197,7 @@ Sacrifice this enchantment: Return target card you milled this turn from your gr
 		<card>
 			<name>Rogier&apos;s Talent</name>
 			<text>Counter target spell. If that spell is countered this way, exile it and its controller&apos;s graveyard.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/282.png" num="71">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/282.png" num="72">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5212,7 +5213,7 @@ Sacrifice this enchantment: Return target card you milled this turn from your gr
 		<card>
 			<name>Fleeting Microcosm</name>
 			<text>Return target nonland permanent to its owner&apos;s hand. You may return an enchantment you control to its owner&apos;s hand.</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/283.png" num="54">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/283.png" num="53">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5278,7 +5279,7 @@ Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
 		<card>
 			<name>Miquella&apos;s Sacrifice</name>
 			<text>Create a token that&apos;s a copy of target creature you control, except it&apos;s a Saga enchantment in addition to its other types and has &quot;r{3} — Scry 2.&quot; (As that token enters and after your draw step, add a lore counter. Sacrifice after III.)</text>
-			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/287.png" num="63">EDR</set>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/287.png" num="62">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5364,7 +5365,7 @@ Weave the Scarlet Rot deals X damage to target creature or planeswalker, where X
 			<name>Rennala&apos;s Amber Egg</name>
 			<text>When Rennala&apos;s Amber Egg enters, create a 1/1 blue Wizard creature token.
 {1}, {T}, Sacrifice a creature: Search your library for an instant or sorcery card with mana value equal to 1 plus the sacrificed creature&apos;s mana value, exile it, then shuffle. You may cast the exiled card without paying its mana cost.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/292.png" num="69">EDR</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDR-files/img/292.png" num="70">EDR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

@@ -1,9 +1,12 @@
 ﻿{
     "name": "The Solitudines",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "play booster",
+    "unpreviewed": "empty",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Josiah, Bitter Survivor",
@@ -13,7 +16,7 @@
             "number": 59,
             "color_identity": "WUB",
             "cost": "{2}{U}{U}",
-            "rules_text": "",
+            "rules_text": "Surpass {10}{B}{W} [i]({10}{W}{B}: Transform this planeswalker. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)[/i]\n[+1]: You draw a card, then you lose 3 life unless you control an Angel or a Demon.\n[-3]: Return up to two target creatures to their owner's hands. If you returned two creatures you controlled to hand this way, create a 4/4 white Angel creature token with flying.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "Surpass {10}{B}{W} [i]({10}{W}{B}: Transform this planeswalker. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)[/i]\n[+1]: You draw a card, then you lose 3 life unless you control an Angel or a Demon.\n[-3]: Return up to two target creatures to their owner's hands. If you returned two creatures you controlled to hand this way, create a 4/4 white Angel creature token with flying.",
@@ -21,16 +24,19 @@
             "set": "SOL",
             "loyalty": "4",
             "artist": "Drake (Winson) Tsui",
+            "alias": "",
+            "position": "0",
             "card_name2": "Josiah, the Divinity Sundered",
             "color2": "WUB",
             "type2": "Legendary Planeswalker \u2014 Josiah",
             "cost2": "",
-            "rules_text2": "",
+            "rules_text2": "[i](You may only activate a permanent's loyalty abilities once each turn, even if it transformed this turn.)[/i] \n[+1]: You draw three cards, then you lose 3 life unless you control an Angel or a Demon.\n[-3]: Target opponent sacrifices two creatures. You create a 5/5 white and black Angel Demon creature token with flying and trample.\n[-5]: Put target creature card from an opponent's graveyard onto the battlefield under your control. It gains \u201cWhenever this creature deals combat damage to its owner, that player loses the game.\u201d\n[-5]: Put target creature card from an opponent's graveyard onto the battlefield under your control. It gains \u201cWhenever this creature deals combat damage to its owner, that player loses the game.\u201d",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "[i](You may only activate a permanent's loyalty abilities once each turn, even if it transformed this turn.)[/i] \n[+1]: You draw three cards, then you lose 3 life unless you control an Angel or a Demon.\n[-3]: Target opponent sacrifices two creatures. You create a 5/5 white and black Angel Demon creature token with flying and trample.\n[-5]: Put target creature card from an opponent's graveyard onto the battlefield under your control. It gains \u201cWhenever this creature deals combat damage to its owner, that player loses the game.\u201d\n[-5]: Put target creature card from an opponent's graveyard onto the battlefield under your control. It gains \u201cWhenever this creature deals combat damage to its owner, that player loses the game.\u201d",
             "loyalty2": "",
             "artist2": "Drake (Winson) Tsui",
+            "alias2": "",
             "notes": "!tag spotlight\n!tag twink"
         },
         {
@@ -49,6 +55,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Paulina Bochniak",
+            "alias": "",
+            "position": "1",
             "notes": ""
         },
         {
@@ -67,6 +75,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Noirsnow",
+            "alias": "",
+            "position": "2",
             "notes": ""
         },
         {
@@ -85,6 +95,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Surya Prasetya",
+            "alias": "",
+            "position": "3",
             "notes": ""
         },
         {
@@ -103,6 +115,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nyx Aurelia",
+            "alias": "",
+            "position": "4",
             "notes": ""
         },
         {
@@ -121,6 +135,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Camilo Palma",
+            "alias": "",
+            "position": "5",
             "notes": ""
         },
         {
@@ -139,6 +155,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Denilve",
+            "alias": "",
+            "position": "6",
             "notes": ""
         },
         {
@@ -157,6 +175,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Chenhao Zhuang",
+            "alias": "",
+            "position": "7",
             "notes": ""
         },
         {
@@ -167,7 +187,7 @@
             "number": 219,
             "color_identity": "BG",
             "cost": "{3}{B}{G}",
-            "rules_text": "",
+            "rules_text": "[+2]: Mill cards until you mill a land card. Return up to one card milled this way to your hand.\n[-3]: Return target land card from your graveyard to the battlefield. It becomes a 6/6 green Spirit creature with trample. It's still a land.\n[-9]: You get an emblem with \u201c{BG}: Return target permanent card from your graveyard to the battlefield.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+2]: Mill cards until you mill a land card. Return up to one card milled this way to your hand.\n[-3]: Return target land card from your graveyard to the battlefield. It becomes a 6/6 green Spirit creature with trample. It's still a land.\n[-9]: You get an emblem with \u201c{BG}: Return target permanent card from your graveyard to the battlefield.\u201d",
@@ -175,6 +195,8 @@
             "set": "SOL",
             "loyalty": "4",
             "artist": "India Lee Crews",
+            "alias": "",
+            "position": "8",
             "notes": ""
         },
         {
@@ -193,6 +215,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Dian Huynh",
+            "alias": "",
+            "position": "9",
             "notes": ""
         },
         {
@@ -211,6 +235,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Andrew Chou",
+            "alias": "",
+            "position": "10",
             "notes": ""
         },
         {
@@ -229,6 +255,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Hoang Lap (Solan)",
+            "alias": "",
+            "position": "11",
             "card_name2": "Corrupted Archangel",
             "color2": "WB",
             "type2": "Creature \u2014 Angel",
@@ -239,6 +267,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Hoang Lap (Solan)",
+            "alias2": "",
             "notes": "!tag twink"
         },
         {
@@ -257,6 +286,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Dorian Gerdji",
+            "alias": "",
+            "position": "12",
             "notes": ""
         },
         {
@@ -275,6 +306,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "classmate jew",
+            "alias": "",
+            "position": "13",
             "notes": ""
         },
         {
@@ -293,6 +326,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Mikyxone",
+            "alias": "",
+            "position": "14",
             "notes": ""
         },
         {
@@ -311,6 +346,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Eryk Szczygieln",
+            "alias": "",
+            "position": "15",
             "notes": ""
         },
         {
@@ -329,6 +366,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "breakermaximus",
+            "alias": "",
+            "position": "16",
             "notes": "!tag spotlight"
         },
         {
@@ -347,6 +386,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ilya Vatutin",
+            "alias": "",
+            "position": "17",
             "notes": ""
         },
         {
@@ -357,7 +398,7 @@
             "number": 107,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "When this artifact enters, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]\nWhenever you discard one or more cards, you may pay 1 life. If you do, draw a card. Do this only once each turn.",
+            "rules_text": "When this artifact enters, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\u201d)[/i]\nWhenever you discard one or more cards, you may pay 1 life. If you do, draw a card. Do this only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -365,6 +406,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Miquella Tai Huan Ling",
+            "alias": "",
+            "position": "18",
             "notes": ""
         },
         {
@@ -375,7 +418,7 @@
             "number": 184,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "When this creature enters, you may sacrifice a land. If you do, search your library for a land card, put it onto the battlefield, then shuffle.\n{G}, {T}, Seal 3: You may play target land card or cast target nonland permanent card from your graveyard this turn. [i](To seal 3, exile up to three cards with three or more card types among them from your graveyard.)[/i]",
+            "rules_text": "When Reygias enters, you may sacrifice a land. If you do, search your library for a land card, put it onto the battlefield, then shuffle.\n{G}, {T}, Seal 3: You may play target land card or cast target nonland permanent card from your graveyard this turn. [i](To seal 3, exile up to three cards with three or more card types among them from your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -383,6 +426,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Matias Gonzalez",
+            "alias": "",
+            "position": "19",
             "notes": ""
         },
         {
@@ -393,7 +438,7 @@
             "number": 246,
             "color_identity": "C",
             "cost": "{6}",
-            "rules_text": "Flying\nWhen this creature enters, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]\n{2}: Exile target card from a graveyard.",
+            "rules_text": "Flying\nWhen this creature enters, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\u201d)[/i]\n{2}: Exile target card from a graveyard.",
             "flavor_text": "[i]You can wring blood from a stone if it was created in the image of flesh.[/i]",
             "pt": "4/3",
             "special_text": "",
@@ -401,6 +446,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Carlos Quevedo",
+            "alias": "",
+            "position": "20",
             "notes": ""
         },
         {
@@ -419,6 +466,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Luis Arturo Arzate Velasco",
+            "alias": "",
+            "position": "21",
             "notes": ""
         },
         {
@@ -437,6 +486,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Midnight",
+            "alias": "",
+            "position": "22",
             "notes": ""
         },
         {
@@ -455,6 +506,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Acrassan",
+            "alias": "",
+            "position": "23",
             "notes": ""
         },
         {
@@ -473,6 +526,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Hoang Lap (Solan)",
+            "alias": "",
+            "position": "24",
             "notes": "!tag twink"
         },
         {
@@ -491,6 +546,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Minchen Peng",
+            "alias": "",
+            "position": "25",
             "notes": ""
         },
         {
@@ -509,6 +566,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Harshanad Singh",
+            "alias": "",
+            "position": "26",
             "notes": ""
         },
         {
@@ -527,6 +586,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "wmikaelart",
+            "alias": "",
+            "position": "27",
             "notes": ""
         },
         {
@@ -545,6 +606,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Wayne Barlowe",
+            "alias": "",
+            "position": "28",
             "notes": ""
         },
         {
@@ -563,6 +626,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Julio Caesar Oliveira Rocha",
+            "alias": "",
+            "position": "29",
             "notes": ""
         },
         {
@@ -581,6 +646,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Anna Podedworna",
+            "alias": "",
+            "position": "30",
             "notes": "!tag spotlight"
         },
         {
@@ -591,7 +658,7 @@
             "number": 205,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
-            "rules_text": "",
+            "rules_text": "[+1]: Create a 1/1 red Warrior creature token, then put a +1/+1 counter on a creature you control.\n[0]: Until end of turn, Eira becomes a 5/5 Human Soldier creature with indestructible. [i](She doesn't lose loyalty while she's not a planeswalker.)[/i]\n[-3]: Each player chooses any number of creatures they control with total power 4 or less, then sacrifices all other creatures they control.\n[-8]: You get an emblem with \u201cIf you would lose 1 or more life, you lose 1 life instead.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: Create a 1/1 red Warrior creature token, then put a +1/+1 counter on a creature you control.\n[0]: Until end of turn, Eira becomes a 5/5 Human Soldier creature with indestructible. [i](She doesn't lose loyalty while she's not a planeswalker.)[/i]\n[-3]: Each player chooses any number of creatures they control with total power 4 or less, then sacrifices all other creatures they control.\n[-8]: You get an emblem with \u201cIf you would lose 1 or more life, you lose 1 life instead.\u201d",
@@ -599,6 +666,8 @@
             "set": "SOL",
             "loyalty": "4",
             "artist": "Anna Podedworna",
+            "alias": "",
+            "position": "31",
             "notes": ""
         },
         {
@@ -617,6 +686,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Pablo Dominguez",
+            "alias": "",
+            "position": "32",
             "notes": ""
         },
         {
@@ -635,6 +706,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Palamarchuk Mikhail",
+            "alias": "",
+            "position": "33",
             "notes": ""
         },
         {
@@ -653,6 +726,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Eryk Szczygiel",
+            "alias": "",
+            "position": "34",
             "notes": ""
         },
         {
@@ -663,7 +738,7 @@
             "number": 223,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "You may cast this card from your graveyard as long as you control a Zombie.\nWhenever you cast another spell from a graveyard or another permanent you control enters from a graveyard, you draw a card and lose 1 life.\n{2}, Discard a card: Create a tapped 2/2 black Zombie creature token.",
+            "rules_text": "You may cast this card from your graveyard as long as you control a Zombie.\nWhenever you cast a spell from a graveyard or another permanent you control enters from a graveyard, you draw a card and lose 1 life.\n{2}, Discard a card: Create a tapped 2/2 black Zombie creature token.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -671,6 +746,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Rakasa",
+            "alias": "",
+            "position": "35",
             "notes": "!tag spotlight"
         },
         {
@@ -689,6 +766,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Aleksi Remes",
+            "alias": "",
+            "position": "36",
             "notes": "!tag spotlight"
         },
         {
@@ -707,6 +786,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "F3LC4T",
+            "alias": "",
+            "position": "37",
             "notes": ""
         },
         {
@@ -725,6 +806,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "F3LC4T",
+            "alias": "",
+            "position": "38",
             "notes": ""
         },
         {
@@ -743,6 +826,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "F3LC4T",
+            "alias": "",
+            "position": "39",
             "notes": ""
         },
         {
@@ -761,6 +846,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "zhang jing",
+            "alias": "",
+            "position": "40",
             "notes": ""
         },
         {
@@ -779,6 +866,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Alexandre Chaudret",
+            "alias": "",
+            "position": "41",
             "card_name2": "Indivine Perforator",
             "color2": "BG",
             "type2": "Creature \u2014 Horror",
@@ -789,6 +878,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Erik Szczygiel",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -807,6 +897,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Yuchen Wang",
+            "alias": "",
+            "position": "42",
             "notes": ""
         },
         {
@@ -825,6 +917,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Yuchen Wang",
+            "alias": "",
+            "position": "43",
             "notes": ""
         },
         {
@@ -843,6 +937,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Anastasiya Capibasya Pankova",
+            "alias": "",
+            "position": "44",
             "notes": ""
         },
         {
@@ -861,6 +957,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Areakst Kingglost",
+            "alias": "",
+            "position": "45",
             "notes": ""
         },
         {
@@ -879,6 +977,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Lalita WIP",
+            "alias": "",
+            "position": "46",
             "notes": ""
         },
         {
@@ -897,6 +997,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Petrilous",
+            "alias": "",
+            "position": "47",
             "notes": "!tag spotlight"
         },
         {
@@ -915,6 +1017,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Mircea Nicula",
+            "alias": "",
+            "position": "48",
             "notes": ""
         },
         {
@@ -933,6 +1037,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Eryk Szczygiel",
+            "alias": "",
+            "position": "49",
             "notes": ""
         },
         {
@@ -951,6 +1057,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Thomas Dumey - Locki",
+            "alias": "",
+            "position": "50",
             "notes": ""
         },
         {
@@ -969,6 +1077,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Jun Kim",
+            "alias": "",
+            "position": "51",
             "notes": ""
         },
         {
@@ -987,6 +1097,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Alexandre Chaudret",
+            "alias": "",
+            "position": "52",
             "notes": ""
         },
         {
@@ -1005,6 +1117,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Kiuyan Ran / Krusier",
+            "alias": "",
+            "position": "53",
             "notes": "!tag spotlight"
         },
         {
@@ -1023,6 +1137,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nero Gen",
+            "alias": "",
+            "position": "54",
             "card_name2": "Odeon, Bloom of Sin",
             "color2": "WB",
             "type2": "Legendary Creature \u2014 Avatar",
@@ -1033,6 +1149,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Jae Park",
+            "alias2": "",
             "notes": "!tag twink"
         },
         {
@@ -1051,6 +1168,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Marton Adam Marton",
+            "alias": "",
+            "position": "55",
             "notes": ""
         },
         {
@@ -1069,6 +1188,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Thomas Dumey - Locki",
+            "alias": "",
+            "position": "56",
             "notes": ""
         },
         {
@@ -1087,6 +1208,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Sebastian Kowoll",
+            "alias": "",
+            "position": "57",
             "notes": ""
         },
         {
@@ -1105,6 +1228,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nick Keller",
+            "alias": "",
+            "position": "58",
             "notes": ""
         },
         {
@@ -1123,6 +1248,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nick Keller",
+            "alias": "",
+            "position": "59",
             "notes": "Arcun"
         },
         {
@@ -1133,7 +1260,7 @@
             "number": 221,
             "color_identity": "UG",
             "cost": "{2}{G}{U}",
-            "rules_text": "{T}: Add {C}{C}.\n{T}: Draw a card. If you control artifact creatures with total power 10 or greater, draw three cards instead.",
+            "rules_text": "{T}: Add {C}{C}.\n{2}, {T}: Draw a card. If you control artifact creatures with total power 10 or greater, draw three cards instead.",
             "flavor_text": "[i]The dead were interred in steel casts, to preserve their bodies for a resurrection that never came.[/i]",
             "pt": "",
             "special_text": "",
@@ -1141,6 +1268,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nick Keller",
+            "alias": "",
+            "position": "60",
             "notes": ""
         },
         {
@@ -1159,6 +1288,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Sygdom",
+            "alias": "",
+            "position": "61",
             "notes": ""
         },
         {
@@ -1177,6 +1308,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "spitespitfire",
+            "alias": "",
+            "position": "62",
             "notes": "arcun"
         },
         {
@@ -1195,6 +1328,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Amita S",
+            "alias": "",
+            "position": "63",
             "notes": "arcun"
         },
         {
@@ -1213,6 +1348,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Melissa Spandri",
+            "alias": "",
+            "position": "64",
             "notes": ""
         },
         {
@@ -1231,6 +1368,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Mircea Nicula",
+            "alias": "",
+            "position": "65",
             "notes": ""
         },
         {
@@ -1249,6 +1388,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Oksana Kerro",
+            "alias": "",
+            "position": "66",
             "notes": ""
         },
         {
@@ -1267,6 +1408,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Jens Lindfors",
+            "alias": "",
+            "position": "67",
             "notes": ""
         },
         {
@@ -1285,6 +1428,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Matt Cowdery",
+            "alias": "",
+            "position": "68",
             "notes": ""
         },
         {
@@ -1303,6 +1448,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ilya Vatutin",
+            "alias": "",
+            "position": "69",
             "notes": ""
         },
         {
@@ -1321,6 +1468,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "AQRITZ",
+            "alias": "",
+            "position": "70",
             "notes": ""
         },
         {
@@ -1339,6 +1488,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Kristina Gehrmann",
+            "alias": "",
+            "position": "71",
             "card_name2": "Ward of the Heavens",
             "color2": "WG",
             "type2": "Creature \u2014 Angel",
@@ -1349,6 +1500,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Asur Misoa",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -1367,6 +1519,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Konstantin Vavilov",
+            "alias": "",
+            "position": "72",
             "notes": ""
         },
         {
@@ -1385,6 +1539,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "MorkarDFC",
+            "alias": "",
+            "position": "73",
             "notes": ""
         },
         {
@@ -1403,6 +1559,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Lester Fajardo",
+            "alias": "",
+            "position": "74",
             "card_name2": "Duskbringer",
             "color2": "WB",
             "type2": "Creature \u2014 Avatar Knight",
@@ -1413,6 +1571,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Lester Fajardo",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -1431,6 +1590,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "athrodr",
+            "alias": "",
+            "position": "75",
             "notes": ""
         },
         {
@@ -1449,6 +1610,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Jing Liang",
+            "alias": "",
+            "position": "76",
             "notes": ""
         },
         {
@@ -1467,6 +1630,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Jim Pavelec",
+            "alias": "",
+            "position": "77",
             "notes": ""
         },
         {
@@ -1485,6 +1650,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Lester Fajardo",
+            "alias": "",
+            "position": "78",
             "notes": ""
         },
         {
@@ -1503,6 +1670,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Lester Fajardo",
+            "alias": "",
+            "position": "79",
             "notes": ""
         },
         {
@@ -1521,6 +1690,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "kirinkarwai",
+            "alias": "",
+            "position": "80",
             "notes": ""
         },
         {
@@ -1539,6 +1710,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "kirinkarwai",
+            "alias": "",
+            "position": "81",
             "notes": ""
         },
         {
@@ -1557,6 +1730,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Leon Jaume",
+            "alias": "",
+            "position": "82",
             "notes": ""
         },
         {
@@ -1575,6 +1750,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Midigan",
+            "alias": "",
+            "position": "83",
             "notes": ""
         },
         {
@@ -1584,7 +1761,7 @@
             "type": "Creature \u2014 Skeleton Serpent",
             "number": 57,
             "color_identity": "U",
-            "cost": "{6}{U}",
+            "cost": "{5}{U}{U}",
             "rules_text": "Flash\nConvoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]\nWhen this creature enters, you may counter target activated or triggered ability. If an ability of a permanent is countered this way, you may gain control of it.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
@@ -1593,6 +1770,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Midigan",
+            "alias": "",
+            "position": "84",
             "notes": ""
         },
         {
@@ -1611,6 +1790,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Sergei Sarichev",
+            "alias": "",
+            "position": "85",
             "notes": ""
         },
         {
@@ -1629,6 +1810,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Alex Konstad",
+            "alias": "",
+            "position": "86",
             "notes": ""
         },
         {
@@ -1647,6 +1830,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ilya Royz",
+            "alias": "",
+            "position": "87",
             "notes": "Arcun"
         },
         {
@@ -1665,6 +1850,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Gibbs Santos",
+            "alias": "",
+            "position": "88",
             "notes": "Arcun"
         },
         {
@@ -1683,6 +1870,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Qing Wen",
+            "alias": "",
+            "position": "89",
             "notes": "Arcun"
         },
         {
@@ -1701,6 +1890,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Rio Yudha",
+            "alias": "",
+            "position": "90",
             "notes": ""
         },
         {
@@ -1719,6 +1910,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Digital Forms",
+            "alias": "",
+            "position": "91",
             "notes": "Arcun"
         },
         {
@@ -1737,6 +1930,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Petr Donat",
+            "alias": "",
+            "position": "92",
             "notes": "Arcun"
         },
         {
@@ -1755,6 +1950,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Panjoool",
+            "alias": "",
+            "position": "93",
             "notes": "!tag spotlight"
         },
         {
@@ -1773,6 +1970,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Plutus Su",
+            "alias": "",
+            "position": "94",
             "notes": "Arcun"
         },
         {
@@ -1791,6 +1990,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "DarKayNess",
+            "alias": "",
+            "position": "95",
             "notes": ""
         },
         {
@@ -1809,6 +2010,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Komarova Liubov Ramorina",
+            "alias": "",
+            "position": "96",
             "notes": "Arcun"
         },
         {
@@ -1827,6 +2030,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Alexandre Chaudret",
+            "alias": "",
+            "position": "97",
             "notes": "Arcun"
         },
         {
@@ -1845,6 +2050,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Jo Cordisco",
+            "alias": "",
+            "position": "98",
             "notes": "Arcun"
         },
         {
@@ -1863,6 +2070,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Yashaswi Karthik",
+            "alias": "",
+            "position": "99",
             "notes": "Arcun"
         },
         {
@@ -1881,6 +2090,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Kir Malov",
+            "alias": "",
+            "position": "100",
             "notes": "Arcun"
         },
         {
@@ -1899,6 +2110,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Matt Cowdery",
+            "alias": "",
+            "position": "101",
             "notes": "Arcun"
         },
         {
@@ -1917,6 +2130,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Sebastian Kowoll",
+            "alias": "",
+            "position": "102",
             "notes": "Arcun"
         },
         {
@@ -1935,6 +2150,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Maros Manhardt",
+            "alias": "",
+            "position": "103",
             "notes": ""
         },
         {
@@ -1953,6 +2170,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Tatiana Krstic",
+            "alias": "",
+            "position": "104",
             "notes": ""
         },
         {
@@ -1971,6 +2190,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Sebastian Kowoll",
+            "alias": "",
+            "position": "105",
             "notes": ""
         },
         {
@@ -1989,6 +2210,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Matt Rhodes",
+            "alias": "",
+            "position": "106",
             "notes": ""
         },
         {
@@ -2007,6 +2230,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Damien Mammoliti",
+            "alias": "",
+            "position": "107",
             "notes": ""
         },
         {
@@ -2025,6 +2250,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Tomasz Jedruszek",
+            "alias": "",
+            "position": "108",
             "notes": ""
         },
         {
@@ -2043,6 +2270,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "NUARE",
+            "alias": "",
+            "position": "109",
             "notes": ""
         },
         {
@@ -2061,6 +2290,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Remarin",
+            "alias": "",
+            "position": "110",
             "notes": ""
         },
         {
@@ -2079,6 +2310,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Aether Games Inc.",
+            "alias": "",
+            "position": "111",
             "notes": ""
         },
         {
@@ -2097,6 +2330,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Lorenzo Mastroianni",
+            "alias": "",
+            "position": "112",
             "notes": ""
         },
         {
@@ -2115,6 +2350,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Dmitry Dalnev",
+            "alias": "",
+            "position": "113",
             "notes": ""
         },
         {
@@ -2133,6 +2370,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Giulio D'Amico",
+            "alias": "",
+            "position": "114",
             "notes": ""
         },
         {
@@ -2151,6 +2390,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Izzy Leidl Art",
+            "alias": "",
+            "position": "115",
             "notes": ""
         },
         {
@@ -2169,6 +2410,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Chi Huei Chen",
+            "alias": "",
+            "position": "116",
             "notes": ""
         },
         {
@@ -2187,6 +2430,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Kent Davis",
+            "alias": "",
+            "position": "117",
             "notes": ""
         },
         {
@@ -2205,6 +2450,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nick Keller",
+            "alias": "",
+            "position": "118",
             "notes": ""
         },
         {
@@ -2223,6 +2470,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Michal Matczak",
+            "alias": "",
+            "position": "119",
             "notes": ""
         },
         {
@@ -2241,6 +2490,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Al Jerek Torrijas",
+            "alias": "",
+            "position": "120",
             "notes": ""
         },
         {
@@ -2259,6 +2510,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "JasonTN",
+            "alias": "",
+            "position": "121",
             "notes": "!tag spotlight"
         },
         {
@@ -2277,6 +2530,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Asim A. Steckel",
+            "alias": "",
+            "position": "122",
             "notes": ""
         },
         {
@@ -2295,6 +2550,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Matt Cowdery",
+            "alias": "",
+            "position": "123",
             "notes": ""
         },
         {
@@ -2313,6 +2570,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Acrassan",
+            "alias": "",
+            "position": "124",
             "notes": ""
         },
         {
@@ -2331,6 +2590,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Kati StarSoulArt",
+            "alias": "",
+            "position": "125",
             "notes": ""
         },
         {
@@ -2349,6 +2610,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Iyla Vatutin",
+            "alias": "",
+            "position": "126",
             "notes": ""
         },
         {
@@ -2359,7 +2622,7 @@
             "number": 226,
             "color_identity": "BR",
             "cost": "{B}{R}",
-            "rules_text": "Whenever you cast a noncreature spell, you may pay 1 life. If you do, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]\n{1}{B}{R}, {T}, Seal 4: Create a 4/4 black and red Vampire Dragon creature token with flying and lifelink. Activate only as a sorcery. [i](To seal 4, exile up to four cards with four or more card types among them from your graveyard.)[/i]",
+            "rules_text": "Whenever you cast a noncreature spell, you may pay 1 life. If you do, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\u201d)[/i]\n{1}{B}{R}, {T}, Seal 4: Create a 4/4 black and red Vampire Dragon creature token with flying and lifelink. Activate only as a sorcery. [i](To seal 4, exile up to four cards with four or more card types among them from your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -2367,6 +2630,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Fede",
+            "alias": "",
+            "position": "127",
             "notes": "!tag gay"
         },
         {
@@ -2385,6 +2650,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Fede",
+            "alias": "",
+            "position": "128",
             "notes": ""
         },
         {
@@ -2403,6 +2670,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Anh Le",
+            "alias": "",
+            "position": "129",
             "card_name2": "Spinner of Creation",
             "color2": "UG",
             "type2": "Artifact Creature \u2014 Golem Cleric",
@@ -2413,6 +2682,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "anika mercier",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -2431,6 +2701,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Marcos V. Monken",
+            "alias": "",
+            "position": "130",
             "notes": ""
         },
         {
@@ -2449,6 +2721,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Lionel prats",
+            "alias": "",
+            "position": "131",
             "notes": ""
         },
         {
@@ -2467,6 +2741,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Tamas Patkos",
+            "alias": "",
+            "position": "132",
             "notes": ""
         },
         {
@@ -2485,6 +2761,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Jordan Van Der Merwe",
+            "alias": "",
+            "position": "133",
             "notes": ""
         },
         {
@@ -2503,6 +2781,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ognevka Fenella",
+            "alias": "",
+            "position": "134",
             "notes": ""
         },
         {
@@ -2521,6 +2801,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Lalita Wip",
+            "alias": "",
+            "position": "135",
             "notes": ""
         },
         {
@@ -2539,6 +2821,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Chunyu Wang",
+            "alias": "",
+            "position": "136",
             "notes": ""
         },
         {
@@ -2557,6 +2841,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Tomek Kaluzny",
+            "alias": "",
+            "position": "137",
             "notes": ""
         },
         {
@@ -2575,6 +2861,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Zea (Antoine Leblanc)",
+            "alias": "",
+            "position": "138",
             "notes": ""
         },
         {
@@ -2593,6 +2881,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Grafit Studio",
+            "alias": "",
+            "position": "139",
             "notes": ""
         },
         {
@@ -2611,6 +2901,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Thomas Dumey Locki",
+            "alias": "",
+            "position": "140",
             "notes": ""
         },
         {
@@ -2629,6 +2921,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Dorje Bellbroo",
+            "alias": "",
+            "position": "141",
             "notes": ""
         },
         {
@@ -2647,6 +2941,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Camilo Palma",
+            "alias": "",
+            "position": "142",
             "notes": ""
         },
         {
@@ -2665,6 +2961,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Midigan",
+            "alias": "",
+            "position": "143",
             "notes": ""
         },
         {
@@ -2683,6 +2981,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Manuel Casta\u00f1\u00f3n",
+            "alias": "",
+            "position": "144",
             "notes": ""
         },
         {
@@ -2701,6 +3001,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Tobias Kwan",
+            "alias": "",
+            "position": "145",
             "notes": ""
         },
         {
@@ -2719,6 +3021,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ana Paniagua",
+            "alias": "",
+            "position": "146",
             "notes": ""
         },
         {
@@ -2737,6 +3041,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ven Locklear",
+            "alias": "",
+            "position": "147",
             "notes": ""
         },
         {
@@ -2755,6 +3061,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Zachary Reeves",
+            "alias": "",
+            "position": "148",
             "notes": ""
         },
         {
@@ -2773,6 +3081,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Dmitry Dalnev",
+            "alias": "",
+            "position": "149",
             "notes": ""
         },
         {
@@ -2791,6 +3101,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nino Is",
+            "alias": "",
+            "position": "150",
             "notes": ""
         },
         {
@@ -2809,6 +3121,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Harkale Linai",
+            "alias": "",
+            "position": "151",
             "notes": ""
         },
         {
@@ -2827,6 +3141,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Hilary Purnamasari",
+            "alias": "",
+            "position": "152",
             "notes": ""
         },
         {
@@ -2845,6 +3161,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Wirawan Pranoto",
+            "alias": "",
+            "position": "153",
             "notes": ""
         },
         {
@@ -2863,6 +3181,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "mist XG",
+            "alias": "",
+            "position": "154",
             "notes": ""
         },
         {
@@ -2881,6 +3201,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Alejandro Hurtado",
+            "alias": "",
+            "position": "155",
             "notes": ""
         },
         {
@@ -2899,6 +3221,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Evgeny Romanov",
+            "alias": "",
+            "position": "156",
             "notes": ""
         },
         {
@@ -2917,6 +3241,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ryan Van Dongen",
+            "alias": "",
+            "position": "157",
             "notes": ""
         },
         {
@@ -2935,6 +3261,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Carson Daniel",
+            "alias": "",
+            "position": "158",
             "notes": ""
         },
         {
@@ -2953,6 +3281,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Mikyxone",
+            "alias": "",
+            "position": "159",
             "notes": ""
         },
         {
@@ -2971,6 +3301,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Theo Legouis Teolehog",
+            "alias": "",
+            "position": "160",
             "notes": ""
         },
         {
@@ -2989,6 +3321,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Tomasz Chistowski",
+            "alias": "",
+            "position": "161",
             "notes": ""
         },
         {
@@ -3007,6 +3341,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Zhuopeng Zhu",
+            "alias": "",
+            "position": "162",
             "notes": ""
         },
         {
@@ -3025,6 +3361,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Silvia Meiliani",
+            "alias": "",
+            "position": "163",
             "notes": ""
         },
         {
@@ -3043,6 +3381,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Sam Yang",
+            "alias": "",
+            "position": "164",
             "notes": ""
         },
         {
@@ -3061,6 +3401,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Acrassan",
+            "alias": "",
+            "position": "165",
             "notes": ""
         },
         {
@@ -3079,6 +3421,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Mircea Nicula",
+            "alias": "",
+            "position": "166",
             "notes": ""
         },
         {
@@ -3097,6 +3441,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "ozan erdi",
+            "alias": "",
+            "position": "167",
             "notes": ""
         },
         {
@@ -3115,6 +3461,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Limb-O",
+            "alias": "",
+            "position": "168",
             "notes": ""
         },
         {
@@ -3133,6 +3481,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Silvia Meiliani",
+            "alias": "",
+            "position": "169",
             "notes": ""
         },
         {
@@ -3151,6 +3501,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Silvia Meiliani",
+            "alias": "",
+            "position": "170",
             "notes": ""
         },
         {
@@ -3169,6 +3521,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Matias Gonzalez",
+            "alias": "",
+            "position": "171",
             "notes": ""
         },
         {
@@ -3187,6 +3541,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Acrassan",
+            "alias": "",
+            "position": "172",
             "notes": ""
         },
         {
@@ -3205,6 +3561,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Julie Dillon",
+            "alias": "",
+            "position": "173",
             "notes": ""
         },
         {
@@ -3223,6 +3581,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Alex Konstad",
+            "alias": "",
+            "position": "174",
             "notes": ""
         },
         {
@@ -3241,6 +3601,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Robson Michel",
+            "alias": "",
+            "position": "175",
             "notes": ""
         },
         {
@@ -3259,6 +3621,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Jordan Kerbow",
+            "alias": "",
+            "position": "176",
             "notes": ""
         },
         {
@@ -3277,6 +3641,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Eduardo Dominguez",
+            "alias": "",
+            "position": "177",
             "notes": ""
         },
         {
@@ -3295,6 +3661,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "jdtmart",
+            "alias": "",
+            "position": "178",
             "notes": ""
         },
         {
@@ -3313,6 +3681,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Cher-Ro",
+            "alias": "",
+            "position": "179",
             "notes": ""
         },
         {
@@ -3331,6 +3701,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Cher-Ro",
+            "alias": "",
+            "position": "180",
             "notes": ""
         },
         {
@@ -3349,6 +3721,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "xiaofanchuanart",
+            "alias": "",
+            "position": "181",
             "notes": ""
         },
         {
@@ -3367,6 +3741,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Aldo Dominguez",
+            "alias": "",
+            "position": "182",
             "notes": ""
         },
         {
@@ -3385,6 +3761,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Vulpes Ibculta",
+            "alias": "",
+            "position": "183",
             "notes": ""
         },
         {
@@ -3403,6 +3781,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Christopher Cant",
+            "alias": "",
+            "position": "184",
             "notes": ""
         },
         {
@@ -3421,6 +3801,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Sara Contreras",
+            "alias": "",
+            "position": "185",
             "notes": ""
         },
         {
@@ -3439,6 +3821,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Christopher Cant",
+            "alias": "",
+            "position": "186",
             "notes": ""
         },
         {
@@ -3457,6 +3841,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Matheus Ast",
+            "alias": "",
+            "position": "187",
             "notes": ""
         },
         {
@@ -3475,6 +3861,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ari-Matti Toivonen",
+            "alias": "",
+            "position": "188",
             "notes": ""
         },
         {
@@ -3493,6 +3881,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "li moly",
+            "alias": "",
+            "position": "189",
             "notes": ""
         },
         {
@@ -3511,6 +3901,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Chris Cold",
+            "alias": "",
+            "position": "190",
             "notes": ""
         },
         {
@@ -3529,6 +3921,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nastya-Lehn",
+            "alias": "",
+            "position": "191",
             "notes": ""
         },
         {
@@ -3547,6 +3941,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Pavel Kolomeyets",
+            "alias": "",
+            "position": "192",
             "notes": ""
         },
         {
@@ -3565,6 +3961,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Travis Anderson",
+            "alias": "",
+            "position": "193",
             "notes": ""
         },
         {
@@ -3583,6 +3981,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Travis Anderson",
+            "alias": "",
+            "position": "194",
             "notes": ""
         },
         {
@@ -3601,6 +4001,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Travis Anderson",
+            "alias": "",
+            "position": "195",
             "notes": ""
         },
         {
@@ -3619,6 +4021,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "OrangeSavannah",
+            "alias": "",
+            "position": "196",
             "notes": ""
         },
         {
@@ -3637,6 +4041,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nolan Lu",
+            "alias": "",
+            "position": "197",
             "notes": ""
         },
         {
@@ -3655,6 +4061,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Celestial Fang",
+            "alias": "",
+            "position": "198",
             "notes": "!tag twink"
         },
         {
@@ -3673,6 +4081,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Celestial Fang",
+            "alias": "",
+            "position": "199",
             "notes": ""
         },
         {
@@ -3691,6 +4101,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Anton Oxenuk",
+            "alias": "",
+            "position": "200",
             "notes": ""
         },
         {
@@ -3709,6 +4121,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Qifeng Lin",
+            "alias": "",
+            "position": "201",
             "notes": ""
         },
         {
@@ -3727,6 +4141,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Natalia Romero N\u00fa\u00f1ez",
+            "alias": "",
+            "position": "202",
             "notes": ""
         },
         {
@@ -3745,6 +4161,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Qifeng Lin",
+            "alias": "",
+            "position": "203",
             "notes": ""
         },
         {
@@ -3763,6 +4181,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Virgile Boulais",
+            "alias": "",
+            "position": "204",
             "notes": ""
         },
         {
@@ -3781,6 +4201,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "spitespitfire",
+            "alias": "",
+            "position": "205",
             "notes": ""
         },
         {
@@ -3799,6 +4221,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Vini Pereira",
+            "alias": "",
+            "position": "206",
             "notes": ""
         },
         {
@@ -3817,6 +4241,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Maxim Bazhenov",
+            "alias": "",
+            "position": "207",
             "notes": ""
         },
         {
@@ -3835,6 +4261,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Dominik Mayer",
+            "alias": "",
+            "position": "208",
             "notes": ""
         },
         {
@@ -3853,6 +4281,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "jyongyi",
+            "alias": "",
+            "position": "209",
             "notes": ""
         },
         {
@@ -3871,6 +4301,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Yuyun Jessie Jiang",
+            "alias": "",
+            "position": "210",
             "notes": ""
         },
         {
@@ -3889,6 +4321,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Olivier Bernard",
+            "alias": "",
+            "position": "211",
             "notes": ""
         },
         {
@@ -3907,6 +4341,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Bear Frymire",
+            "alias": "",
+            "position": "212",
             "notes": ""
         },
         {
@@ -3925,6 +4361,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Aldo Dominguez",
+            "alias": "",
+            "position": "213",
             "notes": ""
         },
         {
@@ -3943,6 +4381,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Valera Lutfullina",
+            "alias": "",
+            "position": "214",
             "notes": ""
         },
         {
@@ -3961,6 +4401,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Celest C.",
+            "alias": "",
+            "position": "215",
             "notes": "!tag spotlight"
         },
         {
@@ -3979,6 +4421,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Noah Thatcher",
+            "alias": "",
+            "position": "216",
             "notes": ""
         },
         {
@@ -3997,6 +4441,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Diana Franco",
+            "alias": "",
+            "position": "217",
             "notes": ""
         },
         {
@@ -4015,6 +4461,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ari-Matti Toivonen",
+            "alias": "",
+            "position": "218",
             "notes": ""
         },
         {
@@ -4033,6 +4481,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Y - mir",
+            "alias": "",
+            "position": "219",
             "notes": ""
         },
         {
@@ -4043,7 +4493,7 @@
             "number": 53,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Flash\nWhen this creature enters, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]\nThe first instant and/or sorcery spell you cast each turn costs {1} less to cast.\nWhenever you discard an instant or sorcery card, you may cast it from your graveyard.",
+            "rules_text": "Flash\nWhen this creature enters, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\u201d)[/i]\nThe first instant and/or sorcery spell you cast each turn costs {1} less to cast.\nWhenever you discard an instant or sorcery card, you may cast it from your graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -4051,6 +4501,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "F3LC4T",
+            "alias": "",
+            "position": "220",
             "notes": ""
         },
         {
@@ -4069,6 +4521,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Bartek Fedyczak",
+            "alias": "",
+            "position": "221",
             "notes": ""
         },
         {
@@ -4087,6 +4541,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Thanumpa Mohprasit",
+            "alias": "",
+            "position": "222",
             "notes": ""
         },
         {
@@ -4105,6 +4561,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Vasily Ermolaev",
+            "alias": "",
+            "position": "223",
             "notes": ""
         },
         {
@@ -4123,6 +4581,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Yoji Grey",
+            "alias": "",
+            "position": "224",
             "notes": ""
         },
         {
@@ -4141,6 +4601,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "ibrahem swaid",
+            "alias": "",
+            "position": "225",
             "notes": "!tag spotlight"
         },
         {
@@ -4159,6 +4621,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Bartek Fedyczak",
+            "alias": "",
+            "position": "226",
             "notes": ""
         },
         {
@@ -4177,6 +4641,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Satoru Wada",
+            "alias": "",
+            "position": "227",
             "notes": ""
         },
         {
@@ -4195,6 +4661,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Federico Musetti",
+            "alias": "",
+            "position": "228",
             "notes": ""
         },
         {
@@ -4213,6 +4681,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Bartek Fedyczak",
+            "alias": "",
+            "position": "229",
             "notes": ""
         },
         {
@@ -4231,6 +4701,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Jesus Campos \"Nerkin\"",
+            "alias": "",
+            "position": "230",
             "notes": ""
         },
         {
@@ -4249,6 +4721,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ari Ibarra",
+            "alias": "",
+            "position": "231",
             "notes": ""
         },
         {
@@ -4267,6 +4741,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Evgeny Romanov",
+            "alias": "",
+            "position": "232",
             "notes": ""
         },
         {
@@ -4285,6 +4761,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Allan Santos",
+            "alias": "",
+            "position": "233",
             "notes": ""
         },
         {
@@ -4303,6 +4781,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Dmitry Skvortsov",
+            "alias": "",
+            "position": "234",
             "notes": ""
         },
         {
@@ -4321,6 +4801,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "daarken",
+            "alias": "",
+            "position": "235",
             "notes": ""
         },
         {
@@ -4339,6 +4821,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Dustin Panzino",
+            "alias": "",
+            "position": "236",
             "notes": ""
         },
         {
@@ -4357,6 +4841,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Veli Nystrom",
+            "alias": "",
+            "position": "237",
             "notes": ""
         },
         {
@@ -4375,6 +4861,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Aldo Dominguez",
+            "alias": "",
+            "position": "238",
             "notes": ""
         },
         {
@@ -4393,6 +4881,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Aldo Dominquez",
+            "alias": "",
+            "position": "239",
             "notes": ""
         },
         {
@@ -4411,6 +4901,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Yun Huai Huang",
+            "alias": "",
+            "position": "240",
             "notes": ""
         },
         {
@@ -4429,6 +4921,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nini Is.",
+            "alias": "",
+            "position": "241",
             "notes": ""
         },
         {
@@ -4439,7 +4933,7 @@
             "number": 127,
             "color_identity": "R",
             "cost": "{4}{R}",
-            "rules_text": "Exile the top three cards of your library. Until the end of your next turn, you may play those cards.\nCreate three Treasure tokens. [i](They're artifacts with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "Exile the top three cards of your library. Until the end of your next turn, you may play those cards.\nCreate three Treasure tokens. [i](They're artifacts with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4447,6 +4941,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Kamila Szutenberg",
+            "alias": "",
+            "position": "242",
             "notes": ""
         },
         {
@@ -4465,6 +4961,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Celestial Fang",
+            "alias": "",
+            "position": "243",
             "notes": ""
         },
         {
@@ -4474,15 +4972,17 @@
             "type": "Creature \u2014 Angel Sphinx",
             "number": 63,
             "color_identity": "U",
-            "cost": "{3}{U}{U}",
+            "cost": "{5}{U}{U}",
             "rules_text": "Flying\nWhen this creature enters, reveal the top five cards of your library and separate them into two piles. An opponent chooses one of those piles. Exile that pile and put the other into your graveyard. You may play the cards exiled this way for as long as you control this creature. Whenever you play a card exiled this way, create a 4/4 white Angel creature token with flying.",
             "flavor_text": "[i][/i]",
-            "pt": "4/4",
+            "pt": "5/5",
             "special_text": "",
             "shape": "normal",
             "set": "SOL",
             "loyalty": "",
             "artist": "ERA-7S",
+            "alias": "",
+            "position": "244",
             "notes": ""
         },
         {
@@ -4501,6 +5001,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Joshua Raphael",
+            "alias": "",
+            "position": "245",
             "notes": ""
         },
         {
@@ -4519,6 +5021,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "CAO KE",
+            "alias": "",
+            "position": "246",
             "notes": ""
         },
         {
@@ -4537,6 +5041,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Henrique Lindner",
+            "alias": "",
+            "position": "247",
             "notes": ""
         },
         {
@@ -4547,7 +5053,7 @@
             "number": 33,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
-            "rules_text": "Flying, lifelink\nOther creatures you control with flying get +1/+1.\nSoulsplit {4}{W} [i]({4}{W}: Create a 1/1 token copy of this creature without this ability. Activate only as a sorcery and only once.)[/i]",
+            "rules_text": "Flying\nOther creatures you control with flying get +1/+1.\nSoulsplit {4}{W} [i]({4}{W}: Create a 1/1 token copy of this creature without this ability. Activate only as a sorcery and only once.)[/i]",
             "flavor_text": "[i]\u201cI carve our hymns into the stars.\u201d[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -4555,6 +5061,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Billy Christian",
+            "alias": "",
+            "position": "248",
             "notes": ""
         },
         {
@@ -4573,6 +5081,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "marvinblattert",
+            "alias": "",
+            "position": "249",
             "notes": ""
         },
         {
@@ -4591,6 +5101,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Solinaught",
+            "alias": "",
+            "position": "250",
             "notes": "!tag spotlight"
         },
         {
@@ -4609,6 +5121,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "MissSiah",
+            "alias": "",
+            "position": "251",
             "notes": ""
         },
         {
@@ -4627,6 +5141,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "lily",
+            "alias": "",
+            "position": "252",
             "notes": ""
         },
         {
@@ -4645,6 +5161,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "JusticeWong",
+            "alias": "",
+            "position": "253",
             "notes": ""
         },
         {
@@ -4663,6 +5181,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Jonas Jakobsson",
+            "alias": "",
+            "position": "254",
             "notes": ""
         },
         {
@@ -4681,6 +5201,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "li moly",
+            "alias": "",
+            "position": "255",
             "notes": ""
         },
         {
@@ -4699,6 +5221,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Plumehead",
+            "alias": "",
+            "position": "256",
             "notes": ""
         },
         {
@@ -4717,6 +5241,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Panjoool",
+            "alias": "",
+            "position": "257",
             "notes": ""
         },
         {
@@ -4735,6 +5261,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nikolay Yeliseyev",
+            "alias": "",
+            "position": "258",
             "notes": ""
         },
         {
@@ -4745,7 +5273,7 @@
             "number": 253,
             "color_identity": "B",
             "cost": "",
-            "rules_text": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {B}.\n{B}, {T}: Return target creature card from your graveyard to your hand if it was put there from anywhere other than the battlefield this turn.",
+            "rules_text": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {B}.\n{1}{B}, {T}: Return target creature card from your graveyard to your hand if it was put there from anywhere other than the battlefield this turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4753,6 +5281,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Eryk Szczygiel",
+            "alias": "",
+            "position": "259",
             "notes": ""
         },
         {
@@ -4771,6 +5301,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "li moly",
+            "alias": "",
+            "position": "260",
             "notes": ""
         },
         {
@@ -4789,6 +5321,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "li moly",
+            "alias": "",
+            "position": "261",
             "notes": ""
         },
         {
@@ -4807,6 +5341,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "li moly",
+            "alias": "",
+            "position": "262",
             "notes": ""
         },
         {
@@ -4825,6 +5361,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "li moly",
+            "alias": "",
+            "position": "263",
             "notes": ""
         },
         {
@@ -4843,6 +5381,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Lorenzo Lanfranconi",
+            "alias": "",
+            "position": "264",
             "notes": ""
         },
         {
@@ -4861,6 +5401,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Philipp A. Ulrich",
+            "alias": "",
+            "position": "265",
             "notes": ""
         },
         {
@@ -4879,6 +5421,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Samuele Bandini",
+            "alias": "",
+            "position": "266",
             "notes": ""
         },
         {
@@ -4897,6 +5441,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Xabier Urrutia",
+            "alias": "",
+            "position": "267",
             "notes": ""
         },
         {
@@ -4915,6 +5461,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "He Xiaosong",
+            "alias": "",
+            "position": "268",
             "notes": ""
         },
         {
@@ -4933,6 +5481,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Elrad Choy",
+            "alias": "",
+            "position": "269",
             "notes": ""
         },
         {
@@ -4951,6 +5501,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Huu Ha",
+            "alias": "",
+            "position": "270",
             "notes": ""
         },
         {
@@ -4969,6 +5521,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "BarretFrymire",
+            "alias": "",
+            "position": "271",
             "notes": ""
         },
         {
@@ -4987,6 +5541,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Max Roche",
+            "alias": "",
+            "position": "272",
             "notes": ""
         },
         {
@@ -5005,6 +5561,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
+            "position": "273",
             "notes": ""
         },
         {
@@ -5023,26 +5581,10 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Sikaran Susirakarn",
+            "alias": "",
+            "position": "274",
             "notes": ""
-        },
-        {
-            "card_name": "Doom Monarch",
-            "color": "R",
-            "rarity": "rare",
-            "type": "Creature \u2014 Zombie Noble",
-            "number": 0,
-            "color_identity": "R",
-            "cost": "{R}",
-            "rules_text": "You may look at the top card of your library any time.\nOnce each turn, you may cast a spell from the top of your library by discarding a card in addition to that spell's other costs.\n[i]Desolate[/i] \u2014 As long as you have one or fewer cards in hand, this creature gets +2/+1 and has menace.",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "normal",
-            "set": "SOL",
-            "loyalty": "",
-            "artist": "zhang jing",
-            "notes": "!group promo\n!sort 01"
         }
     ],
-    "version": 7
+    "version": 8
 }

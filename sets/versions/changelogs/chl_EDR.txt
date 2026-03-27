@@ -1,4 +1,88 @@
-﻿VERSION 24 CHANGELOG
+﻿VERSION 25 CHANGELOG
+====================
+
+Knight of the Fringes added.
+Capital Perfumer added.
+Old Untouchable added.
+Old Hero of Zamor added.
+Pawns in a Plan added.
+
+Banished Knight removed.
+Ancestral Follower removed.
+Aging Untouchable removed.
+Ancient Hero of Zamor removed.
+Zamor Ice Storm removed.
+
+Veiled Monarch's Reign
+rules_text: Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — Create two 1/1 white Soldier creature tokens.
+II — You gain 1 life for each creature you control.
+III — This Saga deals X damage to up to one target creature or planeswalker, where X is the number of creatures you control. => Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+Create two 1/1 white Soldier creature tokens.
+II — You gain 1 life for each creature you control.
+III — This Saga deals X damage to up to one target creature or planeswalker, where X is the number of creatures you control.
+special_text: Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — Create two 1/1 white Soldier creature tokens.
+II — You gain 1 life for each creature you control.
+III — This Saga deals X damage to up to one target creature or planeswalker, where X is the number of creatures you control. => Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+Create two 1/1 white Soldier creature tokens.
+II — You gain 1 life for each creature you control.
+III — This Saga deals X damage to up to one target creature or planeswalker, where X is the number of creatures you control.
+
+Wisdom of the Moon
+rules_text: Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — Draw a card, then discard a card.
+II, III, IV — Look at the top card of your library. If it shares a name with a card in your graveyard, you may reveal it and put it into your hand. Otherwise, you may put it into your graveyard.
+​ => Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+Draw a card, then discard a card.
+II, III, IV — Look at the top card of your library. If it shares a name with a card in your graveyard, you may reveal it and put it into your hand. Otherwise, you may put it into your graveyard.
+​
+special_text: Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — Draw a card, then discard a card.
+II, III, IV — Look at the top card of your library. If it shares a name with a card in your graveyard, you may reveal it and put it into your hand. Otherwise, you may put it into your graveyard.
+​ => Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+Draw a card, then discard a card.
+II, III, IV — Look at the top card of your library. If it shares a name with a card in your graveyard, you may reveal it and put it into your hand. Otherwise, you may put it into your graveyard.
+​
+
+Placidusax's Ruin
+rules_text: Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — This Saga deals 2 damage to any target.
+II — Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.
+III — Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary. => Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+This Saga deals 2 damage to any target.
+II — Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.
+III — Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary.
+special_text: Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+I — This Saga deals 2 damage to any target.
+II — Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.
+III — Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary. => Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]
+This Saga deals 2 damage to any target.
+II — Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.
+III — Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary.
+
+Promised Consort Radahn
+cost: {3}{U} => {2}{U}
+pt: 3/4 => 2/3
+
+God-Devouring Serpent
+rules_text: Deathtouch
+Whenever God-Devouring Serpent deals combat damage to a player, create a Shard token.
+Final form {6}{BR}{G} [i](You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)[/i] => As long as you've sacrificed a permanent this turn, God-Devouring Serpent has deathtouch.
+Whenever God-Devouring Serpent deals combat damage to a player, create a Shard token.
+Final form {6}{BR}{G} [i](You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)[/i]
+
+Miquella, the Kind
+
+Ancestor Spirit
+rules_text: When this creature dies, create a tapped Ancient Tomb token. [i](It's a land with “{T}: Add {C}{C}. This land deals 2 damage to you.”)[/i] => Flying
+When this creature dies, create a tapped Ancient Tomb token. [i](It's a land with “{T}: Add {C}{C}. This land deals 2 damage to you.”)[/i]
+
+The Gate of Divinity
+cost: {10} => {12}
+
+
+VERSION 24 CHANGELOG
 ====================
 
 

@@ -6639,10 +6639,10 @@
             "number": 39,
             "color_identity": "W",
             "cost": "{4}{W}",
-            "rules_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nI \u2013 Create two 1/1 white Soldier creature tokens.\nII \u2013 You gain 1 life for each creature you control.\nIII \u2013 This Saga deals X damage to up to one target creature or planeswalker, where X is the number of creatures you control.",
+            "rules_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nCreate two 1/1 white Soldier creature tokens.\nII \u2013 You gain 1 life for each creature you control.\nIII \u2013 This Saga deals X damage to up to one target creature or planeswalker, where X is the number of creatures you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nI \u2013 Create two 1/1 white Soldier creature tokens.\nII \u2013 You gain 1 life for each creature you control.\nIII \u2013 This Saga deals X damage to up to one target creature or planeswalker, where X is the number of creatures you control.",
+            "special_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nCreate two 1/1 white Soldier creature tokens.\nII \u2013 You gain 1 life for each creature you control.\nIII \u2013 This Saga deals X damage to up to one target creature or planeswalker, where X is the number of creatures you control.",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",
@@ -6658,13 +6658,13 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Enchantment \u2013 Saga",
-            "number": 81,
+            "number": 82,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nI \u2013 Draw a card, then discard a card.\nII, III, IV \u2013 Look at the top card of your library. If it shares a name with a card in your graveyard, you may reveal it and put it into your hand. Otherwise, you may put it into your graveyard.\n\u200b",
+            "rules_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nDraw a card, then discard a card.\nII, III, IV \u2013 Look at the top card of your library. If it shares a name with a card in your graveyard, you may reveal it and put it into your hand. Otherwise, you may put it into your graveyard.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nI \u2013 Draw a card, then discard a card.\nII, III, IV \u2013 Look at the top card of your library. If it shares a name with a card in your graveyard, you may reveal it and put it into your hand. Otherwise, you may put it into your graveyard.\n\u200b",
+            "special_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nDraw a card, then discard a card.\nII, III, IV \u2013 Look at the top card of your library. If it shares a name with a card in your graveyard, you may reveal it and put it into your hand. Otherwise, you may put it into your graveyard.\n\u200b",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",
@@ -6683,10 +6683,10 @@
             "number": 151,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
-            "rules_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nI \u2013 This Saga deals 2 damage to any target.\nII \u2013 Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.\nIII \u2013 Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary.",
+            "rules_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nThis Saga deals 2 damage to any target.\nII \u2013 Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.\nIII \u2013 Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nI \u2013 This Saga deals 2 damage to any target.\nII \u2013 Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.\nIII \u2013 Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary.",
+            "special_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nThis Saga deals 2 damage to any target.\nII \u2013 Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.\nIII \u2013 Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary.",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",
@@ -6702,7 +6702,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 70,
+            "number": 71,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "If it's your turn, you get an additional upkeep step and an additional draw step after this phase, followed by an additional main phase.",
@@ -6790,7 +6790,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2013 Human Rogue Archer",
-            "number": 142,
+            "number": 141,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Whenever a Dragon dies, Igon deals damage equal to that creature's power to any target.",
@@ -6812,7 +6812,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Artifact Creature \u2013 Golem",
-            "number": 49,
+            "number": 48,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "When this creature enters, scry 2.\n{T}: Add one mana of any color. You can't spend this mana to cast creature spells.",
@@ -6856,7 +6856,7 @@
             "color": "B",
             "rarity": "mythic",
             "type": "Enchantment \u2013 Saga",
-            "number": 107,
+            "number": 106,
             "color_identity": "B",
             "cost": "{X}{2}{B}",
             "rules_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nI \u2013 Each creature gets -X/-X until end of turn.\nII \u2013 Each opponent discards a card.\nIII \u2013 Each opponent chooses a creature card in their graveyard. Put it onto the battlefield under your control.",
@@ -6878,7 +6878,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Creature \u2013 Human Assassin",
-            "number": 86,
+            "number": 85,
             "color_identity": "B",
             "cost": "{B}{B}",
             "rules_text": "Deathtouch, lifelink\nWhenever you gain life, each opponent loses 1 life.",
@@ -6900,7 +6900,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Instant",
-            "number": 72,
+            "number": 73,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
             "rules_text": "Look at the top four cards of your library. Put two into your hand and the rest into your graveyard. Create a Treasure token.",
@@ -7164,7 +7164,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2013 Dragon",
-            "number": 56,
+            "number": 55,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
             "rules_text": "Flying, prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]\nIslandcycling {2} [i]({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i]",
@@ -7226,11 +7226,11 @@
             "v_mana": ""
         },
         {
-            "card_name": "Banished Knight",
+            "card_name": "Knight of the Fringes",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2013 Human Knight",
-            "number": 125,
+            "number": 142,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Remembrance {3}{R}{R} [i]({3}{R}{R}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)[/i]\nDouble strike",
@@ -7274,7 +7274,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2013 Dragon Cleric",
-            "number": 133,
+            "number": 132,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "Remembrance {1}{R} [i]({1}{R}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)[/i]\nWhenever you cast a noncreature spell, put a +1/+1 counter on this creature.",
@@ -7318,7 +7318,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2013 Wolf Horror Warrior",
-            "number": 85,
+            "number": 84,
             "color_identity": "B",
             "cost": "{4}{B}",
             "rules_text": "Whenever this creature attacks, you may sacrifice another creature or enchantment. If you do, this creature gains indestructible until end of turn and you draw a card.",
@@ -7362,7 +7362,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Creature \u2013 Shapeshifter",
-            "number": 62,
+            "number": 61,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
             "rules_text": "You may have this creature enter as a copy of a creature you control, except its name is Mimic Tear and it has \u201cIf a triggered ability of this creature triggers, that ability triggers an additional time.\u201d",
@@ -7406,7 +7406,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2013 Human Knight",
-            "number": 108,
+            "number": 107,
             "color_identity": "B",
             "cost": "{4}{B}{B}",
             "rules_text": "When this creature enters, you may have each player discard a card. Then put two +1/+1 counters on this creature if a player has one or fewer cards in hand.\nSwampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]",
@@ -7527,7 +7527,7 @@
             "color": "U",
             "rarity": "mythic",
             "type": "Legendary Creature \u2013 Human Wizard",
-            "number": 68,
+            "number": 69,
             "color_identity": "WUG",
             "cost": "{1}{U}",
             "rules_text": "Flying\nWhenever you cast a noncreature spell, create a 1/1 blue Wizard creature token.\nFinal form {4}{GW}{U} [i](You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)[/i]",
@@ -7560,7 +7560,7 @@
             "color": "B",
             "rarity": "mythic",
             "type": "Legendary Creature \u2013 Demigod",
-            "number": 105,
+            "number": 104,
             "color_identity": "UBR",
             "cost": "{2}{B}",
             "rules_text": "Once during each of your turns, you may cast a copy of the nonlegendary black spell you most recently cast this turn. [i](Timing rules still apply.)[/i]\nFinal form {4}{UR}{B} [i](You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)[/i]",
@@ -7626,7 +7626,7 @@
             "color": "R",
             "rarity": "mythic",
             "type": "Legendary Creature \u2013 Demigod",
-            "number": 141,
+            "number": 140,
             "color_identity": "URG",
             "cost": "{2}{R}",
             "rules_text": "When Godrick enters, you may discard any number of cards, then draw that many cards.\nFinal form {3}{GU}{R} [i](You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)[/i]",
@@ -7659,7 +7659,7 @@
             "color": "B",
             "rarity": "mythic",
             "type": "Legendary Creature \u2013 Beast Cleric",
-            "number": 99,
+            "number": 98,
             "color_identity": "WUB",
             "cost": "{2}{B}",
             "rules_text": "Menace\nAt the beginning of your upkeep, tap Gurranq unless you pay 2 life.\nFinal form {5}{WU}{B} [i](You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)[/i]",
@@ -7725,12 +7725,12 @@
             "color": "U",
             "rarity": "mythic",
             "type": "Legendary Creature \u2013 Demigod",
-            "number": 66,
+            "number": 67,
             "color_identity": "WUR",
-            "cost": "{3}{U}",
+            "cost": "{2}{U}",
             "rules_text": "When Promised Consort Radahn enters, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to that card's mana cost reduced by {X}, where X is Promised Consort Radahn's power.\nFinal form {6}{RW}{U} [i](You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "3/4",
+            "pt": "2/3",
             "special_text": "",
             "shape": "transform double faced",
             "set": "EDR",
@@ -7791,7 +7791,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Creature \u2013 Cat Spirit Avatar",
-            "number": 131,
+            "number": 130,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Remembrance {2}{R} [i]({2}{R}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)[/i]\nWhenever this creature attacks, add {R} equal to its power. Until end of turn, you don't lose this mana as steps and phases end.",
@@ -7813,7 +7813,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2013 Skeleton Horror Knight",
-            "number": 96,
+            "number": 95,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Remembrance {3}{B} [i]({3}{B}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)[/i]\nDiscard a card: This creature gains indestructible until end of turn. Tap it. Activate only once each turn.",
@@ -7838,7 +7838,7 @@
             "number": 180,
             "color_identity": "BRG",
             "cost": "{G}",
-            "rules_text": "Deathtouch\nWhenever God-Devouring Serpent deals combat damage to a player, create a Shard token.\nFinal form {6}{BR}{G} [i](You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)[/i]",
+            "rules_text": "As long as you've sacrificed a permanent this turn, God-Devouring Serpent has deathtouch.\nWhenever God-Devouring Serpent deals combat damage to a player, create a Shard token.\nFinal form {6}{BR}{G} [i](You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -7934,7 +7934,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Instant",
-            "number": 89,
+            "number": 88,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "Exile target creature or planeswalker.\n[i]Converge[/i] \u2013 You gain 1 life for each color of mana spent to cast this spell.",
@@ -8022,7 +8022,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Enchantment \u2013 Aura",
-            "number": 57,
+            "number": 56,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Enchant creature\nEnchanted creature loses all abilities and is a Zombie Wizard Orb creature with base power and toughness 0/2 in addition to its other types.",
@@ -8066,7 +8066,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2013 Spirit Wolf",
-            "number": 44,
+            "number": 43,
             "color_identity": "U",
             "cost": "{3}{U}",
             "rules_text": "Remembrance {1}{U} [i]({1}{U}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)[/i]\nWhenever this creature attacks, another target creature you control can't be blocked this turn.",
@@ -8154,7 +8154,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2013 Human Knight",
-            "number": 87,
+            "number": 86,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Flying\n[i]Converge[/i] \u2013 When this creature enters, target opponent reveals a number of cards from their hand equal to the number of colors spent to cast this spell. You choose one of those cards. That player discards that card.",
@@ -8264,7 +8264,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2013 Human Warrior",
-            "number": 109,
+            "number": 108,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Deathtouch\nWhen this creature enters, you may exile target card from a graveyard. If you exiled a creature card this way, create a Treasure token.",
@@ -8330,7 +8330,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Instant",
-            "number": 80,
+            "number": 81,
             "color_identity": "U",
             "cost": "{U}{U}",
             "rules_text": "Exile target instant or sorcery card from your graveyard. Copy it three times. You may cast each of the copies. [i](You do not have to cast all three of the copies. You still pay each of their costs.)[/i]",
@@ -8374,7 +8374,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2013 Bird Spirit",
-            "number": 76,
+            "number": 77,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Flying\nWhen this creature enters, you may return another permanent you control to its owner's hand. If you do, create a Shard token. [i](It's an enchantment with \u201c{2}, Sacrifice this token: Scry 1, then draw a card.\u201d)[/i]",
@@ -8396,7 +8396,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Artifact Creature \u2013 Golem",
-            "number": 103,
+            "number": 102,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Whenever you sacrifice an enchantment, each opponent loses 1 life and you gain 1 life.\nWhen this creature dies, create a Shard token. [i](It's an enchantment with \u201c{2}, Sacrifice this token: Scry 1, then draw a card.\u201d)[/i]",
@@ -8616,7 +8616,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2013 Human Wizard",
-            "number": 65,
+            "number": 66,
             "color_identity": "U",
             "cost": "{3}{U}",
             "rules_text": "Whenever you cast an instant or sorcery spell, create a Treasure token. If you control a creature named Primeval Sorcerer Azur, create two Treasure tokens instead.\n{T}: Add two mana of different colors. Spend this mana only to cast noncreature spells with mana costs that contain {X}.",
@@ -8638,7 +8638,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2013 Human Wizard",
-            "number": 64,
+            "number": 65,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Whenever you cast an instant or sorcery spell, draw a card, then discard a card unless you control a creature named Primeval Sorcerer Lusat.\n{T}: Add two mana of different colors. Spend this mana only to cast noncreature spells with mana costs that contain {X}.",
@@ -8748,7 +8748,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 101,
+            "number": 100,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Look at the top four cards of your library. Put up to two into your hand and the rest into your graveyard. You lose 2 life.",
@@ -8924,7 +8924,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 126,
+            "number": 125,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "As an additional cost to cast this spell, behold a Dragon or pay {1}. [i](To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)[/i]\nBayle's Tyranny deals 2 damage to each creature.",
@@ -8946,7 +8946,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Artifact Creature \u2013 Bird Golem",
-            "number": 98,
+            "number": 97,
             "color_identity": "B",
             "cost": "{5}{B}",
             "rules_text": "Flying\n[i]Converge[/i] \u2013 When this creature enters, each opponent loses X life and you gain X life, where X is the number of colors of mana spent to cast this spell.",
@@ -8990,7 +8990,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 100,
+            "number": 99,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Choose one \u2013\n\u2022 Target opponent reveals their hand. You choose a nonland card from that player's graveyard or hand and exile it.\n\u2022 Exile target creature or planeswalker with mana value 3 or less.",
@@ -9012,7 +9012,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Instant",
-            "number": 92,
+            "number": 91,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Target creature gains your choice of lifelink or indestructible until end of turn.\nCreate a Shard token. [i](It's an enchantment with \u201c{2}, Sacrifice this token: Scry 1, then draw a card.\u201d)[/i]",
@@ -9034,7 +9034,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Enchantment",
-            "number": 97,
+            "number": 96,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Flash\nWhen this enchantment enters, each opponent sacrifices a creature.\n{1}{B}, Discard a card, Sacrifice this enchantment: Return target creature card from your graveyard to your hand.",
@@ -9056,7 +9056,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 90,
+            "number": 89,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "As an additional cost to cast this spell, sacrifice a creature or token.\nDraw two cards.",
@@ -9276,7 +9276,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2013 Human Wizard Monk",
-            "number": 139,
+            "number": 138,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Whenever you cast an instant or sorcery spell, untap this creature.\n{T}: This creature deals 1 damage to each opponent.",
@@ -9342,7 +9342,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Artifact \u2013 Equipment",
-            "number": 138,
+            "number": 137,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "When this Equipment enters, create a 2/2 white Knight creature token, then attach this Equipment to it.\nEquipped creature gets +1/+1 and has haste.\nEquip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]",
@@ -9364,7 +9364,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Enchantment \u2013 Rune Aura",
-            "number": 134,
+            "number": 133,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Enchant creature or Equipment\nWhen this Aura enters, target creature can't block this turn.\nAs long as enchanted permanent is a creature, it gets +1/+1 and is a Dragon.\nAs long as enchanted permanent is an Equipment, it has \u201cEquipped creature gets +1/+1 and is a Dragon.\u201d",
@@ -9496,7 +9496,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Instant",
-            "number": 128,
+            "number": 127,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Creatures you control get +2/+0 until end of turn. If you control an enchanted or equipped creature, draw a card.",
@@ -9518,7 +9518,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2013 Human Rogue",
-            "number": 52,
+            "number": 51,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "{2}{U}: This creature can't be blocked this turn. This ability costs {2} less to activate if you sacrificed an enchantment this turn.",
@@ -9540,7 +9540,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2013 Spirit Jellyfish",
-            "number": 75,
+            "number": 76,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Flying\n[i]Landfall[/i] \u2013 Whenever a land you control enters, this creature gets +1/+0 until end of turn.",
@@ -9562,7 +9562,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2013 Human Wizard Warrior",
-            "number": 61,
+            "number": 60,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Prowess\nWhen this creature enters, tap up to one target creature and put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]",
@@ -9584,7 +9584,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2013 Spirit Dragon",
-            "number": 53,
+            "number": 52,
             "color_identity": "U",
             "cost": "{4}{U}",
             "rules_text": "Vigilance\n[i]Converge[/i] \u2013 When this creature enters, look at the top X cards of your library, where X is the number of colors of mana spent to cast this spell. Put one into your hand and the rest on the bottom of your library in a random order.",
@@ -9606,7 +9606,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Instant",
-            "number": 47,
+            "number": 46,
             "color_identity": "U",
             "cost": "{X}{U}",
             "rules_text": "Counter target spell unless its controller pays {X}.\nCreate a Shard token. [i](It's an enchantment with \u201c{2}, Sacrifice this token: Scry 1, then draw a card.\u201d)[/i]",
@@ -9628,7 +9628,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 67,
+            "number": 68,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Draw a card.\nAs long as you've cast two or more noncreature spells this turn, this card has flashback {U}. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]",
@@ -9672,7 +9672,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Instant",
-            "number": 51,
+            "number": 50,
             "color_identity": "U",
             "cost": "{3}{U}",
             "rules_text": "[i]Converge[/i] \u2013 Put target nonland permanent X cards from the top of its owner's library, where X is the number of colors of mana spent to cast this spell.",
@@ -9694,7 +9694,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Artifact \u2013 Equipment",
-            "number": 60,
+            "number": 59,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Equipped creature gets +2/+1.\nWhenever equipped creature attacks, draw a card, then discard a card.\nEquip {3} [i]({3}: Attach to target creature you control. Equip only as a sorcery.)[/i]",
@@ -9716,7 +9716,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Instant",
-            "number": 58,
+            "number": 57,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Target creature you control has base power and toughness 4/4 until end of turn. Create a Shard token. [i](It's an enchantment with \u201c{2}, Sacrifice this token: Scry 1, then draw a card.\u201d)[/i]",
@@ -9738,7 +9738,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Creature \u2013 Human Wizard Knight",
-            "number": 46,
+            "number": 45,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Vigilance\nWhenever you cast a noncreature spell, target creature gets +X/+0 until end of turn, where X is that spell's mana value.",
@@ -9778,11 +9778,11 @@
             "v_mana": ""
         },
         {
-            "card_name": "Ancestral Follower",
+            "card_name": "Capital Perfumer",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2013 Giant Cleric",
-            "number": 168,
+            "number": 171,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Vigilance\n{T}: Add one mana if any color.\n{4}{G}: Double this creature's power and toughness until end of turn.",
@@ -9792,7 +9792,7 @@
             "shape": "normal",
             "set": "EDR",
             "loyalty": "",
-            "artist": "Ariamis Arts",
+            "artist": "Bravaxxi",
             "alias": "",
             "position": "138",
             "notes": "Ramp",
@@ -10156,7 +10156,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Artifact \u2013 Equipment",
-            "number": 95,
+            "number": 94,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
             "rules_text": "When this Equipment enters, you may pay 2 life. When you do, destroy target creature.\nEquipped creature gets +2/+0 and has menace.\nEquip\u2013Pay 2 life. [i](Pay 2 life: Attach to target creature you control. Equip only as a sorcery.)[/i]",
@@ -10244,7 +10244,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 94,
+            "number": 93,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Target opponent reveals all but one card in their hand. You choose a nonland card revealed this way. That player discards that card.",
@@ -10310,7 +10310,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Legendary Creature \u2013 Elder Dragon",
-            "number": 102,
+            "number": 101,
             "color_identity": "B",
             "cost": "{4}{B}",
             "rules_text": "Flying, deathtouch, lifelink\n[i]Converge[/i] \u2013 When Lichdragon Fortissax enters, return target creature card with mana value twice X or less from your graveyard to the battlefield, where X is the number of colors of mana spent to cast this spell. It gains \u201cWhen you don't control a Dragon, sacrifice this creature.\u201d",
@@ -10420,7 +10420,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2013 Zombie Dragon",
-            "number": 93,
+            "number": 92,
             "color_identity": "B",
             "cost": "{4}{B}{B}",
             "rules_text": "Flying\nWhenever this creature attacks, you may exile target card from a graveyard. If you do, this creature gets +X/+0 until end of turn, where X is the exiled card's mana value.\nWhen this creature dies, you may put a creature card exiled with it onto the battlefield under your control.",
@@ -10460,11 +10460,11 @@
             "v_mana": ""
         },
         {
-            "card_name": "Aging Untouchable",
+            "card_name": "Old Untouchable",
             "color": "B",
             "rarity": "rare",
             "type": "Creature \u2013 Horror",
-            "number": 84,
+            "number": 109,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
             "rules_text": "Remembrance {4}{B} [i]({4}{B}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)[/i]\nThis creature has deathtouch and indestructible as long as it attacked this turn.\nWhenever this creature deals combat damage to a player, draw that many cards.",
@@ -10474,7 +10474,7 @@
             "shape": "normal",
             "set": "EDR",
             "loyalty": "",
-            "artist": "UnalloyedRoyalty",
+            "artist": "yleniart",
             "alias": "",
             "position": "169",
             "notes": "",
@@ -10521,7 +10521,7 @@
             "artist": "WuMei !",
             "alias": "",
             "position": "171",
-            "notes": "!tag:twink",
+            "notes": "!tag:twink\n!tag:wishlist",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10640,7 +10640,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Legendary Creature \u2013 Human Wizard",
-            "number": 73,
+            "number": 74,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "When Gideon Ofnir enters, draw a card. If you have 100 or more or 20 or fewer cards in your library, draw three cards instead.",
@@ -10882,7 +10882,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Legendary Creature \u2013 Human Wizard",
-            "number": 74,
+            "number": 75,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "{T}: Draw a card, then discard a card.\nWhenever you cast an instant or sorcery spell, untap Spellblade Rogier.",
@@ -10926,7 +10926,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Legendary Creature \u2013 Human Wizard",
-            "number": 48,
+            "number": 47,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "You may look at the top card of your library any time.\nOnce during each of your turns, you may cast a spell from the top of your library. If you cast a permanent spell this way, it gains \u201cWhen this permanent enters, sacrifice it and create a 1/2 black Finger Spider creature token.\u201d",
@@ -10970,7 +10970,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2013 Horror Knight",
-            "number": 88,
+            "number": 87,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "This creature can't block.\nWhenever you discard this card or discard another card, you may cast this card from your graveyard.",
@@ -10992,7 +10992,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Performer",
-            "number": 129,
+            "number": 128,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]\nIf a spell you control would deal damage, you may have it deal damage equal to the number of spells you cast this turn instead.",
@@ -11014,7 +11014,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Knight",
-            "number": 135,
+            "number": 134,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "If a triggered ability of a Dragon you control triggers, that ability triggers an additional time.",
@@ -11080,7 +11080,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature \u2013 Giant Warlock",
-            "number": 137,
+            "number": 136,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "Remembrance {1}{R} [i]({1}{R}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)[/i]\nWhenever this creature attacks, target creature an opponent controls with lesser power can't block this turn.",
@@ -11124,7 +11124,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2013 Human Cleric",
-            "number": 91,
+            "number": 90,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Deathtouch\nAt the beginning of your end step, each opponent loses life equal to the number of tapped creatures you control.",
@@ -11278,7 +11278,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Creature \u2013 Spirit Snail",
-            "number": 77,
+            "number": 78,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "You may choose not to untap this creature during your untap step.\n{1}{U}, {T}: Create a token that's a copy of another target creature you control, except it's a Spirit in addition to its other types.\nWhenever this creature leaves the battlefield or becomes untapped, exile each token created by it.",
@@ -11435,7 +11435,7 @@
             "number": 206,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
-            "rules_text": "When this creature dies, create a tapped Ancient Tomb token. [i](It's a land with \u201c{T}: Add {C}{C}. This land deals 2 damage to you.\u201d)[/i]",
+            "rules_text": "Flying\nWhen this creature dies, create a tapped Ancient Tomb token. [i](It's a land with \u201c{T}: Add {C}{C}. This land deals 2 damage to you.\u201d)[/i]",
             "flavor_text": "[i]Ancestral spirits exist as a phenomenon beyond the purview of the Erdtree.[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -11445,7 +11445,7 @@
             "artist": "Cycle Circle",
             "alias": "",
             "position": "213",
-            "notes": "!tag:wishlist\nCHANGE",
+            "notes": "\nCHANGE",
             "image_type": "png",
             "v_mana": ""
         },
@@ -11476,7 +11476,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2013 Human Rogue",
-            "number": 78,
+            "number": 79,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
             "rules_text": "When this creature enters, tap target creature an opponent controls and put a stun counter on it.\nAt the beginning of each opponent's upkeep, draw a card for each tapped nonland permanent they control.",
@@ -11498,7 +11498,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2013 Human Cleric",
-            "number": 130,
+            "number": 129,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "{T}: Add {R}.\nWhenever a creature you control enters, if mana from Dearest Nanaya was spent to cast it, you may discard a card. If you do, until end of turn, that creature gains haste and \u201cWhenever this creature deals combat damage to a player, draw a card.\u201d",
@@ -11542,7 +11542,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Legendary Creature \u2013 Horror Avatar",
-            "number": 106,
+            "number": 105,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Menace\nWhen Midra enters, you may discard a card. If you do, target opponent reveals their hand. You choose a nonland card revealed this way. Exile that card.\nWhenever Midra attacks, put a +1/+1 counter on him for each player with three or fewer cards in hand.",
@@ -11566,7 +11566,7 @@
             "type": "Legendary Artifact",
             "number": 273,
             "color_identity": "C",
-            "cost": "{10}",
+            "cost": "{12}",
             "rules_text": "As an additional cost to cast this spell, you may sacrifice any number of creatures. This spell costs {2} less to cast for each creature sacrificed this way.\nWhen The Gate of Divinity enters, you may return a creature card from your graveyard to the battlefield.\n{4}, {T}, Discard your hand: Draw four cards.",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -11630,7 +11630,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment \u2013 Saga",
-            "number": 169,
+            "number": 168,
             "color_identity": "G",
             "cost": "{5}{G}{G}",
             "rules_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nI \u2013 Put +1/+1 counters on up to one target creature equal to its power.\nII \u2013 Draw cards equal to the greatest power among creatures you control.\nIII \u2013 You may put any number of land cards from your hand onto the battlefield. If you do, draw that many cards.",
@@ -11762,7 +11762,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 79,
+            "number": 80,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
             "rules_text": "Shuffle your hand and graveyard into your library, then draw seven cards.\n[i]Converge[/i] \u2013 You may cast a spell with mana value X or less from your hand without paying its mana cost, where X is the number of colors of mana spent to cast this spell.",
@@ -11784,7 +11784,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Creature \u2013 Human Warrior",
-            "number": 127,
+            "number": 126,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
             "rules_text": "This spell can't be countered.\nWhen this creature enters, you may attach target Equipment you control to it.\nWhenever this creature attacks, it deals X damage to any target, where X is the total mana value of Equipment attached to this creature.",
@@ -11828,7 +11828,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Creature \u2013 Bird Skeleton Horror",
-            "number": 50,
+            "number": 49,
             "color_identity": "U",
             "cost": "{4}{U}",
             "rules_text": "Flash\nFlying\n[i]Converge[/i] \u2013 When this creature enters, exile target spell an opponent controls unless its controller pays {X}, where X is the number of colors of mana spent to cast this spell.",
@@ -11850,7 +11850,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2013 Human Rogue",
-            "number": 171,
+            "number": 170,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Vigilance\nWhenever Blackguard Boggart attacks, create a Food token. [i](It's an artifact with \u201c{2}, {T}, Sacrifice this token: You gain 3 life.\u201d)[/i]\n{1}, {T}: Add {G} for each token you control.",
@@ -11982,7 +11982,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Enchantment \u2013 Rune Aura",
-            "number": 132,
+            "number": 131,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
             "rules_text": "Enchant creature or Equipment\nIf enchanted permanent is a creature, it's a red Dragon and gets +1/+1 and has flying and \u201c{R}: This creature gets +1/+0 until end of turn.\u201d\nIf enchanted permanent is an Equipment, it has \u201cEquipped creature is a red Dragon and gets +1/+1 and has flying and \u2018{R}: This creature gets +1/+0 until end of turn.'\u201d",
@@ -12004,7 +12004,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Enchantment \u2013 Saga",
-            "number": 104,
+            "number": 103,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nI \u2013 Each player loses 3 life unless they sacrifice a nonland permanent or discard a card.\nII, III \u2013 Target creature gets +X/+0 until end of turn, where X is the number of card types among cards in your graveyard.\n\u200b",
@@ -12510,7 +12510,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Artifact Creature \u2013 Golem",
-            "number": 140,
+            "number": 139,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
             "rules_text": "Menace\nWhenever a creature you control attacks, put a flame counter on this creature.\nIf a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus an amount of damage equal to the number of flame counters on this creature instead.",
@@ -12532,7 +12532,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Enchantment \u2013 Saga",
-            "number": 45,
+            "number": 44,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
             "rules_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nI \u2013 Exile target instant or sorcery card from a graveyard.\nII \u2013 Create X 1/2 black Finger Spider creature tokens, where X is the total mana value of cards exiled with this Saga.\nIII \u2013 Copy each card exiled with this Saga. You may cast the copies without paying their mana costs.",
@@ -12554,7 +12554,7 @@
             "color": "U",
             "rarity": "mythic",
             "type": "Sorcery",
-            "number": 59,
+            "number": 58,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
             "rules_text": "Cascade [i](When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)[/i]\nReturn all nonland permanents that didn't enter this turn to their owners' hands.",
@@ -12572,11 +12572,11 @@
             "v_mana": ""
         },
         {
-            "card_name": "Ancient Hero of Zamor",
+            "card_name": "Old Hero of Zamor",
             "color": "U",
             "rarity": "uncommon",
             "type": "Creature \u2013 Spirit Warrior",
-            "number": 43,
+            "number": 63,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, tap up to one target creature. Put a stun counter on that creature if this isn't the first time this ability has resolved this turn.",
@@ -12594,15 +12594,15 @@
             "v_mana": ""
         },
         {
-            "card_name": "Zamor Ice Storm",
+            "card_name": "Pawns in a Plan",
             "color": "U",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 82,
+            "number": 64,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "[i]Converge[/i] \u2013 Tap one or two target creatures. Distribute X stun counters among them, where X is the number of colors of mana spent to cast this spell.",
-            "flavor_text": "[i]The knights of Zamor were hailed as heroes in the War against the Giants.[/i]",
+            "flavor_text": "[i]\u201cLet us give all we can, for Lady Ranni.\u201d\n\u2014Iji[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -12708,7 +12708,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Enchantment \u2013 Saga",
-            "number": 136,
+            "number": 135,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
             "rules_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nI \u2013 This Saga deals 1 damage to each creature your opponents control.\nII \u2013 Target creature can't block this turn.\nIII \u2013 Discard a card, then draw a card for each card you've discarded this turn.",
@@ -12730,7 +12730,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 55,
+            "number": 54,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
             "rules_text": "Reveal the top ten cards of your library. For each card type, you may put a card of that type from among the revealed cards into your hand. Put the rest on the bottom of your library in a random order.",
@@ -12906,7 +12906,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 170,
+            "number": 169,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "[i]Converge[/i] \u2013 Put a +1/+1 counter on each of up to X target creatures, where X is the number of colors of mana spent to cast this spell. Then double the number of +1/+1 counters on each of those creatures.",
@@ -12950,7 +12950,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 71,
+            "number": 72,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
             "rules_text": "Counter target spell. If that spell is countered this way, exile it and its controller's graveyard.",
@@ -12972,7 +12972,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 54,
+            "number": 53,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Return target nonland permanent to its owner's hand. You may return an enchantment you control to its owner's hand.",
@@ -13060,7 +13060,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 63,
+            "number": 62,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Create a token that's a copy of target creature you control, except it's a Saga enchantment in addition to its other types and has \u201cr{3} \u2013 Scry 2.\u201d [i](As that token enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]",
@@ -13170,7 +13170,7 @@
             "color": "U",
             "rarity": "mythic",
             "type": "Legendary Artifact",
-            "number": 69,
+            "number": 70,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "When Rennala's Amber Egg enters, create a 1/1 blue Wizard creature token.\n{1}, {T}, Sacrifice a creature: Search your library for an instant or sorcery card with mana value equal to 1 plus the sacrificed creature's mana value, exile it, then shuffle. You may cast the exiled card without paying its mana cost.",
@@ -31719,7 +31719,7 @@
             "number": 59,
             "color_identity": "WUB",
             "cost": "{2}{U}{U}",
-            "rules_text": "",
+            "rules_text": "Surpass {10}{B}{W} [i]({10}{W}{B}: Transform this planeswalker. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)[/i]\n[+1]: You draw a card, then you lose 3 life unless you control an Angel or a Demon.\n[-3]: Return up to two target creatures to their owner's hands. If you returned two creatures you controlled to hand this way, create a 4/4 white Angel creature token with flying.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "Surpass {10}{B}{W} [i]({10}{W}{B}: Transform this planeswalker. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)[/i]\n[+1]: You draw a card, then you lose 3 life unless you control an Angel or a Demon.\n[-3]: Return up to two target creatures to their owner's hands. If you returned two creatures you controlled to hand this way, create a 4/4 white Angel creature token with flying.",
@@ -31727,18 +31727,22 @@
             "set": "SOL",
             "loyalty": "4",
             "artist": "Drake (Winson) Tsui",
+            "alias": "",
+            "position": "0",
             "card_name2": "Josiah, the Divinity Sundered",
             "color2": "WUB",
             "type2": "Legendary Planeswalker \u2013 Josiah",
             "cost2": "",
-            "rules_text2": "",
+            "rules_text2": "[i](You may only activate a permanent's loyalty abilities once each turn, even if it transformed this turn.)[/i] \n[+1]: You draw three cards, then you lose 3 life unless you control an Angel or a Demon.\n[-3]: Target opponent sacrifices two creatures. You create a 5/5 white and black Angel Demon creature token with flying and trample.\n[-5]: Put target creature card from an opponent's graveyard onto the battlefield under your control. It gains \u201cWhenever this creature deals combat damage to its owner, that player loses the game.\u201d\n[-5]: Put target creature card from an opponent's graveyard onto the battlefield under your control. It gains \u201cWhenever this creature deals combat damage to its owner, that player loses the game.\u201d",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "[i](You may only activate a permanent's loyalty abilities once each turn, even if it transformed this turn.)[/i] \n[+1]: You draw three cards, then you lose 3 life unless you control an Angel or a Demon.\n[-3]: Target opponent sacrifices two creatures. You create a 5/5 white and black Angel Demon creature token with flying and trample.\n[-5]: Put target creature card from an opponent's graveyard onto the battlefield under your control. It gains \u201cWhenever this creature deals combat damage to its owner, that player loses the game.\u201d\n[-5]: Put target creature card from an opponent's graveyard onto the battlefield under your control. It gains \u201cWhenever this creature deals combat damage to its owner, that player loses the game.\u201d",
             "loyalty2": "",
             "artist2": "Drake (Winson) Tsui",
+            "alias2": "",
             "notes": "!tag spotlight\n!tag twink",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scion of Heaven and Hell",
@@ -31756,8 +31760,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Paulina Bochniak",
+            "alias": "",
+            "position": "1",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shadowborn Apostle",
@@ -31775,8 +31782,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Noirsnow",
+            "alias": "",
+            "position": "2",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Persistent Contagion",
@@ -31794,8 +31804,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Surya Prasetya",
+            "alias": "",
+            "position": "3",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mother of Hands",
@@ -31813,8 +31826,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nyx Aurelia",
+            "alias": "",
+            "position": "4",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shadowbane Paladin",
@@ -31832,8 +31848,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Camilo Palma",
+            "alias": "",
+            "position": "5",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Artisan of Undeath",
@@ -31851,8 +31870,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Denilve",
+            "alias": "",
+            "position": "6",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dust to Flesh to Dust",
@@ -31870,8 +31892,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Chenhao Zhuang",
+            "alias": "",
+            "position": "7",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sylvua, Wyldwood Mother",
@@ -31881,7 +31906,7 @@
             "number": 219,
             "color_identity": "BG",
             "cost": "{3}{B}{G}",
-            "rules_text": "",
+            "rules_text": "[+2]: Mill cards until you mill a land card. Return up to one card milled this way to your hand.\n[-3]: Return target land card from your graveyard to the battlefield. It becomes a 6/6 green Spirit creature with trample. It's still a land.\n[-9]: You get an emblem with \u201c{BG}: Return target permanent card from your graveyard to the battlefield.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+2]: Mill cards until you mill a land card. Return up to one card milled this way to your hand.\n[-3]: Return target land card from your graveyard to the battlefield. It becomes a 6/6 green Spirit creature with trample. It's still a land.\n[-9]: You get an emblem with \u201c{BG}: Return target permanent card from your graveyard to the battlefield.\u201d",
@@ -31889,8 +31914,11 @@
             "set": "SOL",
             "loyalty": "4",
             "artist": "India Lee Crews",
+            "alias": "",
+            "position": "8",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "At Any Cost",
@@ -31908,8 +31936,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Dian Huynh",
+            "alias": "",
+            "position": "9",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scourge Taskmaster",
@@ -31927,8 +31958,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Andrew Chou",
+            "alias": "",
+            "position": "10",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Staunch Purifier",
@@ -31946,6 +31980,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Hoang Lap (Solan)",
+            "alias": "",
+            "position": "11",
             "card_name2": "Corrupted Archangel",
             "color2": "WB",
             "type2": "Creature \u2013 Angel",
@@ -31956,8 +31992,10 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Hoang Lap (Solan)",
+            "alias2": "",
             "notes": "!tag twink",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Touch of God",
@@ -31975,8 +32013,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Dorian Gerdji",
+            "alias": "",
+            "position": "12",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ripples of Rebirth",
@@ -31994,8 +32035,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "classmate jew",
+            "alias": "",
+            "position": "13",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stonesprung Spirit",
@@ -32013,8 +32057,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Mikyxone",
+            "alias": "",
+            "position": "14",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Eclipse Paladin",
@@ -32032,8 +32079,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Eryk Szczygieln",
+            "alias": "",
+            "position": "15",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Death's Undoing",
@@ -32051,8 +32101,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "breakermaximus",
+            "alias": "",
+            "position": "16",
             "notes": "!tag spotlight",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Seeker of Atonement",
@@ -32070,8 +32123,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ilya Vatutin",
+            "alias": "",
+            "position": "17",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sanguis Sanctorum",
@@ -32081,7 +32137,7 @@
             "number": 107,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "When this artifact enters, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]\nWhenever you discard one or more cards, you may pay 1 life. If you do, draw a card. Do this only once each turn.",
+            "rules_text": "When this artifact enters, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\u201d)[/i]\nWhenever you discard one or more cards, you may pay 1 life. If you do, draw a card. Do this only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -32089,8 +32145,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Miquella Tai Huan Ling",
+            "alias": "",
+            "position": "18",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Reygias, Lord Phytolich",
@@ -32100,7 +32159,7 @@
             "number": 184,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "When this creature enters, you may sacrifice a land. If you do, search your library for a land card, put it onto the battlefield, then shuffle.\n{G}, {T}, Seal 3: You may play target land card or cast target nonland permanent card from your graveyard this turn. [i](To seal 3, exile up to three cards with three or more card types among them from your graveyard.)[/i]",
+            "rules_text": "When Reygias enters, you may sacrifice a land. If you do, search your library for a land card, put it onto the battlefield, then shuffle.\n{G}, {T}, Seal 3: You may play target land card or cast target nonland permanent card from your graveyard this turn. [i](To seal 3, exile up to three cards with three or more card types among them from your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -32108,8 +32167,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Matias Gonzalez",
+            "alias": "",
+            "position": "19",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stonework Angel",
@@ -32119,7 +32181,7 @@
             "number": 246,
             "color_identity": "C",
             "cost": "{6}",
-            "rules_text": "Flying\nWhen this creature enters, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]\n{2}: Exile target card from a graveyard.",
+            "rules_text": "Flying\nWhen this creature enters, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\u201d)[/i]\n{2}: Exile target card from a graveyard.",
             "flavor_text": "[i]You can wring blood from a stone if it was created in the image of flesh.[/i]",
             "pt": "4/3",
             "special_text": "",
@@ -32127,8 +32189,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Carlos Quevedo",
+            "alias": "",
+            "position": "20",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Whisperer of Sweetest Lies",
@@ -32146,8 +32211,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Luis Arturo Arzate Velasco",
+            "alias": "",
+            "position": "21",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Flame-Scarred Abomination",
@@ -32165,8 +32233,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Midnight",
+            "alias": "",
+            "position": "22",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kael-dun Inquisitor",
@@ -32184,8 +32255,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Acrassan",
+            "alias": "",
+            "position": "23",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Terithius, the Iron Mind",
@@ -32203,8 +32277,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Hoang Lap (Solan)",
+            "alias": "",
+            "position": "24",
             "notes": "!tag twink",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Engine of Our Eden",
@@ -32222,8 +32299,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Minchen Peng",
+            "alias": "",
+            "position": "25",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "They Shall Know Perdition",
@@ -32241,8 +32321,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Harshanad Singh",
+            "alias": "",
+            "position": "26",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sphere of Isolation",
@@ -32260,8 +32343,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "wmikaelart",
+            "alias": "",
+            "position": "27",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ancient Transmutation",
@@ -32279,8 +32365,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Wayne Barlowe",
+            "alias": "",
+            "position": "28",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Aos, Augur of Damnations",
@@ -32298,8 +32387,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Julio Caesar Oliveira Rocha",
+            "alias": "",
+            "position": "29",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Grit",
@@ -32317,8 +32409,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Anna Podedworna",
+            "alias": "",
+            "position": "30",
             "notes": "!tag spotlight",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Eira, Selfless Paladin",
@@ -32328,7 +32423,7 @@
             "number": 205,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
-            "rules_text": "",
+            "rules_text": "[+1]: Create a 1/1 red Warrior creature token, then put a +1/+1 counter on a creature you control.\n[0]: Until end of turn, Eira becomes a 5/5 Human Soldier creature with indestructible. [i](She doesn't lose loyalty while she's not a planeswalker.)[/i]\n[-3]: Each player chooses any number of creatures they control with total power 4 or less, then sacrifices all other creatures they control.\n[-8]: You get an emblem with \u201cIf you would lose 1 or more life, you lose 1 life instead.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: Create a 1/1 red Warrior creature token, then put a +1/+1 counter on a creature you control.\n[0]: Until end of turn, Eira becomes a 5/5 Human Soldier creature with indestructible. [i](She doesn't lose loyalty while she's not a planeswalker.)[/i]\n[-3]: Each player chooses any number of creatures they control with total power 4 or less, then sacrifices all other creatures they control.\n[-8]: You get an emblem with \u201cIf you would lose 1 or more life, you lose 1 life instead.\u201d",
@@ -32336,8 +32431,11 @@
             "set": "SOL",
             "loyalty": "4",
             "artist": "Anna Podedworna",
+            "alias": "",
+            "position": "31",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Breaker of Reality",
@@ -32355,8 +32453,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Pablo Dominguez",
+            "alias": "",
+            "position": "32",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ironclad Necromancers",
@@ -32374,8 +32475,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Palamarchuk Mikhail",
+            "alias": "",
+            "position": "33",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Glittering Gargoyle",
@@ -32393,8 +32497,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Eryk Szczygiel",
+            "alias": "",
+            "position": "34",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tessa, Saint Reborn",
@@ -32404,7 +32511,7 @@
             "number": 223,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "You may cast this card from your graveyard as long as you control a Zombie.\nWhenever you cast another spell from a graveyard or another permanent you control enters from a graveyard, you draw a card and lose 1 life.\n{2}, Discard a card: Create a tapped 2/2 black Zombie creature token.",
+            "rules_text": "You may cast this card from your graveyard as long as you control a Zombie.\nWhenever you cast a spell from a graveyard or another permanent you control enters from a graveyard, you draw a card and lose 1 life.\n{2}, Discard a card: Create a tapped 2/2 black Zombie creature token.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -32412,8 +32519,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Rakasa",
+            "alias": "",
+            "position": "35",
             "notes": "!tag spotlight",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cradle of Nascence",
@@ -32431,8 +32541,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Aleksi Remes",
+            "alias": "",
+            "position": "36",
             "notes": "!tag spotlight",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ijara, the Last Teluran",
@@ -32450,8 +32563,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "F3LC4T",
+            "alias": "",
+            "position": "37",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Petalwisp Whisperer",
@@ -32469,8 +32585,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "F3LC4T",
+            "alias": "",
+            "position": "38",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wyldwood Dryad",
@@ -32488,8 +32607,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "F3LC4T",
+            "alias": "",
+            "position": "39",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Emperor Thuraxes IV",
@@ -32507,8 +32629,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "zhang jing",
+            "alias": "",
+            "position": "40",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fascimile of Gods",
@@ -32526,6 +32651,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Alexandre Chaudret",
+            "alias": "",
+            "position": "41",
             "card_name2": "Indivine Perforator",
             "color2": "BG",
             "type2": "Creature \u2013 Horror",
@@ -32536,8 +32663,10 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Erik Szczygiel",
+            "alias2": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blood",
@@ -32555,8 +32684,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Yuchen Wang",
+            "alias": "",
+            "position": "42",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hellfire Ballista",
@@ -32574,8 +32706,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Yuchen Wang",
+            "alias": "",
+            "position": "43",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wyldwood Ceremony",
@@ -32593,8 +32728,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Anastasiya Capibasya Pankova",
+            "alias": "",
+            "position": "44",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ironblessed Inquisitor",
@@ -32612,8 +32750,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Areakst Kingglost",
+            "alias": "",
+            "position": "45",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "All are Slave to Time",
@@ -32631,8 +32772,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Lalita WIP",
+            "alias": "",
+            "position": "46",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Josiah's Betrayal",
@@ -32650,8 +32794,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Petrilous",
+            "alias": "",
+            "position": "47",
             "notes": "!tag spotlight",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Herald of an Age of Iron",
@@ -32669,8 +32816,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Mircea Nicula",
+            "alias": "",
+            "position": "48",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Execute for Blasphemy",
@@ -32688,8 +32838,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Eryk Szczygiel",
+            "alias": "",
+            "position": "49",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Memory Terminal",
@@ -32707,8 +32860,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Thomas Dumey - Locki",
+            "alias": "",
+            "position": "50",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Clarion Paladin",
@@ -32726,8 +32882,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Jun Kim",
+            "alias": "",
+            "position": "51",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Paladin of Fury",
@@ -32745,8 +32904,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Alexandre Chaudret",
+            "alias": "",
+            "position": "52",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Walk Out of Hell",
@@ -32764,8 +32926,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Kiuyan Ran / Krusier",
+            "alias": "",
+            "position": "53",
             "notes": "!tag spotlight",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Odeon, Goldmask Rogue",
@@ -32783,6 +32948,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nero Gen",
+            "alias": "",
+            "position": "54",
             "card_name2": "Odeon, Bloom of Sin",
             "color2": "WB",
             "type2": "Legendary Creature \u2013 Avatar",
@@ -32793,8 +32960,10 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Jae Park",
+            "alias2": "",
             "notes": "!tag twink",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Calamity Tyrant",
@@ -32812,8 +32981,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Marton Adam Marton",
+            "alias": "",
+            "position": "55",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Reweaver of Thuraxes",
@@ -32831,8 +33003,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Thomas Dumey - Locki",
+            "alias": "",
+            "position": "56",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Putrescent Branchstalker",
@@ -32850,8 +33025,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Sebastian Kowoll",
+            "alias": "",
+            "position": "57",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Go to Hell",
@@ -32869,8 +33047,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nick Keller",
+            "alias": "",
+            "position": "58",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Flesh and Bone Yield Easily",
@@ -32888,8 +33069,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nick Keller",
+            "alias": "",
+            "position": "59",
             "notes": "Arcun",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Teluran Sarcophagus",
@@ -32899,7 +33083,7 @@
             "number": 221,
             "color_identity": "UG",
             "cost": "{2}{G}{U}",
-            "rules_text": "{T}: Add {C}{C}.\n{T}: Draw a card. If you control artifact creatures with total power 10 or greater, draw three cards instead.",
+            "rules_text": "{T}: Add {C}{C}.\n{2}, {T}: Draw a card. If you control artifact creatures with total power 10 or greater, draw three cards instead.",
             "flavor_text": "[i]The dead were interred in steel casts, to preserve their bodies for a resurrection that never came.[/i]",
             "pt": "",
             "special_text": "",
@@ -32907,8 +33091,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nick Keller",
+            "alias": "",
+            "position": "60",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Infernal Torturer",
@@ -32926,8 +33113,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Sygdom",
+            "alias": "",
+            "position": "61",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Carrion-Cutter Seraph",
@@ -32945,8 +33135,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "spitespitfire",
+            "alias": "",
+            "position": "62",
             "notes": "arcun",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bejeweled Dragon",
@@ -32964,8 +33157,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Amita S",
+            "alias": "",
+            "position": "63",
             "notes": "arcun",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Legate Sparkweaver",
@@ -32983,8 +33179,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Melissa Spandri",
+            "alias": "",
+            "position": "64",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Glint-Edge Knight",
@@ -33002,8 +33201,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Mircea Nicula",
+            "alias": "",
+            "position": "65",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Coaxer of the Cycle",
@@ -33021,8 +33223,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Oksana Kerro",
+            "alias": "",
+            "position": "66",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shackled Phantom",
@@ -33040,8 +33245,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Jens Lindfors",
+            "alias": "",
+            "position": "67",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Auctor of the Testament",
@@ -33059,8 +33267,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Matt Cowdery",
+            "alias": "",
+            "position": "68",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Arbiter of Purity",
@@ -33078,8 +33289,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ilya Vatutin",
+            "alias": "",
+            "position": "69",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Thunderous Corruscation",
@@ -33097,8 +33311,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "AQRITZ",
+            "alias": "",
+            "position": "70",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ward of the Skies",
@@ -33116,6 +33333,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Kristina Gehrmann",
+            "alias": "",
+            "position": "71",
             "card_name2": "Ward of the Heavens",
             "color2": "WG",
             "type2": "Creature \u2013 Angel",
@@ -33126,8 +33345,10 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Asur Misoa",
+            "alias2": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Surgeblade Duelist",
@@ -33145,8 +33366,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Konstantin Vavilov",
+            "alias": "",
+            "position": "72",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Exalted Persecutor",
@@ -33164,8 +33388,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "MorkarDFC",
+            "alias": "",
+            "position": "73",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dawn's Herald",
@@ -33183,6 +33410,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Lester Fajardo",
+            "alias": "",
+            "position": "74",
             "card_name2": "Duskbringer",
             "color2": "WB",
             "type2": "Creature \u2013 Avatar Knight",
@@ -33193,8 +33422,10 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Lester Fajardo",
+            "alias2": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cleave the Soul",
@@ -33212,8 +33443,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "athrodr",
+            "alias": "",
+            "position": "75",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Soulbound Chassis",
@@ -33231,8 +33465,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Jing Liang",
+            "alias": "",
+            "position": "76",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Smoldering Tormentor",
@@ -33250,8 +33487,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Jim Pavelec",
+            "alias": "",
+            "position": "77",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hell's Chorus",
@@ -33269,8 +33509,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Lester Fajardo",
+            "alias": "",
+            "position": "78",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Protean Scion",
@@ -33288,8 +33531,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Lester Fajardo",
+            "alias": "",
+            "position": "79",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cobbled Equine",
@@ -33307,8 +33553,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "kirinkarwai",
+            "alias": "",
+            "position": "80",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sol Construct",
@@ -33326,8 +33575,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "kirinkarwai",
+            "alias": "",
+            "position": "81",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Leonin Shadowcaster",
@@ -33345,8 +33597,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Leon Jaume",
+            "alias": "",
+            "position": "82",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blightchoke Exarch",
@@ -33364,8 +33619,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Midigan",
+            "alias": "",
+            "position": "83",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Grinning Serpent",
@@ -33374,7 +33632,7 @@
             "type": "Creature \u2013 Skeleton Serpent",
             "number": 57,
             "color_identity": "U",
-            "cost": "{6}{U}",
+            "cost": "{5}{U}{U}",
             "rules_text": "Flash\nConvoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]\nWhen this creature enters, you may counter target activated or triggered ability. If an ability of a permanent is countered this way, you may gain control of it.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
@@ -33383,8 +33641,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Midigan",
+            "alias": "",
+            "position": "84",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Marble Arbiter",
@@ -33402,8 +33663,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Sergei Sarichev",
+            "alias": "",
+            "position": "85",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Overmorrow's Architect",
@@ -33421,8 +33685,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Alex Konstad",
+            "alias": "",
+            "position": "86",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sentient Artificer",
@@ -33440,8 +33707,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ilya Royz",
+            "alias": "",
+            "position": "87",
             "notes": "Arcun",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lux Potentate",
@@ -33459,8 +33729,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Gibbs Santos",
+            "alias": "",
+            "position": "88",
             "notes": "Arcun",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Endless Tome",
@@ -33478,8 +33751,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Qing Wen",
+            "alias": "",
+            "position": "89",
             "notes": "Arcun",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Twisting Steel",
@@ -33497,8 +33773,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Rio Yudha",
+            "alias": "",
+            "position": "90",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Viscera Cultist",
@@ -33516,8 +33795,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Digital Forms",
+            "alias": "",
+            "position": "91",
             "notes": "Arcun",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Twinferno Summoner",
@@ -33535,8 +33817,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Petr Donat",
+            "alias": "",
+            "position": "92",
             "notes": "Arcun",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sylvua's Reckoning",
@@ -33554,8 +33839,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Panjoool",
+            "alias": "",
+            "position": "93",
             "notes": "!tag spotlight",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wyldwood Guardian",
@@ -33573,8 +33861,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Plutus Su",
+            "alias": "",
+            "position": "94",
             "notes": "Arcun",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blighted Theologist",
@@ -33592,8 +33883,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "DarKayNess",
+            "alias": "",
+            "position": "95",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Muck Fiends",
@@ -33611,8 +33905,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Komarova Liubov Ramorina",
+            "alias": "",
+            "position": "96",
             "notes": "Arcun",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Choir of Doubt",
@@ -33630,8 +33927,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Alexandre Chaudret",
+            "alias": "",
+            "position": "97",
             "notes": "Arcun",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Weave Infinity",
@@ -33649,8 +33949,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Jo Cordisco",
+            "alias": "",
+            "position": "98",
             "notes": "Arcun",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rusted Colossus",
@@ -33668,8 +33971,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Yashaswi Karthik",
+            "alias": "",
+            "position": "99",
             "notes": "Arcun",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wrathful Judgment",
@@ -33687,8 +33993,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Kir Malov",
+            "alias": "",
+            "position": "100",
             "notes": "Arcun",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tiller of the Damned",
@@ -33706,8 +34015,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Matt Cowdery",
+            "alias": "",
+            "position": "101",
             "notes": "Arcun",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ephiridian Tunneler",
@@ -33725,8 +34037,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Sebastian Kowoll",
+            "alias": "",
+            "position": "102",
             "notes": "Arcun",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Heaventouched Sentinel",
@@ -33744,8 +34059,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Maros Manhardt",
+            "alias": "",
+            "position": "103",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forlorn Knight",
@@ -33763,8 +34081,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Tatiana Krstic",
+            "alias": "",
+            "position": "104",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Everwatching Widow",
@@ -33782,8 +34103,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Sebastian Kowoll",
+            "alias": "",
+            "position": "105",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Phytolich's Research",
@@ -33801,8 +34125,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Matt Rhodes",
+            "alias": "",
+            "position": "106",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Drown in Fear",
@@ -33820,8 +34147,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Damien Mammoliti",
+            "alias": "",
+            "position": "107",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Elbrine Thundercaller",
@@ -33839,8 +34169,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Tomasz Jedruszek",
+            "alias": "",
+            "position": "108",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Enclave Piercer",
@@ -33858,8 +34191,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "NUARE",
+            "alias": "",
+            "position": "109",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Feverbite Winder",
@@ -33877,8 +34213,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Remarin",
+            "alias": "",
+            "position": "110",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Heart of the Wyldwood",
@@ -33896,8 +34235,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Aether Games Inc.",
+            "alias": "",
+            "position": "111",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Misshapen Buck",
@@ -33915,8 +34257,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Lorenzo Mastroianni",
+            "alias": "",
+            "position": "112",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sylvua's Dryad",
@@ -33934,8 +34279,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Dmitry Dalnev",
+            "alias": "",
+            "position": "113",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ritual of Negation",
@@ -33953,8 +34301,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Giulio D'Amico",
+            "alias": "",
+            "position": "114",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plated Leviathan",
@@ -33972,8 +34323,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Izzy Leidl Art",
+            "alias": "",
+            "position": "115",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Eldest Archengine",
@@ -33991,8 +34345,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Chi Huei Chen",
+            "alias": "",
+            "position": "116",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ambling Ruins",
@@ -34010,8 +34367,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Kent Davis",
+            "alias": "",
+            "position": "117",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Devour Tender Flesh",
@@ -34029,8 +34389,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nick Keller",
+            "alias": "",
+            "position": "118",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Grotesque Abomination",
@@ -34048,8 +34411,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Michal Matczak",
+            "alias": "",
+            "position": "119",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lightborn Apostle",
@@ -34067,8 +34433,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Al Jerek Torrijas",
+            "alias": "",
+            "position": "120",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Prism of Portents",
@@ -34086,8 +34455,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "JasonTN",
+            "alias": "",
+            "position": "121",
             "notes": "!tag spotlight",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rock Scorpion",
@@ -34105,8 +34477,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Asim A. Steckel",
+            "alias": "",
+            "position": "122",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sentence to the Gaol",
@@ -34124,8 +34499,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Matt Cowdery",
+            "alias": "",
+            "position": "123",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Field Testing",
@@ -34143,8 +34521,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Acrassan",
+            "alias": "",
+            "position": "124",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blood-Cursed Diabolist",
@@ -34162,8 +34543,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Kati StarSoulArt",
+            "alias": "",
+            "position": "125",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Whisperer of Pale Boons",
@@ -34181,8 +34565,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Iyla Vatutin",
+            "alias": "",
+            "position": "126",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Valentina, Dread Impaler",
@@ -34192,7 +34579,7 @@
             "number": 226,
             "color_identity": "BR",
             "cost": "{B}{R}",
-            "rules_text": "Whenever you cast a noncreature spell, you may pay 1 life. If you do, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]\n{1}{B}{R}, {T}, Seal 4: Create a 4/4 black and red Vampire Dragon creature token with flying and lifelink. Activate only as a sorcery. [i](To seal 4, exile up to four cards with four or more card types among them from your graveyard.)[/i]",
+            "rules_text": "Whenever you cast a noncreature spell, you may pay 1 life. If you do, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\u201d)[/i]\n{1}{B}{R}, {T}, Seal 4: Create a 4/4 black and red Vampire Dragon creature token with flying and lifelink. Activate only as a sorcery. [i](To seal 4, exile up to four cards with four or more card types among them from your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -34200,8 +34587,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Fede",
+            "alias": "",
+            "position": "127",
             "notes": "!tag gay",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Joy in Bright Chaos",
@@ -34219,8 +34609,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Fede",
+            "alias": "",
+            "position": "128",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bismuth Guardian",
@@ -34238,6 +34631,8 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Anh Le",
+            "alias": "",
+            "position": "129",
             "card_name2": "Spinner of Creation",
             "color2": "UG",
             "type2": "Artifact Creature \u2013 Golem Cleric",
@@ -34248,8 +34643,10 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "anika mercier",
+            "alias2": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Finecraft Seraph",
@@ -34267,8 +34664,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Marcos V. Monken",
+            "alias": "",
+            "position": "130",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rotten Communion",
@@ -34286,8 +34686,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Lionel prats",
+            "alias": "",
+            "position": "131",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Steelskin Pilgrim",
@@ -34305,8 +34708,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Tamas Patkos",
+            "alias": "",
+            "position": "132",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Radiant Sunwright",
@@ -34324,8 +34730,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Jordan Van Der Merwe",
+            "alias": "",
+            "position": "133",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Extan Steelshifter",
@@ -34343,8 +34752,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ognevka Fenella",
+            "alias": "",
+            "position": "134",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Startouched Wayfarer",
@@ -34362,8 +34774,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Lalita Wip",
+            "alias": "",
+            "position": "135",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vampire Dragon",
@@ -34381,8 +34796,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Chunyu Wang",
+            "alias": "",
+            "position": "136",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Clockwork Arachnid",
@@ -34400,8 +34818,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Tomek Kaluzny",
+            "alias": "",
+            "position": "137",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lotus Cultivator",
@@ -34419,8 +34840,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Zea (Antoine Leblanc)",
+            "alias": "",
+            "position": "138",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Boiling Fury",
@@ -34438,8 +34862,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Grafit Studio",
+            "alias": "",
+            "position": "139",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Disdainful Stroke",
@@ -34457,8 +34884,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Thomas Dumey Locki",
+            "alias": "",
+            "position": "140",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bismuth Skycity",
@@ -34476,8 +34906,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Dorje Bellbroo",
+            "alias": "",
+            "position": "141",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Knight of the Thorn",
@@ -34495,8 +34928,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Camilo Palma",
+            "alias": "",
+            "position": "142",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Choking Grief",
@@ -34514,8 +34950,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Midigan",
+            "alias": "",
+            "position": "143",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Extan Runeweaving",
@@ -34533,8 +34972,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Manuel Casta\u00f1\u00f3n",
+            "alias": "",
+            "position": "144",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pull of Heaven",
@@ -34552,8 +34994,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Tobias Kwan",
+            "alias": "",
+            "position": "145",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lifeblood Imitation",
@@ -34571,8 +35016,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ana Paniagua",
+            "alias": "",
+            "position": "146",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Unnatural Hunger",
@@ -34590,8 +35038,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ven Locklear",
+            "alias": "",
+            "position": "147",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spindlewail",
@@ -34609,8 +35060,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Zachary Reeves",
+            "alias": "",
+            "position": "148",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Belltower Haunt",
@@ -34628,8 +35082,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Dmitry Dalnev",
+            "alias": "",
+            "position": "149",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stitched Pontiff",
@@ -34647,8 +35104,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nino Is",
+            "alias": "",
+            "position": "150",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "See Worlds Beyond",
@@ -34666,8 +35126,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Harkale Linai",
+            "alias": "",
+            "position": "151",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Swelling Growth",
@@ -34685,8 +35148,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Hilary Purnamasari",
+            "alias": "",
+            "position": "152",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cloak of Miasma",
@@ -34704,8 +35170,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Wirawan Pranoto",
+            "alias": "",
+            "position": "153",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Life and Death",
@@ -34723,8 +35192,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "mist XG",
+            "alias": "",
+            "position": "154",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Virulent Husk",
@@ -34742,8 +35214,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Alejandro Hurtado",
+            "alias": "",
+            "position": "155",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sprouting Sentinel",
@@ -34761,8 +35236,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Evgeny Romanov",
+            "alias": "",
+            "position": "156",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nascent Lich",
@@ -34780,8 +35258,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ryan Van Dongen",
+            "alias": "",
+            "position": "157",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stump Brute",
@@ -34799,8 +35280,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Carson Daniel",
+            "alias": "",
+            "position": "158",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Silver Suitor",
@@ -34818,8 +35302,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Mikyxone",
+            "alias": "",
+            "position": "159",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Unleashed Guardian",
@@ -34837,8 +35324,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Theo Legouis Teolehog",
+            "alias": "",
+            "position": "160",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "By Heaven's Decree",
@@ -34856,8 +35346,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Tomasz Chistowski",
+            "alias": "",
+            "position": "161",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Devotion Rewarded",
@@ -34875,8 +35368,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Zhuopeng Zhu",
+            "alias": "",
+            "position": "162",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Banishing Thrust",
@@ -34894,8 +35390,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Silvia Meiliani",
+            "alias": "",
+            "position": "163",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Herald of the Clarion",
@@ -34913,8 +35412,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Sam Yang",
+            "alias": "",
+            "position": "164",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Noble Steed",
@@ -34932,8 +35434,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Acrassan",
+            "alias": "",
+            "position": "165",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Champion of Relos",
@@ -34951,8 +35456,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Mircea Nicula",
+            "alias": "",
+            "position": "166",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Paladin of Sacred Testament",
@@ -34970,8 +35478,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "ozan erdi",
+            "alias": "",
+            "position": "167",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Steelwrought Sunblade",
@@ -34989,8 +35500,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Limb-O",
+            "alias": "",
+            "position": "168",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Prophet of Rheydia",
@@ -35008,8 +35522,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Silvia Meiliani",
+            "alias": "",
+            "position": "169",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blessed Feathers",
@@ -35027,8 +35544,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Silvia Meiliani",
+            "alias": "",
+            "position": "170",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gaze Inward",
@@ -35046,8 +35566,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Matias Gonzalez",
+            "alias": "",
+            "position": "171",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Weigh the Soul",
@@ -35065,8 +35588,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Acrassan",
+            "alias": "",
+            "position": "172",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Among the Lily Pads",
@@ -35084,8 +35610,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Julie Dillon",
+            "alias": "",
+            "position": "173",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Call Beyond",
@@ -35103,8 +35632,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Alex Konstad",
+            "alias": "",
+            "position": "174",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Seraph of Storms",
@@ -35122,8 +35654,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Robson Michel",
+            "alias": "",
+            "position": "175",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Josiah's Bulwark",
@@ -35141,8 +35676,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Jordan Kerbow",
+            "alias": "",
+            "position": "176",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Soldier",
@@ -35160,8 +35698,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Eduardo Dominguez",
+            "alias": "",
+            "position": "177",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "To Stone and Ash",
@@ -35179,8 +35720,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "jdtmart",
+            "alias": "",
+            "position": "178",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cleave the Blood of Gods",
@@ -35198,8 +35742,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Cher-Ro",
+            "alias": "",
+            "position": "179",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cruel Heartstealer",
@@ -35217,8 +35764,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Cher-Ro",
+            "alias": "",
+            "position": "180",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Biting Pain",
@@ -35236,8 +35786,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "xiaofanchuanart",
+            "alias": "",
+            "position": "181",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Molten Bloodhunter",
@@ -35255,8 +35808,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Aldo Dominguez",
+            "alias": "",
+            "position": "182",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Skull Summoner",
@@ -35274,8 +35830,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Vulpes Ibculta",
+            "alias": "",
+            "position": "183",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Knight",
@@ -35293,8 +35852,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Christopher Cant",
+            "alias": "",
+            "position": "184",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Golem",
@@ -35312,8 +35874,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Sara Contreras",
+            "alias": "",
+            "position": "185",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Extan Knight-Errant",
@@ -35331,8 +35896,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Christopher Cant",
+            "alias": "",
+            "position": "186",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Voidhungry Avatar",
@@ -35350,8 +35918,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Matheus Ast",
+            "alias": "",
+            "position": "187",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sol Herald",
@@ -35369,8 +35940,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ari-Matti Toivonen",
+            "alias": "",
+            "position": "188",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Evolving Wilds",
@@ -35388,8 +35962,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "li moly",
+            "alias": "",
+            "position": "189",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Burning Eyebeam",
@@ -35407,8 +35984,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Chris Cold",
+            "alias": "",
+            "position": "190",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Glorious Protoseraph",
@@ -35426,8 +36006,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nastya-Lehn",
+            "alias": "",
+            "position": "191",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "March Against Fate",
@@ -35445,8 +36028,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Pavel Kolomeyets",
+            "alias": "",
+            "position": "192",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bismuth Archdeacon",
@@ -35464,8 +36050,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Travis Anderson",
+            "alias": "",
+            "position": "193",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bismuth Cube",
@@ -35483,8 +36072,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Travis Anderson",
+            "alias": "",
+            "position": "194",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Augmented Dragon",
@@ -35502,8 +36094,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Travis Anderson",
+            "alias": "",
+            "position": "195",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Oracle of the Extan",
@@ -35521,8 +36116,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "OrangeSavannah",
+            "alias": "",
+            "position": "196",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forsaken Chalkmason",
@@ -35540,8 +36138,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nolan Lu",
+            "alias": "",
+            "position": "197",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Eluriel, Final Evolution",
@@ -35559,8 +36160,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Celestial Fang",
+            "alias": "",
+            "position": "198",
             "notes": "!tag twink",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Page of Gold",
@@ -35578,8 +36182,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Celestial Fang",
+            "alias": "",
+            "position": "199",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Veintwinned Harp",
@@ -35597,8 +36204,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Anton Oxenuk",
+            "alias": "",
+            "position": "200",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Encased in Gold",
@@ -35616,8 +36226,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Qifeng Lin",
+            "alias": "",
+            "position": "201",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Icon of the Blessed Horde",
@@ -35635,8 +36248,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Natalia Romero N\u00fa\u00f1ez",
+            "alias": "",
+            "position": "202",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Aureate Partizan",
@@ -35654,8 +36270,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Qifeng Lin",
+            "alias": "",
+            "position": "203",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Suncrowned Lion",
@@ -35673,8 +36292,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Virgile Boulais",
+            "alias": "",
+            "position": "204",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wyldwood Sanctifier",
@@ -35692,8 +36314,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "spitespitfire",
+            "alias": "",
+            "position": "205",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Celestial Mandate",
@@ -35711,8 +36336,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Vini Pereira",
+            "alias": "",
+            "position": "206",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ashen Lichlord",
@@ -35730,8 +36358,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Maxim Bazhenov",
+            "alias": "",
+            "position": "207",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Soulchained Remnant",
@@ -35749,8 +36380,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Dominik Mayer",
+            "alias": "",
+            "position": "208",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sacred Sacrament",
@@ -35768,8 +36402,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "jyongyi",
+            "alias": "",
+            "position": "209",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scion of Blossoms",
@@ -35787,8 +36424,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Yuyun Jessie Jiang",
+            "alias": "",
+            "position": "210",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Living Littany",
@@ -35806,8 +36446,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Olivier Bernard",
+            "alias": "",
+            "position": "211",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Runic Lockdown",
@@ -35825,8 +36468,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Bear Frymire",
+            "alias": "",
+            "position": "212",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dracolich's Mastery",
@@ -35844,8 +36490,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Aldo Dominguez",
+            "alias": "",
+            "position": "213",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Messengers of the Void",
@@ -35863,8 +36512,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Valera Lutfullina",
+            "alias": "",
+            "position": "214",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Engines of Hell",
@@ -35882,8 +36534,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Celest C.",
+            "alias": "",
+            "position": "215",
             "notes": "!tag spotlight",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Birth from Blood",
@@ -35901,8 +36556,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Noah Thatcher",
+            "alias": "",
+            "position": "216",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mad Tormentor",
@@ -35920,8 +36578,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Diana Franco",
+            "alias": "",
+            "position": "217",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Starsent Speaker",
@@ -35939,8 +36600,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ari-Matti Toivonen",
+            "alias": "",
+            "position": "218",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Generated Voidling",
@@ -35958,8 +36622,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Y - mir",
+            "alias": "",
+            "position": "219",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fell Demiurge",
@@ -35969,7 +36636,7 @@
             "number": 53,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Flash\nWhen this creature enters, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]\nThe first instant and/or sorcery spell you cast each turn costs {1} less to cast.\nWhenever you discard an instant or sorcery card, you may cast it from your graveyard.",
+            "rules_text": "Flash\nWhen this creature enters, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\u201d)[/i]\nThe first instant and/or sorcery spell you cast each turn costs {1} less to cast.\nWhenever you discard an instant or sorcery card, you may cast it from your graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -35977,8 +36644,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "F3LC4T",
+            "alias": "",
+            "position": "220",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Confounding Cambion",
@@ -35996,8 +36666,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Bartek Fedyczak",
+            "alias": "",
+            "position": "221",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sylvua's Wyldbeast",
@@ -36015,8 +36688,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Thanumpa Mohprasit",
+            "alias": "",
+            "position": "222",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Undeath's Domination",
@@ -36034,8 +36710,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Vasily Ermolaev",
+            "alias": "",
+            "position": "223",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lotus Tender",
@@ -36053,8 +36732,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Yoji Grey",
+            "alias": "",
+            "position": "224",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Influence the Scales",
@@ -36072,8 +36754,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "ibrahem swaid",
+            "alias": "",
+            "position": "225",
             "notes": "!tag spotlight",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Thorn Dragoon",
@@ -36091,8 +36776,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Bartek Fedyczak",
+            "alias": "",
+            "position": "226",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "One Man Army",
@@ -36110,8 +36798,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Satoru Wada",
+            "alias": "",
+            "position": "227",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Voidbound Lightstealer",
@@ -36129,8 +36820,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Federico Musetti",
+            "alias": "",
+            "position": "228",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Day of Calamity",
@@ -36148,8 +36842,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Bartek Fedyczak",
+            "alias": "",
+            "position": "229",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blighted Binding",
@@ -36167,8 +36864,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Jesus Campos \"Nerkin\"",
+            "alias": "",
+            "position": "230",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Natural Artifice",
@@ -36186,8 +36886,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ari Ibarra",
+            "alias": "",
+            "position": "231",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Jailer's Ire",
@@ -36205,8 +36908,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Evgeny Romanov",
+            "alias": "",
+            "position": "232",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Osteogenesis",
@@ -36224,8 +36930,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Allan Santos",
+            "alias": "",
+            "position": "233",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Feed On the Crimson Sun",
@@ -36243,8 +36952,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Dmitry Skvortsov",
+            "alias": "",
+            "position": "234",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bog Ghoul",
@@ -36262,8 +36974,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "daarken",
+            "alias": "",
+            "position": "235",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lady of the Lilies",
@@ -36281,8 +36996,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Dustin Panzino",
+            "alias": "",
+            "position": "236",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ensouled Stones",
@@ -36300,8 +37018,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Veli Nystrom",
+            "alias": "",
+            "position": "237",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Verox, the Forgelord",
@@ -36319,8 +37040,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Aldo Dominguez",
+            "alias": "",
+            "position": "238",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Portents of Blood",
@@ -36338,8 +37062,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Aldo Dominquez",
+            "alias": "",
+            "position": "239",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gateway Protector",
@@ -36357,8 +37084,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Yun Huai Huang",
+            "alias": "",
+            "position": "240",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shepherding the Rot",
@@ -36376,8 +37106,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nini Is.",
+            "alias": "",
+            "position": "241",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Braintree Divination",
@@ -36387,7 +37120,7 @@
             "number": 127,
             "color_identity": "R",
             "cost": "{4}{R}",
-            "rules_text": "Exile the top three cards of your library. Until the end of your next turn, you may play those cards.\nCreate three Treasure tokens. [i](They're artifacts with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "Exile the top three cards of your library. Until the end of your next turn, you may play those cards.\nCreate three Treasure tokens. [i](They're artifacts with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -36395,8 +37128,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Kamila Szutenberg",
+            "alias": "",
+            "position": "242",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Descent into Chaos",
@@ -36414,8 +37150,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Celestial Fang",
+            "alias": "",
+            "position": "243",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nexus Serasphinx",
@@ -36424,17 +37163,20 @@
             "type": "Creature \u2013 Angel Sphinx",
             "number": 63,
             "color_identity": "U",
-            "cost": "{3}{U}{U}",
+            "cost": "{5}{U}{U}",
             "rules_text": "Flying\nWhen this creature enters, reveal the top five cards of your library and separate them into two piles. An opponent chooses one of those piles. Exile that pile and put the other into your graveyard. You may play the cards exiled this way for as long as you control this creature. Whenever you play a card exiled this way, create a 4/4 white Angel creature token with flying.",
             "flavor_text": "[i][/i]",
-            "pt": "4/4",
+            "pt": "5/5",
             "special_text": "",
             "shape": "normal",
             "set": "SOL",
             "loyalty": "",
             "artist": "ERA-7S",
+            "alias": "",
+            "position": "244",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Implement of Thuraxes",
@@ -36452,8 +37194,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Joshua Raphael",
+            "alias": "",
+            "position": "245",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Doom Monarch",
@@ -36471,8 +37216,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "CAO KE",
+            "alias": "",
+            "position": "246",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scarlet Liturgy",
@@ -36490,8 +37238,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Henrique Lindner",
+            "alias": "",
+            "position": "247",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Starsent Angel",
@@ -36501,7 +37252,7 @@
             "number": 33,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
-            "rules_text": "Flying, lifelink\nOther creatures you control with flying get +1/+1.\nSoulsplit {4}{W} [i]({4}{W}: Create a 1/1 token copy of this creature without this ability. Activate only as a sorcery and only once.)[/i]",
+            "rules_text": "Flying\nOther creatures you control with flying get +1/+1.\nSoulsplit {4}{W} [i]({4}{W}: Create a 1/1 token copy of this creature without this ability. Activate only as a sorcery and only once.)[/i]",
             "flavor_text": "[i]\u201cI carve our hymns into the stars.\u201d[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -36509,8 +37260,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Billy Christian",
+            "alias": "",
+            "position": "248",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Clamber to the Light",
@@ -36528,8 +37282,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "marvinblattert",
+            "alias": "",
+            "position": "249",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Endure Hell",
@@ -36547,8 +37304,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Solinaught",
+            "alias": "",
+            "position": "250",
             "notes": "!tag spotlight",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dimension Dancer",
@@ -36566,8 +37326,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "MissSiah",
+            "alias": "",
+            "position": "251",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gilded Maiden",
@@ -36585,8 +37348,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "lily",
+            "alias": "",
+            "position": "252",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sword of Josiah",
@@ -36604,8 +37370,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "JusticeWong",
+            "alias": "",
+            "position": "253",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shepherd of Shadows",
@@ -36623,8 +37392,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Jonas Jakobsson",
+            "alias": "",
+            "position": "254",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Teluran Gardens",
@@ -36642,8 +37414,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "li moly",
+            "alias": "",
+            "position": "255",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Resurgent Ruins",
@@ -36661,8 +37436,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Plumehead",
+            "alias": "",
+            "position": "256",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Charged Confluence",
@@ -36680,8 +37458,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Panjoool",
+            "alias": "",
+            "position": "257",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shattered Spires",
@@ -36699,8 +37480,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nikolay Yeliseyev",
+            "alias": "",
+            "position": "258",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hollow Church",
@@ -36710,7 +37494,7 @@
             "number": 253,
             "color_identity": "B",
             "cost": "",
-            "rules_text": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {B}.\n{B}, {T}: Return target creature card from your graveyard to your hand if it was put there from anywhere other than the battlefield this turn.",
+            "rules_text": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {B}.\n{1}{B}, {T}: Return target creature card from your graveyard to your hand if it was put there from anywhere other than the battlefield this turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -36718,8 +37502,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Eryk Szczygiel",
+            "alias": "",
+            "position": "259",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Desecrated Monument",
@@ -36737,8 +37524,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "li moly",
+            "alias": "",
+            "position": "260",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forest",
@@ -36756,8 +37546,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "li moly",
+            "alias": "",
+            "position": "261",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Island",
@@ -36775,8 +37568,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "li moly",
+            "alias": "",
+            "position": "262",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mountain",
@@ -36794,8 +37590,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "li moly",
+            "alias": "",
+            "position": "263",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plains",
@@ -36813,8 +37612,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Lorenzo Lanfranconi",
+            "alias": "",
+            "position": "264",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Swamp",
@@ -36832,8 +37634,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Philipp A. Ulrich",
+            "alias": "",
+            "position": "265",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shattered Peak",
@@ -36851,8 +37656,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Samuele Bandini",
+            "alias": "",
+            "position": "266",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Zombie",
@@ -36870,8 +37678,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Xabier Urrutia",
+            "alias": "",
+            "position": "267",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Treasure",
@@ -36889,8 +37700,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "He Xiaosong",
+            "alias": "",
+            "position": "268",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Black Lotus",
@@ -36908,8 +37722,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Elrad Choy",
+            "alias": "",
+            "position": "269",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dragon",
@@ -36927,8 +37744,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Huu Ha",
+            "alias": "",
+            "position": "270",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Warrior",
@@ -36946,8 +37766,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "BarretFrymire",
+            "alias": "",
+            "position": "271",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Iron Wastes",
@@ -36965,8 +37788,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Max Roche",
+            "alias": "",
+            "position": "272",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Angel",
@@ -36984,8 +37810,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
+            "position": "273",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Angel Demon",
@@ -37003,27 +37832,11 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Sikaran Susirakarn",
+            "alias": "",
+            "position": "274",
             "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Doom Monarch",
-            "color": "R",
-            "rarity": "rare",
-            "type": "Creature \u2013 Zombie Noble",
-            "number": 0,
-            "color_identity": "R",
-            "cost": "{R}",
-            "rules_text": "You may look at the top card of your library any time.\nOnce each turn, you may cast a spell from the top of your library by discarding a card in addition to that spell's other costs.\n[i]Desolate[/i] \u2013 As long as you have one or fewer cards in hand, this creature gets +2/+1 and has menace.",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "normal",
-            "set": "SOL",
-            "loyalty": "",
-            "artist": "zhang jing",
-            "notes": "!group promo\n!sort 01",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Clash of Ego",

@@ -1,4 +1,606 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+Doom Monarch removed.
+
+Josiah, Bitter Survivor
+rules_text:  => Surpass {10}{B}{W} [i]({10}{W}{B}: Transform this planeswalker. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)[/i]
+[+1]: You draw a card, then you lose 3 life unless you control an Angel or a Demon.
+[-3]: Return up to two target creatures to their owner's hands. If you returned two creatures you controlled to hand this way, create a 4/4 white Angel creature token with flying.
+
+Scion of Heaven and Hell
+
+Shadowborn Apostle
+
+Persistent Contagion
+
+Mother of Hands
+
+Shadowbane Paladin
+
+Artisan of Undeath
+
+Dust to Flesh to Dust
+
+Sylvua, Wyldwood Mother
+rules_text:  => [+2]: Mill cards until you mill a land card. Return up to one card milled this way to your hand.
+[-3]: Return target land card from your graveyard to the battlefield. It becomes a 6/6 green Spirit creature with trample. It's still a land.
+[-9]: You get an emblem with “{BG}: Return target permanent card from your graveyard to the battlefield.”
+
+At Any Cost
+
+Scourge Taskmaster
+
+Staunch Purifier
+
+Touch of God
+
+Ripples of Rebirth
+
+Stonesprung Spirit
+
+Eclipse Paladin
+
+Death's Undoing
+
+Seeker of Atonement
+
+Sanguis Sanctorum
+rules_text: When this artifact enters, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+Whenever you discard one or more cards, you may pay 1 life. If you do, draw a card. Do this only once each turn. => When this artifact enters, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+Whenever you discard one or more cards, you may pay 1 life. If you do, draw a card. Do this only once each turn.
+
+Reygias, Lord Phytolich
+rules_text: When this creature enters, you may sacrifice a land. If you do, search your library for a land card, put it onto the battlefield, then shuffle.
+{G}, {T}, Seal 3: You may play target land card or cast target nonland permanent card from your graveyard this turn. [i](To seal 3, exile up to three cards with three or more card types among them from your graveyard.)[/i] => When Reygias enters, you may sacrifice a land. If you do, search your library for a land card, put it onto the battlefield, then shuffle.
+{G}, {T}, Seal 3: You may play target land card or cast target nonland permanent card from your graveyard this turn. [i](To seal 3, exile up to three cards with three or more card types among them from your graveyard.)[/i]
+
+Stonework Angel
+rules_text: Flying
+When this creature enters, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+{2}: Exile target card from a graveyard. => Flying
+When this creature enters, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+{2}: Exile target card from a graveyard.
+
+Whisperer of Sweetest Lies
+
+Flame-Scarred Abomination
+
+Kael-dun Inquisitor
+
+Terithius, the Iron Mind
+
+Engine of Our Eden
+
+They Shall Know Perdition
+
+Sphere of Isolation
+
+Ancient Transmutation
+
+Aos, Augur of Damnations
+
+Grit
+
+Eira, Selfless Paladin
+rules_text:  => [+1]: Create a 1/1 red Warrior creature token, then put a +1/+1 counter on a creature you control.
+[0]: Until end of turn, Eira becomes a 5/5 Human Soldier creature with indestructible. [i](She doesn't lose loyalty while she's not a planeswalker.)[/i]
+[-3]: Each player chooses any number of creatures they control with total power 4 or less, then sacrifices all other creatures they control.
+[-8]: You get an emblem with “If you would lose 1 or more life, you lose 1 life instead.”
+
+Breaker of Reality
+
+Ironclad Necromancers
+
+Glittering Gargoyle
+
+Tessa, Saint Reborn
+rules_text: You may cast this card from your graveyard as long as you control a Zombie.
+Whenever you cast another spell from a graveyard or another permanent you control enters from a graveyard, you draw a card and lose 1 life.
+{2}, Discard a card: Create a tapped 2/2 black Zombie creature token. => You may cast this card from your graveyard as long as you control a Zombie.
+Whenever you cast a spell from a graveyard or another permanent you control enters from a graveyard, you draw a card and lose 1 life.
+{2}, Discard a card: Create a tapped 2/2 black Zombie creature token.
+
+Cradle of Nascence
+
+Ijara, the Last Teluran
+
+Petalwisp Whisperer
+
+Wyldwood Dryad
+
+Emperor Thuraxes IV
+
+Fascimile of Gods
+
+Blood
+
+Hellfire Ballista
+
+Wyldwood Ceremony
+
+Ironblessed Inquisitor
+
+All are Slave to Time
+
+Josiah's Betrayal
+
+Herald of an Age of Iron
+
+Execute for Blasphemy
+
+The Memory Terminal
+
+Clarion Paladin
+
+Paladin of Fury
+
+Walk Out of Hell
+
+Odeon, Goldmask Rogue
+
+Calamity Tyrant
+
+Reweaver of Thuraxes
+
+Putrescent Branchstalker
+
+Go to Hell
+
+Flesh and Bone Yield Easily
+
+Teluran Sarcophagus
+rules_text: {T}: Add {C}{C}.
+{T}: Draw a card. If you control artifact creatures with total power 10 or greater, draw three cards instead. => {T}: Add {C}{C}.
+{2}, {T}: Draw a card. If you control artifact creatures with total power 10 or greater, draw three cards instead.
+
+Infernal Torturer
+
+Carrion-Cutter Seraph
+
+Bejeweled Dragon
+
+Legate Sparkweaver
+
+Glint-Edge Knight
+
+Coaxer of the Cycle
+
+Shackled Phantom
+
+Auctor of the Testament
+
+Arbiter of Purity
+
+Thunderous Corruscation
+
+Ward of the Skies
+
+Surgeblade Duelist
+
+Exalted Persecutor
+
+Dawn's Herald
+
+Cleave the Soul
+
+Soulbound Chassis
+
+Smoldering Tormentor
+
+Hell's Chorus
+
+Protean Scion
+
+Cobbled Equine
+
+Sol Construct
+
+Leonin Shadowcaster
+
+Blightchoke Exarch
+
+Grinning Serpent
+cost: {6}{U} => {5}{U}{U}
+
+Marble Arbiter
+
+Overmorrow's Architect
+
+Sentient Artificer
+
+Lux Potentate
+
+Endless Tome
+
+Twisting Steel
+
+Viscera Cultist
+
+Twinferno Summoner
+
+Sylvua's Reckoning
+
+Wyldwood Guardian
+
+Blighted Theologist
+
+Muck Fiends
+
+Choir of Doubt
+
+Weave Infinity
+
+Rusted Colossus
+
+Wrathful Judgment
+
+Tiller of the Damned
+
+Ephiridian Tunneler
+
+Heaventouched Sentinel
+
+Forlorn Knight
+
+Everwatching Widow
+
+Phytolich's Research
+
+Drown in Fear
+
+Elbrine Thundercaller
+
+Enclave Piercer
+
+Feverbite Winder
+
+Heart of the Wyldwood
+
+Misshapen Buck
+
+Sylvua's Dryad
+
+Ritual of Negation
+
+Plated Leviathan
+
+Eldest Archengine
+
+Ambling Ruins
+
+Devour Tender Flesh
+
+Grotesque Abomination
+
+Lightborn Apostle
+
+Prism of Portents
+
+Rock Scorpion
+
+Sentence to the Gaol
+
+Field Testing
+
+Blood-Cursed Diabolist
+
+Whisperer of Pale Boons
+
+Valentina, Dread Impaler
+rules_text: Whenever you cast a noncreature spell, you may pay 1 life. If you do, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+{1}{B}{R}, {T}, Seal 4: Create a 4/4 black and red Vampire Dragon creature token with flying and lifelink. Activate only as a sorcery. [i](To seal 4, exile up to four cards with four or more card types among them from your graveyard.)[/i] => Whenever you cast a noncreature spell, you may pay 1 life. If you do, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+{1}{B}{R}, {T}, Seal 4: Create a 4/4 black and red Vampire Dragon creature token with flying and lifelink. Activate only as a sorcery. [i](To seal 4, exile up to four cards with four or more card types among them from your graveyard.)[/i]
+
+Joy in Bright Chaos
+
+Bismuth Guardian
+
+Finecraft Seraph
+
+Rotten Communion
+
+Steelskin Pilgrim
+
+Radiant Sunwright
+
+Extan Steelshifter
+
+Startouched Wayfarer
+
+Vampire Dragon
+
+Clockwork Arachnid
+
+Lotus Cultivator
+
+Boiling Fury
+
+Disdainful Stroke
+
+Bismuth Skycity
+
+Knight of the Thorn
+
+Choking Grief
+
+Extan Runeweaving
+
+Pull of Heaven
+
+Lifeblood Imitation
+
+Unnatural Hunger
+
+Spindlewail
+
+Belltower Haunt
+
+Stitched Pontiff
+
+See Worlds Beyond
+
+Swelling Growth
+
+Cloak of Miasma
+
+Life and Death
+
+Virulent Husk
+
+Sprouting Sentinel
+
+Nascent Lich
+
+Stump Brute
+
+Silver Suitor
+
+Unleashed Guardian
+
+By Heaven's Decree
+
+Devotion Rewarded
+
+Banishing Thrust
+
+Herald of the Clarion
+
+Noble Steed
+
+Champion of Relos
+
+Paladin of Sacred Testament
+
+Steelwrought Sunblade
+
+Prophet of Rheydia
+
+Blessed Feathers
+
+Gaze Inward
+
+Weigh the Soul
+
+Among the Lily Pads
+
+Call Beyond
+
+Seraph of Storms
+
+Josiah's Bulwark
+
+Soldier
+
+To Stone and Ash
+
+Cleave the Blood of Gods
+
+Cruel Heartstealer
+
+Biting Pain
+
+Molten Bloodhunter
+
+Skull Summoner
+
+Knight
+
+Golem
+
+Extan Knight-Errant
+
+Voidhungry Avatar
+
+Sol Herald
+
+Evolving Wilds
+
+Burning Eyebeam
+
+Glorious Protoseraph
+
+March Against Fate
+
+Bismuth Archdeacon
+
+Bismuth Cube
+
+Augmented Dragon
+
+Oracle of the Extan
+
+Forsaken Chalkmason
+
+Eluriel, Final Evolution
+
+Page of Gold
+
+Veintwinned Harp
+
+Encased in Gold
+
+Icon of the Blessed Horde
+
+Aureate Partizan
+
+Suncrowned Lion
+
+Wyldwood Sanctifier
+
+Celestial Mandate
+
+Ashen Lichlord
+
+Soulchained Remnant
+
+Sacred Sacrament
+
+Scion of Blossoms
+
+Living Littany
+
+Runic Lockdown
+
+Dracolich's Mastery
+
+Messengers of the Void
+
+Engines of Hell
+
+Birth from Blood
+
+Mad Tormentor
+
+Starsent Speaker
+
+Generated Voidling
+
+Fell Demiurge
+rules_text: Flash
+When this creature enters, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+The first instant and/or sorcery spell you cast each turn costs {1} less to cast.
+Whenever you discard an instant or sorcery card, you may cast it from your graveyard. => Flash
+When this creature enters, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+The first instant and/or sorcery spell you cast each turn costs {1} less to cast.
+Whenever you discard an instant or sorcery card, you may cast it from your graveyard.
+
+Confounding Cambion
+
+Sylvua's Wyldbeast
+
+Undeath's Domination
+
+Lotus Tender
+
+Influence the Scales
+
+Thorn Dragoon
+
+One Man Army
+
+Voidbound Lightstealer
+
+Day of Calamity
+
+Blighted Binding
+
+Natural Artifice
+
+Jailer's Ire
+
+Osteogenesis
+
+Feed On the Crimson Sun
+
+Bog Ghoul
+
+Lady of the Lilies
+
+Ensouled Stones
+
+Verox, the Forgelord
+
+Portents of Blood
+
+Gateway Protector
+
+Shepherding the Rot
+
+Braintree Divination
+rules_text: Exile the top three cards of your library. Until the end of your next turn, you may play those cards.
+Create three Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Exile the top three cards of your library. Until the end of your next turn, you may play those cards.
+Create three Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Descent into Chaos
+
+Nexus Serasphinx
+cost: {3}{U}{U} => {5}{U}{U}
+pt: 4/4 => 5/5
+
+Implement of Thuraxes
+
+Doom Monarch
+
+Scarlet Liturgy
+
+Starsent Angel
+rules_text: Flying, lifelink
+Other creatures you control with flying get +1/+1.
+Soulsplit {4}{W} [i]({4}{W}: Create a 1/1 token copy of this creature without this ability. Activate only as a sorcery and only once.)[/i] => Flying
+Other creatures you control with flying get +1/+1.
+Soulsplit {4}{W} [i]({4}{W}: Create a 1/1 token copy of this creature without this ability. Activate only as a sorcery and only once.)[/i]
+
+Clamber to the Light
+
+Endure Hell
+
+Dimension Dancer
+
+Gilded Maiden
+
+Sword of Josiah
+
+Shepherd of Shadows
+
+Teluran Gardens
+
+Resurgent Ruins
+
+Charged Confluence
+
+Shattered Spires
+
+Hollow Church
+rules_text: This land enters tapped unless you control two or fewer other lands.
+{T}: Add {B}.
+{B}, {T}: Return target creature card from your graveyard to your hand if it was put there from anywhere other than the battlefield this turn. => This land enters tapped unless you control two or fewer other lands.
+{T}: Add {B}.
+{1}{B}, {T}: Return target creature card from your graveyard to your hand if it was put there from anywhere other than the battlefield this turn.
+
+Desecrated Monument
+
+Shattered Peak
+
+Zombie
+
+Treasure
+
+Black Lotus
+
+Dragon
+
+Warrior
+
+Iron Wastes
+
+Angel
+
+Angel Demon
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Doom Monarch added.

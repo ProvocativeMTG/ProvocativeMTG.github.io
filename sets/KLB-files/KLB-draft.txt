@@ -105,7 +105,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Avatar Performer",
-			"collector_number": "98",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/10.png"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Human Ninja",
-			"collector_number": "194",
+			"collector_number": "195",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/18.png"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Instant",
-			"collector_number": "211",
+			"collector_number": "212",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/19.png"
 			}
@@ -215,7 +215,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Instant",
-			"collector_number": "209",
+			"collector_number": "210",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/21.png"
 			}
@@ -355,7 +355,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Artifact",
-			"collector_number": "85",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/35.png"
 			}
@@ -365,7 +365,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "94",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/36.png"
 			}
@@ -375,7 +375,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Fox Shapeshifter Samurai",
-			"collector_number": "80",
+			"collector_number": "79",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/37.png"
 			}
@@ -455,7 +455,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "82",
+			"collector_number": "81",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/45.png"
 			}
@@ -494,7 +494,7 @@
 			"name": "Celestial Dance",
 			"rarity": "rare",
 			"mana_cost": "{X}{W}{U}{U}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "178",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/49.png"
@@ -585,7 +585,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Samurai",
-			"collector_number": "79",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/58.png"
 			}
@@ -675,7 +675,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Fish",
-			"collector_number": "99",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/67.png"
 			}
@@ -705,7 +705,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Fox Shapeshifter",
-			"collector_number": "202",
+			"collector_number": "203",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/70.png"
 			}
@@ -731,7 +731,7 @@
 			}
 		},
 		{
-			"name": "Realmway Incarnate",
+			"name": "Risen Realmway",
 			"rarity": "mythic",
 			"mana_cost": "{6}{G}{G}",
 			"type": "Artifact Creature — Golem",
@@ -865,7 +865,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Creature — Zombie Samurai",
-			"collector_number": "95",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/86.png"
 			}
@@ -925,7 +925,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Bat",
-			"collector_number": "86",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/92.png"
 			}
@@ -935,7 +935,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}{R}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "210",
+			"collector_number": "211",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/93.png"
 			}
@@ -965,7 +965,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Demon Warrior",
-			"collector_number": "83",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/96.png"
 			}
@@ -1055,7 +1055,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Legendary Creature — Fox Beast",
-			"collector_number": "93",
+			"collector_number": "92",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/105.png"
 			}
@@ -1075,7 +1075,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Instant",
-			"collector_number": "199",
+			"collector_number": "200",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/107.png"
 			}
@@ -1094,7 +1094,7 @@
 			"name": "Kage, Soul Clad in Steel",
 			"rarity": "mythic",
 			"mana_cost": "{8}",
-			"type": "Legendary Artifact Creature — Demon Construct",
+			"type": "Legendary Artifact Creature — Demon",
 			"collector_number": "273",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/109.png"
@@ -1121,11 +1121,11 @@
 			}
 		},
 		{
-			"name": "Thundercall",
+			"name": "Swept Up",
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Instant",
-			"collector_number": "65",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/112.png"
 			}
@@ -1245,7 +1245,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "205",
+			"collector_number": "206",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/124.png"
 			}
@@ -1255,7 +1255,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "92",
+			"collector_number": "91",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/125.png"
 			}
@@ -1365,7 +1365,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Samurai",
-			"collector_number": "91",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/136.png"
 			}
@@ -1395,7 +1395,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Bird Hydra",
-			"collector_number": "64",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/139.png"
 			}
@@ -1455,7 +1455,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Creature — Dragon",
-			"collector_number": "219",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/145.png"
 			}
@@ -1465,7 +1465,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}{W}{U}",
 			"type": "Creature — Dragon",
-			"collector_number": "221",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/146.png"
 			}
@@ -1475,7 +1475,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}{B}",
 			"type": "Creature — Dragon",
-			"collector_number": "220",
+			"collector_number": "221",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/147.png"
 			}
@@ -1485,7 +1485,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}{G}",
 			"type": "Creature — Dragon",
-			"collector_number": "218",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/148.png"
 			}
@@ -1495,7 +1495,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "217",
+			"collector_number": "218",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/149.png"
 			}
@@ -1575,7 +1575,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Bird Samurai",
-			"collector_number": "90",
+			"collector_number": "89",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/157.png"
 			}
@@ -1725,7 +1725,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "207",
+			"collector_number": "208",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/172.png"
 			}
@@ -1755,7 +1755,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Samurai",
-			"collector_number": "81",
+			"collector_number": "80",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/175.png"
 			}
@@ -1765,7 +1765,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Creature — Human Samurai",
-			"collector_number": "192",
+			"collector_number": "193",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/176.png"
 			}
@@ -1775,7 +1775,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Demon Warrior",
-			"collector_number": "96",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/177.png"
 			}
@@ -1785,7 +1785,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Creature — Demon",
-			"collector_number": "196",
+			"collector_number": "197",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/178.png"
 			}
@@ -1805,7 +1805,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Instant",
-			"collector_number": "89",
+			"collector_number": "88",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/180.png"
 			}
@@ -1835,7 +1835,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Demon Warrior",
-			"collector_number": "204",
+			"collector_number": "205",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/183.png"
 			}
@@ -1845,7 +1845,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Samurai",
-			"collector_number": "87",
+			"collector_number": "86",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/184.png"
 			}
@@ -1855,7 +1855,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Zombie Samurai",
-			"collector_number": "84",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/185.png"
 			}
@@ -2055,7 +2055,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "212",
+			"collector_number": "213",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/205.png"
 			}
@@ -2075,7 +2075,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "215",
+			"collector_number": "216",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/207.png"
 			}
@@ -2085,7 +2085,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}{B}",
 			"type": "Creature — Avatar Samurai",
-			"collector_number": "193",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/208.png"
 			}
@@ -2095,7 +2095,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Demon Performer",
-			"collector_number": "88",
+			"collector_number": "87",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/209.png"
 			}
@@ -2255,7 +2255,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "78",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/225.png"
 			}
@@ -2275,7 +2275,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Avatar Samurai",
-			"collector_number": "191",
+			"collector_number": "192",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/227.png"
 			}
@@ -2285,7 +2285,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Monkey Demon",
-			"collector_number": "203",
+			"collector_number": "204",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/228.png"
 			}
@@ -2365,7 +2365,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Creature — Human Monk",
-			"collector_number": "208",
+			"collector_number": "209",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/236.png"
 			}
@@ -2415,7 +2415,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{W}{B}",
 			"type": "Legendary Creature — Avatar Noble",
-			"collector_number": "216",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/241.png"
 			}
@@ -2435,7 +2435,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{R}{G}",
 			"type": "Creature — Spirit Beast",
-			"collector_number": "222",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/243.png"
 			}
@@ -2635,7 +2635,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Creature — Human Samurai",
-			"collector_number": "198",
+			"collector_number": "199",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/263.png"
 			}
@@ -2685,7 +2685,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{W}{U}",
 			"type": "Legendary Creature — Avatar Monk",
-			"collector_number": "190",
+			"collector_number": "191",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/268.png"
 			}
@@ -2755,7 +2755,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Human Ninja",
-			"collector_number": "195",
+			"collector_number": "196",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/275.png"
 			}
@@ -2823,7 +2823,7 @@
 		{
 			"name": "Legions Upon Legions",
 			"rarity": "rare",
-			"mana_cost": "{X}{X}{W}{W}",
+			"mana_cost": "{X}{X}{W}",
 			"type": "Sorcery",
 			"collector_number": "17",
 			"image_uris": {
@@ -2835,7 +2835,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Creature — Fox Shapeshifter",
-			"collector_number": "201",
+			"collector_number": "202",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/283.png"
 			}
@@ -2865,7 +2865,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Samurai",
-			"collector_number": "97",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/286.png"
 			}
@@ -2944,7 +2944,7 @@
 			"name": "Destiny of Ash and Flame",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment",
 			"collector_number": "107",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/294.png"
@@ -3001,11 +3001,11 @@
 			}
 		},
 		{
-			"name": "Sea of Light",
+			"name": "Heaven's Revolution",
 			"rarity": "rare",
 			"mana_cost": "{5}{G}{U}",
 			"type": "Sorcery",
-			"collector_number": "223",
+			"collector_number": "190",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/300.png"
 			}
@@ -3015,7 +3015,7 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{U}",
 			"type": "Creature — Human Ninja",
-			"collector_number": "213",
+			"collector_number": "214",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/301.png"
 			}
@@ -3025,7 +3025,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{B}",
 			"type": "Creature — Human Samurai",
-			"collector_number": "214",
+			"collector_number": "215",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/302.png"
 			}
@@ -3035,7 +3035,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Enchantment",
-			"collector_number": "206",
+			"collector_number": "207",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/303.png"
 			}
@@ -3055,17 +3055,17 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "197",
+			"collector_number": "198",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/305.png"
 			}
 		},
 		{
-			"name": "Curse of the Barren",
+			"name": "Total Corruption",
 			"rarity": "mythic",
-			"mana_cost": "{1}{B}{B}",
-			"type": "Enchantment — Aura Curse",
-			"collector_number": "77",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/306.png"
 			}
@@ -3075,7 +3075,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "200",
+			"collector_number": "201",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/307.png"
 			}
@@ -3252,7 +3252,7 @@
 	2 Torii-Bound Koi
 	2 Eight-Faced Calamity
 	2 Fickle Forms
-	1 Realmway Incarnate
+	1 Risen Realmway
 	2 Studies in Spirits and Steel
 	2 Adjutant of the Ripple
 	1 Ugin, Ghostflame Scholar
@@ -3323,13 +3323,13 @@
 	2 Warden of Kaibyo
 	2 Golden Horned Serpent
 	2 Jade Komainu
-	2 Sea of Light
+	2 Heaven's Revolution
 	2 Relic Seeker
 	2 Resourceful Adversary
 	2 March for the Demonlord
 	2 Dragon Grandam
 	2 Kaibyo Ensorceller
-	1 Curse of the Barren
+	1 Total Corruption
 	2 Kimja Dualblades
 [uncommon(3)]
 	4 Aoki, Kinscale Champion
@@ -3458,7 +3458,7 @@
 	8 Fanblade Geisha
 	8 Dragon of Good Winds
 	8 Ambush Seishin
-	8 Thundercall
+	8 Swept Up
 	8 Bloodstained Ruiners
 	8 Still the Surface
 	8 Woven Amigasa
@@ -3555,7 +3555,7 @@
 	8 Fanblade Geisha
 	8 Dragon of Good Winds
 	8 Ambush Seishin
-	8 Thundercall
+	8 Swept Up
 	8 Bloodstained Ruiners
 	8 Still the Surface
 	8 Woven Amigasa
@@ -3691,7 +3691,7 @@
 	12 Kitsune Protector
 	2 Fickle Forms
 	12 Kitsune Celebrant
-	1 Realmway Incarnate
+	1 Risen Realmway
 	2 Studies in Spirits and Steel
 	6 Bitter Vengeance
 	6 Shigane Charm
@@ -3726,7 +3726,7 @@
 	1 Kage, Soul Clad in Steel
 	2 Majestic Phoenix
 	12 Ambush Seishin
-	12 Thundercall
+	12 Swept Up
 	6 Cleaving Cut
 	2 Haruki, Ofuda Duelist
 	12 Bloodstained Ruiners
@@ -3905,13 +3905,13 @@
 	2 Warden of Kaibyo
 	2 Golden Horned Serpent
 	2 Jade Komainu
-	2 Sea of Light
+	2 Heaven's Revolution
 	2 Relic Seeker
 	2 Resourceful Adversary
 	2 March for the Demonlord
 	2 Dragon Grandam
 	2 Kaibyo Ensorceller
-	1 Curse of the Barren
+	1 Total Corruption
 	2 Kimja Dualblades
 [wildcard(1)]
 	7 Lotus Dragon Turtle
@@ -3987,7 +3987,7 @@
 	6 Kitsune Protector
 	7 Fickle Forms
 	6 Kitsune Celebrant
-	4 Realmway Incarnate
+	4 Risen Realmway
 	7 Studies in Spirits and Steel
 	15 Bitter Vengeance
 	15 Shigane Charm
@@ -4022,7 +4022,7 @@
 	4 Kage, Soul Clad in Steel
 	7 Majestic Phoenix
 	6 Ambush Seishin
-	6 Thundercall
+	6 Swept Up
 	15 Cleaving Cut
 	7 Haruki, Ofuda Duelist
 	6 Bloodstained Ruiners
@@ -4201,11 +4201,11 @@
 	7 Warden of Kaibyo
 	7 Golden Horned Serpent
 	7 Jade Komainu
-	7 Sea of Light
+	7 Heaven's Revolution
 	7 Relic Seeker
 	7 Resourceful Adversary
 	7 March for the Demonlord
 	7 Dragon Grandam
 	7 Kaibyo Ensorceller
-	4 Curse of the Barren
+	4 Total Corruption
 	7 Kimja Dualblades

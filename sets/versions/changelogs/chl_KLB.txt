@@ -1,4 +1,82 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Risen Realmway added.
+Swept Up added.
+Heaven's Revolution added.
+Total Corruption added.
+
+Realmway Incarnate removed.
+Thundercall removed.
+Sea of Light removed.
+Curse of the Barren removed.
+
+Featherlight Assailant
+rules_text: As an additional cost to cast this spell, you may return a non-Rogue creature you control to its owner's hand.
+This creature has flying during your turn.
+When this creature enters, if a permanent you controlled left the battlefield without dying this turn, put a +1/+1 counter on target creature you control. => As an additional cost to cast this spell, you may return a non-Rogue creature you control to its owner's hand.
+During your turn, this creature has flying.
+When this creature enters, if a permanent you controlled left the battlefield without dying this turn, put a +1/+1 counter on target creature you control.
+
+Celestial Dance
+type: Sorcery => Instant
+
+Tachibana, the Vengeant
+rules_text: Double strike
+Whenever Tachibana deals combat damage to a player, put a +1/+1 counter on her. Then if she's dealt 10 or more damage to that player this turn, you may return target permanent from your graveyard to the battlefield. => Double strike
+Spells you cast cost {X} less to cast, where X is the total power of creatures they target.
+
+Warlord's Capture
+rules_text: When this enchantment enters, exile target creature or planeswalker an opponent controls until this enchantment leaves the battlefield.
+At the beginning of your end step, if one or more cards were exiled this turn, scry 1. => When this enchantment enters, exile target creature or planeswalker an opponent controls until this enchantment leaves the battlefield.
+Whenever one or more cards are put into exile from graveyards and/or the battlefield during your turn, scry 1. This ability triggers only once each turn.
+
+Kage, Soul Clad in Steel
+type: Legendary Artifact Creature — Demon Construct => Legendary Artifact Creature — Demon
+
+The Last Bloom
+
+Internal Crisis
+rules_text: As an additional cost to cast this spell, discard a card.
+Draw two cards. Internal Crisis deals 2 damage to each opponent. => As an additional cost to cast this spell, discard a card.
+Draw two cards. Internal Crisis deals 2 damage to each player you attacked this turn.
+
+Measured Assault
+rules_text: Sneak {2}{GU} [i](You may cast this spell for {1}{GU}{GU} if you also return an unblocked attacker you control to hand during the declare blockers step.)[/i]
+Create a 2/1 tapped blue Ninja creature token. If this spell's sneak cost was paid, instead create two of those tokens and they enter tapped and attacking. => Sneak {2}{GU} [i](You may cast this spell for {2}{GU} if you also return an unblocked attacker you control to hand during the declare blockers step.)[/i]
+Create a 2/1 tapped blue Ninja creature token. If this spell's sneak cost was paid, instead create two of those tokens and they enter tapped and attacking.
+
+Waves of Gold
+rules_text: Dualism [i](As you cast this spell, you may tap three untapped creatures you control to reduce this spell's cost by {3} or to copy it. You may choose new targets for the copy.)[/i]
+Return target creature card with mana value X or less from your graveyard to the battlefield with X +1/+1 counters on it. => Dualism [i](As you cast this spell, you may tap three untapped creatures you control to reduce this spell's cost by {3} or to copy it. You may choose new targets for the copy.)[/i]
+Return target creature card with mana value X or less from your graveyard to the battlefield. Put X +1/+1 counters on it.
+
+Young Trainee
+
+Gates Ablaze
+
+Escape the Demon Realm
+
+Oni-Engine Forge
+
+Kitsune's Allure
+rules_text: Sneak {GU}{GU} [i](You may cast this spell for {G}{U} if you also return an unblocked attacker you control to hand during the declare blockers step.)[/i]
+Draw cards equal to the greatest power among creatures you control. => Sneak {GU}{GU} [i](You may cast this spell for {GU}{GU} if you also return an unblocked attacker you control to hand during the declare blockers step.)[/i]
+Draw cards equal to the greatest power among creatures you control.
+
+Legions Upon Legions
+cost: {X}{X}{W}{W} => {X}{X}{W}
+
+Destiny of Ash and Flame
+type: Enchantment — Aura => Enchantment
+rules_text: Enchant creature
+Enchanted creature gets +1/+1 and has flying.
+When enchanted creature dies, return it to the battlefield under its owner's control and return this card to its owner's hand. => When this enchantment enters, it deals 2 damage to each non-Dragon creature.
+Dragon spells you cast cost {2} less to cast.
+Dragons you control get +2/+2.
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Waves of Gold added.

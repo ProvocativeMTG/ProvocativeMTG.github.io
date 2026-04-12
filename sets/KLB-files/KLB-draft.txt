@@ -95,7 +95,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Instant",
-			"collector_number": "224",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/9.png"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Instant",
-			"collector_number": "212",
+			"collector_number": "211",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/19.png"
 			}
@@ -215,7 +215,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Instant",
-			"collector_number": "210",
+			"collector_number": "209",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/21.png"
 			}
@@ -435,7 +435,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "225",
+			"collector_number": "224",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/43.png"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Legendary Creature — Fox Shapeshifter",
-			"collector_number": "227",
+			"collector_number": "226",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/46.png"
 			}
@@ -705,7 +705,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Fox Shapeshifter",
-			"collector_number": "203",
+			"collector_number": "202",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/70.png"
 			}
@@ -765,7 +765,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Instant",
-			"collector_number": "226",
+			"collector_number": "225",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/76.png"
 			}
@@ -935,7 +935,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}{R}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "211",
+			"collector_number": "210",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/93.png"
 			}
@@ -1245,7 +1245,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "206",
+			"collector_number": "205",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/124.png"
 			}
@@ -1455,7 +1455,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Creature — Dragon",
-			"collector_number": "220",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/145.png"
 			}
@@ -1465,7 +1465,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}{W}{U}",
 			"type": "Creature — Dragon",
-			"collector_number": "222",
+			"collector_number": "221",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/146.png"
 			}
@@ -1475,7 +1475,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}{B}",
 			"type": "Creature — Dragon",
-			"collector_number": "221",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/147.png"
 			}
@@ -1485,7 +1485,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}{G}",
 			"type": "Creature — Dragon",
-			"collector_number": "219",
+			"collector_number": "218",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/148.png"
 			}
@@ -1495,7 +1495,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "218",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/149.png"
 			}
@@ -1725,7 +1725,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "208",
+			"collector_number": "207",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/172.png"
 			}
@@ -1835,7 +1835,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Demon Warrior",
-			"collector_number": "205",
+			"collector_number": "204",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/183.png"
 			}
@@ -2055,7 +2055,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "213",
+			"collector_number": "212",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/205.png"
 			}
@@ -2075,7 +2075,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "216",
+			"collector_number": "215",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/207.png"
 			}
@@ -2285,7 +2285,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Monkey Demon",
-			"collector_number": "204",
+			"collector_number": "203",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/228.png"
 			}
@@ -2365,7 +2365,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Creature — Human Monk",
-			"collector_number": "209",
+			"collector_number": "208",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/236.png"
 			}
@@ -2415,7 +2415,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{W}{B}",
 			"type": "Legendary Creature — Avatar Noble",
-			"collector_number": "217",
+			"collector_number": "216",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/241.png"
 			}
@@ -2435,7 +2435,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{R}{G}",
 			"type": "Creature — Spirit Beast",
-			"collector_number": "223",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/243.png"
 			}
@@ -2835,7 +2835,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Creature — Fox Shapeshifter",
-			"collector_number": "202",
+			"collector_number": "201",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/283.png"
 			}
@@ -3015,7 +3015,7 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{U}",
 			"type": "Creature — Human Ninja",
-			"collector_number": "214",
+			"collector_number": "213",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/301.png"
 			}
@@ -3025,7 +3025,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{B}",
 			"type": "Creature — Human Samurai",
-			"collector_number": "215",
+			"collector_number": "214",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/302.png"
 			}
@@ -3035,7 +3035,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Enchantment",
-			"collector_number": "207",
+			"collector_number": "206",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/303.png"
 			}
@@ -3071,11 +3071,11 @@
 			}
 		},
 		{
-			"name": "Kimja Dualblades",
+			"name": "Skulker's Dualblades",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "201",
+			"collector_number": "227",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/307.png"
 			}
@@ -3330,7 +3330,7 @@
 	2 Dragon Grandam
 	2 Kaibyo Ensorceller
 	1 Total Corruption
-	2 Kimja Dualblades
+	2 Skulker's Dualblades
 [uncommon(3)]
 	4 Aoki, Kinscale Champion
 	4 Seishin Charm
@@ -3912,7 +3912,7 @@
 	2 Dragon Grandam
 	2 Kaibyo Ensorceller
 	1 Total Corruption
-	2 Kimja Dualblades
+	2 Skulker's Dualblades
 [wildcard(1)]
 	7 Lotus Dragon Turtle
 	4 Dragonsoul Combatant
@@ -4208,4 +4208,4 @@
 	7 Dragon Grandam
 	7 Kaibyo Ensorceller
 	4 Total Corruption
-	7 Kimja Dualblades
+	7 Skulker's Dualblades

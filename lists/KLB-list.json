@@ -1364,7 +1364,7 @@
     },
     {
         "card_name": "Nimomae, the Origamist",
-        "number": 209,
+        "number": 208,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -1375,7 +1375,7 @@
     },
     {
         "card_name": "Oni-Engine Acolyte",
-        "number": 211,
+        "number": 210,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -1383,7 +1383,7 @@
     },
     {
         "card_name": "Scrollbound Beast",
-        "number": 223,
+        "number": 222,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -1454,7 +1454,7 @@
     },
     {
         "card_name": "Petalfall",
-        "number": 212,
+        "number": 211,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -1465,7 +1465,7 @@
     },
     {
         "card_name": "Koshin, the Kin-Killer",
-        "number": 204,
+        "number": 203,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -1495,7 +1495,7 @@
     },
     {
         "card_name": "March for the Demonlord",
-        "number": 207,
+        "number": 206,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -1503,7 +1503,7 @@
     },
     {
         "card_name": "Shiori, Devourer of Souls",
-        "number": 227,
+        "number": 226,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -1623,7 +1623,7 @@
     },
     {
         "card_name": "Kitsune Maiden",
-        "number": 202,
+        "number": 201,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -1653,7 +1653,7 @@
     },
     {
         "card_name": "Majestic Duo",
-        "number": 206,
+        "number": 205,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -1675,7 +1675,7 @@
     },
     {
         "card_name": "Minori, the Puppeteer",
-        "number": 208,
+        "number": 207,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -1683,7 +1683,7 @@
     },
     {
         "card_name": "Seishin Charm",
-        "number": 224,
+        "number": 223,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -1705,7 +1705,7 @@
     },
     {
         "card_name": "Oni Charm",
-        "number": 210,
+        "number": 209,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -1754,7 +1754,7 @@
     },
     {
         "card_name": "Kitsune Protector",
-        "number": 203,
+        "number": 202,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -1773,7 +1773,7 @@
     },
     {
         "card_name": "Realm Devouring",
-        "number": 213,
+        "number": 212,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -1784,7 +1784,7 @@
     },
     {
         "card_name": "Scion of Yingjun",
-        "number": 222,
+        "number": 221,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -1795,7 +1795,7 @@
     },
     {
         "card_name": "Looming Firehulk",
-        "number": 205,
+        "number": 204,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -1803,7 +1803,7 @@
     },
     {
         "card_name": "Scion of Gereishin",
-        "number": 219,
+        "number": 218,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -1825,7 +1825,7 @@
     },
     {
         "card_name": "Scion of Aoushun",
-        "number": 218,
+        "number": 217,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -1919,7 +1919,7 @@
     },
     {
         "card_name": "Riyoto, the First Immortal",
-        "number": 217,
+        "number": 216,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -2018,12 +2018,12 @@
         "position": "300"
     },
     {
-        "card_name": "Kimja Dualblades",
-        "number": 201,
+        "card_name": "Resourceful Adversary",
+        "number": 214,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
-        "position": "307"
+        "position": "302"
     },
     {
         "card_name": "e"
@@ -2043,12 +2043,12 @@
         "position": "18"
     },
     {
-        "card_name": "Resourceful Adversary",
-        "number": 215,
+        "card_name": "Skulker's Dualblades",
+        "number": 227,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
-        "position": "302"
+        "position": "307"
     },
     {
         "card_name": "e"
@@ -2086,7 +2086,7 @@
     },
     {
         "card_name": "Relic Seeker",
-        "number": 214,
+        "number": 213,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -2186,7 +2186,7 @@
     },
     {
         "card_name": "Shigane Charm",
-        "number": 226,
+        "number": 225,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -2194,7 +2194,7 @@
     },
     {
         "card_name": "Severance",
-        "number": 225,
+        "number": 224,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -2294,7 +2294,7 @@
     },
     {
         "card_name": "Ritual of Returning",
-        "number": 216,
+        "number": 215,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -2311,7 +2311,7 @@
     },
     {
         "card_name": "Scion of Ikurimoko",
-        "number": 220,
+        "number": 219,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,
@@ -2319,7 +2319,7 @@
     },
     {
         "card_name": "Scion of Keuya",
-        "number": 221,
+        "number": 220,
         "shape": "normal",
         "set": "KLB",
         "rotated": false,

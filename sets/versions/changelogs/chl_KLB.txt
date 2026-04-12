@@ -1,4 +1,25 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Skulker's Dualblades added.
+
+Kimja Dualblades removed.
+
+Jade Komainu
+rules_text: Whenever you cast an artifact spell, create a 1/1 colorless Bird Construct artifact creature token with flying.
+{T}: Add {C}{C}. You can't spend this mana to cast spells. => Whenever you cast an artifact spell, create a 1/1 colorless Bird Construct artifact creature token with flying.
+{T}: Add {C}{C}. You can't spend this mana to cast nonartifact spells.
+
+Kaibyo Ensorceller
+rules_text: Flash
+Flying
+Exhaust — {G}{U}: Counter target permanent spell. Its controller draws a card. Put a +1/+1 counter on this creature. [i](Activate each exhaust ability only once.)[/i] => Flash
+Flying
+When this creature enters, counter target permanent spell. Its controller draws a card.
+pt: 1/2 => 2/3
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Risen Realmway added.

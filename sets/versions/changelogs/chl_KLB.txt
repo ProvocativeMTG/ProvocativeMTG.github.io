@@ -1,4 +1,327 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+Lotus Dragon Turtle removed.
+Dragonsoul Combatant removed.
+Tsubasa, Curseridden removed.
+Shigane Manor Stands Tall removed.
+Aoki, Kinscale Champion removed.
+Geisha of the Koto removed.
+Unsealed Relic removed.
+Giyama, Accursed Blood removed.
+Beast of the Coiling Abyss removed.
+Seishin Charm removed.
+Soen, Inklight Artisan removed.
+Sealing Spell removed.
+Baboon Swordhand removed.
+Inklight Thief removed.
+Featherlight Assailant removed.
+Viletongue Seishin removed.
+Tea Leaf Whelp removed.
+Jadeclad Infiltrator removed.
+Iwai, Oda's Slayer removed.
+Petalfall removed.
+Shigane Fatereader removed.
+Oni Charm removed.
+Conqueror's Faithful removed.
+Dynasty Charms removed.
+Dragon Festival Barges removed.
+Mossmane Kirin removed.
+Yokinzan Bellringer removed.
+Amphibian Ascetics removed.
+Lanternlighter removed.
+Mistweave Soarer removed.
+Avatar of the All Grasping removed.
+Aoushun, Brought Back removed.
+Cartographer's Edict removed.
+Ayeshi, Kitsuo's Savior removed.
+Daiju, Lord of the Moon removed.
+The Inkstone removed.
+One-Engine Colossus removed.
+Errant Ronin removed.
+Bloodsoaked Gate removed.
+Yokinzan Ronin removed.
+Lumbering Gourdbearer removed.
+Bloodflame Avenger removed.
+Shadow of Takeno removed.
+Severance removed.
+Fireheart Ruiner removed.
+Hands from Hell removed.
+Shiori, Devourer of Souls removed.
+Yosune, the Farbound removed.
+Chiyo, Sakura Tortoise removed.
+Celestial Dance removed.
+Elbow Strike removed.
+Seishin Binding removed.
+Fan Dancer removed.
+Daiju's Moonsea Barge removed.
+Death Undone removed.
+Flow removed.
+Kaibyo Shrine Maidens removed.
+Kaibyo Lightspinner removed.
+Dragoneye Crackshot removed.
+Shrine Maiden's Tanuki removed.
+Gate Atop the Holt removed.
+Gate Atop the Peak removed.
+Gate Atop the Isle removed.
+Gate Atop the Bog removed.
+Gate Atop the Hill removed.
+Confluence of Paths removed.
+Predestined Path removed.
+Torii-Bound Koi removed.
+Eight-Faced Calamity removed.
+Thundermane Seishin removed.
+Kitsune Protector removed.
+Fickle Forms removed.
+Kitsune Celebrant removed.
+Risen Realmway removed.
+Studies in Spirits and Steel removed.
+Bitter Vengeance removed.
+Shigane Charm removed.
+Adjutant of the Ripple removed.
+Ugin, Ghostflame Scholar removed.
+Master of Ravens removed.
+Shiori's Augur removed.
+Patient Mother removed.
+Tachibana, the Vengeant removed.
+Ryutenmaru, Imperial Skyship removed.
+Cloudcutter Sellsword removed.
+Warlord's Capture removed.
+Persistent Swordmaster removed.
+Zombie Samurai removed.
+Palm Blast removed.
+Commune with Ancestors removed.
+Break the Tide removed.
+Shigane Inspector removed.
+Kimja Courier removed.
+Oni-Engine Acolyte removed.
+Fire-Rain Witch removed.
+Sneak a Peek removed.
+Heiress of War removed.
+Conjured Dragonfire removed.
+Fanblade Geisha removed.
+Hardsuit removed.
+Jellyfish removed.
+Gate to Everywhere removed.
+Skilled Animation removed.
+Tsubasa's Technique removed.
+Dragon of Good Winds removed.
+Oe, the Beast Kitsune removed.
+Vengeance for the Lost removed.
+Kimja Charm removed.
+Uiki Charm removed.
+Kage, Soul Clad in Steel removed.
+Majestic Phoenix removed.
+Ambush Seishin removed.
+Swept Up removed.
+Cleaving Cut removed.
+Haruki, Ofuda Duelist removed.
+Bloodstained Ruiners removed.
+Still the Surface removed.
+Ancestral Guidance removed.
+Stand Alone removed.
+Ripple in the Waters removed.
+Woven Amigasa removed.
+Emperor's Seal removed.
+Tales of Ages Past removed.
+Simian Exemplar removed.
+Majestic Duo removed.
+Oath Sworn in Blood removed.
+Jadescale Viper removed.
+Young Qilin removed.
+Stonecarved Protector removed.
+The Last Bloom removed.
+Ugin's Command removed.
+Giant Mossy Frog removed.
+Aonuma and Koraja removed.
+Internal Crisis removed.
+Bloom in Blood removed.
+Koto's Anthem removed.
+Noble Dragonguard removed.
+Ukina, Hyomon's Legacy removed.
+Eager Pupil removed.
+Three-Headed Heron removed.
+Avatar of the Skies removed.
+Guardian of Tsuge removed.
+Welkin Summoning removed.
+Dappled Predator removed.
+Adrift in the Wake removed.
+Scion of Ikurimoko removed.
+Scion of Yingjun removed.
+Scion of Keuya removed.
+Scion of Gereishin removed.
+Scion of Aoushun removed.
+Sunkissed Kirin removed.
+Old Demonlord removed.
+Immortal Flames removed.
+Corrupting Urge removed.
+Fan the Flames removed.
+Upstart Soulseer removed.
+Exalted Wanderer removed.
+Natori Cannoneer removed.
+Natori Realmwalker removed.
+Flowing Duelist removed.
+Wanderer's Echo removed.
+Guardian Kinscale removed.
+Bearer of the Cresset removed.
+Yuuto, Son of Toyotomi removed.
+Astral Projection removed.
+Black Lotus removed.
+Tea-Haze Wisp removed.
+Dragonblessed Stormcaller removed.
+Sail the Spirit Realms removed.
+Shrine Communion removed.
+Dragonbone Sculptor removed.
+Allure of the Kitsune removed.
+Minori, the Puppeteer removed.
+Graceful Spinstress removed.
+Walk Two Paths removed.
+Fatherly Mentor removed.
+Honored Master-at-Arms removed.
+Ruined Champion removed.
+Kage's Reaver removed.
+Bedevil removed.
+Mow Down removed.
+Witch's Branchblade removed.
+Segmented Seishin removed.
+Looming Firehulk removed.
+Lady of Yokinza removed.
+Honorbound Undead removed.
+Shigane Branchdancer removed.
+Measured Assault removed.
+Brave Martyr removed.
+Deep Sea Shinobi removed.
+Runic Mercenary removed.
+Preening Peacock removed.
+Poisoned Edge removed.
+Waves of Gold removed.
+Sentinel of Binding removed.
+Walking Pagoda removed.
+Broken Vow removed.
+Construct removed.
+Engraved Fanblade removed.
+Enduring Memory removed.
+Murmuring Monument removed.
+Run-Down Shrine removed.
+Manifest removed.
+Young Trainee removed.
+Spirit Realm Trawler removed.
+Realm Devouring removed.
+Backline Deadeye removed.
+Ritual of Returning removed.
+Immortal Warlord removed.
+Macabre Collector removed.
+Condemned Souleater removed.
+Lotus Petal removed.
+Horizon Chaser removed.
+Sunsong Player removed.
+Tsuru, the Tattooist removed.
+Oni Daimyo removed.
+Path of Flame removed.
+Stillness and Motion removed.
+Dragoncaller Immortal removed.
+Kazuko, Lord of Chaos removed.
+Reo, First Gunblade removed.
+Ayeshi's Lament removed.
+Colossal Seishin removed.
+Runewrapped Onryo removed.
+Faceless Hunter removed.
+Cursed Plate removed.
+Haughty Oblate removed.
+Honored Commander removed.
+Koshin, the Kin-Killer removed.
+Gates Ablaze removed.
+Grim Bruiser removed.
+Gereishin, Last of His Kin removed.
+Amagaseto, Alone No More removed.
+Lion Dancer removed.
+Hatazo, Shiny Finder removed.
+Tzuhan, the Last Heir removed.
+Nimomae, the Origamist removed.
+The Multiverse Awaits removed.
+Mercenary's Blade removed.
+Zaiku o Toge removed.
+Bind in Jade removed.
+Riyoto, the First Immortal removed.
+God-Tree Saptender removed.
+Scrollbound Beast removed.
+Splintering Raiju removed.
+Minenohana, Blossom's Cradle removed.
+Fractal Realmway removed.
+Escape the Demon Realm removed.
+Celebration of Peace removed.
+Kitsune Gate removed.
+Monolith Gate removed.
+Accursed Gate removed.
+Hewn Gate removed.
+Lotus Pools removed.
+Oni-Engine Forge removed.
+Dragonmaw Gate removed.
+Turncoat Ruiner removed.
+Runecut Ronin removed.
+Kei, Who Still Stands removed.
+Shigane Diviner removed.
+Aquatic Ambusher removed.
+Warnings Unheeded removed.
+Spiralhorn Winder removed.
+Hirohito, Guiding Blossom removed.
+Dreamwalk removed.
+Harmonious Monks removed.
+Rushing Blood removed.
+March to War removed.
+Furious Confrontation removed.
+Cloud Dance removed.
+Jiro, the Flutist removed.
+Benevolent Serpent removed.
+Kitsune's Allure removed.
+Soaring Trackers removed.
+Corrupted Wanderer removed.
+Esouled Yoroi removed.
+Regal Mount removed.
+Legions Upon Legions removed.
+Kitsune Maiden removed.
+Coiling Abyss's Blessing removed.
+Burning-Blood Toad removed.
+Shadow-Haunted Captain removed.
+Yokinzan Formshifter removed.
+Uiki Rockslinger removed.
+Chaffcutter Shinobi removed.
+Animated Lantern-Guide removed.
+Omen Strix removed.
+Condemned Huntress removed.
+Fleetfooted Messenger removed.
+Destiny of Ash and Flame removed.
+Tiger Koi removed.
+Kinscale Harrier removed.
+Warden of Kaibyo removed.
+Golden Horned Serpent removed.
+Jade Komainu removed.
+Heaven's Revolution removed.
+Relic Seeker removed.
+Resourceful Adversary removed.
+March for the Demonlord removed.
+Dragon Grandam removed.
+Kaibyo Ensorceller removed.
+Total Corruption removed.
+Skulker's Dualblades removed.
+Clue removed.
+Bird removed.
+Ninja removed.
+Demon removed.
+Monk removed.
+Dragon removed.
+Spirit Beast removed.
+Shade removed.
+Snake removed.
+Ofuda removed.
+Bird Construct removed.
+Lotus Cobra removed.
+Avatar removed.
+Inkling Horror removed.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Skulker's Dualblades added.

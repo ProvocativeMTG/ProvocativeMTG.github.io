@@ -430,7 +430,7 @@ Whenever a creature an opponent controls is dealt excess noncombat damage, Blaid
 			<text>Suspend 8—{R}
 Whenever a creature you control deals combat damage to a player, you may remove a time counter from this card if it&apos;s in exile.
 Radahn&apos;s Meteor deals 10 damage to any target.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/24.png" num="267">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/24.png" num="268">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -534,7 +534,7 @@ Whenever you cast an enchantment spell, draw a card.</text>
 			<name>Scarlet Phantoms</name>
 			<text>The &quot;legend rule&quot; doesn&apos;t apply to permanents you control.
 Each creature card in your graveyard has encore. The encore cost is equal to its mana cost. (Exile the creature card and pay its mana cost: For each opponent, create a token copy that attacks that opponent this turn if able. They gain haste. Sacrifice them at the beginning of the next end step. Activate only as a sorcery.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/30.png" num="273">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/30.png" num="274">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2027,14 +2027,14 @@ The first enchantment spell you cast each turn has demonstrate. (When you cast y
 			<token>1</token>
 		</card>
 		<card>
-			<name>Shabriri, the Reviled</name>
+			<name>Madding Hand</name>
 			<text>Whenever you cast a spell from anywhere other than your hand, goad up to one target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)
 Madness {R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/115.png" num="276">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/115.png" num="258">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Avatar Rogue</type>
+				<type>Creature — Human Rogue</type>
 				<maintype>Creature</maintype>
 				<manacost>2R</manacost>
 				<cmc>3</cmc>
@@ -2329,7 +2329,7 @@ Historic spells you cast from exile have undaunted. (Artifacts, legendaries, and
 			<name>Red Wolf of Radagon</name>
 			<text>If another source you control would deal noncombat damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead.
 Whenever you cast an instant or sorcery spell, Red Wolf of Radagon deals 2 damage to each opponent.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/132.png" num="269">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/132.png" num="270">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3155,7 +3155,7 @@ Whenever Messmer deals combat damage to a player, you may cast a spell with mana
 			<name>Messmer, Marika&apos;s Spear</name>
 			<text>You don&apos;t lose unspent red mana as steps and phases end.
 Whenever a source you control deals noncombat damage, add that much {R}.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/179.png" num="262">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/179.png" num="263">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3455,7 +3455,7 @@ At the beginning of your end step, if you gained 4 or more life this turn, retur
 		<card>
 			<name>Messmer&apos;s Orb</name>
 			<text>Messmer&apos;s Orb deals 6 damage to target creature. Excess damage is dealt to you instead.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/196.png" num="263">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/196.png" num="264">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3739,7 +3739,7 @@ Each player sacrifices X creatures.</text>
 			<name>Midra, Lord of Frenzied Flame</name>
 			<text>Discard a card: Exile the top card of your library. You may play that card this turn.
 Delirium — As long as there are four or more card types among cards in your graveyard, creatures you control get +2/+0.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/212.png" num="264">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/212.png" num="265">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3999,7 +3999,7 @@ Channel — {W}{U}, Discard this card: The owner of target attacking or blocking
 			<name>Red-Maned Radagon</name>
 			<text>Whenever another creature you control enters, Red-Maned Radagon deals damage equal to that creature&apos;s power to any target.
 When Red-Maned Radagon dies, you may search your library for a card named Marika, Born of Shadow, Marika, God-Queen, Marika, the Golden One, Marika, Shaman Saint, or Marika, the Eternal, reveal it, put it into your hand, then shuffle.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/227.png" num="270">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/227.png" num="271">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4073,7 +4073,7 @@ When Promised Consort Radahn dies, return him to the battlefield with a finality
 			<name>Roundtable Knight Vyke</name>
 			<text>Double strike
 Whenever you discard a card, you may exile that card from your graveyard. During any turn you dealt damage to a player with Roundtable Knight Vyke or one of your commanders, you may play that card.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/231.png" num="271">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/231.png" num="272">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4178,7 +4178,7 @@ If enchanted permanent is an Equipment, it has &quot;Equipped creature gets +1/+
 			<name>Madness</name>
 			<text>Exile the top two cards of your library. You may play them until your next end step.
 Madness {R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/237.png" num="258">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/237.png" num="259">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4793,7 +4793,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 			<text>Double strike
 When Malenia enters, you may search your library for an Equipment card, put it onto the battlefield, then shuffle.
 Whenever Malenia attacks alone, attach any number of Equipment you control to her.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/272.png" num="261">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/272.png" num="262">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5537,7 +5537,7 @@ Whenever two or more cards are put into enchanted player&apos;s graveyard from a
 			<name>Millicent, Flowering Valkyrie</name>
 			<text>When Millicent enters, discard up to two cards, then draw that many cards. Put a +1/+1 counter on Millicent for each nonland card discarded this way.
 Delirium — Whenever Millicent attacks or dies, if there are four or more card types among cards in your graveyard, add {R}{R}{R}. Until end of turn, you don&apos;t lose this mana as steps and phases end.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/315.png" num="265">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/315.png" num="266">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6726,7 +6726,7 @@ Until end of turn, your life total can&apos;t change and you have protection fro
 		<card>
 			<name>Secret Away</name>
 			<text>Gain control of target creature an opponent controls until end of turn. Untap it. It gains menace and haste until end of turn. Its owner becomes the monarch. (The monarch draws a card at the beginning of their end step. Whenever the monarch is dealt combat damage by a creature, its controller becomes the monarch.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/383.png" num="274">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/383.png" num="275">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7036,7 +7036,7 @@ Chapter abilities of Sagas you control trigger an additional time.
 			<name>Shabriri, Chaos Incarnate</name>
 			<text>Menace
 Each nonland card you own that isn&apos;t on the battlefield has madness {2}{R}. (If you discard a card with madness, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/401.png" num="275">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/401.png" num="276">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9215,7 +9215,7 @@ Channel — {1}{U}{R}, Discard this card: You may choose new targets for target 
 • You and target opponent each create a Treasure token.
 • You and target opponent each draw a card.
 • This enchantment deals 3 damage to you and target opponent.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/528.png" num="260">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/528.png" num="261">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9268,7 +9268,7 @@ Once each turn, you may cast a spell from your hand with mana value less than or
 			<name>Rellana, Blade of Messmer</name>
 			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 Other creatures you control have prowess.
-Whenever you cast your third spell each turn, copy it. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)</text>
+Whenever you cast an instant or sorcery spell, if the last spell you cast this turn was the other type, copy that spell. You may choose new targets for the copy.</text>
 			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/531.png" num="113">EDRC</set>
 			<prop>
 				<layout>normal</layout>
@@ -10418,7 +10418,7 @@ When Luminary Mohg enters, you may search your library for a nonland card, revea
 			<name>Magma Wyrm</name>
 			<text>You may exert this creature as it attacks. When you do, gain control of target artifact defending player controls. If it&apos;s an Equipment, attach it to this creature. (An exerted creature won&apos;t untap during your next untap step.)
 Whenever this creature deals combat damage to a player, it deals that much damage to each other opponent.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/598.png" num="259">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/598.png" num="260">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10607,7 +10607,7 @@ Lieutenant — Whenever your commander attacks, untap all lands you control.</te
 I — This Saga gains &quot;Whenever one or more cards are put into your graveyard from anywhere, exile the top card of your library.&quot;
 II, III — Discard a card, then draw a card.
 IV — You may play cards exiled with this Saga this turn.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/609.png" num="266">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/609.png" num="267">EDRC</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -10659,7 +10659,7 @@ Whenever Straghess attacks, reveal the top card of your library and put it into 
 			<name>Rakshasa Knight</name>
 			<text>Delirium — As long as there are four or more card types among cards in your graveyard, this creature has double strike and attacks each combat if able.
 Sacrifice another creature: Exile the top card of your library. You may discard a card. If you do, put the exiled card into your hand. Otherwise, you may play that card this turn.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/612.png" num="268">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/612.png" num="269">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10743,7 +10743,7 @@ As long as enchanted permanent is an Equipment, it has &quot;You control equippe
 			<name>Scarlet Aeonia</name>
 			<text>At the beginning of your upkeep, put a rot counter on this enchantment.
 If a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus an amount of damage equal to the number of rot counters on this enchantment instead.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/617.png" num="272">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/617.png" num="273">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

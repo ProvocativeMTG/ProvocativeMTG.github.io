@@ -245,7 +245,7 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Sorcery",
-			"collector_number": "267",
+			"collector_number": "268",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/24.png"
 			}
@@ -305,7 +305,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}",
 			"type": "Enchantment",
-			"collector_number": "273",
+			"collector_number": "274",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/30.png"
 			}
@@ -1151,11 +1151,11 @@
 			}
 		},
 		{
-			"name": "Shabriri, the Reviled",
+			"name": "Madding Hand",
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}",
-			"type": "Legendary Creature — Avatar Rogue",
-			"collector_number": "276",
+			"type": "Creature — Human Rogue",
+			"collector_number": "258",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/115.png"
 			}
@@ -1325,7 +1325,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Wolf",
-			"collector_number": "269",
+			"collector_number": "270",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/132.png"
 			}
@@ -1795,7 +1795,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Creature — Demigod",
-			"collector_number": "262",
+			"collector_number": "263",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/179.png"
 			}
@@ -1965,7 +1965,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "263",
+			"collector_number": "264",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/196.png"
 			}
@@ -2125,7 +2125,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Avatar",
-			"collector_number": "264",
+			"collector_number": "265",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/212.png"
 			}
@@ -2275,7 +2275,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Legendary Creature — God",
-			"collector_number": "270",
+			"collector_number": "271",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/227.png"
 			}
@@ -2315,7 +2315,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Human Knight",
-			"collector_number": "271",
+			"collector_number": "272",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/231.png"
 			}
@@ -2375,7 +2375,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "258",
+			"collector_number": "259",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/237.png"
 			}
@@ -2725,7 +2725,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Legendary Creature — Demigod",
-			"collector_number": "261",
+			"collector_number": "262",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/272.png"
 			}
@@ -3155,7 +3155,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "265",
+			"collector_number": "266",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/315.png"
 			}
@@ -3835,7 +3835,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "274",
+			"collector_number": "275",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/383.png"
 			}
@@ -4015,7 +4015,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "275",
+			"collector_number": "276",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/401.png"
 			}
@@ -5285,7 +5285,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "260",
+			"collector_number": "261",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/528.png"
 			}
@@ -5985,7 +5985,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "259",
+			"collector_number": "260",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/598.png"
 			}
@@ -6095,7 +6095,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "266",
+			"collector_number": "267",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/609.png"
 			}
@@ -6125,7 +6125,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Human Knight",
-			"collector_number": "268",
+			"collector_number": "269",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/612.png"
 			}
@@ -6175,7 +6175,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "272",
+			"collector_number": "273",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/617.png"
 			}
@@ -6656,7 +6656,7 @@
 	1 Carian Retaliation
 	1 Lunar Princess Ranni
 	1 Melina, Kindling Maiden
-	1 Shabriri, the Reviled
+	1 Madding Hand
 	1 Shabriri Grape
 	1 Malenia, Blade of Miquella
 	1 Regal Ancestor Spirit
@@ -7260,7 +7260,7 @@
 	1 Carian Retaliation
 	1 Lunar Princess Ranni
 	1 Melina, Kindling Maiden
-	1 Shabriri, the Reviled
+	1 Madding Hand
 	1 Shabriri Grape
 	1 Malenia, Blade of Miquella
 	1 Regal Ancestor Spirit
@@ -7861,7 +7861,7 @@
 	4 Carian Retaliation
 	4 Lunar Princess Ranni
 	4 Melina, Kindling Maiden
-	4 Shabriri, the Reviled
+	4 Madding Hand
 	4 Shabriri Grape
 	4 Malenia, Blade of Miquella
 	4 Regal Ancestor Spirit

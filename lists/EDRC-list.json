@@ -1704,12 +1704,12 @@
         "position": "372"
     },
     {
-        "card_name": "Madness",
+        "card_name": "Madding Hand",
         "number": 258,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "237"
+        "position": "115"
     },
     {
         "card_name": "Living Jars",
@@ -1744,12 +1744,12 @@
         "position": "185"
     },
     {
-        "card_name": "Magma Wyrm",
+        "card_name": "Madness",
         "number": 259,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "598"
+        "position": "237"
     },
     {
         "card_name": "March to Caelid",
@@ -1784,12 +1784,12 @@
         "position": "369"
     },
     {
-        "card_name": "Make Your Choice",
+        "card_name": "Magma Wyrm",
         "number": 260,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "528"
+        "position": "598"
     },
     {
         "card_name": "Merchant's Song",
@@ -1824,12 +1824,12 @@
         "position": "307"
     },
     {
-        "card_name": "Malenia, the Severed",
+        "card_name": "Make Your Choice",
         "number": 261,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "272"
+        "position": "528"
     },
     {
         "card_name": "Miquella's Charm",
@@ -1864,12 +1864,12 @@
         "position": "147"
     },
     {
-        "card_name": "Messmer, Marika's Spear",
+        "card_name": "Malenia, the Severed",
         "number": 262,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "179"
+        "position": "272"
     },
     {
         "card_name": "Misbegotten Crusader",
@@ -1904,12 +1904,12 @@
         "position": "166"
     },
     {
-        "card_name": "Messmer's Orb",
+        "card_name": "Messmer, Marika's Spear",
         "number": 263,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "196"
+        "position": "179"
     },
     {
         "card_name": "Monstrous Dog",
@@ -1944,12 +1944,12 @@
         "position": "605"
     },
     {
-        "card_name": "Midra, Lord of Frenzied Flame",
+        "card_name": "Messmer's Orb",
         "number": 264,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "212"
+        "position": "196"
     },
     {
         "card_name": "Nepheli Loux, Warrior",
@@ -1984,12 +1984,12 @@
         "position": "505"
     },
     {
-        "card_name": "Millicent, Flowering Valkyrie",
+        "card_name": "Midra, Lord of Frenzied Flame",
         "number": 265,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "315"
+        "position": "212"
     },
     {
         "card_name": "Nomadic Merchant",
@@ -2024,12 +2024,12 @@
         "position": "607"
     },
     {
-        "card_name": "Outwit Annihilation",
+        "card_name": "Millicent, Flowering Valkyrie",
         "number": 266,
-        "shape": "saga",
+        "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "609"
+        "position": "315"
     },
     {
         "card_name": "Occult Mystery",
@@ -2064,12 +2064,12 @@
         "position": "150"
     },
     {
-        "card_name": "Radahn's Meteor",
+        "card_name": "Outwit Annihilation",
         "number": 267,
-        "shape": "normal",
+        "shape": "saga",
         "set": "EDRC",
         "rotated": false,
-        "position": "24"
+        "position": "609"
     },
     {
         "card_name": "Oracle Envoy",
@@ -2104,12 +2104,12 @@
         "position": "140"
     },
     {
-        "card_name": "Rakshasa Knight",
+        "card_name": "Radahn's Meteor",
         "number": 268,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "612"
+        "position": "24"
     },
     {
         "card_name": "Oracle Envoy Giant",
@@ -2144,12 +2144,12 @@
         "position": "211"
     },
     {
-        "card_name": "Red Wolf of Radagon",
+        "card_name": "Rakshasa Knight",
         "number": 269,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "132"
+        "position": "612"
     },
     {
         "card_name": "Perfumer",
@@ -2184,12 +2184,12 @@
         "position": "436"
     },
     {
-        "card_name": "Red-Maned Radagon",
+        "card_name": "Red Wolf of Radagon",
         "number": 270,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "227"
+        "position": "132"
     },
     {
         "card_name": "Raider",
@@ -2224,12 +2224,12 @@
         "position": "393"
     },
     {
-        "card_name": "Roundtable Knight Vyke",
+        "card_name": "Red-Maned Radagon",
         "number": 271,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "231"
+        "position": "227"
     },
     {
         "card_name": "Roderika and Hewg",
@@ -2264,12 +2264,12 @@
         "position": "88"
     },
     {
-        "card_name": "Scarlet Aeonia",
+        "card_name": "Roundtable Knight Vyke",
         "number": 272,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "617"
+        "position": "231"
     },
     {
         "card_name": "Secret Path to Nokron",
@@ -2304,12 +2304,12 @@
         "position": "618"
     },
     {
-        "card_name": "Scarlet Phantoms",
+        "card_name": "Scarlet Aeonia",
         "number": 273,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "30"
+        "position": "617"
     },
     {
         "card_name": "Secret Rite",
@@ -2344,12 +2344,12 @@
         "position": "274"
     },
     {
-        "card_name": "Secret Away",
+        "card_name": "Scarlet Phantoms",
         "number": 274,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "383"
+        "position": "30"
     },
     {
         "card_name": "Servants of Death",
@@ -2384,12 +2384,12 @@
         "position": "506"
     },
     {
-        "card_name": "Shabriri, Chaos Incarnate",
+        "card_name": "Secret Away",
         "number": 275,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "401"
+        "position": "383"
     },
     {
         "card_name": "The Shadow Sunflower",
@@ -2424,12 +2424,12 @@
         "position": "188"
     },
     {
-        "card_name": "Shabriri, the Reviled",
+        "card_name": "Shabriri, Chaos Incarnate",
         "number": 276,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "115"
+        "position": "401"
     },
     {
         "card_name": "Shaman Village Sentinel",

@@ -1720,12 +1720,12 @@
         "position": "128"
     },
     {
-        "card_name": "Offer Pita Bread",
-        "number": 47,
+        "card_name": "Obscure in Shadow",
+        "number": 46,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "495"
+        "position": "606"
     },
     {
         "card_name": "Restage",
@@ -1760,12 +1760,12 @@
         "position": "87"
     },
     {
-        "card_name": "Path to the Capital",
-        "number": 48,
-        "shape": "saga",
+        "card_name": "Offer Pita Bread",
+        "number": 47,
+        "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "98"
+        "position": "495"
     },
     {
         "card_name": "Riverwell Dragonkin",
@@ -1800,12 +1800,12 @@
         "position": "264"
     },
     {
-        "card_name": "Perfect Order",
-        "number": 49,
-        "shape": "normal",
+        "card_name": "Path to the Capital",
+        "number": 48,
+        "shape": "saga",
         "set": "EDRC",
         "rotated": false,
-        "position": "223"
+        "position": "98"
     },
     {
         "card_name": "Roderika, Spirit Tuner",
@@ -1840,12 +1840,12 @@
         "position": "260"
     },
     {
-        "card_name": "Profound Holiness",
-        "number": 50,
+        "card_name": "Perfect Order",
+        "number": 49,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "610"
+        "position": "223"
     },
     {
         "card_name": "Rune of Night",
@@ -1880,12 +1880,12 @@
         "position": "601"
     },
     {
-        "card_name": "Radagon is Marika",
-        "number": 51,
-        "shape": "saga",
+        "card_name": "Profound Holiness",
+        "number": 50,
+        "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "350"
+        "position": "610"
     },
     {
         "card_name": "Seekers of Redemption",
@@ -1920,12 +1920,12 @@
         "position": "603"
     },
     {
-        "card_name": "Radahn's Resurrection",
-        "number": 52,
-        "shape": "normal",
+        "card_name": "Radagon is Marika",
+        "number": 51,
+        "shape": "saga",
         "set": "EDRC",
         "rotated": false,
-        "position": "269"
+        "position": "350"
     },
     {
         "card_name": "Sellen, Graven Witch",
@@ -1960,12 +1960,12 @@
         "position": "229"
     },
     {
-        "card_name": "Reprieve",
-        "number": 53,
+        "card_name": "Radahn's Resurrection",
+        "number": 52,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "36"
+        "position": "269"
     },
     {
         "card_name": "Sellen's Plot",
@@ -2000,12 +2000,12 @@
         "position": "149"
     },
     {
-        "card_name": "Seeker of Runes",
-        "number": 54,
+        "card_name": "Reprieve",
+        "number": 53,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "344"
+        "position": "36"
     },
     {
         "card_name": "Sellen's Ponderance",
@@ -2040,12 +2040,12 @@
         "position": "73"
     },
     {
-        "card_name": "Seeking the Crosses",
-        "number": 55,
+        "card_name": "Seeker of Runes",
+        "number": 54,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "343"
+        "position": "344"
     },
     {
         "card_name": "Shadows Colder than Death",
@@ -2080,12 +2080,12 @@
         "position": "258"
     },
     {
-        "card_name": "Serosh, Beast Regent",
-        "number": 56,
+        "card_name": "Seeking the Crosses",
+        "number": 55,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "496"
+        "position": "343"
     },
     {
         "card_name": "Silver Tear Seal",
@@ -2120,12 +2120,12 @@
         "position": "608"
     },
     {
-        "card_name": "Serve the Gods",
-        "number": 57,
+        "card_name": "Serosh, Beast Regent",
+        "number": 56,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "467"
+        "position": "496"
     },
     {
         "card_name": "Sir Gideon Ofnir, All-Knowing",
@@ -2160,12 +2160,12 @@
         "position": "265"
     },
     {
-        "card_name": "Slaughter the Strong",
-        "number": 58,
+        "card_name": "Serve the Gods",
+        "number": 57,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "232"
+        "position": "467"
     },
     {
         "card_name": "Somber Remembrance",
@@ -2200,12 +2200,12 @@
         "position": "470"
     },
     {
-        "card_name": "Spirits of Nox",
-        "number": 59,
+        "card_name": "Slaughter the Strong",
+        "number": 58,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "161"
+        "position": "232"
     },
     {
         "card_name": "Sorcerer Rogier",
@@ -2240,12 +2240,12 @@
         "position": "514"
     },
     {
-        "card_name": "Stick Together",
-        "number": 60,
+        "card_name": "Spirits of Nox",
+        "number": 59,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "286"
+        "position": "161"
     },
     {
         "card_name": "Sorceress Sellen",
@@ -2280,12 +2280,12 @@
         "position": "52"
     },
     {
-        "card_name": "Stonedigger Troll",
-        "number": 61,
+        "card_name": "Stick Together",
+        "number": 60,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "627"
+        "position": "286"
     },
     {
         "card_name": "Spectral Hawk",
@@ -2320,12 +2320,12 @@
         "position": "414"
     },
     {
-        "card_name": "Strength of Runes",
-        "number": 62,
+        "card_name": "Stonedigger Troll",
+        "number": 61,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "235"
+        "position": "627"
     },
     {
         "card_name": "Spirit Eel",
@@ -2360,12 +2360,12 @@
         "position": "331"
     },
     {
-        "card_name": "Sword Monument",
-        "number": 63,
+        "card_name": "Strength of Runes",
+        "number": 62,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "134"
+        "position": "235"
     },
     {
         "card_name": "Spirit-Calling Snail",
@@ -2400,12 +2400,12 @@
         "position": "241"
     },
     {
-        "card_name": "Those United in Common Cause",
-        "number": 64,
+        "card_name": "Sword Monument",
+        "number": 63,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "210"
+        "position": "134"
     },
     {
         "card_name": "Stars of Darkness",
@@ -2440,12 +2440,12 @@
         "position": "515"
     },
     {
-        "card_name": "To the Land of Shadow",
-        "number": 65,
+        "card_name": "Those United in Common Cause",
+        "number": 64,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "106"
+        "position": "210"
     },
     {
         "card_name": "Sunder Reality",
@@ -2480,12 +2480,12 @@
         "position": "324"
     },
     {
-        "card_name": "Torrent, Spirit Steed",
-        "number": 66,
+        "card_name": "To the Land of Shadow",
+        "number": 65,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "58"
+        "position": "106"
     },
     {
         "card_name": "Sweet Dreams",
@@ -2520,12 +2520,12 @@
         "position": "432"
     },
     {
-        "card_name": "The Two Fingers",
-        "number": 67,
+        "card_name": "Torrent, Spirit Steed",
+        "number": 66,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "636"
+        "position": "58"
     },
     {
         "card_name": "Swordhand of Night",
@@ -2560,12 +2560,12 @@
         "position": "72"
     },
     {
-        "card_name": "Valkyrie's Descent",
-        "number": 68,
+        "card_name": "The Two Fingers",
+        "number": 67,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "643"
+        "position": "636"
     },
     {
         "card_name": "Tarnished Bowcaster",
@@ -2600,12 +2600,12 @@
         "position": "516"
     },
     {
-        "card_name": "Volcano Manor Abductor",
-        "number": 69,
+        "card_name": "Valkyrie's Descent",
+        "number": 68,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "40"
+        "position": "643"
     },
     {
         "card_name": "Teardrop of Night",
@@ -2640,12 +2640,12 @@
         "position": "639"
     },
     {
-        "card_name": "Weapon Bequeathal",
-        "number": 70,
-        "shape": "saga",
+        "card_name": "Volcano Manor Abductor",
+        "number": 69,
+        "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "648"
+        "position": "40"
     },
     {
         "card_name": "Thiollier",
@@ -2680,12 +2680,12 @@
         "position": "62"
     },
     {
-        "card_name": "Will You Be My Consort",
-        "number": 71,
+        "card_name": "Weapon Bequeathal",
+        "number": 70,
         "shape": "saga",
         "set": "EDRC",
         "rotated": false,
-        "position": "342"
+        "position": "648"
     },
     {
         "card_name": "Thousand Year Voyage",
@@ -2720,12 +2720,12 @@
         "position": "81"
     },
     {
-        "card_name": "You're Beautiful",
-        "number": 72,
-        "shape": "normal",
+        "card_name": "Will You Be My Consort",
+        "number": 71,
+        "shape": "saga",
         "set": "EDRC",
         "rotated": false,
-        "position": "652"
+        "position": "342"
     },
     {
         "card_name": "To the Three Sisters",
@@ -2760,12 +2760,12 @@
         "position": "641"
     },
     {
-        "card_name": "Yura, Bloody Finger Hunter",
-        "number": 73,
+        "card_name": "You're Beautiful",
+        "number": 72,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "151"
+        "position": "652"
     },
     {
         "card_name": "Twin Moons",
@@ -2800,7 +2800,12 @@
         "position": "394"
     },
     {
-        "card_name": "e"
+        "card_name": "Yura, Bloody Finger Hunter",
+        "number": 73,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "151"
     },
     {
         "card_name": "Ymir's Entreaty",
@@ -4794,14 +4799,6 @@
         "position": "275"
     },
     {
-        "card_name": "Obscure in Shadow",
-        "number": 46,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "606"
-    },
-    {
         "card_name": "Enir Ilim",
         "number": 554,
         "shape": "normal",
@@ -4952,18 +4949,6 @@
         "set": "EDRC",
         "rotated": false,
         "position": "626"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"

@@ -1,4 +1,19 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Madding Hand added.
+
+Shabriri, the Reviled removed.
+
+Rellana, Blade of Messmer
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Other creatures you control have prowess.
+Whenever you cast your third spell each turn, copy it. You may choose new targets for the copy. [i](A copy of a permanent spell becomes a token.)[/i] => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Other creatures you control have prowess.
+Whenever you cast an instant or sorcery spell, if the last spell you cast this turn was the other type, copy that spell. You may choose new targets for the copy.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

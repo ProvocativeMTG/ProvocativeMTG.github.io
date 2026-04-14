@@ -4657,6 +4657,345 @@
     {
         "card_name": "er"
     },
+    "a->hybrid",
+    {
+        "card_name": "Ranni's Rise",
+        "number": 579,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "Lake of Rot",
+        "number": 568,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "400"
+    },
+    {
+        "card_name": "Wailing Dunes",
+        "number": 599,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "454"
+    },
+    {
+        "card_name": "Redmane Castle",
+        "number": 581,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "456"
+    },
+    {
+        "card_name": "Altus Plateau",
+        "number": 537,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "445"
+    },
+    {
+        "card_name": "Leyndell, Ashen Capital",
+        "number": 569,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "458"
+    },
+    {
+        "card_name": "Jarburg",
+        "number": 567,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "453"
+    },
+    {
+        "card_name": "Foot of the Erdtree",
+        "number": 558,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "340"
+    },
+    {
+        "card_name": "Elphael, Brace of the Haligtree",
+        "number": 553,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "457"
+    },
+    {
+        "card_name": "Consecrated Snowfield",
+        "number": 549,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "442"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->hybrid",
+    {
+        "card_name": "Ancient Ruins of Rauh",
+        "number": 538,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "226"
+    },
+    {
+        "card_name": "Nokron, Eternal City",
+        "number": 578,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "96"
+    },
+    {
+        "card_name": "Midra's Manse",
+        "number": 574,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "316"
+    },
+    {
+        "card_name": "The First Step",
+        "number": 557,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "289"
+    },
+    {
+        "card_name": "Leyndell, Royal Capital",
+        "number": 570,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "95"
+    },
+    {
+        "card_name": "Belurat, Tower Settlement",
+        "number": 539,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "252"
+    },
+    {
+        "card_name": "Raya Lucaria Academy",
+        "number": 580,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "526"
+    },
+    {
+        "card_name": "Scadutree Base",
+        "number": 586,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "434"
+    },
+    {
+        "card_name": "Forge of the Giants",
+        "number": 559,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "99"
+    },
+    {
+        "card_name": "Cerulean Coast",
+        "number": 544,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "325"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->hybrid",
+    {
+        "card_name": "Church of Marika",
+        "number": 546,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "283"
+    },
+    {
+        "card_name": "The Scadutree",
+        "number": 585,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "222"
+    },
+    {
+        "card_name": "Shadow Keep",
+        "number": 591,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "479"
+    },
+    {
+        "card_name": "City of Nox",
+        "number": 547,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "282"
+    },
+    {
+        "card_name": "Crumbling Farum Azula",
+        "number": 550,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "440"
+    },
+    {
+        "card_name": "Dominula, Windmill Village",
+        "number": 552,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "275"
+    },
+    {
+        "card_name": "Obscure in Shadow",
+        "number": 46,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "606"
+    },
+    {
+        "card_name": "Enir Ilim",
+        "number": 554,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "318"
+    },
+    {
+        "card_name": "Liurnia of the Lakes",
+        "number": 572,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "339"
+    },
+    {
+        "card_name": "Mountaintops of the Giants",
+        "number": 576,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "94"
+    },
+    {
+        "card_name": "Noklateo, the Shrouded City",
+        "number": 577,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "426"
+    },
+    {
+        "card_name": "Roundtable Hold",
+        "number": 582,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "281"
+    },
+    {
+        "card_name": "Shaman Village",
+        "number": 592,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "320"
+    },
+    {
+        "card_name": "Stormveil Castle",
+        "number": 597,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "97"
+    },
+    {
+        "card_name": "The Erdtree",
+        "number": 555,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "533"
+    },
+    {
+        "card_name": "The Haligtree",
+        "number": 565,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "262"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
     {
         "card_name": "er"
     },

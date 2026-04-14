@@ -10728,7 +10728,7 @@
             "artist": "Ayla Meridian",
             "alias": "",
             "position": "534",
-            "notes": ""
+            "notes": "!group behold\n!sort 03"
         },
         {
             "card_name": "Adel, Ravening Unending",
@@ -11028,7 +11028,7 @@
             "artist": "paintingwinter",
             "alias": "",
             "position": "549",
-            "notes": ""
+            "notes": "!group loot\n!sort 02"
         },
         {
             "card_name": "Bonny Village",
@@ -11048,7 +11048,7 @@
             "artist": "trip_dancer_g",
             "alias": "",
             "position": "550",
-            "notes": ""
+            "notes": "!group other\n!sort 16"
         },
         {
             "card_name": "Caligo, Prehistoric Dragon",
@@ -11108,7 +11108,7 @@
             "artist": "Maia",
             "alias": "",
             "position": "553",
-            "notes": ""
+            "notes": "!group other\n!sort 17"
         },
         {
             "card_name": "Castle Morne",
@@ -11128,7 +11128,7 @@
             "artist": "Signum",
             "alias": "",
             "position": "554",
-            "notes": ""
+            "notes": "!group loot\n!sort 09"
         },
         {
             "card_name": "Castle Sol Commander",
@@ -11208,7 +11208,7 @@
             "artist": "arnaerr",
             "alias": "",
             "position": "558",
-            "notes": ""
+            "notes": "!group loot\n!sort 04"
         },
         {
             "card_name": "Cleaning Chamber Anteroom",
@@ -11228,7 +11228,7 @@
             "artist": "Mack",
             "alias": "",
             "position": "559",
-            "notes": ""
+            "notes": "!group other\n!sort 18"
         },
         {
             "card_name": "Death Prince's Gaze",
@@ -11268,7 +11268,7 @@
             "artist": "Ayla Meridian",
             "alias": "",
             "position": "561",
-            "notes": ""
+            "notes": "!group behold\n!sort 02"
         },
         {
             "card_name": "Draconic Tree Sentinel",
@@ -11448,7 +11448,7 @@
             "artist": "Tsutomu Kitazawa",
             "alias": "",
             "position": "570",
-            "notes": ""
+            "notes": "!group loot\n!sort 07"
         },
         {
             "card_name": "Frenzied Merchant",
@@ -11488,7 +11488,7 @@
             "artist": "jelly_shirayuki",
             "alias": "",
             "position": "572",
-            "notes": ""
+            "notes": "!group loot\n!sort 10"
         },
         {
             "card_name": "Gate Town",
@@ -11508,7 +11508,7 @@
             "artist": "Dhang Ayupratomo",
             "alias": "",
             "position": "573",
-            "notes": ""
+            "notes": "!group behold\n!sort 10"
         },
         {
             "card_name": "Ghostflame Dragon",
@@ -11608,7 +11608,7 @@
             "artist": "Adam_RL",
             "alias": "",
             "position": "578",
-            "notes": ""
+            "notes": "!group loot\n!sort 08"
         },
         {
             "card_name": "Golden Hippopotamus",
@@ -11708,7 +11708,7 @@
             "artist": "_bibuo_",
             "alias": "",
             "position": "583",
-            "notes": ""
+            "notes": "!group loot\n!sort 03"
         },
         {
             "card_name": "Graven Mass",
@@ -11748,7 +11748,7 @@
             "artist": "Gthlart",
             "alias": "",
             "position": "585",
-            "notes": ""
+            "notes": "!group loot\n!sort 06"
         },
         {
             "card_name": "Greater Potentate",
@@ -11868,7 +11868,7 @@
             "artist": "Tsutomu Kitazawa",
             "alias": "",
             "position": "591",
-            "notes": ""
+            "notes": "!group other\n!sort 19"
         },
         {
             "card_name": "Kindreds of Rot",
@@ -11948,7 +11948,7 @@
             "artist": "Fromsoftware",
             "alias": "",
             "position": "595",
-            "notes": ""
+            "notes": "!group other\n!sort 20"
         },
         {
             "card_name": "Loathsome Hex",
@@ -12088,7 +12088,7 @@
             "artist": "vitkovskaya_art",
             "alias": "",
             "position": "602",
-            "notes": ""
+            "notes": "!group other\n!sort 21"
         },
         {
             "card_name": "Monstrous Dog",
@@ -12308,7 +12308,7 @@
             "artist": "thebiggestdumb",
             "alias": "",
             "position": "613",
-            "notes": ""
+            "notes": "!group behold\n!sort 01"
         },
         {
             "card_name": "Rune of Night",
@@ -12348,7 +12348,7 @@
             "artist": "tavvoc",
             "alias": "",
             "position": "615",
-            "notes": ""
+            "notes": "!group behold\n!sort 06"
         },
         {
             "card_name": "Scaduview",
@@ -12368,7 +12368,7 @@
             "artist": "Awful Keiji",
             "alias": "",
             "position": "616",
-            "notes": ""
+            "notes": "!group behold\n!sort 05"
         },
         {
             "card_name": "Scarlet Aeonia",
@@ -12428,7 +12428,7 @@
             "artist": "Kapoli Marton",
             "alias": "",
             "position": "619",
-            "notes": ""
+            "notes": "!group other\n!sort 22"
         },
         {
             "card_name": "Seaside Ruins",
@@ -12448,7 +12448,7 @@
             "artist": "jazziecat",
             "alias": "",
             "position": "620",
-            "notes": ""
+            "notes": "!group loot\n!sort 01"
         },
         {
             "card_name": "Sellen's Plot",
@@ -12488,7 +12488,7 @@
             "artist": "josterfosh",
             "alias": "",
             "position": "622",
-            "notes": ""
+            "notes": "!group behold\n!sort 08"
         },
         {
             "card_name": "Siofra River",
@@ -12508,7 +12508,7 @@
             "artist": "Ayla Meridian",
             "alias": "",
             "position": "623",
-            "notes": ""
+            "notes": "!group behold\n!sort 07"
         },
         {
             "card_name": "Sorcerer's Rise",
@@ -12528,7 +12528,7 @@
             "artist": "_bibuo_",
             "alias": "",
             "position": "624",
-            "notes": ""
+            "notes": "!group other\n!sort 23"
         },
         {
             "card_name": "Spiral Rise",
@@ -12548,7 +12548,7 @@
             "artist": "lowstrear",
             "alias": "",
             "position": "625",
-            "notes": ""
+            "notes": "!group other\n!sort 24"
         },
         {
             "card_name": "Stone Coffin Fissure",
@@ -12568,7 +12568,7 @@
             "artist": "Tsutomu Kitazawa",
             "alias": "",
             "position": "626",
-            "notes": ""
+            "notes": "!group other\n!sort 25"
         },
         {
             "card_name": "Stonedigger Troll",
@@ -12730,7 +12730,7 @@
             "artist": "siriusbound",
             "alias": "",
             "position": "633",
-            "notes": ""
+            "notes": "!group behold\n!sort 04"
         },
         {
             "card_name": "The Primordial Nightlord",
@@ -12950,7 +12950,7 @@
             "artist": "Ayla Meridian",
             "alias": "",
             "position": "644",
-            "notes": ""
+            "notes": "!group behold\n!sort 09"
         },
         {
             "card_name": "Vyke and Lansseax",
@@ -13050,7 +13050,7 @@
             "artist": "Samantha Spencer",
             "alias": "",
             "position": "649",
-            "notes": ""
+            "notes": "!group loot\n!sort 05"
         },
         {
             "card_name": "Well-Laid Plans",

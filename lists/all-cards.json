@@ -18419,7 +18419,7 @@
             "artist": "Ayla Meridian",
             "alias": "",
             "position": "534",
-            "notes": "",
+            "notes": "!group behold\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -18749,7 +18749,7 @@
             "artist": "paintingwinter",
             "alias": "",
             "position": "549",
-            "notes": "",
+            "notes": "!group loot\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -18771,7 +18771,7 @@
             "artist": "trip_dancer_g",
             "alias": "",
             "position": "550",
-            "notes": "",
+            "notes": "!group other\n!sort 16",
             "image_type": "png",
             "v_mana": ""
         },
@@ -18837,7 +18837,7 @@
             "artist": "Maia",
             "alias": "",
             "position": "553",
-            "notes": "",
+            "notes": "!group other\n!sort 17",
             "image_type": "png",
             "v_mana": ""
         },
@@ -18859,7 +18859,7 @@
             "artist": "Signum",
             "alias": "",
             "position": "554",
-            "notes": "",
+            "notes": "!group loot\n!sort 09",
             "image_type": "png",
             "v_mana": ""
         },
@@ -18947,7 +18947,7 @@
             "artist": "arnaerr",
             "alias": "",
             "position": "558",
-            "notes": "",
+            "notes": "!group loot\n!sort 04",
             "image_type": "png",
             "v_mana": ""
         },
@@ -18969,7 +18969,7 @@
             "artist": "Mack",
             "alias": "",
             "position": "559",
-            "notes": "",
+            "notes": "!group other\n!sort 18",
             "image_type": "png",
             "v_mana": ""
         },
@@ -19013,7 +19013,7 @@
             "artist": "Ayla Meridian",
             "alias": "",
             "position": "561",
-            "notes": "",
+            "notes": "!group behold\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -19211,7 +19211,7 @@
             "artist": "Tsutomu Kitazawa",
             "alias": "",
             "position": "570",
-            "notes": "",
+            "notes": "!group loot\n!sort 07",
             "image_type": "png",
             "v_mana": ""
         },
@@ -19255,7 +19255,7 @@
             "artist": "jelly_shirayuki",
             "alias": "",
             "position": "572",
-            "notes": "",
+            "notes": "!group loot\n!sort 10",
             "image_type": "png",
             "v_mana": ""
         },
@@ -19277,7 +19277,7 @@
             "artist": "Dhang Ayupratomo",
             "alias": "",
             "position": "573",
-            "notes": "",
+            "notes": "!group behold\n!sort 10",
             "image_type": "png",
             "v_mana": ""
         },
@@ -19387,7 +19387,7 @@
             "artist": "Adam_RL",
             "alias": "",
             "position": "578",
-            "notes": "",
+            "notes": "!group loot\n!sort 08",
             "image_type": "png",
             "v_mana": ""
         },
@@ -19497,7 +19497,7 @@
             "artist": "_bibuo_",
             "alias": "",
             "position": "583",
-            "notes": "",
+            "notes": "!group loot\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -19541,7 +19541,7 @@
             "artist": "Gthlart",
             "alias": "",
             "position": "585",
-            "notes": "",
+            "notes": "!group loot\n!sort 06",
             "image_type": "png",
             "v_mana": ""
         },
@@ -19673,7 +19673,7 @@
             "artist": "Tsutomu Kitazawa",
             "alias": "",
             "position": "591",
-            "notes": "",
+            "notes": "!group other\n!sort 19",
             "image_type": "png",
             "v_mana": ""
         },
@@ -19761,7 +19761,7 @@
             "artist": "Fromsoftware",
             "alias": "",
             "position": "595",
-            "notes": "",
+            "notes": "!group other\n!sort 20",
             "image_type": "png",
             "v_mana": ""
         },
@@ -19915,7 +19915,7 @@
             "artist": "vitkovskaya_art",
             "alias": "",
             "position": "602",
-            "notes": "",
+            "notes": "!group other\n!sort 21",
             "image_type": "png",
             "v_mana": ""
         },
@@ -20157,7 +20157,7 @@
             "artist": "thebiggestdumb",
             "alias": "",
             "position": "613",
-            "notes": "",
+            "notes": "!group behold\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -20201,7 +20201,7 @@
             "artist": "tavvoc",
             "alias": "",
             "position": "615",
-            "notes": "",
+            "notes": "!group behold\n!sort 06",
             "image_type": "png",
             "v_mana": ""
         },
@@ -20223,7 +20223,7 @@
             "artist": "Awful Keiji",
             "alias": "",
             "position": "616",
-            "notes": "",
+            "notes": "!group behold\n!sort 05",
             "image_type": "png",
             "v_mana": ""
         },
@@ -20289,7 +20289,7 @@
             "artist": "Kapoli Marton",
             "alias": "",
             "position": "619",
-            "notes": "",
+            "notes": "!group other\n!sort 22",
             "image_type": "png",
             "v_mana": ""
         },
@@ -20311,7 +20311,7 @@
             "artist": "jazziecat",
             "alias": "",
             "position": "620",
-            "notes": "",
+            "notes": "!group loot\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -20355,7 +20355,7 @@
             "artist": "josterfosh",
             "alias": "",
             "position": "622",
-            "notes": "",
+            "notes": "!group behold\n!sort 08",
             "image_type": "png",
             "v_mana": ""
         },
@@ -20377,7 +20377,7 @@
             "artist": "Ayla Meridian",
             "alias": "",
             "position": "623",
-            "notes": "",
+            "notes": "!group behold\n!sort 07",
             "image_type": "png",
             "v_mana": ""
         },
@@ -20399,7 +20399,7 @@
             "artist": "_bibuo_",
             "alias": "",
             "position": "624",
-            "notes": "",
+            "notes": "!group other\n!sort 23",
             "image_type": "png",
             "v_mana": ""
         },
@@ -20421,7 +20421,7 @@
             "artist": "lowstrear",
             "alias": "",
             "position": "625",
-            "notes": "",
+            "notes": "!group other\n!sort 24",
             "image_type": "png",
             "v_mana": ""
         },
@@ -20443,7 +20443,7 @@
             "artist": "Tsutomu Kitazawa",
             "alias": "",
             "position": "626",
-            "notes": "",
+            "notes": "!group other\n!sort 25",
             "image_type": "png",
             "v_mana": ""
         },
@@ -20619,7 +20619,7 @@
             "artist": "siriusbound",
             "alias": "",
             "position": "633",
-            "notes": "",
+            "notes": "!group behold\n!sort 04",
             "image_type": "png",
             "v_mana": ""
         },
@@ -20861,7 +20861,7 @@
             "artist": "Ayla Meridian",
             "alias": "",
             "position": "644",
-            "notes": "",
+            "notes": "!group behold\n!sort 09",
             "image_type": "png",
             "v_mana": ""
         },
@@ -20971,7 +20971,7 @@
             "artist": "Samantha Spencer",
             "alias": "",
             "position": "649",
-            "notes": "",
+            "notes": "!group loot\n!sort 05",
             "image_type": "png",
             "v_mana": ""
         },

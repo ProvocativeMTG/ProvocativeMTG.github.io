@@ -1,4 +1,70 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Abyssal Woods
+
+Bonny Gaol
+
+Bonny Village
+
+Castle Ensis
+
+Castle Morne
+
+Charo's Hidden Grave
+
+Cleaning Chamber Anteroom
+
+Deeproot Depths
+
+Finger Ruins of Dheo
+
+Garden of Deep Purple
+
+Gate Town
+
+Godwyn's Tomb
+
+Grand Cloister
+
+Gravesite Plain
+
+Jagged Peak
+
+Limveld
+
+Mohgwyn Palace
+
+Ruin-Strewn Precipice
+
+Scadu Altus
+
+Scaduview
+
+Scorpion River Catacombs
+
+Seaside Ruins
+
+Shaded Castle
+
+Siofra River
+
+Sorcerer's Rise
+
+Spiral Rise
+
+Stone Coffin Fissure
+
+The Liurnian Ravine
+
+Volcano Manor
+
+Weeping Peninsula
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

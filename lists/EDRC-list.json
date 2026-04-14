@@ -4372,291 +4372,6 @@
     {
         "card_name": "er"
     },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "Ruin-Strewn Precipice",
-        "number": 583,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "613"
-    },
-    {
-        "card_name": "Bonny Gaol",
-        "number": 540,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "549"
-    },
-    {
-        "card_name": "Abyssal Woods",
-        "number": 536,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "534"
-    },
-    {
-        "card_name": "Charo's Hidden Grave",
-        "number": 545,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "558"
-    },
-    {
-        "card_name": "Scaduview",
-        "number": 587,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "616"
-    },
-    {
-        "card_name": "Seaside Ruins",
-        "number": 589,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "620"
-    },
-    {
-        "card_name": "Deeproot Depths",
-        "number": 551,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "561"
-    },
-    {
-        "card_name": "Grand Cloister",
-        "number": 563,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "583"
-    },
-    {
-        "card_name": "The Liurnian Ravine",
-        "number": 573,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "633"
-    },
-    {
-        "card_name": "Weeping Peninsula",
-        "number": 600,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "649"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "Gravesite Plain",
-        "number": 564,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "585"
-    },
-    {
-        "card_name": "Finger Ruins of Dheo",
-        "number": 556,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "570"
-    },
-    {
-        "card_name": "Godwyn's Tomb",
-        "number": 562,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "578"
-    },
-    {
-        "card_name": "Castle Morne",
-        "number": 543,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "554"
-    },
-    {
-        "card_name": "Garden of Deep Purple",
-        "number": 560,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "572"
-    },
-    {
-        "card_name": "Scadu Altus",
-        "number": 584,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "615"
-    },
-    {
-        "card_name": "Siofra River",
-        "number": 593,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "623"
-    },
-    {
-        "card_name": "Shaded Castle",
-        "number": 590,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "622"
-    },
-    {
-        "card_name": "Volcano Manor",
-        "number": 598,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "644"
-    },
-    {
-        "card_name": "Gate Town",
-        "number": 561,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "573"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "Bonny Village",
-        "number": 541,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "550"
-    },
-    {
-        "card_name": "Castle Ensis",
-        "number": 542,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "553"
-    },
-    {
-        "card_name": "Cleaning Chamber Anteroom",
-        "number": 548,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "559"
-    },
-    {
-        "card_name": "Jagged Peak",
-        "number": 566,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "591"
-    },
-    {
-        "card_name": "Limveld",
-        "number": 571,
-        "shape": "saga",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "595"
-    },
-    {
-        "card_name": "Mohgwyn Palace",
-        "number": 575,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "602"
-    },
-    {
-        "card_name": "Scorpion River Catacombs",
-        "number": 588,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "619"
-    },
-    {
-        "card_name": "Sorcerer's Rise",
-        "number": 594,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "624"
-    },
-    {
-        "card_name": "Spiral Rise",
-        "number": 595,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "625"
-    },
-    {
-        "card_name": "Stone Coffin Fissure",
-        "number": 596,
-        "shape": "normal",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "626"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
     "a->hybrid",
     {
         "card_name": "Ranni's Rise",
@@ -4845,6 +4560,192 @@
     },
     "a->hybrid",
     {
+        "card_name": "Ruin-Strewn Precipice",
+        "number": 583,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "613"
+    },
+    {
+        "card_name": "Deeproot Depths",
+        "number": 551,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "561"
+    },
+    {
+        "card_name": "Abyssal Woods",
+        "number": 536,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "534"
+    },
+    {
+        "card_name": "The Liurnian Ravine",
+        "number": 573,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "633"
+    },
+    {
+        "card_name": "Scaduview",
+        "number": 587,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "616"
+    },
+    {
+        "card_name": "Scadu Altus",
+        "number": 584,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "615"
+    },
+    {
+        "card_name": "Siofra River",
+        "number": 593,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "623"
+    },
+    {
+        "card_name": "Shaded Castle",
+        "number": 590,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "622"
+    },
+    {
+        "card_name": "Volcano Manor",
+        "number": 598,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "644"
+    },
+    {
+        "card_name": "Gate Town",
+        "number": 561,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "573"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->hybrid",
+    {
+        "card_name": "Seaside Ruins",
+        "number": 589,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "620"
+    },
+    {
+        "card_name": "Bonny Gaol",
+        "number": 540,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "549"
+    },
+    {
+        "card_name": "Grand Cloister",
+        "number": 563,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "583"
+    },
+    {
+        "card_name": "Charo's Hidden Grave",
+        "number": 545,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "558"
+    },
+    {
+        "card_name": "Weeping Peninsula",
+        "number": 600,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "649"
+    },
+    {
+        "card_name": "Gravesite Plain",
+        "number": 564,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "585"
+    },
+    {
+        "card_name": "Finger Ruins of Dheo",
+        "number": 556,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "570"
+    },
+    {
+        "card_name": "Godwyn's Tomb",
+        "number": 562,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "578"
+    },
+    {
+        "card_name": "Castle Morne",
+        "number": 543,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "554"
+    },
+    {
+        "card_name": "Garden of Deep Purple",
+        "number": 560,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "572"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->hybrid",
+    {
         "card_name": "Church of Marika",
         "number": 546,
         "shape": "normal",
@@ -4971,6 +4872,86 @@
         "set": "EDRC",
         "rotated": false,
         "position": "262"
+    },
+    {
+        "card_name": "Bonny Village",
+        "number": 541,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "550"
+    },
+    {
+        "card_name": "Castle Ensis",
+        "number": 542,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "553"
+    },
+    {
+        "card_name": "Cleaning Chamber Anteroom",
+        "number": 548,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "559"
+    },
+    {
+        "card_name": "Jagged Peak",
+        "number": 566,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "591"
+    },
+    {
+        "card_name": "Limveld",
+        "number": 571,
+        "shape": "saga",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "595"
+    },
+    {
+        "card_name": "Mohgwyn Palace",
+        "number": 575,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "602"
+    },
+    {
+        "card_name": "Scorpion River Catacombs",
+        "number": 588,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "619"
+    },
+    {
+        "card_name": "Sorcerer's Rise",
+        "number": 594,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "624"
+    },
+    {
+        "card_name": "Spiral Rise",
+        "number": 595,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "625"
+    },
+    {
+        "card_name": "Stone Coffin Fissure",
+        "number": 596,
+        "shape": "normal",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "626"
     },
     {
         "card_name": "e"

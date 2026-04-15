@@ -472,12 +472,12 @@
         "position": "198"
     },
     {
-        "card_name": "Deathroot's Grasp",
+        "card_name": "Death Washes Up",
         "number": 298,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "390"
+        "position": "632"
     },
     {
         "card_name": "Die a True Death",
@@ -512,12 +512,12 @@
         "position": "255"
     },
     {
-        "card_name": "Doubling Season",
+        "card_name": "Deathroot's Grasp",
         "number": 299,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "120"
+        "position": "390"
     },
     {
         "card_name": "Divine Bird Warrior",
@@ -552,12 +552,12 @@
         "position": "171"
     },
     {
-        "card_name": "Dragonkin of Nokstella",
+        "card_name": "Doubling Season",
         "number": 300,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "92"
+        "position": "120"
     },
     {
         "card_name": "Dragon Cult Priestess",
@@ -592,12 +592,12 @@
         "position": "555"
     },
     {
-        "card_name": "Dragonkin Roar",
+        "card_name": "Dragonkin of Nokstella",
         "number": 301,
-        "shape": "saga",
+        "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "85"
+        "position": "92"
     },
     {
         "card_name": "The Ever Brilliant Goldmask",
@@ -632,12 +632,12 @@
         "position": "91"
     },
     {
-        "card_name": "Dragonkin Soldier",
+        "card_name": "Dragonkin Roar",
         "number": 302,
-        "shape": "normal",
+        "shape": "saga",
         "set": "EDRC",
         "rotated": false,
-        "position": "366"
+        "position": "85"
     },
     {
         "card_name": "Formless Mother's Embrace",
@@ -672,12 +672,12 @@
         "position": "556"
     },
     {
-        "card_name": "Dryleaf Dane",
+        "card_name": "Dragonkin Soldier",
         "number": 303,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "208"
+        "position": "366"
     },
     {
         "card_name": "Gaol Binding",
@@ -712,12 +712,12 @@
         "position": "152"
     },
     {
-        "card_name": "Eiglay, Devouring Serpent",
+        "card_name": "Dryleaf Dane",
         "number": 304,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "558"
+        "position": "208"
     },
     {
         "card_name": "Godfrey, First Elden Lord",
@@ -752,12 +752,12 @@
         "position": "153"
     },
     {
-        "card_name": "Empyrean Bond",
+        "card_name": "Eiglay, Devouring Serpent",
         "number": 305,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "455"
+        "position": "558"
     },
     {
         "card_name": "Godfrey's Long March",
@@ -792,12 +792,12 @@
         "position": "502"
     },
     {
-        "card_name": "Epic Encounter",
+        "card_name": "Empyrean Bond",
         "number": 306,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "355"
+        "position": "455"
     },
     {
         "card_name": "Golden Epitaph",
@@ -832,12 +832,12 @@
         "position": "143"
     },
     {
-        "card_name": "Erdtree Avatar",
+        "card_name": "Epic Encounter",
         "number": 307,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "422"
+        "position": "355"
     },
     {
         "card_name": "Golden Hippopotamus",
@@ -872,12 +872,12 @@
         "position": "329"
     },
     {
-        "card_name": "Erdtree Burial",
+        "card_name": "Erdtree Avatar",
         "number": 308,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "525"
+        "position": "422"
     },
     {
         "card_name": "Golem Smith",
@@ -912,12 +912,12 @@
         "position": "446"
     },
     {
-        "card_name": "Fate Cannot Be Changed",
+        "card_name": "Erdtree Burial",
         "number": 309,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "559"
+        "position": "525"
     },
     {
         "card_name": "Heartfelt Wish",
@@ -952,12 +952,12 @@
         "position": "503"
     },
     {
-        "card_name": "Finger Crone's Blessing",
+        "card_name": "Fate Cannot Be Changed",
         "number": 310,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "193"
+        "position": "559"
     },
     {
         "card_name": "Horn-deck'd Beast",
@@ -992,12 +992,12 @@
         "position": "504"
     },
     {
-        "card_name": "Fingercreeper",
+        "card_name": "Finger Crone's Blessing",
         "number": 311,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "304"
+        "position": "193"
     },
     {
         "card_name": "Juno Hoslow",
@@ -1032,12 +1032,12 @@
         "position": "311"
     },
     {
-        "card_name": "Forager Brood Gift",
+        "card_name": "Fingercreeper",
         "number": 312,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "192"
+        "position": "304"
     },
     {
         "card_name": "Light of Miquella",
@@ -1072,12 +1072,12 @@
         "position": "335"
     },
     {
-        "card_name": "Gift of Scorpion Stew",
+        "card_name": "Forager Brood Gift",
         "number": 313,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "568"
+        "position": "192"
     },
     {
         "card_name": "Majesty of the Capital",
@@ -1112,12 +1112,12 @@
         "position": "18"
     },
     {
-        "card_name": "Godefroy the Grafted",
+        "card_name": "Gift of Scorpion Stew",
         "number": 314,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "569"
+        "position": "568"
     },
     {
         "card_name": "Marika, Shaman Saint",
@@ -1152,12 +1152,12 @@
         "position": "505"
     },
     {
-        "card_name": "Grafted Scion",
+        "card_name": "Godefroy the Grafted",
         "number": 315,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "76"
+        "position": "569"
     },
     {
         "card_name": "Marika, the Eternal",
@@ -1192,12 +1192,12 @@
         "position": "75"
     },
     {
-        "card_name": "Grand Caravan Steed",
+        "card_name": "Grafted Scion",
         "number": 316,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "575"
+        "position": "76"
     },
     {
         "card_name": "Marika's Ascension",
@@ -1232,12 +1232,12 @@
         "position": "564"
     },
     {
-        "card_name": "Great Exodus",
+        "card_name": "Grand Caravan Steed",
         "number": 317,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "466"
+        "position": "575"
     },
     {
         "card_name": "Marika's Communion",
@@ -1272,12 +1272,12 @@
         "position": "302"
     },
     {
-        "card_name": "Guardian Golem",
+        "card_name": "Great Exodus",
         "number": 318,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "238"
+        "position": "466"
     },
     {
         "card_name": "Marika's Crucifixion",
@@ -1312,12 +1312,12 @@
         "position": "26"
     },
     {
-        "card_name": "Guided by Grace",
+        "card_name": "Guardian Golem",
         "number": 319,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "368"
+        "position": "238"
     },
     {
         "card_name": "Marika's Guidance",
@@ -1352,12 +1352,12 @@
         "position": "362"
     },
     {
-        "card_name": "Hallowed Grounds",
+        "card_name": "Guided by Grace",
         "number": 320,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "145"
+        "position": "368"
     },
     {
         "card_name": "Melina, Kindling Maiden",
@@ -1392,12 +1392,12 @@
         "position": "178"
     },
     {
-        "card_name": "Hallowhorn Remains",
+        "card_name": "Hallowed Grounds",
         "number": 321,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "100"
+        "position": "145"
     },
     {
         "card_name": "Mend the Elden Ring",
@@ -1432,12 +1432,12 @@
         "position": "445"
     },
     {
-        "card_name": "Hardened Scales",
+        "card_name": "Hallowhorn Remains",
         "number": 322,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "84"
+        "position": "100"
     },
     {
         "card_name": "Minor Erdtree",
@@ -1472,12 +1472,12 @@
         "position": "348"
     },
     {
-        "card_name": "Hornsent Grandam",
+        "card_name": "Hardened Scales",
         "number": 323,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "312"
+        "position": "84"
     },
     {
         "card_name": "Miquella, the Unalloyed",
@@ -1512,12 +1512,12 @@
         "position": "424"
     },
     {
-        "card_name": "Iron Fist Alexander",
+        "card_name": "Hornsent Grandam",
         "number": 324,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "20"
+        "position": "312"
     },
     {
         "card_name": "Miquella's Cross",
@@ -1552,12 +1552,12 @@
         "position": "353"
     },
     {
-        "card_name": "Jar-Bairn",
+        "card_name": "Iron Fist Alexander",
         "number": 325,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "259"
+        "position": "20"
     },
     {
         "card_name": "Morgott, Veiled Monarch",
@@ -1592,12 +1592,12 @@
         "position": "65"
     },
     {
-        "card_name": "Kindreds of Rot",
+        "card_name": "Jar-Bairn",
         "number": 326,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "585"
+        "position": "259"
     },
     {
         "card_name": "Nature of the Shamans",
@@ -1632,12 +1632,12 @@
         "position": "126"
     },
     {
-        "card_name": "Land of Shadow",
+        "card_name": "Kindreds of Rot",
         "number": 327,
-        "shape": "saga",
+        "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "440"
+        "position": "585"
     },
     {
         "card_name": "A New Journey",
@@ -1672,12 +1672,12 @@
         "position": "201"
     },
     {
-        "card_name": "Limgrave Infantry",
+        "card_name": "Land of Shadow",
         "number": 328,
-        "shape": "normal",
+        "shape": "saga",
         "set": "EDRC",
         "rotated": false,
-        "position": "587"
+        "position": "440"
     },
     {
         "card_name": "Nox Maidens",
@@ -1712,12 +1712,12 @@
         "position": "115"
     },
     {
-        "card_name": "Living Jars",
+        "card_name": "Limgrave Infantry",
         "number": 329,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "128"
+        "position": "587"
     },
     {
         "card_name": "Obscure in Shadow",
@@ -1752,12 +1752,12 @@
         "position": "237"
     },
     {
-        "card_name": "March to Caelid",
+        "card_name": "Living Jars",
         "number": 330,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "87"
+        "position": "128"
     },
     {
         "card_name": "Offer Pita Bread",
@@ -1792,12 +1792,12 @@
         "position": "591"
     },
     {
-        "card_name": "Merchant's Song",
+        "card_name": "March to Caelid",
         "number": 331,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "264"
+        "position": "87"
     },
     {
         "card_name": "Path to the Capital",
@@ -1832,12 +1832,12 @@
         "position": "521"
     },
     {
-        "card_name": "Miquella's Charm",
+        "card_name": "Merchant's Song",
         "number": 332,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "260"
+        "position": "264"
     },
     {
         "card_name": "Perfect Order",
@@ -1872,12 +1872,12 @@
         "position": "272"
     },
     {
-        "card_name": "Misbegotten Crusader",
+        "card_name": "Miquella's Charm",
         "number": 333,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "594"
+        "position": "260"
     },
     {
         "card_name": "Profound Holiness",
@@ -1912,12 +1912,12 @@
         "position": "179"
     },
     {
-        "card_name": "Monstrous Dog",
+        "card_name": "Misbegotten Crusader",
         "number": 334,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "596"
+        "position": "594"
     },
     {
         "card_name": "Radagon is Marika",
@@ -1952,12 +1952,12 @@
         "position": "196"
     },
     {
-        "card_name": "Nepheli Loux, Warrior",
+        "card_name": "Monstrous Dog",
         "number": 335,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "229"
+        "position": "596"
     },
     {
         "card_name": "Radahn's Resurrection",
@@ -1992,12 +1992,12 @@
         "position": "212"
     },
     {
-        "card_name": "Nomadic Merchant",
+        "card_name": "Nepheli Loux, Warrior",
         "number": 336,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "149"
+        "position": "229"
     },
     {
         "card_name": "Reprieve",
@@ -2032,12 +2032,12 @@
         "position": "315"
     },
     {
-        "card_name": "Occult Mystery",
+        "card_name": "Nomadic Merchant",
         "number": 337,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "73"
+        "position": "149"
     },
     {
         "card_name": "Seeker of Runes",
@@ -2072,12 +2072,12 @@
         "position": "602"
     },
     {
-        "card_name": "Oracle Envoy",
+        "card_name": "Occult Mystery",
         "number": 338,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "258"
+        "position": "73"
     },
     {
         "card_name": "Seeking the Crosses",
@@ -2112,12 +2112,12 @@
         "position": "24"
     },
     {
-        "card_name": "Oracle Envoy Giant",
+        "card_name": "Oracle Envoy",
         "number": 339,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "601"
+        "position": "258"
     },
     {
         "card_name": "Serosh, Beast Regent",
@@ -2152,12 +2152,12 @@
         "position": "605"
     },
     {
-        "card_name": "Perfumer",
+        "card_name": "Oracle Envoy Giant",
         "number": 340,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "265"
+        "position": "601"
     },
     {
         "card_name": "Serve the Gods",
@@ -2192,12 +2192,12 @@
         "position": "132"
     },
     {
-        "card_name": "Raider",
+        "card_name": "Perfumer",
         "number": 341,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "464"
+        "position": "265"
     },
     {
         "card_name": "Slaughter the Strong",
@@ -2232,12 +2232,12 @@
         "position": "227"
     },
     {
-        "card_name": "Roderika and Hewg",
+        "card_name": "Raider",
         "number": 342,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "508"
+        "position": "464"
     },
     {
         "card_name": "Spirits of Nox",
@@ -2272,12 +2272,12 @@
         "position": "231"
     },
     {
-        "card_name": "Secret Path to Nokron",
+        "card_name": "Roderika and Hewg",
         "number": 343,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "52"
+        "position": "508"
     },
     {
         "card_name": "Stick Together",
@@ -2312,12 +2312,12 @@
         "position": "610"
     },
     {
-        "card_name": "Secret Rite",
+        "card_name": "Secret Path to Nokron",
         "number": 344,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "414"
+        "position": "52"
     },
     {
         "card_name": "Stonedigger Troll",
@@ -2352,12 +2352,12 @@
         "position": "30"
     },
     {
-        "card_name": "Servants of Death",
+        "card_name": "Secret Rite",
         "number": 345,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "331"
+        "position": "414"
     },
     {
         "card_name": "Strength of Runes",
@@ -2392,12 +2392,12 @@
         "position": "383"
     },
     {
-        "card_name": "The Shadow Sunflower",
+        "card_name": "Servants of Death",
         "number": 346,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "241"
+        "position": "331"
     },
     {
         "card_name": "Sword Monument",
@@ -2432,12 +2432,12 @@
         "position": "401"
     },
     {
-        "card_name": "Shaman Village Sentinel",
+        "card_name": "The Shadow Sunflower",
         "number": 347,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "509"
+        "position": "241"
     },
     {
         "card_name": "Those United in Common Cause",
@@ -2472,12 +2472,12 @@
         "position": "125"
     },
     {
-        "card_name": "Sir Moore",
+        "card_name": "Shaman Village Sentinel",
         "number": 348,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "324"
+        "position": "509"
     },
     {
         "card_name": "To the Land of Shadow",
@@ -2512,12 +2512,12 @@
         "position": "624"
     },
     {
-        "card_name": "Snow Witch",
+        "card_name": "Sir Moore",
         "number": 349,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "427"
+        "position": "324"
     },
     {
         "card_name": "Torrent, Spirit Steed",
@@ -2552,12 +2552,12 @@
         "position": "49"
     },
     {
-        "card_name": "Soldier of Godrick",
+        "card_name": "Snow Witch",
         "number": 350,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "72"
+        "position": "427"
     },
     {
         "card_name": "The Two Fingers",
@@ -2592,12 +2592,12 @@
         "position": "631"
     },
     {
-        "card_name": "Storm Ruler",
+        "card_name": "Soldier of Godrick",
         "number": 351,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "510"
+        "position": "72"
     },
     {
         "card_name": "Valkyrie's Descent",
@@ -2632,12 +2632,12 @@
         "position": "471"
     },
     {
-        "card_name": "Travel to the Realm of Shadow",
+        "card_name": "Storm Ruler",
         "number": 352,
         "shape": "normal",
         "set": "EDRC",
         "rotated": false,
-        "position": "632"
+        "position": "510"
     },
     {
         "card_name": "Volcano Manor Abductor",

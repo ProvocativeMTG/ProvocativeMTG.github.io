@@ -1,4 +1,45 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Death Washes Up added.
+
+Travel to the Realm of Shadow removed.
+
+Wander the Wastes
+rules_text: Spree [i](Choose one or more additional costs.)[/i]
++ {B} — Each opponent sacrifices a nonlegendary creature.
++ {B} — Each opponent sacrifices a legendary creature. => Spree [i](Choose one or more additional costs.)[/i]
++ {1} — Each opponent sacrifices a nonlegendary creature.
++ {1} — Each opponent sacrifices a legendary creature.
+
+Secret Path to Nokron
+rules_text: Look at the top five cards of your library. You may reveal a legendary or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order. => Look at the top five cards of your library. You may reveal a legendary card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+
+The Gate of Divinity
+cost: {8} => {10}
+
+Boc, the Seamster
+
+Behold the Jagged Peak
+
+Profound Holiness
+rules_text: When this enchantment enters, search your library for a legendary card, reveal it, put it into your hand, then shuffle.
+Whenever you cast a legendary spell, create a 0/1 green Plant creature token, then put a +1/+1 counter on each Plant you control. => When this enchantment enters, reveal the top five cards of your library. You may put a legendary card from among them into your hand. Put the rest on the bottom of your library in a random order.
+Whenever you cast a legendary spell, create a 0/1 green Plant creature token, then put a +1/+1 counter on each Plant you control.
+
+The Three Fingers
+rules_text: At the beginning of your end step, draw or discard cards until you have three cards in your hand.
+Whenever you discard a nonland card, copy it. You may cast the copy by paying life equal to its mana value rather than paying its mana cost. => Your maximum hand size is three.
+At the beginning of your end step, if you have fewer than three cards in hand, draw cards equal to the difference.
+Whenever you discard a nonland card, copy it. You may cast the copy by paying life equal to its mana value rather than paying its mana cost.
+
+Vyke's Torment
+rules_text: Exile the top card of your library. You may play that card this turn.
+At the beginning of your upkeep, if you have no cards in hand, you may return this card from your graveyard to your hand. => Exile the top two cards of your library. You may play one of those cards this turn.
+At the beginning of your upkeep, if you have no cards in hand, you may return this card from your graveyard to your hand.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 

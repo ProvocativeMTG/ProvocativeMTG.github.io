@@ -1145,7 +1145,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Spider Horror",
-			"collector_number": "27",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/114.png"
 			}
@@ -1315,7 +1315,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Warrior Army",
-			"collector_number": "28",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/131.png"
 			}
@@ -2565,7 +2565,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Serpent",
-			"collector_number": "24",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/256.png"
 			}
@@ -3285,7 +3285,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Clue",
-			"collector_number": "42",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/328.png"
 			}
@@ -3335,7 +3335,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "44",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/333.png"
 			}
@@ -3345,7 +3345,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Dragon Warrior",
-			"collector_number": "31",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/334.png"
 			}
@@ -3605,7 +3605,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "47",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/360.png"
 			}
@@ -3635,7 +3635,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Demigod",
-			"collector_number": "16",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/363.png"
 			}
@@ -3715,7 +3715,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact",
-			"collector_number": "45",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/371.png"
 			}
@@ -3775,7 +3775,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Demigod",
-			"collector_number": "17",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/377.png"
 			}
@@ -3785,7 +3785,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Demigod",
-			"collector_number": "18",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/378.png"
 			}
@@ -3795,7 +3795,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Demigod",
-			"collector_number": "19",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/379.png"
 			}
@@ -3805,7 +3805,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Demigod",
-			"collector_number": "20",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/380.png"
 			}
@@ -3845,7 +3845,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Demigod",
-			"collector_number": "21",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/384.png"
 			}
@@ -3855,7 +3855,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Demigod",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/385.png"
 			}
@@ -3865,7 +3865,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Demigod",
-			"collector_number": "12",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/386.png"
 			}
@@ -3875,7 +3875,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Demigod",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/387.png"
 			}
@@ -3885,7 +3885,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Demigod",
-			"collector_number": "14",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/388.png"
 			}
@@ -3955,7 +3955,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Soldier",
-			"collector_number": "30",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/395.png"
 			}
@@ -4025,7 +4025,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Wolf",
-			"collector_number": "34",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/402.png"
 			}
@@ -4035,7 +4035,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Human",
-			"collector_number": "39",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/403.png"
 			}
@@ -4045,7 +4045,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Skeleton",
-			"collector_number": "25",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/404.png"
 			}
@@ -4055,7 +4055,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Dragon",
-			"collector_number": "29",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/405.png"
 			}
@@ -4065,7 +4065,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Blood",
-			"collector_number": "41",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/406.png"
 			}
@@ -4075,7 +4075,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Map",
-			"collector_number": "46",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/407.png"
 			}
@@ -4085,7 +4085,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Land",
-			"collector_number": "48",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/408.png"
 			}
@@ -4271,63 +4271,13 @@
 			}
 		},
 		{
-			"name": "King of the Storm",
-			"rarity": "common",
-			"mana_cost": "{4}{B}",
-			"type": "Legendary Creature — Dragon",
-			"collector_number": "23",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/427.png"
-			}
-		},
-		{
-			"name": "Gaping Dragon",
-			"rarity": "common",
-			"mana_cost": "{1}{B}{G}",
-			"type": "Legendary Creature — Dragon",
-			"collector_number": "38",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/428.png"
-			}
-		},
-		{
-			"name": "Nameless King",
-			"rarity": "common",
-			"mana_cost": "{4}{W}{B}",
-			"type": "Legendary Creature — God",
-			"collector_number": "40",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/429.png"
-			}
-		},
-		{
-			"name": "Dancer of the Boreal Valley",
-			"rarity": "common",
-			"mana_cost": "{2}{U}{B}",
-			"type": "Legendary Creature — Horror Rogue",
-			"collector_number": "37",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/430.png"
-			}
-		},
-		{
-			"name": "Smelter Demon",
-			"rarity": "common",
-			"mana_cost": "{3}{B}",
-			"type": "Legendary Artifact Creature — Golem",
-			"collector_number": "26",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/431.png"
-			}
-		},
-		{
 			"name": "Snow Witch",
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Avatar Warlock",
 			"collector_number": "349",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/432.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/427.png"
 			}
 		},
 		{
@@ -4337,7 +4287,7 @@
 			"type": "Creature — Alien Ox",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/433.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/428.png"
 			}
 		},
 		{
@@ -4347,7 +4297,7 @@
 			"type": "Legendary Land",
 			"collector_number": "586",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/434.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/429.png"
 			}
 		},
 		{
@@ -4357,7 +4307,7 @@
 			"type": "Sorcery",
 			"collector_number": "451",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/435.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/430.png"
 			}
 		},
 		{
@@ -4367,7 +4317,7 @@
 			"type": "Legendary Creature — God",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/436.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/431.png"
 			}
 		},
 		{
@@ -4377,7 +4327,7 @@
 			"type": "Instant",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/437.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/432.png"
 			}
 		},
 		{
@@ -4387,17 +4337,7 @@
 			"type": "Legendary Creature — Avatar Knight",
 			"collector_number": "414",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/438.png"
-			}
-		},
-		{
-			"name": "Duke's Dear Freja",
-			"rarity": "common",
-			"mana_cost": "{3}{B}",
-			"type": "Legendary Creature — Spider Demon",
-			"collector_number": "22",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/439.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/433.png"
 			}
 		},
 		{
@@ -4407,7 +4347,7 @@
 			"type": "Legendary Land",
 			"collector_number": "550",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/440.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/434.png"
 			}
 		},
 		{
@@ -4417,7 +4357,7 @@
 			"type": "Legendary Creature — Avatar",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/441.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/435.png"
 			}
 		},
 		{
@@ -4427,7 +4367,7 @@
 			"type": "Legendary Land",
 			"collector_number": "549",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/442.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/436.png"
 			}
 		},
 		{
@@ -4437,7 +4377,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/443.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/437.png"
 			}
 		},
 		{
@@ -4447,7 +4387,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/444.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/438.png"
 			}
 		},
 		{
@@ -4457,7 +4397,7 @@
 			"type": "Legendary Land",
 			"collector_number": "537",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/445.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/439.png"
 			}
 		},
 		{
@@ -4467,7 +4407,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "327",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/446.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/440.png"
 			}
 		},
 		{
@@ -4477,7 +4417,7 @@
 			"type": "Enchantment",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/447.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/441.png"
 			}
 		},
 		{
@@ -4487,7 +4427,7 @@
 			"type": "Enchantment",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/448.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/442.png"
 			}
 		},
 		{
@@ -4497,7 +4437,7 @@
 			"type": "Legendary Creature — Demigod Horse",
 			"collector_number": "434",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/449.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/443.png"
 			}
 		},
 		{
@@ -4507,7 +4447,7 @@
 			"type": "Legendary Creature — Dragon Horror",
 			"collector_number": "358",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/450.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/444.png"
 			}
 		},
 		{
@@ -4517,7 +4457,7 @@
 			"type": "Legendary Creature — Human Rogue Archer",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/451.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/445.png"
 			}
 		},
 		{
@@ -4527,7 +4467,7 @@
 			"type": "Creature — Human Wizard Knight",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/452.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/446.png"
 			}
 		},
 		{
@@ -4537,7 +4477,7 @@
 			"type": "Legendary Land",
 			"collector_number": "567",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/453.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/447.png"
 			}
 		},
 		{
@@ -4547,7 +4487,7 @@
 			"type": "Legendary Land",
 			"collector_number": "599",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/454.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/448.png"
 			}
 		},
 		{
@@ -4557,7 +4497,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "493",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/455.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/449.png"
 			}
 		},
 		{
@@ -4567,7 +4507,7 @@
 			"type": "Legendary Land",
 			"collector_number": "581",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/456.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/450.png"
 			}
 		},
 		{
@@ -4577,7 +4517,7 @@
 			"type": "Legendary Land",
 			"collector_number": "553",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/457.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/451.png"
 			}
 		},
 		{
@@ -4587,7 +4527,7 @@
 			"type": "Legendary Land",
 			"collector_number": "569",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/458.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/452.png"
 			}
 		},
 		{
@@ -4597,7 +4537,7 @@
 			"type": "Legendary Creature — Insect",
 			"collector_number": "398",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/459.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/453.png"
 			}
 		},
 		{
@@ -4607,7 +4547,7 @@
 			"type": "Creature — Mutant Warrior",
 			"collector_number": "416",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/460.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/454.png"
 			}
 		},
 		{
@@ -4617,7 +4557,7 @@
 			"type": "Enchantment",
 			"collector_number": "305",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/461.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/455.png"
 			}
 		},
 		{
@@ -4627,7 +4567,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/462.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/456.png"
 			}
 		},
 		{
@@ -4637,7 +4577,7 @@
 			"type": "Instant",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/463.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/457.png"
 			}
 		},
 		{
@@ -4647,7 +4587,7 @@
 			"type": "Legendary Artifact Creature — Construct",
 			"collector_number": "514",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/464.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/458.png"
 			}
 		},
 		{
@@ -4655,9 +4595,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Construct",
-			"collector_number": "43",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/465.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/459.png"
 			}
 		},
 		{
@@ -4665,9 +4605,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Creature — Scorpion",
-			"collector_number": "32",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/466.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/460.png"
 			}
 		},
 		{
@@ -4677,7 +4617,7 @@
 			"type": "Enchantment",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/467.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/461.png"
 			}
 		},
 		{
@@ -4687,7 +4627,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "527",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/468.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/462.png"
 			}
 		},
 		{
@@ -4697,7 +4637,7 @@
 			"type": "Legendary Creature — Human Cleric",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/469.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/463.png"
 			}
 		},
 		{
@@ -4707,7 +4647,7 @@
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "341",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/470.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/464.png"
 			}
 		},
 		{
@@ -4717,7 +4657,7 @@
 			"type": "Instant",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/471.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/465.png"
 			}
 		},
 		{
@@ -4727,7 +4667,7 @@
 			"type": "Sorcery",
 			"collector_number": "317",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/472.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/466.png"
 			}
 		},
 		{
@@ -4737,7 +4677,7 @@
 			"type": "Instant",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/473.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/467.png"
 			}
 		},
 		{
@@ -4747,7 +4687,7 @@
 			"type": "Enchantment",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/474.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/468.png"
 			}
 		},
 		{
@@ -4757,7 +4697,7 @@
 			"type": "Enchantment",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/475.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/469.png"
 			}
 		},
 		{
@@ -4767,7 +4707,7 @@
 			"type": "Enchantment",
 			"collector_number": "467",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/476.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/470.png"
 			}
 		},
 		{
@@ -4777,7 +4717,7 @@
 			"type": "Sorcery",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/477.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/471.png"
 			}
 		},
 		{
@@ -4787,7 +4727,7 @@
 			"type": "Creature — Horror Cleric",
 			"collector_number": "402",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/478.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/472.png"
 			}
 		},
 		{
@@ -4797,7 +4737,7 @@
 			"type": "Legendary Land",
 			"collector_number": "591",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/479.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/473.png"
 			}
 		},
 		{
@@ -4807,7 +4747,7 @@
 			"type": "Legendary Artifact Creature — Golem",
 			"collector_number": "511",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/480.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/474.png"
 			}
 		},
 		{
@@ -4817,7 +4757,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/481.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/475.png"
 			}
 		},
 		{
@@ -4827,7 +4767,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/482.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/476.png"
 			}
 		},
 		{
@@ -4837,7 +4777,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/483.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/477.png"
 			}
 		},
 		{
@@ -4847,7 +4787,7 @@
 			"type": "",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/484.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/478.png"
 			}
 		},
 		{
@@ -4857,7 +4797,7 @@
 			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/485.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/479.png"
 			}
 		},
 		{
@@ -4867,7 +4807,7 @@
 			"type": "Instant",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/486.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/480.png"
 			}
 		},
 		{
@@ -4875,9 +4815,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Plant",
-			"collector_number": "33",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/487.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/481.png"
 			}
 		},
 		{
@@ -4885,9 +4825,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Insect",
-			"collector_number": "35",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/488.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/482.png"
 			}
 		},
 		{
@@ -4897,7 +4837,7 @@
 			"type": "Token Creature — Bird Spirit",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/489.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/483.png"
 			}
 		},
 		{
@@ -4907,7 +4847,7 @@
 			"type": "Legendary Creature — Goat Demon",
 			"collector_number": "422",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/490.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/484.png"
 			}
 		},
 		{
@@ -4917,7 +4857,7 @@
 			"type": "Legendary Creature — Dragon",
 			"collector_number": "371",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/491.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/485.png"
 			}
 		},
 		{
@@ -4927,7 +4867,7 @@
 			"type": "Sorcery",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/492.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/486.png"
 			}
 		},
 		{
@@ -4937,7 +4877,7 @@
 			"type": "Instant",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/493.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/487.png"
 			}
 		},
 		{
@@ -4947,7 +4887,7 @@
 			"type": "Sorcery",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/494.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/488.png"
 			}
 		},
 		{
@@ -4957,7 +4897,7 @@
 			"type": "Enchantment",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/495.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/489.png"
 			}
 		},
 		{
@@ -4967,7 +4907,7 @@
 			"type": "Legendary Enchantment Creature — Spirit Cat",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/496.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/490.png"
 			}
 		},
 		{
@@ -4977,7 +4917,7 @@
 			"type": "Instant",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/497.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/491.png"
 			}
 		},
 		{
@@ -4987,7 +4927,7 @@
 			"type": "Sorcery",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/498.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/492.png"
 			}
 		},
 		{
@@ -4997,7 +4937,7 @@
 			"type": "Legendary Creature — Avatar",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/499.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/493.png"
 			}
 		},
 		{
@@ -5007,7 +4947,7 @@
 			"type": "Sorcery",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/500.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/494.png"
 			}
 		},
 		{
@@ -5017,7 +4957,7 @@
 			"type": "Enchantment",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/501.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/495.png"
 			}
 		},
 		{
@@ -5027,17 +4967,17 @@
 			"type": "Sorcery",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/502.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/496.png"
 			}
 		},
 		{
 			"name": "Footprints of the Nightlord",
 			"rarity": "mythic",
 			"mana_cost": "{B}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/503.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/497.png"
 			}
 		},
 		{
@@ -5047,7 +4987,7 @@
 			"type": "Creature — Skeleton",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/504.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/498.png"
 			}
 		},
 		{
@@ -5057,7 +4997,7 @@
 			"type": "Enchantment",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/505.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/499.png"
 			}
 		},
 		{
@@ -5067,7 +5007,7 @@
 			"type": "Legendary Creature — Avatar Knight",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/506.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/500.png"
 			}
 		},
 		{
@@ -5077,7 +5017,7 @@
 			"type": "Legendary Creature — Insect",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/507.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/501.png"
 			}
 		},
 		{
@@ -5087,7 +5027,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/508.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/502.png"
 			}
 		},
 		{
@@ -5097,7 +5037,7 @@
 			"type": "Creature — Human Monk Wizard",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/509.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/503.png"
 			}
 		},
 		{
@@ -5107,7 +5047,7 @@
 			"type": "Enchantment",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/510.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/504.png"
 			}
 		},
 		{
@@ -5117,7 +5057,7 @@
 			"type": "Sorcery",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/511.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/505.png"
 			}
 		},
 		{
@@ -5127,7 +5067,7 @@
 			"type": "Enchantment",
 			"collector_number": "291",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/512.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/506.png"
 			}
 		},
 		{
@@ -5137,7 +5077,7 @@
 			"type": "Enchantment",
 			"collector_number": "296",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/513.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/507.png"
 			}
 		},
 		{
@@ -5147,7 +5087,7 @@
 			"type": "Legendary Creature — Mutant Human",
 			"collector_number": "342",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/514.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/508.png"
 			}
 		},
 		{
@@ -5157,7 +5097,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "347",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/515.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/509.png"
 			}
 		},
 		{
@@ -5167,7 +5107,7 @@
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "351",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/516.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/510.png"
 			}
 		},
 		{
@@ -5177,7 +5117,7 @@
 			"type": "Artifact",
 			"collector_number": "502",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/517.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/511.png"
 			}
 		},
 		{
@@ -5187,7 +5127,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "509",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/518.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/512.png"
 			}
 		},
 		{
@@ -5197,7 +5137,7 @@
 			"type": "Artifact",
 			"collector_number": "515",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/519.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/513.png"
 			}
 		},
 		{
@@ -5207,7 +5147,7 @@
 			"type": "Artifact",
 			"collector_number": "518",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/520.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/514.png"
 			}
 		},
 		{
@@ -5217,7 +5157,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "524",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/521.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/515.png"
 			}
 		},
 		{
@@ -5227,17 +5167,7 @@
 			"type": "Legendary Creature — Human",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/522.png"
-			}
-		},
-		{
-			"name": "Centipede Demon",
-			"rarity": "common",
-			"mana_cost": "{2}{B}{R}",
-			"type": "Legendary Creature — Insect Demon",
-			"collector_number": "36",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/523.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/516.png"
 			}
 		},
 		{
@@ -5247,7 +5177,7 @@
 			"type": "Enchantment",
 			"collector_number": "448",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/524.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/517.png"
 			}
 		},
 		{
@@ -5257,7 +5187,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/525.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/518.png"
 			}
 		},
 		{
@@ -5267,7 +5197,7 @@
 			"type": "Legendary Land",
 			"collector_number": "580",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/526.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/519.png"
 			}
 		},
 		{
@@ -5277,7 +5207,7 @@
 			"type": "Legendary Creature — Cat Beast Avatar",
 			"collector_number": "380",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/527.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/520.png"
 			}
 		},
 		{
@@ -5287,7 +5217,7 @@
 			"type": "Enchantment",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/528.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/521.png"
 			}
 		},
 		{
@@ -5297,7 +5227,7 @@
 			"type": "Legendary Creature — Centaur Knight",
 			"collector_number": "393",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/529.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/522.png"
 			}
 		},
 		{
@@ -5307,7 +5237,7 @@
 			"type": "Legendary Creature — God Avatar",
 			"collector_number": "441",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/530.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/523.png"
 			}
 		},
 		{
@@ -5317,7 +5247,7 @@
 			"type": "Legendary Creature — Human Wizard Knight",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/531.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/524.png"
 			}
 		},
 		{
@@ -5327,7 +5257,7 @@
 			"type": "Sorcery",
 			"collector_number": "308",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/532.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/525.png"
 			}
 		},
 		{
@@ -5337,7 +5267,7 @@
 			"type": "Legendary Land",
 			"collector_number": "555",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/533.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/526.png"
 			}
 		},
 		{
@@ -5347,7 +5277,7 @@
 			"type": "Legendary Land",
 			"collector_number": "536",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/534.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/527.png"
 			}
 		},
 		{
@@ -5357,7 +5287,7 @@
 			"type": "Legendary Creature — Dragon",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/535.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/528.png"
 			}
 		},
 		{
@@ -5367,7 +5297,7 @@
 			"type": "Sorcery",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/536.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/529.png"
 			}
 		},
 		{
@@ -5377,7 +5307,7 @@
 			"type": "Sorcery",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/537.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/530.png"
 			}
 		},
 		{
@@ -5387,7 +5317,7 @@
 			"type": "Sorcery",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/538.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/531.png"
 			}
 		},
 		{
@@ -5397,7 +5327,7 @@
 			"type": "Sorcery",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/539.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/532.png"
 			}
 		},
 		{
@@ -5407,7 +5337,7 @@
 			"type": "Sorcery",
 			"collector_number": "287",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/540.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/533.png"
 			}
 		},
 		{
@@ -5417,7 +5347,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/541.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/534.png"
 			}
 		},
 		{
@@ -5427,7 +5357,7 @@
 			"type": "Creature — Homunculus Warrior",
 			"collector_number": "288",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/542.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/535.png"
 			}
 		},
 		{
@@ -5437,7 +5367,7 @@
 			"type": "Legendary Artifact Creature — Golem",
 			"collector_number": "359",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/543.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/536.png"
 			}
 		},
 		{
@@ -5447,7 +5377,7 @@
 			"type": "Sorcery",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/544.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/537.png"
 			}
 		},
 		{
@@ -5457,7 +5387,7 @@
 			"type": "Instant",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/545.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/538.png"
 			}
 		},
 		{
@@ -5467,7 +5397,7 @@
 			"type": "Artifact Creature — Dragon Imp Golem",
 			"collector_number": "495",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/546.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/539.png"
 			}
 		},
 		{
@@ -5477,7 +5407,7 @@
 			"type": "Artifact Creature — Gargoyle",
 			"collector_number": "496",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/547.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/540.png"
 			}
 		},
 		{
@@ -5487,7 +5417,7 @@
 			"type": "Sorcery",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/548.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/541.png"
 			}
 		},
 		{
@@ -5497,7 +5427,7 @@
 			"type": "Legendary Land",
 			"collector_number": "540",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/549.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/542.png"
 			}
 		},
 		{
@@ -5507,7 +5437,7 @@
 			"type": "Legendary Land",
 			"collector_number": "541",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/550.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/543.png"
 			}
 		},
 		{
@@ -5517,7 +5447,7 @@
 			"type": "Legendary Creature — Dragon",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/551.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/544.png"
 			}
 		},
 		{
@@ -5527,7 +5457,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "498",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/552.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/545.png"
 			}
 		},
 		{
@@ -5537,7 +5467,7 @@
 			"type": "Legendary Land",
 			"collector_number": "542",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/553.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/546.png"
 			}
 		},
 		{
@@ -5547,7 +5477,7 @@
 			"type": "Legendary Land",
 			"collector_number": "543",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/554.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/547.png"
 			}
 		},
 		{
@@ -5557,7 +5487,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/555.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/548.png"
 			}
 		},
 		{
@@ -5567,7 +5497,7 @@
 			"type": "Legendary Creature — Centaur Knight",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/556.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/549.png"
 			}
 		},
 		{
@@ -5577,7 +5507,7 @@
 			"type": "Creature — Human Bat",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/557.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/550.png"
 			}
 		},
 		{
@@ -5587,7 +5517,7 @@
 			"type": "Legendary Land",
 			"collector_number": "545",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/558.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/551.png"
 			}
 		},
 		{
@@ -5597,7 +5527,7 @@
 			"type": "Legendary Land",
 			"collector_number": "548",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/559.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/552.png"
 			}
 		},
 		{
@@ -5607,7 +5537,7 @@
 			"type": "Enchantment",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/560.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/553.png"
 			}
 		},
 		{
@@ -5617,7 +5547,7 @@
 			"type": "Legendary Land",
 			"collector_number": "551",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/561.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/554.png"
 			}
 		},
 		{
@@ -5627,7 +5557,7 @@
 			"type": "Creature — Human Dragon Knight",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/562.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/555.png"
 			}
 		},
 		{
@@ -5637,7 +5567,7 @@
 			"type": "Sorcery",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/563.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/556.png"
 			}
 		},
 		{
@@ -5647,7 +5577,7 @@
 			"type": "Sorcery",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/564.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/557.png"
 			}
 		},
 		{
@@ -5657,7 +5587,7 @@
 			"type": "Legendary Creature — Serpent",
 			"collector_number": "304",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/565.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/558.png"
 			}
 		},
 		{
@@ -5667,7 +5597,7 @@
 			"type": "Enchantment",
 			"collector_number": "309",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/566.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/559.png"
 			}
 		},
 		{
@@ -5677,7 +5607,7 @@
 			"type": "Sorcery",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/567.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/560.png"
 			}
 		},
 		{
@@ -5687,7 +5617,7 @@
 			"type": "Enchantment",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/568.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/561.png"
 			}
 		},
 		{
@@ -5697,7 +5627,7 @@
 			"type": "Creature — Leech Wizard",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/569.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/562.png"
 			}
 		},
 		{
@@ -5707,7 +5637,7 @@
 			"type": "Legendary Land",
 			"collector_number": "556",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/570.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/563.png"
 			}
 		},
 		{
@@ -5717,7 +5647,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/571.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/564.png"
 			}
 		},
 		{
@@ -5727,7 +5657,7 @@
 			"type": "Legendary Land",
 			"collector_number": "560",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/572.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/565.png"
 			}
 		},
 		{
@@ -5737,7 +5667,7 @@
 			"type": "Legendary Land",
 			"collector_number": "561",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/573.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/566.png"
 			}
 		},
 		{
@@ -5747,7 +5677,7 @@
 			"type": "Creature — Zombie Dragon",
 			"collector_number": "394",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/574.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/567.png"
 			}
 		},
 		{
@@ -5757,7 +5687,7 @@
 			"type": "Sorcery",
 			"collector_number": "313",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/575.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/568.png"
 			}
 		},
 		{
@@ -5767,7 +5697,7 @@
 			"type": "Legendary Creature — Demigod",
 			"collector_number": "314",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/576.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/569.png"
 			}
 		},
 		{
@@ -5777,7 +5707,7 @@
 			"type": "Enchantment",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/577.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/570.png"
 			}
 		},
 		{
@@ -5787,7 +5717,7 @@
 			"type": "Legendary Land",
 			"collector_number": "562",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/578.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/571.png"
 			}
 		},
 		{
@@ -5797,7 +5727,7 @@
 			"type": "Creature — Hippo Beast",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/579.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/572.png"
 			}
 		},
 		{
@@ -5807,7 +5737,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "510",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/580.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/573.png"
 			}
 		},
 		{
@@ -5817,7 +5747,7 @@
 			"type": "Artifact Creature — Golem Artificer",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/581.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/574.png"
 			}
 		},
 		{
@@ -5827,7 +5757,7 @@
 			"type": "Creature — Donkey Mount",
 			"collector_number": "316",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/582.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/575.png"
 			}
 		},
 		{
@@ -5837,7 +5767,7 @@
 			"type": "Legendary Land",
 			"collector_number": "563",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/583.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/576.png"
 			}
 		},
 		{
@@ -5847,7 +5777,7 @@
 			"type": "Creature — Zombie Wizard Orb",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/584.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/577.png"
 			}
 		},
 		{
@@ -5857,7 +5787,7 @@
 			"type": "Legendary Land",
 			"collector_number": "564",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/585.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/578.png"
 			}
 		},
 		{
@@ -5867,7 +5797,7 @@
 			"type": "Creature — Mutant Warrior",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/586.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/579.png"
 			}
 		},
 		{
@@ -5877,7 +5807,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "512",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/587.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/580.png"
 			}
 		},
 		{
@@ -5887,7 +5817,7 @@
 			"type": "Instant",
 			"collector_number": "410",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/588.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/581.png"
 			}
 		},
 		{
@@ -5897,7 +5827,7 @@
 			"type": "Legendary Creature — Angel",
 			"collector_number": "413",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/589.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/582.png"
 			}
 		},
 		{
@@ -5907,7 +5837,7 @@
 			"type": "Legendary Creature — Angel Horror",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/590.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/583.png"
 			}
 		},
 		{
@@ -5917,7 +5847,7 @@
 			"type": "Legendary Land",
 			"collector_number": "566",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/591.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/584.png"
 			}
 		},
 		{
@@ -5927,7 +5857,7 @@
 			"type": "Creature — Insect Cleric",
 			"collector_number": "326",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/592.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/585.png"
 			}
 		},
 		{
@@ -5937,7 +5867,7 @@
 			"type": "Instant",
 			"collector_number": "424",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/593.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/586.png"
 			}
 		},
 		{
@@ -5947,7 +5877,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "328",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/594.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/587.png"
 			}
 		},
 		{
@@ -5957,7 +5887,7 @@
 			"type": "Legendary Enchantment Land — Saga",
 			"collector_number": "571",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/595.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/588.png"
 			}
 		},
 		{
@@ -5967,7 +5897,7 @@
 			"type": "Sorcery",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/596.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/589.png"
 			}
 		},
 		{
@@ -5977,7 +5907,7 @@
 			"type": "Legendary Creature — Mutant Demigod",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/597.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/590.png"
 			}
 		},
 		{
@@ -5987,7 +5917,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/598.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/591.png"
 			}
 		},
 		{
@@ -5997,7 +5927,7 @@
 			"type": "Enchantment",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/599.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/592.png"
 			}
 		},
 		{
@@ -6007,7 +5937,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "522",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/600.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/593.png"
 			}
 		},
 		{
@@ -6017,7 +5947,7 @@
 			"type": "Creature — Mutant Warrior",
 			"collector_number": "333",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/601.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/594.png"
 			}
 		},
 		{
@@ -6027,7 +5957,7 @@
 			"type": "Legendary Land",
 			"collector_number": "575",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/602.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/595.png"
 			}
 		},
 		{
@@ -6037,7 +5967,7 @@
 			"type": "Creature — Dog Horror",
 			"collector_number": "334",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/603.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/596.png"
 			}
 		},
 		{
@@ -6047,7 +5977,7 @@
 			"type": "Instant",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/604.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/597.png"
 			}
 		},
 		{
@@ -6057,7 +5987,7 @@
 			"type": "Sorcery",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/605.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/598.png"
 			}
 		},
 		{
@@ -6067,7 +5997,7 @@
 			"type": "Enchantment",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/606.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/599.png"
 			}
 		},
 		{
@@ -6077,7 +6007,7 @@
 			"type": "Sorcery",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/607.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/600.png"
 			}
 		},
 		{
@@ -6087,7 +6017,7 @@
 			"type": "Creature — Mutant Bard",
 			"collector_number": "339",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/608.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/601.png"
 			}
 		},
 		{
@@ -6097,7 +6027,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/609.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/602.png"
 			}
 		},
 		{
@@ -6107,7 +6037,7 @@
 			"type": "Enchantment",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/610.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/603.png"
 			}
 		},
 		{
@@ -6117,7 +6047,7 @@
 			"type": "Legendary Creature — Zombie Avatar",
 			"collector_number": "457",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/611.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/604.png"
 			}
 		},
 		{
@@ -6127,7 +6057,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/612.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/605.png"
 			}
 		},
 		{
@@ -6137,7 +6067,7 @@
 			"type": "Legendary Land",
 			"collector_number": "583",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/613.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/606.png"
 			}
 		},
 		{
@@ -6147,7 +6077,7 @@
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/614.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/607.png"
 			}
 		},
 		{
@@ -6157,7 +6087,7 @@
 			"type": "Legendary Land",
 			"collector_number": "584",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/615.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/608.png"
 			}
 		},
 		{
@@ -6167,7 +6097,7 @@
 			"type": "Legendary Land",
 			"collector_number": "587",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/616.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/609.png"
 			}
 		},
 		{
@@ -6177,7 +6107,7 @@
 			"type": "Sorcery",
 			"collector_number": "273",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/617.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/610.png"
 			}
 		},
 		{
@@ -6187,7 +6117,7 @@
 			"type": "Legendary Creature — Homunculus Wizard",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/618.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/611.png"
 			}
 		},
 		{
@@ -6197,7 +6127,7 @@
 			"type": "Legendary Land",
 			"collector_number": "588",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/619.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/612.png"
 			}
 		},
 		{
@@ -6207,7 +6137,7 @@
 			"type": "Legendary Land",
 			"collector_number": "589",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/620.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/613.png"
 			}
 		},
 		{
@@ -6217,7 +6147,7 @@
 			"type": "Instant",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/621.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/614.png"
 			}
 		},
 		{
@@ -6227,7 +6157,7 @@
 			"type": "Legendary Land",
 			"collector_number": "590",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/622.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/615.png"
 			}
 		},
 		{
@@ -6237,7 +6167,7 @@
 			"type": "Legendary Land",
 			"collector_number": "593",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/623.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/616.png"
 			}
 		},
 		{
@@ -6247,7 +6177,7 @@
 			"type": "Legendary Land",
 			"collector_number": "594",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/624.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/617.png"
 			}
 		},
 		{
@@ -6257,7 +6187,7 @@
 			"type": "Legendary Land",
 			"collector_number": "595",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/625.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/618.png"
 			}
 		},
 		{
@@ -6267,7 +6197,7 @@
 			"type": "Legendary Land",
 			"collector_number": "596",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/626.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/619.png"
 			}
 		},
 		{
@@ -6277,7 +6207,7 @@
 			"type": "Creature — Troll Warrior",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/627.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/620.png"
 			}
 		},
 		{
@@ -6287,7 +6217,7 @@
 			"type": "Artifact Creature — Elf",
 			"collector_number": "529",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/628.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/621.png"
 			}
 		},
 		{
@@ -6297,7 +6227,7 @@
 			"type": "Legendary Creature — Zombie Avatar",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/629.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/622.png"
 			}
 		},
 		{
@@ -6307,7 +6237,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/630.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/623.png"
 			}
 		},
 		{
@@ -6317,7 +6247,7 @@
 			"type": "Enchantment",
 			"collector_number": "278",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/631.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/624.png"
 			}
 		},
 		{
@@ -6327,7 +6257,7 @@
 			"type": "Legendary Creature — Demigod",
 			"collector_number": "397",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/632.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/625.png"
 			}
 		},
 		{
@@ -6337,7 +6267,7 @@
 			"type": "Legendary Land",
 			"collector_number": "573",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/633.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/626.png"
 			}
 		},
 		{
@@ -6347,7 +6277,7 @@
 			"type": "Legendary Enchantment Creature — Avatar",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/634.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/627.png"
 			}
 		},
 		{
@@ -6357,7 +6287,7 @@
 			"type": "Legendary Creature — Avatar Horror",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/635.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/628.png"
 			}
 		},
 		{
@@ -6367,7 +6297,7 @@
 			"type": "Legendary Creature — Avatar Horror",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/636.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/629.png"
 			}
 		},
 		{
@@ -6377,7 +6307,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "534",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/637.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/630.png"
 			}
 		},
 		{
@@ -6387,7 +6317,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/638.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/631.png"
 			}
 		},
 		{
@@ -6397,7 +6327,7 @@
 			"type": "Sorcery",
 			"collector_number": "352",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/639.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/632.png"
 			}
 		},
 		{
@@ -6407,7 +6337,7 @@
 			"type": "Instant",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/640.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/633.png"
 			}
 		},
 		{
@@ -6417,7 +6347,7 @@
 			"type": "Creature — Plant Spirit",
 			"collector_number": "355",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/641.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/634.png"
 			}
 		},
 		{
@@ -6427,7 +6357,7 @@
 			"type": "Legendary Creature — Human Cleric",
 			"collector_number": "484",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/642.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/635.png"
 			}
 		},
 		{
@@ -6437,7 +6367,7 @@
 			"type": "Sorcery",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/643.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/636.png"
 			}
 		},
 		{
@@ -6447,7 +6377,7 @@
 			"type": "Legendary Land",
 			"collector_number": "598",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/644.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/637.png"
 			}
 		},
 		{
@@ -6457,7 +6387,7 @@
 			"type": "Legendary Creature — Human Dragon",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/645.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/638.png"
 			}
 		},
 		{
@@ -6467,7 +6397,7 @@
 			"type": "Sorcery",
 			"collector_number": "283",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/646.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/639.png"
 			}
 		},
 		{
@@ -6477,7 +6407,7 @@
 			"type": "Artifact Creature — Wall",
 			"collector_number": "488",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/647.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/640.png"
 			}
 		},
 		{
@@ -6487,7 +6417,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/648.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/641.png"
 			}
 		},
 		{
@@ -6497,7 +6427,7 @@
 			"type": "Legendary Land",
 			"collector_number": "600",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/649.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/642.png"
 			}
 		},
 		{
@@ -6507,7 +6437,7 @@
 			"type": "Sorcery — Lesson",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/650.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/643.png"
 			}
 		},
 		{
@@ -6517,7 +6447,7 @@
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "491",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/651.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/644.png"
 			}
 		},
 		{
@@ -6527,7 +6457,7 @@
 			"type": "Instant",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/652.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/645.png"
 			}
 		},
 		{
@@ -6537,7 +6467,7 @@
 			"type": "Legendary Creature — Serpent Rogue",
 			"collector_number": "286",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/653.png"
+				"en": "https://ProvocativeMTG.github.io/sets/EDRC-files/img/646.png"
 			}
 		}
 	]

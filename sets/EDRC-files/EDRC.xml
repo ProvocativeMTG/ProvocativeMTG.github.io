@@ -5,7 +5,7 @@
 			<name>EDRC</name>
 			<longname>The Elden Ring Commander Cube</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-04-13</releasedate>
+			<releasedate>2026-04-15</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2011,7 +2011,7 @@ The first enchantment spell you cast each turn has demonstrate. (When you cast y
 		<card>
 			<name>Spider Horror EDRC</name>
 			<text></text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/114.png" num="27">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/114.png" num="24">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2310,7 +2310,7 @@ Historic spells you cast from exile have undaunted. (Artifacts, legendaries, and
 		<card>
 			<name>Warrior Army EDRC</name>
 			<text></text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/131.png" num="28">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/131.png" num="25">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4513,7 +4513,7 @@ Landfall — Whenever a land you control enters, this creature deals 1 damage to
 		<card>
 			<name>Serpent EDRC</name>
 			<text></text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/256.png" num="24">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/256.png" num="22">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5769,7 +5769,7 @@ Threshold — As long as your graveyard has seven or more cards in it, this crea
 		<card>
 			<name>Clue EDRC</name>
 			<text>{2}, Sacrifice this artifact: Draw a card.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/328.png" num="42">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/328.png" num="35">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5856,7 +5856,7 @@ If you would lose unspent mana, that mana becomes green instead.</text>
 		<card>
 			<name>Food EDRC</name>
 			<text>{2}, Sacrifice this artifact: You gain 3 life.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/333.png" num="44">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/333.png" num="37">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5871,7 +5871,7 @@ If you would lose unspent mana, that mana becomes green instead.</text>
 		<card>
 			<name>Dragon Warrior EDRC</name>
 			<text></text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/334.png" num="31">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/334.png" num="28">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6332,7 +6332,7 @@ III — Exile up to one target instant or sorcery card from your graveyard. Copy
 		<card>
 			<name>Treasure EDRC</name>
 			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/360.png" num="47">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/360.png" num="40">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6381,7 +6381,7 @@ Flashback {R} (You may cast this card from your graveyard for its flashback cost
 		<card>
 			<name>Demigod EDRC</name>
 			<text></text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/363.png" num="16">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/363.png" num="18">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6518,7 +6518,7 @@ Harmonize {5}{B} (You may cast this card from your graveyard for its harmonize c
 		<card>
 			<name>Golden Braid EDRC</name>
 			<text>{W}, {T}: Return target creature card with mana value 2 or less from your graveyard to the battlefield. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/371.png" num="45">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/371.png" num="38">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6622,7 +6622,7 @@ Until end of turn, your life total can&apos;t change and you have protection fro
 		<card>
 			<name>Demigod EDRC</name>
 			<text></text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/377.png" num="17">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/377.png" num="20">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6640,7 +6640,7 @@ Until end of turn, your life total can&apos;t change and you have protection fro
 		<card>
 			<name>Demigod EDRC</name>
 			<text></text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/378.png" num="18">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/378.png" num="21">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6658,7 +6658,7 @@ Until end of turn, your life total can&apos;t change and you have protection fro
 		<card>
 			<name>Demigod EDRC</name>
 			<text></text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/379.png" num="19">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/379.png" num="12">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6676,7 +6676,7 @@ Until end of turn, your life total can&apos;t change and you have protection fro
 		<card>
 			<name>Demigod EDRC</name>
 			<text></text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/380.png" num="20">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/380.png" num="19">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6742,7 +6742,7 @@ Until end of turn, your life total can&apos;t change and you have protection fro
 		<card>
 			<name>Demigod EDRC</name>
 			<text></text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/384.png" num="21">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/384.png" num="17">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6760,7 +6760,7 @@ Until end of turn, your life total can&apos;t change and you have protection fro
 		<card>
 			<name>Demigod EDRC</name>
 			<text></text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/385.png" num="15">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/385.png" num="16">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6778,7 +6778,7 @@ Until end of turn, your life total can&apos;t change and you have protection fro
 		<card>
 			<name>Demigod EDRC</name>
 			<text></text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/386.png" num="12">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/386.png" num="15">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6796,7 +6796,7 @@ Until end of turn, your life total can&apos;t change and you have protection fro
 		<card>
 			<name>Demigod EDRC</name>
 			<text></text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/387.png" num="13">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/387.png" num="14">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6814,7 +6814,7 @@ Until end of turn, your life total can&apos;t change and you have protection fro
 		<card>
 			<name>Demigod EDRC</name>
 			<text></text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/388.png" num="14">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/388.png" num="13">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6936,7 +6936,7 @@ When this creature dies, create five 3/3 black Demigod creature tokens.</text>
 		<card>
 			<name>Soldier EDRC</name>
 			<text>Haste</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/395.png" num="30">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/395.png" num="27">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7053,7 +7053,7 @@ Each nonland card you own that isn&apos;t on the battlefield has madness {2}{R}.
 		<card>
 			<name>Wolf EDRC</name>
 			<text></text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/402.png" num="34">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/402.png" num="31">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7071,7 +7071,7 @@ Each nonland card you own that isn&apos;t on the battlefield has madness {2}{R}.
 		<card>
 			<name>Human Warrior EDRC</name>
 			<text></text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/403.png" num="39">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/403.png" num="33">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7089,7 +7089,7 @@ Each nonland card you own that isn&apos;t on the battlefield has madness {2}{R}.
 		<card>
 			<name>Skeleton EDRC</name>
 			<text></text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/404.png" num="25">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/404.png" num="23">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7107,7 +7107,7 @@ Each nonland card you own that isn&apos;t on the battlefield has madness {2}{R}.
 		<card>
 			<name>Dragon EDRC</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/405.png" num="29">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/405.png" num="26">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7125,7 +7125,7 @@ Each nonland card you own that isn&apos;t on the battlefield has madness {2}{R}.
 		<card>
 			<name>Blood EDRC</name>
 			<text>{1}, {T}, Discard a card, Sacrifice this token: Draw a card.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/406.png" num="41">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/406.png" num="34">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7140,7 +7140,7 @@ Each nonland card you own that isn&apos;t on the battlefield has madness {2}{R}.
 		<card>
 			<name>Map EDRC</name>
 			<text>{1}, {T}, Sacrifice this token: Target creature you control explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/407.png" num="46">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/407.png" num="39">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7155,7 +7155,7 @@ Each nonland card you own that isn&apos;t on the battlefield has madness {2}{R}.
 		<card>
 			<name>Everywhere EDRC</name>
 			<text>This land is a Plains, Island, Swamp, Mountain, and Forest. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/408.png" num="48">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/408.png" num="41">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7475,107 +7475,10 @@ Landfall — Whenever a nontoken land you control enters, create a tapped colorl
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>King of the Storm EDRC</name>
-			<text>Partner with Nameless King (When this creature enters, target player may put Nameless King into their hand from their library, then shuffle.)
-Flying
-Whenever King of the Storm attacks, you may sacrifice another creature. If you do, draw two cards.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/427.png" num="23">EDRC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Dragon</type>
-				<maintype>Creature</maintype>
-				<manacost>4B</manacost>
-				<cmc>5</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-				<pt>5/5</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
-			<name>Gaping Dragon EDRC</name>
-			<text>Trample
-Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)
-Whenever an opponent casts a noncreature spell, they get two poison counters.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/428.png" num="38">EDRC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Dragon</type>
-				<maintype>Creature</maintype>
-				<manacost>1BG</manacost>
-				<cmc>3</cmc>
-				<colors>BG</colors>
-				<coloridentity>BG</coloridentity>
-				<pt>4/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
-			<name>Nameless King EDRC</name>
-			<text>Partner with King of the Storm (When this creature enters, target player may put King into their hand from their library, then shuffle.)
-When Nameless King enters, you become the monarch.
-Whenever a creature you control dies, if you&apos;re the monarch, each opponent sacrifices a creature.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/429.png" num="40">EDRC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — God</type>
-				<maintype>Creature</maintype>
-				<manacost>4WB</manacost>
-				<cmc>6</cmc>
-				<colors>WB</colors>
-				<coloridentity>WB</coloridentity>
-				<pt>6/6</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
-			<name>Dancer of the Boreal Valley EDRC</name>
-			<text>Once during each of your turns, you may cast a copy of the spell most recently cast this turn. (Timing rules still apply.)</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/430.png" num="37">EDRC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Horror Rogue</type>
-				<maintype>Creature</maintype>
-				<manacost>2UB</manacost>
-				<cmc>4</cmc>
-				<colors>UB</colors>
-				<coloridentity>UB</coloridentity>
-				<pt>4/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
-			<name>Smelter Demon EDRC</name>
-			<text>Indestructible, trample
-At the beginning of your upkeep, put a +1/+1 counter on Smelter Demon, then each opponent loses life equal to its power.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/431.png" num="26">EDRC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Artifact Creature — Golem</type>
-				<maintype>Creature</maintype>
-				<manacost>3B</manacost>
-				<cmc>4</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
 			<name>Snow Witch</name>
 			<text>{T}: Add one mana of any color.
 Coven — As long as you control three or more creatures with different powers, other creatures you control have &quot;{T}: Add one mana of any color.&quot;</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/432.png" num="349">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/427.png" num="349">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7593,7 +7496,7 @@ Coven — As long as you control three or more creatures with different powers, 
 			<name>Fallingstar Beast</name>
 			<text>Whenever you cast your first instant or sorcery spell each turn, copy it. You may choose new targets for the copy.
 If you casting an instant or sorcery spell causes a triggered ability of another permanent you control to trigger, that ability triggers an additional time.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/433.png" num="92">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/428.png" num="92">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7612,7 +7515,7 @@ If you casting an instant or sorcery spell causes a triggered ability of another
 			<text>{T}: Add {C}.
 {T}, Pay 1 life: Add {B} or {G}.
 Channel — {3}{B}{G}, Discard this card: Create two tapped colorless land tokens named Everywhere that are every basic land type.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/434.png" num="586">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/429.png" num="586">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7629,7 +7532,7 @@ Channel — {3}{B}{G}, Discard this card: Create two tapped colorless land token
 			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
 Exile all creatures that didn&apos;t convoke this spell. You become the monarch.
 If you control an artifact named The Elden Ring, you win the game.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/435.png" num="451">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/430.png" num="451">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7646,7 +7549,7 @@ If you control an artifact named The Elden Ring, you win the game.</text>
 			<name>Radagon of the Golden Order</name>
 			<text>When Radagon enters, you may search your library and/or graveyard for a card named The Elden Ring, put it onto the battlefield, then shuffle.
 Exile a card from your graveyard: Add {B}. Spend this mana only to cast an artifact or legendary spell or activate an ability of an artifact or legendary source.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/436.png" num="199">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/431.png" num="199">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7663,7 +7566,7 @@ Exile a card from your graveyard: Add {B}. Spend this mana only to cast an artif
 		<card>
 			<name>Mend the Elden Ring</name>
 			<text>Choose X target permanent cards in your graveyard that were put there from the battlefield this turn. Return them to the battlefield tapped.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/437.png" num="38">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/432.png" num="38">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7678,10 +7581,10 @@ Exile a card from your graveyard: Add {B}. Spend this mana only to cast an artif
 		</card>
 		<card>
 			<name>Heolstor, the Nightlord</name>
-			<text>Eminence — At the start of the game, if this card is in your command zone, conjure any number of different Dark Souls cards and shuffle them into your library.
+			<text>Eminence — At the start of the game, if Heolstor is in your command zone, you may exile a legendary creature card you own from outside the game with a rift counter on it.
 Menace, ward {3}
-Whenever Heolstor enters or attacks, look at the top card of your library, then you may cast a spell from your hand or the top of your library without paying its mana cost.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/438.png" num="414">EDRC</set>
+Whenever Heolstor enters or attacks, you may create a token that&apos;s a copy of creature card you own in exile with a rift counter on it, except the copy isn&apos;t legendary.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/433.png" num="414">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7696,29 +7599,10 @@ Whenever Heolstor enters or attacks, look at the top card of your library, then 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Duke&apos;s Dear Freja EDRC</name>
-			<text>Whenever a creature an opponent controls dies, exile it and create a 1/2 black Spider Horror creature token.
-Whenever a Spider you control attacks, each opponent loses 1 life.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/439.png" num="22">EDRC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Spider Demon</type>
-				<maintype>Creature</maintype>
-				<manacost>3B</manacost>
-				<cmc>4</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-				<pt>2/8</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
 			<name>Crumbling Farum Azula</name>
 			<text>Whenever you cast a Dragon spell, you may return this card from your graveyard to the battlefield tapped.
 {T}, Sacrifice Crumbling Farum Azula: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/440.png" num="550">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/434.png" num="550">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7733,7 +7617,7 @@ Whenever a Spider you control attacks, each opponent loses 1 life.</text>
 			<name>Maris, Master of Bubbles</name>
 			<text>Flying
 If an ability of a tapped permanent you control triggers, that ability triggers an additional time.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/441.png" num="104">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/435.png" num="104">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7752,7 +7636,7 @@ If an ability of a tapped permanent you control triggers, that ability triggers 
 			<text>Consecrated Snowfield enters tapped.
 {T}: Add {B}, {G}, or {U}.
 {4}, {T}, Sacrifice Consecrated Snowfield: If there is no monarch, you become the monarch. Otherwise, draw a card. (The monarch draws a card at the beginning of their end step. Whenever the monarch is dealt combat damage by a creature, its controller becomes the monarch.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/442.png" num="549">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/436.png" num="549">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7767,7 +7651,7 @@ If an ability of a tapped permanent you control triggers, that ability triggers 
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/443.png" num="0">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/437.png" num="0">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7782,7 +7666,7 @@ If an ability of a tapped permanent you control triggers, that ability triggers 
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/444.png" num="0">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/438.png" num="0">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7799,7 +7683,7 @@ If an ability of a tapped permanent you control triggers, that ability triggers 
 			<text>Altus Plateau enters tapped.
 {T}: Add {G}, {W} or {U}.
 {4}, {T}, Sacrifice Altus Plateau: If there is no monarch, you become the monarch. Otherwise, draw a card. (The monarch draws a card at the beginning of their end step. Whenever the monarch is dealt combat damage by a creature, its controller becomes the monarch.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/445.png" num="537">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/439.png" num="537">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7817,7 +7701,7 @@ If an ability of a tapped permanent you control triggers, that ability triggers 
 I — Mill five cards.
 II — Return all land cards from your graveyard to the battlefield tapped.
 III — Separate your graveyard into two piles. An opponent chooses one of those piles. Return the chosen pile to your hand and leave the other in your graveyard.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/446.png" num="327">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/440.png" num="327">EDRC</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -7834,7 +7718,7 @@ III — Separate your graveyard into two piles. An opponent chooses one of those
 			<name>A New Journey</name>
 			<text>Hideaway 5 (When this enchantment enters, look at the top five cards of your library, exile one face down, then put the rest on the bottom in a random order.)
 Whenever you create one or more tokens, create a 2/2 white Knight creature token. Then if you control five or more tokens, you may cast the exiled card without paying its mana cost. This ability triggers only once each turn.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/447.png" num="44">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/441.png" num="44">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7851,7 +7735,7 @@ Whenever you create one or more tokens, create a 2/2 white Knight creature token
 			<name>In Search of Purpose</name>
 			<text>At the beginning of your upkeep, you create a Treasure token and lose 1 life.
 Once each turn, you may cast a creature spell from your graveyard. You may only spend mana from nonland sources to do so.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/448.png" num="177">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/442.png" num="177">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7868,7 +7752,7 @@ Once each turn, you may cast a creature spell from your graveyard. You may only 
 			<name>Melina and Torrent</name>
 			<text>Vigilance
 {T}: Add four mana in any combination of colors. Spend this mana only to cast historic spells. (Artifacts, legendaries, and Sagas are historic.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/449.png" num="434">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/443.png" num="434">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7887,7 +7771,7 @@ Once each turn, you may cast a creature spell from your graveyard. You may only 
 			<text>Flying, trample
 Whenever you cast a noncreature spell, creatures your opponents control get -1/-1 until end of turn.
 Whenever a creature an opponent controls dies, put a +1/+1 counter on Adel and you gain 1 life.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/450.png" num="358">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/444.png" num="358">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7905,7 +7789,7 @@ Whenever a creature an opponent controls dies, put a +1/+1 counter on Adel and y
 			<name>Ironeye</name>
 			<text>Reach
 Whenever one or more creatures you control deal combat damage to a player, create a Treasure token. If you have a full party, create three Treasure tokens instead. (Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/451.png" num="251">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/445.png" num="251">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7922,7 +7806,7 @@ Whenever one or more creatures you control deal combat damage to a player, creat
 		<card>
 			<name>Fire Knight Captain</name>
 			<text>Whenever another creature you control enters, this creature deals 1 damage to each opponent.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/452.png" num="238">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/446.png" num="238">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7941,7 +7825,7 @@ Whenever one or more creatures you control deal combat damage to a player, creat
 			<text>Jarburg enters tapped.
 {T}: Add {G}, {U}, or {R}.
 {4}, {T}, Sacrifice Jarburg: If there is no monarch, you become the monarch. Otherwise, draw a card. (The monarch draws a card at the beginning of their end step. Whenever the monarch is dealt combat damage by a creature, its controller becomes the monarch.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/453.png" num="567">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/447.png" num="567">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7958,7 +7842,7 @@ Whenever one or more creatures you control deal combat damage to a player, creat
 			<text>Wailing Dunes enters tapped.
 {T}: Add {B}, {R}, or {G}.
 {4}, {T}, Sacrifice Wailing Dunes: If there is no monarch, you become the monarch. Otherwise, draw a card. (The monarch draws a card at the beginning of their end step. Whenever the monarch is dealt combat damage by a creature, its controller becomes the monarch.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/454.png" num="599">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/448.png" num="599">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7975,7 +7859,7 @@ Whenever one or more creatures you control deal combat damage to a player, creat
 			<text>Trample
 When this creature enters or leaves the battlefield, each opponent sacrifices a nonland permanent with the greatest mana value among permanents they control.
 Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/455.png" num="493">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/449.png" num="493">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7992,7 +7876,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 			<text>Redmane Castle enters tapped.
 {T}: Add {R}, {G}, or {W}.
 {4}, {T}, Sacrifice Redmane Castle: If there is no monarch, you become the monarch. Otherwise, draw a card. (The monarch draws a card at the beginning of their end step. Whenever the monarch is dealt combat damage by a creature, its controller becomes the monarch.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/456.png" num="581">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/450.png" num="581">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8009,7 +7893,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 			<text>Elphael, Brace of the Haligtree enters tapped.
 {T}: Add {U}, {R}, or {W}.
 {4}, {T}, Sacrifice Elphael, Brace of the Haligtree: If there is no monarch, you become the monarch. Otherwise, draw a card. (The monarch draws a card at the beginning of their end step. Whenever the monarch is dealt combat damage by a creature, its controller becomes the monarch.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/457.png" num="553">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/451.png" num="553">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8026,7 +7910,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 			<text>Leyndell, Ashen Capital enters tapped.
 {T}: Add {R}, {W}, or {B}.
 {4}, {T}, Sacrifice Leyndell, Ashen Capital: If there is no monarch, you become the monarch. Otherwise, draw a card. (The monarch draws a card at the beginning of their end step. Whenever the monarch is dealt combat damage by a creature, its controller becomes the monarch.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/458.png" num="569">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/452.png" num="569">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8043,7 +7927,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 			<text>Flying
 Whenever you cast a noncreature spell, create a colorless land token named Everywhere that is every basic land type.
 When Gnoster dies, create Faurtis Stoneshield, a legendary X/X green Scorpion creature token with trample, where X is the number of lands you control.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/459.png" num="398">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/453.png" num="398">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8063,7 +7947,7 @@ When Gnoster dies, create Faurtis Stoneshield, a legendary X/X green Scorpion cr
 Whenever this creature or another creature you control enters, choose one—
 • Put X +1/+1 counters on that creature, where X is its power.
 • Put a shield counter on that creature. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/460.png" num="416">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/454.png" num="416">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8081,7 +7965,7 @@ Whenever this creature or another creature you control enters, choose one—
 			<name>Empyrean Bond</name>
 			<text>Landfall — Whenever a land you control enters, create a 2/2 white Knight creature token.
 Whenever you tap a land for mana, add one mana of any type that land produced.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/461.png" num="305">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/455.png" num="305">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8098,7 +7982,7 @@ Whenever you tap a land for mana, add one mana of any type that land produced.</
 			<name>Silver Tear Seal</name>
 			<text>Enchant creature
 Enchanted creature loses all abilities and is goaded. (That creature attacks each combat if able and attacks a player other than you if able.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/462.png" num="126">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/456.png" num="126">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8114,7 +7998,7 @@ Enchanted creature loses all abilities and is goaded. (That creature attacks eac
 		<card>
 			<name>Sunder Reality</name>
 			<text>For each player&apos;s commander, create a token that&apos;s a copy of it, except the token isn&apos;t legendary.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/463.png" num="135">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/457.png" num="135">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8130,7 +8014,7 @@ Enchanted creature loses all abilities and is goaded. (That creature attacks eac
 		<card>
 			<name>Iron Menial</name>
 			<text>If you would create one or more tokens, instead create that many tokens plus a 0/0 colorless Construct artifact creature token with &quot;This creature gets +1/+1 for each artifact you control.&quot;</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/464.png" num="514">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/458.png" num="514">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8145,7 +8029,7 @@ Enchanted creature loses all abilities and is goaded. (That creature attacks eac
 		<card>
 			<name>Construct EDRC</name>
 			<text>This token gets +1/+1 for each artifact you control.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/465.png" num="43">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/459.png" num="36">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8161,7 +8045,7 @@ Enchanted creature loses all abilities and is goaded. (That creature attacks eac
 		<card>
 			<name>Faurtis Stoneshield EDRC</name>
 			<text>Trample</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/466.png" num="32">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/460.png" num="29">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8180,7 +8064,7 @@ Enchanted creature loses all abilities and is goaded. (That creature attacks eac
 			<name>Serve the Gods</name>
 			<text>When this enchantment enters, amass Warriors X, where X is your devotion to white. (Put a +1/+1 counter on an Army you control for each {W} in the mana costs of permanents you control. It&apos;s also a Warrior. If you don&apos;t control an Army, create a 0/0 black Warrior Army creature token first. )
 Whenever a creature you control dies, if it had counters on it, put those counters on up to one target creature.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/467.png" num="57">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/461.png" num="57">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8197,7 +8081,7 @@ Whenever a creature you control dies, if it had counters on it, put those counte
 			<name>Small Jar Bazaar</name>
 			<text>At the beginning of each player&apos;s end step, they create a tapped Treasure token if they attacked one of your opponents this turn.
 Whenever a player spends mana from one or more Treasures to cast a spell, each other player draws a card.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/468.png" num="527">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/462.png" num="527">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8212,7 +8096,7 @@ Whenever a player spends mana from one or more Treasures to cast a spell, each o
 		<card>
 			<name>Thiollier</name>
 			<text>{T}: Draw a card, then discard a card or sacrifice another permanent.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/469.png" num="140">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/463.png" num="140">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8231,7 +8115,7 @@ Whenever a player spends mana from one or more Treasures to cast a spell, each o
 			<text>Trample
 Whenever a creature you control is dealt damage, put a +1/+1 counter on it. (It must survive the damage to get the counter.)
 As long as you have a full party, Raider has trample and must be blocked if able. (Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/470.png" num="341">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/464.png" num="341">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8249,7 +8133,7 @@ As long as you have a full party, Raider has trample and must be blocked if able
 			<name>Fissure in the Fog</name>
 			<text>Counter target spell.
 Dragoncycling {2} ({2}, Discard this card: Search your library for a Dragon card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/471.png" num="94">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/465.png" num="94">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8265,7 +8149,7 @@ Dragoncycling {2} ({2}, Discard this card: Search your library for a Dragon card
 		<card>
 			<name>Great Exodus</name>
 			<text>For each land you control, create a tapped colorless land token named Everywhere that is every basic land type.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/472.png" num="317">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/466.png" num="317">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8282,7 +8166,7 @@ Dragoncycling {2} ({2}, Discard this card: Search your library for a Dragon card
 			<name>Unrelenting Hunger</name>
 			<text>As long as you control a Dragon or your commander is a Dragon, this card has overload {5}{B}{B}{B}. (You may cast this spell for its overload cost. If you do, change &quot;target&quot; in its text to &quot;each.&quot;)
 Exile target creature you don&apos;t control.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/473.png" num="212">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/467.png" num="212">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8300,7 +8184,7 @@ Exile target creature you don&apos;t control.</text>
 			<text>Flash
 This spell costs {1} less to cast for each noncreature, nonland card in your graveyard.
 When this enchantment enters, for each opponent, exile up to one target nonland permanent that player controls until this enchantment leaves the battlefield.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/474.png" num="20">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/468.png" num="20">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8317,7 +8201,7 @@ When this enchantment enters, for each opponent, exile up to one target nonland 
 			<name>Teardrop of Night</name>
 			<text>This enchantment enters with three time counters on it.
 At the beginning of your upkeep, remove a time counter from this enchantment. Then if it has no time counters on it, sacrifice it and return all nonland permanents to their owners&apos; hands.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/475.png" num="139">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/469.png" num="139">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8333,7 +8217,7 @@ At the beginning of your upkeep, remove a time counter from this enchantment. Th
 		<card>
 			<name>Return to the Erdtree</name>
 			<text>Whenever a nontoken creature you control dies, you may return it to the battlefield face down under its owner&apos;s control. It&apos;s a Forest Plains land.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/476.png" num="467">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/470.png" num="467">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8349,7 +8233,7 @@ At the beginning of your upkeep, remove a time counter from this enchantment. Th
 		<card>
 			<name>Tricephalos&apos;s Howl</name>
 			<text>Create three tokens that are copies of target creature you control. The tokens aren&apos;t legendary. They gain haste. Sacrifice them at the beginning of the next end step.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/477.png" num="281">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/471.png" num="281">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8365,7 +8249,7 @@ At the beginning of your upkeep, remove a time counter from this enchantment. Th
 		<card>
 			<name>Godskin Duo</name>
 			<text>Whenever a legendary creature dies, draw a card.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/478.png" num="402">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/472.png" num="402">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8384,7 +8268,7 @@ At the beginning of your upkeep, remove a time counter from this enchantment. Th
 			<text>{T}: Add {C}.
 {2}, {T}: Add {B} for each creature card in your graveyard.
 {2}, {T}: Add {R} for each instant and/or sorcery card in your graveyard.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/479.png" num="591">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/473.png" num="591">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8400,7 +8284,7 @@ At the beginning of your upkeep, remove a time counter from this enchantment. Th
 			<name>The Great Jar</name>
 			<text>Trample
 Whenever a creature attacks one of your opponents, double that creature&apos;s power and toughness until end of turn.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/480.png" num="511">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/474.png" num="511">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8415,7 +8299,7 @@ Whenever a creature attacks one of your opponents, double that creature&apos;s p
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/481.png" num="0">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/475.png" num="0">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8430,7 +8314,7 @@ Whenever a creature attacks one of your opponents, double that creature&apos;s p
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/482.png" num="0">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/476.png" num="0">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8445,7 +8329,7 @@ Whenever a creature attacks one of your opponents, double that creature&apos;s p
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/483.png" num="0">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/477.png" num="0">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8460,7 +8344,7 @@ Whenever a creature attacks one of your opponents, double that creature&apos;s p
 		<card>
 			<name>On An Adventure EDRC</name>
 			<text>After an Adventure resolves, you can place the exiled card here. You may cast the creature from exile.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/484.png" num="3">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/478.png" num="3">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8475,7 +8359,7 @@ Whenever a creature attacks one of your opponents, double that creature&apos;s p
 		<card>
 			<name>Can Be Cast From Exile EDRC</name>
 			<text></text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/485.png" num="1">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/479.png" num="1">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8490,7 +8374,7 @@ Whenever a creature attacks one of your opponents, double that creature&apos;s p
 		<card>
 			<name>Restage</name>
 			<text>Draw a card, then draw a card for each card you&apos;ve drawn this turn other than the first card you draw during each of your draw steps.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/486.png" num="117">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/480.png" num="117">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8506,7 +8390,7 @@ Whenever a creature attacks one of your opponents, double that creature&apos;s p
 		<card>
 			<name>Plant EDRC</name>
 			<text></text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/487.png" num="33">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/481.png" num="30">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8524,7 +8408,7 @@ Whenever a creature attacks one of your opponents, double that creature&apos;s p
 		<card>
 			<name>Butterfly EDRC</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/488.png" num="35">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/482.png" num="32">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8542,7 +8426,7 @@ Whenever a creature attacks one of your opponents, double that creature&apos;s p
 		<card>
 			<name>Bird Spirit EDRC</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/489.png" num="7">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/483.png" num="7">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8561,7 +8445,7 @@ Whenever a creature attacks one of your opponents, double that creature&apos;s p
 			<name>Libra, Equilibrious Beast</name>
 			<text>Whenever Libra enters or attacks, you may discard a card. If you do, each opponent faces a villainous choice — You draw a card, or Libra deals damage to that opponent equal to the mana value of the discarded card.
 Madness {1}{B}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/490.png" num="422">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/484.png" num="422">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8580,7 +8464,7 @@ Madness {1}{B}{R} (If you discard this card, discard it into exile. When you do,
 			<text>Flying, vigilance
 Whenever Caligo or another Dragon you control enters or attacks, tap up to one target creature an opponent controls and put a stun counter on it.
 At the beginning of each opponent&apos;s upkeep, you draw a card for each tapped nonland permanent they control.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/491.png" num="371">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/485.png" num="371">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8598,7 +8482,7 @@ At the beginning of each opponent&apos;s upkeep, you draw a card for each tapped
 			<name>Arrow of Nightglow</name>
 			<text>Suspend 1—{3}{W}{W} (Rather than cast this card from your hand, pay {3}{W}{W} and exile it with a time counter on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)
 Destroy all nonland permanents.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/492.png" num="4">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/486.png" num="4">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8614,7 +8498,7 @@ Destroy all nonland permanents.</text>
 		<card>
 			<name>Condemn to Memory</name>
 			<text>Exile target creature you don&apos;t control. Its controller creates a tapped land token named Everywhere that&apos;s every basic land type.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/493.png" num="11">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/487.png" num="11">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8631,7 +8515,7 @@ Destroy all nonland permanents.</text>
 			<name>Light of Miquella</name>
 			<text>If your life total is different than your starting life total, this spell costs {X} less to cast, where X is the difference.
 Return all nonland permanent cards from your graveyard to the battlefield.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/494.png" num="29">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/488.png" num="29">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8648,7 +8532,7 @@ Return all nonland permanent cards from your graveyard to the battlefield.</text
 			<name>Offer Pita Bread</name>
 			<text>When this enchantment enters, scry 1, then draw a card.
 Whenever you gain life, you may return this enchantment to its owner&apos;s hand.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/495.png" num="47">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/489.png" num="47">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8666,7 +8550,7 @@ Whenever you gain life, you may return this enchantment to its owner&apos;s hand
 			<text>Bestow {3}{W}{W} (If you cast this card for its bestow cost, it&apos;s an Aura spell with enchant creature. It becomes a creature again if it&apos;s not attached.)
 Enchanted creature gets +4/+4.
 You may cast this card from your graveyard using its bestow ability if it targets a commander you control.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/496.png" num="56">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/490.png" num="56">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8684,7 +8568,7 @@ You may cast this card from your graveyard using its bestow ability if it target
 			<name>Glow</name>
 			<text>If you&apos;ve attacked this turn, surveil 2.
 Draw a card.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/497.png" num="98">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/491.png" num="98">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8700,7 +8584,7 @@ Draw a card.</text>
 		<card>
 			<name>Larval Transformation</name>
 			<text>Look at the top three cards of your library. You may cast one of those cards. You may put another into your hand. Put the rest into your graveyard.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/498.png" num="102">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/492.png" num="102">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8719,7 +8603,7 @@ Draw a card.</text>
 Nontoken creatures you control are Island lands in addition to their other types. (They&apos;re still affected by summoning sickness.)
 Whenever you tap an Island for mana, add an additional {U}.
 {2}{U}: Draw a card.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/499.png" num="105">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/493.png" num="105">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8737,7 +8621,7 @@ Whenever you tap an Island for mana, add an additional {U}.
 			<name>Rellana&apos;s Cameo</name>
 			<text>Draw a card.
 As long as you&apos;ve cast two or more instant and/or sorcery spells this turn, this card has flashback {U}. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/500.png" num="114">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/494.png" num="114">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8753,7 +8637,7 @@ As long as you&apos;ve cast two or more instant and/or sorcery spells this turn,
 		<card>
 			<name>Shadows Colder than Death</name>
 			<text>Whenever you cast a noncreature spell, tap up to one target creature. If it&apos;s already tapped, put a stun counter on it instead. If it already has a stun counter on it, draw a card instead. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/501.png" num="125">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/495.png" num="125">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8770,7 +8654,7 @@ As long as you&apos;ve cast two or more instant and/or sorcery spells this turn,
 			<name>Call the Condemned</name>
 			<text>Each player returns X creature cards from their graveyard to the battlefield. Each of those creatures is goaded for the rest of the game. (They attack each combat if able and attack a player other than you if able.)
 Mayhem {X}{B}{B} (You may cast this card from your graveyard for {X}{B}{B} if you discarded it this turn. Timing rules still apply.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/502.png" num="159">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/496.png" num="159">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8785,13 +8669,13 @@ Mayhem {X}{B}{B} (You may cast this card from your graveyard for {X}{B}{B} if yo
 		</card>
 		<card>
 			<name>Footprints of the Nightlord</name>
-			<text>Conjure your choice of a Dark Souls card and put it into your hand.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/503.png" num="170">EDRC</set>
+			<text>Draw three cards, then reveal two cards from your hand and put them on top of your library in any order. You lose life equal to their combined mana value.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/497.png" num="170">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
 				<manacost>B</manacost>
 				<cmc>1</cmc>
 				<colors>B</colors>
@@ -8803,7 +8687,7 @@ Mayhem {X}{B}{B} (You may cast this card from your graveyard for {X}{B}{B} if yo
 			<name>Grave Keeper</name>
 			<text>Whenever one or more cards leave your graveyard, create a 1/1 black Skeleton creature token. This ability triggers only once each turn.
 {4}{B}{B}, Sacrifice six creatures: Draw six cards.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/504.png" num="173">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/498.png" num="173">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8821,7 +8705,7 @@ Mayhem {X}{B}{B} (You may cast this card from your graveyard for {X}{B}{B} if yo
 			<name>Night&apos;s Tide</name>
 			<text>When this enchantment enters, each opponent separates the creatures they control into two piles. For each opponent, you choose one of their piles. Each opponent sacrifices the creatures in their chosen pile. (Piles can be empty.)
 Whenever a creature dies, each opponent loses 1 life.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/505.png" num="194">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/499.png" num="194">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8839,7 +8723,7 @@ Whenever a creature dies, each opponent loses 1 life.</text>
 			<text>Ward—Sacrifice a commander.
 The Shape of Night&apos;s power and toughness are each equal to your starting deck size minus the number of cards in your library.
 Whenever The Shape of Night attacks, you may pay up to 7 life. If you do, draw that many cards.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/506.png" num="204">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/500.png" num="204">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8858,7 +8742,7 @@ Whenever The Shape of Night attacks, you may pay up to 7 life. If you do, draw t
 			<text>Flying
 Whenever Animus attacks, you may put a creature card from your hand onto the battlefield tapped and attacking. Sacrifice it at the beginning of the next end step.
 Whenever Animus attacks, you may return a creature card from your graveyard to the battlefield tapped and attacking. Exile it at the beginning of the next end step.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/507.png" num="218">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/501.png" num="218">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8877,7 +8761,7 @@ Whenever Animus attacks, you may return a creature card from your graveyard to t
 			<text>Flying
 Whenever a Dragon you control attacks, it deals 1 damage to any target.
 At the beginning of your second main phase, add {R} for each 1 life your opponents have lost this turn.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/508.png" num="235">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/502.png" num="235">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8894,7 +8778,7 @@ At the beginning of your second main phase, add {R} for each 1 life your opponen
 		<card>
 			<name>Fire Prelate</name>
 			<text>Whenever you cast a noncreature spell, put a +1/+1 counter on this creature. Then this creature deals damage equal to its power to each opponent.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/509.png" num="239">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/503.png" num="239">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8912,7 +8796,7 @@ At the beginning of your second main phase, add {R} for each 1 life your opponen
 			<name>Flames of Gladius</name>
 			<text>Mountains you control have &quot;{T}, Sacrifice this land: Add {R}{R}{R}.&quot;
 If a source would deal damage to an opponent or a permanent an opponent controls, it deals triple that damage to that permanent or player instead.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/510.png" num="240">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/504.png" num="240">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8928,7 +8812,7 @@ If a source would deal damage to an opponent or a permanent an opponent controls
 		<card>
 			<name>Forge&apos;s Flames</name>
 			<text>Exile the top four cards of your library. Until the end of your next turn, you may play those cards. Add {R} for each land card exiled this way.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/511.png" num="244">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/505.png" num="244">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8945,7 +8829,7 @@ If a source would deal damage to an opponent or a permanent an opponent controls
 			<name>Behold the Jagged Peak</name>
 			<text>When this enchantment enters, create two tapped colorless land tokens named Everywhere that are each every basic land type.
 Creatures you control get +1/+1 for each Dragon you control.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/512.png" num="291">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/506.png" num="291">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8961,7 +8845,7 @@ Creatures you control get +1/+1 for each Dragon you control.</text>
 		<card>
 			<name>Cradled by Death</name>
 			<text>At the beginning of your end step, you may sacrifice a creature. If you do, create two tapped colorless land tokens named Everywhere that is every basic land type.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/513.png" num="296">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/507.png" num="296">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8977,7 +8861,7 @@ Creatures you control get +1/+1 for each Dragon you control.</text>
 		<card>
 			<name>Roderika and Hewg</name>
 			<text>{T}: Add one mana of any color. If this mana is spent to cast a creature spell, that creature enters with an additional +1/+1 counter on it. When this mana is spent to cast a noncreature spell, create a 1/1 white Spirit creature token.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/514.png" num="342">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/508.png" num="342">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8995,7 +8879,7 @@ Creatures you control get +1/+1 for each Dragon you control.</text>
 			<name>Shaman Village Sentinel</name>
 			<text>As long as this creature is on the battlefield, this creature has all activated abilities of lands you control and land cards in your graveyard.
 Cards in graveyards can&apos;t be the targets of spells or abilities your opponents control.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/515.png" num="347">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/509.png" num="347">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9014,7 +8898,7 @@ Cards in graveyards can&apos;t be the targets of spells or abilities your oppone
 			<text>Enchant permanent
 As long as enchanted permanent is a creature, triple all combat damage it would deal.
 As long as enchanted permanent is an Equipment, it has &quot;Triple all combat damage equipped creature would deal.&quot;</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/516.png" num="351">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/510.png" num="351">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9032,7 +8916,7 @@ As long as enchanted permanent is an Equipment, it has &quot;Triple all combat d
 			<text>All creatures get -1/-1.
 Whenever you tap a land for mana, you lose 1 life and add an additional one mana of any color.
 Sacrifice this artifact: Draw a card.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/517.png" num="502">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/511.png" num="502">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9048,7 +8932,7 @@ Sacrifice this artifact: Draw a card.</text>
 			<text>Whenever an opponent loses life, put a spin counter on this Equipment. (One or more creatures dealing combat damage to a player is a single instance of life loss.)
 Equipped creature gets +X/+0, where X is the amount of spin counters on this Equipment.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/518.png" num="509">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/512.png" num="509">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9062,7 +8946,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 		<card>
 			<name>Larval Tear</name>
 			<text>{2}: This artifact become a copy of target creature you control until end of turn, except it isn&apos;t legendary.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/519.png" num="515">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/513.png" num="515">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9078,7 +8962,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 			<text>Imprint — Whenever a nontoken, noncommander creature dies, you may exile that card.
 {T}: Add one mana of any color among cards exiled with this artifact.
 This artifact has all activated abilities of all creature cards exiled with it.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/520.png" num="518">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/514.png" num="518">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9094,7 +8978,7 @@ This artifact has all activated abilities of all creature cards exiled with it.<
 			<text>Equipped creature gets +X/+0, where X is the number of instant and sorcery cards in your graveyard.
 If an ability of equipped creature triggers while its power is 6 or greater, that ability triggers an additional time.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/521.png" num="524">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/515.png" num="524">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9109,7 +8993,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 			<name>A Tarnished of No Renown EDRC</name>
 			<text>(Each player has access to this card as a commander. It can&apos;t be drafted.)
 Whenever another creature you control enters, if that creature has greater power than A Tarnished of No Renown, put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/522.png" num="5">EDRC</set>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/516.png" num="5">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9123,28 +9007,9 @@ Whenever another creature you control enters, if that creature has greater power
 			<token>1</token>
 		</card>
 		<card>
-			<name>Centipede Demon EDRC</name>
-			<text>Whenever a creature you control attacks, put a +1/+1 counter on it.
-Enrage — Whenever Centipede Demon is dealt damage, create a 1/1 token that&apos;s a copy of it, except it isn&apos;t legendary and it doesn&apos;t have this ability.</text>
-			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/523.png" num="36">EDRC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Insect Demon</type>
-				<maintype>Creature</maintype>
-				<manacost>2BR</manacost>
-				<cmc>4</cmc>
-				<colors>BR</colors>
-				<coloridentity>BR</coloridentity>
-				<pt>5/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
 			<name>Naturalborn&apos;s Presence</name>
 			<text>Sacrifice this enchantment: The next spell you cast this turn has gravestorm. (When you cast that spell, copy it for each permanent put into a graveyard this turn.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/524.png" num="448">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/517.png" num="448">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9161,7 +9026,7 @@ Enrage — Whenever Centipede Demon is dealt damage, create a 1/1 token that&apo
 			<name>Ancient Dragon</name>
 			<text>Flying
 When this creature enters, it deals X damage to any target, where X is the greatest power among Dragons you control.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/525.png" num="217">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/518.png" num="217">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9180,7 +9045,7 @@ When this creature enters, it deals X damage to any target, where X is the great
 			<text>{T}: Add {C}.
 {T}, Pay 1 life: Add {U} or {R}.
 Channel — {1}{U}{R}, Discard this card: You may choose new targets for target spell or ability.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/526.png" num="580">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/519.png" num="580">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9195,7 +9060,7 @@ Channel — {1}{U}{R}, Discard this card: You may choose new targets for target 
 		<card>
 			<name>Divine Beast Dancing Lion</name>
 			<text>Spells you cast during combat on your turn have storm. (Whenever you cast a spell during combat on your turn, copy it for each spell cast before it this turn. You may choose new targets for the copies.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/527.png" num="380">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/520.png" num="380">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9215,7 +9080,7 @@ Channel — {1}{U}{R}, Discard this card: You may choose new targets for target 
 • You and target opponent each create a Treasure token.
 • You and target opponent each draw a card.
 • This enchantment deals 3 damage to you and target opponent.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/528.png" num="261">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/521.png" num="261">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9232,7 +9097,7 @@ Channel — {1}{U}{R}, Discard this card: You may choose new targets for target 
 			<name>Fulghor, Darkdrift Knight</name>
 			<text>Whenever you attack, if it&apos;s the first combat phase of the turn, untap all creatures you control. After this phase, there is an additional combat phase.
 Whenever Fulghor attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield. If it&apos;s a creature, you may have it enter tapped and attacking.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/529.png" num="393">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/522.png" num="393">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9250,7 +9115,7 @@ Whenever Fulghor attacks, you may return target permanent card with mana value 3
 			<name>Miquella and Radahn</name>
 			<text>Double strike, vigilance, trample, lifelink
 Once each turn, you may cast a spell from your hand with mana value less than or equal to the amount of life you gained this turn without paying its mana cost.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/530.png" num="441">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/523.png" num="441">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9269,7 +9134,7 @@ Once each turn, you may cast a spell from your hand with mana value less than or
 			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 Other creatures you control have prowess.
 Whenever you cast an instant or sorcery spell, if the last spell you cast this turn was the other type, copy that spell. You may choose new targets for the copy.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/531.png" num="113">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/524.png" num="113">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9287,7 +9152,7 @@ Whenever you cast an instant or sorcery spell, if the last spell you cast this t
 			<name>Erdtree Burial</name>
 			<text>Mill four cards. You may put a permanent card from among the cards milled this way into your hand.
 Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/532.png" num="308">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/525.png" num="308">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9304,7 +9169,7 @@ Proliferate. (Choose any number of permanents and/or players, then give each ano
 			<name>The Erdtree</name>
 			<text>Whenever you cast a commander spell with mana value 5 or greater, if there is no monarch, you become the monarch. Otherwise, draw a card.
 {T}: Add {C}. You may spend this mana as though it were mana of any color to cast your commander.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/533.png" num="555">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/526.png" num="555">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9319,7 +9184,7 @@ Proliferate. (Choose any number of permanents and/or players, then give each ano
 			<name>Abyssal Woods</name>
 			<text>As Abyssal Woods enters, you may behold a Swamp or Mountain. If you don&apos;t, Abyssal Woods enters tapped. (To behold a card, choose a permanent you control of that type or reveal a card of that type from your hand.)
 {T}: Add {B} or {R}.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/534.png" num="536">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/527.png" num="536">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9335,7 +9200,7 @@ Proliferate. (Choose any number of permanents and/or players, then give each ano
 			<name>Adel, Ravening Unending</name>
 			<text>Flying, trample
 Whenever Adel attacks a player, they may sacrifice any number of nonland permanents. For each nonland permanent they control that they didn&apos;t sacrifice this way, put two +1/+1 counters on Adel.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/535.png" num="146">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/528.png" num="146">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9352,7 +9217,7 @@ Whenever Adel attacks a player, they may sacrifice any number of nonland permane
 		<card>
 			<name>Age of Despair</name>
 			<text>Put up to one target creature card from an opponent&apos;s graveyard onto the battlefield under your control. Destroy all other creatures.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/536.png" num="148">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/529.png" num="148">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9368,7 +9233,7 @@ Whenever Adel attacks a player, they may sacrifice any number of nonland permane
 		<card>
 			<name>Age of Frenzied Flame</name>
 			<text>Each player sacrifices any number of permanents. Then each player&apos;s life total becomes X, where X is 10 minus the number of permanents that player controls.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/537.png" num="216">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/530.png" num="216">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9384,7 +9249,7 @@ Whenever Adel attacks a player, they may sacrifice any number of nonland permane
 		<card>
 			<name>Age of Order</name>
 			<text>Return target permanent card from your graveyard to the battlefield. You may have it become an X/X God creature in addition to its other types, where X is your life total.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/538.png" num="3">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/531.png" num="3">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9400,7 +9265,7 @@ Whenever Adel attacks a player, they may sacrifice any number of nonland permane
 		<card>
 			<name>Age of Stars</name>
 			<text>Take five extra turns after this one. Skip the untap steps of those turns.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/539.png" num="75">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/532.png" num="75">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9416,7 +9281,7 @@ Whenever Adel attacks a player, they may sacrifice any number of nonland permane
 		<card>
 			<name>Age of the Duskborn</name>
 			<text>Return all land cards from your graveyard to the battlefield tapped. Then for each land you control, create two 1/1 black Skeleton creature tokens.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/540.png" num="287">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/533.png" num="287">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9434,7 +9299,7 @@ Whenever Adel attacks a player, they may sacrifice any number of nonland permane
 			<text>Flash
 Enchant noncommander creature
 Enchanted creature loses all abilities and is a colorless Homunculus with base power and toughness 1/1. (It loses all colors and all other creature types.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/541.png" num="76">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/534.png" num="76">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9451,7 +9316,7 @@ Enchanted creature loses all abilities and is a colorless Homunculus with base p
 			<name>Albinauric Duo</name>
 			<text>Sacrifice this creature: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 {1}{G}, Sacrifice this creature: Search your library for a land card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/542.png" num="288">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/535.png" num="288">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9470,7 +9335,7 @@ Enchanted creature loses all abilities and is a colorless Homunculus with base p
 			<text>Vigilance
 All creatures attack each combat if able.
 Whenever one or more creatures attack, if they aren&apos;t attacking you, put a +1/+1 counter on target attacking creature.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/543.png" num="359">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/536.png" num="359">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9488,7 +9353,7 @@ Whenever one or more creatures attack, if they aren&apos;t attacking you, put a 
 			<name>Analyze</name>
 			<text>Draw a card. Then discard a card if this spell was cast from your hand.
 Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/544.png" num="77">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/537.png" num="77">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9505,7 +9370,7 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
 			<name>As if in a Dream</name>
 			<text>Look at the top X cards of your library, where X is the amount of mana spent to cast this spell. Put one of them into your hand and the rest on the bottom of your library in a random order.
 Flashback {2}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/545.png" num="79">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/538.png" num="79">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9523,7 +9388,7 @@ Flashback {2}{U}{U} (You may cast this card from your graveyard for its flashbac
 			<text>This creature enters with X +1/+1 counters on it.
 {T}: Put a +1/+1 counter on this creature.
 {5}, {T}, Remove five +1/+1 counters from this creature: It deals 5 damage to each of up to five targets. Activate only as a sorcery.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/546.png" num="495">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/539.png" num="495">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9540,7 +9405,7 @@ Flashback {2}{U}{U} (You may cast this card from your graveyard for its flashbac
 			<text>Flying, vigilance, trample
 During your turn, this creature has first strike.
 Your opponents can&apos;t gain life.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/547.png" num="496">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/540.png" num="496">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9556,7 +9421,7 @@ Your opponents can&apos;t gain life.</text>
 			<name>Bloodstained Heavens</name>
 			<text>Target creature you control deals damage equal to its power to each other creature and each opponent.
 Madness {1}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/548.png" num="225">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/541.png" num="225">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9574,7 +9439,7 @@ Madness {1}{R} (If you discard this card, discard it into exile. When you do, ca
 			<text>Bonny Gaol enters tapped.
 When Bonny Gaol enters, draw a card, then discard a card.
 {T}: Add {U} or {B}.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/549.png" num="540">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/542.png" num="540">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9590,7 +9455,7 @@ When Bonny Gaol enters, draw a card, then discard a card.
 			<name>Bonny Village</name>
 			<text>{T}, Sacrifice Bonny Village: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. If a creature died this turn, untap that land.
 {T}, Sacrifice Bonny Village: Return target creature card from your graveyard to your hand.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/550.png" num="541">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/543.png" num="541">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9606,7 +9471,7 @@ When Bonny Gaol enters, draw a card, then discard a card.
 			<text>Flying
 Ward—Tap five untapped permanents you control. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player taps five untapped permanents they control.)
 Each opponent can&apos;t untap more than five permanents during their untap step.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/551.png" num="81">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/544.png" num="81">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9624,7 +9489,7 @@ Each opponent can&apos;t untap more than five permanents during their untap step
 			<name>Carian Glintstone Staff</name>
 			<text>Whenever you cast an instant or sorcery spell, draw a card if that spell&apos;s mana value is less than equipped creature&apos;s power. Otherwise, put a +1/+1 counter on equipped creature.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/552.png" num="498">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/545.png" num="498">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9639,7 +9504,7 @@ Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
 			<name>Castle Ensis</name>
 			<text>{T}: Add {C}.
 {T}: Add one mana of any color. Spend this mana only to cast an instant or sorcery spell unless you&apos;ve cast an instant or sorcery spell this turn.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/553.png" num="542">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/546.png" num="542">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9655,7 +9520,7 @@ Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
 			<text>Castle Morne enters tapped.
 When Castle Morne enters, draw a card. then discard a card.
 {T}: Add {R} or {W}.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/554.png" num="543">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/547.png" num="543">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9671,7 +9536,7 @@ When Castle Morne enters, draw a card. then discard a card.
 			<name>Castle Sol Commander</name>
 			<text>When this creature enters, search your library for a creature card with mana value 1 or less, reveal it, put it into your hand, then shuffle.
 Creatures you control have mobilize 1. (Whenever a creature you control with mobilize 1 attacks, create a tapped and attacking 1/1 red Warrior creature token. Sacrifice it at the beginning of the next end step.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/555.png" num="8">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/548.png" num="8">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9689,7 +9554,7 @@ Creatures you control have mobilize 1. (Whenever a creature you control with mob
 			<name>Champion Fulghor</name>
 			<text>Whenever one or more creatures attack one of your opponents, those creatures gain double strike until end of turn.
 Whenever a creature you control deals combat damage to a player, put a +1/+1 counter on it.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/556.png" num="9">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/549.png" num="9">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9707,7 +9572,7 @@ Whenever a creature you control deals combat damage to a player, put a +1/+1 cou
 			<name>Chanting Winged Dame</name>
 			<text>Flying
 Whenever you put one or more counters on a permanent or player, proliferate. This ability triggers only once each turn. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/557.png" num="84">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/550.png" num="84">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9726,7 +9591,7 @@ Whenever you put one or more counters on a permanent or player, proliferate. Thi
 			<text>Charo&apos;s Hidden Grave enters tapped.
 When Charo&apos;s Hidden Grave enters, draw a card, then discard a card.
 {T}: Add {R} or {G}.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/558.png" num="545">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/551.png" num="545">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9743,7 +9608,7 @@ When Charo&apos;s Hidden Grave enters, draw a card, then discard a card.
 			<text>When your commander dies, you may sacrifice this land. If you do, put your commander into your hand.
 {T}: Add {C}.
 {1}, {T}: Add one mana of any color.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/559.png" num="548">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/552.png" num="548">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9757,7 +9622,7 @@ When Charo&apos;s Hidden Grave enters, draw a card, then discard a card.
 		<card>
 			<name>Death Prince&apos;s Gaze</name>
 			<text>At the beginning of your end step, draw a card for each card type among cards you discarded this turn and permanents you sacrificed this turn.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/560.png" num="163">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/553.png" num="163">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9774,7 +9639,7 @@ When Charo&apos;s Hidden Grave enters, draw a card, then discard a card.
 			<name>Deeproot Depths</name>
 			<text>As Deeproot Depths enters, you may behold a Island or Swamp. If you don&apos;t, Deeproot Depths enters tapped. (To behold a card, choose a permanent you control of that type or reveal a card of that type from your hand.)
 {T}: Add {U} or {B}.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/561.png" num="551">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/554.png" num="551">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9791,7 +9656,7 @@ When Charo&apos;s Hidden Grave enters, draw a card, then discard a card.
 			<text>Trample
 When this creature enters, double up to one target creature&apos;s power until end of turn.
 Blitz {4}{R}{R} (If you cast this spell for its blitz cost, it gains haste and &quot;When this creature dies, draw a card&quot;. Sacrifice it at the beginning of the next end step.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/562.png" num="230">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/555.png" num="230">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9809,7 +9674,7 @@ Blitz {4}{R}{R} (If you cast this spell for its blitz cost, it gains haste and &
 			<name>Dragonstorm</name>
 			<text>Search your library for a Dragon permanent card, put it onto the battlefield, then shuffle.
 Storm (When you cast this spell, copy it for each spell cast before it this turn.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/563.png" num="232">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/556.png" num="232">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9826,7 +9691,7 @@ Storm (When you cast this spell, copy it for each spell cast before it this turn
 			<name>Dynastic Tutelage</name>
 			<text>Draw two cards, then discard two cards unless you discard an instant, sorcery, or Wizard card.
 Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/564.png" num="90">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/557.png" num="90">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9844,7 +9709,7 @@ Cipher (Then you may exile this spell card encoded on a creature you control. Wh
 			<text>Trample
 Devour 2 (As this enters, you may sacrifice any number of creatures. This creature enters with twice that many +1/+1 counters on it.)
 When Eiglay dies, you may search your library for a creature card with mana value X or less, where X is Eiglay&apos;s power. Put that creature card onto the battlefield, then shuffle.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/565.png" num="304">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/558.png" num="304">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9862,7 +9727,7 @@ When Eiglay dies, you may search your library for a creature card with mana valu
 			<name>Fate Cannot Be Changed</name>
 			<text>When this enchantment enters, search your library for a creature card with mana value 2 or less, put it onto the battlefield, then shuffle.
 {G}, Sacrifice a creature: Search your library for a creature card with mana value equal to 1 plus the sacrificed creature&apos;s mana value, put it onto the battlefield, then shuffle. Activate only once each turn and only as a sorcery.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/566.png" num="309">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/559.png" num="309">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9879,7 +9744,7 @@ When Eiglay dies, you may search your library for a creature card with mana valu
 			<name>Fateful Night</name>
 			<text>Create a token that&apos;s a copy of target creature you control, except it&apos;s 1/1 Toy artifact creature in addition to its other types and isn&apos;t legendary.
 Flashback {3}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/567.png" num="93">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/560.png" num="93">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9895,7 +9760,7 @@ Flashback {3}{U}{U} (You may cast this card from your graveyard for its flashbac
 		<card>
 			<name>Fear of the Night</name>
 			<text>At the beginning of your upkeep, reveal cards from the top of your library until you reveal a black card. Put that card into your hand and the rest on the bottom of your library in a random order. You lose life equal to the revealed card&apos;s mana value.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/568.png" num="166">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/561.png" num="166">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9912,7 +9777,7 @@ Flashback {3}{U}{U} (You may cast this card from your graveyard for its flashbac
 			<name>Finger Ruins Lamprey</name>
 			<text>This creature enters with X +1/+1 counters on it.
 When this creature enters, you draw X cards and lose X life. Then you may discard one or more cards. When you do, destroy target creature an opponent controls with mana value less than or equal to the number of cards discarded this way.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/569.png" num="169">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/562.png" num="169">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9931,7 +9796,7 @@ When this creature enters, you draw X cards and lose X life. Then you may discar
 			<text>Finger Ruins of Dheo enters tapped.
 When Finger Ruins of Dheo enters, draw a card, then discard a card.
 {T}: Add {U} or {R}.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/570.png" num="556">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/563.png" num="556">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9948,7 +9813,7 @@ When Finger Ruins of Dheo enters, draw a card, then discard a card.
 			<text>Whenever you discard a card, this creature deals 1 damage to each opponent.
 {1}, {T}, Discard a card: Draw a card.
 {6}, {T}: Exile three cards at random from your graveyard. Choose a noncreature, nonland card from among them and copy it. You may cast the copy without paying its mana cost.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/571.png" num="246">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/564.png" num="246">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9967,7 +9832,7 @@ When Finger Ruins of Dheo enters, draw a card, then discard a card.
 			<text>Garden of Deep Purple enters tapped.
 When Garden of Deep Purple enters, draw a card, then discard a card.
 {T}: Add {G} or {U}.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/572.png" num="560">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/565.png" num="560">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9983,7 +9848,7 @@ When Garden of Deep Purple enters, draw a card, then discard a card.
 			<name>Gate Town</name>
 			<text>As Gate Town enters, you may behold a Forest or Island. If you don&apos;t, Gate Town enters tapped. (To behold a card, choose a permanent you control of that type or reveal a card of that type from your hand.)
 {T}: Add {G} or {U}.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/573.png" num="561">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/566.png" num="561">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10000,7 +9865,7 @@ When Garden of Deep Purple enters, draw a card, then discard a card.
 			<text>Flying
 Whenever this creature attacks, you may exile target card from a graveyard. If you do, this creature gets +X/+0 until end of turn, where X is the exiled card&apos;s mana value.
 When this creature dies, you may put a creature card exiled with it onto the battlefield under your control.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/574.png" num="394">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/567.png" num="394">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10018,7 +9883,7 @@ When this creature dies, you may put a creature card exiled with it onto the bat
 			<name>Gift of Scorpion Stew</name>
 			<text>Gift a Food (You may promise an opponent a gift as you cast this spell. If you do, they create a Food token before its other effects. It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
 Destroy target artifact or enchantment if it has mana value 3 or less or if the gift was promised.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/575.png" num="313">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/568.png" num="313">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10036,7 +9901,7 @@ Destroy target artifact or enchantment if it has mana value 3 or less or if the 
 			<text>Trample
 When Godefroy enters, distribute two +1/+1 counters among one or two other target creatures you control.
 Whenever one or more counters are put on another permanent you control, put a +1/+1 counter on Godefroy.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/576.png" num="314">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/569.png" num="314">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10054,7 +9919,7 @@ Whenever one or more counters are put on another permanent you control, put a +1
 			<name>Godfrey&apos;s Long March</name>
 			<text>At the beginning of your upkeep, amass Warriors 1. (Put a +1/+1 counter on an Army you control. It&apos;s also a Warrior. If you don&apos;t control an Army, create a 0/0 black Warrior Army creature token first.)
 Whenever a creature you control dies, if it had counters on it, put those counters on up to one target creature.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/577.png" num="22">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/570.png" num="22">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10072,7 +9937,7 @@ Whenever a creature you control dies, if it had counters on it, put those counte
 			<text>Godwyn&apos;s Tomb enters tapped.
 When Godwyn&apos;s Tomb enters, draw a card, then discard a card.
 {T}: Add {B} or {G}.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/578.png" num="562">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/571.png" num="562">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10089,7 +9954,7 @@ When Godwyn&apos;s Tomb enters, draw a card, then discard a card.
 			<text>Vigilance
 {6}{W}{W}: Monstrosity 6. (If this creature isn&apos;t monstrous, put six +1/+1 counters on it and it becomes monstrous.)
 When this creature becomes monstrous, it deals 10 damage divided as you choose among any number of target creatures attacking you.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/579.png" num="24">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/572.png" num="24">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10108,7 +9973,7 @@ When this creature becomes monstrous, it deals 10 damage divided as you choose a
 			<text>Equipped creature gets +X/+0, where X is the number of instant and sorcery cards in your graveyard.
 Instant and sorcery spells you control have lifelink.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/580.png" num="510">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/573.png" num="510">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10123,7 +9988,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 			<name>Golem Smith</name>
 			<text>Whenever you cast an artifact spell, put a +1/+1 counter on this creature.
 {T}: Add {W}. You can&apos;t spend this mana to cast nonartifact spells.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/581.png" num="25">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/574.png" num="25">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10141,7 +10006,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 			<name>Grand Caravan Steed</name>
 			<text>Whenever this creature attacks, if it&apos;s saddled, create a tapped colorless land token named Everywhere that is all basic land types. Otherwise, create a tapped Treasure token.
 Saddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/582.png" num="316">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/575.png" num="316">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10160,7 +10025,7 @@ Saddle 2 (Tap any number of other creatures you control with total power 2 or mo
 			<text>Grand Cloister enters tapped.
 When Grand Cloister enters, draw a card, then discard a card.
 {T}: Add {B} or {R}.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/583.png" num="563">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/576.png" num="563">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10176,7 +10041,7 @@ When Grand Cloister enters, draw a card, then discard a card.
 			<name>Graven Mass</name>
 			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
 This creature enters with X +1/+1 counters on it, where X is the total mana value of instant, sorcery, and Wizard cards in your graveyard.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/584.png" num="99">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/577.png" num="99">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10195,7 +10060,7 @@ This creature enters with X +1/+1 counters on it, where X is the total mana valu
 			<text>Gravesite Plain enters tapped.
 When Gravesite Plain enters, draw a card, then discard a card.
 {T}: Add {W} or {B}.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/585.png" num="564">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/578.png" num="564">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10212,7 +10077,7 @@ When Gravesite Plain enters, draw a card, then discard a card.
 			<text>Deathtouch
 Whenever this creature enters or attacks, you may sacrifice another creature. If you do, put a +1/+1 counter on this creature and draw a card.
 Exhaust — {B}: For each creature you controlled that died this turn, each opponent sacrifices a creature. Activate only during your turn. (Activate each exhaust ability only once.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/586.png" num="175">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/579.png" num="175">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10230,7 +10095,7 @@ Exhaust — {B}: For each creature you controlled that died this turn, each oppo
 			<name>Greatswords of Radahn</name>
 			<text>Equipped creature has double strike, trample, and prowess.
 Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/587.png" num="512">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/580.png" num="512">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10245,7 +10110,7 @@ Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
 			<name>Guidance of Rosus</name>
 			<text>When you cast this spell, copy it twice.
 You may put a land card from your hand onto the battlefield tapped. If you don&apos;t, draw a card.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/588.png" num="410">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/581.png" num="410">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10263,7 +10128,7 @@ You may put a land card from your hand onto the battlefield tapped. If you don&a
 			<text>Flying
 The &quot;legend rule&quot; doesn&apos;t apply to tokens you control.
 At the beginning of combat on your turn, target creature you control gains myriad, myriad, and myriad until end of turn.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/589.png" num="413">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/582.png" num="413">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10281,7 +10146,7 @@ At the beginning of combat on your turn, target creature you control gains myria
 			<name>Harmonia, the Salvation</name>
 			<text>Emerge from artifact or creature {7}{B}{R} (You may cast this spell by sacrificing an artifact or creature and paying the emerge cost reduced by that artifact or creature&apos;s mana value.)
 At the beginning of combat on your turn, return up to one target creature card from your graveyard to the battlefield. It gains myriad and haste until end of turn. Exile that creature at the beginning of the next end step.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/590.png" num="1">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/583.png" num="1">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10299,7 +10164,7 @@ At the beginning of combat on your turn, return up to one target creature card f
 			<text>{T}: Add {C}.
 {T}: Add {C}{C}. Spend this mana only to cast Dragon spells.
 Exhaust — {5}, {T}: Create a 4/4 red Dragon creature token with flying. Activate only as a sorcery. (Activate each exhaust ability only once.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/591.png" num="566">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/584.png" num="566">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10314,7 +10179,7 @@ Exhaust — {5}, {T}: Create a 4/4 red Dragon creature token with flying. Activa
 			<name>Kindreds of Rot</name>
 			<text>{T}: Add {G}. 
 {T}: Add {G}. When you spend this mana to cast a creature spell, this creature deals damage equal to that creature spell&apos;s power to up to one target creature an opponent controls. If you do, that creature deals damage equal to its power to this creature. Activate only once.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/592.png" num="326">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/585.png" num="326">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10332,7 +10197,7 @@ Exhaust — {5}, {T}: Create a 4/4 red Dragon creature token with flying. Activa
 			<name>Lightspeed Slash</name>
 			<text>Split second (As long as this spell is on the stack, players can&apos;t cast spells or activate abilities that aren&apos;t mana abilities.)
 Create a token that&apos;s a copy of target creature you control, except it isn&apos;t legendary. When you do, that token deals damage equal to its power to up to one other target creature.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/593.png" num="424">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/586.png" num="424">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10348,7 +10213,7 @@ Create a token that&apos;s a copy of target creature you control, except it isn&
 		<card>
 			<name>Limgrave Infantry</name>
 			<text>Whenever an opponent casts a noncreature spell, amass Warriors 2. (Put two +1/+1 counters on an Army you control. It&apos;s also a Warrior. If you don&apos;t control an Army, create a 0/0 black Warrior Army creature token first.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/594.png" num="328">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/587.png" num="328">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10367,8 +10232,8 @@ Create a token that&apos;s a copy of target creature you control, except it isn&
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Limveld gains &quot;{T}: Add one mana of any of your commander&apos;s colors.&quot;
 II — You may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
-III — You may discard a card. If you do, conjure your choice of a Dark Souls card and put it into your hand.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/595.png" num="571">EDRC</set>
+III — Put your commander into your hand from the command zone or your graveyard.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/588.png" num="571">EDRC</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -10383,7 +10248,7 @@ III — You may discard a card. If you do, conjure your choice of a Dark Souls c
 			<name>Loathsome Hex</name>
 			<text>As an additional cost to cast this spell, you may discard a card, sacrifice a creature, and/or pay 3 life. 
 For each additional cost you paid, destroy target creature or enchantment.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/596.png" num="182">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/589.png" num="182">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10400,7 +10265,7 @@ For each additional cost you paid, destroy target creature or enchantment.</text
 			<name>Luminary Mohg</name>
 			<text>Lifelink
 When Luminary Mohg enters, you may search your library for a nonland card, reveal it, put it into your hand, then shuffle. You lose life equal to that card&apos;s mana value.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/597.png" num="183">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/590.png" num="183">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10418,7 +10283,7 @@ When Luminary Mohg enters, you may search your library for a nonland card, revea
 			<name>Magma Wyrm</name>
 			<text>You may exert this creature as it attacks. When you do, gain control of target artifact defending player controls. If it&apos;s an Equipment, attach it to this creature. (An exerted creature won&apos;t untap during your next untap step.)
 Whenever this creature deals combat damage to a player, it deals that much damage to each other opponent.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/598.png" num="260">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/591.png" num="260">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10436,7 +10301,7 @@ Whenever this creature deals combat damage to a player, it deals that much damag
 			<name>Majesty of the Capital</name>
 			<text>When this enchantment enters, you become the monarch. (The monarch draws a card at the beginning of their end step. Whenever the monarch is dealt combat damage by a creature, its controller becomes the monarch.)
 Creatures you control get +1/+1.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/599.png" num="30">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/592.png" num="30">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10454,7 +10319,7 @@ Creatures you control get +1/+1.</text>
 			<text>Equipped creature has hexproof.
 Sacrifice Miquella&apos;s Needle: Exile target player&apos;s graveyard.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/600.png" num="522">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/593.png" num="522">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10469,7 +10334,7 @@ Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
 			<name>Misbegotten Crusader</name>
 			<text>This creature enters with two +1/+1 counters on it.
 Valiant — Whenever this creature becomes the target of a spell or ability you control for the first time each turn, double the number of +1/+1 counters on it.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/601.png" num="333">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/594.png" num="333">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10488,7 +10353,7 @@ Valiant — Whenever this creature becomes the target of a spell or ability you 
 			<text>When Mohgwyn Palace enters, create a Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this token: Draw a card.&quot;)
 {T}: Add {C}.
 {2}, {T}, Sacrifice a token: Draw a card.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/602.png" num="575">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/595.png" num="575">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10504,7 +10369,7 @@ Valiant — Whenever this creature becomes the target of a spell or ability you 
 			<text>Creatures you control have trample.
 Ferocious — Whenever this creature attacks, if you control a creature with power 4 or greater, draw a card.
 {3}{G}{G}: Monstrosity 3. (If this creature isn&apos;t monstrous, put three +1/+1 counters on it and it becomes monstrous.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/603.png" num="334">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/596.png" num="334">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10521,7 +10386,7 @@ Ferocious — Whenever this creature attacks, if you control a creature with pow
 		<card>
 			<name>Muster the Redmanes</name>
 			<text>Counter target spell. Amass Warriors X, where X is that spell&apos;s mana value. (Put X +1/+1 counters on an Army you control. It&apos;s also a Warrior. If you don&apos;t control an Army, create a 0/0 black Warrior Army creature token first.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/604.png" num="108">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/597.png" num="108">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10537,7 +10402,7 @@ Ferocious — Whenever this creature attacks, if you control a creature with pow
 		<card>
 			<name>Night&apos;s Origin</name>
 			<text>Converge — Search your library for a black card, exile it, then shuffle. You may cast that card without paying its mana cost if its mana value is X or less, where X is the number of colors of mana spent to cast this spell. Put the exiled card into your hand if it wasn&apos;t cast this way.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/605.png" num="193">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/598.png" num="193">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10554,7 +10419,7 @@ Ferocious — Whenever this creature attacks, if you control a creature with pow
 			<name>Obscure in Shadow</name>
 			<text>When this enchantment enters, up to one target creature phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)
 Permanents can&apos;t phase in.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/606.png" num="46">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/599.png" num="46">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10570,7 +10435,7 @@ Permanents can&apos;t phase in.</text>
 		<card>
 			<name>One Final Battle</name>
 			<text>Return up to ten target creature cards with total mana value 10 or less from your graveyard to the battlefield. If you returned fewer than ten creature cards to the battlefield this way, distribute X +1/+1 counters among them, where X is the difference.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/607.png" num="195">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/600.png" num="195">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10587,7 +10452,7 @@ Permanents can&apos;t phase in.</text>
 			<name>Oracle Envoy Giant</name>
 			<text>Whenever you tap a land for mana, add an additional {G}.
 Lieutenant — Whenever your commander attacks, untap all lands you control.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/608.png" num="339">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/601.png" num="339">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10607,7 +10472,7 @@ Lieutenant — Whenever your commander attacks, untap all lands you control.</te
 I — This Saga gains &quot;Whenever one or more cards are put into your graveyard from anywhere, exile the top card of your library.&quot;
 II, III — Discard a card, then draw a card.
 IV — You may play cards exiled with this Saga this turn.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/609.png" num="267">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/602.png" num="267">EDRC</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -10624,7 +10489,7 @@ IV — You may play cards exiled with this Saga this turn.</text>
 			<name>Profound Holiness</name>
 			<text>When this enchantment enters, search your library for a legendary card, reveal it, put it into your hand, then shuffle.
 Whenever you cast a legendary spell, create a 0/1 green Plant creature token, then put a +1/+1 counter on each Plant you control.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/610.png" num="50">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/603.png" num="50">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10641,7 +10506,7 @@ Whenever you cast a legendary spell, create a 0/1 green Plant creature token, th
 			<name>Pure Impulse Straghess</name>
 			<text>Trample, haste
 Whenever Straghess attacks, reveal the top card of your library and put it into your hand. You may pay life equal to that card&apos;s mana value. If you do, repeat this process. Otherwise, each opponent loses life equal to that card&apos;s mana value.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/611.png" num="457">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/604.png" num="457">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10659,7 +10524,7 @@ Whenever Straghess attacks, reveal the top card of your library and put it into 
 			<name>Rakshasa Knight</name>
 			<text>Delirium — As long as there are four or more card types among cards in your graveyard, this creature has double strike and attacks each combat if able.
 Sacrifice another creature: Exile the top card of your library. You may discard a card. If you do, put the exiled card into your hand. Otherwise, you may play that card this turn.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/612.png" num="269">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/605.png" num="269">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10677,7 +10542,7 @@ Sacrifice another creature: Exile the top card of your library. You may discard 
 			<name>Ruin-Strewn Precipice</name>
 			<text>As Ruin-Strewn Precipice enters, you may behold a Plains or Island. If you don&apos;t, Ruin-Strewn Precipice enters tapped. (To behold a card, choose a permanent you control of that type or reveal a card of that type from your hand.)
 {T}: Add {W} or {U}.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/613.png" num="583">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/606.png" num="583">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10694,7 +10559,7 @@ Sacrifice another creature: Exile the top card of your library. You may discard 
 			<text>Enchant noncommander permanent
 As long as enchanted permanent is a creature, you control it.
 As long as enchanted permanent is an Equipment, it has &quot;You control equipped creature&quot; and &quot;{3}{U}{U}: Attach this Equipment to target noncommander creature. Activate only as a sorcery.&quot;</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/614.png" num="120">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/607.png" num="120">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10711,7 +10576,7 @@ As long as enchanted permanent is an Equipment, it has &quot;You control equippe
 			<name>Scadu Altus</name>
 			<text>As Scadu Altus enters, you may behold a Plains or Swamp. If you don&apos;t, Scadu Altus enters tapped. (To behold a card, choose a permanent you control of that type or reveal a card of that type from your hand.)
 {T}: Add {W} or {B}.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/615.png" num="584">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/608.png" num="584">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10727,7 +10592,7 @@ As long as enchanted permanent is an Equipment, it has &quot;You control equippe
 			<name>Scaduview</name>
 			<text>As Scaduview enters, you may behold a Forest or Plains. If you don&apos;t, Scaduview enters tapped. (To behold a card, choose a permanent you control of that type or reveal a card of that type from your hand.)
 {T}: Add {G} or {W}.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/616.png" num="587">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/609.png" num="587">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10743,7 +10608,7 @@ As long as enchanted permanent is an Equipment, it has &quot;You control equippe
 			<name>Scarlet Aeonia</name>
 			<text>At the beginning of your upkeep, put a rot counter on this enchantment.
 If a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus an amount of damage equal to the number of rot counters on this enchantment instead.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/617.png" num="273">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/610.png" num="273">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10759,7 +10624,7 @@ If a source you control would deal damage to an opponent or a permanent an oppon
 		<card>
 			<name>Scholar</name>
 			<text>Whenever a commander, Cleric, Rogue, Warrior, or Wizard you control deals damage to an opponent, each other opponent loses that much life. Then if you have a full party, draw a card. (Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/618.png" num="202">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/611.png" num="202">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10777,7 +10642,7 @@ If a source you control would deal damage to an opponent or a permanent an oppon
 			<name>Scorpion River Catacombs</name>
 			<text>{T}: Add {C}.
 {2}, {T}, Pay 1 life: Create a 1/1 black Basilisk creature token with toxic 1. (Players dealt combat damage by it also get a poison counter.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/619.png" num="588">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/612.png" num="588">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10793,7 +10658,7 @@ If a source you control would deal damage to an opponent or a permanent an oppon
 			<text>Seaside Ruins enters tapped.
 When Seaside Ruins enters, draw a card, then discard a card.
 {T}: Add {W} or {U}.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/620.png" num="589">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/613.png" num="589">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10810,7 +10675,7 @@ When Seaside Ruins enters, draw a card, then discard a card.
 			<text>Choose one—
 • Counter target spell. Draw cards equal to that spell&apos;s mana value.
 • Create a token that&apos;s a copy of target creature. Put a +1/+1 counter on it for each instant, sorcery, and Wizard card in your graveyard.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/621.png" num="123">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/614.png" num="123">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10827,7 +10692,7 @@ When Seaside Ruins enters, draw a card, then discard a card.
 			<name>Shaded Castle</name>
 			<text>As Shaded Castle enters, you may behold a Swamp or Forest. If you don&apos;t, Shaded Castle enters tapped. (To behold a card, choose a permanent you control of that type or reveal a card of that type from your hand.)
 {T}: Add {B} or {G}.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/622.png" num="590">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/615.png" num="590">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10843,7 +10708,7 @@ When Seaside Ruins enters, draw a card, then discard a card.
 			<name>Siofra River</name>
 			<text>As Siofra River enters, you may behold an Island or Mountain. If you don&apos;t, Siofra River enters tapped. (To behold a card, choose a permanent you control of that type or reveal a card of that type from your hand.)
 {T}: Add {U} or {R}.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/623.png" num="593">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/616.png" num="593">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10860,7 +10725,7 @@ When Seaside Ruins enters, draw a card, then discard a card.
 			<text>Hideaway 4 (When this land enters, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)
 {T}: Add {C}.
 {7}, {T}: You may play the exiled card without paying its mana cost. This ability costs {1} less to activate for each instant and sorcery card in your graveyard.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/624.png" num="594">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/617.png" num="594">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10875,7 +10740,7 @@ When Seaside Ruins enters, draw a card, then discard a card.
 			<name>Spiral Rise</name>
 			<text>{T}: Add {C}.
 {4}, {T}: Add seven {C}. You can&apos;t spend this mana to cast nonlegendary spells. You may only cast one more spell this turn.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/625.png" num="595">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/618.png" num="595">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10890,7 +10755,7 @@ When Seaside Ruins enters, draw a card, then discard a card.
 			<name>Stone Coffin Fissure</name>
 			<text>{T}: Add {C}.
 {3}, {T}: Tap target creature. Put a stun counter on it. Activate only as a sorcery. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/626.png" num="596">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/619.png" num="596">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10905,7 +10770,7 @@ When Seaside Ruins enters, draw a card, then discard a card.
 			<name>Stonedigger Troll</name>
 			<text>Vigilance
 At the beginning of your upkeep, you may exile two cards from your graveyard. If you don&apos;t, tap this creature.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/627.png" num="61">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/620.png" num="61">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10928,7 +10793,7 @@ At the beginning of your upkeep, you may exile two cards from your graveyard. If
 
 When this artifact enters, it deals 2 damage to any target.
 {T}: Add one mana of any color.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/628.png" num="529">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/621.png" num="529">EDRC</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -10945,7 +10810,7 @@ When this artifact enters, it deals 2 damage to any target.
 			<text>Trample
 Straghess gets +1/+1 for each card in your graveyard.
 As long as Straghess is on the battlefield, it has all activated and triggered abilities of creature cards in your graveyard.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/629.png" num="206">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/622.png" num="206">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10963,7 +10828,7 @@ As long as Straghess is on the battlefield, it has all activated and triggered a
 			<name>Swordhand of Night</name>
 			<text>Whenever you cast a noncreature spell, you may cast this card from your graveyard. (You still pay this card&apos;s costs.)
 Whenever this creature attacks, you may exile two noncreature, nonland cards from your graveyard. If you do, you draw a card.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/630.png" num="137">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/623.png" num="137">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10984,7 +10849,7 @@ Whenever this creature attacks, you may exile two noncreature, nonland cards fro
 ---
 
 Kiln Glaze deals 4 damage to target creature. Excess damage is dealt to you instead.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/631.png" num="278">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/624.png" num="278">EDRC</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -11003,7 +10868,7 @@ Kiln Glaze deals 4 damage to target creature. Excess damage is dealt to you inst
 As The Gloam-Eyed Queen enters, choose swaddling or flaying.
 • Swaddling — Creatures your opponents control have base toughness 1.
 • Flaying — Creatures your opponents control get -1/-1.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/632.png" num="397">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/625.png" num="397">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -11021,7 +10886,7 @@ As The Gloam-Eyed Queen enters, choose swaddling or flaying.
 			<name>The Liurnian Ravine</name>
 			<text>As The Liurnian Ravine enters, you may behold a Mountain or Forest. If you don&apos;t, The Liurnian Ravine enters tapped. (To behold a card, choose a permanent you control of that type or reveal a card of that type from your hand.)
 {T}: Add {R} or {G}.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/633.png" num="573">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/626.png" num="573">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -11038,7 +10903,7 @@ As The Gloam-Eyed Queen enters, choose swaddling or flaying.
 			<text>Impending 4—{8} (If you cast this spell for its impending cost, it enters with four time counters and isn&apos;t a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)
 When you cast this spell, gain control of target creature an opponent controls.
 Whenever you cast a legendary creature spell, copy it. The copy is a 4/4 Avatar in addition to its other types and isn&apos;t legendary.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/634.png" num="2">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/627.png" num="2">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -11054,7 +10919,7 @@ Whenever you cast a legendary creature spell, copy it. The copy is a 4/4 Avatar 
 			<name>The Three Fingers</name>
 			<text>At the beginning of your end step, draw or discard cards until you have three cards in your hand.
 Whenever you discard a nonland card, copy it. You may cast the copy by paying life equal to its mana value rather than paying its mana cost.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/635.png" num="210">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/628.png" num="210">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -11071,7 +10936,7 @@ Whenever you discard a nonland card, copy it. You may cast the copy by paying li
 		<card>
 			<name>The Two Fingers</name>
 			<text>Whenever you cast an enchantment spell, copy it, except the copy isn&apos;t legendary. You may choose new targets for the copy.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/636.png" num="67">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/629.png" num="67">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -11090,7 +10955,7 @@ Whenever you discard a nonland card, copy it. You may cast the copy by paying li
 			<text>The Visage of the Dreglord enters tapped.
 {T}: Add {C}{C}.
 As long as a player has lost the game, The Visage of the Dreglord is a 7/7 black Avatar creature with trample and haste in addition to its other types.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/637.png" num="534">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/630.png" num="534">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -11105,7 +10970,7 @@ As long as a player has lost the game, The Visage of the Dreglord is a 7/7 black
 			<name>Traitor Dragon</name>
 			<text>Flying
 At the beginning of each opponent&apos;s upkeep, that player gains control of up to one target Dragon you control until end of turn. Untap that creature, goad it, and it gains haste and can&apos;t be sacrificed this turn.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/638.png" num="280">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/631.png" num="280">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -11123,7 +10988,7 @@ At the beginning of each opponent&apos;s upkeep, that player gains control of up
 			<name>Travel to the Realm of Shadow</name>
 			<text>Exile target card from a graveyard. If it&apos;s a creature card, create a 1/1 white Spirit creature token. Otherwise, draw a card.
 Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/639.png" num="352">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/632.png" num="352">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -11139,7 +11004,7 @@ Retrace (You may cast this card from your graveyard by discarding a land card in
 		<card>
 			<name>Twin Moons</name>
 			<text>Exile target instant or sorcery card from your graveyard. Copy that card two times. You may cast the copies without paying their mana costs.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/640.png" num="143">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/633.png" num="143">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -11157,7 +11022,7 @@ Retrace (You may cast this card from your graveyard by discarding a land card in
 			<text>Ravenous (This creature enters with X +1/+1 counters on it. If X is 5 or more, draw a card when it enters.)
 Trample
 Renew — {X}{G}{G}, Exile this card from your graveyard: Put X +1/+1 counters on target creature. If X is 5 or more, draw a card. Activate only as a sorcery.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/641.png" num="355">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/634.png" num="355">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -11175,7 +11040,7 @@ Renew — {X}{G}{G}, Exile this card from your graveyard: Put X +1/+1 counters o
 			<name>Undertaker</name>
 			<text>Whenever another nontoken Cleric, Rogue, Warrior, or Wizard creature you control dies, return that card to its owner&apos;s hand at the beginning of the next end step.
 As long as you have a full party, Undertaker gets +3/+3 and has flying and trample. (Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/642.png" num="484">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/635.png" num="484">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -11192,7 +11057,7 @@ As long as you have a full party, Undertaker gets +3/+3 and has flying and tramp
 		<card>
 			<name>Valkyrie&apos;s Descent</name>
 			<text>Destroy all creatures except creatures with base power 1 or less.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/643.png" num="68">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/636.png" num="68">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -11209,7 +11074,7 @@ As long as you have a full party, Undertaker gets +3/+3 and has flying and tramp
 			<name>Volcano Manor</name>
 			<text>As Volcano Manor enters, you may behold a Mountain or Plains. If you don&apos;t, Volcano Manor enters tapped. (To behold a card, choose a permanent you control of that type or reveal a card of that type from your hand.)
 {T}: Add {R} or {W}.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/644.png" num="598">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/637.png" num="598">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -11225,7 +11090,7 @@ As long as you have a full party, Undertaker gets +3/+3 and has flying and tramp
 			<name>Vyke and Lansseax</name>
 			<text>Flying, prowess
 Whenever Vyke and Lansseax or another Dragon you control enters, exile up to one target instant or sorcery card from your graveyard. Copy it. You may cast the copy by discarding a card rather than paying its mana cost.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/645.png" num="282">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/638.png" num="282">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -11243,7 +11108,7 @@ Whenever Vyke and Lansseax or another Dragon you control enters, exile up to one
 			<name>Vyke&apos;s Torment</name>
 			<text>Exile the top card of your library. You may play that card this turn.
 At the beginning of your upkeep, if you have no cards in hand, you may return this card from your graveyard to your hand.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/646.png" num="283">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/639.png" num="283">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -11261,7 +11126,7 @@ At the beginning of your upkeep, if you have no cards in hand, you may return th
 			<text>Defender
 When this creature enters, you become the monarch.
 At the beginning of combat on each player&apos;s turn, goad up to one target creature that player controls. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/647.png" num="488">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/640.png" num="488">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -11281,7 +11146,7 @@ At the beginning of combat on each player&apos;s turn, goad up to one target cre
 I — Search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
 II — You may put an Equipment card from your hand onto the battlefield.
 III — Equipped creatures you control gain myriad until end of turn.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/648.png" num="70">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/641.png" num="70">EDRC</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -11299,7 +11164,7 @@ III — Equipped creatures you control gain myriad until end of turn.</text>
 			<text>Weeping Peninsula enters tapped.
 When Weeping Peninsula enters, draw a card, then discard a card.
 {T}: Add {G} or {W}.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/649.png" num="600">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/642.png" num="600">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -11315,7 +11180,7 @@ When Weeping Peninsula enters, draw a card, then discard a card.
 			<name>Well-Laid Plans</name>
 			<text>Search your library for a card, put it into your graveyard, then shuffle.
 Paradigm (Then exile this spell. After you first resolve a spell with this name, you may cast a copy of it from exile without paying its mana cost at the beginning of each of your first main phases.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/650.png" num="214">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/643.png" num="214">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -11332,7 +11197,7 @@ Paradigm (Then exile this spell. After you first resolve a spell with this name,
 			<name>Wylder</name>
 			<text>When Wylder enters, he deals 1 damage to any target and you gain that much life.
 If a source you control deal damage, it deals that much damage plus X instead, where X is the number of creatures in your party. (Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/651.png" num="491">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/644.png" num="491">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -11351,7 +11216,7 @@ If a source you control deal damage, it deals that much damage plus X instead, w
 			<text>Choose one —
 • Exile target nonland permanent. Its controller draws a card.
 • Return target permanent card with mana value 3 or less from your graveyard to the battlefield.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/652.png" num="72">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/645.png" num="72">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -11368,7 +11233,7 @@ If a source you control deal damage, it deals that much damage plus X instead, w
 			<name>Zorayas, Serpentine Seeker</name>
 			<text>Whenever you discard a nonland card, copy it. You may cast the copy. (You still pay its costs.)
 Whenever you attack, you may discard a card. If you do, put two +1/+1 counters on target attacking creature.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/653.png" num="286">EDRC</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/EDRC-files/img/646.png" num="286">EDRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

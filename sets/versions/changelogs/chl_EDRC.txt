@@ -1,4 +1,468 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+King of the Storm removed.
+Gaping Dragon removed.
+Nameless King removed.
+Dancer of the Boreal Valley removed.
+Smelter Demon removed.
+Duke's Dear Freja removed.
+Centipede Demon removed.
+
+Snow Witch
+
+Fallingstar Beast
+
+Scadutree Base
+
+O, Elden Ring!
+
+Radagon of the Golden Order
+
+Mend the Elden Ring
+
+Heolstor, the Nightlord
+rules_text: [i]Eminence[/i] — At the start of the game, if this card is in your command zone, conjure any number of different [i]Dark Souls[/i] cards and shuffle them into your library.
+Menace, ward {3}
+Whenever Heolstor enters or attacks, look at the top card of your library, then you may cast a spell from your hand or the top of your library without paying its mana cost. => [i]Eminence[/i] — At the start of the game, if Heolstor is in your command zone, you may exile a legendary creature card you own from outside the game with a rift counter on it.
+Menace, ward {3}
+Whenever Heolstor enters or attacks, you may create a token that's a copy of creature card you own in exile with a rift counter on it, except the copy isn't legendary.
+
+Crumbling Farum Azula
+
+Maris, Master of Bubbles
+
+Consecrated Snowfield
+
+Altus Plateau
+
+Land of Shadow
+
+A New Journey
+
+In Search of Purpose
+
+Melina and Torrent
+
+Adel, Gaping Jaw
+
+Ironeye
+
+Fire Knight Captain
+
+Jarburg
+
+Wailing Dunes
+
+Ancient Golem
+
+Redmane Castle
+
+Elphael, Brace of the Haligtree
+
+Leyndell, Ashen Capital
+
+Gnoster, Wisdom of Night
+
+Horned Warrior
+
+Empyrean Bond
+
+Silver Tear Seal
+
+Sunder Reality
+
+Iron Menial
+
+Construct
+
+Faurtis Stoneshield
+
+Serve the Gods
+
+Small Jar Bazaar
+
+Thiollier
+
+Raider
+
+Fissure in the Fog
+
+Great Exodus
+
+Unrelenting Hunger
+
+Gaol Binding
+
+Teardrop of Night
+
+Return to the Erdtree
+
+Tricephalos's Howl
+
+Godskin Duo
+
+Shadow Keep
+
+The Great Jar
+
+On An Adventure
+
+Can Be Cast From Exile
+
+Restage
+
+Plant
+
+Butterfly
+
+Bird Spirit
+
+Libra, Equilibrious Beast
+
+Caligo, Miasma of Night
+
+Arrow of Nightglow
+
+Condemn to Memory
+
+Light of Miquella
+
+Offer Pita Bread
+
+Serosh, Beast Regent
+
+Glow
+
+Larval Transformation
+
+Maris, Unknown Entity
+
+Rellana's Cameo
+
+Shadows Colder than Death
+
+Call the Condemned
+
+Footprints of the Nightlord
+type: Sorcery => Instant
+rules_text: Conjure your choice of a [i]Dark Souls[/i] card and put it into your hand. => Draw three cards, then reveal two cards from your hand and put them on top of your library in any order. You lose life equal to their combined mana value.
+
+Grave Keeper
+
+Night's Tide
+
+The Shape of Night
+
+Animus, Ascendant Light
+
+Farum Azula Dragon
+
+Fire Prelate
+
+Flames of Gladius
+
+Forge's Flames
+
+Behold the Jagged Peak
+
+Cradled by Death
+
+Roderika and Hewg
+
+Shaman Village Sentinel
+
+Storm Ruler
+
+Eclipsed Sun
+
+Ghiza's Wheel
+
+Larval Tear
+
+Marika's Jars
+
+Moonlight Greatsword
+
+A Tarnished of No Renown
+
+Naturalborn's Presence
+
+Ancient Dragon
+
+Raya Lucaria Academy
+
+Divine Beast Dancing Lion
+
+Make Your Choice
+
+Fulghor, Darkdrift Knight
+
+Miquella and Radahn
+
+Rellana, Blade of Messmer
+
+Erdtree Burial
+
+The Erdtree
+
+Abyssal Woods
+
+Adel, Ravening Unending
+
+Age of Despair
+
+Age of Frenzied Flame
+
+Age of Order
+
+Age of Stars
+
+Age of the Duskborn
+
+Albinauric Blood
+
+Albinauric Duo
+
+Alexander, Forged Anew
+
+Analyze
+
+As if in a Dream
+
+Bigmouth Imp
+
+Black Blade Kindred
+
+Bloodstained Heavens
+
+Bonny Gaol
+
+Bonny Village
+
+Caligo, Prehistoric Dragon
+
+Carian Glintstone Staff
+
+Castle Ensis
+
+Castle Morne
+
+Castle Sol Commander
+
+Champion Fulghor
+
+Chanting Winged Dame
+
+Charo's Hidden Grave
+
+Cleaning Chamber Anteroom
+
+Death Prince's Gaze
+
+Deeproot Depths
+
+Draconic Tree Sentinel
+
+Dragonstorm
+
+Dynastic Tutelage
+
+Eiglay, Devouring Serpent
+
+Fate Cannot Be Changed
+
+Fateful Night
+
+Fear of the Night
+
+Finger Ruins Lamprey
+
+Finger Ruins of Dheo
+
+Frenzied Merchant
+
+Garden of Deep Purple
+
+Gate Town
+
+Ghostflame Dragon
+
+Gift of Scorpion Stew
+
+Godefroy the Grafted
+
+Godfrey's Long March
+
+Godwyn's Tomb
+
+Golden Hippopotamus
+
+Golden Order Greatsword
+
+Golem Smith
+
+Grand Caravan Steed
+
+Grand Cloister
+
+Graven Mass
+
+Gravesite Plain
+
+Greater Potentate
+
+Greatswords of Radahn
+
+Guidance of Rosus
+
+Harmonia, the Balancers
+
+Harmonia, the Salvation
+
+Jagged Peak
+
+Kindreds of Rot
+
+Lightspeed Slash
+
+Limgrave Infantry
+
+Limveld
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Limveld gains “{T}: Add one mana of any of your commander's colors.”
+II — You may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+III — You may discard a card. If you do, conjure your choice of a [i]Dark Souls[/i] card and put it into your hand. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Limveld gains “{T}: Add one mana of any of your commander's colors.”
+II — You may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+III — Put your commander into your hand from the command zone or your graveyard.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Limveld gains “{T}: Add one mana of any of your commander's colors.”
+II — You may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+III — You may discard a card. If you do, conjure your choice of a [i]Dark Souls[/i] card and put it into your hand. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Limveld gains “{T}: Add one mana of any of your commander's colors.”
+II — You may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+III — Put your commander into your hand from the command zone or your graveyard.
+
+Loathsome Hex
+
+Luminary Mohg
+
+Magma Wyrm
+
+Majesty of the Capital
+
+Miquella's Needle
+
+Misbegotten Crusader
+
+Mohgwyn Palace
+
+Monstrous Dog
+
+Muster the Redmanes
+
+Night's Origin
+
+Obscure in Shadow
+
+One Final Battle
+
+Oracle Envoy Giant
+
+Outwit Annihilation
+
+Profound Holiness
+
+Pure Impulse Straghess
+
+Rakshasa Knight
+
+Ruin-Strewn Precipice
+
+Rune of Night
+
+Scadu Altus
+
+Scaduview
+
+Scarlet Aeonia
+
+Scholar
+
+Scorpion River Catacombs
+
+Seaside Ruins
+
+Sellen's Plot
+
+Shaded Castle
+
+Siofra River
+
+Sorcerer's Rise
+
+Spiral Rise
+
+Stone Coffin Fissure
+
+Stonedigger Troll
+
+Stoneskin Lord
+
+Straghess, the Dreglord
+
+Swordhand of Night
+
+Temper with Flame
+
+The Gloam-Eyed Queen
+
+The Liurnian Ravine
+
+The Primordial Nightlord
+
+The Three Fingers
+
+The Two Fingers
+
+The Visage of the Dreglord
+
+Traitor Dragon
+
+Travel to the Realm of Shadow
+
+Twin Moons
+
+Ulcerated Tree Spirit
+
+Undertaker
+
+Valkyrie's Descent
+
+Volcano Manor
+
+Vyke and Lansseax
+
+Vyke's Torment
+
+Walls of Leyndell
+
+Weapon Bequeathal
+
+Weeping Peninsula
+
+Well-Laid Plans
+
+Wylder
+
+You're Beautiful
+
+Zorayas, Serpentine Seeker
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Madding Hand added.

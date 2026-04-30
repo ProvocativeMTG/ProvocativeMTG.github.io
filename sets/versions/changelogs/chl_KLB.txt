@@ -1,4 +1,327 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Lotus Dragon Turtle added.
+Dragonsoul Combatant added.
+Tsubasa, Curseridden added.
+Shigane Manor Stands Tall added.
+Aoki, Kinscale Champion added.
+Geisha of the Koto added.
+Unsealed Relic added.
+Giyama, Accursed Blood added.
+Beast of the Coiling Abyss added.
+Seishin Charm added.
+Soen, Inklight Artisan added.
+Sealing Spell added.
+Baboon Swordhand added.
+Inklight Thief added.
+Featherlight Assailant added.
+Viletongue Seishin added.
+Tea Leaf Whelp added.
+Jadeclad Infiltrator added.
+Iwai, Oda's Slayer added.
+Petalfall added.
+Shigane Fatereader added.
+Oni Charm added.
+Conqueror's Faithful added.
+Dynasty Charms added.
+Dragon Festival Barges added.
+Mossmane Kirin added.
+Yokinzan Bellringer added.
+Amphibian Ascetics added.
+Lanternlighter added.
+Mistweave Soarer added.
+Avatar of the All Grasping added.
+Aoushun, Brought Back added.
+Cartographer's Edict added.
+Ayeshi, Kitsuo's Savior added.
+Daiju, Lord of the Moon added.
+The Inkstone added.
+One-Engine Colossus added.
+Errant Ronin added.
+Bloodsoaked Gate added.
+Yokinzan Ronin added.
+Lumbering Gourdbearer added.
+Bloodflame Avenger added.
+Shadow of Takeno added.
+Severance added.
+Fireheart Ruiner added.
+Hands from Hell added.
+Shiori, Devourer of Souls added.
+Yosune, the Farbound added.
+Chiyo, Sakura Tortoise added.
+Celestial Dance added.
+Elbow Strike added.
+Seishin Binding added.
+Fan Dancer added.
+Daiju's Moonsea Barge added.
+Death Undone added.
+Flow added.
+Kaibyo Shrine Maidens added.
+Kaibyo Lightspinner added.
+Dragoneye Crackshot added.
+Shrine Maiden's Tanuki added.
+Gate Atop the Holt added.
+Gate Atop the Peak added.
+Gate Atop the Isle added.
+Gate Atop the Bog added.
+Gate Atop the Hill added.
+Confluence of Paths added.
+Predestined Path added.
+Torii-Bound Koi added.
+Eight-Faced Calamity added.
+Thundermane Seishin added.
+Kitsune Protector added.
+Fickle Forms added.
+Kitsune Celebrant added.
+Risen Realmway added.
+Studies in Spirits and Steel added.
+Bitter Vengeance added.
+Shigane Charm added.
+Adjutant of the Ripple added.
+Ugin, Ghostflame Scholar added.
+Master of Ravens added.
+Shiori's Augur added.
+Patient Mother added.
+Tachibana, the Vengeant added.
+Ryutenmaru, Imperial Skyship added.
+Cloudcutter Sellsword added.
+Warlord's Capture added.
+Persistent Swordmaster added.
+Zombie Samurai added.
+Palm Blast added.
+Commune with Ancestors added.
+Break the Tide added.
+Shigane Inspector added.
+Kimja Courier added.
+Oni-Engine Acolyte added.
+Fire-Rain Witch added.
+Sneak a Peek added.
+Heiress of War added.
+Conjured Dragonfire added.
+Fanblade Geisha added.
+Hardsuit added.
+Jellyfish added.
+Gate to Everywhere added.
+Skilled Animation added.
+Tsubasa's Technique added.
+Dragon of Good Winds added.
+Oe, the Beast Kitsune added.
+Vengeance for the Lost added.
+Kimja Charm added.
+Uiki Charm added.
+Kage, Soul Clad in Steel added.
+Majestic Phoenix added.
+Ambush Seishin added.
+Swept Up added.
+Cleaving Cut added.
+Haruki, Ofuda Duelist added.
+Bloodstained Ruiners added.
+Still the Surface added.
+Ancestral Guidance added.
+Stand Alone added.
+Ripple in the Waters added.
+Woven Amigasa added.
+Emperor's Seal added.
+Tales of Ages Past added.
+Simian Exemplar added.
+Majestic Duo added.
+Oath Sworn in Blood added.
+Jadescale Viper added.
+Young Qilin added.
+Stonecarved Protector added.
+The Last Bloom added.
+Ugin's Command added.
+Giant Mossy Frog added.
+Aonuma and Koraja added.
+Internal Crisis added.
+Bloom in Blood added.
+Koto's Anthem added.
+Noble Dragonguard added.
+Ukina, Hyomon's Legacy added.
+Eager Pupil added.
+Three-Headed Heron added.
+Avatar of the Skies added.
+Guardian of Tsuge added.
+Welkin Summoning added.
+Dappled Predator added.
+Adrift in the Wake added.
+Scion of Ikurimoko added.
+Scion of Yingjun added.
+Scion of Keuya added.
+Scion of Gereishin added.
+Scion of Aoushun added.
+Sunkissed Kirin added.
+Old Demonlord added.
+Immortal Flames added.
+Corrupting Urge added.
+Fan the Flames added.
+Upstart Soulseer added.
+Exalted Wanderer added.
+Natori Cannoneer added.
+Natori Realmwalker added.
+Flowing Duelist added.
+Wanderer's Echo added.
+Guardian Kinscale added.
+Bearer of the Cresset added.
+Yuuto, Son of Toyotomi added.
+Astral Projection added.
+Black Lotus added.
+Tea-Haze Wisp added.
+Dragonblessed Stormcaller added.
+Sail the Spirit Realms added.
+Shrine Communion added.
+Dragonbone Sculptor added.
+Allure of the Kitsune added.
+Minori, the Puppeteer added.
+Graceful Spinstress added.
+Walk Two Paths added.
+Fatherly Mentor added.
+Honored Master-at-Arms added.
+Ruined Champion added.
+Kage's Reaver added.
+Bedevil added.
+Mow Down added.
+Witch's Branchblade added.
+Segmented Seishin added.
+Looming Firehulk added.
+Lady of Yokinza added.
+Honorbound Undead added.
+Shigane Branchdancer added.
+Measured Assault added.
+Brave Martyr added.
+Deep Sea Shinobi added.
+Runic Mercenary added.
+Preening Peacock added.
+Poisoned Edge added.
+Waves of Gold added.
+Sentinel of Binding added.
+Walking Pagoda added.
+Broken Vow added.
+Construct added.
+Engraved Fanblade added.
+Enduring Memory added.
+Murmuring Monument added.
+Run-Down Shrine added.
+Manifest added.
+Young Trainee added.
+Spirit Realm Trawler added.
+Realm Devouring added.
+Backline Deadeye added.
+Ritual of Returning added.
+Immortal Warlord added.
+Macabre Collector added.
+Condemned Souleater added.
+Lotus Petal added.
+Horizon Chaser added.
+Sunsong Player added.
+Tsuru, the Tattooist added.
+Oni Daimyo added.
+Path of Flame added.
+Stillness and Motion added.
+Dragoncaller Immortal added.
+Kazuko, Lord of Chaos added.
+Reo, First Gunblade added.
+Ayeshi's Lament added.
+Colossal Seishin added.
+Runewrapped Onryo added.
+Faceless Hunter added.
+Cursed Plate added.
+Haughty Oblate added.
+Honored Commander added.
+Koshin, the Kin-Killer added.
+Gates Ablaze added.
+Grim Bruiser added.
+Gereishin, Last of His Kin added.
+Amagaseto, Alone No More added.
+Lion Dancer added.
+Hatazo, Shiny Finder added.
+Tzuhan, the Last Heir added.
+Nimomae, the Origamist added.
+The Multiverse Awaits added.
+Mercenary's Blade added.
+Zaiku o Toge added.
+Bind in Jade added.
+Riyoto, the First Immortal added.
+God-Tree Saptender added.
+Scrollbound Beast added.
+Splintering Raiju added.
+Minenohana, Blossom's Cradle added.
+Fractal Realmway added.
+Escape the Demon Realm added.
+Celebration of Peace added.
+Kitsune Gate added.
+Monolith Gate added.
+Accursed Gate added.
+Hewn Gate added.
+Lotus Pools added.
+Oni-Engine Forge added.
+Dragonmaw Gate added.
+Turncoat Ruiner added.
+Runecut Ronin added.
+Kei, Who Still Stands added.
+Shigane Diviner added.
+Aquatic Ambusher added.
+Warnings Unheeded added.
+Spiralhorn Winder added.
+Hirohito, Guiding Blossom added.
+Dreamwalk added.
+Harmonious Monks added.
+Rushing Blood added.
+March to War added.
+Furious Confrontation added.
+Cloud Dance added.
+Jiro, the Flutist added.
+Benevolent Serpent added.
+Kitsune's Allure added.
+Soaring Trackers added.
+Corrupted Wanderer added.
+Esouled Yoroi added.
+Regal Mount added.
+Legions Upon Legions added.
+Kitsune Maiden added.
+Coiling Abyss's Blessing added.
+Burning-Blood Toad added.
+Shadow-Haunted Captain added.
+Yokinzan Formshifter added.
+Uiki Rockslinger added.
+Chaffcutter Shinobi added.
+Animated Lantern-Guide added.
+Omen Strix added.
+Condemned Huntress added.
+Fleetfooted Messenger added.
+Destiny of Ash and Flame added.
+Tiger Koi added.
+Kinscale Harrier added.
+Warden of Kaibyo added.
+Golden Horned Serpent added.
+Jade Komainu added.
+Heaven's Revolution added.
+Relic Seeker added.
+Resourceful Adversary added.
+March for the Demonlord added.
+Dragon Grandam added.
+Kaibyo Ensorceller added.
+Total Corruption added.
+Skulker's Dualblades added.
+Clue added.
+Bird added.
+Ninja added.
+Demon added.
+Monk added.
+Dragon added.
+Spirit Beast added.
+Shade added.
+Snake added.
+Ofuda added.
+Bird Construct added.
+Lotus Cobra added.
+Avatar added.
+Inkling Horror added.
+
+
+
+VERSION 9 CHANGELOG
 ====================
 
 

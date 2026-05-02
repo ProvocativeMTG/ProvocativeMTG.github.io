@@ -133,7 +133,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Artifact",
-            "number": 66,
+            "number": 65,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Sneak {1}{U} [i](You may cast this spell for {1}{U} if you also return an unblocked attacker you control to hand during the declare blockers step. If it's a creature, it enters tapped and attacking.)[/i]\n{T}: Add {U}.\nAs this artifact enters, you may have it become a copy of any creature on the battlefield until end of turn.",
@@ -146,26 +146,6 @@
             "artist": "Cmy Cai",
             "alias": "",
             "position": "6",
-            "notes": ""
-        },
-        {
-            "card_name": "Giyama, Accursed Blood",
-            "color": "BR",
-            "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2014 Giyama",
-            "number": 188,
-            "color_identity": "BR",
-            "cost": "{3}{B}{R}",
-            "rules_text": "At the beginning of combat on your turn, create a token that's a copy of up to one target creature you control. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.\n[+1]: You may sacrifice a creature. If you do, Giyama deals 2 damage to each opponent that creature attacked this turn and you draw a card.\n[-2]: Return target creature card with mana value 3 or less from your graveyard to the battlefield.\n[-2]: Each opponent loses life equal to the amount of life they lost this turn.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "At the beginning of combat on your turn, create a token that's a copy of up to one target creature you control. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.\n[+1]: You may sacrifice a creature. If you do, Giyama deals 2 damage to each opponent that creature attacked this turn and you draw a card.\n[-2]: Return target creature card with mana value 3 or less from your graveyard to the battlefield.\n[-2]: Each opponent loses life equal to the amount of life they lost this turn.",
-            "shape": "planeswalker",
-            "set": "KLB",
-            "loyalty": "4",
-            "artist": "Jeleynai",
-            "alias": "",
-            "position": "7",
             "notes": ""
         },
         {
@@ -185,7 +165,7 @@
             "loyalty": "",
             "artist": "YAZIRI_art",
             "alias": "",
-            "position": "8",
+            "position": "7",
             "notes": ""
         },
         {
@@ -205,7 +185,7 @@
             "loyalty": "",
             "artist": "Altered TCG",
             "alias": "",
-            "position": "9",
+            "position": "8",
             "notes": ""
         },
         {
@@ -225,7 +205,7 @@
             "loyalty": "",
             "artist": "liu223",
             "alias": "",
-            "position": "10",
+            "position": "9",
             "notes": ""
         },
         {
@@ -233,7 +213,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Instant",
-            "number": 59,
+            "number": 58,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Choose one\u2014\n\u2022 Counter target creature spell.\n\u2022 Counter target activated or triggered ability from a nonland source.",
@@ -245,7 +225,7 @@
             "loyalty": "",
             "artist": "Trotea Robert",
             "alias": "",
-            "position": "11",
+            "position": "10",
             "notes": ""
         },
         {
@@ -265,7 +245,7 @@
             "loyalty": "",
             "artist": "Patryk Jedraszek",
             "alias": "",
-            "position": "12",
+            "position": "11",
             "notes": ""
         },
         {
@@ -273,7 +253,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Ninja",
-            "number": 52,
+            "number": 51,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Sneak {2}{U} [i](You may cast this spell for {2}{U} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)[/i]\nWhenever this creature deals combat damage to a player, draw a card. You may cast a spell with mana value 1 or less from your hand without paying its mana cost.",
@@ -285,7 +265,7 @@
             "loyalty": "",
             "artist": "bigfatlow",
             "alias": "",
-            "position": "13",
+            "position": "12",
             "notes": ""
         },
         {
@@ -293,7 +273,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Ninja Rogue",
-            "number": 47,
+            "number": 46,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "As an additional cost to cast this spell, you may return a non-Rogue creature you control to its owner's hand.\nDuring your turn, this creature has flying.\nWhen this creature enters, if a permanent you controlled left the battlefield without dying this turn, put a +1/+1 counter on target creature you control.",
@@ -305,7 +285,7 @@
             "loyalty": "",
             "artist": "mtorange",
             "alias": "",
-            "position": "14",
+            "position": "13",
             "notes": ""
         },
         {
@@ -325,7 +305,7 @@
             "loyalty": "",
             "artist": "southernmost",
             "alias": "",
-            "position": "15",
+            "position": "14",
             "notes": ""
         },
         {
@@ -345,7 +325,7 @@
             "loyalty": "",
             "artist": "George Bennett",
             "alias": "",
-            "position": "16",
+            "position": "15",
             "notes": ""
         },
         {
@@ -365,7 +345,7 @@
             "loyalty": "",
             "artist": "youngjaejo",
             "alias": "",
-            "position": "17",
+            "position": "16",
             "notes": ""
         },
         {
@@ -385,7 +365,7 @@
             "loyalty": "",
             "artist": "TheRaaveu",
             "alias": "",
-            "position": "18",
+            "position": "17",
             "notes": ""
         },
         {
@@ -405,7 +385,7 @@
             "loyalty": "",
             "artist": "siyemm",
             "alias": "",
-            "position": "19",
+            "position": "18",
             "notes": ""
         },
         {
@@ -413,7 +393,7 @@
             "color": "U",
             "rarity": "mythic",
             "type": "Creature \u2014 Human Ninja",
-            "number": 60,
+            "number": 59,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
             "rules_text": "Sneak {1}{U} [i](You may cast this spell for {1}{U} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)[/i]\nAs this creature enters, secretly choose a nonland card name.\nExhaust \u2014 {U}, Reveal the chosen name: Counter target spell with the chosen name. [i](Activate each exhaust ability only once.)[/i]",
@@ -425,7 +405,7 @@
             "loyalty": "",
             "artist": "Yan nian",
             "alias": "",
-            "position": "20",
+            "position": "19",
             "notes": ""
         },
         {
@@ -445,7 +425,7 @@
             "loyalty": "",
             "artist": "TimeLordJikan",
             "alias": "",
-            "position": "21",
+            "position": "20",
             "notes": ""
         },
         {
@@ -453,7 +433,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2014 Demon Warrior",
-            "number": 76,
+            "number": 75,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
             "rules_text": "As an additional cost to cast this spell, discard a card.\nThis creature gets -1/-1 for each card in your hand.",
@@ -465,7 +445,7 @@
             "loyalty": "",
             "artist": "toloma8",
             "alias": "",
-            "position": "22",
+            "position": "21",
             "notes": ""
         },
         {
@@ -485,7 +465,7 @@
             "loyalty": "",
             "artist": "lei min",
             "alias": "",
-            "position": "23",
+            "position": "22",
             "notes": ""
         },
         {
@@ -505,7 +485,7 @@
             "loyalty": "",
             "artist": "lei min",
             "alias": "",
-            "position": "24",
+            "position": "23",
             "notes": ""
         },
         {
@@ -525,7 +505,7 @@
             "loyalty": "",
             "artist": "Zoey Rose",
             "alias": "",
-            "position": "25",
+            "position": "24",
             "notes": ""
         },
         {
@@ -545,7 +525,7 @@
             "loyalty": "",
             "artist": "Lil Wacom",
             "alias": "",
-            "position": "26",
+            "position": "25",
             "notes": ""
         },
         {
@@ -565,7 +545,7 @@
             "loyalty": "",
             "artist": "bigfatlow",
             "alias": "",
-            "position": "27",
+            "position": "26",
             "notes": ""
         },
         {
@@ -573,7 +553,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Human Monk",
-            "number": 54,
+            "number": 53,
             "color_identity": "U",
             "cost": "{3}{U}",
             "rules_text": "Dualism [i](As you cast this spell, you may tap three untapped creatures you control to reduce this spell's cost by {3} or to copy it. The copy becomes a token.)[/i]\nWhen this creature enters, draw a card.",
@@ -585,7 +565,7 @@
             "loyalty": "",
             "artist": "bigfatlow",
             "alias": "",
-            "position": "28",
+            "position": "27",
             "notes": ""
         },
         {
@@ -605,7 +585,7 @@
             "loyalty": "",
             "artist": "ArtOfBenG",
             "alias": "",
-            "position": "29",
+            "position": "28",
             "notes": ""
         },
         {
@@ -625,7 +605,7 @@
             "loyalty": "",
             "artist": "Arcanedist",
             "alias": "",
-            "position": "30",
+            "position": "29",
             "notes": ""
         },
         {
@@ -645,7 +625,7 @@
             "loyalty": "",
             "artist": "Henry Peters",
             "alias": "",
-            "position": "31",
+            "position": "30",
             "notes": ""
         },
         {
@@ -665,7 +645,7 @@
             "loyalty": "",
             "artist": "Jilong Jun",
             "alias": "",
-            "position": "32",
+            "position": "31",
             "notes": ""
         },
         {
@@ -685,7 +665,7 @@
             "loyalty": "3",
             "artist": "Jack Wang",
             "alias": "",
-            "position": "33",
+            "position": "32",
             "notes": ""
         },
         {
@@ -693,7 +673,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Jellyfish Avatar",
-            "number": 42,
+            "number": 41,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
             "rules_text": "Flying, ward {1}\nOther Jellyfish you control get +1/+0.\nOther creatures you control with flying have ward {1}.\nWhenever you cast your first noncreature spell each turn, create a 1/1 blue Jellyfish creature token with flying.",
@@ -705,7 +685,7 @@
             "loyalty": "",
             "artist": "Jilong Jun",
             "alias": "",
-            "position": "34",
+            "position": "33",
             "notes": "prismana"
         },
         {
@@ -725,7 +705,7 @@
             "loyalty": "",
             "artist": "Fedor Barkhatov",
             "alias": "",
-            "position": "35",
+            "position": "34",
             "notes": ""
         },
         {
@@ -745,7 +725,7 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin",
             "alias": "",
-            "position": "36",
+            "position": "35",
             "notes": ""
         },
         {
@@ -765,7 +745,7 @@
             "loyalty": "",
             "artist": "SoVka666",
             "alias": "",
-            "position": "37",
+            "position": "36",
             "notes": ""
         },
         {
@@ -785,7 +765,7 @@
             "loyalty": "",
             "artist": "li moly",
             "alias": "",
-            "position": "38",
+            "position": "37",
             "notes": ""
         },
         {
@@ -805,7 +785,7 @@
             "loyalty": "",
             "artist": "asaki_vision",
             "alias": "",
-            "position": "39",
+            "position": "38",
             "notes": ""
         },
         {
@@ -825,7 +805,7 @@
             "loyalty": "",
             "artist": "DizzyClockwork",
             "alias": "",
-            "position": "40",
+            "position": "39",
             "notes": ""
         },
         {
@@ -845,7 +825,7 @@
             "loyalty": "",
             "artist": "DanSanAlv",
             "alias": "",
-            "position": "41",
+            "position": "40",
             "notes": ""
         },
         {
@@ -865,14 +845,14 @@
             "loyalty": "",
             "artist": "Lewis-T-Evans",
             "alias": "",
-            "position": "42",
+            "position": "41",
             "notes": ""
         },
         {
             "card_name": "Severance",
             "color": "WB",
             "rarity": "uncommon",
-            "type": "Sorcery",
+            "type": "Instant",
             "number": 224,
             "color_identity": "WB",
             "cost": "{W}{B}",
@@ -885,7 +865,7 @@
             "loyalty": "",
             "artist": "Javier Martinez Ferris",
             "alias": "",
-            "position": "43",
+            "position": "42",
             "notes": ""
         },
         {
@@ -896,7 +876,7 @@
             "number": 111,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
-            "rules_text": "Haste\nWhenever a player casts a spell that's one or more colors, this creature deals 1 damage to that player for each of that spell's colors.",
+            "rules_text": "Ward\u2014Pay 3 life.\nWhenever a player casts a spell that's one or more colors, this creature deals 1 damage to that player for each of that spell's colors.",
             "flavor_text": "[i]\u201cThe emperor has tried to stamp out the ruiners. But he will find that our fire is not so easily extinguished.\u201d[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -905,7 +885,7 @@
             "loyalty": "",
             "artist": "MOONLIGHTCAT",
             "alias": "",
-            "position": "44",
+            "position": "43",
             "notes": ""
         },
         {
@@ -925,7 +905,7 @@
             "loyalty": "",
             "artist": "Konstantin Porubov",
             "alias": "",
-            "position": "45",
+            "position": "44",
             "notes": ""
         },
         {
@@ -945,7 +925,7 @@
             "loyalty": "",
             "artist": "an de-and",
             "alias": "",
-            "position": "46",
+            "position": "45",
             "notes": ""
         },
         {
@@ -965,7 +945,7 @@
             "loyalty": "",
             "artist": "formalinshooter",
             "alias": "",
-            "position": "47",
+            "position": "46",
             "notes": "prismana"
         },
         {
@@ -985,7 +965,7 @@
             "loyalty": "",
             "artist": "Silvan Ramires",
             "alias": "",
-            "position": "48",
+            "position": "47",
             "notes": ""
         },
         {
@@ -1005,7 +985,7 @@
             "loyalty": "",
             "artist": "Olga Tereshenko",
             "alias": "",
-            "position": "49",
+            "position": "48",
             "notes": ""
         },
         {
@@ -1025,7 +1005,7 @@
             "loyalty": "",
             "artist": "Le Vuong",
             "alias": "",
-            "position": "50",
+            "position": "49",
             "notes": ""
         },
         {
@@ -1045,7 +1025,7 @@
             "loyalty": "",
             "artist": "Elizabeth Caesur",
             "alias": "",
-            "position": "51",
+            "position": "50",
             "notes": ""
         },
         {
@@ -1065,7 +1045,7 @@
             "loyalty": "",
             "artist": "Zeus Omiles (Kohicat_art)",
             "alias": "",
-            "position": "52",
+            "position": "51",
             "notes": ""
         },
         {
@@ -1085,7 +1065,7 @@
             "loyalty": "",
             "artist": "Joshua Cairos",
             "alias": "",
-            "position": "53",
+            "position": "52",
             "notes": ""
         },
         {
@@ -1105,7 +1085,7 @@
             "loyalty": "",
             "artist": "li moly",
             "alias": "",
-            "position": "54",
+            "position": "53",
             "notes": ""
         },
         {
@@ -1113,7 +1093,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 48,
+            "number": 47,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
             "rules_text": "Dualism [i](As you cast this spell, you may tap three untapped creatures you control to reduce this spell's cost by {3} or to copy it. )[/i]\nDraw four cards, then discard two cards.",
@@ -1125,7 +1105,7 @@
             "loyalty": "",
             "artist": "mgonzalez",
             "alias": "",
-            "position": "55",
+            "position": "54",
             "notes": ""
         },
         {
@@ -1145,7 +1125,7 @@
             "loyalty": "",
             "artist": "CiSL",
             "alias": "",
-            "position": "56",
+            "position": "55",
             "notes": ""
         },
         {
@@ -1153,7 +1133,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Creature \u2014 Avatar Monk",
-            "number": 53,
+            "number": 52,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Vigilance\nWhenever this creature becomes tapped, manifest the top card of your library. [i](Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]\nTap five untapped creatures you control: Draw a card.",
@@ -1165,7 +1145,7 @@
             "loyalty": "",
             "artist": "CiSL",
             "alias": "",
-            "position": "57",
+            "position": "56",
             "notes": ""
         },
         {
@@ -1185,7 +1165,7 @@
             "loyalty": "",
             "artist": "Useless Elf",
             "alias": "",
-            "position": "58",
+            "position": "57",
             "notes": ""
         },
         {
@@ -1205,7 +1185,7 @@
             "loyalty": "",
             "artist": "Ariduka55",
             "alias": "",
-            "position": "59",
+            "position": "58",
             "notes": ""
         },
         {
@@ -1225,7 +1205,7 @@
             "loyalty": "",
             "artist": "Surendra Rajawat",
             "alias": "",
-            "position": "60",
+            "position": "59",
             "notes": ""
         },
         {
@@ -1245,7 +1225,7 @@
             "loyalty": "",
             "artist": "Guillermo Martinez",
             "alias": "",
-            "position": "61",
+            "position": "60",
             "notes": ""
         },
         {
@@ -1265,7 +1245,7 @@
             "loyalty": "",
             "artist": "Gili Lipschitz",
             "alias": "",
-            "position": "62",
+            "position": "61",
             "notes": ""
         },
         {
@@ -1285,7 +1265,7 @@
             "loyalty": "",
             "artist": "Theo Sacha",
             "alias": "",
-            "position": "63",
+            "position": "62",
             "notes": ""
         },
         {
@@ -1305,7 +1285,7 @@
             "loyalty": "",
             "artist": "Lucas Silva",
             "alias": "",
-            "position": "64",
+            "position": "63",
             "notes": ""
         },
         {
@@ -1325,7 +1305,7 @@
             "loyalty": "",
             "artist": "ya wu",
             "alias": "",
-            "position": "65",
+            "position": "64",
             "notes": ""
         },
         {
@@ -1345,7 +1325,7 @@
             "loyalty": "",
             "artist": "Victorine Stolz",
             "alias": "",
-            "position": "66",
+            "position": "65",
             "notes": ""
         },
         {
@@ -1365,7 +1345,7 @@
             "loyalty": "",
             "artist": "James Monty",
             "alias": "",
-            "position": "67",
+            "position": "66",
             "notes": ""
         },
         {
@@ -1385,7 +1365,7 @@
             "loyalty": "",
             "artist": "YAZIRI_art",
             "alias": "",
-            "position": "68",
+            "position": "67",
             "notes": ""
         },
         {
@@ -1405,7 +1385,7 @@
             "loyalty": "",
             "artist": "ninerio",
             "alias": "",
-            "position": "69",
+            "position": "68",
             "notes": ""
         },
         {
@@ -1425,7 +1405,7 @@
             "loyalty": "",
             "artist": "Fyreflysky",
             "alias": "",
-            "position": "70",
+            "position": "69",
             "notes": ""
         },
         {
@@ -1445,7 +1425,7 @@
             "loyalty": "",
             "artist": "Elle Nguyen",
             "alias": "",
-            "position": "71",
+            "position": "70",
             "notes": ""
         },
         {
@@ -1465,7 +1445,7 @@
             "loyalty": "",
             "artist": "Rinokulee",
             "alias": "",
-            "position": "72",
+            "position": "71",
             "notes": ""
         },
         {
@@ -1485,7 +1465,7 @@
             "loyalty": "",
             "artist": "Kudos Productions",
             "alias": "",
-            "position": "73",
+            "position": "72",
             "notes": ""
         },
         {
@@ -1505,7 +1485,7 @@
             "loyalty": "",
             "artist": "Huu Ha",
             "alias": "",
-            "position": "74",
+            "position": "73",
             "notes": ""
         },
         {
@@ -1525,7 +1505,7 @@
             "loyalty": "",
             "artist": "Muhamad Faizal Fikri",
             "alias": "",
-            "position": "75",
+            "position": "74",
             "notes": ""
         },
         {
@@ -1545,18 +1525,18 @@
             "loyalty": "",
             "artist": "Eviraitari",
             "alias": "",
-            "position": "76",
+            "position": "75",
             "notes": ""
         },
         {
-            "card_name": "Adjutant of the Ripple",
+            "card_name": "Akuryo's Shadowpuller",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Advisor",
-            "number": 36,
+            "type": "Creature \u2014 Human Monk Advisor",
+            "number": 37,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "When this creature enters, draw a card. You may put a card from your hand on top of your library.\nYou may reveal the first card you draw each turn as you draw it. Whenever you reveal a white, black, red, or green card this way, copy that card and you may cast the copy. That copy costs {2} less to cast.",
+            "rules_text": "Flying\nWhen this creature enters, draw a card. You may put a card from your hand on top of your library.\nYou may reveal the first card you draw each turn as you draw it. Whenever you reveal a white, black, red, or green card this way, copy that card and you may cast the copy. That copy costs {2} less to cast.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -1565,7 +1545,7 @@
             "loyalty": "",
             "artist": "Monkae",
             "alias": "",
-            "position": "77",
+            "position": "76",
             "notes": ""
         },
         {
@@ -1585,7 +1565,7 @@
             "loyalty": "7",
             "artist": "Fioruccio Cascino",
             "alias": "",
-            "position": "78",
+            "position": "77",
             "notes": ""
         },
         {
@@ -1605,7 +1585,7 @@
             "loyalty": "",
             "artist": "Ruby Art",
             "alias": "",
-            "position": "79",
+            "position": "78",
             "notes": ""
         },
         {
@@ -1625,14 +1605,14 @@
             "loyalty": "",
             "artist": "eagleDB",
             "alias": "",
-            "position": "80",
+            "position": "79",
             "notes": ""
         },
         {
             "card_name": "Patient Mother",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Human Cleric",
+            "type": "Creature \u2014 Human Advisor",
             "number": 152,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -1645,7 +1625,7 @@
             "loyalty": "",
             "artist": "MenoOG",
             "alias": "",
-            "position": "81",
+            "position": "80",
             "notes": ""
         },
         {
@@ -1656,7 +1636,7 @@
             "number": 234,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "Double strike\nEach spell you cast costs {X} less to cast, where X is the total power of creatures that spell targets.",
+            "rules_text": "Double strike\nWhenever Tachibana attacks, for each nontoken permanent attached to her, create a token that's a copy of that permanent attached to her.",
             "flavor_text": "[i]\u201cMy wife is slain. I will have justice, or I will have vengeance.\u201d[/i]",
             "pt": "1/4",
             "special_text": "",
@@ -1665,7 +1645,7 @@
             "loyalty": "",
             "artist": "Aaric Liu",
             "alias": "",
-            "position": "82",
+            "position": "81",
             "notes": ""
         },
         {
@@ -1685,7 +1665,7 @@
             "loyalty": "",
             "artist": "Shusei Sasaya",
             "alias": "",
-            "position": "83",
+            "position": "82",
             "notes": ""
         },
         {
@@ -1705,7 +1685,7 @@
             "loyalty": "",
             "artist": "Natasha Nanook",
             "alias": "",
-            "position": "84",
+            "position": "83",
             "notes": ""
         },
         {
@@ -1725,7 +1705,7 @@
             "loyalty": "",
             "artist": "P1ka9",
             "alias": "",
-            "position": "85",
+            "position": "84",
             "notes": ""
         },
         {
@@ -1745,7 +1725,7 @@
             "loyalty": "",
             "artist": "Jose Brand",
             "alias": "",
-            "position": "86",
+            "position": "85",
             "notes": ""
         },
         {
@@ -1765,7 +1745,7 @@
             "loyalty": "",
             "artist": "Josue Macias",
             "alias": "",
-            "position": "87",
+            "position": "86",
             "notes": ""
         },
         {
@@ -1785,7 +1765,7 @@
             "loyalty": "",
             "artist": "Marcel Mercado",
             "alias": "",
-            "position": "88",
+            "position": "87",
             "notes": ""
         },
         {
@@ -1793,7 +1773,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 73,
+            "number": 72,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Choose one \u2014\n\u2022 Return target creature or planeswalker card from your graveyard to your hand.\n\u2022 Return two target creature and/or planeswalker cards that share a creature or planeswalker type from your graveyard to your hand.",
@@ -1805,19 +1785,19 @@
             "loyalty": "",
             "artist": "Carlos NCT",
             "alias": "",
-            "position": "89",
+            "position": "88",
             "notes": ""
         },
         {
-            "card_name": "Break the Tide",
+            "card_name": "Weave the Tide",
             "color": "U",
             "rarity": "rare",
             "type": "Instant",
-            "number": 40,
+            "number": 67,
             "color_identity": "U",
-            "cost": "{3}{U}{U}",
-            "rules_text": "Counter all spells your opponents control and all abilities your opponents control. Manifest the top card of your library, then put a +1/+1 counter on it for each spell and ability countered this way. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]",
-            "flavor_text": "[i][/i]",
+            "cost": "{1}{U}{U}",
+            "rules_text": "Choose one \u2014\n\u2022 Counter target spell.\n\u2022 Put any number of cards from your hand on the bottom of your library, then draw that many cards plus one.",
+            "flavor_text": "[i]The wave always crashes, but its rage can be redirected.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -1825,15 +1805,15 @@
             "loyalty": "",
             "artist": "Carlos NCT",
             "alias": "",
-            "position": "90",
-            "notes": ""
+            "position": "89",
+            "notes": "REWORK"
         },
         {
             "card_name": "Shigane Inspector",
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Human Ninja Detective",
-            "number": 61,
+            "number": 60,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Sneak {U} [i](You may cast this spell for {U} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)[/i]\nWhenever this creature deals combat damage to a player, you may sacrifice a Clue. If you do, draw a card. Otherwise, create a Clue token. [i](It's an artifact with \u201c{2}, Sacrifice this token: Draw a card.\u201d)[/i]",
@@ -1845,7 +1825,7 @@
             "loyalty": "",
             "artist": "Adam Schumpert",
             "alias": "",
-            "position": "91",
+            "position": "90",
             "notes": ""
         },
         {
@@ -1865,7 +1845,7 @@
             "loyalty": "",
             "artist": "Adam Schumpert",
             "alias": "",
-            "position": "92",
+            "position": "91",
             "notes": ""
         },
         {
@@ -1885,7 +1865,7 @@
             "loyalty": "",
             "artist": "Adam Schumpert",
             "alias": "",
-            "position": "93",
+            "position": "92",
             "notes": ""
         },
         {
@@ -1905,7 +1885,7 @@
             "loyalty": "",
             "artist": "Jasmine Stevens",
             "alias": "",
-            "position": "94",
+            "position": "93",
             "notes": ""
         },
         {
@@ -1913,7 +1893,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Instant",
-            "number": 63,
+            "number": 62,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Sneak {1}{U} [i](You may cast this spell for {U} if you also return an unblocked attacker you control to hand during the declare blockers step.)[/i]\nLook at target player's hand.\nDraw a card. If you paid the sneak cost, draw two cards instead.",
@@ -1925,7 +1905,7 @@
             "loyalty": "",
             "artist": "Nailsen Ivanderlie",
             "alias": "",
-            "position": "95",
+            "position": "94",
             "notes": ""
         },
         {
@@ -1945,7 +1925,7 @@
             "loyalty": "",
             "artist": "Magpieshaun",
             "alias": "",
-            "position": "96",
+            "position": "95",
             "notes": ""
         },
         {
@@ -1965,7 +1945,7 @@
             "loyalty": "",
             "artist": "Pavel Kolomeyets",
             "alias": "",
-            "position": "97",
+            "position": "96",
             "notes": ""
         },
         {
@@ -1985,7 +1965,7 @@
             "loyalty": "",
             "artist": "Adam Schumpert",
             "alias": "",
-            "position": "98",
+            "position": "97",
             "notes": ""
         },
         {
@@ -1993,7 +1973,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Vehicle",
-            "number": 19,
+            "number": 20,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
@@ -2005,7 +1985,7 @@
             "loyalty": "",
             "artist": "James NG",
             "alias": "",
-            "position": "99",
+            "position": "98",
             "notes": ""
         },
         {
@@ -2025,7 +2005,7 @@
             "loyalty": "",
             "artist": "ZandRaart",
             "alias": "",
-            "position": "100",
+            "position": "99",
             "notes": ""
         },
         {
@@ -2033,7 +2013,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Land \u2014 Gate",
-            "number": 22,
+            "number": 24,
             "color_identity": "C",
             "cost": "",
             "rules_text": "This land is also a Plains, Island, Swamp, Mountain, and Forest. [i]({T}, Add {W}, {U}, {B}, {R}, or {G}.)[/i]",
@@ -2045,7 +2025,7 @@
             "loyalty": "",
             "artist": "Lise Provost",
             "alias": "",
-            "position": "101",
+            "position": "100",
             "notes": ""
         },
         {
@@ -2053,7 +2033,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Enchantment \u2014 Aura",
-            "number": 62,
+            "number": 61,
             "color_identity": "U",
             "cost": "{3}{U}",
             "rules_text": "Dualism [i](As you cast this spell, you may tap three untapped creatures you control to reduce this spell's cost by {3} or to copy it. You may choose new targets for the copy. The copy becomes a token.)[/i]\nEnchant artifact\nEnchanted artifact is a creature with base power and toughness 5/5 in addition to its other types.",
@@ -2065,7 +2045,7 @@
             "loyalty": "",
             "artist": "Pavel Kolomeyets",
             "alias": "",
-            "position": "102",
+            "position": "101",
             "notes": ""
         },
         {
@@ -2085,7 +2065,7 @@
             "loyalty": "",
             "artist": "Pascal Esatama",
             "alias": "",
-            "position": "103",
+            "position": "102",
             "notes": ""
         },
         {
@@ -2093,7 +2073,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Dragon",
-            "number": 44,
+            "number": 43,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
             "rules_text": "Flying\nOther creatures you control with flying get +1/+0.",
@@ -2105,7 +2085,7 @@
             "loyalty": "",
             "artist": "Carlos NCT",
             "alias": "",
-            "position": "104",
+            "position": "103",
             "notes": ""
         },
         {
@@ -2125,7 +2105,7 @@
             "loyalty": "",
             "artist": "Nejita",
             "alias": "",
-            "position": "105",
+            "position": "104",
             "notes": ""
         },
         {
@@ -2145,7 +2125,7 @@
             "loyalty": "",
             "artist": "Tibor Sulyok",
             "alias": "",
-            "position": "106",
+            "position": "105",
             "notes": ""
         },
         {
@@ -2165,7 +2145,7 @@
             "loyalty": "",
             "artist": "XT-ART",
             "alias": "",
-            "position": "107",
+            "position": "106",
             "notes": ""
         },
         {
@@ -2185,7 +2165,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "108",
+            "position": "107",
             "notes": ""
         },
         {
@@ -2205,7 +2185,7 @@
             "loyalty": "",
             "artist": "XROZZAM",
             "alias": "",
-            "position": "109",
+            "position": "108",
             "notes": ""
         },
         {
@@ -2225,7 +2205,7 @@
             "loyalty": "",
             "artist": "KenJovi",
             "alias": "",
-            "position": "110",
+            "position": "109",
             "notes": ""
         },
         {
@@ -2245,7 +2225,7 @@
             "loyalty": "",
             "artist": "Karta Vacante",
             "alias": "",
-            "position": "111",
+            "position": "110",
             "notes": ""
         },
         {
@@ -2253,7 +2233,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Instant",
-            "number": 64,
+            "number": 63,
             "color_identity": "U",
             "cost": "{4}{U}",
             "rules_text": "Dualism [i](As you cast this spell, you may tap three untapped creatures you control to reduce this spell's cost by {3} or to copy it. You may choose new targets for the copy.)[/i]\nTarget nonland permanent's owner puts it on the top or bottom of their library.",
@@ -2265,7 +2245,7 @@
             "loyalty": "",
             "artist": "Dan Rossi",
             "alias": "",
-            "position": "112",
+            "position": "111",
             "notes": ""
         },
         {
@@ -2285,7 +2265,7 @@
             "loyalty": "",
             "artist": "HUHSOO",
             "alias": "",
-            "position": "113",
+            "position": "112",
             "notes": ""
         },
         {
@@ -2293,7 +2273,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Ninja",
-            "number": 51,
+            "number": 50,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Sneak {U} [i](You may cast this spell for {U} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)[/i]\nWhen Haruki enters, create a colorless artifact token named Ofuda with \u201c{2}, {T}: Draw a card.\u201d\nWhenever Haruki deals combat damage to a player, untap target permanent.",
@@ -2305,7 +2285,7 @@
             "loyalty": "",
             "artist": "Edward Chee",
             "alias": "",
-            "position": "114",
+            "position": "113",
             "notes": ""
         },
         {
@@ -2325,7 +2305,7 @@
             "loyalty": "",
             "artist": "ijur",
             "alias": "",
-            "position": "115",
+            "position": "114",
             "notes": ""
         },
         {
@@ -2345,7 +2325,7 @@
             "loyalty": "",
             "artist": "ijur",
             "alias": "",
-            "position": "116",
+            "position": "115",
             "notes": ""
         },
         {
@@ -2365,7 +2345,7 @@
             "loyalty": "",
             "artist": "fidelfaizz_art",
             "alias": "",
-            "position": "117",
+            "position": "116",
             "notes": ""
         },
         {
@@ -2385,7 +2365,7 @@
             "loyalty": "",
             "artist": "fidelfaizz_art",
             "alias": "",
-            "position": "118",
+            "position": "117",
             "notes": ""
         },
         {
@@ -2393,7 +2373,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 57,
+            "number": 56,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Look at the top two cards of your library. Put one into your hand and the other into your graveyard.\nFlashback\u2014{U}, Tap two untapped creatures you control. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]",
@@ -2405,7 +2385,7 @@
             "loyalty": "",
             "artist": "Nikko Wahyudi",
             "alias": "",
-            "position": "119",
+            "position": "118",
             "notes": ""
         },
         {
@@ -2425,7 +2405,7 @@
             "loyalty": "",
             "artist": "Nikko Wahyudi",
             "alias": "",
-            "position": "120",
+            "position": "119",
             "notes": ""
         },
         {
@@ -2436,8 +2416,8 @@
             "number": 268,
             "color_identity": "C",
             "cost": "{1}",
-            "rules_text": "{T}: Exile target card from a graveyard.\n{2}, {T}, Sacrifice this artifact: Create a 4/4 blue Dragon creature token with flying. Activate only if there are four or more card types among cards exiled with this artifact.",
-            "flavor_text": "[i]An old gift from the elder dragons, passed down the dynasty.[/i]",
+            "rules_text": "{T}: Exile target card from a graveyard.\n{2}, {T}, Sacrifice this artifact: Create a 4/4 blue Dragon creature token with flying. Activate only if there are four or more card types among cards exiled with this artifact and only as a sorcery.",
+            "flavor_text": "[i]An ancient gift from the elder dragons.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -2445,7 +2425,7 @@
             "loyalty": "",
             "artist": "Milivoj Ceran",
             "alias": "",
-            "position": "121",
+            "position": "120",
             "notes": ""
         },
         {
@@ -2465,7 +2445,7 @@
             "loyalty": "",
             "artist": "Milivoj Ceran",
             "alias": "",
-            "position": "122",
+            "position": "121",
             "notes": ""
         },
         {
@@ -2485,7 +2465,7 @@
             "loyalty": "",
             "artist": "Sean Wu",
             "alias": "",
-            "position": "123",
+            "position": "122",
             "notes": ""
         },
         {
@@ -2505,7 +2485,7 @@
             "loyalty": "",
             "artist": "Ayrton Viana",
             "alias": "",
-            "position": "124",
+            "position": "123",
             "notes": ""
         },
         {
@@ -2516,7 +2496,7 @@
             "number": 91,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Target creature you control gets +2/+2 and gains lifelink until end of turn. Until end of turn, triggered abilities you control can't cause you to sacrifice that creature. [i](This includes creatures with perseverance.)[/i]",
+            "rules_text": "Target creature you control gets +2/+2 and gains lifelink until end of turn. Until end of turn, triggered abilities you control can't cause you to sacrifice that creature. [i](This includes creatures with persevere.)[/i]",
             "flavor_text": "[i]After their general was slain, the Kimja swore vengeance.[/i]",
             "pt": "",
             "special_text": "",
@@ -2525,7 +2505,7 @@
             "loyalty": "",
             "artist": "Ramza Ardyputra",
             "alias": "",
-            "position": "125",
+            "position": "124",
             "notes": ""
         },
         {
@@ -2545,7 +2525,7 @@
             "loyalty": "",
             "artist": "Ramza Ardyputra",
             "alias": "",
-            "position": "126",
+            "position": "125",
             "notes": ""
         },
         {
@@ -2565,7 +2545,7 @@
             "loyalty": "",
             "artist": "Yokufo",
             "alias": "",
-            "position": "127",
+            "position": "126",
             "notes": ""
         },
         {
@@ -2585,7 +2565,7 @@
             "loyalty": "",
             "artist": "YokSArt",
             "alias": "",
-            "position": "128",
+            "position": "127",
             "notes": ""
         },
         {
@@ -2605,7 +2585,7 @@
             "loyalty": "",
             "artist": "Swanno.",
             "alias": "",
-            "position": "129",
+            "position": "128",
             "notes": ""
         },
         {
@@ -2625,7 +2605,7 @@
             "loyalty": "",
             "artist": "Keith Lougheed",
             "alias": "",
-            "position": "130",
+            "position": "129",
             "notes": ""
         },
         {
@@ -2645,7 +2625,7 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin",
             "alias": "",
-            "position": "131",
+            "position": "130",
             "notes": ""
         },
         {
@@ -2656,17 +2636,17 @@
             "number": 170,
             "color_identity": "UBRG",
             "cost": "{U}{B}{R}{G}",
-            "rules_text": "Menace\nYou may pay {0} rather than pay the mana costs of the third, sixth, and ninth spells you cast each turn.",
-            "flavor_text": "[i]After being bitter enemies for hundreds of years, reconciliation seemed impossible. But love overcomes all odds.[/i]",
-            "pt": "5/5",
+            "rules_text": "When Aonuma and Koraja enters, return up to three target land cards from your graveyard to your hand.\nCreatures you control have all activated abilities of Gates you control.",
+            "flavor_text": "[i][/i]",
+            "pt": "3/3",
             "special_text": "",
             "shape": "normal",
             "set": "KLB",
             "loyalty": "",
             "artist": "39huohuohuo781",
             "alias": "",
-            "position": "132",
-            "notes": ""
+            "position": "131",
+            "notes": "REWORK"
         },
         {
             "card_name": "Internal Crisis",
@@ -2685,7 +2665,7 @@
             "loyalty": "",
             "artist": "Onmyoji",
             "alias": "",
-            "position": "133",
+            "position": "132",
             "notes": ""
         },
         {
@@ -2705,7 +2685,7 @@
             "loyalty": "",
             "artist": "woshihedawei",
             "alias": "",
-            "position": "134",
+            "position": "133",
             "notes": ""
         },
         {
@@ -2725,7 +2705,7 @@
             "loyalty": "",
             "artist": "lokwok",
             "alias": "",
-            "position": "135",
+            "position": "134",
             "notes": ""
         },
         {
@@ -2745,7 +2725,7 @@
             "loyalty": "",
             "artist": "Michael Gladigau",
             "alias": "",
-            "position": "136",
+            "position": "135",
             "notes": ""
         },
         {
@@ -2765,7 +2745,7 @@
             "loyalty": "",
             "artist": "Wilmar Ballespi",
             "alias": "",
-            "position": "137",
+            "position": "136",
             "notes": ""
         },
         {
@@ -2785,7 +2765,7 @@
             "loyalty": "",
             "artist": "fidelfaizz",
             "alias": "",
-            "position": "138",
+            "position": "137",
             "notes": ""
         },
         {
@@ -2793,7 +2773,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Bird Hydra",
-            "number": 65,
+            "number": 64,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Flying\nWhen this creature enters, tap up to one target creature. Then you may pay {2}. If you do, put a stun counter on that creature. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]",
@@ -2805,7 +2785,7 @@
             "loyalty": "",
             "artist": "Jan-Jaap Schraverus",
             "alias": "",
-            "position": "139",
+            "position": "138",
             "notes": ""
         },
         {
@@ -2825,7 +2805,7 @@
             "loyalty": "",
             "artist": "kaerruu",
             "alias": "",
-            "position": "140",
+            "position": "139",
             "notes": ""
         },
         {
@@ -2833,7 +2813,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Fox Shapeshifter",
-            "number": 50,
+            "number": 49,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Flying\nWhen this creature enters, scry 1.\nWhenever this creature becomes tapped, up to one other target creature gains flying until end of turn.",
@@ -2845,7 +2825,7 @@
             "loyalty": "",
             "artist": "Muhammad Fajri",
             "alias": "",
-            "position": "141",
+            "position": "140",
             "notes": ""
         },
         {
@@ -2865,7 +2845,7 @@
             "loyalty": "",
             "artist": "Kuri Huang",
             "alias": "",
-            "position": "142",
+            "position": "141",
             "notes": ""
         },
         {
@@ -2873,7 +2853,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Cat Fish",
-            "number": 43,
+            "number": 42,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Flash\nWhen this creature enters, target creature an opponent controls gets -1/-0 until end of turn.",
@@ -2885,7 +2865,7 @@
             "loyalty": "",
             "artist": "Vojtech Sklenar",
             "alias": "",
-            "position": "143",
+            "position": "142",
             "notes": ""
         },
         {
@@ -2893,7 +2873,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Enchantment \u2014 Aura",
-            "number": 37,
+            "number": 36,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "This spell costs {1} less to cast if it targets an attacking creature.\nFlash\nEnchant creature\nEnchanted creature gets -3/-0 and loses all abilities.",
@@ -2905,7 +2885,7 @@
             "loyalty": "",
             "artist": "Asur Misoa",
             "alias": "",
-            "position": "144",
+            "position": "143",
             "notes": ""
         },
         {
@@ -2925,7 +2905,7 @@
             "loyalty": "",
             "artist": "Takino",
             "alias": "",
-            "position": "145",
+            "position": "144",
             "notes": ""
         },
         {
@@ -2945,7 +2925,7 @@
             "loyalty": "",
             "artist": "Katerina Ladon",
             "alias": "",
-            "position": "146",
+            "position": "145",
             "notes": ""
         },
         {
@@ -2965,7 +2945,7 @@
             "loyalty": "",
             "artist": "Indismatterism",
             "alias": "",
-            "position": "147",
+            "position": "146",
             "notes": ""
         },
         {
@@ -2985,7 +2965,7 @@
             "loyalty": "",
             "artist": "Napon Suzuki",
             "alias": "",
-            "position": "148",
+            "position": "147",
             "notes": ""
         },
         {
@@ -3005,7 +2985,7 @@
             "loyalty": "",
             "artist": "Ashes Drawn",
             "alias": "",
-            "position": "149",
+            "position": "148",
             "notes": ""
         },
         {
@@ -3016,7 +2996,7 @@
             "number": 130,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Whenever one or more +1/+1 counters are put on another creature you control, put a +1/+1 counter on this creature and it deals 1 damage to each opponent. This ability triggers only once each turn.",
+            "rules_text": "Whenever one or more +1/+1 counters are put on another creature you control, put a +1/+1 counter on this creature. It deals 1 damage to each opponent. This ability triggers only once each turn.",
             "flavor_text": "[i]The kirin is the noblest kind of beast among all the seishin.[/i]",
             "pt": "2/1",
             "special_text": "",
@@ -3025,7 +3005,7 @@
             "loyalty": "",
             "artist": "pakkid",
             "alias": "",
-            "position": "150",
+            "position": "149",
             "notes": ""
         },
         {
@@ -3045,7 +3025,7 @@
             "loyalty": "",
             "artist": "TimeLordJikan",
             "alias": "",
-            "position": "151",
+            "position": "150",
             "notes": ""
         },
         {
@@ -3065,7 +3045,7 @@
             "loyalty": "",
             "artist": "Tomasz Jedruszek",
             "alias": "",
-            "position": "152",
+            "position": "151",
             "notes": ""
         },
         {
@@ -3085,7 +3065,7 @@
             "loyalty": "",
             "artist": "Murano",
             "alias": "",
-            "position": "153",
+            "position": "152",
             "notes": ""
         },
         {
@@ -3105,7 +3085,7 @@
             "loyalty": "",
             "artist": "lfr Larynsson",
             "alias": "",
-            "position": "154",
+            "position": "153",
             "notes": ""
         },
         {
@@ -3125,7 +3105,7 @@
             "loyalty": "",
             "artist": "Aaric Liu",
             "alias": "",
-            "position": "155",
+            "position": "154",
             "notes": ""
         },
         {
@@ -3145,7 +3125,7 @@
             "loyalty": "",
             "artist": "Anastasiya Khabarova",
             "alias": "",
-            "position": "156",
+            "position": "155",
             "notes": ""
         },
         {
@@ -3165,15 +3145,15 @@
             "loyalty": "",
             "artist": "Surasee Tri",
             "alias": "",
-            "position": "157",
+            "position": "156",
             "notes": ""
         },
         {
-            "card_name": "Natori Realmwalker",
+            "card_name": "Natori Steeltalon",
             "color": "U",
             "rarity": "rare",
             "type": "Creature \u2014 Bird Monk",
-            "number": 55,
+            "number": 54,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Flash\nFlying\nWhenever this creature becomes tapped, scry 1. If this isn't the first time this ability has resolved this turn, draw a card.",
@@ -3183,10 +3163,10 @@
             "shape": "normal",
             "set": "KLB",
             "loyalty": "",
-            "artist": "Ivan Dominguez",
+            "artist": "Remy Perroud",
             "alias": "",
-            "position": "158",
-            "notes": ""
+            "position": "157",
+            "notes": "REWORK"
         },
         {
             "card_name": "Flowing Duelist",
@@ -3205,11 +3185,11 @@
             "loyalty": "",
             "artist": "Helene Alonso",
             "alias": "",
-            "position": "159",
+            "position": "158",
             "notes": ""
         },
         {
-            "card_name": "Wanderer's Echo",
+            "card_name": "Wandering Echo",
             "color": "W",
             "rarity": "mythic",
             "type": "Creature \u2014 Human Samurai",
@@ -3225,7 +3205,7 @@
             "loyalty": "",
             "artist": "Tri Phan",
             "alias": "",
-            "position": "160",
+            "position": "159",
             "notes": ""
         },
         {
@@ -3245,7 +3225,7 @@
             "loyalty": "",
             "artist": "Kevin Sidharta",
             "alias": "",
-            "position": "161",
+            "position": "160",
             "notes": ""
         },
         {
@@ -3265,7 +3245,7 @@
             "loyalty": "",
             "artist": "Nyan Kola",
             "alias": "",
-            "position": "162",
+            "position": "161",
             "notes": ""
         },
         {
@@ -3285,7 +3265,7 @@
             "loyalty": "",
             "artist": "Kim Herbst",
             "alias": "",
-            "position": "163",
+            "position": "162",
             "notes": ""
         },
         {
@@ -3305,7 +3285,7 @@
             "loyalty": "",
             "artist": "Henrique Marinelli",
             "alias": "",
-            "position": "164",
+            "position": "163",
             "notes": ""
         },
         {
@@ -3325,7 +3305,7 @@
             "loyalty": "",
             "artist": "Alberto S. Ballesteros",
             "alias": "",
-            "position": "165",
+            "position": "164",
             "notes": ""
         },
         {
@@ -3345,7 +3325,7 @@
             "loyalty": "",
             "artist": "Ernesto Carrasquillo Velez",
             "alias": "",
-            "position": "166",
+            "position": "165",
             "notes": ""
         },
         {
@@ -3365,7 +3345,7 @@
             "loyalty": "",
             "artist": "Erry",
             "alias": "",
-            "position": "167",
+            "position": "166",
             "notes": ""
         },
         {
@@ -3385,7 +3365,7 @@
             "loyalty": "",
             "artist": "Alongkorn Hendaichom",
             "alias": "",
-            "position": "168",
+            "position": "167",
             "notes": ""
         },
         {
@@ -3395,7 +3375,7 @@
             "type": "Sorcery",
             "number": 262,
             "color_identity": "WB",
-            "cost": "{WB}",
+            "cost": "{1}{WB}",
             "rules_text": "You may cast a copy of target creature card with mana value 3 or less from your graveyard by exiling it from your graveyard rather than paying its mana cost.",
             "flavor_text": "[i]\u201cThe wisdom of the ancestors is valuable, should you be lucky enough to receive it.\u201d\n\u2014Commander Tachibana[/i]",
             "pt": "",
@@ -3405,7 +3385,7 @@
             "loyalty": "",
             "artist": "Celine Nauleau",
             "alias": "",
-            "position": "169",
+            "position": "168",
             "notes": ""
         },
         {
@@ -3425,7 +3405,7 @@
             "loyalty": "",
             "artist": "Kian Reglos",
             "alias": "",
-            "position": "170",
+            "position": "169",
             "notes": ""
         },
         {
@@ -3445,7 +3425,7 @@
             "loyalty": "",
             "artist": "Hardika Bayu",
             "alias": "",
-            "position": "171",
+            "position": "170",
             "notes": ""
         },
         {
@@ -3465,18 +3445,18 @@
             "loyalty": "",
             "artist": "Fahmi Fauzi",
             "alias": "",
-            "position": "172",
+            "position": "171",
             "notes": ""
         },
         {
             "card_name": "Graceful Spinstress",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Rogue",
+            "type": "Creature \u2014 Human Advisor",
             "number": 114,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Menace\nWhenever this creature attacks, you may discard a card. If you do, exile the top card of your library.\n[i]Oathless[/i] \u2014 Once during each of your turns, you may play a card exiled with this creature if you have one or fewer cards in hand or if you've discarded a card this turn.",
+            "rules_text": "Menace\nWhenever this creature attacks, exile the top card of your library.\n[i]Oathless[/i] \u2014 Once during each of your turns, you may play a card exiled with this creature if you have one or fewer cards in hand or if you've discarded a card this turn.",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -3485,7 +3465,7 @@
             "loyalty": "",
             "artist": "SHY",
             "alias": "",
-            "position": "173",
+            "position": "172",
             "notes": ""
         },
         {
@@ -3505,7 +3485,7 @@
             "loyalty": "",
             "artist": "Sylvain Sarrailh",
             "alias": "",
-            "position": "174",
+            "position": "173",
             "notes": ""
         },
         {
@@ -3525,7 +3505,7 @@
             "loyalty": "",
             "artist": "Samson Blaya Aka Kabouto",
             "alias": "",
-            "position": "175",
+            "position": "174",
             "notes": ""
         },
         {
@@ -3536,8 +3516,8 @@
             "number": 193,
             "color_identity": "WB",
             "cost": "{3}{W}{B}",
-            "rules_text": "As this creature enters, choose balance or chaos.\n\u2022 Balance \u2014 Whenever you gain life, each opponent loses that much life.\n\u2022 Chaos \u2014 Whenever an opponent loses life, you gain that much life.\nPersevere {3}{W}{B} [i](You may cast a copy of this card from your graveyard by exiling it and paying the persevere cost. If you do, it can't block. When it attacks, sacrifice it at end of combat.)[/i]",
-            "flavor_text": "[i][/i]",
+            "rules_text": "Vigilance, lifelink\nYou may pay {0} rather than pay the mana costs for Aura and Equipment spells you cast.",
+            "flavor_text": "[i]\u201cIf they dare to stand against you, show them their folly.\u201d[/i]",
             "pt": "4/4",
             "special_text": "",
             "shape": "normal",
@@ -3545,8 +3525,8 @@
             "loyalty": "",
             "artist": "Nozomi Matsuoka",
             "alias": "",
-            "position": "176",
-            "notes": ""
+            "position": "175",
+            "notes": "REWORK"
         },
         {
             "card_name": "Ruined Champion",
@@ -3565,7 +3545,7 @@
             "loyalty": "",
             "artist": "ST3DOOM",
             "alias": "",
-            "position": "177",
+            "position": "176",
             "notes": ""
         },
         {
@@ -3585,7 +3565,7 @@
             "loyalty": "",
             "artist": "YAZIRI_art",
             "alias": "",
-            "position": "178",
+            "position": "177",
             "notes": ""
         },
         {
@@ -3605,7 +3585,7 @@
             "loyalty": "",
             "artist": "Ricky Lee",
             "alias": "",
-            "position": "179",
+            "position": "178",
             "notes": ""
         },
         {
@@ -3625,7 +3605,7 @@
             "loyalty": "",
             "artist": "Krassimir Mercier",
             "alias": "",
-            "position": "180",
+            "position": "179",
             "notes": ""
         },
         {
@@ -3645,7 +3625,7 @@
             "loyalty": "",
             "artist": "ALWI",
             "alias": "",
-            "position": "181",
+            "position": "180",
             "notes": ""
         },
         {
@@ -3665,7 +3645,7 @@
             "loyalty": "",
             "artist": "voidsoup",
             "alias": "",
-            "position": "182",
+            "position": "181",
             "notes": ""
         },
         {
@@ -3685,7 +3665,7 @@
             "loyalty": "",
             "artist": "Qi Mang",
             "alias": "",
-            "position": "183",
+            "position": "182",
             "notes": ""
         },
         {
@@ -3705,7 +3685,7 @@
             "loyalty": "",
             "artist": "Tuan Xuan",
             "alias": "",
-            "position": "184",
+            "position": "183",
             "notes": ""
         },
         {
@@ -3725,7 +3705,7 @@
             "loyalty": "",
             "artist": "Jorge Norgaard",
             "alias": "",
-            "position": "185",
+            "position": "184",
             "notes": ""
         },
         {
@@ -3745,7 +3725,7 @@
             "loyalty": "",
             "artist": "chutkat",
             "alias": "",
-            "position": "186",
+            "position": "185",
             "notes": ""
         },
         {
@@ -3765,28 +3745,28 @@
             "loyalty": "",
             "artist": "davebrush",
             "alias": "",
-            "position": "187",
+            "position": "186",
             "notes": ""
         },
         {
-            "card_name": "Brave Martyr",
+            "card_name": "Deadly Kunai",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Samurai Archer",
-            "number": 72,
+            "type": "Artifact \u2014 Equipment",
+            "number": 77,
             "color_identity": "B",
-            "cost": "{3}{B}",
-            "rules_text": "When this creature enters, each player sacrifices a creature.\nPersevere {5}{B} [i](You may cast a copy of this card from your graveyard by exiling it and paying the persevere cost. If you do, it can't block. When it attacks, sacrifice it at end of combat.)[/i]",
+            "cost": "{2}{B}",
+            "rules_text": "When this Equipment enters, create a 1/1 red Demon creature token with \u201cThis token can't block.\u201d Attach this Equipment to that token. Then each player sacrifices a creature or planeswalker.\nEquipped creature gets +2/+0.\nEquip {2}",
             "flavor_text": "[i][/i]",
-            "pt": "3/2",
+            "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "KLB",
             "loyalty": "",
-            "artist": "Lee Smith",
+            "artist": "Alexis Susani",
             "alias": "",
-            "position": "188",
-            "notes": ""
+            "position": "187",
+            "notes": "REWORK"
         },
         {
             "card_name": "Deep Sea Shinobi",
@@ -3805,7 +3785,7 @@
             "loyalty": "",
             "artist": "lovetina0726",
             "alias": "",
-            "position": "189",
+            "position": "188",
             "notes": ""
         },
         {
@@ -3813,7 +3793,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Ninja",
-            "number": 58,
+            "number": 57,
             "color_identity": "U",
             "cost": "{3}{U}",
             "rules_text": "Sneak {2}{U}{U} [i](You may cast this spell for {2}{U}{U} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)[/i]\nWhenever this creature deals combat damage to a player, target instant or sorcery card in your graveyard gains flashback {0} until end of turn.",
@@ -3825,14 +3805,14 @@
             "loyalty": "",
             "artist": "ultramarineandwhite",
             "alias": "",
-            "position": "190",
+            "position": "189",
             "notes": ""
         },
         {
             "card_name": "Preening Peacock",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Avatar Noble",
+            "type": "Creature \u2014 Avatar Advisor",
             "number": 155,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -3845,7 +3825,7 @@
             "loyalty": "",
             "artist": "Moranzhu",
             "alias": "",
-            "position": "191",
+            "position": "190",
             "notes": ""
         },
         {
@@ -3865,7 +3845,7 @@
             "loyalty": "",
             "artist": "Marco Gonzalez",
             "alias": "",
-            "position": "192",
+            "position": "191",
             "notes": ""
         },
         {
@@ -3885,7 +3865,7 @@
             "loyalty": "",
             "artist": "FantasyLand1999",
             "alias": "",
-            "position": "193",
+            "position": "192",
             "notes": ""
         },
         {
@@ -3905,7 +3885,7 @@
             "loyalty": "",
             "artist": "Stu Harrington",
             "alias": "",
-            "position": "194",
+            "position": "193",
             "notes": ""
         },
         {
@@ -3925,7 +3905,7 @@
             "loyalty": "",
             "artist": "Jared Tree",
             "alias": "",
-            "position": "195",
+            "position": "194",
             "notes": ""
         },
         {
@@ -3945,7 +3925,7 @@
             "loyalty": "",
             "artist": "Jason Engle",
             "alias": "",
-            "position": "196",
+            "position": "195",
             "notes": ""
         },
         {
@@ -3965,7 +3945,7 @@
             "loyalty": "",
             "artist": "Jason Engle",
             "alias": "",
-            "position": "197",
+            "position": "196",
             "notes": ""
         },
         {
@@ -3985,7 +3965,7 @@
             "loyalty": "",
             "artist": "Shockbolt",
             "alias": "",
-            "position": "198",
+            "position": "197",
             "notes": ""
         },
         {
@@ -3993,7 +3973,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Illusion",
-            "number": 46,
+            "number": 45,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Whenever this creature becomes tapped, scry 1.",
@@ -4005,7 +3985,7 @@
             "loyalty": "",
             "artist": "Axel Hutt",
             "alias": "",
-            "position": "199",
+            "position": "198",
             "notes": ""
         },
         {
@@ -4025,7 +4005,7 @@
             "loyalty": "",
             "artist": "Sophia Manio",
             "alias": "",
-            "position": "200",
+            "position": "199",
             "notes": ""
         },
         {
@@ -4045,7 +4025,7 @@
             "loyalty": "",
             "artist": "Chris Ostrowski",
             "alias": "",
-            "position": "201",
+            "position": "200",
             "notes": ""
         },
         {
@@ -4065,7 +4045,7 @@
             "loyalty": "",
             "artist": "Adrian Virlan",
             "alias": "",
-            "position": "202",
+            "position": "201",
             "notes": ""
         },
         {
@@ -4085,7 +4065,7 @@
             "loyalty": "",
             "artist": "b i m a",
             "alias": "",
-            "position": "203",
+            "position": "202",
             "notes": ""
         },
         {
@@ -4105,7 +4085,7 @@
             "loyalty": "",
             "artist": "Shusei Sasaya",
             "alias": "",
-            "position": "204",
+            "position": "203",
             "notes": ""
         },
         {
@@ -4125,7 +4105,7 @@
             "loyalty": "",
             "artist": "ge rocky",
             "alias": "",
-            "position": "205",
+            "position": "204",
             "notes": ""
         },
         {
@@ -4145,7 +4125,7 @@
             "loyalty": "",
             "artist": "Jack Jones",
             "alias": "",
-            "position": "206",
+            "position": "205",
             "notes": ""
         },
         {
@@ -4165,7 +4145,7 @@
             "loyalty": "",
             "artist": "Ekaterina Kravchenko",
             "alias": "",
-            "position": "207",
+            "position": "206",
             "notes": ""
         },
         {
@@ -4185,7 +4165,7 @@
             "loyalty": "",
             "artist": "Han Flores",
             "alias": "",
-            "position": "208",
+            "position": "207",
             "notes": ""
         },
         {
@@ -4205,7 +4185,7 @@
             "loyalty": "",
             "artist": "Alessandro Grioni",
             "alias": "",
-            "position": "209",
+            "position": "208",
             "notes": ""
         },
         {
@@ -4213,7 +4193,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2014 Spirit Horror",
-            "number": 75,
+            "number": 74,
             "color_identity": "B",
             "cost": "{5}{B}{B}",
             "rules_text": "Menace\nWhen this creature enters, it deals X damage to each of up to two targets and you gain X life, where X is the number of Gates you control.",
@@ -4225,7 +4205,7 @@
             "loyalty": "",
             "artist": "syourinusk",
             "alias": "",
-            "position": "210",
+            "position": "209",
             "notes": ""
         },
         {
@@ -4233,7 +4213,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact",
-            "number": 20,
+            "number": 21,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Sacrifice Lotus Petal: Add one mana of any color.\n[i](This token's mana cost is {0}.)[/i]",
@@ -4245,7 +4225,7 @@
             "loyalty": "",
             "artist": "neon laboratory",
             "alias": "",
-            "position": "211",
+            "position": "210",
             "notes": ""
         },
         {
@@ -4265,7 +4245,7 @@
             "loyalty": "",
             "artist": "Ma Ke",
             "alias": "",
-            "position": "212",
+            "position": "211",
             "notes": ""
         },
         {
@@ -4285,7 +4265,7 @@
             "loyalty": "",
             "artist": "Adrian Virlan",
             "alias": "",
-            "position": "213",
+            "position": "212",
             "notes": ""
         },
         {
@@ -4305,14 +4285,14 @@
             "loyalty": "",
             "artist": "Nolan Lu",
             "alias": "",
-            "position": "214",
+            "position": "213",
             "notes": ""
         },
         {
             "card_name": "Oni Daimyo",
             "color": "R",
             "rarity": "rare",
-            "type": "Creature \u2014 Demon Noble",
+            "type": "Creature \u2014 Demon Advisor",
             "number": 125,
             "color_identity": "R",
             "cost": "{R}",
@@ -4325,7 +4305,7 @@
             "loyalty": "",
             "artist": "Mona Finden",
             "alias": "",
-            "position": "215",
+            "position": "214",
             "notes": ""
         },
         {
@@ -4345,7 +4325,7 @@
             "loyalty": "",
             "artist": "SHY",
             "alias": "",
-            "position": "216",
+            "position": "215",
             "notes": ""
         },
         {
@@ -4365,7 +4345,7 @@
             "loyalty": "",
             "artist": "Asur Misoa",
             "alias": "",
-            "position": "217",
+            "position": "216",
             "notes": ""
         },
         {
@@ -4373,7 +4353,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Monk",
-            "number": 45,
+            "number": 44,
             "color_identity": "U",
             "cost": "{5}{U}{U}",
             "rules_text": "Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]\nAt the beginning of your end step, create a 4/4 blue Dragon creature token with flying if you cast a spell with mana value 4 or greater this turn.",
@@ -4385,7 +4365,7 @@
             "loyalty": "",
             "artist": "Ma Ke",
             "alias": "",
-            "position": "218",
+            "position": "217",
             "notes": ""
         },
         {
@@ -4405,7 +4385,7 @@
             "loyalty": "",
             "artist": "Areakst Kingglost",
             "alias": "",
-            "position": "219",
+            "position": "218",
             "notes": ""
         },
         {
@@ -4425,7 +4405,7 @@
             "loyalty": "",
             "artist": "Areakst Kingglost",
             "alias": "",
-            "position": "220",
+            "position": "219",
             "notes": ""
         },
         {
@@ -4445,7 +4425,7 @@
             "loyalty": "",
             "artist": "Jenny Mach",
             "alias": "",
-            "position": "221",
+            "position": "220",
             "notes": ""
         },
         {
@@ -4465,7 +4445,7 @@
             "loyalty": "",
             "artist": "David Noren",
             "alias": "",
-            "position": "222",
+            "position": "221",
             "notes": ""
         },
         {
@@ -4478,14 +4458,14 @@
             "cost": "{1}{G}{G}",
             "rules_text": "Sneak {1}{G} [i](You may cast this spell for {1}{G} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)[/i]\nWhenever this creature deals combat damage to a player, you may discard a card. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle.",
             "flavor_text": "[i][/i]",
-            "pt": "3/2",
+            "pt": "3/3",
             "special_text": "",
             "shape": "normal",
             "set": "KLB",
             "loyalty": "",
             "artist": "Areakst Kingglost",
             "alias": "",
-            "position": "223",
+            "position": "222",
             "notes": ""
         },
         {
@@ -4505,7 +4485,7 @@
             "loyalty": "",
             "artist": "zhihui Su",
             "alias": "",
-            "position": "224",
+            "position": "223",
             "notes": ""
         },
         {
@@ -4513,7 +4493,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Artifact \u2014 Equipment",
-            "number": 77,
+            "number": 76,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Equipped creature gets +1/+0.\nWhen equipped creature dies, look at the top X cards of your library, where X is that creature's power. Put one of those cards into your hand and the rest into your graveyard.\nEquip {1}",
@@ -4525,7 +4505,7 @@
             "loyalty": "",
             "artist": "Jessada Suthi",
             "alias": "",
-            "position": "225",
+            "position": "224",
             "notes": ""
         },
         {
@@ -4545,7 +4525,7 @@
             "loyalty": "",
             "artist": "Areakst Kingglost",
             "alias": "",
-            "position": "226",
+            "position": "225",
             "notes": ""
         },
         {
@@ -4565,7 +4545,7 @@
             "loyalty": "",
             "artist": "Areakst Kingglost",
             "alias": "",
-            "position": "227",
+            "position": "226",
             "notes": ""
         },
         {
@@ -4585,7 +4565,7 @@
             "loyalty": "",
             "artist": "Areakst Kingglost",
             "alias": "",
-            "position": "228",
+            "position": "227",
             "notes": ""
         },
         {
@@ -4605,7 +4585,7 @@
             "loyalty": "",
             "artist": "Park Yong-keon",
             "alias": "",
-            "position": "229",
+            "position": "228",
             "notes": ""
         },
         {
@@ -4625,7 +4605,7 @@
             "loyalty": "",
             "artist": "Szabo Bendeguz",
             "alias": "",
-            "position": "230",
+            "position": "229",
             "notes": ""
         },
         {
@@ -4645,7 +4625,7 @@
             "loyalty": "",
             "artist": "Arte Desastre",
             "alias": "",
-            "position": "231",
+            "position": "230",
             "notes": ""
         },
         {
@@ -4665,7 +4645,7 @@
             "loyalty": "",
             "artist": "yohan \"haash\" huhner",
             "alias": "",
-            "position": "232",
+            "position": "231",
             "notes": ""
         },
         {
@@ -4685,7 +4665,7 @@
             "loyalty": "",
             "artist": "artofcai",
             "alias": "",
-            "position": "233",
+            "position": "232",
             "notes": ""
         },
         {
@@ -4705,7 +4685,7 @@
             "loyalty": "",
             "artist": "Pedro Testa",
             "alias": "",
-            "position": "234",
+            "position": "233",
             "notes": ""
         },
         {
@@ -4725,7 +4705,7 @@
             "loyalty": "",
             "artist": "May Chengzu",
             "alias": "",
-            "position": "235",
+            "position": "234",
             "notes": ""
         },
         {
@@ -4745,7 +4725,7 @@
             "loyalty": "",
             "artist": "dmsleep",
             "alias": "",
-            "position": "236",
+            "position": "235",
             "notes": ""
         },
         {
@@ -4765,7 +4745,7 @@
             "loyalty": "",
             "artist": "ymkw",
             "alias": "",
-            "position": "237",
+            "position": "236",
             "notes": ""
         },
         {
@@ -4785,7 +4765,7 @@
             "loyalty": "",
             "artist": "Jan Drenovec",
             "alias": "",
-            "position": "238",
+            "position": "237",
             "notes": ""
         },
         {
@@ -4805,7 +4785,7 @@
             "loyalty": "",
             "artist": "nong_noi_art",
             "alias": "",
-            "position": "239",
+            "position": "238",
             "notes": ""
         },
         {
@@ -4825,7 +4805,7 @@
             "loyalty": "",
             "artist": "Ullaseu",
             "alias": "",
-            "position": "240",
+            "position": "239",
             "notes": ""
         },
         {
@@ -4836,7 +4816,7 @@
             "number": 216,
             "color_identity": "WB",
             "cost": "{5}{W}{B}",
-            "rules_text": "Protection from Humans, Demons, and Spirits [i](This creature can't be blocked, targeted or dealt damage by Humans, Demons, and Spirits.)[/i]\nWhenever a creature attacks you, its controller sacrifices it at end of combat.\nAt the beginning of each opponent's end step, if you didn't lose life this turn, each opponent loses 3 life and you draw a card.",
+            "rules_text": "Protection from Humans, Demons, and Spirits [i](This creature can't be blocked, targeted or dealt damage by Humans, Demons, and Spirits.)[/i]\nWhenever a creature attacks you, its controller sacrifices it at end of combat.\nAt the beginning of each opponent's end step, if you didn't lose life this turn, that player loses 3 life and you draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "7/7",
             "special_text": "",
@@ -4845,7 +4825,7 @@
             "loyalty": "",
             "artist": "Areakst Kingglost",
             "alias": "",
-            "position": "241",
+            "position": "240",
             "notes": ""
         },
         {
@@ -4853,7 +4833,7 @@
             "color": "U",
             "rarity": "mythic",
             "type": "Creature \u2014 Avatar",
-            "number": 49,
+            "number": 48,
             "color_identity": "U",
             "cost": "{5}{U}{U}",
             "rules_text": "Dualism [i](As you cast this spell, you may tap three untapped creatures you control to reduce this spell's cost by {3} or to copy it. The copy becomes a token.)[/i]\nVigilance\nIf you would draw a card, draw two cards instead. [i](If you control two of these creatures, draw four cards instead.)[/i]",
@@ -4865,7 +4845,7 @@
             "loyalty": "",
             "artist": "Areakst Kingglost",
             "alias": "",
-            "position": "242",
+            "position": "241",
             "notes": ""
         },
         {
@@ -4885,7 +4865,7 @@
             "loyalty": "",
             "artist": "Antonia De Luca",
             "alias": "",
-            "position": "243",
+            "position": "242",
             "notes": ""
         },
         {
@@ -4905,7 +4885,7 @@
             "loyalty": "",
             "artist": "Kipine",
             "alias": "",
-            "position": "244",
+            "position": "243",
             "notes": ""
         },
         {
@@ -4925,7 +4905,7 @@
             "loyalty": "",
             "artist": "VV",
             "alias": "",
-            "position": "245",
+            "position": "244",
             "notes": ""
         },
         {
@@ -4945,7 +4925,7 @@
             "loyalty": "",
             "artist": "Young Qin",
             "alias": "",
-            "position": "246",
+            "position": "245",
             "notes": ""
         },
         {
@@ -4956,7 +4936,7 @@
             "number": 108,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
-            "rules_text": "Exile the top six cards of your library. For each Gate card exiled this way, you may cast a nonland card exiled this way without paying its mana cost.",
+            "rules_text": "Exile the top eight cards of your library. For each Gate card exiled this way, you may cast a nonland card exiled this way without paying its mana cost.",
             "flavor_text": "[i]\u201cNow, I seize both my freedom and the godhood that is rightfully mine.\u201d\n\u2014Kage[/i]",
             "pt": "",
             "special_text": "",
@@ -4965,7 +4945,7 @@
             "loyalty": "",
             "artist": "Adrian Virlan",
             "alias": "",
-            "position": "247",
+            "position": "246",
             "notes": ""
         },
         {
@@ -4985,7 +4965,7 @@
             "loyalty": "",
             "artist": "Cycle Circle",
             "alias": "",
-            "position": "248",
+            "position": "247",
             "notes": ""
         },
         {
@@ -5005,7 +4985,7 @@
             "loyalty": "",
             "artist": "li moly",
             "alias": "",
-            "position": "249",
+            "position": "248",
             "notes": ""
         },
         {
@@ -5025,7 +5005,7 @@
             "loyalty": "",
             "artist": "Frank Sun",
             "alias": "",
-            "position": "250",
+            "position": "249",
             "notes": ""
         },
         {
@@ -5045,7 +5025,7 @@
             "loyalty": "",
             "artist": "David Durna",
             "alias": "",
-            "position": "251",
+            "position": "250",
             "notes": ""
         },
         {
@@ -5065,7 +5045,7 @@
             "loyalty": "",
             "artist": "li moly",
             "alias": "",
-            "position": "252",
+            "position": "251",
             "notes": ""
         },
         {
@@ -5085,7 +5065,7 @@
             "loyalty": "",
             "artist": "Jenny Li",
             "alias": "",
-            "position": "253",
+            "position": "252",
             "notes": ""
         },
         {
@@ -5105,7 +5085,7 @@
             "loyalty": "",
             "artist": "Jenny LI",
             "alias": "",
-            "position": "254",
+            "position": "253",
             "notes": ""
         },
         {
@@ -5125,7 +5105,7 @@
             "loyalty": "",
             "artist": "Jenny Li",
             "alias": "",
-            "position": "255",
+            "position": "254",
             "notes": ""
         },
         {
@@ -5145,7 +5125,7 @@
             "loyalty": "",
             "artist": "Jenny Li",
             "alias": "",
-            "position": "256",
+            "position": "255",
             "notes": ""
         },
         {
@@ -5165,7 +5145,7 @@
             "loyalty": "",
             "artist": "Jenny Li",
             "alias": "",
-            "position": "257",
+            "position": "256",
             "notes": ""
         },
         {
@@ -5185,7 +5165,7 @@
             "loyalty": "",
             "artist": "Lenin Valerio",
             "alias": "",
-            "position": "258",
+            "position": "257",
             "notes": ""
         },
         {
@@ -5205,7 +5185,7 @@
             "loyalty": "",
             "artist": "Hai Hoang",
             "alias": "",
-            "position": "259",
+            "position": "258",
             "notes": ""
         },
         {
@@ -5225,7 +5205,7 @@
             "loyalty": "",
             "artist": "Philip Sun",
             "alias": "",
-            "position": "260",
+            "position": "259",
             "notes": ""
         },
         {
@@ -5245,7 +5225,7 @@
             "loyalty": "",
             "artist": "Billy Christian",
             "alias": "",
-            "position": "261",
+            "position": "260",
             "notes": ""
         },
         {
@@ -5265,7 +5245,7 @@
             "loyalty": "",
             "artist": "Emicathe",
             "alias": "",
-            "position": "262",
+            "position": "261",
             "notes": ""
         },
         {
@@ -5276,7 +5256,7 @@
             "number": 199,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
-            "rules_text": "Other creatures you control get +1/+0.\nWhenever an attacking creature you control dies, draw a card.\nPersevere {2}{W}{B} [i](You may cast a copy of this card from your graveyard by exiling it and paying the persevere cost. If you do, it can't block. When it attacks, sacrifice it at end of combat.)[/i]",
+            "rules_text": "Other creatures you control get +1/+0.\nWhenever an creature you control dies, draw a card if it attacked this turn.\nPersevere {2}{W}{B} [i](You may cast a copy of this card from your graveyard by exiling it and paying the persevere cost. If you do, it can't block. When it attacks, sacrifice it at end of combat.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/5",
             "special_text": "",
@@ -5285,7 +5265,7 @@
             "loyalty": "",
             "artist": "Dao Trong Le",
             "alias": "",
-            "position": "263",
+            "position": "262",
             "notes": ""
         },
         {
@@ -5305,7 +5285,7 @@
             "loyalty": "",
             "artist": "Robery Peary Dolendo",
             "alias": "",
-            "position": "264",
+            "position": "263",
             "notes": ""
         },
         {
@@ -5325,7 +5305,7 @@
             "loyalty": "",
             "artist": "illustratiopath",
             "alias": "",
-            "position": "265",
+            "position": "264",
             "notes": ""
         },
         {
@@ -5333,7 +5313,7 @@
             "color": "U",
             "rarity": "mythic",
             "type": "Sorcery",
-            "number": 67,
+            "number": 66,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
             "rules_text": "Search your library for up to four cards with different names and reveal them. An opponent chooses two of those cards. Shuffle the chosen cards into your library. Exile the rest into a face-down pile, shuffle that pile, then manifest those cards.",
@@ -5345,7 +5325,7 @@
             "loyalty": "",
             "artist": "Alexander Mokhov",
             "alias": "",
-            "position": "266",
+            "position": "265",
             "notes": ""
         },
         {
@@ -5365,7 +5345,7 @@
             "loyalty": "",
             "artist": "Vinh Tran",
             "alias": "",
-            "position": "267",
+            "position": "266",
             "notes": ""
         },
         {
@@ -5385,7 +5365,7 @@
             "loyalty": "",
             "artist": "Anastasia Revyakina",
             "alias": "",
-            "position": "268",
+            "position": "267",
             "notes": ""
         },
         {
@@ -5396,7 +5376,7 @@
             "number": 184,
             "color_identity": "WU",
             "cost": "{4}{W}{U}",
-            "rules_text": "Dualism [i](As you cast this spell, you may tap three untapped creatures you control to reduce this spell's cost by {3} or to copy it. You may choose new targets for the copy.)[/i]\nCreate a token that's a copy of target permanent.",
+            "rules_text": "Dualism [i](As you cast this spell, you may tap three untapped creatures you control to reduce this spell's cost by {3} or to copy it. You may choose new targets for the copy.)[/i]\nCreate a token that's a copy of target permanent, except it has no name.",
             "flavor_text": "[i]In dreams, a select few can walk among spirits.[/i]",
             "pt": "",
             "special_text": "",
@@ -5405,7 +5385,7 @@
             "loyalty": "",
             "artist": "Art Gutierrez",
             "alias": "",
-            "position": "269",
+            "position": "268",
             "notes": ""
         },
         {
@@ -5425,7 +5405,7 @@
             "loyalty": "",
             "artist": "Veselin Ivanov",
             "alias": "",
-            "position": "270",
+            "position": "269",
             "notes": ""
         },
         {
@@ -5445,7 +5425,7 @@
             "loyalty": "",
             "artist": "Konstantin Porubov",
             "alias": "",
-            "position": "271",
+            "position": "270",
             "notes": ""
         },
         {
@@ -5465,7 +5445,7 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
-            "position": "272",
+            "position": "271",
             "notes": ""
         },
         {
@@ -5485,7 +5465,7 @@
             "loyalty": "",
             "artist": "Antonio De Luca",
             "alias": "",
-            "position": "273",
+            "position": "272",
             "notes": ""
         },
         {
@@ -5505,7 +5485,7 @@
             "loyalty": "",
             "artist": "Kate Fox",
             "alias": "",
-            "position": "274",
+            "position": "273",
             "notes": ""
         },
         {
@@ -5525,7 +5505,7 @@
             "loyalty": "",
             "artist": "SCG",
             "alias": "",
-            "position": "275",
+            "position": "274",
             "notes": ""
         },
         {
@@ -5545,7 +5525,7 @@
             "loyalty": "",
             "artist": "Lim Wai Yee",
             "alias": "",
-            "position": "276",
+            "position": "275",
             "notes": ""
         },
         {
@@ -5565,7 +5545,7 @@
             "loyalty": "",
             "artist": "Koch43",
             "alias": "",
-            "position": "277",
+            "position": "276",
             "notes": ""
         },
         {
@@ -5585,7 +5565,7 @@
             "loyalty": "",
             "artist": "Samuel Amar",
             "alias": "",
-            "position": "278",
+            "position": "277",
             "notes": ""
         },
         {
@@ -5605,7 +5585,7 @@
             "loyalty": "",
             "artist": "Anastasia Tupikova",
             "alias": "",
-            "position": "279",
+            "position": "278",
             "notes": ""
         },
         {
@@ -5625,7 +5605,7 @@
             "loyalty": "",
             "artist": "IvanChanCL",
             "alias": "",
-            "position": "280",
+            "position": "279",
             "notes": ""
         },
         {
@@ -5645,19 +5625,19 @@
             "loyalty": "",
             "artist": "Marco Espinosa",
             "alias": "",
-            "position": "281",
+            "position": "280",
             "notes": ""
         },
         {
             "card_name": "Legions Upon Legions",
             "color": "W",
             "rarity": "rare",
-            "type": "Sorcery",
+            "type": "Enchantment \u2014 Aura",
             "number": 17,
             "color_identity": "W",
-            "cost": "{X}{X}{W}",
-            "rules_text": "Create X 0/0 colorless Construct artifact creature tokens with \u201cThis token gets +1/+1 for each artifact you control.\u201d",
-            "flavor_text": "[i]A steel legion of enchanted armors swept across the spirit realms, cutting down any who would dare step in its path.[/i]",
+            "cost": "{2}{W}",
+            "rules_text": "Enchant creature\nWhen this Aura enters, exile up to one target nonland permanent an opponent controls until this Aura leaves the battlefield.\nEnchanted creature gets +1/+1 for each artifact and/or enchantment you control.",
+            "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -5665,8 +5645,8 @@
             "loyalty": "",
             "artist": "syarul",
             "alias": "",
-            "position": "282",
-            "notes": ""
+            "position": "281",
+            "notes": "REWORK"
         },
         {
             "card_name": "Kitsune Maiden",
@@ -5685,7 +5665,7 @@
             "loyalty": "",
             "artist": "yuchenghong",
             "alias": "",
-            "position": "283",
+            "position": "282",
             "notes": ""
         },
         {
@@ -5705,7 +5685,7 @@
             "loyalty": "",
             "artist": "Sichen Jiang",
             "alias": "",
-            "position": "284",
+            "position": "283",
             "notes": ""
         },
         {
@@ -5725,7 +5705,7 @@
             "loyalty": "",
             "artist": "Alexandr Leskinen",
             "alias": "",
-            "position": "285",
+            "position": "284",
             "notes": ""
         },
         {
@@ -5745,7 +5725,7 @@
             "loyalty": "",
             "artist": "Vanette Kosman",
             "alias": "",
-            "position": "286",
+            "position": "285",
             "notes": ""
         },
         {
@@ -5765,7 +5745,7 @@
             "loyalty": "",
             "artist": "Nalak-Bel",
             "alias": "",
-            "position": "287",
+            "position": "286",
             "notes": ""
         },
         {
@@ -5785,7 +5765,7 @@
             "loyalty": "",
             "artist": "Francisco Miyara",
             "alias": "",
-            "position": "288",
+            "position": "287",
             "notes": ""
         },
         {
@@ -5793,10 +5773,10 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Ninja",
-            "number": 41,
+            "number": 40,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Sneak {1}{U} [i](You may cast this spell for {1}{U} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)[/i]\nWhenever this creature deals combat damage to a player, target player mills eight cards.",
+            "rules_text": "Sneak {1}{U} [i](You may cast this spell for {1}{U} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)[/i]\nWhenever this creature deals combat damage to a player, draw a card, then discard a card.\nOther Ninja and Rogue creatures you control get +1/+1.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -5805,8 +5785,8 @@
             "loyalty": "",
             "artist": "tobi",
             "alias": "",
-            "position": "289",
-            "notes": ""
+            "position": "288",
+            "notes": "REWORK"
         },
         {
             "card_name": "Animated Lantern-Guide",
@@ -5825,7 +5805,7 @@
             "loyalty": "",
             "artist": "Ari-Matti Toivonen",
             "alias": "",
-            "position": "290",
+            "position": "289",
             "notes": ""
         },
         {
@@ -5833,7 +5813,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Creature \u2014 Bird",
-            "number": 56,
+            "number": 55,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
             "rules_text": "Flying\nWhenever this creature deals combat damage to a player, draw a card for each Gate you control.",
@@ -5845,7 +5825,7 @@
             "loyalty": "",
             "artist": "Christina Kraus",
             "alias": "",
-            "position": "291",
+            "position": "290",
             "notes": ""
         },
         {
@@ -5853,7 +5833,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Creature \u2014 Demon Warrior",
-            "number": 74,
+            "number": 73,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
             "rules_text": "Menace\nWhenever you discard one or more cards, create a 1/1 red Demon creature token with \u201cThis token can't block.\u201d\nAs long as you control seven or more Demons, you may cast spells from your hand by paying life equal to their mana value rather than paying their mana cost.",
@@ -5865,7 +5845,7 @@
             "loyalty": "",
             "artist": "Gin",
             "alias": "",
-            "position": "292",
+            "position": "291",
             "notes": ""
         },
         {
@@ -5885,7 +5865,7 @@
             "loyalty": "",
             "artist": "Shringarayonii",
             "alias": "",
-            "position": "293",
+            "position": "292",
             "notes": ""
         },
         {
@@ -5905,7 +5885,7 @@
             "loyalty": "",
             "artist": "Sofie Bris Kalinova",
             "alias": "",
-            "position": "294",
+            "position": "293",
             "notes": ""
         },
         {
@@ -5925,7 +5905,7 @@
             "loyalty": "",
             "artist": "Mary Holian",
             "alias": "",
-            "position": "295",
+            "position": "294",
             "notes": ""
         },
         {
@@ -5945,7 +5925,7 @@
             "loyalty": "",
             "artist": "Marin Nicolas Grasso",
             "alias": "",
-            "position": "296",
+            "position": "295",
             "notes": ""
         },
         {
@@ -5965,7 +5945,7 @@
             "loyalty": "",
             "artist": "Thomas Caputo",
             "alias": "",
-            "position": "297",
+            "position": "296",
             "notes": ""
         },
         {
@@ -5985,7 +5965,7 @@
             "loyalty": "",
             "artist": "liang qian",
             "alias": "",
-            "position": "298",
+            "position": "297",
             "notes": ""
         },
         {
@@ -6005,7 +5985,7 @@
             "loyalty": "",
             "artist": "Aleksa Drageljevic",
             "alias": "",
-            "position": "299",
+            "position": "298",
             "notes": ""
         },
         {
@@ -6016,7 +5996,7 @@
             "number": 190,
             "color_identity": "UG",
             "cost": "{5}{G}{U}",
-            "rules_text": "Reveal the top ten cards of your library. For each permanent card revealed this way, you may return a permanent you control that shares a card type with it to its owner's hand. If you do, put that permanent card onto the battlefield tapped under your control. Put the rest on the bottom of your library in a random order.",
+            "rules_text": "Reveal the top ten cards of your library. For each permanent card revealed this way, you may return a permanent you control that shares a card type with it to its owner's hand. If you do, put that card onto the battlefield under your control. Put the rest on the bottom of your library in a random order.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6025,7 +6005,7 @@
             "loyalty": "",
             "artist": "IDEOMOTOR",
             "alias": "",
-            "position": "300",
+            "position": "299",
             "notes": ""
         },
         {
@@ -6035,18 +6015,18 @@
             "type": "Creature \u2014 Human Ninja",
             "number": 213,
             "color_identity": "UG",
-            "cost": "{G}{U}",
-            "rules_text": "Sneak {1}{G}{U} [i](You may cast this spell for {1}{G}{U} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)[/i]\nWhenever this creature deals combat damage to a player, create a token that's a copy of target artifact you control.",
+            "cost": "{1}{G}{U}",
+            "rules_text": "Sneak {1}{G}{U} [i](You may cast this spell for {1}{G}{U} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)[/i]\nWhenever this creature deals combat damage to a player, create a Clue token, Food token, and Treasure token.",
             "flavor_text": "[i][/i]",
-            "pt": "3/1",
+            "pt": "3/2",
             "special_text": "",
             "shape": "normal",
             "set": "KLB",
             "loyalty": "",
             "artist": "Sima Zhao",
             "alias": "",
-            "position": "301",
-            "notes": ""
+            "position": "300",
+            "notes": "REWORK"
         },
         {
             "card_name": "Resourceful Adversary",
@@ -6065,7 +6045,7 @@
             "loyalty": "",
             "artist": "Eilene Cherie",
             "alias": "",
-            "position": "302",
+            "position": "301",
             "notes": ""
         },
         {
@@ -6085,7 +6065,7 @@
             "loyalty": "",
             "artist": "HeonHwa Choe",
             "alias": "",
-            "position": "303",
+            "position": "302",
             "notes": ""
         },
         {
@@ -6096,7 +6076,7 @@
             "number": 182,
             "color_identity": "RG",
             "cost": "{6}{R}{G}",
-            "rules_text": "Flying\nWhenever this creature enters, create a 4/4 blue Dragon creature token with flying for each Dragon you control.\nWhenever this creature attacks, it deals X damage to any target, where X is the total power of Dragons you control.",
+            "rules_text": "Flying\nWhen this creature enters, create a 4/4 blue Dragon creature token with flying for each Dragon you control.\nWhenever this creature attacks, it deals X damage to any target, where X is the total power of Dragons you control.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -6105,7 +6085,7 @@
             "loyalty": "",
             "artist": "efaru",
             "alias": "",
-            "position": "304",
+            "position": "303",
             "notes": ""
         },
         {
@@ -6125,7 +6105,7 @@
             "loyalty": "",
             "artist": "Thomas Ricci",
             "alias": "",
-            "position": "305",
+            "position": "304",
             "notes": ""
         },
         {
@@ -6145,7 +6125,7 @@
             "loyalty": "",
             "artist": "pauleenanne",
             "alias": "",
-            "position": "306",
+            "position": "305",
             "notes": ""
         },
         {
@@ -6165,7 +6145,7 @@
             "loyalty": "",
             "artist": "Bryann Orion",
             "alias": "",
-            "position": "307",
+            "position": "306",
             "notes": ""
         },
         {
@@ -6185,7 +6165,7 @@
             "loyalty": "",
             "artist": "Tiffany Chu",
             "alias": "",
-            "position": "308",
+            "position": "307",
             "notes": ""
         },
         {
@@ -6205,7 +6185,7 @@
             "loyalty": "",
             "artist": "ShadeOfSinon",
             "alias": "",
-            "position": "309",
+            "position": "308",
             "notes": ""
         },
         {
@@ -6225,7 +6205,7 @@
             "loyalty": "",
             "artist": "hen-lee",
             "alias": "",
-            "position": "310",
+            "position": "309",
             "notes": ""
         },
         {
@@ -6245,7 +6225,7 @@
             "loyalty": "",
             "artist": "Areakst Kingglost",
             "alias": "",
-            "position": "311",
+            "position": "310",
             "notes": ""
         },
         {
@@ -6265,7 +6245,7 @@
             "loyalty": "",
             "artist": "Dao Trong Le",
             "alias": "",
-            "position": "312",
+            "position": "311",
             "notes": ""
         },
         {
@@ -6285,7 +6265,7 @@
             "loyalty": "",
             "artist": "Linda Jansson",
             "alias": "",
-            "position": "313",
+            "position": "312",
             "notes": ""
         },
         {
@@ -6305,7 +6285,7 @@
             "loyalty": "",
             "artist": "Louise Goalby",
             "alias": "",
-            "position": "314",
+            "position": "313",
             "notes": ""
         },
         {
@@ -6325,7 +6305,7 @@
             "loyalty": "",
             "artist": "G xy",
             "alias": "",
-            "position": "315",
+            "position": "314",
             "notes": ""
         },
         {
@@ -6345,7 +6325,7 @@
             "loyalty": "",
             "artist": "Mads Ahm",
             "alias": "",
-            "position": "316",
+            "position": "315",
             "notes": ""
         },
         {
@@ -6353,7 +6333,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact",
-            "number": 21,
+            "number": 22,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{2}, {T}: Draw a card.",
@@ -6365,7 +6345,7 @@
             "loyalty": "",
             "artist": "Sara Contreras",
             "alias": "",
-            "position": "317",
+            "position": "316",
             "notes": ""
         },
         {
@@ -6385,7 +6365,7 @@
             "loyalty": "",
             "artist": "Aviral Shukla",
             "alias": "",
-            "position": "318",
+            "position": "317",
             "notes": ""
         },
         {
@@ -6405,7 +6385,7 @@
             "loyalty": "",
             "artist": "Anna Khepri",
             "alias": "",
-            "position": "319",
+            "position": "318",
             "notes": ""
         },
         {
@@ -6425,7 +6405,7 @@
             "loyalty": "",
             "artist": "Kristian Nusser",
             "alias": "",
-            "position": "320",
+            "position": "319",
             "notes": ""
         },
         {
@@ -6436,7 +6416,7 @@
             "number": 8,
             "color_identity": "B",
             "cost": "",
-            "rules_text": "",
+            "rules_text": "Flying",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -6445,9 +6425,69 @@
             "loyalty": "",
             "artist": "Yoojin Rhee",
             "alias": "",
+            "position": "320",
+            "notes": ""
+        },
+        {
+            "card_name": "Giyama, Blood Burning",
+            "color": "BR",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Demon Warrior",
+            "number": 188,
+            "color_identity": "BR",
+            "cost": "{2}{B}{R}",
+            "rules_text": "Creatures you control have haste.\n{T}, Discard a card: Create a token that's a copy of another target creature you control, except it isn't legendary and has \u201cAt the beginning of your end step, sacrifice this creature unless you have no cards in hand.\u201d",
+            "flavor_text": "[i][/i]",
+            "pt": "4/4",
+            "special_text": "",
+            "shape": "normal",
+            "set": "KLB",
+            "loyalty": "4",
+            "artist": "Jeleynai",
+            "alias": "",
             "position": "321",
+            "notes": ""
+        },
+        {
+            "card_name": "Food",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact \u2014 Food",
+            "number": 19,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{2}, {T}, Sacrifice this token: You gain 3 life.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "KLB",
+            "loyalty": "",
+            "artist": "Manurgo Falls",
+            "alias": "",
+            "position": "322",
+            "notes": ""
+        },
+        {
+            "card_name": "Treasure",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact \u2014 Treasure",
+            "number": 23,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{T}, Sacrifice this token: Add one mana of any color.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "KLB",
+            "loyalty": "",
+            "artist": "xiaofanchuanart",
+            "alias": "",
+            "position": "323",
             "notes": ""
         }
     ],
-    "version": 10
+    "version": 11
 }

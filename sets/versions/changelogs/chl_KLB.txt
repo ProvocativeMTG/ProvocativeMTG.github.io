@@ -1,4 +1,699 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Akuryo's Shadowpuller added.
+Weave the Tide added.
+Natori Steeltalon added.
+Wandering Echo added.
+Deadly Kunai added.
+Giyama, Blood Burning added.
+Food added.
+Treasure added.
+
+Giyama, Accursed Blood removed.
+Adjutant of the Ripple removed.
+Break the Tide removed.
+Natori Realmwalker removed.
+Wanderer's Echo removed.
+Brave Martyr removed.
+
+Beast of the Coiling Abyss
+
+Seishin Charm
+
+Soen, Inklight Artisan
+
+Sealing Spell
+
+Baboon Swordhand
+
+Inklight Thief
+
+Featherlight Assailant
+
+Viletongue Seishin
+
+Tea Leaf Whelp
+
+Jadeclad Infiltrator
+
+Iwai, Oda's Slayer
+
+Petalfall
+
+Shigane Fatereader
+
+Oni Charm
+
+Conqueror's Faithful
+
+Dynasty Charms
+
+Dragon Festival Barges
+
+Mossmane Kirin
+
+Yokinzan Bellringer
+
+Amphibian Ascetics
+
+Lanternlighter
+
+Mistweave Soarer
+
+Avatar of the All Grasping
+
+Aoushun, Brought Back
+
+Cartographer's Edict
+
+Ayeshi, Kitsuo's Savior
+
+Daiju, Lord of the Moon
+
+The Inkstone
+
+One-Engine Colossus
+
+Errant Ronin
+
+Bloodsoaked Gate
+
+Yokinzan Ronin
+
+Lumbering Gourdbearer
+
+Bloodflame Avenger
+
+Shadow of Takeno
+
+Severance
+type: Sorcery => Instant
+
+Fireheart Ruiner
+rules_text: Haste
+Whenever a player casts a spell that's one or more colors, this creature deals 1 damage to that player for each of that spell's colors. => Ward—Pay 3 life.
+Whenever a player casts a spell that's one or more colors, this creature deals 1 damage to that player for each of that spell's colors.
+
+Hands from Hell
+
+Shiori, Devourer of Souls
+
+Yosune, the Farbound
+
+Chiyo, Sakura Tortoise
+
+Celestial Dance
+
+Elbow Strike
+
+Seishin Binding
+
+Fan Dancer
+
+Daiju's Moonsea Barge
+
+Death Undone
+
+Flow
+
+Kaibyo Shrine Maidens
+
+Kaibyo Lightspinner
+
+Dragoneye Crackshot
+
+Shrine Maiden's Tanuki
+
+Gate Atop the Holt
+
+Gate Atop the Peak
+
+Gate Atop the Isle
+
+Gate Atop the Bog
+
+Gate Atop the Hill
+
+Confluence of Paths
+
+Predestined Path
+
+Torii-Bound Koi
+
+Eight-Faced Calamity
+
+Thundermane Seishin
+
+Kitsune Protector
+
+Fickle Forms
+
+Kitsune Celebrant
+
+Risen Realmway
+
+Studies in Spirits and Steel
+
+Bitter Vengeance
+
+Shigane Charm
+
+Ugin, Ghostflame Scholar
+
+Master of Ravens
+
+Shiori's Augur
+
+Patient Mother
+type: Creature — Human Cleric => Creature — Human Advisor
+
+Tachibana, the Vengeant
+rules_text: Double strike
+Each spell you cast costs {X} less to cast, where X is the total power of creatures that spell targets. => Double strike
+Whenever Tachibana attacks, for each nontoken permanent attached to her, create a token that's a copy of that permanent attached to her.
+
+Ryutenmaru, Imperial Skyship
+
+Cloudcutter Sellsword
+
+Warlord's Capture
+
+Persistent Swordmaster
+
+Zombie Samurai
+
+Palm Blast
+
+Commune with Ancestors
+
+Shigane Inspector
+
+Kimja Courier
+
+Oni-Engine Acolyte
+
+Fire-Rain Witch
+
+Sneak a Peek
+
+Heiress of War
+
+Conjured Dragonfire
+
+Fanblade Geisha
+
+Hardsuit
+
+Jellyfish
+
+Gate to Everywhere
+
+Skilled Animation
+
+Tsubasa's Technique
+
+Dragon of Good Winds
+
+Oe, the Beast Kitsune
+
+Vengeance for the Lost
+
+Kimja Charm
+
+Uiki Charm
+
+Kage, Soul Clad in Steel
+
+Majestic Phoenix
+
+Ambush Seishin
+
+Swept Up
+
+Cleaving Cut
+
+Haruki, Ofuda Duelist
+
+Bloodstained Ruiners
+
+Still the Surface
+
+Ancestral Guidance
+
+Stand Alone
+
+Ripple in the Waters
+
+Woven Amigasa
+
+Emperor's Seal
+rules_text: {T}: Exile target card from a graveyard.
+{2}, {T}, Sacrifice this artifact: Create a 4/4 blue Dragon creature token with flying. Activate only if there are four or more card types among cards exiled with this artifact. => {T}: Exile target card from a graveyard.
+{2}, {T}, Sacrifice this artifact: Create a 4/4 blue Dragon creature token with flying. Activate only if there are four or more card types among cards exiled with this artifact and only as a sorcery.
+
+Tales of Ages Past
+
+Simian Exemplar
+
+Majestic Duo
+
+Oath Sworn in Blood
+rules_text: Target creature you control gets +2/+2 and gains lifelink until end of turn. Until end of turn, triggered abilities you control can't cause you to sacrifice that creature. [i](This includes creatures with perseverance.)[/i] => Target creature you control gets +2/+2 and gains lifelink until end of turn. Until end of turn, triggered abilities you control can't cause you to sacrifice that creature. [i](This includes creatures with persevere.)[/i]
+
+Jadescale Viper
+
+Young Qilin
+
+Stonecarved Protector
+
+The Last Bloom
+
+Ugin's Command
+
+Giant Mossy Frog
+
+Aonuma and Koraja
+rules_text: Menace
+You may pay {0} rather than pay the mana costs of the third, sixth, and ninth spells you cast each turn. => When Aonuma and Koraja enters, return up to three target land cards from your graveyard to your hand.
+Creatures you control have all activated abilities of Gates you control.
+pt: 5/5 => 3/3
+
+Internal Crisis
+
+Bloom in Blood
+
+Koto's Anthem
+
+Noble Dragonguard
+
+Ukina, Hyomon's Legacy
+
+Eager Pupil
+
+Three-Headed Heron
+
+Avatar of the Skies
+
+Guardian of Tsuge
+
+Welkin Summoning
+
+Dappled Predator
+
+Adrift in the Wake
+
+Scion of Ikurimoko
+
+Scion of Yingjun
+
+Scion of Keuya
+
+Scion of Gereishin
+
+Scion of Aoushun
+
+Sunkissed Kirin
+rules_text: Whenever one or more +1/+1 counters are put on another creature you control, put a +1/+1 counter on this creature and it deals 1 damage to each opponent. This ability triggers only once each turn. => Whenever one or more +1/+1 counters are put on another creature you control, put a +1/+1 counter on this creature. It deals 1 damage to each opponent. This ability triggers only once each turn.
+
+Old Demonlord
+
+Immortal Flames
+
+Corrupting Urge
+
+Fan the Flames
+
+Upstart Soulseer
+
+Exalted Wanderer
+
+Natori Cannoneer
+
+Flowing Duelist
+
+Guardian Kinscale
+
+Bearer of the Cresset
+
+Yuuto, Son of Toyotomi
+
+Astral Projection
+
+Black Lotus
+
+Tea-Haze Wisp
+
+Dragonblessed Stormcaller
+
+Sail the Spirit Realms
+
+Shrine Communion
+cost: {WB} => {1}{WB}
+
+Dragonbone Sculptor
+
+Allure of the Kitsune
+
+Minori, the Puppeteer
+
+Graceful Spinstress
+type: Creature — Human Rogue => Creature — Human Advisor
+rules_text: Menace
+Whenever this creature attacks, you may discard a card. If you do, exile the top card of your library.
+[i]Oathless[/i] — Once during each of your turns, you may play a card exiled with this creature if you have one or fewer cards in hand or if you've discarded a card this turn. => Menace
+Whenever this creature attacks, exile the top card of your library.
+[i]Oathless[/i] — Once during each of your turns, you may play a card exiled with this creature if you have one or fewer cards in hand or if you've discarded a card this turn.
+
+Walk Two Paths
+
+Fatherly Mentor
+
+Honored Master-at-Arms
+rules_text: As this creature enters, choose balance or chaos.
+• Balance — Whenever you gain life, each opponent loses that much life.
+• Chaos — Whenever an opponent loses life, you gain that much life.
+Persevere {3}{W}{B} [i](You may cast a copy of this card from your graveyard by exiling it and paying the persevere cost. If you do, it can't block. When it attacks, sacrifice it at end of combat.)[/i] => Vigilance, lifelink
+You may pay {0} rather than pay the mana costs for Aura and Equipment spells you cast.
+
+Ruined Champion
+
+Kage's Reaver
+
+Bedevil
+
+Mow Down
+
+Witch's Branchblade
+
+Segmented Seishin
+
+Looming Firehulk
+
+Lady of Yokinza
+
+Honorbound Undead
+
+Shigane Branchdancer
+
+Measured Assault
+
+Deep Sea Shinobi
+
+Runic Mercenary
+
+Preening Peacock
+type: Creature — Avatar Noble => Creature — Avatar Advisor
+
+Poisoned Edge
+
+Waves of Gold
+
+Sentinel of Binding
+
+Walking Pagoda
+
+Broken Vow
+
+Construct
+
+Engraved Fanblade
+
+Enduring Memory
+
+Murmuring Monument
+
+Run-Down Shrine
+
+Manifest
+
+Young Trainee
+
+Spirit Realm Trawler
+
+Realm Devouring
+
+Backline Deadeye
+
+Ritual of Returning
+
+Immortal Warlord
+
+Macabre Collector
+
+Condemned Souleater
+
+Lotus Petal
+
+Horizon Chaser
+
+Sunsong Player
+
+Tsuru, the Tattooist
+
+Oni Daimyo
+type: Creature — Demon Noble => Creature — Demon Advisor
+
+Path of Flame
+
+Stillness and Motion
+
+Dragoncaller Immortal
+
+Kazuko, Lord of Chaos
+
+Reo, First Gunblade
+
+Ayeshi's Lament
+
+Colossal Seishin
+
+Runewrapped Onryo
+pt: 3/2 => 3/3
+
+Faceless Hunter
+
+Cursed Plate
+
+Haughty Oblate
+
+Honored Commander
+
+Koshin, the Kin-Killer
+
+Gates Ablaze
+
+Grim Bruiser
+
+Gereishin, Last of His Kin
+
+Amagaseto, Alone No More
+
+Lion Dancer
+
+Hatazo, Shiny Finder
+
+Tzuhan, the Last Heir
+
+Nimomae, the Origamist
+
+The Multiverse Awaits
+
+Mercenary's Blade
+
+Zaiku o Toge
+
+Bind in Jade
+
+Riyoto, the First Immortal
+rules_text: Protection from Humans, Demons, and Spirits [i](This creature can't be blocked, targeted or dealt damage by Humans, Demons, and Spirits.)[/i]
+Whenever a creature attacks you, its controller sacrifices it at end of combat.
+At the beginning of each opponent's end step, if you didn't lose life this turn, each opponent loses 3 life and you draw a card. => Protection from Humans, Demons, and Spirits [i](This creature can't be blocked, targeted or dealt damage by Humans, Demons, and Spirits.)[/i]
+Whenever a creature attacks you, its controller sacrifices it at end of combat.
+At the beginning of each opponent's end step, if you didn't lose life this turn, that player loses 3 life and you draw a card.
+
+God-Tree Saptender
+
+Scrollbound Beast
+
+Splintering Raiju
+
+Minenohana, Blossom's Cradle
+
+Fractal Realmway
+
+Escape the Demon Realm
+rules_text: Exile the top six cards of your library. For each Gate card exiled this way, you may cast a nonland card exiled this way without paying its mana cost. => Exile the top eight cards of your library. For each Gate card exiled this way, you may cast a nonland card exiled this way without paying its mana cost.
+
+Celebration of Peace
+
+Kitsune Gate
+
+Monolith Gate
+
+Accursed Gate
+
+Hewn Gate
+
+Lotus Pools
+
+Oni-Engine Forge
+
+Dragonmaw Gate
+
+Turncoat Ruiner
+
+Runecut Ronin
+
+Kei, Who Still Stands
+rules_text: Other creatures you control get +1/+0.
+Whenever an attacking creature you control dies, draw a card.
+Persevere {2}{W}{B} [i](You may cast a copy of this card from your graveyard by exiling it and paying the persevere cost. If you do, it can't block. When it attacks, sacrifice it at end of combat.)[/i] => Other creatures you control get +1/+0.
+Whenever an creature you control dies, draw a card if it attacked this turn.
+Persevere {2}{W}{B} [i](You may cast a copy of this card from your graveyard by exiling it and paying the persevere cost. If you do, it can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Shigane Diviner
+
+Aquatic Ambusher
+
+Warnings Unheeded
+
+Spiralhorn Winder
+
+Hirohito, Guiding Blossom
+
+Dreamwalk
+rules_text: Dualism [i](As you cast this spell, you may tap three untapped creatures you control to reduce this spell's cost by {3} or to copy it. You may choose new targets for the copy.)[/i]
+Create a token that's a copy of target permanent. => Dualism [i](As you cast this spell, you may tap three untapped creatures you control to reduce this spell's cost by {3} or to copy it. You may choose new targets for the copy.)[/i]
+Create a token that's a copy of target permanent, except it has no name.
+
+Harmonious Monks
+
+Rushing Blood
+
+March to War
+
+Furious Confrontation
+
+Cloud Dance
+
+Jiro, the Flutist
+
+Benevolent Serpent
+
+Kitsune's Allure
+
+Soaring Trackers
+
+Corrupted Wanderer
+
+Esouled Yoroi
+
+Regal Mount
+
+Legions Upon Legions
+type: Sorcery => Enchantment — Aura
+cost: {X}{X}{W} => {2}{W}
+rules_text: Create X 0/0 colorless Construct artifact creature tokens with “This token gets +1/+1 for each artifact you control.” => Enchant creature
+When this Aura enters, exile up to one target nonland permanent an opponent controls until this Aura leaves the battlefield.
+Enchanted creature gets +1/+1 for each artifact and/or enchantment you control.
+
+Kitsune Maiden
+
+Coiling Abyss's Blessing
+
+Burning-Blood Toad
+
+Shadow-Haunted Captain
+
+Yokinzan Formshifter
+
+Uiki Rockslinger
+
+Chaffcutter Shinobi
+rules_text: Sneak {1}{U} [i](You may cast this spell for {1}{U} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)[/i]
+Whenever this creature deals combat damage to a player, target player mills eight cards. => Sneak {1}{U} [i](You may cast this spell for {1}{U} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)[/i]
+Whenever this creature deals combat damage to a player, draw a card, then discard a card.
+Other Ninja and Rogue creatures you control get +1/+1.
+
+Animated Lantern-Guide
+
+Omen Strix
+
+Condemned Huntress
+
+Fleetfooted Messenger
+
+Destiny of Ash and Flame
+
+Tiger Koi
+
+Kinscale Harrier
+
+Warden of Kaibyo
+
+Golden Horned Serpent
+
+Jade Komainu
+
+Heaven's Revolution
+rules_text: Reveal the top ten cards of your library. For each permanent card revealed this way, you may return a permanent you control that shares a card type with it to its owner's hand. If you do, put that permanent card onto the battlefield tapped under your control. Put the rest on the bottom of your library in a random order. => Reveal the top ten cards of your library. For each permanent card revealed this way, you may return a permanent you control that shares a card type with it to its owner's hand. If you do, put that card onto the battlefield under your control. Put the rest on the bottom of your library in a random order.
+
+Relic Seeker
+cost: {G}{U} => {1}{G}{U}
+rules_text: Sneak {1}{G}{U} [i](You may cast this spell for {1}{G}{U} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)[/i]
+Whenever this creature deals combat damage to a player, create a token that's a copy of target artifact you control. => Sneak {1}{G}{U} [i](You may cast this spell for {1}{G}{U} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)[/i]
+Whenever this creature deals combat damage to a player, create a Clue token, Food token, and Treasure token.
+pt: 3/1 => 3/2
+
+Resourceful Adversary
+
+March for the Demonlord
+
+Dragon Grandam
+rules_text: Flying
+Whenever this creature enters, create a 4/4 blue Dragon creature token with flying for each Dragon you control.
+Whenever this creature attacks, it deals X damage to any target, where X is the total power of Dragons you control. => Flying
+When this creature enters, create a 4/4 blue Dragon creature token with flying for each Dragon you control.
+Whenever this creature attacks, it deals X damage to any target, where X is the total power of Dragons you control.
+
+Kaibyo Ensorceller
+
+Total Corruption
+
+Skulker's Dualblades
+
+Clue
+
+Bird
+
+Ninja
+
+Demon
+
+Monk
+
+Dragon
+
+Spirit Beast
+
+Shade
+
+Snake
+
+Ofuda
+
+Bird Construct
+
+Lotus Cobra
+
+Avatar
+
+Inkling Horror
+rules_text:  => Flying
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Lotus Dragon Turtle added.

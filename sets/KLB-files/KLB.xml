@@ -5,13 +5,13 @@
 			<name>KLB</name>
 			<longname>Kitsuo: Last Bloom</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-02</releasedate>
+			<releasedate>2026-05-03</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
 			<name>Lotus Dragon Turtle</name>
-			<text>Favor {2}{R} ({2}{R}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
+			<text>Inspirit {2}{R} ({2}{R}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
 Whenever this creature deals combat damage to a player, create a Black Lotus token. (It&apos;s a {0} artifact with &quot;{T}, Sacrifice Black Lotus: Add three mana of any color.&quot;)</text>
 			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/0.png" num="120">KLB</set>
 			<prop>
@@ -140,7 +140,7 @@ As this artifact enters, you may have it become a copy of any creature on the ba
 		<card>
 			<name>Beast of the Coiling Abyss</name>
 			<text>This spell can&apos;t be countered.
-Favor {1}{G} ({1}{G}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
+Inspirit {1}{G} ({1}{G}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
 Vigilance, trample
 Whenever this creature deals 5 or more damage to a player, draw a card.</text>
 			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/7.png" num="136">KLB</set>
@@ -268,7 +268,7 @@ When this creature enters, if a permanent you controlled left the battlefield wi
 		</card>
 		<card>
 			<name>Viletongue Seishin</name>
-			<text>Favor {G} ({G}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
+			<text>Inspirit {G} ({G}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
 Deathtouch</text>
 			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/14.png" num="162">KLB</set>
 			<prop>
@@ -463,7 +463,7 @@ Whenever one or more +1/+1 counters are put on this creature, put a +1/+1 counte
 		</card>
 		<card>
 			<name>Yokinzan Bellringer</name>
-			<text>Favor {1}{R} ({1}{R}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
+			<text>Inspirit {1}{R} ({1}{R}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
 Menace</text>
 			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/25.png" num="134">KLB</set>
 			<prop>
@@ -1057,7 +1057,7 @@ Persevere {B} (You may cast a copy of this card from your graveyard by exiling i
 		</card>
 		<card>
 			<name>Shrine Maiden&apos;s Tanuki</name>
-			<text>Favor {2}{G} ({2}{G}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
+			<text>Inspirit {2}{G} ({2}{G}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
 Vigilance, trample</text>
 			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/58.png" num="159">KLB</set>
 			<prop>
@@ -1217,7 +1217,7 @@ Whenever a land you control enters, reveal the top card of your library and put 
 		<card>
 			<name>Eight-Faced Calamity</name>
 			<text>This creature enters with X +1/+1 counters on it.
-Favor {2}{R}{G} ({2}{R}{G}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
+Inspirit {2}{R}{G} ({2}{R}{G}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
 Whenever this creature attacks, create a number of 1/1 green Snake creature tokens equal to this creature&apos;s power.</text>
 			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/67.png" num="185">KLB</set>
 			<prop>
@@ -1235,7 +1235,7 @@ Whenever this creature attacks, create a number of 1/1 green Snake creature toke
 		</card>
 		<card>
 			<name>Thundermane Seishin</name>
-			<text>Favor {2}{R}{G} ({2}{R}{G}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
+			<text>Inspirit {2}{R}{G} ({2}{R}{G}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
 Whenever this creature attacks, it gets +1/+1 until end of turn.</text>
 			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/68.png" num="263">KLB</set>
 			<prop>
@@ -1432,7 +1432,7 @@ Persevere {2}{W} (You may cast a copy of this card from your graveyard by exilin
 		</card>
 		<card>
 			<name>Shiori&apos;s Augur</name>
-			<text>Favor {R} ({R}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
+			<text>Inspirit {R} ({R}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
 Whenever this creature attacks, it deals 1 damage to each opponent.</text>
 			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/79.png" num="128">KLB</set>
 			<prop>
@@ -1967,7 +1967,7 @@ Exhaust — {4}{B}{B}{B}, Pay 7 life: Draw seven cards. Activate only as a sorce
 		</card>
 		<card>
 			<name>Majestic Phoenix</name>
-			<text>Favor {1}{R} ({1}{R}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
+			<text>Inspirit {1}{R} ({1}{R}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
 Flying, haste
 When this creature dies, exile it and the top card of your library. You may play those cards until the end of your next turn.</text>
 			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/109.png" num="122">KLB</set>
@@ -1986,7 +1986,7 @@ When this creature dies, exile it and the top card of your library. You may play
 		</card>
 		<card>
 			<name>Ambush Seishin</name>
-			<text>Favor {2}{R} ({2}{R}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
+			<text>Inspirit {2}{R} ({2}{R}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
 Haste
 As long as this creature entered this turn, it gets +1/+1 and has first strike.</text>
 			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/110.png" num="102">KLB</set>
@@ -2242,7 +2242,7 @@ Persevere {1}{W} (You may cast a copy of this card from your graveyard by exilin
 		</card>
 		<card>
 			<name>Jadescale Viper</name>
-			<text>Favor {2}{G} ({2}{G}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
+			<text>Inspirit {2}{G} ({2}{G}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
 Whenever this creature attacks, add X {G}, where X is this creature&apos;s power. Until end of turn, you don&apos;t lose this mana as steps and phases end.</text>
 			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/125.png" num="147">KLB</set>
 			<prop>
@@ -2260,7 +2260,7 @@ Whenever this creature attacks, add X {G}, where X is this creature&apos;s power
 		</card>
 		<card>
 			<name>Young Qilin</name>
-			<text>Favor {4}{G} ({4}{G}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
+			<text>Inspirit {4}{G} ({4}{G}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
 Whenever this creature attacks, put a +1/+1 counter on each creature you control that had a counter put on it this turn.</text>
 			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/126.png" num="167">KLB</set>
 			<prop>
@@ -2904,7 +2904,7 @@ Whenever you cast a white spell, blue spell, black spell, or red spell, put a +1
 		</card>
 		<card>
 			<name>Yuuto, Son of Toyotomi</name>
-			<text>Favor {3}{R}{G} ({3}{R}{G}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
+			<text>Inspirit {3}{R}{G} ({3}{R}{G}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
 Whenever this creature attacks, double its power until end of turn.</text>
 			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/162.png" num="242">KLB</set>
 			<prop>
@@ -3237,7 +3237,7 @@ When this creature enters, create a Clue token. (It&apos;s an artifact with &quo
 		</card>
 		<card>
 			<name>Segmented Seishin</name>
-			<text>Favor {2}{R} ({2}{R}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
+			<text>Inspirit {2}{R} ({2}{R}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
 Whenever this creature attacks, put a +1/+1 counter on it for each +1/+1 counter put on it this turn.</text>
 			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/181.png" num="127">KLB</set>
 			<prop>
@@ -3465,7 +3465,7 @@ As long as there are three or more cards exiled with this creature, it gets +2/+
 		</card>
 		<card>
 			<name>Walking Pagoda</name>
-			<text>Favor {G} ({G}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
+			<text>Inspirit {G} ({G}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
 This creature assigns combat damage equal to its toughness rather than its power.</text>
 			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/194.png" num="163">KLB</set>
 			<prop>
@@ -4309,7 +4309,7 @@ If you would draw a card, draw two cards instead. (If you control two of these c
 		</card>
 		<card>
 			<name>Scrollbound Beast</name>
-			<text>Favor {7}{R}{G} ({7}{R}{G}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
+			<text>Inspirit {7}{R}{G} ({7}{R}{G}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
 Trample
 At the beginning of each combat, double the power and toughness of each creature you control until end of turn.</text>
 			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/242.png" num="222">KLB</set>
@@ -4328,7 +4328,7 @@ At the beginning of each combat, double the power and toughness of each creature
 		</card>
 		<card>
 			<name>Splintering Raiju</name>
-			<text>Favor {1}{R} ({1}{R}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
+			<text>Inspirit {1}{R} ({1}{R}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
 Whenever this creature attacks, the next spell you cast this turn has storm. (When you cast it, copy it for each spell cast before it this turn. You may choose new targets for the copies.)</text>
 			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/243.png" num="129">KLB</set>
 			<prop>
@@ -4952,7 +4952,7 @@ Oathless — Whenever this creature attacks, put a +1/+1 counter on it if you ha
 		</card>
 		<card>
 			<name>Regal Mount</name>
-			<text>Favor {2}{RG} ({2}{RG}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
+			<text>Inspirit {2}{RG} ({2}{RG}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
 You may have this creature assign its combat damage as though it weren&apos;t blocked.</text>
 			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/280.png" num="257">KLB</set>
 			<prop>
@@ -5060,7 +5060,7 @@ Persevere {4}{B} (You may cast a copy of this card from your graveyard by exilin
 		<card>
 			<name>Yokinzan Formshifter</name>
 			<text>Trample
-During your turn, as long as you haven&apos;t activated a favor ability this turn, you may activate favor abilities as though they haven&apos;t been activated.</text>
+During your turn, as long as you haven&apos;t activated a inspirit ability this turn, you may activate inspirit abilities as though they haven&apos;t been activated.</text>
 			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/286.png" num="165">KLB</set>
 			<prop>
 				<layout>normal</layout>
@@ -5203,7 +5203,7 @@ Dragons you control get +2/+2.</text>
 		</card>
 		<card>
 			<name>Tiger Koi</name>
-			<text>Favor {1}{R}{G} ({1}{R}{G}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
+			<text>Inspirit {1}{R}{G} ({1}{R}{G}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)
 Whenever this creature attacks, for each player, choose up to one target creature they control with power less than this creature&apos;s power. If you control that creature, put a +1/+1 counter on it. Otherwise, it can&apos;t block this turn.</text>
 			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/294.png" num="236">KLB</set>
 			<prop>

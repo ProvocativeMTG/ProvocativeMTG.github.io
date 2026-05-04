@@ -5066,7 +5066,7 @@
             "artist": "Jenny Li",
             "alias": "",
             "position": "252",
-            "notes": "!group basic\n!sort 05"
+            "notes": "\\"
         },
         {
             "card_name": "Mountain",
@@ -5086,7 +5086,7 @@
             "artist": "Jenny LI",
             "alias": "",
             "position": "253",
-            "notes": "!group basic\n!sort 04"
+            "notes": ""
         },
         {
             "card_name": "Plains",
@@ -5106,7 +5106,7 @@
             "artist": "Jenny Li",
             "alias": "",
             "position": "254",
-            "notes": "!group basic\n!sort 01"
+            "notes": ""
         },
         {
             "card_name": "Swamp",
@@ -5126,7 +5126,7 @@
             "artist": "Jenny Li",
             "alias": "",
             "position": "255",
-            "notes": "!group basic\n!sort 03"
+            "notes": ""
         },
         {
             "card_name": "Island",
@@ -5146,7 +5146,7 @@
             "artist": "Jenny Li",
             "alias": "",
             "position": "256",
-            "notes": "!group basic\n!sort 02"
+            "notes": ""
         },
         {
             "card_name": "Lotus Pools",

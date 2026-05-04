@@ -9,7 +9,7 @@
 	{ "cards":  [ "WUL", "UBL", "BRL", "RGL", "GWL" ] },
 	{ "cards":  [ "WBL", "URL", "BGL", "RWL", "GUL" ] },
 	{ "cards":  [ "L" ] },
-	{ "title": "basic", "cards":  [ "!group basic" ] },
+	{ "cards":  [ "basic" ] },
 	{ "title": "token", "cards":  [ "token" ] },
 	{ "title": "masterpiece", "cards":  [ "mp" ] }
 ]

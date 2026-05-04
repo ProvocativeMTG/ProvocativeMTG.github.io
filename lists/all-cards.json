@@ -27160,6 +27160,28 @@
             "image_type": "png"
         },
         {
+            "card_name": "The Last Bloom",
+            "color": "",
+            "rarity": "mythic",
+            "type": "Legendary Artifact",
+            "number": 274,
+            "color_identity": "C",
+            "cost": "{5}",
+            "rules_text": "{T}: Create a Black Lotus token. [i](It's a {0} artifact with \u201c{T}, Sacrifice Black Lotus: Add three mana of any color.\u201d)[/i]",
+            "flavor_text": "[i]When Kitsuo began to die, this bloom was the last source of hope.[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "KLB",
+            "loyalty": "",
+            "artist": "Swanno.",
+            "alias": "",
+            "position": "128",
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
             "card_name": "Forest",
             "color": "",
             "rarity": "common",

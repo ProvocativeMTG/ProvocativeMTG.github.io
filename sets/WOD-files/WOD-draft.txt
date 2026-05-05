@@ -54,7 +54,7 @@
 			"name": "Behold Wonder",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "45",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/5.png"
@@ -555,7 +555,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{R}{G}{G}",
 			"type": "Legendary Creature — Dinosaur",
-			"collector_number": "209",
+			"collector_number": "208",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/55.png"
 			}
@@ -905,7 +905,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "Legendary Creature — Orc Rogue",
-			"collector_number": "206",
+			"collector_number": "205",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/90.png"
 			}
@@ -965,7 +965,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Planeswalker — Bennett",
-			"collector_number": "208",
+			"collector_number": "207",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/96.png"
 			}
@@ -1735,7 +1735,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Legendary Creature — Angel Horror",
-			"collector_number": "207",
+			"collector_number": "206",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/173.png"
 			}
@@ -2233,7 +2233,7 @@
 		{
 			"name": "Blossoming Jerboa",
 			"rarity": "mythic",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Creature — Plant Mouse",
 			"collector_number": "165",
 			"image_uris": {
@@ -2464,7 +2464,7 @@
 			"name": "Wrapped by Tentacles",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
-			"type": "Enchantment",
+			"type": "Enchantment — Aura",
 			"collector_number": "120",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/246.png"
@@ -2484,7 +2484,7 @@
 			"name": "Haughty Trickshot",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Rogue",
+			"type": "Creature — Zombie Rogue",
 			"collector_number": "16",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/248.png"
@@ -2821,11 +2821,11 @@
 			}
 		},
 		{
-			"name": "Avatar's Return",
+			"name": "Blood Avatar's Return",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "205",
+			"collector_number": "210",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/282.png"
 			}
@@ -3045,7 +3045,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Skeleton Rogue",
-			"collector_number": "210",
+			"collector_number": "209",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/WOD-files/img/304.png"
 			}
@@ -3140,7 +3140,7 @@
 	2 Ravenous Locomotive
 	2 Trolley Problem
 	2 Heart of the Avatar
-	2 Avatar's Return
+	2 Blood Avatar's Return
 	2 Raucous Gemhide
 	2 Sporecap Sentinels
 	2 Houndmaster Aris
@@ -3715,7 +3715,7 @@
 	2 Ravenous Locomotive
 	2 Trolley Problem
 	2 Heart of the Avatar
-	2 Avatar's Return
+	2 Blood Avatar's Return
 	2 Raucous Gemhide
 	2 Sporecap Sentinels
 	2 Houndmaster Aris
@@ -4011,7 +4011,7 @@
 	7 Ravenous Locomotive
 	7 Trolley Problem
 	7 Heart of the Avatar
-	7 Avatar's Return
+	7 Blood Avatar's Return
 	7 Raucous Gemhide
 	7 Sporecap Sentinels
 	7 Houndmaster Aris

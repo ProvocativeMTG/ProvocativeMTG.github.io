@@ -1,4 +1,96 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Blood Avatar's Return added.
+
+Avatar's Return removed.
+
+Behold Wonder
+type: Sorcery => Instant
+rules_text: Wrangle {4} [i](You can tap your artifacts and creatures to help pay an additional {4} as you cast this spell. Each pays for {1}.)[/i]
+Draw two cards. If this spell was wrangled, untap up to three target lands you control. => Wrangle {4} [i](You can tap your artifacts and creatures to help pay an additional {4} as you cast this spell. Each pays for {1}.)[/i]
+Draw two cards. If this spell was wrangled, untap up to three lands you control.
+
+Trihorn Rancher
+
+Bugcatcher Pair
+
+Bennett, the Pilgrim
+rules_text: Sojourn [i](If there are twelve or more different names among permanents you control and cards in your graveyard, you've touched the horizon this game.)[/i]
+[+1]: Mill two cards. Then if you've touched the horizon, you may return one of the milled cards to your hand.
+[-2]: Create a colorless land token named Bennett's Beanstalk that's all land types.
+[-5]: You get an emblem with “Whenever a land you control enters, you may gain 1 life and draw a card.” If you've touched the horizon, you get two of those emblems instead. => Sojourn [i](If there are twelve or more different names among permanents you control and cards in your graveyard, you've touched the horizon this game.)[/i]
+[+1]: Mill two cards. Then if you've touched the horizon, you may return one of the milled cards to your hand.
+[-2]: Create a colorless land token named Bennett's Beanstalk that's all land types.
+[-5]: You get an emblem with “Whenever a land you control enters, you gain 1 life and draw a card.” If you've touched the horizon, you get two of those emblems instead.
+special_text: Sojourn [i](If there are twelve or more different names among permanents you control and cards in your graveyard, you've touched the horizon this game.)[/i]
+[+1]: Mill two cards. Then if you've touched the horizon, you may return one of the milled cards to your hand.
+[-2]: Create a colorless land token named Bennett's Beanstalk that's all land types.
+[-5]: You get an emblem with “Whenever a land you control enters, you may gain 1 life and draw a card.” If you've touched the horizon, you get two of those emblems instead. => Sojourn [i](If there are twelve or more different names among permanents you control and cards in your graveyard, you've touched the horizon this game.)[/i]
+[+1]: Mill two cards. Then if you've touched the horizon, you may return one of the milled cards to your hand.
+[-2]: Create a colorless land token named Bennett's Beanstalk that's all land types.
+[-5]: You get an emblem with “Whenever a land you control enters, you gain 1 life and draw a card.” If you've touched the horizon, you get two of those emblems instead.
+
+The Ur-Dinosaur
+rules_text: Other Dinosaur creatures you control have base power and toughness 10/10. => Other creatures you control have base power and toughness 10/10.
+
+Predator's Gaze
+
+Caramelo, Faith in Steel
+rules_text: [+1]: Draw a card, then you lose life equal to the number of cards in your hand unless a creature died this turn.
+[-1]: Create a 2/2 black Spirit Clue artifact creature token with “{2}, Sacrifice this token: Draw a card.”
+[-3]: Destroy target creature. Its controller creates two tokens that are copies of it, except the tokens are 1/1 and aren't legendary. => [+1]: Draw a card, then you lose life equal to the number of cards in your hand unless a creature died this turn.
+[-2]: Create a 2/2 black Spirit Clue artifact creature token with “{2}, Sacrifice this token: Draw a card.”
+[-3]: Destroy target creature. Its controller creates two tokens that are copies of it, except the tokens are 1/1 and aren't legendary.
+special_text: [+1]: Draw a card, then you lose life equal to the number of cards in your hand unless a creature died this turn.
+[-1]: Create a 2/2 black Spirit Clue artifact creature token with “{2}, Sacrifice this token: Draw a card.”
+[-3]: Destroy target creature. Its controller creates two tokens that are copies of it, except the tokens are 1/1 and aren't legendary. => [+1]: Draw a card, then you lose life equal to the number of cards in your hand unless a creature died this turn.
+[-2]: Create a 2/2 black Spirit Clue artifact creature token with “{2}, Sacrifice this token: Draw a card.”
+[-3]: Destroy target creature. Its controller creates two tokens that are copies of it, except the tokens are 1/1 and aren't legendary.
+loyalty: 4 => 3
+
+Spiny Titan
+rules_text: When this creature enters, if it was cast, search your library for a creature card with mana value X or less, where X is the number of Deserts you control plus the number of Desert cards in your graveyard. Put that card onto the battlefield, then shuffle. => When this creature enters, if it was cast, search your library for a creature card with mana value X or less, where X is the number of Deserts you control plus the number of Desert cards in your graveyard. Put that creature card onto the battlefield, then shuffle.
+pt: 4/3 => 4/4
+
+Blossoming Jerboa
+cost: {1}{G} => {2}{G}
+
+Osseoconjuration
+rules_text: Sojourn [i](If there are twelve or more different names among permanents you control and cards in your graveyard, you've touched the horizon this game.)[/i]
+At the beginning of your upkeep, surveil 1.
+{G}: This enchantment becomes a copy of target permanent card in your graveyard. Activate only if you've touched the horizon. => Sojourn [i](If there are twelve or more different names among permanents you control and cards in your graveyard, you've touched the horizon this game.)[/i]
+At the beginning of your upkeep, surveil 1.
+{G}: This enchantment becomes a copy of target permanent card in your graveyard until end of turn. Activate only if you've touched the horizon and only as a sorcery.
+
+Wrapped by Tentacles
+type: Enchantment => Enchantment — Aura
+rules_text: As this enchantment enters, look at an opponent's hand, then choose any nonland card name.
+At the beginning of enchanted player's upkeep, they discard a card.
+Whenever an opponent casts a spell or discards a card with the chosen name, sacrifice this enchantment. => Enchant player
+As this enchantment enters, look at an opponent's hand, then choose any nonland card name.
+At the beginning of enchanted player's upkeep, they discard a card.
+Whenever an opponent casts a spell or discards a card with the chosen name, sacrifice this enchantment.
+
+Haughty Trickshot
+type: Creature — Human Rogue => Creature — Zombie Rogue
+
+Griffinback Scout
+rules_text: Boast — {3}{W}: Create a 2/2 white Griffin creature token with flying. This ability costs {2} less to activate if you cast a spell with creature flying this turn. [i](Activate only if this creature attacked this turn and only once each turn.)[/i] => Boast — {3}{W}: Create a 2/2 white Griffin creature token with flying. This ability costs {2} less to activate if you cast a spell with flying this turn. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]
+
+Skilled Deadeye
+
+Tied to the Tracks
+
+Ravenous Locomotive
+rules_text: Whenever this Vehicle attacks, sacrifice each creature that crewed it this turn. If you do, you draw that many cards.
+Crew 4 [i](Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Whenever this Vehicle attacks, sacrifice each creature that crewed it this turn. If you do, draw that many cards.
+Crew 4 [i](Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Heart of the Avatar
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Paurl, Lord of Unlife added.

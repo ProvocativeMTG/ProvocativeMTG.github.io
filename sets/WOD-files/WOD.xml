@@ -5,7 +5,7 @@
 			<name>WOD</name>
 			<longname>Wylds of Derrigoa</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-01-28</releasedate>
+			<releasedate>2026-05-05</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -99,13 +99,13 @@ As long as you&apos;ve touched the horizon, this Vehicle is an artifact creature
 		<card>
 			<name>Behold Wonder</name>
 			<text>Wrangle {4} (You can tap your artifacts and creatures to help pay an additional {4} as you cast this spell. Each pays for {1}.)
-Draw two cards. If this spell was wrangled, untap up to three target lands you control.</text>
+Draw two cards. If this spell was wrangled, untap up to three lands you control.</text>
 			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/WOD-files/img/5.png" num="45">WOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
 				<manacost>2U</manacost>
 				<cmc>3</cmc>
 				<colors>U</colors>
@@ -979,7 +979,7 @@ Whenever Belle attacks, if you have one or fewer cards in hand, target instant o
 			<name>Big Bull</name>
 			<text>Trample
 Whenever Big Bull attacks, put four +1/+1 counters on target Dinosaur you control.</text>
-			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/WOD-files/img/55.png" num="209">WOD</set>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/WOD-files/img/55.png" num="208">WOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1600,7 +1600,7 @@ Whenever this land attacks, double target attacking creature&apos;s power until 
 			<name>Barre, Bounty Hunter</name>
 			<text>Instant and sorcery spells you cast cost {1} less to cast.
 Whenever a source you control deals noncombat damage to a creature equal to that creature&apos;s toughness, put a +1/+1 counter on Barre and exile the top card of your library. You may play that card on any turn Barre attacked.</text>
-			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/WOD-files/img/90.png" num="206">WOD</set>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/WOD-files/img/90.png" num="205">WOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1712,8 +1712,8 @@ Tall tale {1}{W}{W} ({1}{W}{W}, Exile this card from your graveyard: Create a to
 			<text>Sojourn (If there are twelve or more different names among permanents you control and cards in your graveyard, you&apos;ve touched the horizon this game.)
 [+1]: Mill two cards. Then if you&apos;ve touched the horizon, you may return one of the milled cards to your hand.
 [-2]: Create a colorless land token named Bennett&apos;s Beanstalk that&apos;s all land types.
-[-5]: You get an emblem with &quot;Whenever a land you control enters, you may gain 1 life and draw a card.&quot; If you&apos;ve touched the horizon, you get two of those emblems instead.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/WOD-files/img/96.png" num="208">WOD</set>
+[-5]: You get an emblem with &quot;Whenever a land you control enters, you gain 1 life and draw a card.&quot; If you&apos;ve touched the horizon, you get two of those emblems instead.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/WOD-files/img/96.png" num="207">WOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1852,7 +1852,7 @@ Whenever you tap a land for mana, add an additional {G}.</text>
 		</card>
 		<card>
 			<name>The Ur-Dinosaur</name>
-			<text>Other Dinosaur creatures you control have base power and toughness 10/10.</text>
+			<text>Other creatures you control have base power and toughness 10/10.</text>
 			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/WOD-files/img/104.png" num="249">WOD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2528,7 +2528,7 @@ When this creature enters, if it was wrangled, put a +1/+1 counter on each of up
 		<card>
 			<name>Caramelo, Faith in Steel</name>
 			<text>[+1]: Draw a card, then you lose life equal to the number of cards in your hand unless a creature died this turn.
-[-1]: Create a 2/2 black Spirit Clue artifact creature token with &quot;{2}, Sacrifice this token: Draw a card.&quot;
+[-2]: Create a 2/2 black Spirit Clue artifact creature token with &quot;{2}, Sacrifice this token: Draw a card.&quot;
 [-3]: Destroy target creature. Its controller creates two tokens that are copies of it, except the tokens are 1/1 and aren&apos;t legendary.</text>
 			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/WOD-files/img/142.png" num="86">WOD</set>
 			<prop>
@@ -2540,7 +2540,7 @@ When this creature enters, if it was wrangled, put a +1/+1 counter on each of up
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<loyalty>4</loyalty>
+				<loyalty>3</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
@@ -3082,7 +3082,7 @@ When this creature enters, each of up to two target creatures you control get +1
 			<name>Belén, Lady of Wounds</name>
 			<text>Flying, vigilance
 At the beginning of your end step, if an opponent lost life this turn, return target nonland permanent card with mana value X or less from your graveyard to the battlefield, where X is the total amount of life your opponents lost this turn.</text>
-			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/WOD-files/img/173.png" num="207">WOD</set>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/WOD-files/img/173.png" num="206">WOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3347,7 +3347,7 @@ Tall tale {1}{R}{R} ({1}{R}{R}, Exile this card from your graveyard: Create a to
 		</card>
 		<card>
 			<name>Spiny Titan</name>
-			<text>When this creature enters, if it was cast, search your library for a creature card with mana value X or less, where X is the number of Deserts you control plus the number of Desert cards in your graveyard. Put that card onto the battlefield, then shuffle.</text>
+			<text>When this creature enters, if it was cast, search your library for a creature card with mana value X or less, where X is the number of Deserts you control plus the number of Desert cards in your graveyard. Put that creature card onto the battlefield, then shuffle.</text>
 			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/WOD-files/img/188.png" num="242">WOD</set>
 			<prop>
 				<layout>normal</layout>
@@ -3358,7 +3358,7 @@ Tall tale {1}{R}{R} ({1}{R}{R}, Exile this card from your graveyard: Create a to
 				<cmc>6</cmc>
 				<colors>UG</colors>
 				<coloridentity>UG</coloridentity>
-				<pt>4/3</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3960,8 +3960,8 @@ Landfall — Whenever a land you control enters, put a +1/+1 counter on target c
 				<side>front</side>
 				<type>Creature — Plant Mouse</type>
 				<maintype>Creature</maintype>
-				<manacost>1G</manacost>
-				<cmc>2</cmc>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 				<pt>2/2</pt>
@@ -4006,7 +4006,7 @@ Dinosaurs you control get +1/+1.</text>
 			<name>Osseoconjuration</name>
 			<text>Sojourn (If there are twelve or more different names among permanents you control and cards in your graveyard, you&apos;ve touched the horizon this game.)
 At the beginning of your upkeep, surveil 1.
-{G}: This enchantment becomes a copy of target permanent card in your graveyard. Activate only if you&apos;ve touched the horizon.</text>
+{G}: This enchantment becomes a copy of target permanent card in your graveyard until end of turn. Activate only if you&apos;ve touched the horizon and only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/WOD-files/img/226.png" num="185">WOD</set>
 			<prop>
 				<layout>normal</layout>
@@ -4360,14 +4360,15 @@ Tall tale {2}{W}{W} ({2}{W}{W}, Exile this card from your graveyard: Create a to
 		</card>
 		<card>
 			<name>Wrapped by Tentacles</name>
-			<text>As this enchantment enters, look at an opponent&apos;s hand, then choose any nonland card name.
+			<text>Enchant player
+As this enchantment enters, look at an opponent&apos;s hand, then choose any nonland card name.
 At the beginning of enchanted player&apos;s upkeep, they discard a card.
 Whenever an opponent casts a spell or discards a card with the chosen name, sacrifice this enchantment.</text>
 			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/WOD-files/img/246.png" num="120">WOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment</type>
+				<type>Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
 				<manacost>B</manacost>
 				<cmc>1</cmc>
@@ -4401,7 +4402,7 @@ Boast — {1}{W}: Proliferate. (Activate only if this creature attacked this tur
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Rogue</type>
+				<type>Creature — Zombie Rogue</type>
 				<maintype>Creature</maintype>
 				<manacost>2W</manacost>
 				<cmc>3</cmc>
@@ -4551,7 +4552,7 @@ Tall tale {1}{W} ({1}{W}, Exile this card from your graveyard: Create a token th
 		</card>
 		<card>
 			<name>Griffinback Scout</name>
-			<text>Boast — {3}{W}: Create a 2/2 white Griffin creature token with flying. This ability costs {2} less to activate if you cast a spell with creature flying this turn. (Activate only if this creature attacked this turn and only once each turn.)</text>
+			<text>Boast — {3}{W}: Create a 2/2 white Griffin creature token with flying. This ability costs {2} less to activate if you cast a spell with flying this turn. (Activate only if this creature attacked this turn and only once each turn.)</text>
 			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/WOD-files/img/257.png" num="15">WOD</set>
 			<prop>
 				<layout>normal</layout>
@@ -4920,7 +4921,7 @@ Exhaust — {4}{U}{R}: Create a 2/2 black Rogue creature token for each instant 
 		</card>
 		<card>
 			<name>Ravenous Locomotive</name>
-			<text>Whenever this Vehicle attacks, sacrifice each creature that crewed it this turn. If you do, you draw that many cards.
+			<text>Whenever this Vehicle attacks, sacrifice each creature that crewed it this turn. If you do, draw that many cards.
 Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
 			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/WOD-files/img/279.png" num="264">WOD</set>
 			<prop>
@@ -4969,9 +4970,9 @@ Crew 4 (Tap any number of creatures you control with total power 4 or more: This
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Avatar&apos;s Return</name>
+			<name>Blood Avatar&apos;s Return</name>
 			<text>Destroy all creatures. When you do, return up to one target creature card with mana value X or less from your graveyard to the battlefield, where X is the number of creatures destroyed this way.</text>
-			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/WOD-files/img/282.png" num="205">WOD</set>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/WOD-files/img/282.png" num="210">WOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5365,7 +5366,7 @@ Create an X/X blue Zombie creature token, where X is the total power or total to
 			<name>Biledeep Marshal</name>
 			<text>When this creature enters, exile target creature an opponent controls until this creature leaves the battlefield.
 Tall tale {1}{W}{B} ({1}{W}{B}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s also a Saga enchantment and it can&apos;t block. Sacrifice it after r{3}. Activate only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/WOD-files/img/304.png" num="210">WOD</set>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/WOD-files/img/304.png" num="209">WOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

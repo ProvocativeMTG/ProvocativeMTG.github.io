@@ -1,4 +1,37 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+
+
+Seishin Charm
+
+Sneak a Peek
+rules_text: Sneak {1}{U} [i](You may cast this spell for {U} if you also return an unblocked attacker you control to hand during the declare blockers step.)[/i]
+Look at target player's hand.
+Draw a card. If you paid the sneak cost, draw two cards instead. => Sneak {1}{U} [i](You may cast this spell for {1}{U} if you also return an unblocked attacker you control to hand during the declare blockers step.)[/i]
+Look at target player's hand.
+Draw a card. If you paid the sneak cost, draw two cards instead.
+
+Uiki Charm
+
+Oni Daimyo
+rules_text: Whenever you discard one or more cards, put that many +1/+1 counters on this creature.
+Sacrifice this creature: Add {R} equal to its power. Activate only if you have no cards in hand. => Whenever you discard one or more cards, put that many +1/+1 counters on this creature.
+Sacrifice this creature: Add {R} equal to its power. Activate only if you have no cards in hand and only as an instant.
+
+Kei, Who Still Stands
+rules_text: Other creatures you control get +1/+0.
+Whenever an creature you control dies, draw a card if it attacked this turn.
+Persevere {2}{W}{B} [i](You may cast a copy of this card from your graveyard by exiling it and paying the persevere cost. If you do, it can't block. When it attacks, sacrifice it at end of combat.)[/i] => Other creatures you control get +1/+0.
+Whenever a creature you control dies, draw a card if it attacked this turn.
+Persevere {2}{W}{B} [i](You may cast a copy of this card from your graveyard by exiling it and paying the persevere cost. If you do, it can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Destiny of Ash and Flame
+
+Total Corruption
+
+
+VERSION 14 CHANGELOG
 ====================
 
 No changes.

@@ -1,8 +1,0 @@
-{
-The Last Bloom
-Plains
-Island
-Swamp
-Mountain
-Forest
-}

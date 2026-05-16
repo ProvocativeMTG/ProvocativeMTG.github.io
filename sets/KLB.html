@@ -1,6 +1,6 @@
 ﻿<html>
 <head>
-  <title>Kitsuo: Last Bloom</title>
+  <title>Kitsuo: the Last Bloom</title>
   <link rel="icon" type="image/x-icon" href="../sets/KLB-files/icon.png">
   <link rel="stylesheet" href="../resources/mana.css">
   <link rel="stylesheet" href="../resources/header.css">
@@ -64,7 +64,7 @@
 		color: #0492c2;
 	}
 	.select-text {
-		display: none;
+		display: flex;
 		align-items: center;
 		justify-content: left;
 		gap: 8px;
@@ -335,8 +335,11 @@
 			<div class="set-banner" id="set-banner">
 				<img class="set-logo" src="../sets/KLB-files/icon.png">
 				<div class="banner-text">
-					<div class="set-title">Kitsuo: Last Bloom</div>
-					<div class="extras-container">			<a onclick="randomSetCard()">I'm Feeling Lucky</a>
+					<div class="set-title">Kitsuo: the Last Bloom</div>
+					<div class="extras-container"><a href="../sets/KLB-files/KLB-draft.txt" download>Draft</a><div class="dot"> • </div>
+			<a onclick="packOnePickOne()">P1P1</a><div class="dot"> • </div>
+<a href="../sets/KLB-files/KLB.xml" download>Play</a><div class="dot"> • </div>
+			<a onclick="randomSetCard()">I'm Feeling Lucky</a>
 				</div>
 			</div>
 		</div>
@@ -550,7 +553,7 @@
 			}
 			cardGrid.innerHTML = "";
 
-			if (true)
+			if (false)
 			{
 				let text1 = document.createElement("div");
 				let text2 = document.createElement("div");

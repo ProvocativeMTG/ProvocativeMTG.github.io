@@ -5,7 +5,7 @@
 			<name>KLB</name>
 			<longname>Kitsuo: the Last Bloom</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-15</releasedate>
+			<releasedate>2026-05-23</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -49,7 +49,7 @@ Whenever another creature you control enters, you may have its base power and to
 			<name>Tsubasa, Curseridden</name>
 			<text>Flash
 You may cast spells and activate Tsubasa&apos;s loyalty abilities during each player&apos;s end step any time you could cast an instant.
-[+1]: Tap or untap up to one target creature or land. You may put a +1/+1 counter on it.
+[+1]: You may tap or untap up to one target creature or land. You may put a +1/+1 counter on it.
 [-2]: Draw a card. You may put a land card from your hand onto the battlefield tapped.
 [-3]: Create two tapped 2/1 blue Ninja creature tokens.</text>
 			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/2.png" num="237">KLB</set>
@@ -3827,7 +3827,7 @@ Sacrifice this creature: Add {R} equal to its power. Activate only if you have n
 		<card>
 			<name>Path of Flame</name>
 			<text>At the beginning of combat on your turn, discard a card, then draw a card.
-Exhaust — {R}, Exile twelve cards from your graveyard: This enchantment gains &quot;At the beginning of your end step, choose a random noncreature, nonland card exiled with this enchantment. Copy it. You may cast the copy without paying its mana cost.&quot;</text>
+Exhaust — {R}, Exile twelve cards from your graveyard: This enchantment gains &quot;At the beginning of your end step, choose a random noncreature, nonland card exiled with this enchantment. You may cast it without paying its mana cost.&quot;</text>
 			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/215.png" num="126">KLB</set>
 			<prop>
 				<layout>normal</layout>
@@ -4130,7 +4130,7 @@ Once during each of your turns, you may cast a spell from your hand or the top o
 		</card>
 		<card>
 			<name>Lion Dancer</name>
-			<text>Creature spells you cast can&apos;t be countered.
+			<text>Creature spells you control can&apos;t be countered.
 {T}: Add {R} or {G}. If this mana is spent to cast a creature spell, that creature enters with an additional +1/+1 counter on it.</text>
 			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/232.png" num="255">KLB</set>
 			<prop>
@@ -4271,7 +4271,7 @@ Oathless — Whenever this creature deals combat damage to a player, if you have
 		</card>
 		<card>
 			<name>Riyoto, the First Immortal</name>
-			<text>Protection from Humans, Demons, and Spirits (This creature can&apos;t be blocked, targeted or dealt damage by Humans, Demons, and Spirits.)
+			<text>Protection from Humans, from Demons, and from Spirits (This creature can&apos;t be blocked, targeted or dealt damage by Humans, from Demons, or Spirits.)
 Whenever a creature attacks you, its controller sacrifices it at end of combat.
 At the beginning of each opponent&apos;s end step, if you didn&apos;t lose life this turn, that player loses 3 life and you draw a card.</text>
 			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/KLB-files/img/240.png" num="216">KLB</set>

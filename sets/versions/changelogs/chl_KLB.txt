@@ -1,4 +1,49 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+
+
+Tsubasa, Curseridden
+rules_text: Flash
+You may cast spells and activate Tsubasa's loyalty abilities during each player's end step any time you could cast an instant.
+[+1]: Tap or untap up to one target creature or land. You may put a +1/+1 counter on it.
+[-2]: Draw a card. You may put a land card from your hand onto the battlefield tapped.
+[-3]: Create two tapped 2/1 blue Ninja creature tokens. => Flash
+You may cast spells and activate Tsubasa's loyalty abilities during each player's end step any time you could cast an instant.
+[+1]: You may tap or untap up to one target creature or land. You may put a +1/+1 counter on it.
+[-2]: Draw a card. You may put a land card from your hand onto the battlefield tapped.
+[-3]: Create two tapped 2/1 blue Ninja creature tokens.
+special_text: Flash
+You may cast spells and activate Tsubasa's loyalty abilities during each player's end step any time you could cast an instant.
+[+1]: Tap or untap up to one target creature or land. You may put a +1/+1 counter on it.
+[-2]: Draw a card. You may put a land card from your hand onto the battlefield tapped.
+[-3]: Create two tapped 2/1 blue Ninja creature tokens. => Flash
+You may cast spells and activate Tsubasa's loyalty abilities during each player's end step any time you could cast an instant.
+[+1]: You may tap or untap up to one target creature or land. You may put a +1/+1 counter on it.
+[-2]: Draw a card. You may put a land card from your hand onto the battlefield tapped.
+[-3]: Create two tapped 2/1 blue Ninja creature tokens.
+
+Old Demonlord
+
+Path of Flame
+rules_text: At the beginning of combat on your turn, discard a card, then draw a card.
+Exhaust — {R}, Exile twelve cards from your graveyard: This enchantment gains “At the beginning of your end step, choose a random noncreature, nonland card exiled with this enchantment. Copy it. You may cast the copy without paying its mana cost.” => At the beginning of combat on your turn, discard a card, then draw a card.
+Exhaust — {R}, Exile twelve cards from your graveyard: This enchantment gains “At the beginning of your end step, choose a random noncreature, nonland card exiled with this enchantment. You may cast it without paying its mana cost.”
+
+Lion Dancer
+rules_text: Creature spells you cast can't be countered.
+{T}: Add {R} or {G}. If this mana is spent to cast a creature spell, that creature enters with an additional +1/+1 counter on it. => Creature spells you control can't be countered.
+{T}: Add {R} or {G}. If this mana is spent to cast a creature spell, that creature enters with an additional +1/+1 counter on it.
+
+Riyoto, the First Immortal
+rules_text: Protection from Humans, Demons, and Spirits [i](This creature can't be blocked, targeted or dealt damage by Humans, Demons, and Spirits.)[/i]
+Whenever a creature attacks you, its controller sacrifices it at end of combat.
+At the beginning of each opponent's end step, if you didn't lose life this turn, that player loses 3 life and you draw a card. => Protection from Humans, from Demons, and from Spirits [i](This creature can't be blocked, targeted or dealt damage by Humans, from Demons, or Spirits.)[/i]
+Whenever a creature attacks you, its controller sacrifices it at end of combat.
+At the beginning of each opponent's end step, if you didn't lose life this turn, that player loses 3 life and you draw a card.
+
+
+VERSION 15 CHANGELOG
 ====================
 
 

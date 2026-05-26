@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "CCC",
+            "set_name": "Crossover Content Cube",
+            "formats": ""
+        },
+        {
             "set_code": "CNF",
             "set_name": "Confluence",
             "formats": ""

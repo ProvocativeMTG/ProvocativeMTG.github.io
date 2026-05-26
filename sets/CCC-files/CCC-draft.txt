@@ -1,0 +1,2357 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Spear and Fang",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Human Dinosaur",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/0.png"
+			}
+		},
+		{
+			"name": "Mio, the Eye's Keeper",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact Creature — Robot",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/1.png"
+			}
+		},
+		{
+			"name": "Zombie Spear",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Zombie Berserker",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/2.png"
+			}
+		},
+		{
+			"name": "Khazan, First Berserker",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Berserker",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/3.png"
+			}
+		},
+		{
+			"name": "Reese, Bride of Despair",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/4.png"
+			}
+		},
+		{
+			"name": "Crisanta of Wrapped Agony",
+			"rarity": "mythic",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/5.png"
+			}
+		},
+		{
+			"name": "Penitent One",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/6.png"
+			}
+		},
+		{
+			"name": "Sierpes, the Traitor",
+			"rarity": "mythic",
+			"mana_cost": "{X}{W}",
+			"type": "Legendary Creature — Serpent",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/7.png"
+			}
+		},
+		{
+			"name": "Come Back",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/8.png"
+			}
+		},
+		{
+			"name": "Carol Sturka",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Survivor",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/9.png"
+			}
+		},
+		{
+			"name": "Manousos Oviedo",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Survivor",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/10.png"
+			}
+		},
+		{
+			"name": "Sargon, Prince of Persia",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/11.png"
+			}
+		},
+		{
+			"name": "Darius, King of Kings",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Legendary Creature — Zombie Noble",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/12.png"
+			}
+		},
+		{
+			"name": "Grovekeeper Topoda",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Lobster Monk",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/13.png"
+			}
+		},
+		{
+			"name": "Cold Harbor",
+			"rarity": "mythic",
+			"mana_cost": "{X}{B}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/14.png"
+			}
+		},
+		{
+			"name": "Severance Procedure",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/15.png"
+			}
+		},
+		{
+			"name": "ORTBO",
+			"rarity": "mythic",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/16.png"
+			}
+		},
+		{
+			"name": "Avatar Korra",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Avatar",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/17.png"
+			}
+		},
+		{
+			"name": "Shiro, Black Paladin",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Pilot",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/18.png"
+			}
+		},
+		{
+			"name": "Keith, Red Paladin",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Pilot",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/19.png"
+			}
+		},
+		{
+			"name": "Lance, Blue Paladin",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Pilot",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/20.png"
+			}
+		},
+		{
+			"name": "Pidge, Green Paladin",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Human Pilot",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/21.png"
+			}
+		},
+		{
+			"name": "Hunk, Yellow Paladin",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Pilot",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/22.png"
+			}
+		},
+		{
+			"name": "The Black Bayard",
+			"rarity": "mythic",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/23.png"
+			}
+		},
+		{
+			"name": "Voltron, Legendary Defender",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/24.png"
+			}
+		},
+		{
+			"name": "Allura, Altean Princess",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Alien Pilot",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/25.png"
+			}
+		},
+		{
+			"name": "Galran Sentry",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Robot Alien",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/26.png"
+			}
+		},
+		{
+			"name": "Make a Good Team",
+			"rarity": "mythic",
+			"mana_cost": "{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/27.png"
+			}
+		},
+		{
+			"name": "Paladin's Persistence",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/28.png"
+			}
+		},
+		{
+			"name": "Paladin's Fervor",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/29.png"
+			}
+		},
+		{
+			"name": "Paladin's Adaptability",
+			"rarity": "mythic",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/30.png"
+			}
+		},
+		{
+			"name": "Paladin's Ingenuity",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/31.png"
+			}
+		},
+		{
+			"name": "Paladin's Devotion",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/32.png"
+			}
+		},
+		{
+			"name": "Honerva, Altean Witch",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Alien Warlock",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/33.png"
+			}
+		},
+		{
+			"name": "Asami Sato, Industrialist",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/34.png"
+			}
+		},
+		{
+			"name": "Korra Alone",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/35.png"
+			}
+		},
+		{
+			"name": "Kuvira's Colossus",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/36.png"
+			}
+		},
+		{
+			"name": "Lady Butterfly",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Ninja",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/37.png"
+			}
+		},
+		{
+			"name": "Kuvira, the Great Uniter",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/38.png"
+			}
+		},
+		{
+			"name": "Godzilla",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Legendary Creature — Beast",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/39.png"
+			}
+		},
+		{
+			"name": "Atomic Breath",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/40.png"
+			}
+		},
+		{
+			"name": "King of the Monsters",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/41.png"
+			}
+		},
+		{
+			"name": "King Ghidorah",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Legendary Creature — Dragon Alien",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/42.png"
+			}
+		},
+		{
+			"name": "Let Them Fight",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/43.png"
+			}
+		},
+		{
+			"name": "Rodan, the Fire Demon",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Beast",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/44.png"
+			}
+		},
+		{
+			"name": "Kong",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Ape",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/45.png"
+			}
+		},
+		{
+			"name": "Kong's Axe",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/46.png"
+			}
+		},
+		{
+			"name": "Mothra",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Insect",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/47.png"
+			}
+		},
+		{
+			"name": "Mechagodzilla",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Legendary Artifact Creature — Robot",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/48.png"
+			}
+		},
+		{
+			"name": "Overed Rail Cannon",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/49.png"
+			}
+		},
+		{
+			"name": "C4-621 Raven",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/50.png"
+			}
+		},
+		{
+			"name": "Ibis, C-Weapon",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/51.png"
+			}
+		},
+		{
+			"name": "Ayre, Echo of Coral",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/52.png"
+			}
+		},
+		{
+			"name": "Pulse Blade",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/53.png"
+			}
+		},
+		{
+			"name": "ICE WORM",
+			"rarity": "mythic",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Robot Wurm",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/54.png"
+			}
+		},
+		{
+			"name": "Dinaurian's Edict",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/55.png"
+			}
+		},
+		{
+			"name": "Gleaming Thunder Wyvern",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Drake",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/56.png"
+			}
+		},
+		{
+			"name": "Hunter's Palico",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Cat Scout",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/57.png"
+			}
+		},
+		{
+			"name": "Wave Dress Wyvern",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Drake",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/58.png"
+			}
+		},
+		{
+			"name": "Black Flame Wyvern",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Octopus",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/59.png"
+			}
+		},
+		{
+			"name": "Frozen Peak Wyvern",
+			"rarity": "mythic",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/60.png"
+			}
+		},
+		{
+			"name": "White Wraith Wyvern",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Drake",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/61.png"
+			}
+		},
+		{
+			"name": "Earth-Piercing Bolt",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/62.png"
+			}
+		},
+		{
+			"name": "AAP07 Balteus",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/63.png"
+			}
+		},
+		{
+			"name": "The Legend of Wan",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Enchantment — Saga",
+			"collector_number": "3",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/64_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/64_front.png"
+			}
+		},
+		{
+			"name": "Amon, the Equalist",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/65.png"
+			}
+		},
+		{
+			"name": "Zoh Shia, Errant Calamity",
+			"rarity": "mythic",
+			"mana_cost": "{9}",
+			"type": "Legendary Creature — Elder Dragon",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/66.png"
+			}
+		},
+		{
+			"name": "Bubble Fox Wyvern",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Fox Drake",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/67.png"
+			}
+		},
+		{
+			"name": "Gogmazios, Specter of War",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{R}",
+			"type": "Legendary Creature — Elder Dragon",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/68.png"
+			}
+		},
+		{
+			"name": "Avis Unit Hunter",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/69.png"
+			}
+		},
+		{
+			"name": "Alma's Investigation",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/70.png"
+			}
+		},
+		{
+			"name": "P'Li, Red Lotus Lieutenant",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/71.png"
+			}
+		},
+		{
+			"name": "Ming Hua, the Anarchist",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/72.png"
+			}
+		},
+		{
+			"name": "Ghazan, Prison Fugitive",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/73.png"
+			}
+		},
+		{
+			"name": "Zaheer of the Red Lotus",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/74.png"
+			}
+		},
+		{
+			"name": "The Defect",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/75.png"
+			}
+		},
+		{
+			"name": "Demon Form",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/76.png"
+			}
+		},
+		{
+			"name": "Eat Time",
+			"rarity": "mythic",
+			"mana_cost": "{10}{U}{U}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/77.png"
+			}
+		},
+		{
+			"name": "Watcher's Stances",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Instant",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/78.png"
+			}
+		},
+		{
+			"name": "Giant Head",
+			"rarity": "mythic",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/79.png"
+			}
+		},
+		{
+			"name": "Crippling Cloud",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/80.png"
+			}
+		},
+		{
+			"name": "Arlecchino, Blood Artist",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/81.png"
+			}
+		},
+		{
+			"name": "Antonia's Mouser",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Cat",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/82.png"
+			}
+		},
+		{
+			"name": "Nameless Puppet",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Artifact Creature — Zombie",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/83.png"
+			}
+		},
+		{
+			"name": "Romeo, King of Puppets",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/84.png"
+			}
+		},
+		{
+			"name": "Lea Monad Florence",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/85.png"
+			}
+		},
+		{
+			"name": "Fated Confrontation",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/86.png"
+			}
+		},
+		{
+			"name": "Five Pebbles",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Artifact Creature — Robot",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/87.png"
+			}
+		},
+		{
+			"name": "King Vulture",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Bird",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/88.png"
+			}
+		},
+		{
+			"name": "Shoreline Leviathan",
+			"rarity": "mythic",
+			"mana_cost": "{7}{G}{G}",
+			"type": "Artifact Creature — Leviathan",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/89.png"
+			}
+		},
+		{
+			"name": "Slugcat",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Slug Cat",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/90.png"
+			}
+		},
+		{
+			"name": "Gold Pearl",
+			"rarity": "mythic",
+			"mana_cost": "{0}",
+			"type": "Legendary Artifact",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/91.png"
+			}
+		},
+		{
+			"name": "Industrial Complex",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/92.png"
+			}
+		},
+		{
+			"name": "Demon of Hatred",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Demon Monk",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/93.png"
+			}
+		},
+		{
+			"name": "Topple the King of Puppets",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/94.png"
+			}
+		},
+		{
+			"name": "Gen Four Augmentation",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/95.png"
+			}
+		},
+		{
+			"name": "Contact With You",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/96.png"
+			}
+		},
+		{
+			"name": "Coral Convergence",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/97.png"
+			}
+		},
+		{
+			"name": "The Fires That Haunt Rubicon",
+			"rarity": "mythic",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/98.png"
+			}
+		},
+		{
+			"name": "Pulse Shield",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/99.png"
+			}
+		},
+		{
+			"name": "Anharion's Collar",
+			"rarity": "mythic",
+			"mana_cost": "{0}",
+			"type": "Legendary Artifact",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/100.png"
+			}
+		},
+		{
+			"name": "Will and James",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/101.png"
+			}
+		},
+		{
+			"name": "Dark Rise",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/102.png"
+			}
+		},
+		{
+			"name": "ALLMIND and Iguazu",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/103.png"
+			}
+		},
+		{
+			"name": "Pull Into Service",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/104.png"
+			}
+		},
+		{
+			"name": "IB-C03 Walter",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/105.png"
+			}
+		},
+		{
+			"name": "V.IV Rusty",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/106.png"
+			}
+		},
+		{
+			"name": "O'Rin of the Waters",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Spirit Bard",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/107.png"
+			}
+		},
+		{
+			"name": "P-Organ",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/108.png"
+			}
+		},
+		{
+			"name": "Monad's Lamp",
+			"rarity": "mythic",
+			"mana_cost": "{0}",
+			"type": "Legendary Artifact",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/109.png"
+			}
+		},
+		{
+			"name": "P, Puppet of Gepetto",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/110.png"
+			}
+		},
+		{
+			"name": "Bell Collar",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/111.png"
+			}
+		},
+		{
+			"name": "Allied Mastercomputer",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/112.png"
+			}
+		},
+		{
+			"name": "Levi, One with Vesta",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Artifact Creature — Plant Robot",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/113.png"
+			}
+		},
+		{
+			"name": "Vesta Wilderness",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/114.png"
+			}
+		},
+		{
+			"name": "Omega Planetes",
+			"rarity": "mythic",
+			"mana_cost": "{6}",
+			"type": "Legendary Artifact Creature — Robot",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/115.png"
+			}
+		},
+		{
+			"name": "Tapu Koko",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/116.png"
+			}
+		},
+		{
+			"name": "Tapu Lele",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/117.png"
+			}
+		},
+		{
+			"name": "Tapu Bulu",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/118.png"
+			}
+		},
+		{
+			"name": "Tapu Fini",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/119.png"
+			}
+		},
+		{
+			"name": "Celesteela, the Launch",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Legendary Artifact Creature — Alien",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/120.png"
+			}
+		},
+		{
+			"name": "Nihilego, the Symbiont",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Jellyfish Alien",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/121.png"
+			}
+		},
+		{
+			"name": "Ultra Wormhole",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/122.png"
+			}
+		},
+		{
+			"name": "Blacephalon, the Burst",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Alien Clown",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/123.png"
+			}
+		},
+		{
+			"name": "Buzzwole, the Swollen",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Insect Alien",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/124.png"
+			}
+		},
+		{
+			"name": "Xurkitree, the Glowing",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Artifact Creature — Alien",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/125.png"
+			}
+		},
+		{
+			"name": "Ultra Emergence",
+			"rarity": "mythic",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/126.png"
+			}
+		},
+		{
+			"name": "Kartana, the Drawn Sword",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Construct Alien",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/127.png"
+			}
+		},
+		{
+			"name": "Stakataka, the Rampart",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact Creature — Alien",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/128.png"
+			}
+		},
+		{
+			"name": "Guzzlord, the Junkivore",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Legendary Creature — Alien",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/129.png"
+			}
+		},
+		{
+			"name": "Pheromosa, the Lissome",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Insect Alien",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/130.png"
+			}
+		},
+		{
+			"name": "Sea Creeper Pokémon",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Creature — Plant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/131.png"
+			}
+		},
+		{
+			"name": "Meteor Pokémon",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "Creature — Elemental",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/132.png"
+			}
+		},
+		{
+			"name": "Hard Scale Pokémon",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Lobster Warrior",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/133.png"
+			}
+		},
+		{
+			"name": "Trainer Bond",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/134.png"
+			}
+		},
+		{
+			"name": "Lusamine, Motherbeast",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Human Alien",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/135.png"
+			}
+		},
+		{
+			"name": "Dyson Sphere Array",
+			"rarity": "mythic",
+			"mana_cost": "{15}",
+			"type": "Artifact",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/136.png"
+			}
+		},
+		{
+			"name": "Uploaded Intelligence",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/137.png"
+			}
+		},
+		{
+			"name": "Flame Tail Wyvern",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Bird Dinosaur",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/138.png"
+			}
+		},
+		{
+			"name": "Cladding Frog Wyvern",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Frog",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/139.png"
+			}
+		},
+		{
+			"name": "Pioneer Beast Wyvern",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Beast",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/140.png"
+			}
+		},
+		{
+			"name": "Sand Sea Wyvern",
+			"rarity": "mythic",
+			"mana_cost": "{X}{R}{W}",
+			"type": "Legendary Creature — Serpent",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/141.png"
+			}
+		},
+		{
+			"name": "Swamp Spouting Wyvern",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Dinosaur",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/142.png"
+			}
+		},
+		{
+			"name": "Thorny Flower Spider",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Spider",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/143.png"
+			}
+		},
+		{
+			"name": "Rove, the Well-Spoken",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Beast Scout",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/144.png"
+			}
+		},
+		{
+			"name": "Gore Magala, Dark Eclipse",
+			"rarity": "mythic",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Legendary Creature — Wyvern",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/145.png"
+			}
+		},
+		{
+			"name": "Blade Phantom",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Spirit Warrior",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/146.png"
+			}
+		},
+		{
+			"name": "Wraith Form",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/147.png"
+			}
+		},
+		{
+			"name": "Echo Form",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}",
+			"type": "Enchantment",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/148.png"
+			}
+		},
+		{
+			"name": "Deva Form",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/149.png"
+			}
+		},
+		{
+			"name": "Guardian Construct",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Construct Horror",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/150.png"
+			}
+		},
+		{
+			"name": "Piercing Assassin Wyvern",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Octopus",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/151.png"
+			}
+		},
+		{
+			"name": "Cannon Pokémon",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/152.png"
+			}
+		},
+		{
+			"name": "Larva Pokémon",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Creature — Insect",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/153.png"
+			}
+		},
+		{
+			"name": "Bee Fly Pokémon",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Creature — Insect",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/154.png"
+			}
+		},
+		{
+			"name": "Small Fry Pokémon",
+			"rarity": "mythic",
+			"mana_cost": "{U}",
+			"type": "Creature — Fish",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/155.png"
+			}
+		},
+		{
+			"name": "Brutal Star Pokémon",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Starfish",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/156.png"
+			}
+		},
+		{
+			"name": "Bloom Sickle Pokémon",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/157.png"
+			}
+		},
+		{
+			"name": "Toxic Lizard Pokémon",
+			"rarity": "mythic",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Lizard",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/158.png"
+			}
+		},
+		{
+			"name": "Illuminating Pokémon",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Creature — Fungus",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/159.png"
+			}
+		},
+		{
+			"name": "Strong Arm Pokémon",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Bear",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/160.png"
+			}
+		},
+		{
+			"name": "Sea Cucumber Pokémon",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Creature — Starfish",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/161.png"
+			}
+		},
+		{
+			"name": "Type: Null, the Synthetic",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Legendary Creature — Construct",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/162.png"
+			}
+		},
+		{
+			"name": "Disguise Pokémon",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/163.png"
+			}
+		},
+		{
+			"name": "Cosmog, the Nebula",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Alien",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/164.png"
+			}
+		},
+		{
+			"name": "Rotom, Living Plasma",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact Creature — Equipment",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/165.png"
+			}
+		},
+		{
+			"name": "The Regent",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Fractal Noble",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/166.png"
+			}
+		},
+		{
+			"name": "Void Form",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}",
+			"type": "Enchantment",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/167.png"
+			}
+		},
+		{
+			"name": "Know Thy Place",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/168.png"
+			}
+		},
+		{
+			"name": "Hate. Hate.",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/169.png"
+			}
+		},
+		{
+			"name": "Kosmo, Cosmic Companion",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Wolf Alien",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/170.png"
+			}
+		},
+		{
+			"name": "Rainbow Canyon",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/171.png"
+			}
+		},
+		{
+			"name": "Guhnash, World Eater",
+			"rarity": "mythic",
+			"mana_cost": "{8}",
+			"type": "Legendary Creature — Alien Horror",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/172.png"
+			}
+		},
+		{
+			"name": "Reanimate",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/173.png"
+			}
+		},
+		{
+			"name": "Genichiro Ashina",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Samurai",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/174.png"
+			}
+		},
+		{
+			"name": "Hirata Estate",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/175.png"
+			}
+		},
+		{
+			"name": "Explore",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/176.png"
+			}
+		},
+		{
+			"name": "Reaper Leviathan",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Alien Leviathan",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/177.png"
+			}
+		},
+		{
+			"name": "Ghost Leviathan",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Creature — Alien Leviathan",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/178.png"
+			}
+		},
+		{
+			"name": "Modular Technology",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/CCC-files/img/179.png"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Spear and Fang
+	1 Mio, the Eye's Keeper
+	1 Zombie Spear
+	1 Khazan, First Berserker
+	1 Reese, Bride of Despair
+	1 Crisanta of Wrapped Agony
+	1 Penitent One
+	1 Sierpes, the Traitor
+	1 Come Back
+	1 Carol Sturka
+	1 Manousos Oviedo
+	1 Sargon, Prince of Persia
+	1 Darius, King of Kings
+	1 Grovekeeper Topoda
+	1 Cold Harbor
+	1 Severance Procedure
+	1 ORTBO
+	1 Avatar Korra
+	1 Shiro, Black Paladin
+	1 Keith, Red Paladin
+	1 Lance, Blue Paladin
+	1 Pidge, Green Paladin
+	1 Hunk, Yellow Paladin
+	1 The Black Bayard
+	1 Voltron, Legendary Defender
+	1 Allura, Altean Princess
+	1 Galran Sentry
+	1 Make a Good Team
+	1 Paladin's Persistence
+	1 Paladin's Fervor
+	1 Paladin's Adaptability
+	1 Paladin's Ingenuity
+	1 Paladin's Devotion
+	1 Honerva, Altean Witch
+	1 Asami Sato, Industrialist
+	1 Korra Alone
+	1 Kuvira's Colossus
+	1 Lady Butterfly
+	1 Kuvira, the Great Uniter
+	1 Godzilla
+	1 Atomic Breath
+	1 King of the Monsters
+	1 King Ghidorah
+	1 Let Them Fight
+	1 Rodan, the Fire Demon
+	1 Kong
+	1 Kong's Axe
+	1 Mothra
+	1 Mechagodzilla
+	1 Overed Rail Cannon
+	1 C4-621 Raven
+	1 Ibis, C-Weapon
+	1 Ayre, Echo of Coral
+	1 Pulse Blade
+	1 ICE WORM
+	1 Dinaurian's Edict
+	1 Gleaming Thunder Wyvern
+	1 Hunter's Palico
+	1 Wave Dress Wyvern
+	1 Black Flame Wyvern
+	1 Frozen Peak Wyvern
+	1 White Wraith Wyvern
+	1 Earth-Piercing Bolt
+	1 AAP07 Balteus
+	1 The Legend of Wan
+	1 Amon, the Equalist
+	1 Zoh Shia, Errant Calamity
+	1 Bubble Fox Wyvern
+	1 Gogmazios, Specter of War
+	1 Avis Unit Hunter
+	1 Alma's Investigation
+	1 P'Li, Red Lotus Lieutenant
+	1 Ming Hua, the Anarchist
+	1 Ghazan, Prison Fugitive
+	1 Zaheer of the Red Lotus
+	1 The Defect
+	1 Demon Form
+	1 Eat Time
+	1 Watcher's Stances
+	1 Giant Head
+	1 Crippling Cloud
+	1 Arlecchino, Blood Artist
+	1 Antonia's Mouser
+	1 Nameless Puppet
+	1 Romeo, King of Puppets
+	1 Lea Monad Florence
+	1 Fated Confrontation
+	1 Five Pebbles
+	1 King Vulture
+	1 Shoreline Leviathan
+	1 Slugcat
+	1 Gold Pearl
+	1 Industrial Complex
+	1 Demon of Hatred
+	1 Topple the King of Puppets
+	1 Gen Four Augmentation
+	1 Contact With You
+	1 Coral Convergence
+	1 The Fires That Haunt Rubicon
+	1 Pulse Shield
+	1 Anharion's Collar
+	1 Will and James
+	1 Dark Rise
+	1 ALLMIND and Iguazu
+	1 Pull Into Service
+	1 IB-C03 Walter
+	1 V.IV Rusty
+	1 O'Rin of the Waters
+	1 P-Organ
+	1 Monad's Lamp
+	1 P, Puppet of Gepetto
+	1 Bell Collar
+	1 Allied Mastercomputer
+	1 Levi, One with Vesta
+	1 Vesta Wilderness
+	1 Omega Planetes
+	1 Tapu Koko
+	1 Tapu Lele
+	1 Tapu Bulu
+	1 Tapu Fini
+	1 Celesteela, the Launch
+	1 Nihilego, the Symbiont
+	1 Ultra Wormhole
+	1 Blacephalon, the Burst
+	1 Buzzwole, the Swollen
+	1 Xurkitree, the Glowing
+	1 Ultra Emergence
+	1 Kartana, the Drawn Sword
+	1 Stakataka, the Rampart
+	1 Guzzlord, the Junkivore
+	1 Pheromosa, the Lissome
+	1 Sea Creeper Pokémon
+	1 Meteor Pokémon
+	1 Hard Scale Pokémon
+	1 Trainer Bond
+	1 Lusamine, Motherbeast
+	1 Dyson Sphere Array
+	1 Uploaded Intelligence
+	1 Flame Tail Wyvern
+	1 Cladding Frog Wyvern
+	1 Pioneer Beast Wyvern
+	1 Sand Sea Wyvern
+	1 Swamp Spouting Wyvern
+	1 Thorny Flower Spider
+	1 Rove, the Well-Spoken
+	1 Gore Magala, Dark Eclipse
+	1 Blade Phantom
+	1 Wraith Form
+	1 Echo Form
+	1 Deva Form
+	1 Guardian Construct
+	1 Piercing Assassin Wyvern
+	1 Cannon Pokémon
+	1 Larva Pokémon
+	1 Bee Fly Pokémon
+	1 Small Fry Pokémon
+	1 Brutal Star Pokémon
+	1 Bloom Sickle Pokémon
+	1 Toxic Lizard Pokémon
+	1 Illuminating Pokémon
+	1 Strong Arm Pokémon
+	1 Sea Cucumber Pokémon
+	1 Type: Null, the Synthetic
+	1 Disguise Pokémon
+	1 Cosmog, the Nebula
+	1 Rotom, Living Plasma
+	1 The Regent
+	1 Void Form
+	1 Know Thy Place
+	1 Hate. Hate.
+	1 Kosmo, Cosmic Companion
+	1 Rainbow Canyon
+	1 Guhnash, World Eater
+	1 Reanimate
+	1 Genichiro Ashina
+	1 Hirata Estate
+	1 Explore
+	1 Reaper Leviathan
+	1 Ghost Leviathan
+	1 Modular Technology
+[uncommon(3)]
+[common(6)]
+[common | masterpiece(1)]
+[foil(1)]
+	1 Spear and Fang
+	1 Mio, the Eye's Keeper
+	1 Zombie Spear
+	1 Khazan, First Berserker
+	1 Reese, Bride of Despair
+	1 Crisanta of Wrapped Agony
+	1 Penitent One
+	1 Sierpes, the Traitor
+	1 Come Back
+	1 Carol Sturka
+	1 Manousos Oviedo
+	1 Sargon, Prince of Persia
+	1 Darius, King of Kings
+	1 Grovekeeper Topoda
+	1 Cold Harbor
+	1 Severance Procedure
+	1 ORTBO
+	1 Avatar Korra
+	1 Shiro, Black Paladin
+	1 Keith, Red Paladin
+	1 Lance, Blue Paladin
+	1 Pidge, Green Paladin
+	1 Hunk, Yellow Paladin
+	1 The Black Bayard
+	1 Voltron, Legendary Defender
+	1 Allura, Altean Princess
+	1 Galran Sentry
+	1 Make a Good Team
+	1 Paladin's Persistence
+	1 Paladin's Fervor
+	1 Paladin's Adaptability
+	1 Paladin's Ingenuity
+	1 Paladin's Devotion
+	1 Honerva, Altean Witch
+	1 Asami Sato, Industrialist
+	1 Korra Alone
+	1 Kuvira's Colossus
+	1 Lady Butterfly
+	1 Kuvira, the Great Uniter
+	1 Godzilla
+	1 Atomic Breath
+	1 King of the Monsters
+	1 King Ghidorah
+	1 Let Them Fight
+	1 Rodan, the Fire Demon
+	1 Kong
+	1 Kong's Axe
+	1 Mothra
+	1 Mechagodzilla
+	1 Overed Rail Cannon
+	1 C4-621 Raven
+	1 Ibis, C-Weapon
+	1 Ayre, Echo of Coral
+	1 Pulse Blade
+	1 ICE WORM
+	1 Dinaurian's Edict
+	1 Gleaming Thunder Wyvern
+	1 Hunter's Palico
+	1 Wave Dress Wyvern
+	1 Black Flame Wyvern
+	1 Frozen Peak Wyvern
+	1 White Wraith Wyvern
+	1 Earth-Piercing Bolt
+	1 AAP07 Balteus
+	1 The Legend of Wan
+	1 Amon, the Equalist
+	1 Zoh Shia, Errant Calamity
+	1 Bubble Fox Wyvern
+	1 Gogmazios, Specter of War
+	1 Avis Unit Hunter
+	1 Alma's Investigation
+	1 P'Li, Red Lotus Lieutenant
+	1 Ming Hua, the Anarchist
+	1 Ghazan, Prison Fugitive
+	1 Zaheer of the Red Lotus
+	1 The Defect
+	1 Demon Form
+	1 Eat Time
+	1 Watcher's Stances
+	1 Giant Head
+	1 Crippling Cloud
+	1 Arlecchino, Blood Artist
+	1 Antonia's Mouser
+	1 Nameless Puppet
+	1 Romeo, King of Puppets
+	1 Lea Monad Florence
+	1 Fated Confrontation
+	1 Five Pebbles
+	1 King Vulture
+	1 Shoreline Leviathan
+	1 Slugcat
+	1 Gold Pearl
+	1 Industrial Complex
+	1 Demon of Hatred
+	1 Topple the King of Puppets
+	1 Gen Four Augmentation
+	1 Contact With You
+	1 Coral Convergence
+	1 The Fires That Haunt Rubicon
+	1 Pulse Shield
+	1 Anharion's Collar
+	1 Will and James
+	1 Dark Rise
+	1 ALLMIND and Iguazu
+	1 Pull Into Service
+	1 IB-C03 Walter
+	1 V.IV Rusty
+	1 O'Rin of the Waters
+	1 P-Organ
+	1 Monad's Lamp
+	1 P, Puppet of Gepetto
+	1 Bell Collar
+	1 Allied Mastercomputer
+	1 Levi, One with Vesta
+	1 Vesta Wilderness
+	1 Omega Planetes
+	1 Tapu Koko
+	1 Tapu Lele
+	1 Tapu Bulu
+	1 Tapu Fini
+	1 Celesteela, the Launch
+	1 Nihilego, the Symbiont
+	1 Ultra Wormhole
+	1 Blacephalon, the Burst
+	1 Buzzwole, the Swollen
+	1 Xurkitree, the Glowing
+	1 Ultra Emergence
+	1 Kartana, the Drawn Sword
+	1 Stakataka, the Rampart
+	1 Guzzlord, the Junkivore
+	1 Pheromosa, the Lissome
+	1 Sea Creeper Pokémon
+	1 Meteor Pokémon
+	1 Hard Scale Pokémon
+	1 Trainer Bond
+	1 Lusamine, Motherbeast
+	1 Dyson Sphere Array
+	1 Uploaded Intelligence
+	1 Flame Tail Wyvern
+	1 Cladding Frog Wyvern
+	1 Pioneer Beast Wyvern
+	1 Sand Sea Wyvern
+	1 Swamp Spouting Wyvern
+	1 Thorny Flower Spider
+	1 Rove, the Well-Spoken
+	1 Gore Magala, Dark Eclipse
+	1 Blade Phantom
+	1 Wraith Form
+	1 Echo Form
+	1 Deva Form
+	1 Guardian Construct
+	1 Piercing Assassin Wyvern
+	1 Cannon Pokémon
+	1 Larva Pokémon
+	1 Bee Fly Pokémon
+	1 Small Fry Pokémon
+	1 Brutal Star Pokémon
+	1 Bloom Sickle Pokémon
+	1 Toxic Lizard Pokémon
+	1 Illuminating Pokémon
+	1 Strong Arm Pokémon
+	1 Sea Cucumber Pokémon
+	1 Type: Null, the Synthetic
+	1 Disguise Pokémon
+	1 Cosmog, the Nebula
+	1 Rotom, Living Plasma
+	1 The Regent
+	1 Void Form
+	1 Know Thy Place
+	1 Hate. Hate.
+	1 Kosmo, Cosmic Companion
+	1 Rainbow Canyon
+	1 Guhnash, World Eater
+	1 Reanimate
+	1 Genichiro Ashina
+	1 Hirata Estate
+	1 Explore
+	1 Reaper Leviathan
+	1 Ghost Leviathan
+	1 Modular Technology
+[wildcard(1)]
+	4 Spear and Fang
+	4 Mio, the Eye's Keeper
+	4 Zombie Spear
+	4 Khazan, First Berserker
+	4 Reese, Bride of Despair
+	4 Crisanta of Wrapped Agony
+	4 Penitent One
+	4 Sierpes, the Traitor
+	4 Come Back
+	4 Carol Sturka
+	4 Manousos Oviedo
+	4 Sargon, Prince of Persia
+	4 Darius, King of Kings
+	4 Grovekeeper Topoda
+	4 Cold Harbor
+	4 Severance Procedure
+	4 ORTBO
+	4 Avatar Korra
+	4 Shiro, Black Paladin
+	4 Keith, Red Paladin
+	4 Lance, Blue Paladin
+	4 Pidge, Green Paladin
+	4 Hunk, Yellow Paladin
+	4 The Black Bayard
+	4 Voltron, Legendary Defender
+	4 Allura, Altean Princess
+	4 Galran Sentry
+	4 Make a Good Team
+	4 Paladin's Persistence
+	4 Paladin's Fervor
+	4 Paladin's Adaptability
+	4 Paladin's Ingenuity
+	4 Paladin's Devotion
+	4 Honerva, Altean Witch
+	4 Asami Sato, Industrialist
+	4 Korra Alone
+	4 Kuvira's Colossus
+	4 Lady Butterfly
+	4 Kuvira, the Great Uniter
+	4 Godzilla
+	4 Atomic Breath
+	4 King of the Monsters
+	4 King Ghidorah
+	4 Let Them Fight
+	4 Rodan, the Fire Demon
+	4 Kong
+	4 Kong's Axe
+	4 Mothra
+	4 Mechagodzilla
+	4 Overed Rail Cannon
+	4 C4-621 Raven
+	4 Ibis, C-Weapon
+	4 Ayre, Echo of Coral
+	4 Pulse Blade
+	4 ICE WORM
+	4 Dinaurian's Edict
+	4 Gleaming Thunder Wyvern
+	4 Hunter's Palico
+	4 Wave Dress Wyvern
+	4 Black Flame Wyvern
+	4 Frozen Peak Wyvern
+	4 White Wraith Wyvern
+	4 Earth-Piercing Bolt
+	4 AAP07 Balteus
+	4 The Legend of Wan
+	4 Amon, the Equalist
+	4 Zoh Shia, Errant Calamity
+	4 Bubble Fox Wyvern
+	4 Gogmazios, Specter of War
+	4 Avis Unit Hunter
+	4 Alma's Investigation
+	4 P'Li, Red Lotus Lieutenant
+	4 Ming Hua, the Anarchist
+	4 Ghazan, Prison Fugitive
+	4 Zaheer of the Red Lotus
+	4 The Defect
+	4 Demon Form
+	4 Eat Time
+	4 Watcher's Stances
+	4 Giant Head
+	4 Crippling Cloud
+	4 Arlecchino, Blood Artist
+	4 Antonia's Mouser
+	4 Nameless Puppet
+	4 Romeo, King of Puppets
+	4 Lea Monad Florence
+	4 Fated Confrontation
+	4 Five Pebbles
+	4 King Vulture
+	4 Shoreline Leviathan
+	4 Slugcat
+	4 Gold Pearl
+	4 Industrial Complex
+	4 Demon of Hatred
+	4 Topple the King of Puppets
+	4 Gen Four Augmentation
+	4 Contact With You
+	4 Coral Convergence
+	4 The Fires That Haunt Rubicon
+	4 Pulse Shield
+	4 Anharion's Collar
+	4 Will and James
+	4 Dark Rise
+	4 ALLMIND and Iguazu
+	4 Pull Into Service
+	4 IB-C03 Walter
+	4 V.IV Rusty
+	4 O'Rin of the Waters
+	4 P-Organ
+	4 Monad's Lamp
+	4 P, Puppet of Gepetto
+	4 Bell Collar
+	4 Allied Mastercomputer
+	4 Levi, One with Vesta
+	4 Vesta Wilderness
+	4 Omega Planetes
+	4 Tapu Koko
+	4 Tapu Lele
+	4 Tapu Bulu
+	4 Tapu Fini
+	4 Celesteela, the Launch
+	4 Nihilego, the Symbiont
+	4 Ultra Wormhole
+	4 Blacephalon, the Burst
+	4 Buzzwole, the Swollen
+	4 Xurkitree, the Glowing
+	4 Ultra Emergence
+	4 Kartana, the Drawn Sword
+	4 Stakataka, the Rampart
+	4 Guzzlord, the Junkivore
+	4 Pheromosa, the Lissome
+	4 Sea Creeper Pokémon
+	4 Meteor Pokémon
+	4 Hard Scale Pokémon
+	4 Trainer Bond
+	4 Lusamine, Motherbeast
+	4 Dyson Sphere Array
+	4 Uploaded Intelligence
+	4 Flame Tail Wyvern
+	4 Cladding Frog Wyvern
+	4 Pioneer Beast Wyvern
+	4 Sand Sea Wyvern
+	4 Swamp Spouting Wyvern
+	4 Thorny Flower Spider
+	4 Rove, the Well-Spoken
+	4 Gore Magala, Dark Eclipse
+	4 Blade Phantom
+	4 Wraith Form
+	4 Echo Form
+	4 Deva Form
+	4 Guardian Construct
+	4 Piercing Assassin Wyvern
+	4 Cannon Pokémon
+	4 Larva Pokémon
+	4 Bee Fly Pokémon
+	4 Small Fry Pokémon
+	4 Brutal Star Pokémon
+	4 Bloom Sickle Pokémon
+	4 Toxic Lizard Pokémon
+	4 Illuminating Pokémon
+	4 Strong Arm Pokémon
+	4 Sea Cucumber Pokémon
+	4 Type: Null, the Synthetic
+	4 Disguise Pokémon
+	4 Cosmog, the Nebula
+	4 Rotom, Living Plasma
+	4 The Regent
+	4 Void Form
+	4 Know Thy Place
+	4 Hate. Hate.
+	4 Kosmo, Cosmic Companion
+	4 Rainbow Canyon
+	4 Guhnash, World Eater
+	4 Reanimate
+	4 Genichiro Ashina
+	4 Hirata Estate
+	4 Explore
+	4 Reaper Leviathan
+	4 Ghost Leviathan
+	4 Modular Technology

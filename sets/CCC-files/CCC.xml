@@ -1,0 +1,3242 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>CCC</name>
+			<longname>Crossover Content Cube</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-05-25</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Spear and Fang</name>
+			<text>Activated abilities of artifacts your opponents control can&apos;t be activated.
+Whenever a permanent you control becomes the target of a spell or ability an opponent controls, you may draw a card.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/0.png" num="141">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mio, the Eye&apos;s Keeper</name>
+			<text>Flying
+Whenever you tap a nonland permanent for mana, add {C}.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/1.png" num="169">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zombie Spear</name>
+			<text>Zombie Spear can&apos;t block.
+Dash—{B}, Discard a card. (You may cast this spell for its dash cost. If you do, it gains haste, and it&apos;s returned from the battlefield to its owner&apos;s hand at the beginning of the next end step.)
+You may cast this card from your graveyard using its dash ability.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/2.png" num="90">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Zombie Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Khazan, First Berserker</name>
+			<text>Trample, haste
+When Khazan enters, you may discard up to two cards. If you do, draw that many cards.
+If you would draw a card while you have one or fewer cards in hand, you may instead exile the top two cards of your library. If you do, you may play those cards until the end of your next turn.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/3.png" num="109">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reese, Bride of Despair</name>
+			<text>Flying, lifelink
+Exhaust — {1}{B}, Pay X life: Draw X cards. Activate only as a sorcery. (Activate each exhaust ability only once.)
+Warp {1}{B} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/4.png" num="83">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crisanta of Wrapped Agony</name>
+			<text>Flying, lifelink
+When Crisanta enters, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle. You lose life equal to that card&apos;s mana value.
+Other equipped creatures you control have flying and lifelink.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/5.png" num="146">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Penitent One</name>
+			<text>When this creature enters, create a colorless Equipment artifact token named Sword with &quot;Equipped creature gets +1/+1&quot; and equip {2}.
+Other creatures you control get +1/+1 for each Equipment attached to this creature.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/6.png" num="18">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sierpes, the Traitor</name>
+			<text>Ravenous (This creature enters with X +1/+1 counters on it. If X is 5 or more, draw a card when it enters.)
+Vigilance
+Escape—{3}{W}{W}, Exile X cards from your gaveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/7.png" num="22">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>XW</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Come Back</name>
+			<text>Return target creature card with mana value 3 or less from your graveyard to the battlefield tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/8.png" num="11">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Carol Sturka</name>
+			<text>Survival — At the beginning of your second main phase, if Carol Sturka is tapped, create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/9.png" num="94">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Survivor</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Manousos Oviedo</name>
+			<text>Survival — At the beginning of your second main phase, if Manousos Oviedo is tapped, return up to one target nonland permanent card with mana value 2 or less from your graveyard to the battlefield.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/10.png" num="15">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Survivor</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sargon, Prince of Persia</name>
+			<text>Flash
+Whenever you cast a spell during an opponent&apos;s turn, put a +1/+1 counter on Sargon.
+{1}{U}, {T}: Untap up to three lands you control. End the turn. Activate only during your turn.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/11.png" num="52">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Darius, King of Kings</name>
+			<text>Ward {2}
+Whenever Darius enters or attacks, return up to one target nonland permanent card with mana value 3 or less from your graveyard to the battlefield. If it&apos;s an Equipment, you may attach it to Darius.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/12.png" num="12">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Zombie Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grovekeeper Topoda</name>
+			<text>At the beginning of combat on your turn, put a +1/+1 counter on target creature you control.
+Boast — {1}{G}: Double Grovekeeper Topoda&apos;s power until end of turn. (Activate only if this creature attacked this turn and only once each turn.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/13.png" num="127">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Lobster Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cold Harbor</name>
+			<text>This spell costs {1} less to cast for each different mana value among nonland permanents you control.
+Return target creature card with mana value X or less from your graveyard to the battlefield.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/14.png" num="61">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XB</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Severance Procedure</name>
+			<text>Destroy target creature. It&apos;s controller creates two tokens that are copies of it, except the tokens are 1/1 and aren&apos;t legendary.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/15.png" num="84">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>ORTBO</name>
+			<text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Counter target spell. Its controller creates a Clue token. If this spell was kicked, you create that token instead. (A Clue is an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/16.png" num="48">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Avatar Korra</name>
+			<text>Whenever Avatar Korra attacks, you may waterbend {3}. When you do, choose one —
+• Add {R}{G}{W}{U}. Until end of combat, you don&apos;t lose this mana as steps and phases end.
+• Exile another target permanent, then return it to the battlefield under its owner&apos;s control.
+• Double the number of counters on target permanent you control.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/17.png" num="32">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>WURG</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shiro, Black Paladin</name>
+			<text>Menace
+Valiant — Whenever Shiro becomes the target of a spell or ability you control for the first time each turn, put a +1/+1 counter on him. When you do, return up to one target creature card with mana value less than or equal to Shiro&apos;s power from your graveyard to the battlefield.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/18.png" num="85">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Keith, Red Paladin</name>
+			<text>Valiant — Whenever Keith becomes the target of a spell or ability you control for the first time each turn, you may discard a card. If you do, draw a card. If you discarded a nonland card this way, put a +1/+1 counter on Keith.
+Whenever you discard a land card, exile the top card of your library. You may play that card until your next end step.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/19.png" num="108">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lance, Blue Paladin</name>
+			<text>Valiant — Whenever Lance becomes the target of a spell or ability you control for the first time each turn, untap him.
+{T}: Draw a card, then discard a card.
+{1}{U}, {T}: Tap another target creature. Put a stun counter on it.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/20.png" num="43">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pidge, Green Paladin</name>
+			<text>When Pidge enters, create a 1/1 colorless Servo artifact creature token.
+{G}, {T}: The next spell you cast this turn has improvise. (Your artifacts can help cast that spell. Each artifact you tap after you&apos;re done activating mana abilities pays for {1}.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/21.png" num="137">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hunk, Yellow Paladin</name>
+			<text>When Hunk enters or attacks, create a tapped Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+Artifacts you control have &quot;{T}: Add {W}. You can&apos;t spend this mana to cast nonartifact spells.&quot;</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/22.png" num="13">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Black Bayard</name>
+			<text>Equipped creature gets +1/+0.
+Whenever equipped creature attacks, add one mana of any color. Until end of turn, you don&apos;t lose this mana as steps and phases end.
+Equip {0}. Activate only once each turn. ({0}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/23.png" num="159">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Voltron, Legendary Defender</name>
+			<text>Whenever Voltron enters or attacks, discover 5. (Exile cards from the top of your library until you exile a nonland card with mana value 5 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)
+Whenever Voltron attacks, if it was crewed by exactly five legendary creatures this turn, you win the game.
+Crew 5</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/24.png" num="175">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>10/10</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Allura, Altean Princess</name>
+			<text>Whenever you cast an artifact or enchantment spell, draw a card.
+At the beginning of combat on your turn, up to one target artifact or non-Aura enchantment you control becomes a 3/3 creature in addition to its other types until end of turn.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/25.png" num="29">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Alien Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Galran Sentry</name>
+			<text>When this creature dies, draw a card. You may put an artifact or creature card with mana value 2 or less from your hand onto the battlefield.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/26.png" num="162">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Make a Good Team</name>
+			<text>At the beginning of combat on your turn, put X +1/+1 counters on target creature you control, where X is the number of cards you&apos;ve drawn this turn or the number of cards you&apos;ve discarded this turn, whichever is greater.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/27.png" num="150">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Paladin&apos;s Persistence</name>
+			<text>Escalate {2} (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Target creature gets +3/-3 until end of turn.
+• Put target creature card with mana value 3 or less from a graveyard onto the battlefield tapped under your control.
+• Target opponent loses 3 life and you gain 3 life.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/28.png" num="80">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Paladin&apos;s Fervor</name>
+			<text>Escalate—{1}, Discard a card. (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Paladin&apos;s Fervor deals 3 damage to any target.
+• Add {R} for each 1 life your opponents have lost this turn.
+• Exile the top two cards of your library. You may play them until the end of your next turn.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/29.png" num="112">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Paladin&apos;s Adaptability</name>
+			<text>Escalate {2} (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Counter target spell unless its controller pays {X}.
+• Look at the top X cards of your library. Put one of them into your hand and the rest on the bottom of your library in a random order.
+• Tap or untap up to X target permanents.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/30.png" num="49">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XU</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Paladin&apos;s Ingenuity</name>
+			<text>Escalate—{1}, Tap an untapped artifact you control. (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Create two 1/1 colorless Servo artifact creature tokens.
+• Exile each opponent&apos;s graveyard. You gain 1 life for each card exiled this way.
+• Each opponent sacrifices an artifact and an enchantment.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/31.png" num="136">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Paladin&apos;s Devotion</name>
+			<text>Escalate {2} (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• All creatures you control phase out.
+• Until your next turn, you gain protection from everything and your life total can&apos;t change. 
+• You may put a creature card with mana value 3 or less from your hand onto the battlefield.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/32.png" num="17">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Honerva, Altean Witch</name>
+			<text>During your turn, you may cast black spells and artifact spells from your graveyard.
+If a card would be put into your graveyard, exile it instead.
+Warp {1}{B}{B} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/33.png" num="71">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Alien Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Asami Sato, Industrialist</name>
+			<text>Whenever Asami Sato attacks, look at the top six cards of your library. Then you may sacrifice an artifact. If you do, you may put an artifact card from among those cards onto the battlefield. That artifact deals damage to you equal to its mana value. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/34.png" num="91">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Korra Alone</name>
+			<text>Return all cards from your graveyard to your hand. Until end of turn, your maximum hand size is zero.
+You may play two additional lands this turn.
+Exile Korra Alone.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/35.png" num="131">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Kuvira&apos;s Colossus</name>
+			<text>When Kuvira&apos;s Colossus enters, exile target nonland permanent an opponent controls.
+Whenever one or more cards are put into exile from graveyards and/or the battlefield, each opponent loses 2 life.
+Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/36.png" num="167">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lady Butterfly</name>
+			<text>Whenever Lady Butterfly attacks, she deals 2 damage to you unless she&apos;s attacking alone.
+Dash {R} (You may cast this spell for its dash cost. If you do, it gains haste, and it&apos;s returned from the battlefield to its owner&apos;s hand at the beginning of the next end step.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/37.png" num="110">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Ninja</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kuvira, the Great Uniter</name>
+			<text>When Kuvira enters, earthbend 7. That land becomes an artifact in addition to its other types. (To earthbend 7, target land you control becomes a 0/0 creature with haste that&apos;s still a land. Put seven +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)
+Artifact creatures you control have vigilance and trample.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/38.png" num="132">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Godzilla</name>
+			<text>Trample
+Landfall — Whenever a land you control enters, double Godzilla&apos;s power until end of turn.
+When Godzilla dies, if it had no stun counters on it, return it to the battlefield tapped under its owner&apos;s control with three stun counters on it.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/39.png" num="126">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4GGG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/10</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Atomic Breath</name>
+			<text>Target creature you control deals damage equal to its power to target creature an opponent controls. If excess damage is dealt this way, you get that many rad counters. (At the beginning of your precombat main phase, if you have any rad counters, mill that many cards. For each nonland card milled this way, you lose 1 life and a rad counter.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/40.png" num="120">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>King of the Monsters</name>
+			<text>When this enchantment enters, draw cards equal to the greatest power among creatures you control.
+If you tap a permanent for mana, it produces twice that much mana instead.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/41.png" num="129">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>King Ghidorah</name>
+			<text>Flying
+Ward—Pay 3 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)
+If an opponent would lose life during your turn, they lose three times that much life instead.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/42.png" num="73">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>4BBB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/9</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Let Them Fight</name>
+			<text>Choose one or both—
+• Destroy all Human creatures.
+• Destroy all non-Human creatures.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/43.png" num="76">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rodan, the Fire Demon</name>
+			<text>Emerge from artifact {4}{R}{R} (You may cast this spell by sacrificing an artifact and paying the emerge cost reduced by that artifact&apos;s mana value.)
+Flying
+When Rodan enters, it deals 4 damage to target opponent unless they have you draw three cards.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/44.png" num="116">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kong</name>
+			<text>Trample
+When Kong enters, search your library for a land card, put it onto the battlefield tapped, then shuffle.
+Whenever Kong attacks, untap all lands you control.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/45.png" num="130">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Ape</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kong&apos;s Axe</name>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Equipped creature gets +X/+X and has trample, where X is the number of card types among cards exiled with Kong&apos;s Axe.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/46.png" num="166">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mothra</name>
+			<text>Flying
+Whenever Mothra attacks, draw a card.
+When Mothra dies, create a 0/1 blue Egg creature token with &quot;At the beginning of your upkeep, sacrifice this token. When you do, return target card named Mothra from your graveyard to the battlefield.&quot;</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/47.png" num="45">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mechagodzilla</name>
+			<text>Whenever Mechagodzilla attacks, it deals damage equal to its power to target creature an opponent controls. Excess damage is dealt to that creature&apos;s controller instead.
+{10}: Monstrosity X, where X is the number of artifacts you control. (If this creature isn&apos;t monstrous, put X +1/+1 counters on it and it becomes monstrous.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/48.png" num="168">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Overed Rail Cannon</name>
+			<text>Target creature gets -0/-210000 until end of turn.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/49.png" num="79">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>C4-621 Raven</name>
+			<text>Flying, vigilance
+Modular 3 (This Vehicle enters with three +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)
+{1}, {T}: Put a +1/+1 counter on each artifact you control that&apos;s a creature and/or Vehicle.
+Crew 2</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/50.png" num="160">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ibis, C-Weapon</name>
+			<text>Flying, haste
+Whenever Ibis deals combat damage to a player, exile cards from the top of your library until you exile a nonland card. You may cast that card by discarding a card rather than paying its mana cost.
+Crew 1</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/51.png" num="106">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ayre, Echo of Coral</name>
+			<text>Flying
+Whenever Ayre attacks, create two tokens that are each a copy of target creature that crewed Ayre this turn, except the tokens aren&apos;t legendary and enter tapped and attacking. Sacrifice those tokens at the beginning of the next end step.
+Crew 3</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/52.png" num="157">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pulse Blade</name>
+			<text>As an additional cost to cast this spell, you may sacrifice an artifact.
+Pulse Blade deals 2 damage to any target. If this spell&apos;s additional cost was paid, Pulse Blade deals X damage instead, where X is the sacrificed artifact&apos;s mana value.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/53.png" num="115">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>ICE WORM</name>
+			<text>Deathtouch, lifelink
+When this creature dies, search your library for up to two artifact cards with mana value 3 or less, put them onto the battlefield tapped, then shuffle. Distribute a deathtouch and lifelink counter among those artifacts.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/54.png" num="165">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dinaurian&apos;s Edict</name>
+			<text>Target opponent sacrifices a creature and loses X life, where X is the number of tapped creatures you control.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/55.png" num="64">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gleaming Thunder Wyvern</name>
+			<text>Flying
+When this creature enters, it deals 3 damage to any target.
+You may exert this creature as it attacks. When you do, the next instant or sorcery spell you cast this turn has storm. (An exerted creature won&apos;t untap during your next untap step.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/56.png" num="103">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hunter&apos;s Palico</name>
+			<text>When this creature enters, create a Weapon token. (It&apos;s an Equipment artifact with equip {2} and &quot;Equipped creature gets +1/+1.&quot;)
+{T}: Add {G} equal to this creature&apos;s power.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/57.png" num="128">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wave Dress Wyvern</name>
+			<text>This creature enters with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+Each creature you control with toughness greater than its power assigns combat damage equal to its toughness rather than its power.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/58.png" num="144">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Black Flame Wyvern</name>
+			<text>Menace
+At the beginning of each player&apos;s upkeep, that player discards a card.
+Whenever this creature attacks, it gets +X/+0 until end of turn, where X is the number of card types among cards in all graveyards.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/59.png" num="60">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Octopus</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>0/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frozen Peak Wyvern</name>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Your opponent can&apos;t untap more than one creature during their untap steps.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/60.png" num="41">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>6UU</manacost>
+				<cmc>8</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>White Wraith Wyvern</name>
+			<text>Menace
+Whenever this creature attacks, you lose 3 life unless you sacrifice another creature.
+Renew — {1}{B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature you control. Each opponent loses life equal to that creature&apos;s power. Destroy that creature. Activate only as a sorcery.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/61.png" num="88">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Earth-Piercing Bolt</name>
+			<text>Earth-Piercing Bolt deals 5 damage to target creature. Excess damage is dealt to you instead.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/62.png" num="99">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>AAP07 Balteus</name>
+			<text>Flash
+Flying
+When this Vehicle enters, if it was cast, it deals 100 damage divided as you choose among any number of target attacking creatures.
+Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/63.png" num="6">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Legend of Wan</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create Raava, a legendary 4/4 colorless Spirit creature with flying.
+II — For each color among permanents you control, add one mana of that color.
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+---
+(Back): Avatar Wan</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/64_front.png" num="3a">CCC</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Avatar Wan</related>
+		</card>
+		<card>
+			<name>Avatar Wan</name>
+			<text>You may look at the top card of your library any time.
+During each of your turns, you may play a land and cast a spell of each color from the top of your library. (If a card is multiple colors, choose one as you play it.)
+---
+(Front): The Legend of Wan</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/64_back.png" num="3b">CCC</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">The Legend of Wan</related>
+		</card>
+		<card>
+			<name>Amon, the Equalist</name>
+			<text>When Amon enters, you may waterbend {X}. When you do, choose target creature an opponent controls with mana value X. For as long as Amon remains on the battlefield, gain control of that creature and it loses all abilities. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/65.png" num="30">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zoh Shia, Errant Calamity</name>
+			<text>When you cast this spell, each opponent exiles half the cards in their hand, rounded down.
+Menace
+As long as an opponent has fewer than seven cards in hand, Zoh Shia has annihilator X, where X is the difference. (Whenever this creature attacks, defending player sacrifices X permanents.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/66.png" num="5">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>9</manacost>
+				<cmc>9</cmc>
+				<pt>9/9</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bubble Fox Wyvern</name>
+			<text>Whenever this creature deals combat damage to a player, draw a card, then you may cast a spell with mana value 2 or less from your hand without paying its mana cost.
+Waterbend {3}: This creature can&apos;t be blocked this turn. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/67.png" num="34">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gogmazios, Specter of War</name>
+			<text>Flying, menace
+When Gogmazios enters, you may pay {X}. When you do, Gogmazios deals X damage to each other creature.
+Pay 10 life: Add ten {R}. Activate only once each turn.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/68.png" num="148">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5BR</manacost>
+				<cmc>7</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Avis Unit Hunter</name>
+			<text>When this creature enters, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+Noncreature, non-Equipment artifacts you control are Equipment in addition to their other types and have &quot;Equipped creature gets +2/+0&quot; and equip {1}.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/69.png" num="8">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alma&apos;s Investigation</name>
+			<text>As an additional cost to cast this spell, you may collect evidence 6. (Exile cards with total mana value 6 or greater from your graveyard.)
+Search your library for a legendary card, reveal it, put it into your hand, then shuffle. If evidence was collected, you gain life equal to that card&apos;s mana value.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/70.png" num="7">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>P&apos;Li, Red Lotus Lieutenant</name>
+			<text>Firebending 1 (Whenever this creature attacks, add {R}. This mana lasts until end of combat.)
+Haste
+When P&apos;Li enters, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/71.png" num="114">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ming Hua, the Anarchist</name>
+			<text>Whenever a creature you control deals combat damage to a player, draw a card.
+Waterbend {8}: Ming Hua&apos;s base power and toughness becomes 8/8. (This effect lasts indefinitely. While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/72.png" num="44">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ghazan, Prison Fugitive</name>
+			<text>When Ghazan enters, earthbend 4. (Target land you control becomes a 0/0 creature with haste that&apos;s still a land. Put four +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)
+Whenever you attack, add X {R}, where X is the greatest power among attacking creatures. Until end of turn, you don&apos;t lose this mana as steps and phases end.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/73.png" num="147">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zaheer of the Red Lotus</name>
+			<text>Flash
+Flying
+When Zaheer enters, airbend up to one target spell or nonland permanent an opponent controls. (Exile it. While it&apos;s exiled, its owner may cast it for {2} rather than its mana cost.)
+Your opponents can&apos;t cast spells from anywhere other than their hand.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/74.png" num="27">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Defect</name>
+			<text>The Defect enters with a charge counter on it.
+Noncreature spells you cast cost {1} less to cast for each charge counter on The Defect.
+Whenever The Defect becomes tapped, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/75.png" num="37">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Demon Form</name>
+			<text>At the beginning of your first main phase, put two strength counters on this enchantment.
+If a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus an amount of damage equal to the number of strength counters on this enchantment instead.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/76.png" num="97">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Eat Time</name>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+End the turn. (Exile all spells and abilities from the stack, including this card. Discard down to your maximum hand size. Damage wears off, and &quot;this turn&quot; and &quot;until end of turn&quot; effects end.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/77.png" num="39">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>10UU</manacost>
+				<cmc>12</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Watcher&apos;s Stances</name>
+			<text>Choose one or both —
+• Double all damage that would be dealt to target permanent or player this turn.
+• Prevent all damage that would be dealt to target permanent or player this turn.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/78.png" num="154">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Giant Head</name>
+			<text>This creature enters tapped with four stun counters on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Whenever this creature attacks, it deals damage equal to its power to any target.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/79.png" num="163">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crippling Cloud</name>
+			<text>Choose one or both—
+• Proliferate twice. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)
+• All creatures get -4/-4 until end of turn.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/80.png" num="62">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Arlecchino, Blood Artist</name>
+			<text>Whenever a creature dies, each opponent loses 1 life and you gain 1 life.
+{1}, Sacrifice another nontoken creature: Create a token that&apos;s a copy of the sacrificed creature, except it has base power and toughness 1/1. Draw a card. Activate only as a sorcery.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/81.png" num="59">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Antonia&apos;s Mouser</name>
+			<text>When this creature enters, draw a card.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/82.png" num="31">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nameless Puppet</name>
+			<text>At the beginning of each end step, if an artifact you controlled died this turn, each opponent loses 1 life and you gain 1 life.
+{1}{B}, Sacrifice an artifact: Return this card from your graveyard to the battlefield tapped.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/83.png" num="78">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Romeo, King of Puppets</name>
+			<text>Multikicker {2}{W} (You may pay an additional {2}{W} any number of times as you cast this spell.)
+When Romeo enters, for each time he was kicked, create a 0/0 Construct artifact creature tokens with &quot;This token gets +1/+1 for each artifact you control.&quot;
+Sacrifice Romeo: Artifacts you control gain indestructible until end of turn.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/84.png" num="20">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lea Monad Florence</name>
+			<text>During your turn, Lea Monad Florence has first strike and trample.
+Whenever you cast your second or third spell each turn, double Lea Monad Florence&apos;s power until end of turn.
+{3}{W}{W}, Exile Lea Monad Florence from your graveyard: Create two tapped 1/1 white Human creature tokens.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/85.png" num="111">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fated Confrontation</name>
+			<text>When this enchantment enters, you may discard a card. If you do, draw two cards.
+{2}, Sacrifice this enchantment: Add three mana in any combination of colors. You can&apos;t spend this mana to cast your first spell each turn.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/86.png" num="100">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Five Pebbles</name>
+			<text>Companion — Your starting deck contains all other cards you&apos;ve drafted. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
+You may spend black mana as though it were mana of any color.
+Whenever you cast a white, blue, red, or green spell, you draw a card and lose 1 life.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/87.png" num="65">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>King Vulture</name>
+			<text>Flying
+When this creature enters, nonartifact creatures get -2/-2 until end of turn.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/88.png" num="74">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shoreline Leviathan</name>
+			<text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Trample, indestructible
+This creature can only attack or block alone.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/89.png" num="140">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Leviathan</type>
+				<maintype>Creature</maintype>
+				<manacost>7GG</manacost>
+				<cmc>9</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Slugcat</name>
+			<text>Whenever this creature attacks, you may exile another target attacking creature you control, then return it to the battlefield under your control tapped and attacking. You may attach an Equipment you control to that creature.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/90.png" num="23">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Slug Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gold Pearl</name>
+			<text>You can&apos;t cast this spell during your first, second, or third turns of the game.
+{T}: Add one mana of any color.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/91.png" num="164">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Industrial Complex</name>
+			<text>{T}: Add {C}.
+{4}: This land becomes 0/0 Construct artifact creature with &quot;This creature gets +1/+1 for each artifact you control.&quot; It&apos;s still a land. (This effect lasts indefinitely.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/92.png" num="177">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Demon of Hatred</name>
+			<text>Trample, haste
+Whenever this creature attacks, add six {R}. Until end of turn, you don&apos;t lose this mana as steps and phases end.
+Mayhem {3}{R}{R} (You may cast this card from your graveyard for {3}{R}{R} if you discarded it this turn. Timing rules still apply.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/93.png" num="98">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Topple the King of Puppets</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Each opponent sacrifices a creature with the greatest mana value among creatures they control.
+II — Add {B}{B}.
+III — Until the end of your next turn, whenever an opponent casts a spell, they lose 5 life unless they discard a card.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/94.png" num="87">CCC</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gen Four Augmentation</name>
+			<text>As an additional cost to cast this spell, sacrifice an artifact or creature.
+If the sacrificed permanent was an artifact, target player draws two cards.
+If the sacrificed permanent was a creature, destroy target creature.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/95.png" num="66">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Contact With You</name>
+			<text>As an additional cost to cast this spell, you may discard your hand. if you do, this spell costs {2} less to cast.
+Exile the top three cards of your library. You may play those cards until the end of your next turn.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/96.png" num="95">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Coral Convergence</name>
+			<text>When you cast this spell, you may discard any number of cards. If you do, copy this spell that many times.
+Exile cards from the top of your library until you exile a nonland card. You may cast that card without paying its mana cost.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/97.png" num="96">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RRR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Fires That Haunt Rubicon</name>
+			<text>Vivid — This spell costs {1} less to cast for each color among permanents you control.
+The Fires That Haunt Rubicon deals X damage to any target.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/98.png" num="101">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XR</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pulse Shield</name>
+			<text>Choose one—
+• Counter target spell unless its controller pays {2}.
+• Counter target spell unless its controller pays {1} for each artifact you control.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/99.png" num="51">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Anharion&apos;s Collar</name>
+			<text>{T}: Add {W}. When you spend this mana to cast a nonwhite spell, you lose life equal to its mana value.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/100.png" num="156">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Will and James</name>
+			<text>Vigilance, lifelink
+{T}: The next spell you cast this turn costs {X} less to cast, where X is the amount of life you gained this turn or the amount of life your opponents lost this turn, whichever is greater. Activate only as a sorcery.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/101.png" num="155">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dark Rise</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Destroy all creatures.
+II — Add {B} for each creature card in your graveyard.
+III — Return target creature card from your graveyard to the battlefield with an indestructible counter on it.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/102.png" num="63">CCC</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>ALLMIND and Iguazu</name>
+			<text>Exile an artifact or creature card from your graveyard: ALLMIND and Iguazu become an artifact creature until end of turn. Activate only once each turn and only as a sorcery.
+ALLMIND and Iguazu has all activated and triggered abilities of artifact and creature cards exiled with it.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/103.png" num="28">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pull Into Service</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Search your library for an artifact card, exile it, then shuffle. Create a token that&apos;s a copy of it, except it isn&apos;t legendary.
+II, III — Create a token that&apos;s a copy of a card exiled with this Saga, except it isn&apos;t legendary.
+​</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/104.png" num="50">CCC</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>IB-C03 Walter</name>
+			<text>IB-C03 &quot;Walter&quot; enters under the control of an opponent of your choice.
+IB-C03 &quot;Walter&quot; can&apos;t be sacrificed.
+During your turn, IB-C03 &quot;Walter&quot; is an artifact creature and attacks each combat if able.
+Whenever IB-C03 &quot;Walter&quot; attacks, its owner draws two cards.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/105.png" num="72">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>V.IV Rusty</name>
+			<text>Flying
+Valiant — Whenever V.IV Rusty becomes the target of a spell or ability you control for the first time each turn, it becomes an artifact creature. If it&apos;s already an artifact creature, put a +1/+1 counter on it instead.
+Crew 2</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/106.png" num="26">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>O&apos;Rin of the Waters</name>
+			<text>Sneak {U} (You may cast this spell for {U} if you also return an unblocked attacker you control to hand during the declare blockers step. She enters tapped and attacking.)
+O&apos;Rin of the Waters&apos;s power is equal to the number of Islands you control.
+Whenever O&apos;Rin of the Waters deals 4 or more damage to a player, draw a card.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/107.png" num="47">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spirit Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>*/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>P-Organ</name>
+			<text>At the beginning of your second main phase, untap this artifact.
+{T}: Add {C}.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/108.png" num="172">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Monad&apos;s Lamp</name>
+			<text>{T}: Add {G}. When you spend this mana to cast a nongreen spell, you lose life equal to its mana value.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/109.png" num="170">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>P, Puppet of Gepetto</name>
+			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
+This creature gets +1/+1 for each artifact you control.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/110.png" num="16">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bell Collar</name>
+			<text>{T}: Add one mana of any color. You can&apos;t spend this mana to cast Human spells.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/111.png" num="158">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Allied Mastercomputer</name>
+			<text>When this creature enters, look at the top two cards of your library. Put one into your hand and the other into your graveyard.
+Whenever you attack, return up to one target creature card from your graveyard to the battlefield. It has no abilities and enters tapped and attacking. Sacrifice it at the beginning of the next end step.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/112.png" num="58">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Levi, One with Vesta</name>
+			<text>Whenever you cast an artifact spell, create a 0/1 green Plant creature token.
+Whenever Levi attacks, put a +1/+1 counter on each Plant you control.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/113.png" num="134">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Plant Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vesta Wilderness</name>
+			<text>({T}: Add {W} or {B}.)
+As Vesta Wilderness enters, you may behold two artifacts. If you don&apos;t, Vesta Wilderness enters tapped. (To behold an artifact, choose an artifact you control or reveal an artifact card from your hand.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/114.png" num="180">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Omega Planetes</name>
+			<text>Flying
+Creatures your opponents control can be the targets of spells and abilities as though they didn&apos;t have hexproof. Ward abilities of those creatures don&apos;t trigger.
+Boast — {X}: Omega Planetes deals X damage to any target. (Activate only if this creature attacked this turn and only once each turn.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/115.png" num="171">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tapu Koko</name>
+			<text>Flying, haste
+Red spells you cast cost {1} less to cast.
+Whenever you cast a red spell, Tapu Koko deals 1 damage to each opponent.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/116.png" num="118">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tapu Lele</name>
+			<text>Flying, lifelink
+White spells you cast cost {1} less to cast.
+Whenever you cast a white spell, create a 1/1 white Human creature token.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/117.png" num="24">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tapu Bulu</name>
+			<text>Flying, trample
+Green spells you cast cost {1} less to cast.
+Whenever you cast a green spell, put a +1/+1 counter on each creature you control.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/118.png" num="143">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tapu Fini</name>
+			<text>Flying, ward {1}
+Blue spells you cast cost {1} less to cast.
+Whenever you cast a blue spell, for each player, tap or untap up to one target creature they control.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/119.png" num="54">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Celesteela, the Launch</name>
+			<text>Flying
+Creatures you control get +1/+1 for each artifact you control.
+Warp {3}{U}{U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/120.png" num="35">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nihilego, the Symbiont</name>
+			<text>Flying
+When Nihilego enters, choose target nonland card in your graveyard. You may cast that card if it&apos;s an instant or sorcery card or if it was put there from anywhere this turn.
+Warp {1}{U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/121.png" num="46">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Jellyfish Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ultra Wormhole</name>
+			<text>{T}: Add {C}.
+{T}, Exert this land: Add two mana of any one color. You can&apos;t spend this mana to cast spells from your hand. (An exerted permanent won&apos;t untap during your next untap step.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/122.png" num="179">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Blacephalon, the Burst</name>
+			<text>Trample, haste
+At the beginning of your end step, sacrifice Blacephalon unless it entered this turn.
+Warp {1}{R}{R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/123.png" num="92">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Alien Clown</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Buzzwole, the Swollen</name>
+			<text>Trample
+Whenever you attack, double target attacking creature&apos;s power and toughness until end of turn.
+Warp {1}{G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/124.png" num="122">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Xurkitree, the Glowing</name>
+			<text>{G}, Sacrifice another artifact: Search your library for a creature card with mana value equal to 1 plus the sacrificed artifact&apos;s mana value, put it onto the battlefield, then shuffle. Activate only each turn and only as a sorcery.
+Warp {G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/125.png" num="145">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ultra Emergence</name>
+			<text>Until end of turn, nonland permanent cards in your hand have warp {3}. (You may cast a card from your hand for its warp cost. Exile that permanent at the beginning of the next end step, then you may cast it from exile on a later turn.)
+Draw a card.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/126.png" num="55">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Kartana, the Drawn Sword</name>
+			<text>Flying
+Whenever you cast a spell, you may discard a card. If you do, draw a card. If you discarded a land card this way, add {R}.
+Warp {R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/127.png" num="107">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Construct Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stakataka, the Rampart</name>
+			<text>Stakataka enters with four +1/+1 counters on it.
+Whenever this creature or another creature you control leaves the battlefield, if it had counters on it, you may put those counters on target creature.
+Warp {3} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/128.png" num="174">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Guzzlord, the Junkivore</name>
+			<text>When Guzzlord enters, you may sacrifice another creature. If you do, draw two cards.
+Whenever you sacrifice a permanent, put a +1/+1 counter on each creature you control.
+Warp {3}{B} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/129.png" num="69">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pheromosa, the Lissome</name>
+			<text>Haste
+When Pheromosa enters, gain control of up to one target creature an opponent controls until end of turn. Untap it. It gains haste until end of turn.
+Warp {2}{R}{R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/130.png" num="113">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sea Creeper Pokémon</name>
+			<text>Whenever this creature enters or attacks, mill three cards. You may put a land card from among them into your hand.
+{T}: The next spell you cast this turn has delve. Activate only as a sorcery. (Each card you exile from your graveyard while casting that spell pays for {1}.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/131.png" num="139">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Meteor Pokémon</name>
+			<text>Flying
+When this creature dies, choose any number. You lose 2 life for each mode chosen beyond the first.
+• Create a Treasure token.
+• Draw a card.
+• Each opponent loses 2 life.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/132.png" num="77">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hard Scale Pokémon</name>
+			<text>Sneak {2}{R} (You may cast this spell for {2}{R} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)
+Haste
+If a creature you control that entered this turn would deal damage, it deals twice that much damage instead.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/133.png" num="105">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lobster Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Trainer Bond</name>
+			<text>Look at the top six cards of your library. Put up to one Human creature card and up to one non-Human creature card each with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/134.png" num="25">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lusamine, Motherbeast</name>
+			<text>Flying
+When Lusamine enters, gain control of target creature an opponent controls for as long as you control Lusamine.
+Warp {1}{UB} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/135.png" num="149">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dyson Sphere Array</name>
+			<text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+When this artifact enters, draw three cards.
+During your turn, you may cast spells from your hand without paying their mana costs.
+If you would draw a card while your library has no cards in it, you win the game instead.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/136.png" num="161">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>15</manacost>
+				<cmc>15</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Uploaded Intelligence</name>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Draw a card for each artifact you control.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/137.png" num="56">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Flame Tail Wyvern</name>
+			<text>If a source you control would deal an amount of noncombat damage less than this creature&apos;s power to an opponent, that source deals damage equal to this creature&apos;s power instead.
+{R}: This creature gets +1/+0 until end of turn.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/138.png" num="102">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cladding Frog Wyvern</name>
+			<text>Whenever this creature deals combat damage to a player, you may put a land card exiled with it onto the battlefield under your control.
+{G}: Exile target card from a graveyard.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/139.png" num="123">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Frog</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pioneer Beast Wyvern</name>
+			<text>Enrage — Whenever this creature is dealt damage, create a token that&apos;s a copy of it, except it has base power and toughness 3/3.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/140.png" num="19">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sand Sea Wyvern</name>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Trample
+This creature enters with X +1/+1 counters on it.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/141.png" num="152">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>XRW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Swamp Spouting Wyvern</name>
+			<text>This creature gets +1/+1 for each Swamp you control.
+When this creature dies, each opponent loses life equal to its power.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/142.png" num="86">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thorny Flower Spider</name>
+			<text>Reach
+Whenever another creature enters, this creature deals 1 damage to that creature&apos;s controller.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/143.png" num="119">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rove, the Well-Spoken</name>
+			<text>Rove enters with two +1/+1 counters on him.
+Once during each of your turns, you may cast an artifact spell from your graveyard by removing a +1/+1 counter from Rove in addition to that spell&apos;s other costs.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/144.png" num="21">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Beast Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gore Magala, Dark Eclipse</name>
+			<text>Flying, deathtouch
+Once during each of your turns, rather than pay the mana cost for a black spell you cast, you may exile any number of black cards with X or more black mana symbols among their mana costs from your graveyard, where X is that spell&apos;s mana value.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/145.png" num="68">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Wyvern</type>
+				<maintype>Creature</maintype>
+				<manacost>BBB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blade Phantom</name>
+			<text>Whenever a source you control deals noncombat damage to a player, you may return this card from your graveyard to your hand.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/146.png" num="93">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wraith Form</name>
+			<text>Vanishing 2 (This permanent enters with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+If you would lose life or pay life while your library has one or more cards in it, you may instead exile that many cards from the top of your library.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/147.png" num="89">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Echo Form</name>
+			<text>Whenever you cast your first spell each turn, copy it. You may choose new targets for the copy.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/148.png" num="40">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Deva Form</name>
+			<text>At the beginning of your upkeep, put a deva counter on this enchantment, then add {G} for each deva counter on this enchantment. Until end of turn, you don&apos;t lose this mana as steps and phases end.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/149.png" num="124">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Guardian Construct</name>
+			<text>Haste
+Whenever you cast a colorless spell, add {R} and exile the top card of your library. You may play that card until the end of your next turn.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/150.png" num="104">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Construct Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Piercing Assassin Wyvern</name>
+			<text>Deathtouch
+During your turn, this creature has first strike strike.
+Whenever this creature deals combat damage to a player, they lose half their life, rounded up. You gain life equal to the life lost this way.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/151.png" num="81">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Octopus</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cannon Pokémon</name>
+			<text>Flying
+When this creature enters, create a 1/1 white Bird creature token with flying. When you do, this creature deals X damage to up to one target creature, where X is the number of creatures with flying you control.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/152.png" num="10">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Larva Pokémon</name>
+			<text>Replicate {2} (When you cast this spell, copy it for each time you paid its replicate cost.)
+{T}: Add {C}.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/153.png" num="133">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bee Fly Pokémon</name>
+			<text>Flying
+Other creatures you control with flying get +1/+0.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/154.png" num="9">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Small Fry Pokémon</name>
+			<text>Whenever you cast a noncreature spell, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{1}{U}, Exile any number of cards from your graveyard with four or more card types among them: Adapt 4. (If this creature has no +1/+1 counters on it, put four +1/+1 counters on it.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/155.png" num="53">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fish</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brutal Star Pokémon</name>
+			<text>Ward {1}
+Whenever you cast a noncreature spell, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/156.png" num="33">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Starfish</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloom Sickle Pokémon</name>
+			<text>Whenever this creature enters or attacks, exile up to one target card from a graveyard. If you exiled a land card from your graveyard this way, create a tapped token that&apos;s copy of it.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/157.png" num="121">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Toxic Lizard Pokémon</name>
+			<text>Whenever a source you control deals noncombat damage to a player, put a +1/+1 counter on this creature.
+Battalion — Whenever this creature and at least two other creatures attack, this creature deals 2 damage to any target and you gain 2 life.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/158.png" num="153">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Illuminating Pokémon</name>
+			<text>Whenever another creature you control enters, you gain 1 life.
+Whenever you gain life for the second time each turn, put a +1/+1 counter on this creature.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/159.png" num="14">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Strong Arm Pokémon</name>
+			<text>Creatures you control with no abilities get +1/+1.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/160.png" num="142">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bear</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sea Cucumber Pokémon</name>
+			<text>When this creature dies, it deals 4 damage to each creature and each player it dealt damage to this turn.
+{3}{R}: Sacrifice this creature.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/161.png" num="117">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Starfish</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Type: Null, the Synthetic</name>
+			<text>Mayhem {X} (You may cast this card from your graveyard for {X} if you discarded it this turn. Timing rules still apply.)
+Vigilance, trample
+Converge — Type: Null enters with a +1/+1 counter on it for each color of mana spent to cast it.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/162.png" num="4">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Disguise Pokémon</name>
+			<text>This creature enters with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+{1}: This creature becomes a copy of another target creature, except it still has this ability.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/163.png" num="38">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cosmog, the Nebula</name>
+			<text>Flying, vigilance
+{T}: Add {U} for each spell you&apos;ve cast this turn. You can&apos;t spend this mana to cast creature spells.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/164.png" num="36">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rotom, Living Plasma</name>
+			<text>Flying
+Equipped creature has flying and &quot;Whenever this creature attacks, double its power until end of turn.&quot;
+Reconfigure {4} ({4}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn&apos;t a creature.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/165.png" num="173">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Equipment</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Regent</name>
+			<text>Whenever you cast a noncreature spell, create a 1/1 colorless Minion creature token. If that spell is colorless, create two of those tokens instead.
+{1}, Sacrifice two Minions: Draw a card.
+{1}, Sacrifice four Minions: Copy target noncreature spell you control. You may choose new targets for the copy.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/166.png" num="151">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Fractal Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Void Form</name>
+			<text>When this enchantment enters, end the turn. (Exile all spells and abilities from the stack. The player whose turn it is discards down to their maximum hand size. Damage wears off, and &quot;this turn&quot; and &quot;until end of turn&quot; effects end.)
+You may pay {0} rather than pay the mana costs for the first and second spells you cast during each of your turns.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/167.png" num="57">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Know Thy Place</name>
+			<text>Target creature has base power and toughness 1/1 until end of turn.
+Cycling {B} ({B}, Discard this card: Draw a card.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/168.png" num="75">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hate. Hate.</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — You may pay any amount of life. When you do, target creature gets +X/+0 until end of turn, where X is the amount of life paid.
+II — You draw a card and lose 1 life.
+III — If your life total is less than your starting life total, draw cards equal to the difference.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/169.png" num="70">CCC</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kosmo, Cosmic Companion</name>
+			<text>Flash
+Whenever you cast a noncreature spell, you may exile Kosmo. When you do, exile up to one other target nonland permanent you control. Return both to the battlefield under your control at the beginning of the next end step.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/170.png" num="42">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Wolf Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rainbow Canyon</name>
+			<text>Imprint — When this land enters, you may exile a multicolored card from your hand.
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color. If a card is exiled with this land, add three mana in any combination of the exiled card&apos;s colors instead.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/171.png" num="178">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Guhnash, World Eater</name>
+			<text>Flying, trample
+When Guhnash enters, each opponent chooses six permanents they control, then sacrifices the rest.
+Whenever another permanent leaves the battlefield, put a +1/+1 counter on Guhnash.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/172.png" num="2">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Alien Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>8</manacost>
+				<cmc>8</cmc>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reanimate</name>
+			<text>Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to that card&apos;s mana value.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/173.png" num="82">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Genichiro Ashina // Lightning Bolt</name>
+			<text>When Genichiro Ashina dies, return him to the battlefield with a finality counter on him. He becomes prepared. (While he&apos;s prepared, you may cast a copy of his spell. Doing so unprepares him.)
+
+---
+
+Lightning Bolt deals 3 damage to any target.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/174.png" num="67">CCC</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Samurai // Instant</type>
+				<maintype>Creature</maintype>
+				<manacost>2B // R</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hirata Estate</name>
+			<text>({T}: Add {R} or {G}.)
+As Hirata Estate enters, you may behold two artifacts. If you don&apos;t, Hirata Estate enters tapped. (To behold an artifact, choose an artifact you control or reveal an artifact card from your hand.)</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/175.png" num="176">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Explore</name>
+			<text>You may play an additional land this turn.
+Draw a card.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/176.png" num="125">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Reaper Leviathan</name>
+			<text>If a creature an opponent controls would die, instead exile it and put a +1/+1 counter on this creature.
+{1}{G}, Discard this card: Target creature you control deals damage equal to its power to target creature an opponent controls. If the creature you don&apos;t control would die this turn, exile it instead.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/177.png" num="138">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien Leviathan</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ghost Leviathan</name>
+			<text>When you cast this spell, each opponent exiles a permanent they control that&apos;s one or more colors.
+Each spell that&apos;s one or more colors costs {1} more to cast for each of its colors.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/178.png" num="1">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien Leviathan</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Modular Technology</name>
+			<text>Whenever an artifact or creature you control leaves the battlefield, if it had counters on it, put those counters on this enchantment.
+At the beginning of combat on your turn, if this enchantment has counters on it, you may move any number of counters from this enchantment onto target creature or enchantment.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/CCC-files/img/179.png" num="135">CCC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

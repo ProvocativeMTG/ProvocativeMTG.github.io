@@ -706,7 +706,7 @@
             "artist": "Fedor Barkhatov",
             "alias": "",
             "position": "34",
-            "notes": ""
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "One-Engine Colossus",
@@ -1486,7 +1486,7 @@
             "artist": "Huu Ha",
             "alias": "",
             "position": "73",
-            "notes": ""
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Bitter Vengeance",
@@ -1566,7 +1566,7 @@
             "artist": "Fioruccio Cascino",
             "alias": "",
             "position": "77",
-            "notes": ""
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Master of Ravens",
@@ -1596,7 +1596,7 @@
             "number": 128,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Inspirit {R} [i]({R}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)[/i]\nWhenever this creature attacks, it deals 1 damage to each opponent.",
+            "rules_text": "Inspirit {1}{R} [i]({1}{R}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)[/i]\nWhenever this creature attacks, it deals 1 damage to each opponent.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2186,7 +2186,7 @@
             "artist": "XROZZAM",
             "alias": "",
             "position": "108",
-            "notes": ""
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Majestic Phoenix",
@@ -2595,7 +2595,7 @@
             "type": "Instant",
             "number": 2,
             "color_identity": "C",
-            "cost": "{4}",
+            "cost": "{5}",
             "rules_text": "Choose two \u2014\n\u2022 Counter target activated or triggered ability.\n\u2022 Manifest the top card of target player's library. [i](Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]\n\u2022 Target player adds {C}{C}{C}.\n\u2022 Ugin's Command deals 3 damage to any target.",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -2696,7 +2696,7 @@
             "number": 16,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
-            "rules_text": "Creature tokens you control get +1/+1.\nWhenever one or more creatures you control become tapped, scry 1.",
+            "rules_text": "Creature tokens you control get +1/+1.\nWhenever one or more creatures you control become tapped, scry 1. This ability triggers only once each turn.",
             "flavor_text": "[i]The quiet strum of the strings were a comfort. A lilting melody from home in a strange land.[/i]",
             "pt": "",
             "special_text": "",
@@ -3195,7 +3195,7 @@
             "type": "Creature \u2014 Human Samurai",
             "number": 32,
             "color_identity": "W",
-            "cost": "{2}{W}{W}",
+            "cost": "{3}{W}{W}",
             "rules_text": "When this creature dies, you may search your library for a planeswalker card, put it onto the battlefield, then shuffle.\nPersevere {3}{W}{W} [i](You may cast a copy of this card from your graveyard by exiling it and paying the persevere cost. If you do, it can't block. When it attacks, sacrifice it at end of combat.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
@@ -3436,7 +3436,7 @@
             "number": 207,
             "color_identity": "BR",
             "cost": "{3}{B}{R}",
-            "rules_text": "Whenever you discard a creature card, you may exile it from your graveyard.\nWhenever Minori attacks, you may put a creature card exiled with Minori onto the battlefield tapped and attacking. All damage that would be dealt to Minori this turn is dealt to that creature instead. Sacrifice it at the beginning of the next end step.",
+            "rules_text": "Whenever you discard a creature card, you may exile it from your graveyard.\nWhenever Minori attacks, you may put a creature card exiled with Minori onto the battlefield tapped and attacking. All damage that would be dealt to Minori this turn is dealt to that creature instead. Sacrifice that token at the beginning of the next end step.",
             "flavor_text": "[i][/i]",
             "pt": "4/2",
             "special_text": "",
@@ -3596,7 +3596,7 @@
             "number": 88,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "This spell costs {3} less to cast if it targets a creature with no name. [i](Face down creatures have no name.)[/i]\nDestroy target creature. It's controller loses 2 life.",
+            "rules_text": "This spell costs {3} less to cast if it targets a creature with no name. [i](Face down creatures have no name.)[/i]\nDestroy target creature. Its controller loses 2 life.",
             "flavor_text": "[i]The endless faceless warriors were little match for Reo's skill.[/i]",
             "pt": "",
             "special_text": "",
@@ -4129,14 +4129,14 @@
             "notes": ""
         },
         {
-            "card_name": "Ritual of Returning",
+            "card_name": "Ritual of Resurrection",
             "color": "WB",
             "rarity": "common",
             "type": "Sorcery",
             "number": 215,
             "color_identity": "WB",
             "cost": "{3}{W}{B}",
-            "rules_text": "This spell costs {1} less to cast if you control an artifact and {1} less to cast if you control an enchantment.\nReturn target artifact, creature, or enchantment card from your graveyard to the battlefield.",
+            "rules_text": "This spell costs {1} less to cast if you control an artifact and {1} less to cast if you control an enchantment.\nReturn target creature card from your graveyard to the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4436,7 +4436,7 @@
             "number": 141,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
-            "rules_text": "Trample\nWhen this creature enters, search your library for up to three Gate cards, put them onto the battlefield tapped, then shuffle.",
+            "rules_text": "Trample\nWhenever this creature enters or attacks, search your library for a Gate card, put it onto the battlefield tapped, then shuffle.",
             "flavor_text": "[i]\u201cGreetings, o great seishin! Is it not a fine morning?\u201d\n\u2014Shiori, kitsune[/i]",
             "pt": "6/6",
             "special_text": "",
@@ -4796,7 +4796,7 @@
             "number": 175,
             "color_identity": "UG",
             "cost": "{G}{G}{U}{U}",
-            "rules_text": "Return target spell or nonland permanent to its owner's hand. Create X Lotus Petal tokens, where X is that spell or permanent's mana value. [i](They're each a {0} artifact with \u201c{T}, Sacrifice Lotus Petal: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "Return target spell or nonland permanent to its owner's hand. Create X Lotus Petal tokens, where X is that spell or permanent's mana value. [i](They're {0} artifacts with \u201c{T}, Sacrifice Lotus Petal: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i]\u201cSuch a creature serves no purpose other than to adorn my father's throne room.\u201d\n\u2014Kazuko, Lord of Chaos[/i]",
             "pt": "",
             "special_text": "",
@@ -5886,7 +5886,7 @@
             "artist": "thepraniish",
             "alias": "",
             "position": "293",
-            "notes": ""
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Tiger Koi",
@@ -6489,5 +6489,5 @@
             "notes": ""
         }
     ],
-    "version": 16
+    "version": 17
 }

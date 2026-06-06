@@ -1,4 +1,56 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+Ritual of Resurrection added.
+
+Ritual of Returning removed.
+
+The Inkstone
+
+Studies in Spirits and Steel
+
+Ugin, Ghostflame Scholar
+
+Shiori's Augur
+rules_text: Inspirit {R} [i]({R}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)[/i]
+Whenever this creature attacks, it deals 1 damage to each opponent. => Inspirit {1}{R} [i]({1}{R}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)[/i]
+Whenever this creature attacks, it deals 1 damage to each opponent.
+
+Kage, Soul Clad in Steel
+
+Ugin's Command
+cost: {4} => {5}
+
+Koto's Anthem
+rules_text: Creature tokens you control get +1/+1.
+Whenever one or more creatures you control become tapped, scry 1. => Creature tokens you control get +1/+1.
+Whenever one or more creatures you control become tapped, scry 1. This ability triggers only once each turn.
+
+Wandering Echo
+cost: {2}{W}{W} => {3}{W}{W}
+
+Minori, the Puppeteer
+rules_text: Whenever you discard a creature card, you may exile it from your graveyard.
+Whenever Minori attacks, you may put a creature card exiled with Minori onto the battlefield tapped and attacking. All damage that would be dealt to Minori this turn is dealt to that creature instead. Sacrifice it at the beginning of the next end step. => Whenever you discard a creature card, you may exile it from your graveyard.
+Whenever Minori attacks, you may put a creature card exiled with Minori onto the battlefield tapped and attacking. All damage that would be dealt to Minori this turn is dealt to that creature instead. Sacrifice that token at the beginning of the next end step.
+
+Mow Down
+rules_text: This spell costs {3} less to cast if it targets a creature with no name. [i](Face down creatures have no name.)[/i]
+Destroy target creature. It's controller loses 2 life. => This spell costs {3} less to cast if it targets a creature with no name. [i](Face down creatures have no name.)[/i]
+Destroy target creature. Its controller loses 2 life.
+
+Colossal Seishin
+rules_text: Trample
+When this creature enters, search your library for up to three Gate cards, put them onto the battlefield tapped, then shuffle. => Trample
+Whenever this creature enters or attacks, search your library for a Gate card, put it onto the battlefield tapped, then shuffle.
+
+Bind in Jade
+rules_text: Return target spell or nonland permanent to its owner's hand. Create X Lotus Petal tokens, where X is that spell or permanent's mana value. [i](They're each a {0} artifact with “{T}, Sacrifice Lotus Petal: Add one mana of any color.”)[/i] => Return target spell or nonland permanent to its owner's hand. Create X Lotus Petal tokens, where X is that spell or permanent's mana value. [i](They're {0} artifacts with “{T}, Sacrifice Lotus Petal: Add one mana of any color.”)[/i]
+
+Destiny of Ash and Flame
+
+
+VERSION 16 CHANGELOG
 ====================
 
 

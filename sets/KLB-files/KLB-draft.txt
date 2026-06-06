@@ -1293,7 +1293,7 @@
 		{
 			"name": "Ugin's Command",
 			"rarity": "rare",
-			"mana_cost": "{4}",
+			"mana_cost": "{5}",
 			"type": "Instant",
 			"collector_number": "2",
 			"image_uris": {
@@ -1593,7 +1593,7 @@
 		{
 			"name": "Wandering Echo",
 			"rarity": "mythic",
-			"mana_cost": "{2}{W}{W}",
+			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Human Samurai",
 			"collector_number": "32",
 			"image_uris": {
@@ -2061,7 +2061,7 @@
 			}
 		},
 		{
-			"name": "Ritual of Returning",
+			"name": "Ritual of Resurrection",
 			"rarity": "common",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Sorcery",
@@ -3533,7 +3533,7 @@
 	8 Spirit Realm Trawler
 	8 Realm Devouring
 	8 Backline Deadeye
-	8 Ritual of Returning
+	8 Ritual of Resurrection
 	8 Immortal Warlord
 	8 Aquatic Ambusher
 	8 Rushing Blood
@@ -3630,7 +3630,7 @@
 	8 Spirit Realm Trawler
 	8 Realm Devouring
 	8 Backline Deadeye
-	8 Ritual of Returning
+	8 Ritual of Resurrection
 	8 Immortal Warlord
 	8 Aquatic Ambusher
 	8 Rushing Blood
@@ -3837,7 +3837,7 @@
 	12 Spirit Realm Trawler
 	12 Realm Devouring
 	12 Backline Deadeye
-	12 Ritual of Returning
+	12 Ritual of Resurrection
 	12 Immortal Warlord
 	6 Macabre Collector
 	6 Condemned Souleater
@@ -4133,7 +4133,7 @@
 	6 Spirit Realm Trawler
 	6 Realm Devouring
 	6 Backline Deadeye
-	6 Ritual of Returning
+	6 Ritual of Resurrection
 	6 Immortal Warlord
 	15 Macabre Collector
 	15 Condemned Souleater

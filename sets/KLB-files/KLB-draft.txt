@@ -644,7 +644,7 @@
 			"name": "Confluence of Paths",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Gate",
+			"type": "Land",
 			"collector_number": "283",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/KLB-files/img/64.png"
@@ -663,7 +663,7 @@
 		{
 			"name": "Torii-Bound Koi",
 			"rarity": "rare",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{3}{B}",
 			"type": "Creature — Fish",
 			"collector_number": "98",
 			"image_uris": {
@@ -723,7 +723,7 @@
 		{
 			"name": "Risen Realmway",
 			"rarity": "mythic",
-			"mana_cost": "{6}{G}{G}",
+			"mana_cost": "{8}{G}{G}",
 			"type": "Artifact Creature — Golem",
 			"collector_number": "156",
 			"image_uris": {
@@ -2591,7 +2591,7 @@
 			}
 		},
 		{
-			"name": "Dragonmaw Gate",
+			"name": "Fang-Maw Gate",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Gate",
@@ -2623,7 +2623,7 @@
 		{
 			"name": "Kei, Who Still Stands",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}{B}",
+			"mana_cost": "{3}{W}{B}",
 			"type": "Legendary Creature — Human Samurai",
 			"collector_number": "199",
 			"image_uris": {
@@ -3421,7 +3421,7 @@
 	4 Accursed Gate
 	4 Hewn Gate
 	4 Oni-Engine Forge
-	4 Dragonmaw Gate
+	4 Fang-Maw Gate
 	4 Turncoat Ruiner
 	4 Runecut Ronin
 	4 Spiralhorn Winder
@@ -3884,7 +3884,7 @@
 	6 Hewn Gate
 	2 Lotus Pools
 	6 Oni-Engine Forge
-	6 Dragonmaw Gate
+	6 Fang-Maw Gate
 	6 Turncoat Ruiner
 	6 Runecut Ronin
 	2 Kei, Who Still Stands
@@ -4180,7 +4180,7 @@
 	15 Hewn Gate
 	7 Lotus Pools
 	15 Oni-Engine Forge
-	15 Dragonmaw Gate
+	15 Fang-Maw Gate
 	15 Turncoat Ruiner
 	15 Runecut Ronin
 	7 Kei, Who Still Stands

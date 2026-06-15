@@ -1,4 +1,101 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+Fang-Maw Gate added.
+
+Dragonmaw Gate removed.
+
+Tea Leaf Whelp
+rules_text: Flying, deathtouch
+When this creature enters, draw a card. => As this creature enters, choose flying or deathtouch. This creature enters with a counter of the chosen type.
+When this creature enters, draw a card.
+
+Aoushun, Brought Back
+rules_text: Flying
+Whenever Aoushun enters or attacks, return target creature card with mana value less than Aoushun's power from your graveyard to the battlefield.
+Whenever a creature you control enters, if it entered from a graveyard or was cast from a graveyard, that creature deals damage equal to its power to any target. => Flying
+Whenever Aoushun enters, return target creature card with mana value less than Aoushun's power from your graveyard to the battlefield.
+Whenever a creature you control enters, if it entered from a graveyard or was cast from a graveyard, that creature deals damage equal to its power to any target.
+
+Cartographer's Edict
+rules_text: As an additional cost to cast this spell, sacrifice a permanent.
+Search your library for up to two basic land and/or Gate cards, put them onto the battlefield tapped, then shuffle. => As an additional cost to cast this spell, sacrifice a creature or land.
+Search your library for up to two basic land and/or Gate cards, put them onto the battlefield tapped, then shuffle.
+
+Kaibyo Shrine Maidens
+rules_text: As this creature enters, look at an opponent's hand, then choose mourning, oblation, or prayer.
+• Mourning — Players can't discard cards to cast spells or activate abilities.
+• Oblation — Players can't sacrifice nonland permanents to cast spells or activate abilities.
+• Prayer — Players can't pay life to cast spells or activate abilities. => As this creature enters, choose mourning, oblation, or prayer.
+• Mourning — Players can't discard cards to cast spells or activate abilities.
+• Oblation — Players can't sacrifice nonland permanents to cast spells or activate abilities.
+• Prayer — Players can't pay life to cast spells or activate abilities.
+pt: 2/2 => 2/3
+
+Dragoneye Crackshot
+rules_text: Menace
+Whenever this creature attacks, reveal the top card of your library and put it into your hand. You lose life equal to its mana value.
+Persevere {B} [i](You may cast a copy of this card from your graveyard by exiling it and paying the persevere cost. If you do, it can't block. When it attacks, sacrifice it at end of combat.)[/i] => Menace
+Whenever this creature attacks, reveal the top card of your library and put it into your hand. You lose life equal to its mana value.
+Persevere {2}{B} [i](You may cast a copy of this card from your graveyard by exiling it and paying the persevere cost. If you do, it can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Confluence of Paths
+type: Land — Gate => Land
+
+Predestined Path
+rules_text: When this enchantment enters, search your library for a Gate card, reveal it, put it into your hand, then shuffle.
+{W}{U}{B}{R}{G}, Sacrifice this enchantment: Creatures you control get +X/+X until end of turn, where X is the number of Gates you control. Activate only as a sorcery. => When this enchantment enters, search your library for a Gate card, reveal it, put it into your hand, then shuffle.
+{W}{U}{B}{R}{G}, Sacrifice this enchantment: Creatures you control get +2/+2 until end of turn. Activate only as a sorcery.
+
+Torii-Bound Koi
+cost: {2}{B} => {3}{B}
+rules_text: Flying
+Whenever a land you control enters, reveal the top card of your library and put it into your hand. You lose life equal to that card's mana value unless a Gate entered under your control this turn. => Flying, deathtouch, lifelink
+Whenever a Gate you control enters, you draw a card and lose 1 life.
+
+Risen Realmway
+cost: {6}{G}{G} => {8}{G}{G}
+
+Haruki, Ofuda Duelist
+rules_text: Sneak {U} [i](You may cast this spell for {U} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)[/i]
+When Haruki enters, create a colorless artifact token named Ofuda with “{2}, {T}: Draw a card.”
+Whenever Haruki deals combat damage to a player, untap target permanent. => Sneak {1}{U} [i](You may cast this spell for {1}{U} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)[/i]
+When Haruki enters, create a colorless artifact token named Ofuda with “{2}, {T}: Draw a card.”
+Whenever Haruki deals combat damage to a player, untap target permanent.
+
+Jadescale Viper
+rules_text: Inspirit {2}{G} [i]({2}{G}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)[/i]
+Whenever this creature attacks, add X {G}, where X is this creature's power. Until end of turn, you don't lose this mana as steps and phases end. => Inspirit {4}{G} [i]({4}{G}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn. Activate only as a sorcery and only once.)[/i]
+Whenever this creature attacks, add X {G}, where X is this creature's power. Until end of turn, you don't lose this mana as steps and phases end.
+
+Path of Flame
+rules_text: At the beginning of combat on your turn, discard a card, then draw a card.
+Exhaust — {R}, Exile twelve cards from your graveyard: This enchantment gains “At the beginning of your end step, choose a random noncreature, nonland card exiled with this enchantment. You may cast it without paying its mana cost.” => At the beginning of combat on your turn, you may discard a card. If you do, draw a card.
+Exhaust — {R}, Exile twelve cards from your graveyard: This enchantment gains “At the beginning of your end step, choose a random noncreature, nonland card exiled with this enchantment. You may cast it without paying its mana cost.”
+
+Kei, Who Still Stands
+cost: {2}{W}{B} => {3}{W}{B}
+
+Legions Upon Legions
+rules_text: Enchant creature
+When this Aura enters, exile up to one target nonland permanent an opponent controls until this Aura leaves the battlefield.
+Enchanted creature gets +1/+1 for each artifact and/or enchantment you control. => Enchant creature
+Enchanted creature gets +1/+1 for each artifact and/or enchantment you control.
+When enchanted creature dies, return it to its owner's hand and create a Clue token. [i](It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Shadow-Haunted Captain
+rules_text: When this creature enters, if it entered from your graveyard or you cast it from your graveyard, create a 4/4 black Shade creature token with “This token can't block.”
+Persevere {4}{B} [i](You may cast a copy of this card from your graveyard by exiling it and paying the persevere cost. If you do, it can't block. When it attacks, sacrifice it at end of combat.)[/i] => When this creature enters, if it entered from your graveyard or you cast it from your graveyard, create a 4/4 black Shade creature token with “This token can't block.”
+Persevere {5}{B} [i](You may cast a copy of this card from your graveyard by exiling it and paying the persevere cost. If you do, it can't block. When it attacks, sacrifice it at end of combat.)[/i]
+pt: 3/2 => 3/1
+
+Warden of Kaibyo
+rules_text: When this creature enters, search your library for a Gate card, reveal it, put it into your hand, then shuffle.
+{T}: Target Gate you control becomes an X/X Spirit creature with haste until end of turn, where X is the number of Gates you control. It's still a land. Activate only as a sorcery. => When this creature enters, search your library for a Gate card, reveal it, put it into your hand, then shuffle.
+{2}, {T}: Target Gate you control becomes an X/X Spirit creature with haste until end of turn, where X is the number of Gates you control. It's still a land. Activate only as a sorcery.
+
+
+VERSION 17 CHANGELOG
 ====================
 
 Ritual of Resurrection added.

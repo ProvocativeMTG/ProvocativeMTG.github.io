@@ -95,7 +95,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "189",
+			"collector_number": "190",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/9.png"
 			}
@@ -325,7 +325,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Legendary Creature — Dragon",
-			"collector_number": "210",
+			"collector_number": "209",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/32.png"
 			}
@@ -595,7 +595,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Creature — God Shaman",
-			"collector_number": "228",
+			"collector_number": "227",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/52.png"
 			}
@@ -685,7 +685,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Knight",
-			"collector_number": "185",
+			"collector_number": "186",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/61.png"
 			}
@@ -785,7 +785,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{R}",
 			"type": "Legendary Creature — Wolf Knight",
-			"collector_number": "211",
+			"collector_number": "210",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/71.png"
 			}
@@ -885,7 +885,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Creature — Human Cleric",
-			"collector_number": "220",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/81.png"
 			}
@@ -895,7 +895,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "219",
+			"collector_number": "218",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/82.png"
 			}
@@ -905,7 +905,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Legendary Creature — Mutant Human",
-			"collector_number": "242",
+			"collector_number": "241",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/83.png"
 			}
@@ -915,7 +915,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Legendary Creature — Mutant Rogue",
-			"collector_number": "223",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/84.png"
 			}
@@ -1035,7 +1035,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Homunculus Warrior",
-			"collector_number": "214",
+			"collector_number": "213",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/96.png"
 			}
@@ -1045,7 +1045,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Creature — Human Beast Knight",
-			"collector_number": "215",
+			"collector_number": "214",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/97.png"
 			}
@@ -1215,7 +1215,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}",
 			"type": "Creature — Human Knight",
-			"collector_number": "212",
+			"collector_number": "211",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/114.png"
 			}
@@ -1395,7 +1395,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}{B}",
 			"type": "Legendary Creature — Demigod",
-			"collector_number": "239",
+			"collector_number": "238",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/132.png"
 			}
@@ -1451,11 +1451,11 @@
 			}
 		},
 		{
-			"name": "Capital Perfumer",
+			"name": "Ancestral Follower",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Human Cleric",
-			"collector_number": "171",
+			"type": "Creature — Giant Cleric",
+			"collector_number": "168",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/138.png"
 			}
@@ -1495,7 +1495,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Mutant Warrior",
-			"collector_number": "186",
+			"collector_number": "187",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/142.png"
 			}
@@ -1571,21 +1571,21 @@
 			}
 		},
 		{
-			"name": "New Life from Death",
+			"name": "Duskborn's Presence",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "193",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/150.png"
 			}
 		},
 		{
-			"name": "Radahn's Might",
+			"name": "Groundswell",
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "195",
+			"collector_number": "185",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/151.png"
 			}
@@ -1595,7 +1595,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Enchantment — Rune Aura",
-			"collector_number": "194",
+			"collector_number": "195",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/152.png"
 			}
@@ -1645,7 +1645,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{R}",
 			"type": "Legendary Creature — Demigod",
-			"collector_number": "248",
+			"collector_number": "247",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/157.png"
 			}
@@ -1675,7 +1675,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Human Cleric",
-			"collector_number": "224",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/160.png"
 			}
@@ -1685,7 +1685,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Turtle Cleric",
-			"collector_number": "190",
+			"collector_number": "191",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/161.png"
 			}
@@ -1725,7 +1725,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{B}{R}",
 			"type": "Legendary Creature — Elder Dragon",
-			"collector_number": "217",
+			"collector_number": "216",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/165.png"
 			}
@@ -1785,7 +1785,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — God",
-			"collector_number": "230",
+			"collector_number": "229",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/171.png"
 			}
@@ -1865,7 +1865,7 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{U}{R}",
 			"type": "Instant",
-			"collector_number": "213",
+			"collector_number": "212",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/179.png"
 			}
@@ -1875,7 +1875,7 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{U}{B}",
 			"type": "Legendary Creature — Finger Horror",
-			"collector_number": "229",
+			"collector_number": "228",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/180.png"
 			}
@@ -1885,7 +1885,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Creature — Insect Cleric",
-			"collector_number": "243",
+			"collector_number": "242",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/181.png"
 			}
@@ -1963,7 +1963,7 @@
 		{
 			"name": "Melina's Sacrifice",
 			"rarity": "mythic",
-			"mana_cost": "{4}{R}{R}{R}",
+			"mana_cost": "{3}{R}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "146",
 			"image_uris": {
@@ -2075,7 +2075,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "226",
+			"collector_number": "225",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/200.png"
 			}
@@ -2085,7 +2085,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "192",
+			"collector_number": "193",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/201.png"
 			}
@@ -2105,7 +2105,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Creature — God",
-			"collector_number": "236",
+			"collector_number": "235",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/203.png"
 			}
@@ -2143,7 +2143,7 @@
 		{
 			"name": "Needle Knight Leda",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human Knight",
 			"collector_number": "26",
 			"image_uris": {
@@ -2185,7 +2185,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Creature — Homunculus Knight",
-			"collector_number": "227",
+			"collector_number": "226",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/211.png"
 			}
@@ -2195,7 +2195,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Sorcery",
-			"collector_number": "246",
+			"collector_number": "245",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/212.png"
 			}
@@ -2215,7 +2215,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "Legendary Creature — Human Wizard Knight",
-			"collector_number": "241",
+			"collector_number": "240",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/214.png"
 			}
@@ -2245,7 +2245,7 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}{U}",
 			"type": "Legendary Creature — Demigod",
-			"collector_number": "247",
+			"collector_number": "246",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/217.png"
 			}
@@ -2285,7 +2285,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{W}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "231",
+			"collector_number": "230",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/221.png"
 			}
@@ -2295,7 +2295,7 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "168",
+			"collector_number": "169",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/222.png"
 			}
@@ -2305,7 +2305,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "209",
+			"collector_number": "208",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/223.png"
 			}
@@ -2325,7 +2325,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Creature — Skeleton Spirit Knight",
-			"collector_number": "235",
+			"collector_number": "234",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/225.png"
 			}
@@ -2345,7 +2345,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{U}{B}{R}{G}",
 			"type": "Legendary Creature — Beast God",
-			"collector_number": "218",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/227.png"
 			}
@@ -2395,7 +2395,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "170",
+			"collector_number": "171",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/232.png"
 			}
@@ -2415,7 +2415,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{U}",
 			"type": "Sorcery",
-			"collector_number": "238",
+			"collector_number": "237",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/234.png"
 			}
@@ -2475,7 +2475,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{R}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "245",
+			"collector_number": "244",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/240.png"
 			}
@@ -2535,7 +2535,7 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Creature — Mutant Cleric",
-			"collector_number": "187",
+			"collector_number": "188",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/246.png"
 			}
@@ -2555,7 +2555,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Enchantment",
-			"collector_number": "225",
+			"collector_number": "224",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/248.png"
 			}
@@ -2565,7 +2565,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Horror Cleric",
-			"collector_number": "222",
+			"collector_number": "221",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/249.png"
 			}
@@ -2585,7 +2585,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{R}{W}",
 			"type": "Enchantment",
-			"collector_number": "237",
+			"collector_number": "236",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/251.png"
 			}
@@ -2615,7 +2615,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Mutant Demigod",
-			"collector_number": "233",
+			"collector_number": "232",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/254.png"
 			}
@@ -2635,7 +2635,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Insect Cleric",
-			"collector_number": "188",
+			"collector_number": "189",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/256.png"
 			}
@@ -2653,7 +2653,7 @@
 		{
 			"name": "Giant-Crusher",
 			"rarity": "uncommon",
-			"mana_cost": "{6}",
+			"mana_cost": "{4}",
 			"type": "Artifact — Equipment",
 			"collector_number": "274",
 			"image_uris": {
@@ -2745,7 +2745,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Instant",
-			"collector_number": "221",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/267.png"
 			}
@@ -2755,7 +2755,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "232",
+			"collector_number": "231",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/268.png"
 			}
@@ -2765,7 +2765,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Mutant Warrior",
-			"collector_number": "191",
+			"collector_number": "192",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/269.png"
 			}
@@ -2775,7 +2775,7 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "216",
+			"collector_number": "215",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/270.png"
 			}
@@ -2805,7 +2805,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Enchantment",
-			"collector_number": "240",
+			"collector_number": "239",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/273.png"
 			}
@@ -2845,7 +2845,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Legendary Creature — Finger Horror",
-			"collector_number": "249",
+			"collector_number": "248",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/277.png"
 			}
@@ -2875,17 +2875,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
-			"collector_number": "169",
+			"collector_number": "170",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/280.png"
 			}
 		},
 		{
-			"name": "Duskborn's Presence",
+			"name": "New Life from Death",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
-			"collector_number": "175",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/281.png"
 			}
@@ -2935,7 +2935,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{U}",
 			"type": "Sorcery",
-			"collector_number": "234",
+			"collector_number": "233",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/286.png"
 			}
@@ -2955,7 +2955,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Instant",
-			"collector_number": "244",
+			"collector_number": "243",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/288.png"
 			}
@@ -2971,11 +2971,11 @@
 			}
 		},
 		{
-			"name": "Banish to the Sewers",
+			"name": "Unloved and Unwanted",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "208",
+			"collector_number": "249",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/290.png"
 			}
@@ -3003,7 +3003,7 @@
 		{
 			"name": "Challenge of the Ring",
 			"rarity": "mythic",
-			"mana_cost": "{4}{G}{G}",
+			"mana_cost": "{3}{G}{G}",
 			"type": "Enchantment",
 			"collector_number": "172",
 			"image_uris": {
@@ -3586,7 +3586,7 @@
 	4 Lady Tanith
 	4 Swordhand of Night
 	4 Behold the Jagged Peak
-	4 Duskborn's Presence
+	4 New Life from Death
 	4 Rogier's Talent
 	4 Fleeting Microcosm
 	4 Ranni's Scheme
@@ -3595,7 +3595,7 @@
 	4 Miquella's Sacrifice
 	4 Sealing the Rune of Death
 	4 Valkyrie's Prosthetic
-	4 Banish to the Sewers
+	4 Unloved and Unwanted
 	4 Weave the Scarlet Rot
 	4 Forge of the Giants
 	4 Foot of the Erdtree
@@ -3686,7 +3686,7 @@
 	8 Loretta's Greatbow
 	8 Hallowhorn Communion
 	8 Albinauric Archer
-	8 Capital Perfumer
+	8 Ancestral Follower
 	8 Albinauric Duo
 	8 Forager Brood
 	8 Grafted Scion
@@ -3694,8 +3694,8 @@
 	8 Wandering Merchant
 	8 Wormface
 	8 Scadutree's Thorns
-	8 New Life from Death
-	8 Radahn's Might
+	8 Duskborn's Presence
+	8 Groundswell
 	8 Power of the Dragonkin
 	8 Claymore
 	8 Table of Lost Grace
@@ -3780,7 +3780,7 @@
 	8 Loretta's Greatbow
 	8 Hallowhorn Communion
 	8 Albinauric Archer
-	8 Capital Perfumer
+	8 Ancestral Follower
 	8 Albinauric Duo
 	8 Forager Brood
 	8 Grafted Scion
@@ -3788,8 +3788,8 @@
 	8 Wandering Merchant
 	8 Wormface
 	8 Scadutree's Thorns
-	8 New Life from Death
-	8 Radahn's Might
+	8 Duskborn's Presence
+	8 Groundswell
 	8 Power of the Dragonkin
 	8 Claymore
 	8 Table of Lost Grace
@@ -3934,7 +3934,7 @@
 	12 Hallowhorn Communion
 	2 Carian Knight
 	12 Albinauric Archer
-	12 Capital Perfumer
+	12 Ancestral Follower
 	12 Albinauric Duo
 	12 Forager Brood
 	12 Grafted Scion
@@ -3946,8 +3946,8 @@
 	2 Walking Mausoleum
 	12 Wormface
 	12 Scadutree's Thorns
-	12 New Life from Death
-	12 Radahn's Might
+	12 Duskborn's Presence
+	12 Groundswell
 	12 Power of the Dragonkin
 	2 Profound Holiness
 	12 Claymore
@@ -4075,7 +4075,7 @@
 	6 Lady Tanith
 	6 Swordhand of Night
 	6 Behold the Jagged Peak
-	6 Duskborn's Presence
+	6 New Life from Death
 	6 Rogier's Talent
 	6 Fleeting Microcosm
 	6 Ranni's Scheme
@@ -4084,7 +4084,7 @@
 	6 Miquella's Sacrifice
 	6 Sealing the Rune of Death
 	6 Valkyrie's Prosthetic
-	6 Banish to the Sewers
+	6 Unloved and Unwanted
 	6 Weave the Scarlet Rot
 	1 Rennala's Amber Egg
 	1 Challenge of the Ring
@@ -4241,7 +4241,7 @@
 	6 Hallowhorn Communion
 	7 Carian Knight
 	6 Albinauric Archer
-	6 Capital Perfumer
+	6 Ancestral Follower
 	6 Albinauric Duo
 	6 Forager Brood
 	6 Grafted Scion
@@ -4253,8 +4253,8 @@
 	7 Walking Mausoleum
 	6 Wormface
 	6 Scadutree's Thorns
-	6 New Life from Death
-	6 Radahn's Might
+	6 Duskborn's Presence
+	6 Groundswell
 	6 Power of the Dragonkin
 	7 Profound Holiness
 	6 Claymore
@@ -4382,7 +4382,7 @@
 	15 Lady Tanith
 	15 Swordhand of Night
 	15 Behold the Jagged Peak
-	15 Duskborn's Presence
+	15 New Life from Death
 	15 Rogier's Talent
 	15 Fleeting Microcosm
 	15 Ranni's Scheme
@@ -4391,7 +4391,7 @@
 	15 Miquella's Sacrifice
 	15 Sealing the Rune of Death
 	15 Valkyrie's Prosthetic
-	15 Banish to the Sewers
+	15 Unloved and Unwanted
 	15 Weave the Scarlet Rot
 	4 Rennala's Amber Egg
 	4 Challenge of the Ring

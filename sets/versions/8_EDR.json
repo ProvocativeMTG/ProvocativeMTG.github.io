@@ -1,10 +1,9 @@
 ﻿{
     "name": "Elden Ring",
     "formats": "",
-    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "play booster",
-    "unpreviewed": "empty",
+    "unpreviewed": "card back",
     "image_name": "position",
     "v_mana": "",
     "cards": [
@@ -26,6 +25,7 @@
             "artist": "the_strawhatguy",
             "alias": "",
             "position": "0",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -46,6 +46,7 @@
             "artist": "C dm",
             "alias": "",
             "position": "1",
+            "rotated": false,
             "notes": "change"
         },
         {
@@ -66,6 +67,7 @@
             "artist": "mathorart",
             "alias": "",
             "position": "2",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -86,6 +88,7 @@
             "artist": "la bo chu shi",
             "alias": "",
             "position": "3",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -106,6 +109,7 @@
             "artist": "maddoze",
             "alias": "",
             "position": "4",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -126,6 +130,7 @@
             "artist": "jelly shirayuki",
             "alias": "",
             "position": "5",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -146,6 +151,7 @@
             "artist": "Alexandru Munteanu",
             "alias": "",
             "position": "6",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -166,6 +172,7 @@
             "artist": "ABIBIBIBIBIBIABIGAIL",
             "alias": "",
             "position": "7",
+            "rotated": false,
             "notes": "Removal"
         },
         {
@@ -186,6 +193,7 @@
             "artist": "John Devlin",
             "alias": "",
             "position": "8",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -193,7 +201,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Enchantment \u2014 Saga",
-            "number": 189,
+            "number": 190,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nI, II \u2014 Put a +1/+1 counter on target creature you control.\nIII \u2014 Put a +1/+1 counter on each creature you control with a counter on it.\n\u200b",
@@ -206,6 +214,7 @@
             "artist": "Glamorous Unwellness",
             "alias": "",
             "position": "9",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -226,6 +235,7 @@
             "artist": "Groomgrimm",
             "alias": "",
             "position": "10",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -246,6 +256,7 @@
             "artist": "nise",
             "alias": "",
             "position": "11",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -266,6 +277,7 @@
             "artist": "Dip Lakhar",
             "alias": "",
             "position": "12",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -276,16 +288,17 @@
             "number": 111,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "Whenever a creature dies for the first time each turn, Patches connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a loyalty counter on Patches.)[/i]\n[+1]: Create a 2/1 black Skeleton creature token.\n[-3]: Destroy target creature if it has mana value 3 or less or if a permanent you controlled left the battlefield this turn.\n[-10]: You get an emblem with \u201cWhenever a creature you don't control dies, return it to the battlefield under your control.\u201d",
+            "rules_text": "Whenever a creature dies for the first time each turn, Patches connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a loyalty counter on Patches.)[/i]\n[0]: Create a 2/1 black Skeleton creature token.\n[-2]: Destroy target creature if it has mana value 2 or less or if a permanent you controlled left the battlefield this turn.\n[-7]: You get an emblem with \u201cWhenever a creature you don't control dies, return it to the battlefield under your control.\u201d",
             "flavor_text": "[i]Create a 1/1 black Skeleton creature token.[/i]",
             "pt": "",
-            "special_text": "Whenever a creature dies for the first time each turn, Patches connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a loyalty counter on Patches.)[/i]\n[+1]: Create a 2/1 black Skeleton creature token.\n[-3]: Destroy target creature if it has mana value 3 or less or if a permanent you controlled left the battlefield this turn.\n[-10]: You get an emblem with \u201cWhenever a creature you don't control dies, return it to the battlefield under your control.\u201d",
+            "special_text": "Whenever a creature dies for the first time each turn, Patches connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a loyalty counter on Patches.)[/i]\n[0]: Create a 2/1 black Skeleton creature token.\n[-2]: Destroy target creature if it has mana value 2 or less or if a permanent you controlled left the battlefield this turn.\n[-7]: You get an emblem with \u201cWhenever a creature you don't control dies, return it to the battlefield under your control.\u201d",
             "shape": "planeswalker",
             "set": "EDR",
-            "loyalty": "4",
+            "loyalty": "3",
             "artist": "kamezaemon",
             "alias": "",
             "position": "13",
+            "rotated": false,
             "notes": "Removal"
         },
         {
@@ -306,6 +319,7 @@
             "artist": "Rienque LeVerite",
             "alias": "",
             "position": "14",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -326,6 +340,7 @@
             "artist": "Victor Sales",
             "alias": "",
             "position": "15",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -346,6 +361,7 @@
             "artist": "aBookcase",
             "alias": "",
             "position": "16",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -366,6 +382,7 @@
             "artist": "aBookcase",
             "alias": "",
             "position": "17",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -386,6 +403,7 @@
             "artist": "sc4rymxnsters",
             "alias": "",
             "position": "18",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -406,6 +424,7 @@
             "artist": "mustakro",
             "alias": "",
             "position": "19",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -426,6 +445,7 @@
             "artist": "kaowardo",
             "alias": "",
             "position": "20",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -446,6 +466,7 @@
             "artist": "jaanmao",
             "alias": "",
             "position": "21",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -466,6 +487,7 @@
             "artist": "MenasLG",
             "alias": "",
             "position": "22",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -486,6 +508,7 @@
             "artist": "crappwr0m",
             "alias": "",
             "position": "23",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -506,6 +529,7 @@
             "artist": "brushseven",
             "alias": "",
             "position": "24",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -526,6 +550,7 @@
             "artist": "brushseven",
             "alias": "",
             "position": "25",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -546,6 +571,7 @@
             "artist": "Ariamis Arts",
             "alias": "",
             "position": "26",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -566,6 +592,7 @@
             "artist": "DrawSouls",
             "alias": "",
             "position": "27",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -586,6 +613,7 @@
             "artist": "Siro",
             "alias": "",
             "position": "28",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -606,6 +634,7 @@
             "artist": "Fextralife",
             "alias": "",
             "position": "29",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -626,6 +655,7 @@
             "artist": "Ari Ibarra",
             "alias": "",
             "position": "30",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -646,6 +676,7 @@
             "artist": "Angelic Coffin",
             "alias": "",
             "position": "31",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -653,7 +684,7 @@
             "color": "BR",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Dragon",
-            "number": 210,
+            "number": 209,
             "color_identity": "BR",
             "cost": "{3}{B}{R}",
             "rules_text": "Flying\nWhenever Bayle attacks for the first time each turn, you may sacrifice another creature. If you do, untap all attacking creatures you control. After this phase, there is an additional combat phase.\nWhenever another Dragon you control dies, draw two cards.",
@@ -666,6 +697,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "32",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -686,6 +718,7 @@
             "artist": "Herheim",
             "alias": "",
             "position": "33",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -706,6 +739,7 @@
             "artist": "marvor009",
             "alias": "",
             "position": "34",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -726,6 +760,7 @@
             "artist": "\u00c1lvaro Fern\u00e1ndez Gonz\u00e1lez",
             "alias": "",
             "position": "35",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -746,6 +781,7 @@
             "artist": "Ariamis Arts",
             "alias": "",
             "position": "36",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -766,6 +802,7 @@
             "artist": "nebulami",
             "alias": "",
             "position": "37",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -786,6 +823,7 @@
             "artist": "DrawSouls",
             "alias": "",
             "position": "38",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -817,6 +855,8 @@
             "loyalty2": "3/3",
             "artist2": "namako mikan",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -848,6 +888,8 @@
             "loyalty2": "",
             "artist2": "Xuchaoyuan3",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -879,6 +921,8 @@
             "loyalty2": "",
             "artist2": "AliveWake",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -910,6 +954,8 @@
             "loyalty2": "",
             "artist2": "Gum_Shrew",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -941,6 +987,8 @@
             "loyalty2": "",
             "artist2": "morkorney",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -951,9 +999,9 @@
             "number": 98,
             "color_identity": "WUB",
             "cost": "{2}{B}",
-            "rules_text": "Menace\nAt the beginning of your upkeep, tap Gurranq unless you pay 2 life.\nFinal form {5}{WU}{B} [i](You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)[/i]",
+            "rules_text": "Menace\nAt the beginning of your upkeep, tap Gurranq unless you pay 2 life.\nFinal form {4}{WU}{B} [i](You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "4/4",
+            "pt": "5/4",
             "special_text": "",
             "shape": "transform double faced",
             "set": "EDR",
@@ -972,6 +1020,8 @@
             "loyalty2": "",
             "artist2": "mujakki",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1003,6 +1053,8 @@
             "loyalty2": "",
             "artist2": "Ali Shimhaq",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1034,6 +1086,8 @@
             "loyalty2": "",
             "artist2": "Ali Shimhaq",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "!tag:wishlist"
         },
         {
@@ -1065,6 +1119,8 @@
             "loyalty2": "",
             "artist2": "Navy_Raccoon",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1085,6 +1141,7 @@
             "artist": "monkele-art",
             "alias": "",
             "position": "48",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1105,6 +1162,7 @@
             "artist": "guido_mng",
             "alias": "",
             "position": "49",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1129,13 +1187,15 @@
             "color2": "BRG",
             "type2": "Legendary Creature \u2014 Serpent Demigod",
             "cost2": "",
-            "rules_text2": "Trample\nWard\u2014Discard two cards.\nWhen Rykard enters, sacrifice any number of other permanents, then draw that many cards.\nDuring each of your turns, you may play a land and cast a permanent spell from your graveyard.",
+            "rules_text2": "Trample\nWard\u2014Discard a card.\nWhen Rykard enters, sacrifice any number of other permanents, then draw that many cards.\nDuring each of your turns, you may play a land and cast a permanent spell from your graveyard.",
             "flavor_text2": "[i][/i]",
             "pt2": "8/8",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "ybean",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1156,6 +1216,7 @@
             "artist": "Fextralife",
             "alias": "",
             "position": "51",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1163,7 +1224,7 @@
             "color": "WB",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 God Shaman",
-            "number": 228,
+            "number": 227,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
             "rules_text": "Whenever you cast an enchantment spell, copy it. The copy is a Saga in addition to its other types and has \u201cr{3}\u2014 You gain 1 life.\u201d You may choose new targets for the copy. [i](As that token enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nWhenever Marika attacks, you may have her name become Radagon of the Golden Order. If you do, put a +1/+1 counter on him for each enchantment you control. Do this only once.",
@@ -1173,9 +1234,10 @@
             "shape": "normal",
             "set": "EDR",
             "loyalty": "",
-            "artist": "thysia",
+            "artist": "Rene Kovac",
             "alias": "",
             "position": "52",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1186,7 +1248,7 @@
             "number": 303,
             "color_identity": "W",
             "cost": "",
-            "rules_text": "This land enters tapped unless you control two or more other lands.\n{T}: Add {W}.\n{1}{W}, {T}, Sacrifice a token: Put a +1/+1 counter on each creature you control. Activate only as a sorcery.",
+            "rules_text": "This land enters tapped unless you control two or more other lands.\n{T}: Add {W}.\n{1}{W}, {T}, Sacrifice a creature or token: Put a +1/+1 counter on each creature you control. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1196,6 +1258,7 @@
             "artist": "lesbianviolet",
             "alias": "",
             "position": "53",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1216,6 +1279,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "54",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1236,6 +1300,7 @@
             "artist": "Penguin322",
             "alias": "",
             "position": "55",
+            "rotated": false,
             "notes": "!tag:wishlist"
         },
         {
@@ -1256,6 +1321,7 @@
             "artist": "kimi_cf",
             "alias": "",
             "position": "56",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1266,7 +1332,7 @@
             "number": 268,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "Equipped creature has protection from Gods and gets +X/+0, where X is the number of instant and sorcery cards in your graveyard.\nWhenever equipped creature deals 10 or more damage to a player, you get an emblem with \u201cYou may cast instant and sorcery spells without paying their mana costs.\u201d\nEquip {2}",
+            "rules_text": "Equipped creature has protection from Gods and gets +X/+0, where X is the number of instant and sorcery cards in your graveyard.\nWhenever equipped creature deals 10 or more combat damage, you get an emblem with \u201cYou may cast instant and sorcery spells without paying their mana costs.\u201d\nEquip {2}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1276,6 +1342,7 @@
             "artist": "hammling",
             "alias": "",
             "position": "57",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1296,6 +1363,7 @@
             "artist": "buriedinembers",
             "alias": "",
             "position": "58",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1316,6 +1384,7 @@
             "artist": "Dinocomics4ever",
             "alias": "",
             "position": "59",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1336,6 +1405,7 @@
             "artist": "wildarrow",
             "alias": "",
             "position": "60",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1343,7 +1413,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Human Knight",
-            "number": 185,
+            "number": 186,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Remembrance {1}{G} [i]({1}{G}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)[/i]\n[i]Landfall[/i] \u2014 Whenever a land you control enters, put a +1/+1 counter on this creature.",
@@ -1356,6 +1426,7 @@
             "artist": "Temmaru",
             "alias": "",
             "position": "61",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1376,6 +1447,7 @@
             "artist": "Raki0v0",
             "alias": "",
             "position": "62",
+            "rotated": false,
             "notes": "Removal"
         },
         {
@@ -1396,6 +1468,7 @@
             "artist": "nagekichi",
             "alias": "",
             "position": "63",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1416,6 +1489,7 @@
             "artist": "Temmaru",
             "alias": "",
             "position": "64",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1436,6 +1510,7 @@
             "artist": "IIIMP",
             "alias": "",
             "position": "65",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1456,6 +1531,7 @@
             "artist": "lowstrear",
             "alias": "",
             "position": "66",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1476,6 +1552,7 @@
             "artist": "merkurial",
             "alias": "",
             "position": "67",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1496,6 +1573,7 @@
             "artist": "Temmaru",
             "alias": "",
             "position": "68",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1516,6 +1594,7 @@
             "artist": "blessed_with_a_curse",
             "alias": "",
             "position": "69",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1536,6 +1615,7 @@
             "artist": "blessed_with_a_curse",
             "alias": "",
             "position": "70",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1543,10 +1623,10 @@
             "color": "UR",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Wolf Knight",
-            "number": 211,
+            "number": 210,
             "color_identity": "UR",
             "cost": "{3}{U}{R}",
-            "rules_text": "Trample, haste\nProwess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]\nWhen Blaidd enters, you may exile target instant or sorcery card with mana value 3 or less from your graveyard. Copy it. You may cast the copy without paying its mana cost.",
+            "rules_text": "Trample, haste\nProwess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]\nWhen Blaidd enters, you may exile target instant or sorcery card with mana value 3 or less from a graveyard. Copy it. You may cast the copy without paying its mana cost.",
             "flavor_text": "[i]\u201cFor Ranni's sake.\u201d[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -1556,6 +1636,7 @@
             "artist": "HungryMonkey9",
             "alias": "",
             "position": "71",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1576,6 +1657,7 @@
             "artist": "ela vii",
             "alias": "",
             "position": "72",
+            "rotated": false,
             "notes": "!tag:wishlist"
         },
         {
@@ -1596,6 +1678,7 @@
             "artist": "sakura-kawachi",
             "alias": "",
             "position": "73",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1616,6 +1699,7 @@
             "artist": "Groomgrimm",
             "alias": "",
             "position": "74",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1636,6 +1720,7 @@
             "artist": "Sebasti\u00e1n Franchini",
             "alias": "",
             "position": "75",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1656,6 +1741,7 @@
             "artist": "Igor Kacharava",
             "alias": "",
             "position": "76",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1676,6 +1762,7 @@
             "artist": "Xuchaoyuan3",
             "alias": "",
             "position": "77",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1696,6 +1783,7 @@
             "artist": "Xuchaoyuan3",
             "alias": "",
             "position": "78",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1716,6 +1804,7 @@
             "artist": "francoyovich",
             "alias": "",
             "position": "79",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1736,6 +1825,7 @@
             "artist": "Viamorrri",
             "alias": "",
             "position": "80",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1743,7 +1833,7 @@
             "color": "WU",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Human Cleric",
-            "number": 220,
+            "number": 219,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
             "rules_text": "When Ever-Brilliant Goldmask enters, create a Shard token. [i](It's an enchantment with \u201c{2}, Sacrifice this token: Scry 1, then draw a card.\u201d)[/i]\nAt the beginning of combat on your turn, you may have target non-Aura enchantment you control become a 3/3 Avatar enchantment creature in addition to its other types. [i](This effect lasts indefinitely.)[/i]",
@@ -1756,6 +1846,7 @@
             "artist": "McSparkle0731",
             "alias": "",
             "position": "81",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1763,7 +1854,7 @@
             "color": "WB",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Human Warrior",
-            "number": 219,
+            "number": 218,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
             "rules_text": "Whenever Ensha of Royal Remains enters or attacks, exile up to one target card from a graveyard, then create a Shard token. [i](It's an enchantment with \u201c{2}, Sacrifice this token: Scry 1, then draw a card.\u201d)[/i]\nWhenever you sacrifice one or more permanents, each opponent loses that much life and you gain that much life.",
@@ -1776,6 +1867,7 @@
             "artist": "Neuntoterx",
             "alias": "",
             "position": "82",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1783,7 +1875,7 @@
             "color": "WR",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Mutant Human",
-            "number": 242,
+            "number": 241,
             "color_identity": "WR",
             "cost": "{R}{W}",
             "rules_text": "When Roderika and Hewg enters, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle.\nWhenever an Equipment you control enters, create a 1/1 blue Spirit creature token. Then you may pay {1}. If you do, attach that Equipment to that token.",
@@ -1796,6 +1888,7 @@
             "artist": "Davide Gozzi",
             "alias": "",
             "position": "83",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1803,11 +1896,11 @@
             "color": "BG",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Mutant Rogue",
-            "number": 223,
+            "number": 222,
             "color_identity": "BG",
             "cost": "{B}{G}",
             "rules_text": "{T}, Exile a creature and/or land card from your graveyard: For each card exiled this way, add one mana of any color.\nWhenever The Hornsent attacks, each opponent loses X life, where X is the number of cards exiled with him.",
-            "flavor_text": "[i]\u201cBlood must spill\u2014the blood of your fellows, the Erdtree faithful.\u201d[/i]",
+            "flavor_text": "[i]\u201cBlood must spill \u2014 the blood of your fellows, the Erdtree faithful.\u201d[/i]",
             "pt": "2/3",
             "special_text": "",
             "shape": "normal",
@@ -1816,6 +1909,7 @@
             "artist": "Pat Gee",
             "alias": "",
             "position": "84",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1836,6 +1930,7 @@
             "artist": "Ali Shimhaq",
             "alias": "",
             "position": "85",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1856,6 +1951,7 @@
             "artist": "Mikhail Vergizov",
             "alias": "",
             "position": "86",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1876,6 +1972,7 @@
             "artist": "kankan33333",
             "alias": "",
             "position": "87",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1896,6 +1993,7 @@
             "artist": "max58art",
             "alias": "",
             "position": "88",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1906,7 +2004,7 @@
             "number": 207,
             "color_identity": "UB",
             "cost": "{4}{U}{B}",
-            "rules_text": "Flying\n[i]Converge[/i] \u2014 When Astel enters, you may exile target noncreature, nonland card from a graveyard. Copy it. You may cast the copy without paying its mana cost if its mana value is less than or equal to the number of colors of mana spent to cast this spell.",
+            "rules_text": "Flying\n[i]Converge[/i] \u2014 When Astel enters, exile target noncreature, nonland card from a graveyard. Copy it. You may cast the copy without paying its mana cost if its mana value is less than or equal to the number of colors of mana spent to cast this spell.",
             "flavor_text": "[i]A falling star of ill omen.[/i]",
             "pt": "4/3",
             "special_text": "",
@@ -1916,6 +2014,7 @@
             "artist": "Lydia Barton",
             "alias": "",
             "position": "89",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1936,6 +2035,7 @@
             "artist": "NI_RA_10",
             "alias": "",
             "position": "90",
+            "rotated": false,
             "notes": "!tag:twink"
         },
         {
@@ -1946,7 +2046,7 @@
             "number": 100,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Look at the top four cards of your library. Put up to two into your hand and the rest into your graveyard. You lose 2 life.",
+            "rules_text": "Look at the top five cards of your library. Put two of them into your hand and the rest into your graveyard. You lose 2 life.",
             "flavor_text": "[i]\u201cNever forget that feeling of agony, for it is what binds you to Luminary Mogh. You have the sweetest scream. My lambkin.\u201d\n\u2014Varre[/i]",
             "pt": "",
             "special_text": "",
@@ -1956,6 +2056,7 @@
             "artist": "Solinuaght",
             "alias": "",
             "position": "91",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1976,6 +2077,7 @@
             "artist": "AliveWake",
             "alias": "",
             "position": "92",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1996,6 +2098,7 @@
             "artist": "4ddict",
             "alias": "",
             "position": "93",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2016,6 +2119,7 @@
             "artist": "Caio Razera",
             "alias": "",
             "position": "94",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2036,6 +2140,7 @@
             "artist": "Caio Razera",
             "alias": "",
             "position": "95",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2043,7 +2148,7 @@
             "color": "UG",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Homunculus Warrior",
-            "number": 214,
+            "number": 213,
             "color_identity": "UG",
             "cost": "{2}{G}{U}",
             "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, for each player, you may tap or untap target permanent they control.",
@@ -2056,6 +2161,7 @@
             "artist": "Ariamis Arts",
             "alias": "",
             "position": "96",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2063,7 +2169,7 @@
             "color": "WG",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Human Beast Knight",
-            "number": 215,
+            "number": 214,
             "color_identity": "WG",
             "cost": "{2}{G}{W}",
             "rules_text": "Trample, ward {2}\nDevonia enters with four +1/+1 counters on it.\nWhenever you attack, put a +1/+1 counter on each attacking creature you control with power greater than its base power.",
@@ -2076,6 +2182,7 @@
             "artist": "NSlacka",
             "alias": "",
             "position": "97",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2096,6 +2203,7 @@
             "artist": "eyecager",
             "alias": "",
             "position": "98",
+            "rotated": false,
             "notes": "Removal"
         },
         {
@@ -2116,6 +2224,7 @@
             "artist": "NSlacka",
             "alias": "",
             "position": "99",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2136,6 +2245,7 @@
             "artist": "vsykala",
             "alias": "",
             "position": "100",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2156,6 +2266,7 @@
             "artist": "groomgrimm",
             "alias": "",
             "position": "101",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2176,6 +2287,7 @@
             "artist": "stades_jp",
             "alias": "",
             "position": "102",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2196,6 +2308,7 @@
             "artist": "m1ne0h",
             "alias": "",
             "position": "103",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2216,6 +2329,7 @@
             "artist": "activemonk1",
             "alias": "",
             "position": "104",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2236,6 +2350,7 @@
             "artist": "danieljoyniel",
             "alias": "",
             "position": "105",
+            "rotated": false,
             "notes": "CHANGE"
         },
         {
@@ -2256,6 +2371,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "106",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2276,6 +2392,7 @@
             "artist": "oleg.gat0r",
             "alias": "",
             "position": "107",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2296,6 +2413,7 @@
             "artist": "la bo chu shi",
             "alias": "",
             "position": "108",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2316,6 +2434,7 @@
             "artist": "Pat Gee",
             "alias": "",
             "position": "109",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2336,6 +2455,7 @@
             "artist": "Pietro Antognioni",
             "alias": "",
             "position": "110",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2356,6 +2476,7 @@
             "artist": "Edzuks21",
             "alias": "",
             "position": "111",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2376,6 +2497,7 @@
             "artist": "siriusbound",
             "alias": "",
             "position": "112",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2396,6 +2518,7 @@
             "artist": "Frankie Siegel",
             "alias": "",
             "position": "113",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2403,10 +2526,10 @@
             "color": "RG",
             "rarity": "rare",
             "type": "Creature \u2014 Human Knight",
-            "number": 212,
+            "number": 211,
             "color_identity": "RG",
             "cost": "{R}{G}",
-            "rules_text": "Whenever you activate an ability that targets this creature, copy that ability. You may choose new targets for the copy.",
+            "rules_text": "Haste\nWhenever you activate an ability that targets this creature, copy that ability. You may choose new targets for the copy.",
             "flavor_text": "[i]Their acceptance of their fate made their battles fiercest of all.[/i]",
             "pt": "3/2",
             "special_text": "",
@@ -2416,6 +2539,7 @@
             "artist": "marvor009",
             "alias": "",
             "position": "114",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2436,6 +2560,7 @@
             "artist": "Leo Hakkio",
             "alias": "",
             "position": "115",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2456,6 +2581,7 @@
             "artist": "S-mrry",
             "alias": "",
             "position": "116",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2476,6 +2602,7 @@
             "artist": "snailaql",
             "alias": "",
             "position": "117",
+            "rotated": false,
             "notes": "Removal"
         },
         {
@@ -2496,6 +2623,7 @@
             "artist": "Temmaru",
             "alias": "",
             "position": "118",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2516,6 +2644,7 @@
             "artist": "MiffedMist",
             "alias": "",
             "position": "119",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2536,6 +2665,7 @@
             "artist": "achee",
             "alias": "",
             "position": "120",
+            "rotated": false,
             "notes": "Board Wipe"
         },
         {
@@ -2556,6 +2686,7 @@
             "artist": "AliveWake",
             "alias": "",
             "position": "121",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2576,6 +2707,7 @@
             "artist": "Victor Garcia",
             "alias": "",
             "position": "122",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2596,6 +2728,7 @@
             "artist": "Mikko P\u00f6yry",
             "alias": "",
             "position": "123",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2616,6 +2749,7 @@
             "artist": "blazemalefica",
             "alias": "",
             "position": "124",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2636,6 +2770,7 @@
             "artist": "Ng Yang Yi",
             "alias": "",
             "position": "125",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2656,6 +2791,7 @@
             "artist": "Ariamis Arts",
             "alias": "",
             "position": "126",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2676,6 +2812,7 @@
             "artist": "elna7070",
             "alias": "",
             "position": "127",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2696,6 +2833,7 @@
             "artist": "jperez",
             "alias": "",
             "position": "128",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2716,6 +2854,7 @@
             "artist": "Max58",
             "alias": "",
             "position": "129",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2736,6 +2875,7 @@
             "artist": "Erry",
             "alias": "",
             "position": "130",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2756,6 +2896,7 @@
             "artist": "Nippemeow",
             "alias": "",
             "position": "131",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2763,7 +2904,7 @@
             "color": "UB",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Demigod",
-            "number": 239,
+            "number": 238,
             "color_identity": "UB",
             "cost": "{U}{B}",
             "rules_text": "At the beginning of your upkeep, surveil 1.\nOnce during each of your turns, you may cast an instant or sorcery spell from your graveyard by sacrificing another creature in addition to paying that spell's other costs. If a spell cast this way would be put into your graveyard, exile it instead.",
@@ -2776,6 +2917,7 @@
             "artist": "Ali Shimhaq",
             "alias": "",
             "position": "132",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2796,6 +2938,7 @@
             "artist": "world_(1257843324)",
             "alias": "",
             "position": "133",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2816,6 +2959,7 @@
             "artist": "yenyenyen19",
             "alias": "",
             "position": "134",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2836,6 +2980,7 @@
             "artist": "S-Mrry",
             "alias": "",
             "position": "135",
+            "rotated": false,
             "notes": "Ramp"
         },
         {
@@ -2856,6 +3001,7 @@
             "artist": "Rio Yudha",
             "alias": "",
             "position": "136",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2876,14 +3022,15 @@
             "artist": "Agatan",
             "alias": "",
             "position": "137",
+            "rotated": false,
             "notes": ""
         },
         {
-            "card_name": "Capital Perfumer",
+            "card_name": "Ancestral Follower",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Human Cleric",
-            "number": 171,
+            "type": "Creature \u2014 Giant Cleric",
+            "number": 168,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Vigilance\n{T}: Add one mana if any color.\n{4}{G}: Double this creature's power and toughness until end of turn.",
@@ -2896,6 +3043,7 @@
             "artist": "Bravaxxi",
             "alias": "",
             "position": "138",
+            "rotated": false,
             "notes": "Ramp"
         },
         {
@@ -2916,6 +3064,7 @@
             "artist": "YuYang Olabukoo",
             "alias": "",
             "position": "139",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2936,6 +3085,7 @@
             "artist": "OmniLeaden",
             "alias": "",
             "position": "140",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2956,6 +3106,7 @@
             "artist": "kankan3333",
             "alias": "",
             "position": "141",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2963,7 +3114,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2014 Mutant Warrior",
-            "number": 186,
+            "number": 187,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
             "rules_text": "Your opponents can't discard cards or sacrifice nonland permanents to cast spells or activate abilities.\nSpells and abilities your opponents control can't cause you to discard cards or sacrifice permanents.",
@@ -2976,6 +3127,7 @@
             "artist": "chuno",
             "alias": "",
             "position": "142",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2996,6 +3148,7 @@
             "artist": "who whoareuu",
             "alias": "",
             "position": "143",
+            "rotated": false,
             "notes": "Ramp"
         },
         {
@@ -3016,6 +3169,7 @@
             "artist": "Alexis Susani",
             "alias": "",
             "position": "144",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3036,6 +3190,7 @@
             "artist": "Fadly Romdhani",
             "alias": "",
             "position": "145",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3048,7 +3203,7 @@
             "cost": "{G}",
             "rules_text": "Vigilance\n{T}: Add one mana of any color. Activate only if you attacked this turn.",
             "flavor_text": "[i]Those who hold turtles to be wise creatures consider the practice of eating their meat to be barbarous.[/i]",
-            "pt": "0/2",
+            "pt": "0/3",
             "special_text": "",
             "shape": "normal",
             "set": "EDR",
@@ -3056,6 +3211,7 @@
             "artist": "AndWhatArt",
             "alias": "",
             "position": "146",
+            "rotated": false,
             "notes": "Ramp"
         },
         {
@@ -3076,6 +3232,7 @@
             "artist": "Marcos Villarroel",
             "alias": "",
             "position": "147",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3096,6 +3253,7 @@
             "artist": "jya yan",
             "alias": "",
             "position": "148",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3116,14 +3274,15 @@
             "artist": "Miresia",
             "alias": "",
             "position": "149",
+            "rotated": false,
             "notes": ""
         },
         {
-            "card_name": "New Life from Death",
+            "card_name": "Duskborn's Presence",
             "color": "G",
             "rarity": "common",
             "type": "Enchantment",
-            "number": 193,
+            "number": 175,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "When this enchantment enters, mill four cards. You may put a permanent card from among the cards milled this way into your hand.\n{1}{G}, Sacrifice this enchantment: Return target land card from your graveyard to the battlefield tapped.",
@@ -3133,17 +3292,18 @@
             "shape": "normal",
             "set": "EDR",
             "loyalty": "",
-            "artist": "Rio Yudha",
+            "artist": "Kapoli Marton",
             "alias": "",
             "position": "150",
+            "rotated": false,
             "notes": ""
         },
         {
-            "card_name": "Radahn's Might",
+            "card_name": "Groundswell",
             "color": "G",
             "rarity": "common",
             "type": "Instant",
-            "number": 195,
+            "number": 185,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Target creature gets +2/+2 until end of turn.\n[i]Landfall[/i] \u2014 If you had a land enter the battlefield under your control this turn, that creature gets +4/+4 until end of turn instead.",
@@ -3156,6 +3316,7 @@
             "artist": "Philstration",
             "alias": "",
             "position": "151",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3163,7 +3324,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Enchantment \u2014 Rune Aura",
-            "number": 194,
+            "number": 195,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "Flash\nEnchant creature or Equipment\nAs long as enchanted permanent is a creature, it gets +3/+3.\nAs long as enchanted permanent is an Equipment, it has \u201cEquipped creature gets +3/+3.\u201d",
@@ -3176,6 +3337,7 @@
             "artist": "adyotr",
             "alias": "",
             "position": "152",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3186,7 +3348,7 @@
             "number": 30,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "When this enchantment enters, reveal the top five cards of your library. You may put a legendary card from among them into your hand and the rest on the bottom of your library in a random order.\nWhenever you cast a legendary spell, create a 0/1 green Plant creature token, then put a +1/+1 counter on each Plant you control.",
+            "rules_text": "When this enchantment enters, reveal the top five cards of your library. You may put up to two legendary cards from among them into your hand and the rest on the bottom of your library in a random order.\nWhenever you cast a legendary spell, create a 0/1 green Plant creature token, then put a +1/+1 counter on each Plant you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3196,6 +3358,7 @@
             "artist": "aparts_creations1",
             "alias": "",
             "position": "153",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3216,6 +3379,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "154",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3226,7 +3390,7 @@
             "number": 94,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
-            "rules_text": "When this Equipment enters, you may pay 2 life. When you do, destroy target creature.\nEquipped creature gets +2/+0 and has menace.\nEquip\u2014Pay 2 life. [i](Pay 2 life: Attach to target creature you control. Equip only as a sorcery.)[/i]",
+            "rules_text": "When this Equipment enters, you may pay 2 life. When you do, exile target creature.\nEquipped creature gets +2/+0 and has menace.\nEquip\u2014Pay 2 life. [i](Pay 2 life: Attach to target creature you control. Equip only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3236,6 +3400,7 @@
             "artist": "Draw_Souls",
             "alias": "",
             "position": "155",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3256,6 +3421,7 @@
             "artist": "Temmaru",
             "alias": "",
             "position": "156",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3263,10 +3429,10 @@
             "color": "UR",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Demigod",
-            "number": 248,
+            "number": 247,
             "color_identity": "UR",
             "cost": "{3}{U}{R}",
-            "rules_text": "Trample\nWhenever you cast a noncreature spell, create a tapped colorless artifact token named Meteorite with \u201cWhen this token enters, it deals 2 damage to any target\u201d and \u201c{T}: Add one mana of any color.\u201d",
+            "rules_text": "Trample\nWhen Starscourge Radahn enters or whenever you cast a noncreature spell, create a tapped colorless artifact token named Meteorite with \u201cWhen this token enters, it deals 2 damage to any target\u201d and \u201c{T}: Add one mana of any color.\u201d",
             "flavor_text": "[i]The Red Lion General wielded gravitational powers, all so he would never have to abandon his beloved but scrawny steed.[/i]",
             "pt": "5/5",
             "special_text": "",
@@ -3276,6 +3442,7 @@
             "artist": "Durya Prasetya",
             "alias": "",
             "position": "157",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3296,6 +3463,7 @@
             "artist": "Hamza Ouaksas",
             "alias": "",
             "position": "158",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3316,6 +3484,7 @@
             "artist": "kageisland 9lov",
             "alias": "",
             "position": "159",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3323,7 +3492,7 @@
             "color": "BR",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Human Cleric",
-            "number": 224,
+            "number": 223,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
             "rules_text": "Whenever you discard a card, exile the top card of your library. You may play that card for as long as you control Hyetta.\nAt the beginning of your end step, for each card exiled with Hyetta, put it into your graveyard unless you pay 1 life.",
@@ -3336,6 +3505,7 @@
             "artist": "quortknee",
             "alias": "",
             "position": "160",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3343,7 +3513,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Turtle Cleric",
-            "number": 190,
+            "number": 191,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Whenever an enchantment you control enters, draw a card.\nEach modified creature you control with toughness greater than its power assigns combat damage equal to its toughness rather than its power. [i](Equipment, Auras you control, and counters are modifications.)[/i]",
@@ -3356,6 +3526,7 @@
             "artist": "rythayze",
             "alias": "",
             "position": "161",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3376,6 +3547,7 @@
             "artist": "Ryinn",
             "alias": "",
             "position": "162",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3396,6 +3568,7 @@
             "artist": "outcasto",
             "alias": "",
             "position": "163",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3416,6 +3589,7 @@
             "artist": "iranon",
             "alias": "",
             "position": "164",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3423,10 +3597,10 @@
             "color": "UBR",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Elder Dragon",
-            "number": 217,
+            "number": 216,
             "color_identity": "UBR",
             "cost": "{4}{U}{B}{R}",
-            "rules_text": "Flying\nWhenever a Dragon you control attacks, create a token that's a copy of it that's tapped and attacking, except it isn't legendary. If you create a token that's a copy of Dragonlord Placidusax this way, it doesn't have this ability.",
+            "rules_text": "Flying\nWhenever an opponent casts a noncreature spell, they lose 2 life and you draw a card.\nDiscard a card: Dragonlord Placidusax phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]",
             "flavor_text": "[i]The Dragonlord whose seat lies at the heart of the storm beyond time.[/i]",
             "pt": "6/6",
             "special_text": "",
@@ -3436,6 +3610,7 @@
             "artist": "Gestemani.rar",
             "alias": "",
             "position": "165",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3456,6 +3631,7 @@
             "artist": "Seven Arts",
             "alias": "",
             "position": "166",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3476,6 +3652,7 @@
             "artist": "pepothewitch",
             "alias": "",
             "position": "167",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3496,6 +3673,7 @@
             "artist": "NoLongerWendigo",
             "alias": "",
             "position": "168",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3516,6 +3694,7 @@
             "artist": "yleniart",
             "alias": "",
             "position": "169",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3536,6 +3715,7 @@
             "artist": "York Chow",
             "alias": "",
             "position": "170",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3543,7 +3723,7 @@
             "color": "WG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 God",
-            "number": 230,
+            "number": 229,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
             "rules_text": "At the beginning of your end step, you may return target creature card with mana value 1 or less from your graveyard to the battlefield.\nNontoken creatures you control with mana value 1 or less get +1/+0 and have \u201c{T}: Add one mana of any color.\u201d",
@@ -3556,6 +3736,7 @@
             "artist": "WuMei !",
             "alias": "",
             "position": "171",
+            "rotated": false,
             "notes": "!tag:twink\n!tag:wishlist"
         },
         {
@@ -3576,6 +3757,7 @@
             "artist": "Bloodbird",
             "alias": "",
             "position": "172",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3596,6 +3778,7 @@
             "artist": "devanstolp",
             "alias": "",
             "position": "173",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3616,6 +3799,7 @@
             "artist": "Rishi Shukla",
             "alias": "",
             "position": "174",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3636,6 +3820,7 @@
             "artist": "SangerArt",
             "alias": "",
             "position": "175",
+            "rotated": false,
             "notes": "CHANGE"
         },
         {
@@ -3646,7 +3831,7 @@
             "number": 269,
             "color_identity": "C",
             "cost": "{4}",
-            "rules_text": "Whenever you cast a legendary spell, draw a card.\n{T}: Add one mana of any color. When you spend this mana and four other colors of mana to cast a creature spell, it enters with five additional +1/+1 counters on it.",
+            "rules_text": "Whenever you cast a legendary spell, draw a card.\n{T}: Add one mana of any color. If this mana is spent to cast a creature spell, if five colors of mana were spent to cast it, that creature enters with five additional +1/+1 counters on it.",
             "flavor_text": "[i]It is said that long ago, the Greater Will sent a golden star bearing a beast into the Lands Between, which would later become the Elden Ring.[/i]",
             "pt": "",
             "special_text": "",
@@ -3656,6 +3841,7 @@
             "artist": "Gabriel Flauzino",
             "alias": "",
             "position": "176",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3676,6 +3862,7 @@
             "artist": "He Tun De",
             "alias": "",
             "position": "177",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3696,6 +3883,7 @@
             "artist": "carrottrembling",
             "alias": "",
             "position": "178",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3703,7 +3891,7 @@
             "color": "UR",
             "rarity": "rare",
             "type": "Instant",
-            "number": 213,
+            "number": 212,
             "color_identity": "UR",
             "cost": "{X}{U}{R}",
             "rules_text": "Comet Azur deals X damage to any target. If excess damage is dealt this way, draw that many cards.",
@@ -3716,6 +3904,7 @@
             "artist": "jin dongyu",
             "alias": "",
             "position": "179",
+            "rotated": false,
             "notes": "Removal"
         },
         {
@@ -3723,7 +3912,7 @@
             "color": "UB",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Finger Horror",
-            "number": 229,
+            "number": 228,
             "color_identity": "UB",
             "cost": "{5}{U}{B}",
             "rules_text": "Menace\nWhen Metyr enters, exile each opponent's graveyard. Create a 1/2 black Finger Spider creature token for each nonland card exiled this way.\nOnce during each of your turns, you may cast a card exiled with Metyr and you may spend mana of any type to cast it.",
@@ -3736,6 +3925,7 @@
             "artist": "Rio Yudha",
             "alias": "",
             "position": "180",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3743,7 +3933,7 @@
             "color": "RG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Insect Cleric",
-            "number": 243,
+            "number": 242,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
             "rules_text": "Flying\nWhenever you cast a spell, add {R}.\nIf you would lose unspent mana, it becomes {G} instead.",
@@ -3756,6 +3946,7 @@
             "artist": "Triper7",
             "alias": "",
             "position": "181",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3776,6 +3967,7 @@
             "artist": "vintersdrom",
             "alias": "",
             "position": "182",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3796,6 +3988,7 @@
             "artist": "vitkovskayaart",
             "alias": "",
             "position": "183",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3806,7 +3999,7 @@
             "number": 275,
             "color_identity": "C",
             "cost": "{3}",
-            "rules_text": "When this creature enters, create a Weapon token. [i](It's an Equipment artifact with equip {2} and \u201cEquipped creature gets +1/+1.\u201d)[/i]\nEquip abilities you activate cost {1} less to activate.",
+            "rules_text": "{T}, Sacrifice an artifact: Return target Equipment card from your graveyard to the battlefield with a finality counter on it. [i](If a permanent with a finality counter on it would die, exile it instead.)[/i]\n{T}, Sacrifice an artifact: Attach target Equipment you control to target creature you control. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3816,6 +4009,7 @@
             "artist": "John Devlin",
             "alias": "",
             "position": "184",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3836,6 +4030,7 @@
             "artist": "menasig",
             "alias": "",
             "position": "185",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3856,6 +4051,7 @@
             "artist": "oleg.gat0r",
             "alias": "",
             "position": "186",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3876,6 +4072,7 @@
             "artist": "Ariamis Arts",
             "alias": "",
             "position": "187",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3896,6 +4093,7 @@
             "artist": "FelixOesinghaus",
             "alias": "",
             "position": "188",
+            "rotated": false,
             "notes": "!tag:twink"
         },
         {
@@ -3905,7 +4103,7 @@
             "type": "Sorcery",
             "number": 146,
             "color_identity": "R",
-            "cost": "{4}{R}{R}{R}",
+            "cost": "{3}{R}{R}{R}",
             "rules_text": "Each player sacrifices any number of permanents. Then each player's life total becomes equal to 10 minus the number of permanents they control.",
             "flavor_text": "[i]\u201cO Erdtree, you shall burn.\u201d\n\u2014Melina[/i]",
             "pt": "",
@@ -3916,6 +4114,7 @@
             "artist": "pajphfl123",
             "alias": "",
             "position": "189",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3936,6 +4135,7 @@
             "artist": "weirdundead",
             "alias": "",
             "position": "190",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3956,6 +4156,7 @@
             "artist": "Temmaru",
             "alias": "",
             "position": "191",
+            "rotated": false,
             "notes": "Removal"
         },
         {
@@ -3976,6 +4177,7 @@
             "artist": "Mustakro",
             "alias": "",
             "position": "192",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3986,7 +4188,7 @@
             "number": 128,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]\nIf a spell you control would deal damage, you may have it deal damage equal to the number of spells you cast this turn instead.",
+            "rules_text": "Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]\nWhenever this creature becomes tapped, you may pay {1} and discard a card. If you do, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -3996,6 +4198,7 @@
             "artist": "Ariamis Arts",
             "alias": "",
             "position": "193",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4016,6 +4219,7 @@
             "artist": "MISTYABYSS",
             "alias": "",
             "position": "194",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4036,6 +4240,7 @@
             "artist": "Diana Franco",
             "alias": "",
             "position": "195",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4056,6 +4261,7 @@
             "artist": "Senerik",
             "alias": "",
             "position": "196",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4073,9 +4279,10 @@
             "shape": "normal",
             "set": "EDR",
             "loyalty": "",
-            "artist": "Temmaru",
+            "artist": "temmaru",
             "alias": "",
             "position": "197",
+            "rotated": false,
             "notes": "Removal"
         },
         {
@@ -4096,6 +4303,7 @@
             "artist": "Anninosart",
             "alias": "",
             "position": "198",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4116,6 +4324,7 @@
             "artist": "Ariamis Arts",
             "alias": "",
             "position": "199",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4123,7 +4332,7 @@
             "color": "BG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Rogue",
-            "number": 226,
+            "number": 225,
             "color_identity": "BG",
             "cost": "{1}{B}{G}",
             "rules_text": "Whenever one or more cards leave your graveyard, put a +1/+1 counter on The Loathsome Dung Eater.\nWhen The Loathsome Dung Eater dies, each opponent loses 1 life for each counter on him.",
@@ -4136,6 +4345,7 @@
             "artist": "artorias345",
             "alias": "",
             "position": "200",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4143,10 +4353,10 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Human Warrior",
-            "number": 192,
+            "number": 193,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Whenever Nepheli Loux is dealt damage, put a +1/+1 counter on her and draw a card. [i](She must survive the damage to get the counter.)[/i]",
+            "rules_text": "Trample\nWhenever Nepheli Loux is dealt damage, put a +1/+1 counter on her and draw a card. [i](She must survive the damage to get the counter.)[/i]",
             "flavor_text": "[i]\u201cLet the scars I carve remind them. I am Nepheli Loux. Warrior.\u201d[/i]",
             "pt": "4/4",
             "special_text": "",
@@ -4156,6 +4366,7 @@
             "artist": "angel (halfheartxi)",
             "alias": "",
             "position": "201",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4176,6 +4387,7 @@
             "artist": "Ariamis Arts",
             "alias": "",
             "position": "202",
+            "rotated": false,
             "notes": "Ramp"
         },
         {
@@ -4183,7 +4395,7 @@
             "color": "WR",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 God",
-            "number": 236,
+            "number": 235,
             "color_identity": "WR",
             "cost": "{3}{R}{W}",
             "rules_text": "Trample\nWhen Radagon dies, if he was a creature, return him to the battlefield. He's a legendary Equipment artifact named Sacred Relic Sword with equip {2} and \u201cEquipped creature gets +X/+X and has trample, where X is the total mana value of legendary permanents you control.\u201d",
@@ -4196,6 +4408,7 @@
             "artist": "cloudbox9",
             "alias": "",
             "position": "203",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4206,7 +4419,7 @@
             "number": 114,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
-            "rules_text": "Remembrance {5}{B}{B} [i]({5}{B}{B}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)[/i]\nMenace, deathtouch, lifelink",
+            "rules_text": "Remembrance {4}{B}{B} [i]({4}{B}{B}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)[/i]\nMenace, deathtouch, lifelink",
             "flavor_text": "[i]An obscene and disturbing abomination. A blend of a spider and human limbs.[/i]",
             "pt": "5/3",
             "special_text": "",
@@ -4216,6 +4429,7 @@
             "artist": "poi",
             "alias": "",
             "position": "204",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4236,6 +4450,7 @@
             "artist": "Victor Garcia",
             "alias": "",
             "position": "205",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4253,9 +4468,10 @@
             "shape": "normal",
             "set": "EDR",
             "loyalty": "",
-            "artist": "Temmaru",
+            "artist": "temmaru",
             "alias": "",
             "position": "206",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4265,10 +4481,10 @@
             "type": "Legendary Creature \u2014 Human Knight",
             "number": 26,
             "color_identity": "W",
-            "cost": "{2}{W}",
-            "rules_text": "Whenever another creature you control dies, put a +1/+1 counter on Needle Knight Leda.\n{W}, Sacrifice another creature: Needle Knight Leda gains indestructible until end of turn. Tap her. Activate only once each turn.",
+            "cost": "{1}{W}",
+            "rules_text": "When Needle Knight Leda enters, you may sacrifice a creature or token. When you do, exile target creature an opponent controls until Needle Knight Leda leaves the battlefield.\nWhenever another creature you control dies, put a +1/+1 counter on Needle Knight Leda.",
             "flavor_text": "[i]\u201cThe scent of the killer sleeps within me. The stench of crusted blood.\u201d[/i]",
-            "pt": "2/2",
+            "pt": "1/1",
             "special_text": "",
             "shape": "normal",
             "set": "EDR",
@@ -4276,6 +4492,7 @@
             "artist": "Olivia Von Wattenwyi",
             "alias": "",
             "position": "207",
+            "rotated": false,
             "notes": "CHANGE"
         },
         {
@@ -4296,6 +4513,7 @@
             "artist": "NSlacka",
             "alias": "",
             "position": "208",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4316,6 +4534,7 @@
             "artist": "satoyuki",
             "alias": "",
             "position": "209",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4336,6 +4555,7 @@
             "artist": "epiclad",
             "alias": "",
             "position": "210",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4343,7 +4563,7 @@
             "color": "WU",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Homunculus Knight",
-            "number": 227,
+            "number": 226,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
             "rules_text": "Loretta's power and toughness are each equal to the number of nonland permanents you control.\nWhenever you cast a spell with mana value 1 or less, copy it, except the copy isn't legendary. You may choose new targets for the copy.",
@@ -4356,6 +4576,7 @@
             "artist": "Andrea Parrocho",
             "alias": "",
             "position": "211",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4363,7 +4584,7 @@
             "color": "WG",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 246,
+            "number": 245,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
             "rules_text": "Return up to one target card from your graveyard to your hand. You may put a permanent card with mana value 3 or less from your hand onto the battlefield.",
@@ -4376,6 +4597,7 @@
             "artist": "karmamonster011",
             "alias": "",
             "position": "212",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4388,7 +4610,7 @@
             "cost": "{1}{G}{U}",
             "rules_text": "Flying\nWhen this creature dies, create a tapped Ancient Tomb token. [i](It's a land with \u201c{T}: Add {C}{C}. This land deals 2 damage to you.\u201d)[/i]",
             "flavor_text": "[i]Ancestral spirits exist as a phenomenon beyond the purview of the Erdtree.[/i]",
-            "pt": "2/2",
+            "pt": "3/1",
             "special_text": "",
             "shape": "normal",
             "set": "EDR",
@@ -4396,6 +4618,7 @@
             "artist": "Cycle Circle",
             "alias": "",
             "position": "213",
+            "rotated": false,
             "notes": "\nCHANGE"
         },
         {
@@ -4403,7 +4626,7 @@
             "color": "UR",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Wizard Knight",
-            "number": 241,
+            "number": 240,
             "color_identity": "UR",
             "cost": "{U}{R}",
             "rules_text": "Ward {1}\nWhenever you cast an instant or sorcery spell with mana value 4 or greater, put two +1/+1 counters on Rellana. If this is the second time this ability has resolved this turn, she deals damage equal to her power to any target.",
@@ -4416,6 +4639,7 @@
             "artist": "Ali Shimhaq",
             "alias": "",
             "position": "214",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4436,6 +4660,7 @@
             "artist": "Rose Benjamin",
             "alias": "",
             "position": "215",
+            "rotated": false,
             "notes": "!tag:twink"
         },
         {
@@ -4448,7 +4673,7 @@
             "cost": "{1}{R}",
             "rules_text": "{T}: Add {R}.\nWhenever a creature you control enters, if mana from Dearest Nanaya was spent to cast it, you may discard a card. If you do, until end of turn, that creature gains haste and \u201cWhenever this creature deals combat damage to a player, draw a card.\u201d",
             "flavor_text": "[i][/i]",
-            "pt": "2/1",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "EDR",
@@ -4456,6 +4681,7 @@
             "artist": "Jdori",
             "alias": "",
             "position": "216",
+            "rotated": false,
             "notes": "Ramp"
         },
         {
@@ -4463,7 +4689,7 @@
             "color": "WUG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Demigod",
-            "number": 247,
+            "number": 246,
             "color_identity": "WUG",
             "cost": "{G}{W}{U}",
             "rules_text": "If an ability of a tapped permanent you control triggers, that ability triggers an additional time.\n{3}, {T}: Tap target nonland permanent. If you control it, put three stun counters on it. Otherwise, put one stun counter on it.",
@@ -4476,6 +4702,7 @@
             "artist": "Caio Santos",
             "alias": "",
             "position": "217",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4496,6 +4723,7 @@
             "artist": "AoratosMeka",
             "alias": "",
             "position": "218",
+            "rotated": false,
             "notes": "CHANGE"
         },
         {
@@ -4516,6 +4744,7 @@
             "artist": "tarnished-cygnus",
             "alias": "",
             "position": "219",
+            "rotated": false,
             "notes": "CHANGE"
         },
         {
@@ -4536,6 +4765,7 @@
             "artist": "x37tc",
             "alias": "",
             "position": "220",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4543,7 +4773,7 @@
             "color": "WU",
             "rarity": "uncommon",
             "type": "Enchantment \u2014 Aura",
-            "number": 231,
+            "number": 230,
             "color_identity": "WU",
             "cost": "{5}{W}{U}",
             "rules_text": "Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]\nEnchant creature\nWhen this Aura enters, gain control of each permanent attached to enchanted creature for as long as you control this Aura.\nYou control enchanted creature.",
@@ -4556,6 +4786,7 @@
             "artist": "Ariamis Arts",
             "alias": "",
             "position": "221",
+            "rotated": false,
             "notes": "Removal"
         },
         {
@@ -4563,7 +4794,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment \u2014 Saga",
-            "number": 168,
+            "number": 169,
             "color_identity": "G",
             "cost": "{5}{G}{G}",
             "rules_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nI \u2014 Put +1/+1 counters on up to one target creature equal to its power.\nII \u2014 Draw cards equal to the greatest power among creatures you control.\nIII \u2014 You may put any number of land cards from your hand onto the battlefield. If you do, draw that many cards.",
@@ -4576,6 +4807,7 @@
             "artist": "Navy Raccoon",
             "alias": "",
             "position": "222",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4583,7 +4815,7 @@
             "color": "WUBRG",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 209,
+            "number": 208,
             "color_identity": "WUBRG",
             "cost": "{W}{U}{B}{R}{G}",
             "rules_text": "Cascade, cascade, cascade [i](When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order. Then do it two more times.)[/i]",
@@ -4596,6 +4828,7 @@
             "artist": "Temmaru",
             "alias": "",
             "position": "223",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4608,7 +4841,7 @@
             "cost": "{2}{R}{R}",
             "rules_text": "At the beginning of combat on your turn, you may return target Equipment card with mana value less than or equal to Redmane Freyja's power from your graveyard to the battlefield. Attach it to Redmane Freyja. Exile it at the beginning of the next end step.",
             "flavor_text": "[i]\u201cFor the birth of a new god, and the coming of a lord!\u201d[/i]",
-            "pt": "3/4",
+            "pt": "4/4",
             "special_text": "",
             "shape": "normal",
             "set": "EDR",
@@ -4616,6 +4849,7 @@
             "artist": "graffitigw",
             "alias": "",
             "position": "224",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4623,10 +4857,10 @@
             "color": "UG",
             "rarity": "rare",
             "type": "Creature \u2014 Skeleton Spirit Knight",
-            "number": 235,
+            "number": 234,
             "color_identity": "UG",
             "cost": "{3}{G}{U}",
-            "rules_text": "Vigilance\n[i]Landfall[/i] \u2014 Whenever a land you control enters, exile up to one target land card from a graveyard.\nCreatures and lands you control have all activated abilities of land cards exiled with Putrescent Knight.",
+            "rules_text": "Vigilance\n[i]Landfall[/i] \u2014 Whenever a land you control enters, exile up to one target land card from a graveyard.\nArtifacts, creatures, and lands you control have all activated abilities of land cards exiled with Putrescent Knight.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -4636,6 +4870,7 @@
             "artist": "uchi vs the world",
             "alias": "",
             "position": "225",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4646,7 +4881,7 @@
             "number": 122,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Whenever another creature you control dies, each opponent loses 1 life and you gain 1 life. If that creature was legendary, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\u201d)[/i]",
+            "rules_text": "Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life. If that creature was legendary, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\u201d)[/i]",
             "flavor_text": "[i]\u201cYou are maidenless. One can only do so much with the materials provided.\u201d[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -4656,6 +4891,7 @@
             "artist": "Alex Garner",
             "alias": "",
             "position": "226",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4663,12 +4899,12 @@
             "color": "WUBRG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Beast God",
-            "number": 218,
+            "number": 217,
             "color_identity": "WUBRG",
             "cost": "{2}{W}{U}{B}{R}{G}",
             "rules_text": "Vigilance\nWhenever you cast a spell, you may pay {W}{U}{B}{R}{G} any number of times. If you do, copy that spell that many times. You may choose new targets for the copies.\n{T}: Add {W}{W}{U}{U}{B}{B}{R}{R}{G}{G}.",
             "flavor_text": "[i]The living incarnation of Order.[/i]",
-            "pt": "7/7",
+            "pt": "10/10",
             "special_text": "",
             "shape": "normal",
             "set": "EDR",
@@ -4676,6 +4912,7 @@
             "artist": "AliveWake4476",
             "alias": "",
             "position": "227",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4696,6 +4933,7 @@
             "artist": "mjoonkimm",
             "alias": "",
             "position": "228",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4716,6 +4954,7 @@
             "artist": "Ali Shimhaq",
             "alias": "",
             "position": "229",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4736,6 +4975,7 @@
             "artist": "free_dlc_artwork",
             "alias": "",
             "position": "230",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4756,6 +4996,7 @@
             "artist": "Jordi Rapture",
             "alias": "",
             "position": "231",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4763,7 +5004,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Human Rogue",
-            "number": 170,
+            "number": 171,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Vigilance\nWhenever Blackguard Boggart attacks, create a Food token. [i](It's an artifact with \u201c{2}, {T}, Sacrifice this token: You gain 3 life.\u201d)[/i]\n{1}, {T}: Add {G} for each token you control.",
@@ -4776,6 +5017,7 @@
             "artist": "Rio Yudha",
             "alias": "",
             "position": "232",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4796,6 +5038,7 @@
             "artist": "hariedwinart",
             "alias": "",
             "position": "233",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4803,7 +5046,7 @@
             "color": "WU",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 238,
+            "number": 237,
             "color_identity": "WU",
             "cost": "{4}{W}{U}",
             "rules_text": "Return target creature card from your graveyard to the battlefield. You gain life and draw cards equal to its power.",
@@ -4816,6 +5059,7 @@
             "artist": "FeiHai",
             "alias": "",
             "position": "234",
+            "rotated": false,
             "notes": "!tag:yaoi"
         },
         {
@@ -4836,6 +5080,7 @@
             "artist": "rashuu",
             "alias": "",
             "position": "235",
+            "rotated": false,
             "notes": "!tag:wishlist"
         },
         {
@@ -4856,6 +5101,7 @@
             "artist": "wraith615",
             "alias": "",
             "position": "236",
+            "rotated": false,
             "notes": "CHANGE"
         },
         {
@@ -4876,6 +5122,7 @@
             "artist": "la bo chu shi",
             "alias": "",
             "position": "237",
+            "rotated": false,
             "notes": "Ramp"
         },
         {
@@ -4896,6 +5143,7 @@
             "artist": "Rio Yudha",
             "alias": "",
             "position": "238",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4916,6 +5164,7 @@
             "artist": "EyYoJimbo",
             "alias": "",
             "position": "239",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4923,7 +5172,7 @@
             "color": "WR",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 245,
+            "number": 244,
             "color_identity": "WR",
             "cost": "{R}{R}{W}{W}",
             "rules_text": "Destroy all creatures. You may put a creature card with mana value X or less from your hand onto the battlefield, where X is the number of creatures destroyed this way. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.",
@@ -4936,6 +5185,7 @@
             "artist": "Dante Kishishev",
             "alias": "",
             "position": "240",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4956,6 +5206,7 @@
             "artist": "emilyjulstrom",
             "alias": "",
             "position": "241",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4966,7 +5217,7 @@
             "number": 270,
             "color_identity": "C",
             "cost": "{4}",
-            "rules_text": "{T}: Add {C}{C}.\nExhaust \u2014 {4}, {T}: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i]",
+            "rules_text": "{T}: Add {C}{C}.\nExhaust \u2014 {4}, {T}: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i]",
             "flavor_text": "[i]\u201cTouch the withered arm, and travel to the realm of shadow. I will not be far behind.\u201d\n\u2014Needle Knight Leda[/i]",
             "pt": "",
             "special_text": "",
@@ -4976,6 +5227,7 @@
             "artist": "TheVilebloods",
             "alias": "",
             "position": "242",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4996,6 +5248,7 @@
             "artist": "Lys/blobmorning",
             "alias": "",
             "position": "243",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5016,6 +5269,7 @@
             "artist": "gaungde",
             "alias": "",
             "position": "244",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5036,6 +5290,7 @@
             "artist": "Matheus Vrech",
             "alias": "",
             "position": "245",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5043,7 +5298,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Mutant Cleric",
-            "number": 187,
+            "number": 188,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "When this creature enters, create a Food token. [i](It's an artifact with \u201c{2}, {T}, Sacrifice this token: You gain 3 life.\u201d)[/i]\nWhenever you gain life, you may pay {G}. If you do, return target land card from your graveyard to the battlefield tapped.",
@@ -5056,6 +5311,7 @@
             "artist": "stereobass",
             "alias": "",
             "position": "246",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5076,6 +5332,7 @@
             "artist": "Xuah Minh",
             "alias": "",
             "position": "247",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5083,7 +5340,7 @@
             "color": "WG",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 225,
+            "number": 224,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
             "rules_text": "Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]\nCreatures you control get +1/+1.",
@@ -5096,6 +5353,7 @@
             "artist": "J Paz Diaz",
             "alias": "",
             "position": "248",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5103,7 +5361,7 @@
             "color": "WB",
             "rarity": "rare",
             "type": "Creature \u2014 Horror Cleric",
-            "number": 222,
+            "number": 221,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
             "rules_text": "Ward\u2014Pay 3 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)[/i]\nSacrifice a legendary creature: Draw a card.",
@@ -5116,6 +5374,7 @@
             "artist": "Andreas Bergholtz",
             "alias": "",
             "position": "249",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5136,6 +5395,7 @@
             "artist": "David Gonzalez Vaquero",
             "alias": "",
             "position": "250",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5143,7 +5403,7 @@
             "color": "WUR",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 237,
+            "number": 236,
             "color_identity": "WUR",
             "cost": "{2}{U}{R}{W}",
             "rules_text": "At the beginning of combat on your turn, create a 2/2 white Knight creature token. It gains haste until end of turn.\nWhenever you attack, the next spell you cast this turn costs {X} less to cast, where X is the number of attacking creatures.",
@@ -5156,6 +5416,7 @@
             "artist": "Su Ke",
             "alias": "",
             "position": "251",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5176,6 +5437,7 @@
             "artist": "Draw Souls",
             "alias": "",
             "position": "252",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5196,6 +5458,7 @@
             "artist": "the_strawhatguy",
             "alias": "",
             "position": "253",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5203,7 +5466,7 @@
             "color": "BR",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Mutant Demigod",
-            "number": 233,
+            "number": 232,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
             "rules_text": "Flying\nAt the beginning of your end step, create a Blood token for each player who lost life this turn. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\u201d)[/i]\nSacrifice three Blood tokens: Each opponent loses life equal to the amount of life they lost this turn. Activate only once each turn.",
@@ -5216,6 +5479,7 @@
             "artist": "copepo",
             "alias": "",
             "position": "254",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5236,6 +5500,7 @@
             "artist": "Tsutomu Kitazawa",
             "alias": "",
             "position": "255",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5243,10 +5508,10 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Insect Cleric",
-            "number": 188,
+            "number": 189,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Remembrance {2}{G} [i]({2}{G}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)[/i]\nWhenever this creature deals combat damage to an opponent, they get that many poison counters.",
+            "rules_text": "Remembrance {1}{G} [i]({1}{G}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)[/i]\nWhenever this creature deals combat damage to an opponent, they get that many poison counters.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -5256,6 +5521,7 @@
             "artist": "ReptileEnclosed",
             "alias": "",
             "position": "256",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5276,6 +5542,7 @@
             "artist": "batterychugger",
             "alias": "",
             "position": "257",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5285,7 +5552,7 @@
             "type": "Artifact \u2014 Equipment",
             "number": 274,
             "color_identity": "C",
-            "cost": "{6}",
+            "cost": "{4}",
             "rules_text": "Equipped creature gets +6/+6 and has trample.\nEquip {5} [i]({5}: Attach to target creature you control. Equip only as a sorcery.)[/i]",
             "flavor_text": "[i]A hammer made from a boulder, used in the War against the Giants. After the giants were quelled, and man turned against man in violence, this weapon was all but forgotten.[/i]",
             "pt": "",
@@ -5296,6 +5563,7 @@
             "artist": "Dante Leapman",
             "alias": "",
             "position": "258",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5306,7 +5574,7 @@
             "number": 290,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}: Add {C}.\n{2}, {T}, Tap an untapped legendary creature you control: Add X mana of any one color, where is the tapped creature's power.",
+            "rules_text": "{T}: Add {C}.\n{1}, {T}, Tap an untapped legendary creature you control: Add X mana of any one color, where is the tapped creature's power.",
             "flavor_text": "[i]\u201cHowever ruined this world has become, however mired in torment and despair, life endures. Births continue. There is beauty in that, is there not?\u201d\n\u2014Melina[/i]",
             "pt": "",
             "special_text": "",
@@ -5316,6 +5584,7 @@
             "artist": "fantazyme",
             "alias": "",
             "position": "259",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5336,6 +5605,7 @@
             "artist": "Pat Gee",
             "alias": "",
             "position": "260",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5346,7 +5616,7 @@
             "number": 280,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "Equipped creature gets +2/+2 if it's legendary.\nWhenever equipped creature deals combat damage to a player, exile the top card of your library. If it's a land card, put it on the battlefield tapped. Otherwise, create a colorless Saga enchantment token with \u201cr{3} \u2014 You may cast the exiled card without paying its mana cost.\u201d\nEquip {1}",
+            "rules_text": "Equipped creature gets +2/+2 if it's legendary.\nWhenever equipped creature deals combat damage to a player, exile cards from the top of your library until you exile a nonland card. Create a colorless Saga enchantment token with \u201cr{3} \u2014 You may cast the exiled card without paying its mana cost.\u201d\nEquip {1}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5356,6 +5626,7 @@
             "artist": "Gio Bouzamondo",
             "alias": "",
             "position": "261",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5376,6 +5647,7 @@
             "artist": "Sebasti\u00e1n Franchini",
             "alias": "",
             "position": "262",
+            "rotated": false,
             "notes": "Ramp"
         },
         {
@@ -5386,16 +5658,17 @@
             "number": 44,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
-            "rules_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nI \u2014 Exile target instant or sorcery card from a graveyard.\nII \u2014 Create X 1/2 black Finger Spider creature tokens, where X is the total mana value of cards exiled with this Saga.\nIII \u2014 Copy each card exiled with this Saga. You may cast the copies without paying their mana costs.",
+            "rules_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice as it occurs. Sacrifice after III.)[/i]\nI \u2014 Exile target instant or sorcery card from a graveyard.\nII \u2014 Create X 1/2 black Finger Spider creature tokens, where X is the total mana value of cards exiled with this Saga.\nIII \u2014 Copy each card exiled with this Saga. You may cast the copies without paying their mana costs.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice. Sacrifice after III.)[/i]\nI \u2014 Exile target instant or sorcery card from a graveyard.\nII \u2014 Create X 1/2 black Finger Spider creature tokens, where X is the total mana value of cards exiled with this Saga.\nIII \u2014 Copy each card exiled with this Saga. You may cast the copies without paying their mana costs.",
+            "special_text": "Grace-given [i](As this Saga enters and after your draw step, add a lore counter. You may have one chapter ability trigger twice as it occurs. Sacrifice after III.)[/i]\nI \u2014 Exile target instant or sorcery card from a graveyard.\nII \u2014 Create X 1/2 black Finger Spider creature tokens, where X is the total mana value of cards exiled with this Saga.\nIII \u2014 Copy each card exiled with this Saga. You may cast the copies without paying their mana costs.",
             "shape": "saga",
             "set": "EDR",
             "loyalty": "",
             "artist": "la bo chu shi",
             "alias": "",
             "position": "263",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5416,6 +5689,7 @@
             "artist": "Surya Prasetya",
             "alias": "",
             "position": "264",
+            "rotated": false,
             "notes": "Board Wipe"
         },
         {
@@ -5436,6 +5710,7 @@
             "artist": "Mikyxone",
             "alias": "",
             "position": "265",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5456,6 +5731,7 @@
             "artist": "nictanova",
             "alias": "",
             "position": "266",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5463,10 +5739,10 @@
             "color": "UB",
             "rarity": "rare",
             "type": "Instant",
-            "number": 221,
+            "number": 220,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
-            "rules_text": "Counter target activated or triggered ability of a nonland source. If an ability of a creature or planeswalker is countered this way, exile it. Search its controller's graveyard, hand, and library for any number of cards with the same name and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.",
+            "rules_text": "Counter target activated or triggered ability from a nonland source. If an ability of a creature or planeswalker is countered this way, exile it. Search its controller's graveyard, hand, and library for any number of cards with the same name and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5476,6 +5752,7 @@
             "artist": "Ariamis Arts",
             "alias": "",
             "position": "267",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5483,7 +5760,7 @@
             "color": "BG",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 232,
+            "number": 231,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
             "rules_text": "[i]Converge[/i] \u2014 Destroy each nonland permanent with mana value X or less, where X is the number of colors of mana spent to cast this spell.",
@@ -5496,6 +5773,7 @@
             "artist": "diesel0212",
             "alias": "",
             "position": "268",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5503,7 +5781,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2014 Mutant Warrior",
-            "number": 191,
+            "number": 192,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Remembrance {1}{G} [i]({1}{G}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)[/i]\nYou may have this creature assign combat damage equal to its toughness rather than its power.",
@@ -5516,6 +5794,7 @@
             "artist": "sandpontiff",
             "alias": "",
             "position": "269",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5523,7 +5802,7 @@
             "color": "WG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Noble",
-            "number": 216,
+            "number": 215,
             "color_identity": "WG",
             "cost": "{G}{W}",
             "rules_text": "If a nontoken creature an opponent controls would enter and it wasn't cast, exile it instead.\nSacrifice Diallos: Creatures you control gain indestructible until end of turn.",
@@ -5536,6 +5815,7 @@
             "artist": "Yal",
             "alias": "",
             "position": "270",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5556,6 +5836,7 @@
             "artist": "Alex Garner",
             "alias": "",
             "position": "271",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5576,6 +5857,7 @@
             "artist": "buriedinembers",
             "alias": "",
             "position": "272",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5583,7 +5865,7 @@
             "color": "UB",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 240,
+            "number": 239,
             "color_identity": "WUBRG",
             "cost": "{1}{U}{B}",
             "rules_text": "When this enchantment enters, you draw a card and gain 2 life and each opponent discards a card and loses 2 life.\nWhenever you spend {W}{U}{B}{R}{G} to cast a spell, you may return this enchantment to its owner's hand.",
@@ -5596,6 +5878,7 @@
             "artist": "trip_dancer_g",
             "alias": "",
             "position": "273",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5616,6 +5899,7 @@
             "artist": "stu dts",
             "alias": "",
             "position": "274",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5636,6 +5920,7 @@
             "artist": "Dragoon",
             "alias": "",
             "position": "275",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5656,6 +5941,7 @@
             "artist": "chenyangforone",
             "alias": "",
             "position": "276",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5663,7 +5949,7 @@
             "color": "WB",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Finger Horror",
-            "number": 249,
+            "number": 248,
             "color_identity": "WB",
             "cost": "{3}{W}{B}",
             "rules_text": "When The Two Fingers enters, create a Shard token. [i](It's an enchantment with \u201c{2}, Sacrifice this token: Scry 1, then draw a card.\u201d)[/i]\nWhenever an enchantment you control dies, each opponent sacrifices a creature.",
@@ -5676,6 +5962,7 @@
             "artist": "DePietro Draws",
             "alias": "",
             "position": "277",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5696,6 +5983,7 @@
             "artist": "SAMI",
             "alias": "",
             "position": "278",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5716,6 +6004,7 @@
             "artist": "bufforiana",
             "alias": "",
             "position": "279",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5723,7 +6012,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 169,
+            "number": 170,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "[i]Converge[/i] \u2014 Put a +1/+1 counter on each of up to X target creatures, where X is the number of colors of mana spent to cast this spell. Then double the number of +1/+1 counters on each of those creatures.",
@@ -5736,26 +6025,28 @@
             "artist": "Xenamos",
             "alias": "",
             "position": "280",
+            "rotated": false,
             "notes": ""
         },
         {
-            "card_name": "Duskborn's Presence",
+            "card_name": "New Life from Death",
             "color": "G",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 175,
+            "number": 194,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, you may mill two cards.\nSacrifice this enchantment: Return target card you milled this turn from your graveyard to your hand.",
-            "flavor_text": "[i]As First Dead of the demigods, it's said that Godwyn is buried deep under the capital, at the Erdtree's roots.[/i]",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, you gain 2 life and surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]\nSacrifice this enchantment: Return target card from your graveyard to your hand if it was put into your graveyard from your library this turn.",
+            "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "EDR",
             "loyalty": "",
-            "artist": "Kapoli Marton",
+            "artist": "Rio Yudha",
             "alias": "",
             "position": "281",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5776,6 +6067,7 @@
             "artist": "sabbat_00",
             "alias": "",
             "position": "282",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5786,7 +6078,7 @@
             "number": 53,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Return target nonland permanent to its owner's hand. You may return an enchantment you control to its owner's hand.",
+            "rules_text": "Return target nonland permanent an opponent controls to its owner's hand. You may return an enchantment you control to its owner's hand.",
             "flavor_text": "[i]The mother of all Two Fingers and fingercreepers was in turn a magnificently gleaming daughter of the Greater Will, and the first shooting star to fall upon the Lands Between.[/i]",
             "pt": "",
             "special_text": "",
@@ -5796,6 +6088,7 @@
             "artist": "temmaru",
             "alias": "",
             "position": "283",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5816,6 +6109,7 @@
             "artist": "mubishuang",
             "alias": "",
             "position": "284",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5836,6 +6130,7 @@
             "artist": "azure_meraki",
             "alias": "",
             "position": "285",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5843,7 +6138,7 @@
             "color": "UG",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 234,
+            "number": 233,
             "color_identity": "UG",
             "cost": "{4}{G}{U}",
             "rules_text": "Return up to two target land cards from your graveyard to the battlefield. They are 5/5 Elk Spirit creatures in addition to their other types.",
@@ -5856,6 +6151,7 @@
             "artist": "menaslg",
             "alias": "",
             "position": "286",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5876,6 +6172,7 @@
             "artist": "awkwardtomato",
             "alias": "",
             "position": "287",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5883,7 +6180,7 @@
             "color": "WB",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 244,
+            "number": 243,
             "color_identity": "WB",
             "cost": "{W}{B}",
             "rules_text": "As an additional cost to cast this spell, sacrifice an enchantment or pay {2}.\nExile target nonland permanent.",
@@ -5896,6 +6193,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "288",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5916,17 +6214,18 @@
             "artist": "Daniel Kamarudin",
             "alias": "",
             "position": "289",
+            "rotated": false,
             "notes": ""
         },
         {
-            "card_name": "Banish to the Sewers",
+            "card_name": "Unloved and Unwanted",
             "color": "BG",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 208,
+            "number": 249,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
-            "rules_text": "Return up to X target permanent cards with total mana value twice X or less from your graveyard to your hand, where X is the number of colors of mana spent to cast this spell.\nExile Banish to the Sewers.",
+            "rules_text": "Return up to X target permanent cards with total mana value twice X or less from your graveyard to your hand, where X is the number of colors of mana spent to cast this spell.\nExile Unloved and Unwanted.",
             "flavor_text": "[i]Morgott loved not in return, for he was never loved, but nevertheless, love he did.[/i]",
             "pt": "",
             "special_text": "",
@@ -5936,6 +6235,7 @@
             "artist": "kem2064",
             "alias": "",
             "position": "290",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5956,6 +6256,7 @@
             "artist": "Soulseal",
             "alias": "",
             "position": "291",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5976,6 +6277,7 @@
             "artist": "JmomJam",
             "alias": "",
             "position": "292",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5985,7 +6287,7 @@
             "type": "Enchantment",
             "number": 172,
             "color_identity": "G",
-            "cost": "{4}{G}{G}",
+            "cost": "{3}{G}{G}",
             "rules_text": "Whenever a nontoken creature you control dies, you may return it to the battlefield face down under its owner's control. It's a Forest land. [i](It has no other types or abilities.)[/i]\n[i]Landfall[/i] \u2014 Whenever a land you control enters, create a 3/3 black Demigod creature token.",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -5996,6 +6298,7 @@
             "artist": "yagaminoue",
             "alias": "",
             "position": "293",
+            "rotated": false,
             "notes": "CHANGE"
         },
         {
@@ -6016,6 +6319,7 @@
             "artist": "xasaturr",
             "alias": "",
             "position": "294",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6036,6 +6340,7 @@
             "artist": "ABluSkittle",
             "alias": "",
             "position": "295",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6056,6 +6361,7 @@
             "artist": "jin dongyu",
             "alias": "",
             "position": "296",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6076,6 +6382,7 @@
             "artist": "David Lee Conley",
             "alias": "",
             "position": "297",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6096,6 +6403,7 @@
             "artist": "jin dongyu",
             "alias": "",
             "position": "298",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6116,6 +6424,7 @@
             "artist": "Alex Kerr",
             "alias": "",
             "position": "299",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6136,6 +6445,7 @@
             "artist": "Rainbow Philosopher",
             "alias": "",
             "position": "300",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6156,6 +6466,7 @@
             "artist": "Aaron Long",
             "alias": "",
             "position": "301",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6176,6 +6487,7 @@
             "artist": "antinoya",
             "alias": "",
             "position": "302",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6196,6 +6508,7 @@
             "artist": "Ayla Meridian",
             "alias": "",
             "position": "303",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6216,6 +6529,7 @@
             "artist": "_bibuo_",
             "alias": "",
             "position": "304",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6236,6 +6550,7 @@
             "artist": "thebiggestdumb",
             "alias": "",
             "position": "305",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6256,6 +6571,7 @@
             "artist": "Ayla Meridian",
             "alias": "",
             "position": "306",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6276,6 +6592,7 @@
             "artist": "Ricky Lee",
             "alias": "",
             "position": "307",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6296,6 +6613,7 @@
             "artist": "Groomgrimm",
             "alias": "",
             "position": "308",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6316,6 +6634,7 @@
             "artist": "Arabesque91",
             "alias": "",
             "position": "309",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6336,6 +6655,7 @@
             "artist": "marvor009",
             "alias": "",
             "position": "310",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6356,6 +6676,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "311",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6376,6 +6697,7 @@
             "artist": "Diego Lopez",
             "alias": "",
             "position": "312",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6396,6 +6718,7 @@
             "artist": "oleg.gat0r",
             "alias": "",
             "position": "313",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6416,6 +6739,7 @@
             "artist": "",
             "alias": "",
             "position": "314",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6436,6 +6760,7 @@
             "artist": "stades_jp",
             "alias": "",
             "position": "315",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6456,6 +6781,7 @@
             "artist": "Pedro G. Ferreira",
             "alias": "",
             "position": "316",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6476,6 +6802,7 @@
             "artist": "@Tworain_w",
             "alias": "",
             "position": "317",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6496,6 +6823,7 @@
             "artist": "nolan192",
             "alias": "",
             "position": "318",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6516,6 +6844,7 @@
             "artist": "alivewake",
             "alias": "",
             "position": "319",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6536,6 +6865,7 @@
             "artist": "ReneKovacArt",
             "alias": "",
             "position": "320",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6556,6 +6886,7 @@
             "artist": "AliveWake",
             "alias": "",
             "position": "321",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6576,6 +6907,7 @@
             "artist": "Groomgrim",
             "alias": "",
             "position": "322",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6596,6 +6928,7 @@
             "artist": "Anountloueac",
             "alias": "",
             "position": "323",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6616,6 +6949,7 @@
             "artist": "arnaerr",
             "alias": "",
             "position": "324",
+            "rotated": false,
             "notes": "!exportname Forest_EDR"
         },
         {
@@ -6636,6 +6970,7 @@
             "artist": "NecrosisArts",
             "alias": "",
             "position": "325",
+            "rotated": false,
             "notes": "!exportname Island_EDR"
         },
         {
@@ -6656,6 +6991,7 @@
             "artist": "Tsutomu Kitazawa",
             "alias": "",
             "position": "326",
+            "rotated": false,
             "notes": "!exportname Mountain_EDR"
         },
         {
@@ -6676,6 +7012,7 @@
             "artist": "arnaerr",
             "alias": "",
             "position": "327",
+            "rotated": false,
             "notes": "!exportname Plains_EDR"
         },
         {
@@ -6696,6 +7033,7 @@
             "artist": "NecrosisArts",
             "alias": "",
             "position": "328",
+            "rotated": false,
             "notes": "!exportname Swamp_EDR"
         },
         {
@@ -6716,6 +7054,7 @@
             "artist": "delaneyjanuzzi",
             "alias": "",
             "position": "329",
+            "rotated": false,
             "notes": "!tokenshape\n!exportname Marika's Hammer's Saga token"
         },
         {
@@ -6736,6 +7075,7 @@
             "artist": "Andreu Romero",
             "alias": "",
             "position": "330",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6756,6 +7096,7 @@
             "artist": "Andreu Romero",
             "alias": "",
             "position": "331",
+            "rotated": false,
             "notes": ""
         }
     ]

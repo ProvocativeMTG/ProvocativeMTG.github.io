@@ -193,7 +193,7 @@
     },
     {
         "card_name": "Aspects of the Crucible",
-        "number": 168,
+        "number": 169,
         "shape": "saga",
         "set": "EDR",
         "rotated": false,
@@ -273,7 +273,7 @@
     },
     {
         "card_name": "Hornsent Grandam",
-        "number": 187,
+        "number": 188,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -313,7 +313,7 @@
     },
     {
         "card_name": "Kindreds of Rot",
-        "number": 188,
+        "number": 189,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -353,7 +353,7 @@
     },
     {
         "card_name": "Miriel, Pastor of Vows",
-        "number": 190,
+        "number": 191,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -513,7 +513,7 @@
     },
     {
         "card_name": "Behold the Jagged Peak",
-        "number": 169,
+        "number": 170,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -553,7 +553,7 @@
     },
     {
         "card_name": "Blackguard Boggart",
-        "number": 170,
+        "number": 171,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -632,12 +632,12 @@
         "position": "238"
     },
     {
-        "card_name": "Duskborn's Presence",
-        "number": 175,
+        "card_name": "Epic Encounter",
+        "number": 176,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "281"
+        "position": "198"
     },
     {
         "card_name": "Braid Cutting",
@@ -672,12 +672,12 @@
         "position": "194"
     },
     {
-        "card_name": "Epic Encounter",
-        "number": 176,
+        "card_name": "Great Jar",
+        "number": 184,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "198"
+        "position": "59"
     },
     {
         "card_name": "Divine Bird Warrior",
@@ -712,12 +712,12 @@
         "position": "271"
     },
     {
-        "card_name": "Great Jar",
-        "number": 184,
+        "card_name": "Horned Warrior",
+        "number": 187,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "59"
+        "position": "142"
     },
     {
         "card_name": "Dryleaf Dane",
@@ -752,12 +752,12 @@
         "position": "197"
     },
     {
-        "card_name": "Horned Warrior",
-        "number": 186,
-        "shape": "normal",
+        "card_name": "Lord of All That Is Golden",
+        "number": 190,
+        "shape": "saga",
         "set": "EDR",
         "rotated": false,
-        "position": "142"
+        "position": "9"
     },
     {
         "card_name": "Lady Tanith",
@@ -792,12 +792,12 @@
         "position": "7"
     },
     {
-        "card_name": "Lord of All That Is Golden",
-        "number": 189,
-        "shape": "saga",
+        "card_name": "Misbegotten Warrior",
+        "number": 192,
+        "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "9"
+        "position": "269"
     },
     {
         "card_name": "Leyndell Knight",
@@ -832,12 +832,12 @@
         "position": "166"
     },
     {
-        "card_name": "Misbegotten Warrior",
-        "number": 191,
+        "card_name": "Nepheli Loux",
+        "number": 193,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "269"
+        "position": "201"
     },
     {
         "card_name": "Obscure in Shadow",
@@ -872,12 +872,12 @@
         "position": "245"
     },
     {
-        "card_name": "Nepheli Loux",
-        "number": 192,
+        "card_name": "New Life from Death",
+        "number": 194,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "201"
+        "position": "281"
     },
     {
         "card_name": "Seeking the Crosses",
@@ -1192,8 +1192,8 @@
         "position": "119"
     },
     {
-        "card_name": "Capital Perfumer",
-        "number": 171,
+        "card_name": "Ancestral Follower",
+        "number": 168,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1232,12 +1232,12 @@
         "position": "118"
     },
     {
-        "card_name": "Erdtree Avatar",
-        "number": 177,
+        "card_name": "Duskborn's Presence",
+        "number": 175,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "25"
+        "position": "150"
     },
     {
         "card_name": "Hero of the Fringes",
@@ -1272,12 +1272,12 @@
         "position": "115"
     },
     {
-        "card_name": "Fingercreeper",
-        "number": 178,
+        "card_name": "Erdtree Avatar",
+        "number": 177,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "62"
+        "position": "25"
     },
     {
         "card_name": "Knight's Warhawk",
@@ -1312,12 +1312,12 @@
         "position": "27"
     },
     {
-        "card_name": "Forager Brood",
-        "number": 179,
+        "card_name": "Fingercreeper",
+        "number": 178,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "140"
+        "position": "62"
     },
     {
         "card_name": "Marika's Crucifixion",
@@ -1352,12 +1352,12 @@
         "position": "123"
     },
     {
-        "card_name": "Grafted Scion",
-        "number": 183,
+        "card_name": "Forager Brood",
+        "number": 179,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "141"
+        "position": "140"
     },
     {
         "card_name": "Miquella's Needle Knight",
@@ -1392,12 +1392,12 @@
         "position": "121"
     },
     {
-        "card_name": "Haligtree Knight",
-        "number": 185,
+        "card_name": "Grafted Scion",
+        "number": 183,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "61"
+        "position": "141"
     },
     {
         "card_name": "Nox Spirits",
@@ -1432,12 +1432,12 @@
         "position": "113"
     },
     {
-        "card_name": "New Life from Death",
-        "number": 193,
+        "card_name": "Groundswell",
+        "number": 185,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "150"
+        "position": "151"
     },
     {
         "card_name": "Oracle Envoy",
@@ -1472,12 +1472,12 @@
         "position": "37"
     },
     {
-        "card_name": "Power of the Dragonkin",
-        "number": 194,
+        "card_name": "Haligtree Knight",
+        "number": 186,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "152"
+        "position": "61"
     },
     {
         "card_name": "Seeker of Runes",
@@ -1512,12 +1512,12 @@
         "position": "70"
     },
     {
-        "card_name": "Radahn's Might",
+        "card_name": "Power of the Dragonkin",
         "number": 195,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "151"
+        "position": "152"
     },
     {
         "card_name": "United in Common Cause",
@@ -1654,7 +1654,7 @@
     "a->gold",
     {
         "card_name": "Loretta, Haligtree Knight",
-        "number": 227,
+        "number": 226,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1662,7 +1662,7 @@
     },
     {
         "card_name": "Ranni the Witch",
-        "number": 239,
+        "number": 238,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1670,7 +1670,7 @@
     },
     {
         "card_name": "Mohg, Lord of Blood",
-        "number": 233,
+        "number": 232,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1678,7 +1678,7 @@
     },
     {
         "card_name": "Cleanrot Knight",
-        "number": 212,
+        "number": 211,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1686,7 +1686,7 @@
     },
     {
         "card_name": "Miquella, the Kind",
-        "number": 230,
+        "number": 229,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1694,7 +1694,7 @@
     },
     {
         "card_name": "Radahn's Return",
-        "number": 238,
+        "number": 237,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1702,7 +1702,7 @@
     },
     {
         "card_name": "Fall of the Eternal Cities",
-        "number": 221,
+        "number": 220,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1710,7 +1710,7 @@
     },
     {
         "card_name": "Bayle the Dread",
-        "number": 210,
+        "number": 209,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1718,7 +1718,7 @@
     },
     {
         "card_name": "Romina, Saint of the Bud",
-        "number": 243,
+        "number": 242,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1726,7 +1726,7 @@
     },
     {
         "card_name": "Diallos, of House Hoslow",
-        "number": 216,
+        "number": 215,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1734,7 +1734,7 @@
     },
     {
         "card_name": "Ever-Brilliant Goldmask",
-        "number": 220,
+        "number": 219,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1742,7 +1742,7 @@
     },
     {
         "card_name": "Metyr, Mother of Fingers",
-        "number": 229,
+        "number": 228,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1766,7 +1766,7 @@
     },
     {
         "card_name": "Light of Miquella",
-        "number": 225,
+        "number": 224,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1774,7 +1774,7 @@
     },
     {
         "card_name": "Miquella's Love",
-        "number": 231,
+        "number": 230,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1790,7 +1790,7 @@
     },
     {
         "card_name": "Hyetta, Blind Maiden",
-        "number": 224,
+        "number": 223,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1806,7 +1806,7 @@
     },
     {
         "card_name": "Devonia, of the Crucible",
-        "number": 215,
+        "number": 214,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1822,7 +1822,7 @@
     },
     {
         "card_name": "Ranni's Guidance",
-        "number": 240,
+        "number": 239,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1846,7 +1846,7 @@
     },
     {
         "card_name": "Spoken Echoes",
-        "number": 246,
+        "number": 245,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1899,7 +1899,7 @@
     },
     {
         "card_name": "Marika, God-Queen",
-        "number": 228,
+        "number": 227,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1907,7 +1907,7 @@
     },
     {
         "card_name": "Starscourge Radahn",
-        "number": 248,
+        "number": 247,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1915,7 +1915,7 @@
     },
     {
         "card_name": "The Loathsome Dung Eater",
-        "number": 226,
+        "number": 225,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1923,7 +1923,7 @@
     },
     {
         "card_name": "Radagon, King Consort",
-        "number": 236,
+        "number": 235,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1939,7 +1939,7 @@
     },
     {
         "card_name": "Godskin Apostle",
-        "number": 222,
+        "number": 221,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1947,7 +1947,7 @@
     },
     {
         "card_name": "Comet Azur",
-        "number": 213,
+        "number": 212,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1955,7 +1955,7 @@
     },
     {
         "card_name": "Mired in Despair",
-        "number": 232,
+        "number": 231,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1963,7 +1963,7 @@
     },
     {
         "card_name": "The Shattering",
-        "number": 245,
+        "number": 244,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1971,7 +1971,7 @@
     },
     {
         "card_name": "Putrescent Knight",
-        "number": 235,
+        "number": 234,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1979,7 +1979,7 @@
     },
     {
         "card_name": "The Two Fingers",
-        "number": 249,
+        "number": 248,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1987,23 +1987,23 @@
     },
     {
         "card_name": "Rellana, Twin Moon Knight",
-        "number": 241,
+        "number": 240,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
         "position": "214"
     },
     {
-        "card_name": "Banish to the Sewers",
-        "number": 208,
+        "card_name": "The Hornsent",
+        "number": 222,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "290"
+        "position": "84"
     },
     {
         "card_name": "Roderika and Hewg",
-        "number": 242,
+        "number": 241,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -2011,7 +2011,7 @@
     },
     {
         "card_name": "Commander Gaius",
-        "number": 214,
+        "number": 213,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -2019,7 +2019,7 @@
     },
     {
         "card_name": "Ensha of Royal Remains",
-        "number": 219,
+        "number": 218,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -2027,19 +2027,19 @@
     },
     {
         "card_name": "Blaidd, Loyal Hound",
-        "number": 211,
+        "number": 210,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
         "position": "71"
     },
     {
-        "card_name": "The Hornsent",
-        "number": 223,
+        "card_name": "Unloved and Unwanted",
+        "number": 249,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "84"
+        "position": "290"
     },
     {
         "card_name": "Valkyrie's Prosthetic",
@@ -2051,7 +2051,7 @@
     },
     {
         "card_name": "New Life Grows",
-        "number": 234,
+        "number": 233,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -2059,7 +2059,7 @@
     },
     {
         "card_name": "Sealing the Rune of Death",
-        "number": 244,
+        "number": 243,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -2139,7 +2139,7 @@
     },
     {
         "card_name": "Dragonlord Placidusax",
-        "number": 217,
+        "number": 216,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -2147,7 +2147,7 @@
     },
     {
         "card_name": "The Radahn Festival",
-        "number": 237,
+        "number": 236,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -2155,7 +2155,7 @@
     },
     {
         "card_name": "St. Trina",
-        "number": 247,
+        "number": 246,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -2163,7 +2163,7 @@
     },
     {
         "card_name": "The Elden Beast",
-        "number": 218,
+        "number": 217,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -2171,7 +2171,7 @@
     },
     {
         "card_name": "Bathed in Gold",
-        "number": 209,
+        "number": 208,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,

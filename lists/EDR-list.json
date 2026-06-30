@@ -9,7 +9,7 @@
     },
     {
         "card_name": "Hold Back the Stars",
-        "number": 58,
+        "number": 59,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -49,7 +49,7 @@
     },
     {
         "card_name": "Promised Consort Radahn",
-        "number": 67,
+        "number": 68,
         "shape": "transform double faced",
         "set": "EDR",
         "rotated": false,
@@ -73,7 +73,7 @@
     },
     {
         "card_name": "God-Devouring Serpent",
-        "number": 180,
+        "number": 181,
         "shape": "transform double faced",
         "set": "EDR",
         "rotated": false,
@@ -89,7 +89,7 @@
     },
     {
         "card_name": "Rennala of Caria",
-        "number": 69,
+        "number": 70,
         "shape": "transform double faced",
         "set": "EDR",
         "rotated": false,
@@ -113,7 +113,7 @@
     },
     {
         "card_name": "Godwyn, First to Fall",
-        "number": 181,
+        "number": 182,
         "shape": "transform double faced",
         "set": "EDR",
         "rotated": false,
@@ -129,7 +129,7 @@
     },
     {
         "card_name": "Rennala's Amber Egg",
-        "number": 70,
+        "number": 71,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -153,7 +153,7 @@
     },
     {
         "card_name": "Golden Seeds",
-        "number": 182,
+        "number": 183,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -273,7 +273,7 @@
     },
     {
         "card_name": "Hornsent Grandam",
-        "number": 188,
+        "number": 189,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -288,12 +288,12 @@
         "position": "220"
     },
     {
-        "card_name": "Mimic Tear",
-        "number": 61,
+        "card_name": "Gideon Ofnir, All Knowing",
+        "number": 55,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "33"
+        "position": "177"
     },
     {
         "card_name": "Midra, Lord of Frenzied Flame",
@@ -313,7 +313,7 @@
     },
     {
         "card_name": "Kindreds of Rot",
-        "number": 189,
+        "number": 190,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -328,12 +328,12 @@
         "position": "207"
     },
     {
-        "card_name": "Sir Gideon Ofnir",
-        "number": 74,
+        "card_name": "Mimic Tear",
+        "number": 62,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "177"
+        "position": "33"
     },
     {
         "card_name": "Old Untouchable",
@@ -592,12 +592,12 @@
         "position": "216"
     },
     {
-        "card_name": "Dragonkin Soldier",
+        "card_name": "Discovery of Grafting",
         "number": 174,
-        "shape": "normal",
+        "shape": "saga",
         "set": "EDR",
         "rotated": false,
-        "position": "163"
+        "position": "9"
     },
     {
         "card_name": "Bloodhound's Fang",
@@ -632,12 +632,12 @@
         "position": "238"
     },
     {
-        "card_name": "Epic Encounter",
-        "number": 176,
+        "card_name": "Dragonkin Soldier",
+        "number": 175,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "198"
+        "position": "163"
     },
     {
         "card_name": "Braid Cutting",
@@ -649,7 +649,7 @@
     },
     {
         "card_name": "Miquella's Sacrifice",
-        "number": 62,
+        "number": 63,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -672,12 +672,12 @@
         "position": "194"
     },
     {
-        "card_name": "Great Jar",
-        "number": 184,
+        "card_name": "Epic Encounter",
+        "number": 177,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "59"
+        "position": "198"
     },
     {
         "card_name": "Divine Bird Warrior",
@@ -689,7 +689,7 @@
     },
     {
         "card_name": "Old Hero of Zamor",
-        "number": 63,
+        "number": 64,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -712,12 +712,12 @@
         "position": "271"
     },
     {
-        "card_name": "Horned Warrior",
-        "number": 187,
+        "card_name": "Great Jar",
+        "number": 185,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "142"
+        "position": "59"
     },
     {
         "card_name": "Dryleaf Dane",
@@ -729,7 +729,7 @@
     },
     {
         "card_name": "Pawns in a Plan",
-        "number": 64,
+        "number": 65,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -752,12 +752,12 @@
         "position": "197"
     },
     {
-        "card_name": "Lord of All That Is Golden",
-        "number": 190,
-        "shape": "saga",
+        "card_name": "Horned Warrior",
+        "number": 188,
+        "shape": "normal",
         "set": "EDR",
         "rotated": false,
-        "position": "9"
+        "position": "142"
     },
     {
         "card_name": "Lady Tanith",
@@ -769,7 +769,7 @@
     },
     {
         "card_name": "Primeval Sorcerer Azur",
-        "number": 65,
+        "number": 66,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -809,7 +809,7 @@
     },
     {
         "card_name": "Primeval Sorcerer Lusat",
-        "number": 66,
+        "number": 67,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -849,7 +849,7 @@
     },
     {
         "card_name": "Rennala's Studies",
-        "number": 71,
+        "number": 72,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -889,7 +889,7 @@
     },
     {
         "card_name": "Rogier's Talent",
-        "number": 72,
+        "number": 73,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1233,7 +1233,7 @@
     },
     {
         "card_name": "Duskborn's Presence",
-        "number": 175,
+        "number": 176,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1273,7 +1273,7 @@
     },
     {
         "card_name": "Erdtree Avatar",
-        "number": 177,
+        "number": 178,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1289,7 +1289,7 @@
     },
     {
         "card_name": "Glintstone Dragon",
-        "number": 55,
+        "number": 56,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1313,7 +1313,7 @@
     },
     {
         "card_name": "Fingercreeper",
-        "number": 178,
+        "number": 179,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1329,7 +1329,7 @@
     },
     {
         "card_name": "Graven Mass Transformation",
-        "number": 56,
+        "number": 57,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1353,7 +1353,7 @@
     },
     {
         "card_name": "Forager Brood",
-        "number": 179,
+        "number": 180,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1369,7 +1369,7 @@
     },
     {
         "card_name": "Hallowhorn Communion",
-        "number": 57,
+        "number": 58,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1393,7 +1393,7 @@
     },
     {
         "card_name": "Grafted Scion",
-        "number": 183,
+        "number": 184,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1409,7 +1409,7 @@
     },
     {
         "card_name": "Loretta's Greatbow",
-        "number": 59,
+        "number": 60,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1433,7 +1433,7 @@
     },
     {
         "card_name": "Groundswell",
-        "number": 185,
+        "number": 186,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1449,7 +1449,7 @@
     },
     {
         "card_name": "Magic Preceptor",
-        "number": 60,
+        "number": 61,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1473,7 +1473,7 @@
     },
     {
         "card_name": "Haligtree Knight",
-        "number": 186,
+        "number": 187,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1489,7 +1489,7 @@
     },
     {
         "card_name": "Rellana's Cameo",
-        "number": 68,
+        "number": 69,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,
@@ -1529,7 +1529,7 @@
     },
     {
         "card_name": "Sellen's Triumph",
-        "number": 73,
+        "number": 74,
         "shape": "normal",
         "set": "EDR",
         "rotated": false,

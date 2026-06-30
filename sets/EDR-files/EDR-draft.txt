@@ -3,7 +3,7 @@
 		{
 			"name": "Veiled Monarch's Reign",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{W}",
+			"mana_cost": "{3}{W}{W}",
 			"type": "Enchantment — Saga",
 			"collector_number": "39",
 			"image_uris": {
@@ -13,7 +13,7 @@
 		{
 			"name": "Wisdom of the Moon",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Saga",
 			"collector_number": "82",
 			"image_uris": {
@@ -35,7 +35,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "71",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/3.png"
 			}
@@ -91,11 +91,11 @@
 			}
 		},
 		{
-			"name": "Lord of All That Is Golden",
+			"name": "Discovery of Grafting",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "190",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/9.png"
 			}
@@ -125,7 +125,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
-			"collector_number": "73",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/12.png"
 			}
@@ -245,7 +245,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Dragon",
-			"collector_number": "55",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/24.png"
 			}
@@ -255,7 +255,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Plant Avatar",
-			"collector_number": "177",
+			"collector_number": "178",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/25.png"
 			}
@@ -335,7 +335,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "61",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/33.png"
 			}
@@ -412,7 +412,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "69",
+			"collector_number": "70",
 			"back": {
 				"name": "",
 				"type": "",
@@ -514,7 +514,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Demigod",
-			"collector_number": "67",
+			"collector_number": "68",
 			"back": {
 				"name": "",
 				"type": "",
@@ -531,7 +531,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Demigod",
-			"collector_number": "181",
+			"collector_number": "182",
 			"back": {
 				"name": "",
 				"type": "",
@@ -568,7 +568,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{G}",
 			"type": "Legendary Creature — Serpent",
-			"collector_number": "180",
+			"collector_number": "181",
 			"back": {
 				"name": "",
 				"type": "",
@@ -655,7 +655,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "56",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/58.png"
 			}
@@ -665,7 +665,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "184",
+			"collector_number": "185",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/59.png"
 			}
@@ -685,7 +685,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Knight",
-			"collector_number": "186",
+			"collector_number": "187",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/61.png"
 			}
@@ -695,7 +695,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Finger Spider",
-			"collector_number": "178",
+			"collector_number": "179",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/62.png"
 			}
@@ -925,7 +925,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "66",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/85.png"
 			}
@@ -935,7 +935,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "65",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/86.png"
 			}
@@ -1355,7 +1355,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Wizard Warrior",
-			"collector_number": "60",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/128.png"
 			}
@@ -1385,7 +1385,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "68",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/131.png"
 			}
@@ -1415,7 +1415,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact — Equipment",
-			"collector_number": "59",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/134.png"
 			}
@@ -1425,7 +1425,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "57",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/135.png"
 			}
@@ -1475,7 +1475,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Insect Scout",
-			"collector_number": "179",
+			"collector_number": "180",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/140.png"
 			}
@@ -1485,7 +1485,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Mutant Warrior",
-			"collector_number": "183",
+			"collector_number": "184",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/141.png"
 			}
@@ -1495,7 +1495,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Mutant Warrior",
-			"collector_number": "187",
+			"collector_number": "188",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/142.png"
 			}
@@ -1575,7 +1575,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "175",
+			"collector_number": "176",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/150.png"
 			}
@@ -1585,7 +1585,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "185",
+			"collector_number": "186",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/151.png"
 			}
@@ -1705,7 +1705,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Dragon Soldier",
-			"collector_number": "174",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/163.png"
 			}
@@ -1841,11 +1841,11 @@
 			}
 		},
 		{
-			"name": "Sir Gideon Ofnir",
+			"name": "Gideon Ofnir, All Knowing",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{U}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "74",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/177.png"
 			}
@@ -2055,7 +2055,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "176",
+			"collector_number": "177",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/198.png"
 			}
@@ -2293,7 +2293,7 @@
 		{
 			"name": "Aspects of the Crucible",
 			"rarity": "rare",
-			"mana_cost": "{5}{G}{G}",
+			"mana_cost": "{2}{G}{G}",
 			"type": "Enchantment — Saga",
 			"collector_number": "169",
 			"image_uris": {
@@ -2344,7 +2344,7 @@
 			"name": "The Elden Beast",
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{U}{B}{R}{G}",
-			"type": "Legendary Creature — Beast God",
+			"type": "Legendary Creature — Elder Beast God",
 			"collector_number": "217",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/227.png"
@@ -2463,7 +2463,7 @@
 		{
 			"name": "The Madness Swells",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{B}",
+			"mana_cost": "{3}{B}{B}",
 			"type": "Enchantment — Saga",
 			"collector_number": "103",
 			"image_uris": {
@@ -2535,7 +2535,7 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Creature — Mutant Cleric",
-			"collector_number": "188",
+			"collector_number": "189",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/246.png"
 			}
@@ -2603,7 +2603,7 @@
 		{
 			"name": "Radagon is Marika",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{1}{W}{W}",
 			"type": "Enchantment — Saga",
 			"collector_number": "31",
 			"image_uris": {
@@ -2635,7 +2635,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Insect Cleric",
-			"collector_number": "189",
+			"collector_number": "190",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/256.png"
 			}
@@ -2715,7 +2715,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "58",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/264.png"
 			}
@@ -2725,7 +2725,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Spirit Warrior",
-			"collector_number": "63",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/265.png"
 			}
@@ -2735,7 +2735,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "64",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/266.png"
 			}
@@ -2895,7 +2895,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
-			"collector_number": "72",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/282.png"
 			}
@@ -2945,7 +2945,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "62",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/287.png"
 			}
@@ -2995,7 +2995,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Artifact",
-			"collector_number": "70",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/292.png"
 			}
@@ -3015,7 +3015,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}",
 			"type": "Instant",
-			"collector_number": "182",
+			"collector_number": "183",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/EDR-files/img/294.png"
 			}
@@ -3440,7 +3440,7 @@
 	2 The Scadutree
 	2 Crucible Knight
 	1 The Elden Ring
-	2 Sir Gideon Ofnir
+	2 Gideon Ofnir, All Knowing
 	2 Scadutree Avatar
 	2 Comet Azur
 	2 Metyr, Mother of Fingers
@@ -3506,7 +3506,7 @@
 	4 Rennala's Studies
 	4 Crumbling Farum Azula
 	4 Igon, Drake Warrior
-	4 Lord of All That Is Golden
+	4 Discovery of Grafting
 	4 Godwyn's Death Knight
 	4 Leyndell Knight
 	4 Braid Cutting
@@ -3805,7 +3805,7 @@
 	12 Fanged Imp
 	6 Igon, Drake Warrior
 	12 Crystalian
-	6 Lord of All That Is Golden
+	6 Discovery of Grafting
 	1 Night of Black Knives
 	2 Black Knife Assassin
 	12 Sellen's Triumph
@@ -3973,7 +3973,7 @@
 	2 The Scadutree
 	2 Crucible Knight
 	1 The Elden Ring
-	2 Sir Gideon Ofnir
+	2 Gideon Ofnir, All Knowing
 	2 Scadutree Avatar
 	2 Comet Azur
 	2 Metyr, Mother of Fingers
@@ -4112,7 +4112,7 @@
 	6 Fanged Imp
 	15 Igon, Drake Warrior
 	6 Crystalian
-	15 Lord of All That Is Golden
+	15 Discovery of Grafting
 	4 Night of Black Knives
 	7 Black Knife Assassin
 	6 Sellen's Triumph
@@ -4280,7 +4280,7 @@
 	7 The Scadutree
 	7 Crucible Knight
 	4 The Elden Ring
-	7 Sir Gideon Ofnir
+	7 Gideon Ofnir, All Knowing
 	7 Scadutree Avatar
 	7 Comet Azur
 	7 Metyr, Mother of Fingers

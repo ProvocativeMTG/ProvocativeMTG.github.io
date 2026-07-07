@@ -2259,6 +2259,14 @@
         "position": "15"
     },
     {
+        "card_name": "Draw Count",
+        "number": 0,
+        "shape": "normal",
+        "set": "VYI",
+        "rotated": false,
+        "position": "320"
+    },
+    {
         "card_name": "In Orbit",
         "number": 0,
         "shape": "normal",
@@ -2273,14 +2281,6 @@
         "set": "VYI",
         "rotated": false,
         "position": "319"
-    },
-    {
-        "card_name": "Draw Count",
-        "number": 0,
-        "shape": "normal",
-        "set": "VYI",
-        "rotated": false,
-        "position": "320"
     },
     {
         "card_name": "Core Guardian",

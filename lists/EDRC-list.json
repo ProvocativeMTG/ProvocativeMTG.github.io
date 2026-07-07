@@ -5019,20 +5019,20 @@
     },
     "a->token",
     {
-        "card_name": "Poison Counter",
-        "number": 1,
-        "shape": "token",
-        "set": "EDRC",
-        "rotated": false,
-        "position": "396"
-    },
-    {
         "card_name": "Can Be Cast From Exile",
         "number": 1,
         "shape": "token",
         "set": "EDRC",
         "rotated": false,
         "position": "479"
+    },
+    {
+        "card_name": "Poison Counter",
+        "number": 1,
+        "shape": "token",
+        "set": "EDRC",
+        "rotated": false,
+        "position": "396"
     },
     {
         "card_name": "The Monarch",

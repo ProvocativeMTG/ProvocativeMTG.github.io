@@ -206,7 +206,9 @@
 				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
 			</div>
 			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
-			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a id="header-articles-link" onclick="window.location.href = rootPath + '/all-articles'" style="display: none;"><img id="header-articles" class="sg-icon">Articles</a>
+			<a id="header-decks-link" onclick="window.location.href = rootPath + '/decks'" style="display: none;"><img id="header-decks" class="sg-icon">Decks</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deckbuilder" class="sg-icon">Deckbuilder</a>
 			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
@@ -215,8 +217,22 @@
 			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
 			document.getElementById("header-search").src = rootPath + "/img/search.png";
 			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
-			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-articles").src = rootPath + "/img/articles.png";
+			document.getElementById("header-decks").src = rootPath + "/img/deck.png";
+			document.getElementById("header-deckbuilder").src = rootPath + "/img/deckbuilder.png";
 			document.getElementById("header-random").src = rootPath + "/img/random.png";
+
+			// Hide Articles if none exist
+			fetch(rootPath + '/all-articles.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-articles-link').style.display = 'flex';
+				}).catch(() => {});
+
+			// Hide Decks if none exist
+			fetch(rootPath + '/decks.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-decks-link').style.display = 'flex';
+				}).catch(() => {});
 		});
 
 		function goToSearch() {
@@ -557,9 +573,9 @@
 				<div class="container"><img loading="lazy" alt="sets/VYI-files/img/296.png" id="VYI_296" data-flag="@X" onclick="openSidebar('VYI_296',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets/VYI-files/img/167.png" id="VYI_167" data-flag="@X" onclick="openSidebar('VYI_167',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets/VYI-files/img/15.png" id="VYI_15" data-flag="@X" onclick="openSidebar('VYI_15',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/VYI-files/img/320.png" id="VYI_320" data-flag="@X" onclick="openSidebar('VYI_320',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets/VYI-files/img/318.png" id="VYI_318" data-flag="@X" onclick="openSidebar('VYI_318',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets/VYI-files/img/319.png" id="VYI_319" data-flag="@X" onclick="openSidebar('VYI_319',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets/VYI-files/img/320.png" id="VYI_320" data-flag="@X" onclick="openSidebar('VYI_320',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets/VYI-files/img/214.png" id="VYI_214" data-flag="@X" onclick="openSidebar('VYI_214',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets/VYI-files/img/74.png" id="VYI_74" data-flag="@X" onclick="openSidebar('VYI_74',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets/VYI-files/img/199.png" id="VYI_199" data-flag="@X" onclick="openSidebar('VYI_199',false)"></div>
@@ -682,7 +698,7 @@
 					if (card.notes) {
 						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
 						for (const match of tagMatches) {
-							all_tags.add(match[1]);
+							all_tags.add(match[1].toLowerCase());
 						}
 					}
 				});

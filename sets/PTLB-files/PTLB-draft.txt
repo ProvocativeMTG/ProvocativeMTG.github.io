@@ -1,0 +1,436 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Ranni the Witch",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Demigod",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/0.png"
+			}
+		},
+		{
+			"name": "Marika, God-Queen",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — God Shaman",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/1.png"
+			}
+		},
+		{
+			"name": "Starscourge Radahn",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Creature — Demigod",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/2.png"
+			}
+		},
+		{
+			"name": "Godwyn's Fall",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/3.png"
+			}
+		},
+		{
+			"name": "Rellana's Cameo",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/4.png"
+			}
+		},
+		{
+			"name": "Carian Retaliation",
+			"rarity": "common",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/5.png"
+			}
+		},
+		{
+			"name": "Rennala of Caria",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "9",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/6_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/6_front.png"
+			}
+		},
+		{
+			"name": "Blaidd, Loyal Hound",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Creature — Wolf Knight",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/7.png"
+			}
+		},
+		{
+			"name": "Bloodhound Knight",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Horror Knight",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/8.png"
+			}
+		},
+		{
+			"name": "Dearest Nanaya",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/9.png"
+			}
+		},
+		{
+			"name": "Miquella's Sacrifice",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/10.png"
+			}
+		},
+		{
+			"name": "Torrent, Spectral Steed",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Spirit Horse",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/11.png"
+			}
+		},
+		{
+			"name": "Secret Away",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/12.png"
+			}
+		},
+		{
+			"name": "Sir Ansbach",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/13.png"
+			}
+		},
+		{
+			"name": "Gideon Ofnir, All Knowing",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/14.png"
+			}
+		},
+		{
+			"name": "White Mask Varre",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Doctor",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/15.png"
+			}
+		},
+		{
+			"name": "War with Liurnia",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/16.png"
+			}
+		},
+		{
+			"name": "Radagon, King Consort",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — God",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/17.png"
+			}
+		},
+		{
+			"name": "Vyke's Torment",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/18.png"
+			}
+		},
+		{
+			"name": "Spoken Echoes",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/19.png"
+			}
+		},
+		{
+			"name": "Soldier of Godrick",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/20.png"
+			}
+		},
+		{
+			"name": "Roderika and Hewg",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Mutant Human",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/21.png"
+			}
+		},
+		{
+			"name": "Rennala's Studies",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/22.png"
+			}
+		},
+		{
+			"name": "Millicent's Journey",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/23.png"
+			}
+		},
+		{
+			"name": "Hyetta, Blind Maiden",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/24.png"
+			}
+		},
+		{
+			"name": "Founding Rain of Stars",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/25.png"
+			}
+		},
+		{
+			"name": "Metyr, Mother of Fingers",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{B}",
+			"type": "Legendary Creature — Finger Horror",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/26.png"
+			}
+		},
+		{
+			"name": "Seeking the Crosses",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/27.png"
+			}
+		},
+		{
+			"name": "Ancestor Spirit",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Elk Spirit",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/28.png"
+			}
+		},
+		{
+			"name": "Ritual Ascension",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/29.png"
+			}
+		},
+		{
+			"name": "Bathed in Gold",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/30.png"
+			}
+		},
+		{
+			"name": "Fleeting Microcosm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/PTLB-files/img/31.png"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Ranni the Witch
+	1 Marika, God-Queen
+	1 Starscourge Radahn
+	1 Rennala of Caria
+	2 Gideon Ofnir, All Knowing
+	2 Radagon, King Consort
+	2 Metyr, Mother of Fingers
+	2 Ancestor Spirit
+	2 Ritual Ascension
+	2 Bathed in Gold
+[uncommon(3)]
+	4 Blaidd, Loyal Hound
+	4 Bloodhound Knight
+	4 Dearest Nanaya
+	4 Miquella's Sacrifice
+	4 Torrent, Spectral Steed
+	4 Secret Away
+	4 Sir Ansbach
+	4 White Mask Varre
+	4 War with Liurnia
+	4 Vyke's Torment
+	4 Spoken Echoes
+	4 Soldier of Godrick
+	4 Roderika and Hewg
+	4 Rennala's Studies
+	4 Millicent's Journey
+	4 Hyetta, Blind Maiden
+	4 Founding Rain of Stars
+	4 Seeking the Crosses
+	4 Fleeting Microcosm
+[common(6)]
+	8 Godwyn's Fall
+	8 Rellana's Cameo
+	8 Carian Retaliation
+[common | masterpiece(1)]
+	8 Godwyn's Fall
+	8 Rellana's Cameo
+	8 Carian Retaliation
+[foil(1)]
+	1 Ranni the Witch
+	1 Marika, God-Queen
+	1 Starscourge Radahn
+	12 Godwyn's Fall
+	12 Rellana's Cameo
+	12 Carian Retaliation
+	1 Rennala of Caria
+	6 Blaidd, Loyal Hound
+	6 Bloodhound Knight
+	6 Dearest Nanaya
+	6 Miquella's Sacrifice
+	6 Torrent, Spectral Steed
+	6 Secret Away
+	6 Sir Ansbach
+	2 Gideon Ofnir, All Knowing
+	6 White Mask Varre
+	6 War with Liurnia
+	2 Radagon, King Consort
+	6 Vyke's Torment
+	6 Spoken Echoes
+	6 Soldier of Godrick
+	6 Roderika and Hewg
+	6 Rennala's Studies
+	6 Millicent's Journey
+	6 Hyetta, Blind Maiden
+	6 Founding Rain of Stars
+	2 Metyr, Mother of Fingers
+	6 Seeking the Crosses
+	2 Ancestor Spirit
+	2 Ritual Ascension
+	2 Bathed in Gold
+	6 Fleeting Microcosm
+[wildcard(1)]
+	4 Ranni the Witch
+	4 Marika, God-Queen
+	4 Starscourge Radahn
+	6 Godwyn's Fall
+	6 Rellana's Cameo
+	6 Carian Retaliation
+	4 Rennala of Caria
+	15 Blaidd, Loyal Hound
+	15 Bloodhound Knight
+	15 Dearest Nanaya
+	15 Miquella's Sacrifice
+	15 Torrent, Spectral Steed
+	15 Secret Away
+	15 Sir Ansbach
+	7 Gideon Ofnir, All Knowing
+	15 White Mask Varre
+	15 War with Liurnia
+	7 Radagon, King Consort
+	15 Vyke's Torment
+	15 Spoken Echoes
+	15 Soldier of Godrick
+	15 Roderika and Hewg
+	15 Rennala's Studies
+	15 Millicent's Journey
+	15 Hyetta, Blind Maiden
+	15 Founding Rain of Stars
+	7 Metyr, Mother of Fingers
+	15 Seeking the Crosses
+	7 Ancestor Spirit
+	7 Ritual Ascension
+	7 Bathed in Gold
+	15 Fleeting Microcosm

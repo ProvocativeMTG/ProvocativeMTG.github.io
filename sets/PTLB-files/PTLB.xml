@@ -1,0 +1,593 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>PTLB</name>
+			<longname>Promos of The Lands Between</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-07-07</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Ranni the Witch</name>
+			<text>At the beginning of your upkeep, surveil 1.
+Once during each of your turns, you may cast an instant or sorcery spell from your graveyard by sacrificing another creature in addition to paying that spell&apos;s other costs. If a spell cast this way would be put into your graveyard, exile it instead.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/0.png" num="27">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Marika, God-Queen</name>
+			<text>Whenever you cast an enchantment spell, copy it. The copy is a Saga in addition to its other types and has &quot;r{3}— You gain 1 life.&quot; You may choose new targets for the copy. (As that token enters and after your draw step, add a lore counter. Sacrifice after III.)
+Whenever Marika attacks, you may have her name become Radagon of the Golden Order. If you do, put a +1/+1 counter on him for each enchantment you control. Do this only once.</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/1.png" num="24">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Starscourge Radahn</name>
+			<text>Trample
+When Starscourge Radahn enters or whenever you cast a noncreature spell, create a tapped colorless artifact token named Meteorite with &quot;When this token enters, it deals 2 damage to any target&quot; and &quot;{T}: Add one mana of any color.&quot;</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/2.png" num="30">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost>3UR</manacost>
+				<cmc>5</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Godwyn&apos;s Fall</name>
+			<text>Flash
+When this enchantment enters, each opponent sacrifices a creature.
+{1}{B}, Discard a card, Sacrifice this enchantment: Return target creature card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/3.png" num="12">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rellana&apos;s Cameo</name>
+			<text>Draw a card.
+As long as you&apos;ve cast two or more noncreature spells this turn, this card has flashback {U}.</text>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/4.png" num="8">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Carian Retaliation</name>
+			<text>Counter target spell unless its controller pays {X}.
+Create a Shard token.</text>
+			<set rarity="common" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/5.png" num="3">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XU</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rennala of Caria</name>
+			<text>Flying
+Whenever you cast a noncreature spell, create a 1/1 blue Wizard creature token.
+Final form {4}{GW}{U} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)
+---
+(Back): Rennala, Queen of the Moon</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/6_front.png" num="9a">PTLB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Rennala, Queen of the Moon</related>
+		</card>
+		<card>
+			<name>Rennala, Queen of the Moon</name>
+			<text>Flying
+Whenever you cast a noncreature spell, create X 1/1 blue Wizard creature tokens, where X is that spell&apos;s mana value.
+---
+(Front): Rennala of Caria</text>
+			<set rarity="mythic" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/6_back.png" num="9b">PTLB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Rennala of Caria</related>
+		</card>
+		<card>
+			<name>Blaidd, Loyal Hound</name>
+			<text>Trample, haste
+Prowess
+When Blaidd enters, you may exile target instant or sorcery card with mana value 3 or less from a graveyard. Copy it. You may cast the copy without paying its mana cost.</text>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/7.png" num="22">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Wolf Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3UR</manacost>
+				<cmc>5</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodhound Knight</name>
+			<text>This creature can&apos;t block.
+Whenever you discard this card or discard another card, you may cast this card from your graveyard.</text>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/8.png" num="11">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dearest Nanaya</name>
+			<text>{T}: Add {R}.
+Whenever a creature you control enters, if mana from Dearest Nanaya was spent to cast it, you may discard a card. If you do, until end of turn, that creature gains haste and &quot;Whenever this creature deals combat damage to a player, draw a card.&quot;</text>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/9.png" num="16">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Miquella&apos;s Sacrifice</name>
+			<text>Create a token that&apos;s a copy of target creature you control, except it&apos;s a Saga enchantment in addition to its other types and has &quot;r{3} — Scry 2.&quot; (As that token enters and after your draw step, add a lore counter. Sacrifice after III.)</text>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/10.png" num="7">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Torrent, Spectral Steed</name>
+			<text>Whenever you cast a legendary spell, Torrent gains flying until end of turn.</text>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/11.png" num="2">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spirit Horse</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Secret Away</name>
+			<text>This spell costs {2} less to cast if it targets a creature with mana value 4 or less.
+Gain control of target creature until end of turn. Untap it. It gains haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/12.png" num="18">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sir Ansbach</name>
+			<text>When Sir Ansbach enters, you may have each player sacrifice a creature.
+Whenever one or more cards leave your graveyard, you draw a card and lose 1 life. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/13.png" num="14">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gideon Ofnir, All Knowing</name>
+			<text>Flash
+Whenever an opponent searches their library, create a Shard token.
+Whenever you draw a card other than the first one you draw during each of your draw steps, draw an additional card. This ability triggers only once each turn.</text>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/14.png" num="6">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>White Mask Varre</name>
+			<text>Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life. If that creature was legendary, create a Blood token.</text>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/15.png" num="15">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Doctor</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>War with Liurnia</name>
+			<text>Choose one —
+• Draw two cards.
+• War with Liurnia deals 3 damage to any target.</text>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/16.png" num="32">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Radagon, King Consort</name>
+			<text>Trample
+When Radagon dies, if he was a creature, return him to the battlefield. He&apos;s a legendary Equipment artifact named Sacred Relic Sword with equip {2} and &quot;Equipped creature gets +X/+X and has trample, where X is the total mana value of legendary permanents you control.&quot;</text>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/17.png" num="26">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>3RW</manacost>
+				<cmc>5</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vyke&apos;s Torment</name>
+			<text>Cascade
+As long as you have no cards in hand and this card is in your graveyard, it has flashback {B}{R}.</text>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/18.png" num="31">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spoken Echoes</name>
+			<text>Return up to one target card from your graveyard to your hand. You may put a permanent card with mana value 3 or less from your hand onto the battlefield.</text>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/19.png" num="29">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Soldier of Godrick</name>
+			<text>Whenever another creature you control enters, you may put a +1/+1 counter on it.</text>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/20.png" num="19">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Roderika and Hewg</name>
+			<text>When Roderika and Hewg enter, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
+Whenever an Equipment you control enters, create a 1/1 blue Spirit creature token. Then you may pay {1}. If you do, attach that Equipment to that token.</text>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/21.png" num="28">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Human</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rennala&apos;s Studies</name>
+			<text>If it&apos;s your turn, you get an additional upkeep step and an additional draw step after this phase, followed by an additional main phase.</text>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/22.png" num="10">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Millicent&apos;s Journey</name>
+			<text>Discard your hand, then draw a card for each attacking creature you control.</text>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/23.png" num="17">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hyetta, Blind Maiden</name>
+			<text>Whenever you discard a card, exile the top card of your library. You may play that card for as long as you control Hyetta.
+At the beginning of your end step, for each card exiled with Hyetta, put it into your graveyard unless you pay 1 life.</text>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/24.png" num="23">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Founding Rain of Stars</name>
+			<text>Reveal the top ten cards of your library. For each card type, you may put a card of that type from among the revealed cards into your hand. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/25.png" num="5">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Metyr, Mother of Fingers</name>
+			<text>Menace
+When Metyr enters, exile each opponent&apos;s graveyard. Create a 1/2 black Finger Spider creature token for each nonland card exiled this way.
+Once during each of your turns, you may cast a card exiled with Metyr and you may spend mana of any type to cast it.</text>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/26.png" num="25">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Finger Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>5UB</manacost>
+				<cmc>7</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seeking the Crosses</name>
+			<text>If you would gain life, you gain that much life plus 1 instead.
+At the beginning of your end step, if you gained 4 or more life this turn, exile up to one target creature card with mana value 2 or less from your graveyard. If you do, create a token that&apos;s a copy of it.</text>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/27.png" num="1">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ancestor Spirit</name>
+			<text>Flying
+When this creature dies, create a tapped Ancient Tomb token.</text>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/28.png" num="20">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ritual Ascension</name>
+			<text>Converge — Search your library for a black card with mana value less than or equal to the number of colors of mana spent to cast this spell, exile that card, then shuffle. You may cast that card without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/29.png" num="13">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bathed in Gold</name>
+			<text>Cascade, cascade, cascade</text>
+			<set rarity="rare" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/30.png" num="21">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>WUBRG</manacost>
+				<cmc>5</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fleeting Microcosm</name>
+			<text>Return target nonland permanent an opponent controls to its owner&apos;s hand. You may return an enchantment you control to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://ProvocativeMTG.github.io/sets/PTLB-files/img/31.png" num="4">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

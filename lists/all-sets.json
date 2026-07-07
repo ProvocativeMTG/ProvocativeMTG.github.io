@@ -11,11 +11,6 @@
             "formats": ""
         },
         {
-            "set_code": "EDR",
-            "set_name": "Elden Ring",
-            "formats": ""
-        },
-        {
             "set_code": "EDRC",
             "set_name": "The Elden Ring Commander Cube",
             "formats": ""
@@ -36,8 +31,18 @@
             "formats": ""
         },
         {
+            "set_code": "PTLB",
+            "set_name": "Promos of The Lands Between",
+            "formats": ""
+        },
+        {
             "set_code": "SOL",
             "set_name": "The Solitudines",
+            "formats": ""
+        },
+        {
+            "set_code": "TLB",
+            "set_name": "The Lands Between",
             "formats": ""
         },
         {

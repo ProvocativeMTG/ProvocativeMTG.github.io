@@ -5,7 +5,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Enchantment — Saga",
-			"collector_number": "39",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/0.png"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Saga",
-			"collector_number": "82",
+			"collector_number": "80",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/1.png"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "151",
+			"collector_number": "148",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/2.png"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "72",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/3.png"
 			}
@@ -45,17 +45,17 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Enchantment — Saga",
-			"collector_number": "83",
+			"collector_number": "81",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/4.png"
 			}
 		},
 		{
 			"name": "Crumbling Farum Azula",
-			"rarity": "uncommon",
+			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "287",
+			"type": "Land",
+			"collector_number": "282",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/5.png"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact Creature — Imp Spirit",
-			"collector_number": "272",
+			"collector_number": "267",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/6.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Rogue Archer",
-			"collector_number": "141",
+			"collector_number": "139",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/7.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "48",
+			"collector_number": "47",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/8.png"
 			}
@@ -95,7 +95,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "174",
+			"collector_number": "170",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/9.png"
 			}
@@ -105,7 +105,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{2}{B}",
 			"type": "Enchantment — Saga",
-			"collector_number": "106",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/10.png"
 			}
@@ -115,7 +115,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{B}",
 			"type": "Creature — Human Assassin",
-			"collector_number": "85",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/11.png"
 			}
@@ -125,7 +125,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
-			"collector_number": "74",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/12.png"
 			}
@@ -135,7 +135,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Planeswalker — Patches",
-			"collector_number": "111",
+			"collector_number": "108",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/13.png"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B/G}",
 			"type": "Creature — Human Rogue Warrior",
-			"collector_number": "264",
+			"collector_number": "259",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/14.png"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G/W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "261",
+			"collector_number": "256",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/15.png"
 			}
@@ -165,7 +165,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U/R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "265",
+			"collector_number": "260",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/16.png"
 			}
@@ -175,7 +175,7 @@
 			"rarity": "common",
 			"mana_cost": "{B/R}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "260",
+			"collector_number": "255",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/17.png"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U/B}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "256",
+			"collector_number": "251",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/18.png"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R/W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "262",
+			"collector_number": "257",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/19.png"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W/B}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "259",
+			"collector_number": "254",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/20.png"
 			}
@@ -215,7 +215,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G/U}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "258",
+			"collector_number": "253",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/21.png"
 			}
@@ -225,7 +225,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W/U}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "263",
+			"collector_number": "258",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/22.png"
 			}
@@ -235,7 +235,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R/G}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "257",
+			"collector_number": "252",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/23.png"
 			}
@@ -245,7 +245,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Dragon",
-			"collector_number": "56",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/24.png"
 			}
@@ -255,7 +255,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Plant Avatar",
-			"collector_number": "178",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/25.png"
 			}
@@ -265,17 +265,17 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "124",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/26.png"
 			}
 		},
 		{
-			"name": "Knight of the Fringes",
+			"name": "Knights of the Fringes",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Knight",
-			"collector_number": "142",
+			"collector_number": "140",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/27.png"
 			}
@@ -295,7 +295,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Dragon Cleric",
-			"collector_number": "132",
+			"collector_number": "129",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/29.png"
 			}
@@ -305,7 +305,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "32",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/30.png"
 			}
@@ -315,7 +315,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Wolf Horror Warrior",
-			"collector_number": "84",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/31.png"
 			}
@@ -325,7 +325,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Legendary Creature — Dragon",
-			"collector_number": "209",
+			"collector_number": "204",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/32.png"
 			}
@@ -335,7 +335,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "62",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/33.png"
 			}
@@ -355,7 +355,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Human Knight",
-			"collector_number": "107",
+			"collector_number": "104",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/35.png"
 			}
@@ -375,7 +375,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Wolf",
-			"collector_number": "154",
+			"collector_number": "151",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/37.png"
 			}
@@ -385,7 +385,7 @@
 			"rarity": "common",
 			"mana_cost": "{7}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "277",
+			"collector_number": "272",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/38.png"
 			}
@@ -395,7 +395,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Creature — Demigod",
-			"collector_number": "144",
+			"collector_number": "142",
 			"back": {
 				"name": "",
 				"type": "",
@@ -412,7 +412,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "70",
+			"collector_number": "69",
 			"back": {
 				"name": "",
 				"type": "",
@@ -429,7 +429,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Demigod",
-			"collector_number": "104",
+			"collector_number": "101",
 			"back": {
 				"name": "",
 				"type": "",
@@ -463,7 +463,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Demigod",
-			"collector_number": "140",
+			"collector_number": "138",
 			"back": {
 				"name": "",
 				"type": "",
@@ -480,7 +480,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Beast Cleric",
-			"collector_number": "98",
+			"collector_number": "95",
 			"back": {
 				"name": "",
 				"type": "",
@@ -514,7 +514,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Demigod",
-			"collector_number": "68",
+			"collector_number": "67",
 			"back": {
 				"name": "",
 				"type": "",
@@ -531,7 +531,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Demigod",
-			"collector_number": "182",
+			"collector_number": "178",
 			"back": {
 				"name": "",
 				"type": "",
@@ -547,8 +547,8 @@
 			"name": "Divine Beast Dancing Lion",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Cat Spirit Avatar",
-			"collector_number": "130",
+			"type": "Creature — Cat Beast Avatar",
+			"collector_number": "127",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/48.png"
 			}
@@ -558,7 +558,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Skeleton Horror Knight",
-			"collector_number": "95",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/49.png"
 			}
@@ -568,7 +568,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{G}",
 			"type": "Legendary Creature — Serpent",
-			"collector_number": "181",
+			"collector_number": "177",
 			"back": {
 				"name": "",
 				"type": "",
@@ -595,7 +595,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Creature — God Shaman",
-			"collector_number": "227",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/52.png"
 			}
@@ -605,7 +605,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "303",
+			"collector_number": "298",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/53.png"
 			}
@@ -615,7 +615,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Instant",
-			"collector_number": "88",
+			"collector_number": "86",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/54.png"
 			}
@@ -625,7 +625,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
-			"collector_number": "113",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/55.png"
 			}
@@ -645,7 +645,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "268",
+			"collector_number": "263",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/57.png"
 			}
@@ -655,7 +655,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "57",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/58.png"
 			}
@@ -665,7 +665,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "185",
+			"collector_number": "181",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/59.png"
 			}
@@ -675,7 +675,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Spirit Wolf",
-			"collector_number": "43",
+			"collector_number": "42",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/60.png"
 			}
@@ -685,7 +685,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Knight",
-			"collector_number": "187",
+			"collector_number": "183",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/61.png"
 			}
@@ -695,7 +695,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Finger Spider",
-			"collector_number": "179",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/62.png"
 			}
@@ -715,7 +715,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Knight",
-			"collector_number": "86",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/64.png"
 			}
@@ -745,7 +745,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "41",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/67.png"
 			}
@@ -765,7 +765,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "108",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/69.png"
 			}
@@ -775,7 +775,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Knight",
-			"collector_number": "156",
+			"collector_number": "153",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/70.png"
 			}
@@ -785,7 +785,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{R}",
 			"type": "Legendary Creature — Wolf Knight",
-			"collector_number": "210",
+			"collector_number": "205",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/71.png"
 			}
@@ -795,7 +795,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{U}",
 			"type": "Instant",
-			"collector_number": "81",
+			"collector_number": "79",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/72.png"
 			}
@@ -815,7 +815,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Bird Spirit",
-			"collector_number": "77",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/74.png"
 			}
@@ -825,7 +825,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "102",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/75.png"
 			}
@@ -835,7 +835,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact Creature — Golem",
-			"collector_number": "279",
+			"collector_number": "274",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/76.png"
 			}
@@ -845,7 +845,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "167",
+			"collector_number": "163",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/77.png"
 			}
@@ -855,7 +855,7 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{R}",
 			"type": "Sorcery",
-			"collector_number": "153",
+			"collector_number": "150",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/78.png"
 			}
@@ -865,7 +865,7 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{G}",
 			"type": "Sorcery",
-			"collector_number": "200",
+			"collector_number": "195",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/79.png"
 			}
@@ -875,7 +875,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Skeleton Spirit",
-			"collector_number": "119",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/80.png"
 			}
@@ -885,7 +885,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Creature — Human Cleric",
-			"collector_number": "219",
+			"collector_number": "214",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/81.png"
 			}
@@ -895,7 +895,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "218",
+			"collector_number": "213",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/82.png"
 			}
@@ -904,8 +904,8 @@
 			"name": "Roderika and Hewg",
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
-			"type": "Legendary Creature — Mutant Human",
-			"collector_number": "241",
+			"type": "Legendary Creature — Human Mutant",
+			"collector_number": "236",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/83.png"
 			}
@@ -915,7 +915,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Legendary Creature — Mutant Rogue",
-			"collector_number": "222",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/84.png"
 			}
@@ -925,7 +925,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "67",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/85.png"
 			}
@@ -935,7 +935,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "66",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/86.png"
 			}
@@ -945,7 +945,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "110",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/87.png"
 			}
@@ -955,7 +955,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Legendary Creature — Troll Artificer",
-			"collector_number": "253",
+			"collector_number": "248",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/88.png"
 			}
@@ -965,7 +965,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}{B}",
 			"type": "Legendary Creature — Alien Horror",
-			"collector_number": "207",
+			"collector_number": "202",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/89.png"
 			}
@@ -975,7 +975,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{R}",
 			"type": "Legendary Creature — Human Knight",
-			"collector_number": "251",
+			"collector_number": "246",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/90.png"
 			}
@@ -985,7 +985,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "100",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/91.png"
 			}
@@ -993,9 +993,9 @@
 		{
 			"name": "Ruinous Encounter",
 			"rarity": "rare",
-			"mana_cost": "{2}{B}{B}",
+			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "115",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/92.png"
 			}
@@ -1005,7 +1005,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Horror Rogue",
-			"collector_number": "121",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/93.png"
 			}
@@ -1015,7 +1015,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Zombie Noble",
-			"collector_number": "40",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/94.png"
 			}
@@ -1025,7 +1025,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "278",
+			"collector_number": "273",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/95.png"
 			}
@@ -1035,7 +1035,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Homunculus Warrior",
-			"collector_number": "213",
+			"collector_number": "208",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/96.png"
 			}
@@ -1045,7 +1045,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Creature — Human Beast Knight",
-			"collector_number": "214",
+			"collector_number": "209",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/97.png"
 			}
@@ -1055,7 +1055,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Sorcery",
-			"collector_number": "120",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/98.png"
 			}
@@ -1065,19 +1065,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "125",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/99.png"
-			}
-		},
-		{
-			"name": "Gravebird",
-			"rarity": "common",
-			"mana_cost": "{5}{B}",
-			"type": "Artifact Creature — Bird Golem",
-			"collector_number": "97",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/100.png"
 			}
 		},
 		{
@@ -1085,9 +1075,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Horror Cleric",
-			"collector_number": "123",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/101.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/100.png"
 			}
 		},
 		{
@@ -1095,9 +1085,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "99",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/102.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/101.png"
 			}
 		},
 		{
@@ -1105,9 +1095,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "91",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/103.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/102.png"
 			}
 		},
 		{
@@ -1115,9 +1105,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
-			"collector_number": "96",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/104.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/103.png"
 			}
 		},
 		{
@@ -1125,9 +1115,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "89",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/105.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/104.png"
 			}
 		},
 		{
@@ -1137,7 +1127,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/106.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/105.png"
 			}
 		},
 		{
@@ -1147,7 +1137,7 @@
 			"type": "Creature — Hippo",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/107.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/106.png"
 			}
 		},
 		{
@@ -1157,17 +1147,7 @@
 			"type": "Creature — Spirit Cleric",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/108.png"
-			}
-		},
-		{
-			"name": "Oracle Envoy",
-			"rarity": "common",
-			"mana_cost": "{2}{W}",
-			"type": "Creature — Mutant Bard",
-			"collector_number": "29",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/109.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/107.png"
 			}
 		},
 		{
@@ -1175,9 +1155,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "38",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/110.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/108.png"
 			}
 		},
 		{
@@ -1187,7 +1167,7 @@
 			"type": "Enchantment",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/111.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/109.png"
 			}
 		},
 		{
@@ -1197,17 +1177,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/112.png"
-			}
-		},
-		{
-			"name": "Minor Erdtree Guardian",
-			"rarity": "common",
-			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Rogue",
-			"collector_number": "150",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/113.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/110.png"
 			}
 		},
 		{
@@ -1215,9 +1185,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}",
 			"type": "Creature — Human Knight",
-			"collector_number": "211",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/114.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/111.png"
 			}
 		},
 		{
@@ -1225,9 +1195,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Wizard Monk",
-			"collector_number": "138",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/115.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/112.png"
 			}
 		},
 		{
@@ -1235,9 +1205,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Horror Warlock",
-			"collector_number": "161",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/116.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/113.png"
 			}
 		},
 		{
@@ -1245,9 +1215,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "159",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/117.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/114.png"
 			}
 		},
 		{
@@ -1255,9 +1225,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Artifact — Equipment",
-			"collector_number": "137",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/118.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/115.png"
 			}
 		},
 		{
@@ -1265,9 +1235,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Enchantment — Rune Aura",
-			"collector_number": "133",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/119.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/116.png"
 			}
 		},
 		{
@@ -1275,9 +1245,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{R}{R}",
 			"type": "Instant",
-			"collector_number": "164",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/120.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/117.png"
 			}
 		},
 		{
@@ -1285,9 +1255,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "147",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/121.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/118.png"
 			}
 		},
 		{
@@ -1295,9 +1265,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Instant",
-			"collector_number": "163",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/122.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/119.png"
 			}
 		},
 		{
@@ -1305,9 +1275,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "145",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/123.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/120.png"
 			}
 		},
 		{
@@ -1315,9 +1285,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "158",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/124.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/121.png"
 			}
 		},
 		{
@@ -1325,9 +1295,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "127",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/125.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/122.png"
 			}
 		},
 		{
@@ -1335,9 +1305,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "51",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/126.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/123.png"
 			}
 		},
 		{
@@ -1345,9 +1315,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Spirit Jellyfish",
-			"collector_number": "76",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/127.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/124.png"
 			}
 		},
 		{
@@ -1355,9 +1325,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Wizard Warrior",
-			"collector_number": "61",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/128.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/125.png"
 			}
 		},
 		{
@@ -1365,9 +1335,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Spirit Dragon",
-			"collector_number": "52",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/129.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/126.png"
 			}
 		},
 		{
@@ -1375,9 +1345,9 @@
 			"rarity": "common",
 			"mana_cost": "{X}{U}",
 			"type": "Instant",
-			"collector_number": "46",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/130.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/127.png"
 			}
 		},
 		{
@@ -1385,9 +1355,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "69",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/131.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/128.png"
 			}
 		},
 		{
@@ -1395,9 +1365,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}{B}",
 			"type": "Legendary Creature — Demigod",
-			"collector_number": "238",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/132.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/129.png"
 			}
 		},
 		{
@@ -1405,19 +1375,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "50",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/133.png"
-			}
-		},
-		{
-			"name": "Loretta's Greatbow",
-			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Artifact — Equipment",
-			"collector_number": "60",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/134.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/130.png"
 			}
 		},
 		{
@@ -1425,9 +1385,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "58",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/135.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/131.png"
 			}
 		},
 		{
@@ -1435,9 +1395,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Wizard Knight",
-			"collector_number": "45",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/136.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/132.png"
 			}
 		},
 		{
@@ -1445,9 +1405,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Homunculus Rogue",
-			"collector_number": "165",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/137.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/133.png"
 			}
 		},
 		{
@@ -1455,9 +1415,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Giant Cleric",
-			"collector_number": "168",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/138.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/134.png"
 			}
 		},
 		{
@@ -1465,9 +1425,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Homunculus Warrior",
-			"collector_number": "166",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/139.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/135.png"
 			}
 		},
 		{
@@ -1475,9 +1435,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Insect Scout",
-			"collector_number": "180",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/140.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/136.png"
 			}
 		},
 		{
@@ -1485,9 +1445,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Mutant Warrior",
-			"collector_number": "184",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/141.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/137.png"
 			}
 		},
 		{
@@ -1495,9 +1455,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Mutant Warrior",
-			"collector_number": "188",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/142.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/138.png"
 			}
 		},
 		{
@@ -1505,9 +1465,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "281",
+			"collector_number": "276",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/143.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/139.png"
 			}
 		},
 		{
@@ -1515,9 +1475,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "203",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/144.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/140.png"
 			}
 		},
 		{
@@ -1525,9 +1485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "202",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/145.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/141.png"
 			}
 		},
 		{
@@ -1535,9 +1495,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Creature — Turtle",
-			"collector_number": "204",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/146.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/142.png"
 			}
 		},
 		{
@@ -1545,9 +1505,9 @@
 			"rarity": "rare",
 			"mana_cost": "{12}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "284",
+			"collector_number": "279",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/147.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/143.png"
 			}
 		},
 		{
@@ -1555,9 +1515,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Horror",
-			"collector_number": "205",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/148.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/144.png"
 			}
 		},
 		{
@@ -1565,9 +1525,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "198",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/149.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/145.png"
 			}
 		},
 		{
@@ -1575,9 +1535,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "176",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/150.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/146.png"
 			}
 		},
 		{
@@ -1585,19 +1545,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "186",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/151.png"
-			}
-		},
-		{
-			"name": "Power of the Dragonkin",
-			"rarity": "common",
-			"mana_cost": "{3}{G}",
-			"type": "Enchantment — Rune Aura",
-			"collector_number": "195",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/152.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/147.png"
 			}
 		},
 		{
@@ -1605,9 +1555,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
-			"collector_number": "30",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/153.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/148.png"
 			}
 		},
 		{
@@ -1615,9 +1565,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "267",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/154.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/149.png"
 			}
 		},
 		{
@@ -1625,9 +1575,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "94",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/155.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/150.png"
 			}
 		},
 		{
@@ -1635,9 +1585,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "283",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/156.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/151.png"
 			}
 		},
 		{
@@ -1645,9 +1595,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{R}",
 			"type": "Legendary Creature — Demigod",
-			"collector_number": "247",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/157.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/152.png"
 			}
 		},
 		{
@@ -1655,9 +1605,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "37",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/158.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/153.png"
 			}
 		},
 		{
@@ -1665,9 +1615,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "93",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/159.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/154.png"
 			}
 		},
 		{
@@ -1675,9 +1625,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Human Cleric",
-			"collector_number": "223",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/160.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/155.png"
 			}
 		},
 		{
@@ -1685,9 +1635,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Turtle Cleric",
-			"collector_number": "191",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/161.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/156.png"
 			}
 		},
 		{
@@ -1695,9 +1645,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}",
 			"type": "Legendary Creature — Elder Dragon",
-			"collector_number": "101",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/162.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/157.png"
 			}
 		},
 		{
@@ -1705,9 +1655,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Dragon Soldier",
-			"collector_number": "175",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/163.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/158.png"
 			}
 		},
 		{
@@ -1715,9 +1665,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{7}{U}{U}",
 			"type": "Legendary Creature — Dragon Wizard",
-			"collector_number": "42",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/164.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/159.png"
 			}
 		},
 		{
@@ -1725,9 +1675,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{B}{R}",
 			"type": "Legendary Creature — Elder Dragon",
-			"collector_number": "216",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/165.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/160.png"
 			}
 		},
 		{
@@ -1735,9 +1685,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "143",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/166.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/161.png"
 			}
 		},
 		{
@@ -1745,9 +1695,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Zombie Dragon",
-			"collector_number": "92",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/167.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/162.png"
 			}
 		},
 		{
@@ -1755,9 +1705,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Legendary Creature — Spirit Horse",
-			"collector_number": "36",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/168.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/163.png"
 			}
 		},
 		{
@@ -1765,9 +1715,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Horror",
-			"collector_number": "109",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/169.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/164.png"
 			}
 		},
 		{
@@ -1777,7 +1727,7 @@
 			"type": "Legendary Creature — Demigod",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/170.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/165.png"
 			}
 		},
 		{
@@ -1785,9 +1735,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — God",
-			"collector_number": "229",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/171.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/166.png"
 			}
 		},
 		{
@@ -1795,9 +1745,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "297",
+			"collector_number": "292",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/172.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/167.png"
 			}
 		},
 		{
@@ -1805,19 +1755,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "285",
+			"collector_number": "280",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/173.png"
-			}
-		},
-		{
-			"name": "The Scadutree",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "301",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/174.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/168.png"
 			}
 		},
 		{
@@ -1825,9 +1765,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Knight",
-			"collector_number": "173",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/175.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/169.png"
 			}
 		},
 		{
@@ -1835,19 +1775,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact",
-			"collector_number": "269",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/176.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/170.png"
 			}
 		},
 		{
-			"name": "Gideon Ofnir, All Knowing",
+			"name": "Gideon Ofnir, All-Knowing",
 			"rarity": "rare",
 			"mana_cost": "{U}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "55",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/177.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/171.png"
 			}
 		},
 		{
@@ -1855,9 +1795,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Creature — Plant Avatar",
-			"collector_number": "197",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/178.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/172.png"
 			}
 		},
 		{
@@ -1865,19 +1805,19 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{U}{R}",
 			"type": "Instant",
-			"collector_number": "212",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/179.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/173.png"
 			}
 		},
 		{
 			"name": "Metyr, Mother of Fingers",
 			"rarity": "rare",
-			"mana_cost": "{5}{U}{B}",
+			"mana_cost": "{4}{U}{B}",
 			"type": "Legendary Creature — Finger Horror",
-			"collector_number": "228",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/180.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/174.png"
 			}
 		},
 		{
@@ -1885,19 +1825,19 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Creature — Insect Cleric",
-			"collector_number": "242",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/181.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/175.png"
 			}
 		},
 		{
-			"name": "Enir Ilim",
+			"name": "Enir-Ilim",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "289",
+			"collector_number": "284",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/182.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/176.png"
 			}
 		},
 		{
@@ -1905,9 +1845,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "302",
+			"collector_number": "297",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/183.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/177.png"
 			}
 		},
 		{
@@ -1915,9 +1855,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Golem Artificer",
-			"collector_number": "275",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/184.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/178.png"
 			}
 		},
 		{
@@ -1925,9 +1865,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "276",
+			"collector_number": "271",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/185.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/179.png"
 			}
 		},
 		{
@@ -1935,9 +1875,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Legendary Creature — Finger Horror",
-			"collector_number": "118",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/186.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/180.png"
 			}
 		},
 		{
@@ -1947,7 +1887,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/187.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/181.png"
 			}
 		},
 		{
@@ -1955,9 +1895,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "75",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/188.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/182.png"
 			}
 		},
 		{
@@ -1965,9 +1905,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "146",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/189.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/183.png"
 			}
 		},
 		{
@@ -1975,9 +1915,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "47",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/190.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/184.png"
 			}
 		},
 		{
@@ -1987,7 +1927,7 @@
 			"type": "Creature — Bird Warrior",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/191.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/185.png"
 			}
 		},
 		{
@@ -1995,9 +1935,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Horror Knight",
-			"collector_number": "87",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/192.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/186.png"
 			}
 		},
 		{
@@ -2005,9 +1945,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Performer",
-			"collector_number": "128",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/193.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/187.png"
 			}
 		},
 		{
@@ -2015,9 +1955,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Knight",
-			"collector_number": "134",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/194.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/188.png"
 			}
 		},
 		{
@@ -2025,9 +1965,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Dog Golem",
-			"collector_number": "271",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/195.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/189.png"
 			}
 		},
 		{
@@ -2037,7 +1977,7 @@
 			"type": "Legendary Creature — Human Monk",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/196.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/190.png"
 			}
 		},
 		{
@@ -2045,9 +1985,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Giant Warlock",
-			"collector_number": "136",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/197.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/191.png"
 			}
 		},
 		{
@@ -2055,9 +1995,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "177",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/198.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/192.png"
 			}
 		},
 		{
@@ -2065,19 +2005,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Human Cleric",
-			"collector_number": "90",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/199.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/193.png"
 			}
 		},
 		{
 			"name": "The Loathsome Dung Eater",
 			"rarity": "rare",
-			"mana_cost": "{1}{B}{G}",
+			"mana_cost": "{B}{G}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "225",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/200.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/194.png"
 			}
 		},
 		{
@@ -2085,9 +2025,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "193",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/201.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/195.png"
 			}
 		},
 		{
@@ -2095,9 +2035,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "148",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/202.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/196.png"
 			}
 		},
 		{
@@ -2105,9 +2045,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Creature — God",
-			"collector_number": "235",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/203.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/197.png"
 			}
 		},
 		{
@@ -2115,9 +2055,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Spider Horror",
-			"collector_number": "114",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/204.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/198.png"
 			}
 		},
 		{
@@ -2125,9 +2065,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "199",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/205.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/199.png"
 			}
 		},
 		{
@@ -2135,9 +2075,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Spirit Snail",
-			"collector_number": "78",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/206.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/200.png"
 			}
 		},
 		{
@@ -2147,7 +2087,7 @@
 			"type": "Legendary Creature — Human Knight",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/207.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/201.png"
 			}
 		},
 		{
@@ -2155,9 +2095,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Insect Knight",
-			"collector_number": "201",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/208.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/202.png"
 			}
 		},
 		{
@@ -2165,9 +2105,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "116",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/209.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/203.png"
 			}
 		},
 		{
@@ -2175,19 +2115,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Snake Scout",
-			"collector_number": "157",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/210.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/204.png"
 			}
 		},
 		{
 			"name": "Loretta, Haligtree Knight",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}{U}",
+			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Creature — Homunculus Knight",
-			"collector_number": "226",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/211.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/205.png"
 			}
 		},
 		{
@@ -2195,9 +2135,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Sorcery",
-			"collector_number": "245",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/212.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/206.png"
 			}
 		},
 		{
@@ -2205,9 +2145,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Elk Spirit",
-			"collector_number": "206",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/213.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/207.png"
 			}
 		},
 		{
@@ -2215,9 +2155,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "Legendary Creature — Human Wizard Knight",
-			"collector_number": "240",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/214.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/208.png"
 			}
 		},
 		{
@@ -2225,9 +2165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "79",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/215.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/209.png"
 			}
 		},
 		{
@@ -2235,9 +2175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Cleric",
-			"collector_number": "129",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/216.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/210.png"
 			}
 		},
 		{
@@ -2245,9 +2185,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}{U}",
 			"type": "Legendary Creature — Demigod",
-			"collector_number": "246",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/217.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/211.png"
 			}
 		},
 		{
@@ -2255,9 +2195,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Horror Avatar",
-			"collector_number": "105",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/218.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/212.png"
 			}
 		},
 		{
@@ -2265,9 +2205,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{10}",
 			"type": "Legendary Artifact",
-			"collector_number": "273",
+			"collector_number": "268",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/219.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/213.png"
 			}
 		},
 		{
@@ -2277,7 +2217,7 @@
 			"type": "Enchantment",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/220.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/214.png"
 			}
 		},
 		{
@@ -2285,19 +2225,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{W}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "230",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/221.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/215.png"
 			}
 		},
 		{
 			"name": "Aspects of the Crucible",
 			"rarity": "rare",
-			"mana_cost": "{2}{G}{G}",
+			"mana_cost": "{1}{G}{G}{G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "169",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/222.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/216.png"
 			}
 		},
 		{
@@ -2305,9 +2245,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "208",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/223.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/217.png"
 			}
 		},
 		{
@@ -2315,9 +2255,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Creature — Human Knight",
-			"collector_number": "155",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/224.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/218.png"
 			}
 		},
 		{
@@ -2325,9 +2265,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Creature — Skeleton Spirit Knight",
-			"collector_number": "234",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/225.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/219.png"
 			}
 		},
 		{
@@ -2335,9 +2275,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Human Doctor",
-			"collector_number": "122",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/226.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/220.png"
 			}
 		},
 		{
@@ -2345,19 +2285,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{U}{B}{R}{G}",
 			"type": "Legendary Creature — Elder Beast God",
-			"collector_number": "217",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/227.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/221.png"
 			}
 		},
 		{
 			"name": "Thousand Year Voyage",
 			"rarity": "rare",
-			"mana_cost": "{4}{U}{U}",
+			"mana_cost": "{5}{U}",
 			"type": "Sorcery",
-			"collector_number": "80",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/228.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/222.png"
 			}
 		},
 		{
@@ -2365,9 +2305,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "126",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/229.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/223.png"
 			}
 		},
 		{
@@ -2377,7 +2317,7 @@
 			"type": "Token Land",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/230.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/224.png"
 			}
 		},
 		{
@@ -2385,9 +2325,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Bird Skeleton Horror",
-			"collector_number": "49",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/231.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/225.png"
 			}
 		},
 		{
@@ -2395,9 +2335,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "171",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/232.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/226.png"
 			}
 		},
 		{
@@ -2405,9 +2345,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "160",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/233.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/227.png"
 			}
 		},
 		{
@@ -2415,9 +2355,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{U}",
 			"type": "Sorcery",
-			"collector_number": "237",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/234.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/228.png"
 			}
 		},
 		{
@@ -2425,9 +2365,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "152",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/235.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/229.png"
 			}
 		},
 		{
@@ -2435,9 +2375,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
-			"collector_number": "33",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/236.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/230.png"
 			}
 		},
 		{
@@ -2445,9 +2385,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact",
-			"collector_number": "34",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/237.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/231.png"
 			}
 		},
 		{
@@ -2455,9 +2395,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Enchantment — Rune Aura",
-			"collector_number": "131",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/238.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/232.png"
 			}
 		},
 		{
@@ -2465,9 +2405,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Enchantment — Saga",
-			"collector_number": "103",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/239.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/233.png"
 			}
 		},
 		{
@@ -2475,9 +2415,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{R}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "244",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/240.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/234.png"
 			}
 		},
 		{
@@ -2485,9 +2425,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "266",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/241.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/235.png"
 			}
 		},
 		{
@@ -2495,9 +2435,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact",
-			"collector_number": "270",
+			"collector_number": "265",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/242.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/236.png"
 			}
 		},
 		{
@@ -2505,9 +2445,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "282",
+			"collector_number": "277",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/243.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/237.png"
 			}
 		},
 		{
@@ -2517,7 +2457,7 @@
 			"type": "Instant",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/244.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/238.png"
 			}
 		},
 		{
@@ -2525,9 +2465,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "149",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/245.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/239.png"
 			}
 		},
 		{
@@ -2535,9 +2475,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Creature — Mutant Cleric",
-			"collector_number": "189",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/246.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/240.png"
 			}
 		},
 		{
@@ -2545,9 +2485,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}",
 			"type": "Creature — Human",
-			"collector_number": "35",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/247.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/241.png"
 			}
 		},
 		{
@@ -2555,9 +2495,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Enchantment",
-			"collector_number": "224",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/248.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/242.png"
 			}
 		},
 		{
@@ -2565,29 +2505,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Horror Cleric",
-			"collector_number": "221",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/249.png"
-			}
-		},
-		{
-			"name": "Twin Moons",
-			"rarity": "rare",
-			"mana_cost": "{4}{R}{R}",
-			"type": "Instant",
-			"collector_number": "162",
-			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/250.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/243.png"
 			}
 		},
 		{
 			"name": "The Radahn Festival",
 			"rarity": "rare",
-			"mana_cost": "{2}{U}{R}{W}",
-			"type": "Enchantment",
-			"collector_number": "236",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/251.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/244.png"
 			}
 		},
 		{
@@ -2597,17 +2527,17 @@
 			"type": "Creature — Elder Dragon",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/252.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/245.png"
 			}
 		},
 		{
 			"name": "Radagon is Marika",
 			"rarity": "rare",
-			"mana_cost": "{1}{W}{W}",
+			"mana_cost": "{2}{W}{W}",
 			"type": "Enchantment — Saga",
-			"collector_number": "31",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/253.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/246.png"
 			}
 		},
 		{
@@ -2615,9 +2545,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Mutant Demigod",
-			"collector_number": "232",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/254.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/247.png"
 			}
 		},
 		{
@@ -2625,9 +2555,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Bear",
-			"collector_number": "196",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/255.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/248.png"
 			}
 		},
 		{
@@ -2635,9 +2565,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Insect Cleric",
-			"collector_number": "190",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/256.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/249.png"
 			}
 		},
 		{
@@ -2645,9 +2575,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "296",
+			"collector_number": "291",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/257.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/250.png"
 			}
 		},
 		{
@@ -2655,9 +2585,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact — Equipment",
-			"collector_number": "274",
+			"collector_number": "269",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/258.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/251.png"
 			}
 		},
 		{
@@ -2665,9 +2595,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "290",
+			"collector_number": "285",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/259.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/252.png"
 			}
 		},
 		{
@@ -2677,7 +2607,7 @@
 			"type": "Token Creature — Orb Cleric",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/260.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/253.png"
 			}
 		},
 		{
@@ -2685,19 +2615,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "280",
+			"collector_number": "275",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/261.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/254.png"
 			}
 		},
 		{
 			"name": "Furnace Golem",
 			"rarity": "rare",
-			"mana_cost": "{4}{R}{R}",
+			"mana_cost": "{5}{R}{R}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "139",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/262.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/255.png"
 			}
 		},
 		{
@@ -2705,9 +2635,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Enchantment — Saga",
-			"collector_number": "44",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/263.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/256.png"
 			}
 		},
 		{
@@ -2715,9 +2645,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "59",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/264.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/257.png"
 			}
 		},
 		{
@@ -2725,9 +2655,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Spirit Warrior",
-			"collector_number": "64",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/265.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/258.png"
 			}
 		},
 		{
@@ -2735,9 +2665,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "65",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/266.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/259.png"
 			}
 		},
 		{
@@ -2745,9 +2675,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Instant",
-			"collector_number": "220",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/267.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/260.png"
 			}
 		},
 		{
@@ -2755,9 +2685,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "231",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/268.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/261.png"
 			}
 		},
 		{
@@ -2765,9 +2695,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Mutant Warrior",
-			"collector_number": "192",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/269.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/262.png"
 			}
 		},
 		{
@@ -2775,9 +2705,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "215",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/270.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/263.png"
 			}
 		},
 		{
@@ -2785,9 +2715,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "135",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/271.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/264.png"
 			}
 		},
 		{
@@ -2795,9 +2725,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "54",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/272.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/265.png"
 			}
 		},
 		{
@@ -2805,9 +2735,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Enchantment",
-			"collector_number": "239",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/273.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/266.png"
 			}
 		},
 		{
@@ -2815,9 +2745,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Instant",
-			"collector_number": "254",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/274.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/267.png"
 			}
 		},
 		{
@@ -2825,9 +2755,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Sorcery",
-			"collector_number": "252",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/275.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/268.png"
 			}
 		},
 		{
@@ -2837,17 +2767,17 @@
 			"type": "Sorcery",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/276.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/269.png"
 			}
 		},
 		{
 			"name": "The Two Fingers",
 			"rarity": "rare",
-			"mana_cost": "{3}{W}{B}",
+			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Creature — Finger Horror",
-			"collector_number": "248",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/277.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/270.png"
 			}
 		},
 		{
@@ -2857,7 +2787,7 @@
 			"type": "Legendary Creature — Human Noble",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/278.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/271.png"
 			}
 		},
 		{
@@ -2865,9 +2795,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Knight",
-			"collector_number": "117",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/279.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/272.png"
 			}
 		},
 		{
@@ -2875,9 +2805,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
-			"collector_number": "170",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/280.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/273.png"
 			}
 		},
 		{
@@ -2885,19 +2815,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
-			"collector_number": "194",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/281.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/274.png"
 			}
 		},
 		{
-			"name": "Rogier's Talent",
+			"name": "Knowledge Capture",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}{U}",
+			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "73",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/282.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/275.png"
 			}
 		},
 		{
@@ -2905,9 +2835,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "53",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/283.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/276.png"
 			}
 		},
 		{
@@ -2915,9 +2845,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "112",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/284.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/277.png"
 			}
 		},
 		{
@@ -2927,7 +2857,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/285.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/278.png"
 			}
 		},
 		{
@@ -2935,9 +2865,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{U}",
 			"type": "Sorcery",
-			"collector_number": "233",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/286.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/279.png"
 			}
 		},
 		{
@@ -2945,9 +2875,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "63",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/287.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/280.png"
 			}
 		},
 		{
@@ -2955,9 +2885,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Instant",
-			"collector_number": "243",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/288.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/281.png"
 			}
 		},
 		{
@@ -2965,9 +2895,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "250",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/289.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/282.png"
 			}
 		},
 		{
@@ -2975,9 +2905,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "249",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/290.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/283.png"
 			}
 		},
 		{
@@ -2985,19 +2915,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "255",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/291.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/284.png"
 			}
 		},
 		{
 			"name": "Rennala's Amber Egg",
 			"rarity": "mythic",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{U}{U}",
 			"type": "Legendary Artifact",
-			"collector_number": "71",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/292.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/285.png"
 			}
 		},
 		{
@@ -3005,9 +2935,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Enchantment",
-			"collector_number": "172",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/293.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/286.png"
 			}
 		},
 		{
@@ -3015,19 +2945,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}",
 			"type": "Instant",
-			"collector_number": "183",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/294.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/287.png"
 			}
 		},
 		{
 			"name": "City of Nox",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "286",
+			"type": "Land",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/295.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/288.png"
 			}
 		},
 		{
@@ -3035,9 +2965,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "294",
+			"collector_number": "289",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/296.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/289.png"
 			}
 		},
 		{
@@ -3045,9 +2975,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "293",
+			"collector_number": "288",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/297.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/290.png"
 			}
 		},
 		{
@@ -3055,9 +2985,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "298",
+			"collector_number": "293",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/298.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/291.png"
 			}
 		},
 		{
@@ -3065,9 +2995,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "291",
+			"collector_number": "286",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/299.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/292.png"
 			}
 		},
 		{
@@ -3075,9 +3005,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "299",
+			"collector_number": "294",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/300.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/293.png"
 			}
 		},
 		{
@@ -3085,9 +3015,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "305",
+			"collector_number": "300",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/301.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/294.png"
 			}
 		},
 		{
@@ -3095,9 +3025,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "292",
+			"collector_number": "287",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/302.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/295.png"
 			}
 		},
 		{
@@ -3105,9 +3035,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "288",
+			"collector_number": "283",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/303.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/296.png"
 			}
 		},
 		{
@@ -3115,9 +3045,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "295",
+			"collector_number": "290",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/304.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/297.png"
 			}
 		},
 		{
@@ -3125,9 +3055,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "300",
+			"collector_number": "295",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/305.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/298.png"
 			}
 		},
 		{
@@ -3135,9 +3065,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "304",
+			"collector_number": "299",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/306.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/299.png"
 			}
 		},
 		{
@@ -3147,7 +3077,7 @@
 			"type": "Token Creature — Demigod",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/307.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/300.png"
 			}
 		},
 		{
@@ -3157,7 +3087,7 @@
 			"type": "Token Creature — Soldier",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/308.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/301.png"
 			}
 		},
 		{
@@ -3167,7 +3097,7 @@
 			"type": "Token Enchantment — Shard",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/309.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/302.png"
 			}
 		},
 		{
@@ -3177,7 +3107,7 @@
 			"type": "Token Creature — Knight",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/310.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/303.png"
 			}
 		},
 		{
@@ -3187,7 +3117,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/311.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/304.png"
 			}
 		},
 		{
@@ -3197,7 +3127,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/312.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/305.png"
 			}
 		},
 		{
@@ -3207,7 +3137,7 @@
 			"type": "Token Artifact — Food",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/313.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/306.png"
 			}
 		},
 		{
@@ -3217,7 +3147,7 @@
 			"type": "Token Creature — Knight",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/314.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/307.png"
 			}
 		},
 		{
@@ -3227,7 +3157,7 @@
 			"type": "Token Creature — Spirit",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/315.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/308.png"
 			}
 		},
 		{
@@ -3237,7 +3167,7 @@
 			"type": "Token Creature — Skeleton",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/316.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/309.png"
 			}
 		},
 		{
@@ -3247,7 +3177,7 @@
 			"type": "Token Artifact — Blood",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/317.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/310.png"
 			}
 		},
 		{
@@ -3257,7 +3187,7 @@
 			"type": "Token Creature — Finger Spider",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/318.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/311.png"
 			}
 		},
 		{
@@ -3267,7 +3197,7 @@
 			"type": "Token Creature — Plant",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/319.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/312.png"
 			}
 		},
 		{
@@ -3277,7 +3207,7 @@
 			"type": "Token Land",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/320.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/313.png"
 			}
 		},
 		{
@@ -3287,7 +3217,7 @@
 			"type": "Token Creature — Dragon",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/321.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/314.png"
 			}
 		},
 		{
@@ -3297,7 +3227,7 @@
 			"type": "Token Creature — Wizard",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/322.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/315.png"
 			}
 		},
 		{
@@ -3307,7 +3237,7 @@
 			"type": "Token Artifact",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/323.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/316.png"
 			}
 		},
 		{
@@ -3317,7 +3247,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/324.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/317.png"
 			}
 		},
 		{
@@ -3327,7 +3257,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/325.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/318.png"
 			}
 		},
 		{
@@ -3337,7 +3267,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/326.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/319.png"
 			}
 		},
 		{
@@ -3347,7 +3277,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/327.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/320.png"
 			}
 		},
 		{
@@ -3357,7 +3287,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/328.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/321.png"
 			}
 		},
 		{
@@ -3367,7 +3297,7 @@
 			"type": "Token Enchantment — Saga",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/329.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/322.png"
 			}
 		},
 		{
@@ -3377,7 +3307,7 @@
 			"type": "Emblem",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/330.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/323.png"
 			}
 		},
 		{
@@ -3387,7 +3317,27 @@
 			"type": "Emblem",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/331.png"
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/324.png"
+			}
+		},
+		{
+			"name": "The Scadutree",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/325.png"
+			}
+		},
+		{
+			"name": "Embrace Thine Oblivion",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://ProvocativeMTG.github.io/sets/TLB-files/img/326.png"
 			}
 		}
 	]
@@ -3395,6 +3345,7 @@
 [rare(1)]
 	1 Placidusax's Ruin
 	2 Abandon Everything
+	2 Crumbling Farum Azula
 	1 Night of Black Knives
 	2 Black Knife Assassin
 	1 Patches, the Untethered
@@ -3437,15 +3388,14 @@
 	1 Miquella, the Kind
 	2 Midra's Manse
 	2 Cerulean Coast
-	2 The Scadutree
 	2 Crucible Knight
 	1 The Elden Ring
-	2 Gideon Ofnir, All Knowing
+	2 Gideon Ofnir, All-Knowing
 	2 Scadutree Avatar
 	2 Comet Azur
 	2 Metyr, Mother of Fingers
 	2 Romina, Saint of the Bud
-	2 Enir Ilim
+	2 Enir-Ilim
 	2 Shadow Keep
 	2 Greatswords of Radahn
 	2 The Three Fingers
@@ -3480,7 +3430,6 @@
 	1 A Tarnished of No Renown
 	2 Light of Miquella
 	2 Godskin Apostle
-	2 Twin Moons
 	2 The Radahn Festival
 	2 Radagon is Marika
 	1 Mohg, Lord of Blood
@@ -3500,11 +3449,12 @@
 	1 Challenge of the Ring
 	1 Golden Seeds
 	2 City of Nox
+	2 The Scadutree
+	2 Embrace Thine Oblivion
 [uncommon(3)]
 	4 Veiled Monarch's Reign
 	4 Wisdom of the Moon
 	4 Rennala's Studies
-	4 Crumbling Farum Azula
 	4 Igon, Drake Warrior
 	4 Discovery of Grafting
 	4 Godwyn's Death Knight
@@ -3587,7 +3537,7 @@
 	4 Swordhand of Night
 	4 Behold the Jagged Peak
 	4 New Life from Death
-	4 Rogier's Talent
+	4 Knowledge Capture
 	4 Fleeting Microcosm
 	4 Ranni's Scheme
 	4 Bloodhound's Fang
@@ -3624,7 +3574,7 @@
 	8 Glintstone Dragon
 	8 Erdtree Avatar
 	8 Ancient Dragon's Lightning
-	8 Knight of the Fringes
+	8 Knights of the Fringes
 	8 Hero of the Fringes
 	8 Dragon Cult Priestess
 	8 Seeker of Runes
@@ -3653,7 +3603,6 @@
 	8 Vulgar Militiamen
 	8 Wandering Nobles
 	8 Imp Statue
-	8 Gravebird
 	8 Wraith Caller
 	8 Hornsent Inquisition
 	8 Fia's Embrace
@@ -3662,11 +3611,9 @@
 	8 Miquella's Needle Knight
 	8 Golden Hippopotamus
 	8 Nox Spirits
-	8 Oracle Envoy
 	8 United in Common Cause
 	8 Marika's Crucifixion
 	8 Golden Epitaph
-	8 Minor Erdtree Guardian
 	8 Fire Monk
 	8 Thorn Sorcerer
 	8 Sisters of Rot
@@ -3683,7 +3630,6 @@
 	8 Carian Retaliation
 	8 Rellana's Cameo
 	8 Destiny Portends
-	8 Loretta's Greatbow
 	8 Hallowhorn Communion
 	8 Albinauric Archer
 	8 Ancestral Follower
@@ -3696,7 +3642,6 @@
 	8 Scadutree's Thorns
 	8 Duskborn's Presence
 	8 Groundswell
-	8 Power of the Dragonkin
 	8 Claymore
 	8 Table of Lost Grace
 	8 The First Step
@@ -3718,7 +3663,7 @@
 	8 Glintstone Dragon
 	8 Erdtree Avatar
 	8 Ancient Dragon's Lightning
-	8 Knight of the Fringes
+	8 Knights of the Fringes
 	8 Hero of the Fringes
 	8 Dragon Cult Priestess
 	8 Seeker of Runes
@@ -3747,7 +3692,6 @@
 	8 Vulgar Militiamen
 	8 Wandering Nobles
 	8 Imp Statue
-	8 Gravebird
 	8 Wraith Caller
 	8 Hornsent Inquisition
 	8 Fia's Embrace
@@ -3756,11 +3700,9 @@
 	8 Miquella's Needle Knight
 	8 Golden Hippopotamus
 	8 Nox Spirits
-	8 Oracle Envoy
 	8 United in Common Cause
 	8 Marika's Crucifixion
 	8 Golden Epitaph
-	8 Minor Erdtree Guardian
 	8 Fire Monk
 	8 Thorn Sorcerer
 	8 Sisters of Rot
@@ -3777,7 +3719,6 @@
 	8 Carian Retaliation
 	8 Rellana's Cameo
 	8 Destiny Portends
-	8 Loretta's Greatbow
 	8 Hallowhorn Communion
 	8 Albinauric Archer
 	8 Ancestral Follower
@@ -3790,7 +3731,6 @@
 	8 Scadutree's Thorns
 	8 Duskborn's Presence
 	8 Groundswell
-	8 Power of the Dragonkin
 	8 Claymore
 	8 Table of Lost Grace
 	8 The First Step
@@ -3801,7 +3741,7 @@
 	1 Placidusax's Ruin
 	6 Rennala's Studies
 	2 Abandon Everything
-	6 Crumbling Farum Azula
+	2 Crumbling Farum Azula
 	12 Fanged Imp
 	6 Igon, Drake Warrior
 	12 Crystalian
@@ -3823,7 +3763,7 @@
 	12 Glintstone Dragon
 	12 Erdtree Avatar
 	12 Ancient Dragon's Lightning
-	12 Knight of the Fringes
+	12 Knights of the Fringes
 	12 Hero of the Fringes
 	12 Dragon Cult Priestess
 	12 Seeker of Runes
@@ -3896,7 +3836,6 @@
 	6 Devonia, of the Crucible
 	6 Virgin Abduction
 	6 Bayle's Tyranny
-	12 Gravebird
 	12 Wraith Caller
 	12 Hornsent Inquisition
 	12 Fia's Embrace
@@ -3905,11 +3844,9 @@
 	12 Miquella's Needle Knight
 	12 Golden Hippopotamus
 	12 Nox Spirits
-	12 Oracle Envoy
 	12 United in Common Cause
 	12 Marika's Crucifixion
 	12 Golden Epitaph
-	12 Minor Erdtree Guardian
 	2 Cleanrot Knight
 	12 Fire Monk
 	12 Thorn Sorcerer
@@ -3930,7 +3867,6 @@
 	12 Rellana's Cameo
 	1 Ranni the Witch
 	12 Destiny Portends
-	12 Loretta's Greatbow
 	12 Hallowhorn Communion
 	2 Carian Knight
 	12 Albinauric Archer
@@ -3948,7 +3884,6 @@
 	12 Scadutree's Thorns
 	12 Duskborn's Presence
 	12 Groundswell
-	12 Power of the Dragonkin
 	2 Profound Holiness
 	12 Claymore
 	6 Godslayer's Greatsword
@@ -3970,15 +3905,14 @@
 	1 Miquella, the Kind
 	2 Midra's Manse
 	2 Cerulean Coast
-	2 The Scadutree
 	2 Crucible Knight
 	1 The Elden Ring
-	2 Gideon Ofnir, All Knowing
+	2 Gideon Ofnir, All-Knowing
 	2 Scadutree Avatar
 	2 Comet Azur
 	2 Metyr, Mother of Fingers
 	2 Romina, Saint of the Bud
-	2 Enir Ilim
+	2 Enir-Ilim
 	2 Shadow Keep
 	6 Golem Smith
 	2 Greatswords of Radahn
@@ -4045,7 +3979,6 @@
 	1 A Tarnished of No Renown
 	2 Light of Miquella
 	2 Godskin Apostle
-	2 Twin Moons
 	2 The Radahn Festival
 	6 Ancient Dragon
 	2 Radagon is Marika
@@ -4076,7 +4009,7 @@
 	6 Swordhand of Night
 	6 Behold the Jagged Peak
 	6 New Life from Death
-	6 Rogier's Talent
+	6 Knowledge Capture
 	6 Fleeting Microcosm
 	6 Ranni's Scheme
 	6 Bloodhound's Fang
@@ -4102,13 +4035,15 @@
 	6 Ruin-Strewn Precipice
 	6 Siofra River
 	12 Marika's Hammer's Saga token
+	2 The Scadutree
+	2 Embrace Thine Oblivion
 [wildcard(1)]
 	15 Veiled Monarch's Reign
 	15 Wisdom of the Moon
 	4 Placidusax's Ruin
 	15 Rennala's Studies
 	7 Abandon Everything
-	15 Crumbling Farum Azula
+	7 Crumbling Farum Azula
 	6 Fanged Imp
 	15 Igon, Drake Warrior
 	6 Crystalian
@@ -4130,7 +4065,7 @@
 	6 Glintstone Dragon
 	6 Erdtree Avatar
 	6 Ancient Dragon's Lightning
-	6 Knight of the Fringes
+	6 Knights of the Fringes
 	6 Hero of the Fringes
 	6 Dragon Cult Priestess
 	6 Seeker of Runes
@@ -4203,7 +4138,6 @@
 	15 Devonia, of the Crucible
 	15 Virgin Abduction
 	15 Bayle's Tyranny
-	6 Gravebird
 	6 Wraith Caller
 	6 Hornsent Inquisition
 	6 Fia's Embrace
@@ -4212,11 +4146,9 @@
 	6 Miquella's Needle Knight
 	6 Golden Hippopotamus
 	6 Nox Spirits
-	6 Oracle Envoy
 	6 United in Common Cause
 	6 Marika's Crucifixion
 	6 Golden Epitaph
-	6 Minor Erdtree Guardian
 	7 Cleanrot Knight
 	6 Fire Monk
 	6 Thorn Sorcerer
@@ -4237,7 +4169,6 @@
 	6 Rellana's Cameo
 	4 Ranni the Witch
 	6 Destiny Portends
-	6 Loretta's Greatbow
 	6 Hallowhorn Communion
 	7 Carian Knight
 	6 Albinauric Archer
@@ -4255,7 +4186,6 @@
 	6 Scadutree's Thorns
 	6 Duskborn's Presence
 	6 Groundswell
-	6 Power of the Dragonkin
 	7 Profound Holiness
 	6 Claymore
 	15 Godslayer's Greatsword
@@ -4277,15 +4207,14 @@
 	4 Miquella, the Kind
 	7 Midra's Manse
 	7 Cerulean Coast
-	7 The Scadutree
 	7 Crucible Knight
 	4 The Elden Ring
-	7 Gideon Ofnir, All Knowing
+	7 Gideon Ofnir, All-Knowing
 	7 Scadutree Avatar
 	7 Comet Azur
 	7 Metyr, Mother of Fingers
 	7 Romina, Saint of the Bud
-	7 Enir Ilim
+	7 Enir-Ilim
 	7 Shadow Keep
 	15 Golem Smith
 	7 Greatswords of Radahn
@@ -4352,7 +4281,6 @@
 	4 A Tarnished of No Renown
 	7 Light of Miquella
 	7 Godskin Apostle
-	7 Twin Moons
 	7 The Radahn Festival
 	15 Ancient Dragon
 	7 Radagon is Marika
@@ -4383,7 +4311,7 @@
 	15 Swordhand of Night
 	15 Behold the Jagged Peak
 	15 New Life from Death
-	15 Rogier's Talent
+	15 Knowledge Capture
 	15 Fleeting Microcosm
 	15 Ranni's Scheme
 	15 Bloodhound's Fang
@@ -4409,3 +4337,5 @@
 	15 Ruin-Strewn Precipice
 	15 Siofra River
 	6 Marika's Hammer's Saga token
+	7 The Scadutree
+	7 Embrace Thine Oblivion

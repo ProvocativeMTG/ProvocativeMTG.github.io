@@ -9,15 +9,15 @@
     },
     {
         "card_name": "Hold Back the Stars",
-        "number": 59,
+        "number": 58,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "264"
+        "position": "257"
     },
     {
         "card_name": "Gurranq, Beast Clergyman",
-        "number": 98,
+        "number": 95,
         "shape": "transform double faced",
         "set": "TLB",
         "rotated": false,
@@ -25,7 +25,7 @@
     },
     {
         "card_name": "Godrick, the Grafted",
-        "number": 140,
+        "number": 138,
         "shape": "transform double faced",
         "set": "TLB",
         "rotated": false,
@@ -33,11 +33,11 @@
     },
     {
         "card_name": "Challenge of the Ring",
-        "number": 172,
+        "number": 168,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "293"
+        "position": "286"
     },
     {
         "card_name": "Greater Brilliance",
@@ -45,11 +45,11 @@
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "276"
+        "position": "269"
     },
     {
         "card_name": "Promised Consort Radahn",
-        "number": 68,
+        "number": 67,
         "shape": "transform double faced",
         "set": "TLB",
         "rotated": false,
@@ -57,7 +57,7 @@
     },
     {
         "card_name": "Messmer, the Impaler",
-        "number": 104,
+        "number": 101,
         "shape": "transform double faced",
         "set": "TLB",
         "rotated": false,
@@ -65,7 +65,7 @@
     },
     {
         "card_name": "Malenia, the Severed",
-        "number": 144,
+        "number": 142,
         "shape": "transform double faced",
         "set": "TLB",
         "rotated": false,
@@ -73,7 +73,7 @@
     },
     {
         "card_name": "God-Devouring Serpent",
-        "number": 181,
+        "number": 177,
         "shape": "transform double faced",
         "set": "TLB",
         "rotated": false,
@@ -89,7 +89,7 @@
     },
     {
         "card_name": "Rennala of Caria",
-        "number": 70,
+        "number": 69,
         "shape": "transform double faced",
         "set": "TLB",
         "rotated": false,
@@ -97,7 +97,7 @@
     },
     {
         "card_name": "Night of Black Knives",
-        "number": 106,
+        "number": 103,
         "shape": "saga",
         "set": "TLB",
         "rotated": false,
@@ -105,15 +105,15 @@
     },
     {
         "card_name": "Melina's Sacrifice",
-        "number": 146,
+        "number": 144,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "189"
+        "position": "183"
     },
     {
         "card_name": "Godwyn, First to Fall",
-        "number": 182,
+        "number": 178,
         "shape": "transform double faced",
         "set": "TLB",
         "rotated": false,
@@ -121,23 +121,23 @@
     },
     {
         "card_name": "A Tarnished of No Renown",
-        "number": 35,
+        "number": 34,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "247"
+        "position": "241"
     },
     {
         "card_name": "Rennala's Amber Egg",
-        "number": 71,
+        "number": 70,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "292"
+        "position": "285"
     },
     {
         "card_name": "Patches, the Untethered",
-        "number": 111,
+        "number": 108,
         "shape": "planeswalker",
         "set": "TLB",
         "rotated": false,
@@ -145,7 +145,7 @@
     },
     {
         "card_name": "Placidusax's Ruin",
-        "number": 151,
+        "number": 148,
         "shape": "saga",
         "set": "TLB",
         "rotated": false,
@@ -153,11 +153,11 @@
     },
     {
         "card_name": "Golden Seeds",
-        "number": 183,
+        "number": 179,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "294"
+        "position": "287"
     },
     {
         "card_name": "D, Hunter of the Dead",
@@ -169,15 +169,15 @@
     },
     {
         "card_name": "Becoming a Mother",
-        "number": 44,
+        "number": 43,
         "shape": "saga",
         "set": "TLB",
         "rotated": false,
-        "position": "263"
+        "position": "256"
     },
     {
         "card_name": "Abandon Everything",
-        "number": 83,
+        "number": 81,
         "shape": "saga",
         "set": "TLB",
         "rotated": false,
@@ -185,19 +185,19 @@
     },
     {
         "card_name": "Bell Bearing Hunter",
-        "number": 126,
+        "number": 123,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "229"
+        "position": "223"
     },
     {
         "card_name": "Aspects of the Crucible",
-        "number": 169,
+        "number": 165,
         "shape": "saga",
         "set": "TLB",
         "rotated": false,
-        "position": "222"
+        "position": "216"
     },
     {
         "card_name": "Melina, Kindling Maiden",
@@ -205,19 +205,19 @@
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "170"
+        "position": "165"
     },
     {
         "card_name": "Carian Knight",
-        "number": 45,
+        "number": 44,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "136"
+        "position": "132"
     },
     {
         "card_name": "Black Knife Assassin",
-        "number": 85,
+        "number": 83,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -225,7 +225,7 @@
     },
     {
         "card_name": "Divine Beast Dancing Lion",
-        "number": 130,
+        "number": 127,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -233,11 +233,11 @@
     },
     {
         "card_name": "Crucible Knight",
-        "number": 173,
+        "number": 169,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "175"
+        "position": "169"
     },
     {
         "card_name": "Mend the Elden Ring",
@@ -245,39 +245,39 @@
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "244"
+        "position": "238"
     },
     {
         "card_name": "Count Ymir",
-        "number": 47,
+        "number": 46,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "190"
+        "position": "184"
     },
     {
         "card_name": "Lichdragon Fortissax",
-        "number": 101,
+        "number": 98,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "162"
+        "position": "157"
     },
     {
-        "card_name": "Furnace Golem",
-        "number": 139,
+        "card_name": "Embrace Thine Oblivion",
+        "number": 132,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "262"
+        "position": "326"
     },
     {
         "card_name": "Hornsent Grandam",
-        "number": 189,
+        "number": 185,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "246"
+        "position": "240"
     },
     {
         "card_name": "Minor Erdtree",
@@ -285,39 +285,39 @@
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "220"
+        "position": "214"
     },
     {
-        "card_name": "Gideon Ofnir, All Knowing",
-        "number": 55,
+        "card_name": "Gideon Ofnir, All-Knowing",
+        "number": 54,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "177"
+        "position": "171"
     },
     {
         "card_name": "Midra, Lord of Frenzied Flame",
-        "number": 105,
+        "number": 102,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "218"
+        "position": "212"
     },
     {
-        "card_name": "Millicent, Flowering Valkyrie",
-        "number": 148,
+        "card_name": "Furnace Golem",
+        "number": 137,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "202"
+        "position": "255"
     },
     {
         "card_name": "Kindreds of Rot",
-        "number": 190,
+        "number": 186,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "256"
+        "position": "249"
     },
     {
         "card_name": "Needle Knight Leda",
@@ -325,11 +325,11 @@
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "207"
+        "position": "201"
     },
     {
         "card_name": "Mimic Tear",
-        "number": 62,
+        "number": 61,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -337,119 +337,119 @@
     },
     {
         "card_name": "Old Untouchable",
-        "number": 109,
+        "number": 106,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "169"
+        "position": "164"
     },
     {
-        "card_name": "Purge Without Grace",
-        "number": 152,
-        "shape": "saga",
+        "card_name": "Millicent, Flowering Valkyrie",
+        "number": 146,
+        "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "235"
+        "position": "196"
     },
     {
         "card_name": "Miriel, Pastor of Vows",
-        "number": 191,
+        "number": 187,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "161"
+        "position": "156"
     },
     {
         "card_name": "Profound Holiness",
-        "number": 30,
+        "number": 29,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "153"
+        "position": "148"
     },
     {
         "card_name": "Spellblade Rogier",
-        "number": 75,
+        "number": 73,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "188"
+        "position": "182"
     },
     {
         "card_name": "Ritual Ascension",
-        "number": 113,
+        "number": 110,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
         "position": "55"
     },
     {
-        "card_name": "Radahn's Meteor",
-        "number": 153,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "78"
-    },
-    {
-        "card_name": "Scadutree Avatar",
-        "number": 197,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "178"
-    },
-    {
-        "card_name": "Radagon is Marika",
-        "number": 31,
+        "card_name": "Purge Without Grace",
+        "number": 149,
         "shape": "saga",
         "set": "TLB",
         "rotated": false,
-        "position": "253"
+        "position": "229"
     },
     {
-        "card_name": "Thousand Year Voyage",
-        "number": 80,
+        "card_name": "Scadutree Avatar",
+        "number": 192,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "228"
+        "position": "172"
+    },
+    {
+        "card_name": "Radagon is Marika",
+        "number": 30,
+        "shape": "saga",
+        "set": "TLB",
+        "rotated": false,
+        "position": "246"
+    },
+    {
+        "card_name": "Thousand Year Voyage",
+        "number": 78,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "222"
     },
     {
         "card_name": "Ruinous Encounter",
-        "number": 115,
+        "number": 112,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
         "position": "92"
     },
     {
-        "card_name": "Sorceress Sellen",
-        "number": 160,
+        "card_name": "Radahn's Meteor",
+        "number": 150,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "233"
+        "position": "78"
     },
     {
         "card_name": "Secret Rite",
-        "number": 199,
+        "number": 194,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "205"
+        "position": "199"
     },
     {
         "card_name": "Tree Sentinel",
-        "number": 37,
+        "number": 36,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "158"
+        "position": "153"
     },
     {
         "card_name": "To the Three Sisters",
-        "number": 81,
+        "number": 79,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -457,23 +457,23 @@
     },
     {
         "card_name": "The Three Fingers",
-        "number": 118,
+        "number": 115,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "186"
+        "position": "180"
     },
     {
-        "card_name": "Twin Moons",
-        "number": 162,
+        "card_name": "Sorceress Sellen",
+        "number": 157,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "250"
+        "position": "227"
     },
     {
         "card_name": "Seek the Elden Ring",
-        "number": 200,
+        "number": 195,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -485,27 +485,27 @@
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "252"
+        "position": "245"
     },
     {
         "card_name": "Adula, Sworn to Ranni",
-        "number": 42,
+        "number": 41,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "164"
+        "position": "159"
     },
     {
         "card_name": "Bloodhound Knight",
-        "number": 87,
+        "number": 85,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "192"
+        "position": "186"
     },
     {
         "card_name": "Bayle's Tyranny",
-        "number": 125,
+        "number": 122,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -513,11 +513,11 @@
     },
     {
         "card_name": "Behold the Jagged Peak",
-        "number": 170,
+        "number": 166,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "280"
+        "position": "273"
     },
     {
         "card_name": "Battlefield Commander",
@@ -529,35 +529,35 @@
     },
     {
         "card_name": "Death Rite Bird",
-        "number": 49,
+        "number": 48,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "231"
+        "position": "225"
     },
     {
         "card_name": "Fia, Deathbed Companion",
-        "number": 90,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "199"
-    },
-    {
-        "card_name": "Dancer of Ranah",
-        "number": 128,
+        "number": 88,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
         "position": "193"
     },
     {
-        "card_name": "Blackguard Boggart",
-        "number": 171,
+        "card_name": "Dancer of Ranah",
+        "number": 125,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "232"
+        "position": "187"
+    },
+    {
+        "card_name": "Blackguard Boggart",
+        "number": 167,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "226"
     },
     {
         "card_name": "Blackgaol Knight",
@@ -565,35 +565,35 @@
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "187"
+        "position": "181"
     },
     {
         "card_name": "Fleeting Microcosm",
-        "number": 53,
+        "number": 52,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "283"
+        "position": "276"
     },
     {
         "card_name": "Ghostflame Dragon",
-        "number": 92,
+        "number": 90,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "167"
+        "position": "162"
     },
     {
         "card_name": "Dearest Nanaya",
-        "number": 129,
+        "number": 126,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "216"
+        "position": "210"
     },
     {
         "card_name": "Discovery of Grafting",
-        "number": 174,
+        "number": 170,
         "shape": "saga",
         "set": "TLB",
         "rotated": false,
@@ -605,39 +605,39 @@
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "285"
+        "position": "278"
     },
     {
         "card_name": "Founding Rain of Stars",
-        "number": 54,
+        "number": 53,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "272"
+        "position": "265"
     },
     {
         "card_name": "Gift of Madness",
-        "number": 93,
+        "number": 91,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "159"
+        "position": "154"
     },
     {
         "card_name": "Dragon Communion",
-        "number": 131,
+        "number": 128,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "238"
+        "position": "232"
     },
     {
         "card_name": "Dragonkin Soldier",
-        "number": 175,
+        "number": 171,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "163"
+        "position": "158"
     },
     {
         "card_name": "Braid Cutting",
@@ -648,36 +648,36 @@
         "position": "56"
     },
     {
-        "card_name": "Miquella's Sacrifice",
-        "number": 63,
+        "card_name": "Knowledge Capture",
+        "number": 59,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "287"
+        "position": "275"
     },
     {
         "card_name": "Godslayer's Greatsword",
-        "number": 94,
+        "number": 92,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "155"
+        "position": "150"
     },
     {
         "card_name": "Drake Knight",
-        "number": 134,
+        "number": 131,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "194"
+        "position": "188"
     },
     {
         "card_name": "Epic Encounter",
-        "number": 177,
+        "number": 173,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "198"
+        "position": "192"
     },
     {
         "card_name": "Divine Bird Warrior",
@@ -685,19 +685,19 @@
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "191"
+        "position": "185"
     },
     {
-        "card_name": "Old Hero of Zamor",
-        "number": 64,
+        "card_name": "Miquella's Sacrifice",
+        "number": 62,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "265"
+        "position": "280"
     },
     {
         "card_name": "Godwyn's Death Knight",
-        "number": 95,
+        "number": 93,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -705,15 +705,15 @@
     },
     {
         "card_name": "Erdtree Aflame",
-        "number": 135,
+        "number": 133,
         "shape": "saga",
         "set": "TLB",
         "rotated": false,
-        "position": "271"
+        "position": "264"
     },
     {
         "card_name": "Great Jar",
-        "number": 185,
+        "number": 181,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -725,39 +725,39 @@
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "196"
+        "position": "190"
     },
     {
-        "card_name": "Pawns in a Plan",
-        "number": 65,
+        "card_name": "Old Hero of Zamor",
+        "number": 63,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "266"
+        "position": "258"
     },
     {
         "card_name": "The Madness Swells",
-        "number": 103,
+        "number": 100,
         "shape": "saga",
         "set": "TLB",
         "rotated": false,
-        "position": "239"
+        "position": "233"
     },
     {
         "card_name": "Fire Giant",
-        "number": 136,
+        "number": 134,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "197"
+        "position": "191"
     },
     {
         "card_name": "Horned Warrior",
-        "number": 188,
+        "number": 184,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "142"
+        "position": "138"
     },
     {
         "card_name": "Lady Tanith",
@@ -765,27 +765,27 @@
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "278"
+        "position": "271"
     },
     {
-        "card_name": "Primeval Sorcerer Azur",
-        "number": 66,
+        "card_name": "Pawns in a Plan",
+        "number": 64,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "86"
+        "position": "259"
     },
     {
         "card_name": "Ranni's Scheme",
-        "number": 112,
+        "number": 109,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "284"
+        "position": "277"
     },
     {
         "card_name": "Igon, Drake Warrior",
-        "number": 141,
+        "number": 139,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -793,11 +793,11 @@
     },
     {
         "card_name": "Misbegotten Warrior",
-        "number": 192,
+        "number": 188,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "269"
+        "position": "262"
     },
     {
         "card_name": "Leyndell Knight",
@@ -808,36 +808,36 @@
         "position": "51"
     },
     {
-        "card_name": "Primeval Sorcerer Lusat",
-        "number": 67,
+        "card_name": "Primeval Sorcerer Azur",
+        "number": 65,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "85"
+        "position": "86"
     },
     {
         "card_name": "Royal Revenant",
-        "number": 114,
+        "number": 111,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "204"
+        "position": "198"
     },
     {
         "card_name": "Lesser Dragon",
-        "number": 143,
+        "number": 141,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "166"
+        "position": "161"
     },
     {
         "card_name": "Nepheli Loux",
-        "number": 193,
+        "number": 189,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "201"
+        "position": "195"
     },
     {
         "card_name": "Obscure in Shadow",
@@ -848,96 +848,96 @@
         "position": "65"
     },
     {
+        "card_name": "Primeval Sorcerer Lusat",
+        "number": 66,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "85"
+    },
+    {
+        "card_name": "Sir Ansbach",
+        "number": 113,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "203"
+    },
+    {
+        "card_name": "Millicent's Journey",
+        "number": 147,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "239"
+    },
+    {
+        "card_name": "New Life from Death",
+        "number": 190,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "274"
+    },
+    {
+        "card_name": "Seeking the Crosses",
+        "number": 32,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "230"
+    },
+    {
         "card_name": "Rennala's Studies",
-        "number": 72,
+        "number": 71,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
         "position": "3"
     },
     {
-        "card_name": "Sir Ansbach",
-        "number": 116,
+        "card_name": "Swordhand of Night",
+        "number": 114,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "209"
+        "position": "272"
     },
     {
-        "card_name": "Millicent's Journey",
-        "number": 149,
+        "card_name": "Redmane Freyja",
+        "number": 152,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "245"
+        "position": "218"
     },
     {
-        "card_name": "New Life from Death",
-        "number": 194,
+        "card_name": "Rune Bear",
+        "number": 191,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "281"
+        "position": "248"
     },
     {
-        "card_name": "Seeking the Crosses",
+        "card_name": "Sword Monument",
         "number": 33,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "236"
-    },
-    {
-        "card_name": "Rogier's Talent",
-        "number": 73,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "282"
-    },
-    {
-        "card_name": "Swordhand of Night",
-        "number": 117,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "279"
-    },
-    {
-        "card_name": "Redmane Freyja",
-        "number": 155,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "224"
-    },
-    {
-        "card_name": "Rune Bear",
-        "number": 196,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "255"
-    },
-    {
-        "card_name": "Sword Monument",
-        "number": 34,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "237"
+        "position": "231"
     },
     {
         "card_name": "Spirit-Calling Snail",
-        "number": 78,
+        "number": 76,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "206"
+        "position": "200"
     },
     {
         "card_name": "Tibia Mariner",
-        "number": 119,
+        "number": 116,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -945,39 +945,39 @@
     },
     {
         "card_name": "Rya, Volcano Manor Scout",
-        "number": 157,
+        "number": 154,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "210"
+        "position": "204"
     },
     {
         "card_name": "Sir Moore",
-        "number": 201,
+        "number": 196,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "208"
+        "position": "202"
     },
     {
         "card_name": "Torrent, Spectral Steed",
-        "number": 36,
+        "number": 35,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "168"
+        "position": "163"
     },
     {
         "card_name": "Thiollier, in Sweet Sleep",
-        "number": 79,
+        "number": 77,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "215"
+        "position": "209"
     },
     {
         "card_name": "Virgin Abduction",
-        "number": 120,
+        "number": 117,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -985,23 +985,23 @@
     },
     {
         "card_name": "Secret Away",
-        "number": 158,
+        "number": 155,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "124"
+        "position": "121"
     },
     {
         "card_name": "Soldier of Godrick",
-        "number": 202,
+        "number": 197,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "145"
+        "position": "141"
     },
     {
         "card_name": "Veiled Monarch's Reign",
-        "number": 39,
+        "number": 38,
         "shape": "saga",
         "set": "TLB",
         "rotated": false,
@@ -1009,7 +1009,7 @@
     },
     {
         "card_name": "Wisdom of the Moon",
-        "number": 82,
+        "number": 80,
         "shape": "saga",
         "set": "TLB",
         "rotated": false,
@@ -1017,27 +1017,27 @@
     },
     {
         "card_name": "White Mask Varre",
-        "number": 122,
+        "number": 119,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "226"
+        "position": "220"
     },
     {
         "card_name": "Waterfowl Dance",
-        "number": 164,
+        "number": 160,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "120"
+        "position": "117"
     },
     {
         "card_name": "Wise Turtle",
-        "number": 204,
+        "number": 199,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "146"
+        "position": "142"
     },
     {
         "card_name": "Abductor Virgin",
@@ -1049,7 +1049,7 @@
     },
     {
         "card_name": "Ashen Remains",
-        "number": 43,
+        "number": 42,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1057,7 +1057,7 @@
     },
     {
         "card_name": "Baleful Shadow",
-        "number": 84,
+        "number": 82,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1065,7 +1065,7 @@
     },
     {
         "card_name": "Ancient Dragon's Lightning",
-        "number": 124,
+        "number": 121,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1073,11 +1073,11 @@
     },
     {
         "card_name": "Albinauric Archer",
-        "number": 165,
+        "number": 161,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "137"
+        "position": "133"
     },
     {
         "card_name": "Chanting Winged Dame",
@@ -1089,15 +1089,15 @@
     },
     {
         "card_name": "Carian Retaliation",
-        "number": 46,
+        "number": 45,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "130"
+        "position": "127"
     },
     {
         "card_name": "Black Knight Captain",
-        "number": 86,
+        "number": 84,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1105,19 +1105,19 @@
     },
     {
         "card_name": "Champion's Blessing",
-        "number": 127,
+        "number": 124,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "125"
+        "position": "122"
     },
     {
         "card_name": "Albinauric Duo",
-        "number": 166,
+        "number": 162,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "139"
+        "position": "135"
     },
     {
         "card_name": "Finlay's Aid",
@@ -1129,7 +1129,7 @@
     },
     {
         "card_name": "Crystalian",
-        "number": 48,
+        "number": 47,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1137,7 +1137,7 @@
     },
     {
         "card_name": "Destined Death",
-        "number": 88,
+        "number": 86,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1145,7 +1145,7 @@
     },
     {
         "card_name": "Dragon Cult Priestess",
-        "number": 132,
+        "number": 129,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1153,7 +1153,7 @@
     },
     {
         "card_name": "Alexander's Strike",
-        "number": 167,
+        "number": 163,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1165,39 +1165,39 @@
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "112"
+        "position": "110"
     },
     {
         "card_name": "Destiny Portends",
-        "number": 50,
+        "number": 49,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "133"
+        "position": "130"
     },
     {
         "card_name": "Feeding the Haligtree",
-        "number": 89,
+        "number": 87,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "105"
+        "position": "104"
     },
     {
         "card_name": "Dragonbolt Blessing",
-        "number": 133,
+        "number": 130,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "119"
+        "position": "116"
     },
     {
         "card_name": "Ancestral Follower",
-        "number": 168,
+        "number": 164,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "138"
+        "position": "134"
     },
     {
         "card_name": "Golden Hippopotamus",
@@ -1205,39 +1205,39 @@
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "107"
+        "position": "106"
     },
     {
         "card_name": "Dominula Celebrant",
-        "number": 51,
+        "number": 50,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "126"
+        "position": "123"
     },
     {
         "card_name": "Fia's Embrace",
-        "number": 91,
+        "number": 89,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "103"
+        "position": "102"
     },
     {
         "card_name": "Fire Knight's Greatsword",
-        "number": 137,
+        "number": 135,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "118"
+        "position": "115"
     },
     {
         "card_name": "Duskborn's Presence",
-        "number": 176,
+        "number": 172,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "150"
+        "position": "146"
     },
     {
         "card_name": "Hero of the Fringes",
@@ -1249,31 +1249,31 @@
     },
     {
         "card_name": "Dragonkin Spirit",
-        "number": 52,
+        "number": 51,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "129"
+        "position": "126"
     },
     {
         "card_name": "Godwyn's Fall",
-        "number": 96,
+        "number": 94,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "104"
+        "position": "103"
     },
     {
         "card_name": "Fire Monk",
-        "number": 138,
+        "number": 136,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "115"
+        "position": "112"
     },
     {
         "card_name": "Erdtree Avatar",
-        "number": 178,
+        "number": 174,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1289,23 +1289,23 @@
     },
     {
         "card_name": "Glintstone Dragon",
-        "number": 56,
+        "number": 55,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
         "position": "24"
     },
     {
-        "card_name": "Gravebird",
-        "number": 97,
+        "card_name": "Hornsent Inquisition",
+        "number": 96,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "100"
+        "position": "101"
     },
     {
-        "card_name": "Knight of the Fringes",
-        "number": 142,
+        "card_name": "Knights of the Fringes",
+        "number": 140,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1313,7 +1313,7 @@
     },
     {
         "card_name": "Fingercreeper",
-        "number": 179,
+        "number": 175,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1325,39 +1325,39 @@
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "111"
+        "position": "109"
     },
     {
         "card_name": "Graven Mass Transformation",
-        "number": 57,
+        "number": 56,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
         "position": "58"
     },
     {
-        "card_name": "Hornsent Inquisition",
-        "number": 99,
+        "card_name": "Join the Mohgwyn Dynasty",
+        "number": 97,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "102"
+        "position": "91"
     },
     {
         "card_name": "March to Caelid",
-        "number": 145,
+        "number": 143,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "123"
+        "position": "120"
     },
     {
         "card_name": "Forager Brood",
-        "number": 180,
+        "number": 176,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "140"
+        "position": "136"
     },
     {
         "card_name": "Miquella's Needle Knight",
@@ -1365,39 +1365,39 @@
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "106"
+        "position": "105"
     },
     {
         "card_name": "Hallowhorn Communion",
-        "number": 58,
+        "number": 57,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "135"
+        "position": "131"
     },
     {
-        "card_name": "Join the Mohgwyn Dynasty",
-        "number": 100,
+        "card_name": "Living Jar",
+        "number": 99,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "91"
+        "position": "75"
     },
     {
         "card_name": "Midra's Madness",
-        "number": 147,
+        "number": 145,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "121"
+        "position": "118"
     },
     {
         "card_name": "Grafted Scion",
-        "number": 184,
+        "number": 180,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "141"
+        "position": "137"
     },
     {
         "card_name": "Nox Spirits",
@@ -1405,59 +1405,19 @@
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "108"
+        "position": "107"
     },
     {
-        "card_name": "Loretta's Greatbow",
+        "card_name": "Magic Preceptor",
         "number": 60,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "134"
-    },
-    {
-        "card_name": "Living Jar",
-        "number": 102,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "75"
-    },
-    {
-        "card_name": "Minor Erdtree Guardian",
-        "number": 150,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "113"
-    },
-    {
-        "card_name": "Groundswell",
-        "number": 186,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "151"
-    },
-    {
-        "card_name": "Oracle Envoy",
-        "number": 29,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "109"
-    },
-    {
-        "card_name": "Magic Preceptor",
-        "number": 61,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "128"
+        "position": "125"
     },
     {
         "card_name": "Night's Cavalry",
-        "number": 107,
+        "number": 104,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1465,23 +1425,23 @@
     },
     {
         "card_name": "Red Wolf of Radagon",
-        "number": 154,
+        "number": 151,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
         "position": "37"
     },
     {
-        "card_name": "Haligtree Knight",
-        "number": 187,
+        "card_name": "Groundswell",
+        "number": 182,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "61"
+        "position": "147"
     },
     {
         "card_name": "Seeker of Runes",
-        "number": 32,
+        "number": 31,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1489,15 +1449,15 @@
     },
     {
         "card_name": "Rellana's Cameo",
-        "number": 69,
+        "number": 68,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "131"
+        "position": "128"
     },
     {
         "card_name": "Nomadic Tribe Warrior",
-        "number": 108,
+        "number": 105,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1505,31 +1465,31 @@
     },
     {
         "card_name": "Redmane Knight",
-        "number": 156,
+        "number": 153,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
         "position": "70"
     },
     {
-        "card_name": "Power of the Dragonkin",
-        "number": 195,
+        "card_name": "Haligtree Knight",
+        "number": 183,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "152"
+        "position": "61"
     },
     {
         "card_name": "United in Common Cause",
-        "number": 38,
+        "number": 37,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "110"
+        "position": "108"
     },
     {
         "card_name": "Sellen's Triumph",
-        "number": 74,
+        "number": 72,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1537,7 +1497,7 @@
     },
     {
         "card_name": "Omenkiller",
-        "number": 110,
+        "number": 107,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1545,23 +1505,23 @@
     },
     {
         "card_name": "Sisters of Rot",
-        "number": 159,
+        "number": 156,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "117"
+        "position": "114"
     },
     {
         "card_name": "Scadutree's Thorns",
-        "number": 198,
+        "number": 193,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "149"
+        "position": "145"
     },
     {
         "card_name": "Wandering Nobles",
-        "number": 40,
+        "number": 39,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1569,15 +1529,15 @@
     },
     {
         "card_name": "Spirit Jellyfish",
-        "number": 76,
+        "number": 74,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "127"
+        "position": "124"
     },
     {
         "card_name": "Vulgar Militiamen",
-        "number": 121,
+        "number": 118,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1585,23 +1545,23 @@
     },
     {
         "card_name": "Thorn Sorcerer",
-        "number": 161,
+        "number": 158,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "116"
+        "position": "113"
     },
     {
         "card_name": "Wandering Merchant",
-        "number": 203,
+        "number": 198,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "144"
+        "position": "140"
     },
     {
         "card_name": "Winged Crucible Knight",
-        "number": 41,
+        "number": 40,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1609,7 +1569,7 @@
     },
     {
         "card_name": "Spirit of the Stormhawk",
-        "number": 77,
+        "number": 75,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1617,27 +1577,27 @@
     },
     {
         "card_name": "Wraith Caller",
-        "number": 123,
+        "number": 120,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "101"
+        "position": "100"
     },
     {
         "card_name": "War Against the Giants",
-        "number": 163,
+        "number": 159,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "122"
+        "position": "119"
     },
     {
         "card_name": "Wormface",
-        "number": 205,
+        "number": 200,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "148"
+        "position": "144"
     },
     {
         "card_name": "er"
@@ -1654,63 +1614,63 @@
     "a->gold",
     {
         "card_name": "Loretta, Haligtree Knight",
-        "number": 226,
+        "number": 221,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "211"
+        "position": "205"
     },
     {
         "card_name": "Ranni the Witch",
-        "number": 238,
+        "number": 233,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "132"
+        "position": "129"
     },
     {
         "card_name": "Mohg, Lord of Blood",
+        "number": 227,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "247"
+    },
+    {
+        "card_name": "Cleanrot Knight",
+        "number": 206,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "111"
+    },
+    {
+        "card_name": "Miquella, the Kind",
+        "number": 224,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "166"
+    },
+    {
+        "card_name": "Radahn's Return",
         "number": 232,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "254"
-    },
-    {
-        "card_name": "Cleanrot Knight",
-        "number": 211,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "114"
-    },
-    {
-        "card_name": "Miquella, the Kind",
-        "number": 229,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "171"
-    },
-    {
-        "card_name": "Radahn's Return",
-        "number": 237,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "234"
+        "position": "228"
     },
     {
         "card_name": "Fall of the Eternal Cities",
-        "number": 220,
+        "number": 215,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "267"
+        "position": "260"
     },
     {
         "card_name": "Bayle the Dread",
-        "number": 209,
+        "number": 204,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1718,23 +1678,23 @@
     },
     {
         "card_name": "Romina, Saint of the Bud",
-        "number": 242,
+        "number": 237,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "181"
+        "position": "175"
     },
     {
         "card_name": "Diallos, of House Hoslow",
-        "number": 215,
+        "number": 210,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "270"
+        "position": "263"
     },
     {
         "card_name": "Ever-Brilliant Goldmask",
-        "number": 219,
+        "number": 214,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1742,15 +1702,15 @@
     },
     {
         "card_name": "Metyr, Mother of Fingers",
-        "number": 228,
+        "number": 223,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "180"
+        "position": "174"
     },
     {
         "card_name": "Vyke, Festering Fingerprint",
-        "number": 251,
+        "number": 246,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1758,7 +1718,7 @@
     },
     {
         "card_name": "War Counselor Iji",
-        "number": 253,
+        "number": 248,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1766,23 +1726,23 @@
     },
     {
         "card_name": "Light of Miquella",
-        "number": 224,
+        "number": 219,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "248"
+        "position": "242"
     },
     {
         "card_name": "Miquella's Love",
-        "number": 230,
+        "number": 225,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "221"
+        "position": "215"
     },
     {
         "card_name": "Astel, Stars of Darkness",
-        "number": 207,
+        "number": 202,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1790,23 +1750,23 @@
     },
     {
         "card_name": "Hyetta, Blind Maiden",
-        "number": 223,
+        "number": 218,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "160"
+        "position": "155"
     },
     {
         "card_name": "Weave the Scarlet Rot",
-        "number": 255,
+        "number": 250,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "291"
+        "position": "284"
     },
     {
         "card_name": "Devonia, of the Crucible",
-        "number": 214,
+        "number": 209,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1814,7 +1774,7 @@
     },
     {
         "card_name": "Tarnished Prisoner",
-        "number": 263,
+        "number": 258,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1822,23 +1782,23 @@
     },
     {
         "card_name": "Ranni's Guidance",
-        "number": 239,
+        "number": 234,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "273"
+        "position": "266"
     },
     {
         "card_name": "Vyke's Torment",
-        "number": 252,
+        "number": 247,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "275"
+        "position": "268"
     },
     {
         "card_name": "Tarnished Bloodhound",
-        "number": 257,
+        "number": 252,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1846,18 +1806,18 @@
     },
     {
         "card_name": "Spoken Echoes",
-        "number": 245,
+        "number": 240,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "212"
+        "position": "206"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Tarnished Bandit",
-        "number": 256,
+        "number": 251,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1865,7 +1825,7 @@
     },
     {
         "card_name": "Tarnished Lightseeker",
-        "number": 260,
+        "number": 255,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1876,7 +1836,7 @@
     },
     {
         "card_name": "Tarnished of the Badlands",
-        "number": 261,
+        "number": 256,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1899,7 +1859,7 @@
     },
     {
         "card_name": "Marika, God-Queen",
-        "number": 227,
+        "number": 222,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1907,95 +1867,95 @@
     },
     {
         "card_name": "Starscourge Radahn",
-        "number": 247,
+        "number": 242,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "157"
+        "position": "152"
     },
     {
         "card_name": "The Loathsome Dung Eater",
-        "number": 225,
+        "number": 220,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "200"
+        "position": "194"
     },
     {
         "card_name": "Radagon, King Consort",
+        "number": 230,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "197"
+    },
+    {
+        "card_name": "Ancestor Spirit",
+        "number": 201,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "207"
+    },
+    {
+        "card_name": "Godskin Apostle",
+        "number": 216,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "243"
+    },
+    {
+        "card_name": "Comet Azur",
+        "number": 207,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "173"
+    },
+    {
+        "card_name": "Mired in Despair",
+        "number": 226,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "261"
+    },
+    {
+        "card_name": "The Shattering",
+        "number": 239,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "234"
+    },
+    {
+        "card_name": "Putrescent Knight",
+        "number": 229,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "219"
+    },
+    {
+        "card_name": "The Two Fingers",
+        "number": 243,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "270"
+    },
+    {
+        "card_name": "Rellana, Twin Moon Knight",
         "number": 235,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "203"
-    },
-    {
-        "card_name": "Ancestor Spirit",
-        "number": 206,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "213"
-    },
-    {
-        "card_name": "Godskin Apostle",
-        "number": 221,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "249"
-    },
-    {
-        "card_name": "Comet Azur",
-        "number": 212,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "179"
-    },
-    {
-        "card_name": "Mired in Despair",
-        "number": 231,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "268"
-    },
-    {
-        "card_name": "The Shattering",
-        "number": 244,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "240"
-    },
-    {
-        "card_name": "Putrescent Knight",
-        "number": 234,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "225"
-    },
-    {
-        "card_name": "The Two Fingers",
-        "number": 248,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "277"
-    },
-    {
-        "card_name": "Rellana, Twin Moon Knight",
-        "number": 240,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "214"
+        "position": "208"
     },
     {
         "card_name": "The Hornsent",
-        "number": 222,
+        "number": 217,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -2003,7 +1963,7 @@
     },
     {
         "card_name": "Roderika and Hewg",
-        "number": 241,
+        "number": 236,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -2011,7 +1971,7 @@
     },
     {
         "card_name": "Commander Gaius",
-        "number": 213,
+        "number": 208,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -2019,7 +1979,7 @@
     },
     {
         "card_name": "Ensha of Royal Remains",
-        "number": 218,
+        "number": 213,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -2027,7 +1987,7 @@
     },
     {
         "card_name": "Blaidd, Loyal Hound",
-        "number": 210,
+        "number": 205,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -2035,47 +1995,47 @@
     },
     {
         "card_name": "Unloved and Unwanted",
+        "number": 244,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "283"
+    },
+    {
+        "card_name": "Valkyrie's Prosthetic",
+        "number": 245,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "282"
+    },
+    {
+        "card_name": "New Life Grows",
+        "number": 228,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "279"
+    },
+    {
+        "card_name": "Sealing the Rune of Death",
+        "number": 238,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "281"
+    },
+    {
+        "card_name": "War with Liurnia",
         "number": 249,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "290"
-    },
-    {
-        "card_name": "Valkyrie's Prosthetic",
-        "number": 250,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "289"
-    },
-    {
-        "card_name": "New Life Grows",
-        "number": 233,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "286"
-    },
-    {
-        "card_name": "Sealing the Rune of Death",
-        "number": 243,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "288"
-    },
-    {
-        "card_name": "War with Liurnia",
-        "number": 254,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "274"
+        "position": "267"
     },
     {
         "card_name": "Tarnished Recusant",
-        "number": 264,
+        "number": 259,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -2083,7 +2043,7 @@
     },
     {
         "card_name": "Tarnished of the Crucible",
-        "number": 262,
+        "number": 257,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -2091,7 +2051,7 @@
     },
     {
         "card_name": "Tarnished Cultist",
-        "number": 258,
+        "number": 253,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -2099,7 +2059,7 @@
     },
     {
         "card_name": "Tarnished Godhunter",
-        "number": 259,
+        "number": 254,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -2107,7 +2067,7 @@
     },
     {
         "card_name": "Tarnished Sorcerer",
-        "number": 265,
+        "number": 260,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -2139,43 +2099,43 @@
     },
     {
         "card_name": "Dragonlord Placidusax",
-        "number": 216,
+        "number": 211,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "165"
+        "position": "160"
     },
     {
         "card_name": "The Radahn Festival",
-        "number": 236,
+        "number": 231,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "251"
+        "position": "244"
     },
     {
         "card_name": "St. Trina",
-        "number": 246,
+        "number": 241,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "211"
+    },
+    {
+        "card_name": "The Elden Beast",
+        "number": 212,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "221"
+    },
+    {
+        "card_name": "Bathed in Gold",
+        "number": 203,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
         "position": "217"
-    },
-    {
-        "card_name": "The Elden Beast",
-        "number": 217,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "227"
-    },
-    {
-        "card_name": "Bathed in Gold",
-        "number": 208,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "223"
     },
     {
         "card_name": "er"
@@ -2192,39 +2152,39 @@
     "a->colorless",
     {
         "card_name": "The Elden Ring",
-        "number": 269,
+        "number": 264,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "176"
+        "position": "170"
     },
     {
         "card_name": "The Gate of Divinity",
-        "number": 273,
+        "number": 268,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "219"
+        "position": "213"
     },
     {
         "card_name": "Marika's Hammer",
-        "number": 280,
+        "number": 275,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "261"
+        "position": "254"
     },
     {
         "card_name": "Black Knife",
-        "number": 266,
+        "number": 261,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "241"
+        "position": "235"
     },
     {
         "card_name": "Dark Moon Greatsword",
-        "number": 268,
+        "number": 263,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -2232,15 +2192,15 @@
     },
     {
         "card_name": "Greatswords of Radahn",
-        "number": 276,
+        "number": 271,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "185"
+        "position": "179"
     },
     {
         "card_name": "Iron Fist Alexander",
-        "number": 279,
+        "number": 274,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -2248,51 +2208,51 @@
     },
     {
         "card_name": "Walking Mausoleum",
-        "number": 284,
+        "number": 279,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "147"
+        "position": "143"
     },
     {
         "card_name": "Empyrean Cocoon",
+        "number": 265,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "236"
+    },
+    {
+        "card_name": "Erdtree Burial Watchdog",
+        "number": 266,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "189"
+    },
+    {
+        "card_name": "Giant-Crusher",
+        "number": 269,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "251"
+    },
+    {
+        "card_name": "Golem Smith",
         "number": 270,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "242"
-    },
-    {
-        "card_name": "Erdtree Burial Watchdog",
-        "number": 271,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "195"
-    },
-    {
-        "card_name": "Giant-Crusher",
-        "number": 274,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "258"
-    },
-    {
-        "card_name": "Golem Smith",
-        "number": 275,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "184"
+        "position": "178"
     },
     {
         "card_name": "Sword of Night and Flame",
-        "number": 282,
+        "number": 277,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "243"
+        "position": "237"
     },
     {
         "card_name": "Marika's Hammer's Saga token",
@@ -2300,19 +2260,19 @@
         "shape": "saga",
         "set": "TLB",
         "rotated": false,
-        "position": "329"
+        "position": "322"
     },
     {
         "card_name": "Claymore",
-        "number": 267,
+        "number": 262,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "154"
+        "position": "149"
     },
     {
         "card_name": "Fanged Imp",
-        "number": 272,
+        "number": 267,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -2320,7 +2280,7 @@
     },
     {
         "card_name": "Guardian Golem",
-        "number": 277,
+        "number": 272,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -2328,7 +2288,7 @@
     },
     {
         "card_name": "Imp Statue",
-        "number": 278,
+        "number": 273,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -2336,19 +2296,19 @@
     },
     {
         "card_name": "Soldjars of Fortune",
-        "number": 281,
+        "number": 276,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "143"
+        "position": "139"
     },
     {
         "card_name": "Table of Lost Grace",
-        "number": 283,
+        "number": 278,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "156"
+        "position": "151"
     },
     {
         "card_name": "er"
@@ -2365,7 +2325,7 @@
     "a->land",
     {
         "card_name": "Shaman Village",
-        "number": 303,
+        "number": 298,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -2373,35 +2333,35 @@
     },
     {
         "card_name": "Cerulean Coast",
-        "number": 285,
+        "number": 280,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "173"
+        "position": "168"
     },
     {
         "card_name": "Midra's Manse",
+        "number": 292,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "167"
+    },
+    {
+        "card_name": "Shadow Keep",
         "number": 297,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "172"
+        "position": "177"
     },
     {
-        "card_name": "Shadow Keep",
-        "number": 302,
+        "card_name": "Enir-Ilim",
+        "number": 284,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "183"
-    },
-    {
-        "card_name": "Enir Ilim",
-        "number": 289,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "182"
+        "position": "176"
     },
     {
         "card_name": "er"
@@ -2420,43 +2380,43 @@
     },
     {
         "card_name": "Mountaintops of the Giants",
-        "number": 298,
+        "number": 293,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "298"
+        "position": "291"
     },
     {
         "card_name": "Eternal City",
-        "number": 291,
+        "number": 286,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "299"
+        "position": "292"
     },
     {
         "card_name": "Grand Cloister",
-        "number": 295,
+        "number": 290,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "304"
+        "position": "297"
     },
     {
         "card_name": "Stormveil Castle",
-        "number": 305,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "301"
-    },
-    {
-        "card_name": "Ruin-Strewn Precipice",
         "number": 300,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "305"
+        "position": "294"
+    },
+    {
+        "card_name": "Ruin-Strewn Precipice",
+        "number": 295,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "298"
     },
     {
         "card_name": "er"
@@ -2475,43 +2435,43 @@
     },
     {
         "card_name": "Foot of the Erdtree",
-        "number": 293,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "297"
-    },
-    {
-        "card_name": "Raya Lucaria Academy",
-        "number": 299,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "300"
-    },
-    {
-        "card_name": "Deeproot Depths",
         "number": 288,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "303"
+        "position": "290"
     },
     {
-        "card_name": "Forge of the Giants",
+        "card_name": "Raya Lucaria Academy",
         "number": 294,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "293"
+    },
+    {
+        "card_name": "Deeproot Depths",
+        "number": 283,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
         "position": "296"
     },
     {
-        "card_name": "Siofra River",
-        "number": 304,
+        "card_name": "Forge of the Giants",
+        "number": 289,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "306"
+        "position": "289"
+    },
+    {
+        "card_name": "Siofra River",
+        "number": 299,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "299"
     },
     {
         "card_name": "er"
@@ -2530,51 +2490,51 @@
     },
     {
         "card_name": "The Erdtree",
-        "number": 290,
+        "number": 285,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "259"
+        "position": "252"
     },
     {
         "card_name": "City of Nox",
-        "number": 286,
+        "number": 281,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "295"
-    },
-    {
-        "card_name": "The Haligtree",
-        "number": 296,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "257"
-    },
-    {
-        "card_name": "The Scadutree",
-        "number": 301,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "174"
+        "position": "288"
     },
     {
         "card_name": "Crumbling Farum Azula",
-        "number": 287,
+        "number": 282,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
         "position": "5"
     },
     {
-        "card_name": "The First Step",
-        "number": 292,
+        "card_name": "The Haligtree",
+        "number": 291,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "302"
+        "position": "250"
+    },
+    {
+        "card_name": "The Scadutree",
+        "number": 296,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "325"
+    },
+    {
+        "card_name": "The First Step",
+        "number": 287,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "295"
     },
     {
         "card_name": "e"
@@ -2609,7 +2569,7 @@
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "324"
+        "position": "317"
     },
     {
         "card_name": "Island_EDR",
@@ -2617,7 +2577,7 @@
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "325"
+        "position": "318"
     },
     {
         "card_name": "Mountain_EDR",
@@ -2625,7 +2585,7 @@
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "326"
+        "position": "319"
     },
     {
         "card_name": "Plains_EDR",
@@ -2633,7 +2593,7 @@
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "327"
+        "position": "320"
     },
     {
         "card_name": "Swamp_EDR",
@@ -2641,7 +2601,7 @@
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "328"
+        "position": "321"
     },
     {
         "card_name": "er"
@@ -2662,7 +2622,7 @@
         "shape": "token",
         "set": "TLB",
         "rotated": false,
-        "position": "309"
+        "position": "302"
     },
     {
         "card_name": "Blood",
@@ -2670,7 +2630,7 @@
         "shape": "token",
         "set": "TLB",
         "rotated": false,
-        "position": "317"
+        "position": "310"
     },
     {
         "card_name": "Food",
@@ -2678,7 +2638,7 @@
         "shape": "token",
         "set": "TLB",
         "rotated": false,
-        "position": "313"
+        "position": "306"
     },
     {
         "card_name": "Meteorite",
@@ -2686,7 +2646,7 @@
         "shape": "token",
         "set": "TLB",
         "rotated": false,
-        "position": "323"
+        "position": "316"
     },
     {
         "card_name": "Treasure",
@@ -2694,7 +2654,7 @@
         "shape": "token",
         "set": "TLB",
         "rotated": false,
-        "position": "312"
+        "position": "305"
     },
     {
         "card_name": "Weapon",
@@ -2702,7 +2662,7 @@
         "shape": "token",
         "set": "TLB",
         "rotated": false,
-        "position": "311"
+        "position": "304"
     },
     {
         "card_name": "Ancient Tomb",
@@ -2710,7 +2670,7 @@
         "shape": "token",
         "set": "TLB",
         "rotated": false,
-        "position": "230"
+        "position": "224"
     },
     {
         "card_name": "Everywhere",
@@ -2718,7 +2678,7 @@
         "shape": "token",
         "set": "TLB",
         "rotated": false,
-        "position": "320"
+        "position": "313"
     },
     {
         "card_name": "Dark Moon Greatsword",
@@ -2726,7 +2686,7 @@
         "shape": "token",
         "set": "TLB",
         "rotated": false,
-        "position": "331"
+        "position": "324"
     },
     {
         "card_name": "Patches",
@@ -2734,7 +2694,7 @@
         "shape": "token",
         "set": "TLB",
         "rotated": false,
-        "position": "330"
+        "position": "323"
     },
     {
         "card_name": "Knight",
@@ -2742,7 +2702,7 @@
         "shape": "token",
         "set": "TLB",
         "rotated": false,
-        "position": "310"
+        "position": "303"
     },
     {
         "card_name": "Orb Cleric",
@@ -2750,7 +2710,7 @@
         "shape": "token",
         "set": "TLB",
         "rotated": false,
-        "position": "260"
+        "position": "253"
     },
     {
         "card_name": "Tanith's Knight",
@@ -2758,7 +2718,7 @@
         "shape": "token",
         "set": "TLB",
         "rotated": false,
-        "position": "314"
+        "position": "307"
     },
     {
         "card_name": "Spirit",
@@ -2766,7 +2726,7 @@
         "shape": "token",
         "set": "TLB",
         "rotated": false,
-        "position": "315"
+        "position": "308"
     },
     {
         "card_name": "Wizard",
@@ -2774,7 +2734,7 @@
         "shape": "token",
         "set": "TLB",
         "rotated": false,
-        "position": "322"
+        "position": "315"
     },
     {
         "card_name": "Demigod",
@@ -2782,7 +2742,7 @@
         "shape": "token",
         "set": "TLB",
         "rotated": false,
-        "position": "307"
+        "position": "300"
     },
     {
         "card_name": "Finger Spider",
@@ -2790,7 +2750,7 @@
         "shape": "token",
         "set": "TLB",
         "rotated": false,
-        "position": "318"
+        "position": "311"
     },
     {
         "card_name": "Skeleton",
@@ -2798,7 +2758,7 @@
         "shape": "token",
         "set": "TLB",
         "rotated": false,
-        "position": "316"
+        "position": "309"
     },
     {
         "card_name": "Dragon",
@@ -2806,7 +2766,7 @@
         "shape": "token",
         "set": "TLB",
         "rotated": false,
-        "position": "321"
+        "position": "314"
     },
     {
         "card_name": "Plant",
@@ -2814,7 +2774,7 @@
         "shape": "token",
         "set": "TLB",
         "rotated": false,
-        "position": "319"
+        "position": "312"
     },
     {
         "card_name": "Soldier",
@@ -2822,7 +2782,7 @@
         "shape": "token",
         "set": "TLB",
         "rotated": false,
-        "position": "308"
+        "position": "301"
     },
     {
         "card_name": "e"

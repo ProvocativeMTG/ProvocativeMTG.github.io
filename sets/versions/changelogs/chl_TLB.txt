@@ -1,4 +1,436 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Morgott Takes Leyndell added.
+Discovery of the Dark Moon added.
+Take Up Grafting added.
+Banished Knight added.
+Grafted Warhawk added.
+Astel, Star of Darkness added.
+Those United in Common Cause added.
+Ranni's Preceptor added.
+Aging Untouchable added.
+Sorcerer Rogier added.
+Mad Tongue added.
+Marika Shatters the Ring added.
+Condemnation of Midra added.
+War of the Shattering added.
+Seize the Stars added.
+Visions of Flame added.
+Leyndell, Royal Capital added.
+Melina of Destined Death added.
+Divine Beast Warrior added.
+Shabriri Grapes added.
+Shabriri, Chaos Incarnate added.
+Finger Hunter added.
+Enia, Finger Reader Crone added.
+Twin Empyrean Bond added.
+Long March of the Tarnished added.
+Fallingstar Beast added.
+Messmer's Helm added.
+
+Veiled Monarch's Reign removed.
+Wisdom of the Moon removed.
+Discovery of Grafting removed.
+Banished Knights removed.
+Knight's Warhawk removed.
+Astel, Stars of Darkness removed.
+United in Common Cause removed.
+Magic Preceptor removed.
+Old Untouchable removed.
+Spellblade Rogier removed.
+Aspects of the Crucible removed.
+The Madness Swells removed.
+The Shattering removed.
+Hold Back the Stars removed.
+Erdtree Aflame removed.
+Foot of the Erdtree removed.
+
+Placidusax's Ruin
+rules_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+I — This Saga deals 2 damage to any target.
+II — Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.
+III — Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+This Saga deals 2 damage to any target.
+II — Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.
+III — Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary.
+special_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+I — This Saga deals 2 damage to any target.
+II — Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.
+III — Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+This Saga deals 2 damage to any target.
+II — Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.
+III — Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary.
+
+Abandon Everything
+rules_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+I, II, III — You draw cards and lose life equal to the number of lore counters on this Saga.
+​
+​ => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I, II, III — You draw X cards and lose X life, where X is the number of lore counters on this Saga.
+​
+​
+special_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+I, II, III — You draw cards and lose life equal to the number of lore counters on this Saga.
+​
+​ => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I, II, III — You draw X cards and lose X life, where X is the number of lore counters on this Saga.
+​
+​
+
+Crystalian
+rules_text: When this creature enters, scry 2.
+{T}: Add one mana of any color. You can't spend this mana to cast creature spells. => When this creature enters, surveil 1.
+{T}: Add one mana of any color. You can't spend this mana to cast creature spells.
+
+Patches, the Untethered
+rules_text: Whenever a creature dies for the first time each turn, Patches connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a loyalty counter on Patches.)[/i]
+[0]: Create a 2/1 black Skeleton creature token.
+[-2]: Destroy target creature if it has mana value 2 or less or if a permanent you controlled left the battlefield this turn.
+[-7]: You get an emblem with “Whenever a creature you don't control dies, return it to the battlefield under your control.” => Whenever a creature dies, Patches connives. This ability triggers only once each turn. [i](Draw a card, then discard a card. If you discarded a nonland card, put a loyalty counter on Patches.)[/i]
+[0]: Create a 2/1 black Skeleton creature token.
+[-2]: Destroy target creature if it has mana value 2 or less or if a permanent you controlled left the battlefield this turn.
+[-7]: You get an emblem with “Whenever a creature you don't control dies, return it to the battlefield under your control.”
+special_text: Whenever a creature dies for the first time each turn, Patches connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a loyalty counter on Patches.)[/i]
+[0]: Create a 2/1 black Skeleton creature token.
+[-2]: Destroy target creature if it has mana value 2 or less or if a permanent you controlled left the battlefield this turn.
+[-7]: You get an emblem with “Whenever a creature you don't control dies, return it to the battlefield under your control.” => Whenever a creature dies, Patches connives. This ability triggers only once each turn. [i](Draw a card, then discard a card. If you discarded a nonland card, put a loyalty counter on Patches.)[/i]
+[0]: Create a 2/1 black Skeleton creature token.
+[-2]: Destroy target creature if it has mana value 2 or less or if a permanent you controlled left the battlefield this turn.
+[-7]: You get an emblem with “Whenever a creature you don't control dies, return it to the battlefield under your control.”
+
+Tarnished Sorcerer
+rules_text: Instant and sorcery spells you cast cost {1} less to cast.
+{2}{U}{R}, Exile two noncreature, nonland cards from your graveyard: This creature deals 2 damage to each opponent. Scry 2. => Instant and sorcery spells you cast cost {1} less to cast.
+{2}{U}{R}, Exile two noncreature, nonland cards from your graveyard: This creature deals 2 damage to each opponent.
+
+Ancient Dragon's Lightning
+rules_text: As an additional cost to cast this spell, behold a Dragon. [i](To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)[/i]
+Ancient Dragon's Lightning deals 2 damage to any target. If a Dragon was beheld, instead this spell deals 3 damage to any target and you scry 1. => As an additional cost to cast this spell, behold a Dragon. [i](To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)[/i]
+Ancient Dragon's Lightning deals 2 damage to any target. If a Dragon was beheld, instead this spell deals 3 damage to any target and you surveil 1.
+
+Promised Consort Radahn
+
+Divine Beast Dancing Lion
+type: Creature — Cat Beast Avatar => Creature — Hornsent Avatar
+rules_text: Remembrance {2}{R} [i]({2}{R}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)[/i]
+Whenever this creature attacks, add {R} equal to its power. Until end of turn, you don't lose this mana as steps and phases end. => Remembrance {1}{R} [i]({1}{R}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)[/i]
+Whenever this creature attacks, add {R} equal to its power. Until end of turn, you don't lose this mana as steps and phases end.
+
+Ritual Ascension
+
+Great Jar
+type: Artifact Creature — Golem => Artifact Creature — Golem Warrior
+
+Fingercreeper
+
+To the Three Sisters
+
+Tibia Mariner
+rules_text: At the beginning of each end step, if you control no Skeleton creature tokens, create a 2/1 black Skeleton creature token. => At the beginning of each upkeep, if you control no Skeleton creature tokens, create a 2/1 black Skeleton creature token.
+
+Vyke, Festering Fingerprint
+
+Ruinous Encounter
+cost: {1}{B}{B} => {4}{B}{B}{B}{B}
+rules_text: You draw three cards and lose 3 life. Then you may behold a Dragon. If you do, each opponent loses 3 life. [i](To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)[/i] => Each player loses half their life, then discards half the cards in their hand, then sacrifices half the permanents they control. Repeat this process once. Round up each time.
+
+Bayle's Tyranny
+cost: {1}{R} => {R}
+rules_text: As an additional cost to cast this spell, behold a Dragon or pay {1}. [i](To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)[/i]
+Bayle's Tyranny deals 2 damage to each creature. => As an additional cost to cast this spell, you may pay {3} and behold a Dragon. [i](To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)[/i]
+Bayle's Tyranny deals 1 damage to each opponent and each creature they control. If this spell's additional cost was paid, create a 4/4 red Dragon creature token with flying.
+
+Wraith Caller
+rules_text: Remembrance {1}{B} [i]({1}{B}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)[/i]
+Menace
+{3}{B}: This creature gets +2/+0 until end of turn. => Remembrance {1}{B} [i]({1}{B}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following abilities. Activate only as a sorcery.)[/i]
+Menace
+{3}{B}: This creature gets +2/+0 until end of turn.
+
+Feeding the Haligtree
+
+Golden Hippopotamus
+rules_text: Remembrance {W} [i]({W}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)[/i]
+Whenever this creature attacks, tap up to one target creature defending player controls. => Remembrance {W} [i]({W}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)[/i]
+Vigilance
+
+Sisters of Rot
+
+Spirit Jellyfish
+
+Carian Knight
+rules_text: Instant and sorcery spells you cast cost {1} less to cast.
+Whenever you cast a noncreature spell, target creature you control gets +X/+0 until end of turn, where X is that spell's mana value. => Instant and sorcery spells you cast cost {1} less to cast.
+Whenever you attack, target creature you control gets +X/+0 until end of turn, where X is greatest mana value among noncreature spells you cast this turn.
+
+Ancestral Follower
+
+Forager Brood
+rules_text: {G}, Sacrifice this creature: Destroy target artifact or enchantment.
+{2}{G}, Exile this card from your graveyard: Draw a card. => {G}, Sacrifice this creature: Destroy target artifact or enchantment.
+{2}{G}, Sacrifice this creature: You gain 4 life and draw a card.
+
+Soldjars of Fortune
+type: Artifact Creature — Golem => Artifact Creature — Golem Soldier
+
+Wandering Merchant
+pt: 3/3 => 3/2
+
+Walking Mausoleum
+
+Scadutree's Thorns
+rules_text: Put a +1/+1 counter on target creature you control if it's legendary. Then it fights up to one target creature an opponent controls. => Put a +1/+1 counter on target creature you control if it's legendary. Then it deals damage equal to its power to target creature or planeswalker an opponent controls.
+
+Miquella, the Kind
+
+Crucible Knight
+
+The Elden Ring
+rules_text: Whenever you cast a legendary spell, draw a card.
+{T}: Add one mana of any color. If this mana is spent to cast a creature spell, if five colors of mana were spent to cast it, that creature enters with five additional +1/+1 counters on it. => Indestructible
+Whenever you cast a legendary spell, draw a card.
+{T}: Add one mana of any color. If this mana is spent to cast a creature spell and you spent five colors of mana to cast spells this turn, that creature enters with five additional +1/+1 counters on it.
+
+Metyr, Mother of Fingers
+rules_text: Menace
+When Metyr enters, exile each opponent's graveyard. Create a 1/2 black Finger Spider creature token for each nonland card exiled this way.
+Once during each of your turns, you may cast a card exiled with Metyr and you may spend mana of any type to cast it. => Menace
+When Metyr enters, exile each opponent's graveyard. Create a 1/2 black Finger Spider creature token for each card exiled this way.
+Once during each of your turns, you may play a card exiled with Metyr and you may spend mana of any type to cast it.
+
+Romina, Saint of the Bud
+pt: 3/1 => 3/3
+
+Blackgaol Knight
+
+Count Ymir
+rules_text: You may look at the top card of your library any time.
+Once during each of your turns, you may cast a spell from the top of your library. If you cast a permanent spell this way, it gains “When this permanent enters, sacrifice it and create a 1/2 black Finger Spider creature token.” => You may look at the top card of your library any time.
+Twice during each of your turns, you may cast a spell from the top of your library. If you cast a permanent spell this way, it gains “When this permanent enters, sacrifice it and create a 1/2 black Finger Spider creature token.”
+
+Radagon, King Consort
+rules_text: Trample
+When Radagon dies, if he was a creature, return him to the battlefield. He's a legendary Equipment artifact named Sacred Relic Sword with equip {2} and “Equipped creature gets +X/+X and has trample, where X is the total mana value of legendary permanents you control.” => Trample, haste
+When Radagon dies, if he was a creature, return him to the battlefield. He's a legendary Equipment artifact named Sacred Relic Sword with equip {3} and “Equipped creature has trample and haste and gets +X/+X , where X is the total mana value of legendary permanents you control.”
+
+Royal Revenant
+rules_text: Remembrance {4}{B}{B} [i]({4}{B}{B}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)[/i]
+Menace, deathtouch, lifelink => Remembrance {3}{B}{B} [i]({3}{B}{B}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following abilities. Activate only as a sorcery.)[/i]
+Menace, deathtouch, lifelink
+
+Needle Knight Leda
+
+Loretta, Haligtree Knight
+rules_text: Loretta's power and toughness are each equal to the number of nonland permanents you control.
+Whenever you cast a spell with mana value 1 or less, copy it, except the copy isn't legendary. You may choose new targets for the copy. => Loretta's power is equal to the number of nonland permanents you control.
+Whenever you cast a spell with mana value 1, copy it, except the copy isn't legendary. You may choose new targets for the copy.
+pt: */* => */4
+
+Ancestor Spirit
+
+Thiollier, in Sweet Sleep
+
+Midra, Lord of Frenzied Flame
+
+The Gate of Divinity
+rules_text: As an additional cost to cast this spell, you may sacrifice any number of creatures. This spell costs {2} less to cast for each creature sacrificed this way.
+When The Gate of Divinity enters, you may return a creature card from your graveyard to the battlefield.
+{4}, {T}, Discard your hand: Draw four cards. => As an additional cost to cast this spell, you may sacrifice any number of creatures. This spell costs {2} less to cast for each creature sacrificed this way.
+When The Gate of Divinity enters, return target creature card from your graveyard to the battlefield.
+At the beginning of your end step, put a +1/+1 counter on each creature you control if a creature died this turn.
+
+Redmane Freyja
+
+Putrescent Knight
+cost: {3}{G}{U} => {2}{G}{U}
+pt: 4/4 => 3/4
+
+The Elden Beast
+rules_text: Vigilance
+Whenever you cast a spell, you may pay {W}{U}{B}{R}{G} any number of times. If you do, copy that spell that many times. You may choose new targets for the copies.
+{T}: Add {W}{W}{U}{U}{B}{B}{R}{R}{G}{G}. => Flying, vigilance
+Whenever you cast a spell, you may pay {W}{U}{B}{R}{G} any number of times. If you do, copy that spell that many times. You may choose new targets for the copies.
+{T}: Add {W}{W}{U}{U}{B}{B}{R}{R}{G}{G}.
+pt: 10/10 => 7/7
+
+Blackguard Boggart
+rules_text: Vigilance
+Whenever Blackguard Boggart attacks, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+{1}, {T}: Add {G} for each token you control. => Vigilance
+Whenever Blackguard Boggart enters or attacks, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+{1}, {T}: Add {G} for each token you control.
+
+Radahn's Return
+
+Purge Without Grace
+
+Seeking the Crosses
+rules_text: If you would gain life, you gain that much life plus 1 instead.
+At the beginning of your end step, if you gained 4 or more life this turn, exile up to one target creature card with mana value 2 or less from your graveyard. If you do, reate a token that's a copy of it. => If you would gain life, you gain that much life plus 1 instead.
+At the beginning of your end step, if you gained 4 or more life this turn, exile up to one target creature card with mana value 2 or less from your graveyard. If you do, create a token that's a copy of it.
+
+Empyrean Cocoon
+rules_text: {T}: Add {C}{C}.
+Exhaust — {4}, {T}: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i] => {T}: Add {C}{C}.
+Exhaust — {4}, {T}: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i]
+
+Sword of Night and Flame
+cost: {3} => {2}
+
+Godskin Apostle
+rules_text: Ward—Pay 3 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)[/i]
+Sacrifice a legendary artifact or creature: Draw a card. => Lifelink
+Ward—Pay 3 life.
+Sacrifice a legendary artifact or creature: You draw two cards and lose 2 life. Activate only as a sorcery.
+pt: 3/3 => 3/2
+
+Ancient Dragon
+rules_text: Remembrance {3}{W}{W} [i]({3}{W}{W}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)[/i]
+Flying
+Whenever this creature attacks, create a 2/2 white Knight creature token. => Remembrance {3}{W}{W} [i]({3}{W}{W}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following abilities. Activate only as a sorcery.)[/i]
+Flying
+Whenever this creature attacks, create a 2/2 white Knight creature token.
+
+Radagon is Marika
+cost: {2}{W}{W} => {1}{W}
+rules_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+I — Exile target creature card from your graveyard. Create a token that's a copy of it, except it has no abilities.
+II — Target creature you control gains lifelink or indestructible until end of turn.
+III — Create a token that's a copy of target token you control. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+I — Exile up to one target nonland permanent card with mana value 1 or less from your graveyard. Create a token that's a copy of it.
+II — Create a token that's a copy of target non-Saga token you control.
+III — Creatures you control get +1/+1 until end of turn.
+special_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+I — Exile target creature card from your graveyard. Create a token that's a copy of it, except it has no abilities.
+II — Target creature you control gains lifelink or indestructible until end of turn.
+III — Create a token that's a copy of target token you control. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+I — Exile up to one target nonland permanent card with mana value 1 or less from your graveyard. Create a token that's a copy of it.
+II — Create a token that's a copy of target non-Saga token you control.
+III — Creatures you control get +1/+1 until end of turn.
+
+Mohg, Lord of Blood
+rules_text: Flying
+Whenever a player loses life, if it's the first time that player lost life this turn, you create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+Sacrifice three Blood tokens: Each opponent loses life equal to the amount of life they lost this turn. Activate only once each turn. => Flying, lifelink
+Whenever a player loses life, if it's the first time that player lost life this turn, you create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+Sacrifice three Blood tokens: Each opponent loses life equal to the amount of life they lost this turn. Activate only once each turn.
+
+Rune Bear
+rules_text: Remembrance {G} [i]({G}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)[/i]
+Trample
+Whenever this creature attacks, you may double its power until end of turn. If you do, sacrifice it at the beginning of the next end step. => Remembrance {G} [i]({G}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following abilities. Activate only as a sorcery.)[/i]
+Trample
+Whenever this creature attacks, you may double its power until end of turn. If you do, sacrifice it at the beginning of the next end step.
+
+The Two Fingers
+rules_text: When The Two Fingers enters, create a Shard token. [i](It's an enchantment with “{2}, Sacrifice this token: Scry 1, then draw a card.”)[/i]
+Whenever an enchantment you control dies, each opponent sacrifices a creature. => Whenever The Two Fingers attacks, create a Shard token. [i](It's an enchantment with “{2}, Sacrifice this token: Scry 1, then draw a card.”)[/i]
+Whenever an enchantment you control is put into your graveyard from the battlefield, each opponent sacrifices a creature.
+
+Swordhand of Night
+
+Miquella's Sacrifice
+rules_text: Create a token that's a copy of target creature you control, except it's a Saga enchantment in addition to its other types and has “r{3} — Scry 2.” [i](As that token enters and after your draw step, add a lore counter. Sacrifice after III.)[/i] => Create a token that's a copy of target creature you control, except it's a Saga enchantment in addition to its other types and has “r{3} — Surveil 2.” [i](As that token enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+
+Challenge of the Ring
+
+Golden Seeds
+type: Instant => Enchantment
+cost: {3}{G} => {2}{G}{W}
+rules_text: As an additional cost to cast this spell, exile a land card from your graveyard.
+Creatures you control get +1/+1 and gain trample until end of turn.
+Until end of turn, whenever a creature you control deals combat damage to a player, create a token that's a copy of the exiled card, except it isn't legendary. => At the beginning of your end step, you may exile a creature you control. When you do, choose one—
+• Return it to the battlefield under its owner's control.
+• Search your library for a creature card with mana value equal to 1 plus the exiled creature's mana value, put it onto the battlefield, then shuffle.
+
+Forge of the Giants
+rules_text: This land enters tapped.
+{T}: Add {R} or {W}.
+[i]Channel[/i] — {2}{R}{W}, Discard this card: It deals 3 damage to any target and you gain 3 life. => This land enters tapped.
+{T}: Add {R} or {W}.
+{2}{R}{R}, {T}, Sacrifice this land: Destroy target land. Activate only as a sorcery.
+{3}{W}{W}, Discard this card: Return target permanent card with mana value 3 or less from your graveyard to the battlefield.
+
+Mountaintops of the Giants
+rules_text: This land enters tapped.
+{T}: Add {W} or {U}.
+[i]Channel[/i] — {3}{W}{U}, Discard this card: Counter target spell with mana value 4 or greater. => This land enters tapped.
+{T}: Add {W} or {U}.
+{4}{W}{W}, {T}, Sacrifice this land: Tap all creatures target player controls. Activate only as a sorcery.
+{4}{U}{U}, Discard this card: Counter target permanent spell.
+
+Eternal City
+rules_text: This land enters tapped.
+{T}: Add {U} or {B}.
+[i]Channel[/i] — {X}{U}{U}{B}, Discard this card: Exile target instant or sorcery card with mana value X from a graveyard. Copy it. You may cast the copy without paying its mana cost. => This land enters tapped.
+{T}: Add {U} or {B}.
+{3}{U}{U}, {T}, Sacrifice this land: Create a token that's a copy of target creature you control. Activate only as a sorcery.
+{2}{B}{B}, Discard this card: Destroy target creature with mana value 3 or less.
+
+Raya Lucaria Academy
+rules_text: This land enters tapped.
+{T}: Add {U} or {R}.
+[i]Channel[/i] — {1}{U}{R}, Discard this card: Copy target instant or sorcery spell you control. You may choose new targets for the copy. => This land enters tapped.
+{T}: Add {U} or {R}.
+{1}{U}{U}, {T}, Sacrifice this land: Draw two cards, then discard a card.
+{1}{R}{R}, Discard this card: Copy target instant or sorcery spell you control. You may choose new targets for the copy.
+
+Stormveil Castle
+rules_text: This land enters tapped.
+{T}: Add {R} or {G}.
+[i]Channel[/i] — {1}{R}{G}, Discard this card: Target creature gets +3/+3 and gains trample until end of turn. => This land enters tapped.
+{T}: Add {R} or {G}.
+{1}{R}{R}, {T}, Sacrifice this land: Double target creature's power until end of turn. Activate only as a sorcery.
+{2}{G}{G}, Discard this card: Exile target artifact or enchantment.
+
+Deeproot Depths
+rules_text: This land enters tapped.
+{T}: Add {B} or {G}.
+[i]Channel[/i] — {3}{B}{G}, Discard this card: Return target permanent card with mana value 3 or less from your graveyard to the battlefield tapped. => This land enters tapped.
+{T}: Add {B} or {G}.
+{4}{B}{B}, {T}, Sacrifice this land: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.
+{3}{G}{G}, Discard this card: You gain 5 life and mill five cards.
+
+Grand Cloister
+rules_text: This land enters tapped.
+{T}: Add {B} or {R}.
+[i]Channel[/i] — {4}{B}{R}, Discard this card: Each opponent sacrifices a creature with the greatest mana value among creatures that player controls. => This land enters tapped.
+{T}: Add {B} or {R}.
+{2}{B}{B}, {T}, Sacrifice this land: Mill three cards. You may return a creature card from your graveyard to your hand.
+{2}{R}{R}, Discard this card: It deals 3 damage to any target.
+
+Ruin-Strewn Precipice
+rules_text: This land enters tapped.
+{T}: Add {G} or {W}.
+[i]Channel[/i] — {4}{G}{W}, Discard this card: Create two 2/2 white Knight creature tokens. => This land enters tapped.
+{T}: Add {G} or {W}.
+{5}{G}{G}, {T}, Sacrifice this land: Creatures you control get +2/+2 and gain trample until end of turn. Activate only as a sorcery.
+{W}{W}, Discard this card: Create a 2/2 white Knight creature token.
+
+Siofra River
+rules_text: This land enters tapped.
+{T}: Add {G} or {U}.
+[i]Channel[/i] — {2}{G}{U}, Discard this card: Return target nonland permanent to its owner's hand. If you controlled it, draw a card. => This land enters tapped.
+{T}: Add {G} or {U}.
+{2}{G}{G}, {T}, Sacrifice this land: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+{1}{U}{U}, Discard this card: Return target nonland permanent to its owner's hand.
+
+Shard
+rules_text: {2}, Sacrifice this token: Scry 1, then draw a card. [i](To scry 1, look at the top card of your library. You may put that card on the bottom of your library.)[/i] => {2}, Sacrifice this token: Scry 1, then draw a card.
+
+Plant
+
+Fire Prelate
+
+Dancer of Ranah
+cost: {R} => {1}{B}
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever this creature becomes tapped, you may pay {1} and discard a card. If you do, draw a card. => ???
+pt: 1/1 => 2/2
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Banished Knights added.

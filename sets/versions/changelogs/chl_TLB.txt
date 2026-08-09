@@ -1,4 +1,423 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Ensoul Puppet added.
+Operatic Bat added.
+Sellen, Graven Witch added.
+Radagon's Absolution added.
+Fall of the Eternal City added.
+Show of Strength added.
+School of Graven Mages added.
+Tanith Devours Rykard added.
+Frenzied Merchant added.
+Blade of Destined Death added.
+Black Blade Kindred added.
+
+Graven Mass Transformation removed.
+Chanting Winged Dame removed.
+Sorceress Sellen removed.
+Pawns in a Plan removed.
+Fall of the Eternal Cities removed.
+Behold the Jagged Peak removed.
+Ranni's Scheme removed.
+
+Morgott Takes Leyndell
+rules_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I — Create two 1/1 white Soldier creature tokens.
+II — You gain 1 life for each creature you control.
+III — This Saga deals X damage to up to one target creature or planeswalker, where X is the number of creatures you control. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+Create two 1/1 white Soldier creature tokens.
+II — You gain 1 life for each creature you control.
+III — This Saga deals X damage to up to one target creature or planeswalker, where X is the number of creatures you control.
+special_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I — Create two 1/1 white Soldier creature tokens.
+II — You gain 1 life for each creature you control.
+III — This Saga deals X damage to up to one target creature or planeswalker, where X is the number of creatures you control. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+Create two 1/1 white Soldier creature tokens.
+II — You gain 1 life for each creature you control.
+III — This Saga deals X damage to up to one target creature or planeswalker, where X is the number of creatures you control.
+
+Discovery of the Dark Moon
+rules_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+I — Create a 1/1 blue Wizard creature token.
+II — Put any number of cards from your hand on the bottom of your library, then draw that many cards.
+III — Instant and sorcery spells you cast this turn cost {1} less to cast. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I — Create a 1/1 blue Wizard creature token.
+II — Put any number of cards from your hand on the bottom of your library, then draw that many cards.
+III — Instant and sorcery spells you cast this turn cost {1} less to cast.
+special_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+I — Create a 1/1 blue Wizard creature token.
+II — Put any number of cards from your hand on the bottom of your library, then draw that many cards.
+III — Instant and sorcery spells you cast this turn cost {1} less to cast. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I — Create a 1/1 blue Wizard creature token.
+II — Put any number of cards from your hand on the bottom of your library, then draw that many cards.
+III — Instant and sorcery spells you cast this turn cost {1} less to cast.
+
+Placidusax's Ruin
+rules_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+This Saga deals 2 damage to any target.
+II — Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.
+III — Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+This Saga deals 2 damage to any target.
+II — Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.
+III — Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary.
+special_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+This Saga deals 2 damage to any target.
+II — Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.
+III — Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+This Saga deals 2 damage to any target.
+II — Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.
+III — Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary.
+
+Igon, Drake Warrior
+type: Legendary Creature — Human Rogue Archer => Legendary Creature — Human Archer
+
+Take Up Grafting
+rules_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+I, II — Put a +1/+1 counter on target creature you control.
+III — Put a +1/+1 counter on each creature you control with a counter on it.
+​ => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I, II — Put a +1/+1 counter on target creature you control.
+III — Put a +1/+1 counter on each creature you control with a counter on it.
+​
+special_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+I, II — Put a +1/+1 counter on target creature you control.
+III — Put a +1/+1 counter on each creature you control with a counter on it.
+​ => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I, II — Put a +1/+1 counter on target creature you control.
+III — Put a +1/+1 counter on each creature you control with a counter on it.
+​
+
+Night of Black Knives
+rules_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+I — Each creature gets -X/-X until end of turn.
+II — Each opponent discards a card.
+III — Each opponent chooses a creature card in their graveyard. Put it onto the battlefield under your control. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I — Each creature gets -X/-X until end of turn.
+II — Each opponent discards a card.
+III — Each opponent chooses a creature card in their graveyard. Put it onto the battlefield under your control.
+special_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+I — Each creature gets -X/-X until end of turn.
+II — Each opponent discards a card.
+III — Each opponent chooses a creature card in their graveyard. Put it onto the battlefield under your control. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I — Each creature gets -X/-X until end of turn.
+II — Each opponent discards a card.
+III — Each opponent chooses a creature card in their graveyard. Put it onto the battlefield under your control.
+
+Patches, the Untethered
+
+Tarnished Recusant
+type: Creature — Human Rogue Warrior => Creature — Human Warrior
+
+Godfrey, First Elden Lord
+rules_text: Whenever you attack, you choose how up to one target creature defending player controls blocks this combat.
+Final form {4}{RG}{W} [i](You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)[/i] => Vigilance
+Whenever you attack, you choose how up to one target creature defending player controls blocks this combat.
+Final form {4}{RG}{W} [i](You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)[/i]
+
+Godrick, the Grafted
+
+Divine Beast Dancing Lion
+type: Creature — Hornsent Avatar => Creature — Hornsent Cat Avatar
+
+Ensha of Royal Remains
+type: Legendary Creature — Human Warrior => Legendary Creature — Human Rogue
+
+Commander Gaius
+type: Legendary Creature — Albinauric Warrior => Legendary Creature — Albinauric Knight
+
+Waterfowl Dance
+
+Dominula Celebrant
+type: Creature — Human Rogue => Creature — Human Performer
+
+Hallowhorn Communion
+
+Albinauric Archer
+type: Creature — Albinauric Rogue => Creature — Albinauric Archer
+
+Soldjars of Fortune
+
+Wise Turtle
+
+Starscourge Radahn
+rules_text: Trample
+When Starscourge Radahn enters or whenever you cast a noncreature spell, create a tapped colorless artifact token named Meteorite with “When this token enters, it deals 2 damage to any target” and “{T}: Add one mana of any color.” => When Starscourge Radahn enters or whenever you cast a noncreature spell, create a tapped colorless artifact token named Meteorite with “When this token enters, it deals 2 damage to any target” and “{T}: Add one mana of any color.”
+
+Miquella, the Kind
+
+Millicent, Flowering Valkyrie
+
+Sir Ansbach
+type: Legendary Creature — Human Rogue => Legendary Creature — Human Knight
+
+Dearest Nanaya
+
+Midra, Lord of Frenzied Flame
+rules_text: Menace
+When Midra enters, you may discard a card. If you do, target opponent reveals their hand. You choose a nonland card revealed this way. Exile that card.
+Whenever Midra attacks, put a +1/+1 counter on him for each player with three or fewer cards in hand. => Menace
+When Midra enters, you may discard a card. If you do, target opponent reveals their hand. You choose a nonland card from it or a card from their graveyard. Exile that card.
+Whenever Midra attacks, put a +1/+1 counter on him for each player with three or fewer cards in hand.
+
+Marika Shatters the Ring
+rules_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+I — Choose artifact or enchantment. Exile all other permanents of the chosen type.
+II — Search your library for a land card, put it onto the battlefield, then shuffle.
+III — Whenever target creature deals combat damage to a player this turn, draw that many cards. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I — Choose artifact or enchantment. Exile all other permanents of the chosen type.
+II — Search your library for a land card, put it onto the battlefield, then shuffle.
+III — Whenever target creature deals combat damage to a player this turn, draw that many cards.
+special_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+I — Choose artifact or enchantment. Exile all other permanents of the chosen type.
+II — Search your library for a land card, put it onto the battlefield, then shuffle.
+III — Whenever target creature deals combat damage to a player this turn, draw that many cards. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I — Choose artifact or enchantment. Exile all other permanents of the chosen type.
+II — Search your library for a land card, put it onto the battlefield, then shuffle.
+III — Whenever target creature deals combat damage to a player this turn, draw that many cards.
+
+Putrescent Knight
+type: Creature — Skeleton Spirit Knight => Creature — Skeleton Knight
+
+Thousand Year Voyage
+type: Sorcery => Instant
+cost: {5}{U} => {4}{U}
+rules_text: Shuffle your hand and graveyard into your library, then draw seven cards.
+[i]Converge[/i] — You may cast a spell with mana value X or less from your hand without paying its mana cost, where X is the number of colors of mana spent to cast this spell. => Draw three cards, then discard a card.
+[i]Converge[/i] — Untap up to X target lands you control, where X is the number of colors of mana spent to cast this spell.
+
+Death Rite Bird
+cost: {4}{U} => {3}{U}
+pt: 3/3 => 3/2
+
+Purge Without Grace
+rules_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+I — Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+II — Add {R}{R}.
+III — Until end of turn, if a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I — Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+II — Add {R}{R}.
+III — Until end of turn, if a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead.
+special_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+I — Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+II — Add {R}{R}.
+III — Until end of turn, if a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I — Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+II — Add {R}{R}.
+III — Until end of turn, if a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead.
+
+Sword Monument
+
+War of the Shattering
+rules_text: Destroy all creatures. You may put a creature card with mana value X or less from your hand onto the battlefield, where X is the number of creatures destroyed this way. It gains haste until end of turn. Return it to its owner's hand at the beginning of the next end step. => Destroy all creatures. You may put a creature card with mana value X or less from your hand onto the battlefield, where X is the number of creatures destroyed this way. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.
+
+Godskin Apostle
+rules_text: Lifelink
+Ward—Pay 3 life.
+Sacrifice a legendary artifact or creature: You draw two cards and lose 2 life. Activate only as a sorcery. => Lifelink
+Sacrifice a legendary artifact or creature: You draw two cards and lose 2 life. Activate only as a sorcery.
+
+Radagon is Marika
+rules_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+I — Exile up to one target nonland permanent card with mana value 1 or less from your graveyard. Create a token that's a copy of it.
+II — Create a token that's a copy of target non-Saga token you control.
+III — Creatures you control get +1/+1 until end of turn. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I — Exile up to one target nonland permanent card with mana value 1 or less from your graveyard. Create a token that's a copy of it.
+II — Create a token that's a copy of target non-Saga token you control.
+III — Creatures you control get +1/+1 until end of turn.
+special_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+I — Exile up to one target nonland permanent card with mana value 1 or less from your graveyard. Create a token that's a copy of it.
+II — Create a token that's a copy of target non-Saga token you control.
+III — Creatures you control get +1/+1 until end of turn. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I — Exile up to one target nonland permanent card with mana value 1 or less from your graveyard. Create a token that's a copy of it.
+II — Create a token that's a copy of target non-Saga token you control.
+III — Creatures you control get +1/+1 until end of turn.
+
+Mohg, Lord of Blood
+rules_text: Flying, lifelink
+Whenever a player loses life, if it's the first time that player lost life this turn, you create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+Sacrifice three Blood tokens: Each opponent loses life equal to the amount of life they lost this turn. Activate only once each turn. => Flying, lifelink
+Whenever a player loses life for the first time each turn, you create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+Sacrifice three Blood tokens: Each opponent loses life equal to the amount of life they lost this turn. Activate only once each turn.
+pt: 4/4 => 4/3
+
+Becoming a Mother
+rules_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+I — Exile target instant or sorcery card from a graveyard.
+II — Create X 1/2 black Finger Spider creature tokens, where X is the total mana value of cards exiled with this Saga.
+III — Copy each card exiled with this Saga. You may cast the copies without paying their mana costs. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I — Exile target instant or sorcery card from a graveyard.
+II — Create X 1/2 black Finger Spider creature tokens, where X is the total mana value of cards exiled with this Saga.
+III — Copy each card exiled with this Saga. You may cast the copies without paying their mana costs.
+special_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+I — Exile target instant or sorcery card from a graveyard.
+II — Create X 1/2 black Finger Spider creature tokens, where X is the total mana value of cards exiled with this Saga.
+III — Copy each card exiled with this Saga. You may cast the copies without paying their mana costs. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I — Exile target instant or sorcery card from a graveyard.
+II — Create X 1/2 black Finger Spider creature tokens, where X is the total mana value of cards exiled with this Saga.
+III — Copy each card exiled with this Saga. You may cast the copies without paying their mana costs.
+
+Seize the Stars
+
+Diallos, of House Hoslow
+rules_text: Flash
+If a nontoken creature would enter and it wasn't cast, exile it instead.
+{1}, Sacrifice Diallos: Creatures you control gain indestructible until end of turn. => Flash
+If another nontoken creature would enter and it wasn't cast, exile it instead.
+{1}, Sacrifice Diallos: Creatures you control gain indestructible until end of turn.
+
+Visions of Flame
+rules_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+I — This Saga deals 1 damage to each creature your opponents control.
+II — Target creature can't block this turn.
+III — Discard a card, then draw a card for each card you've discarded this turn. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I — This Saga deals 1 damage to each creature your opponents control.
+II — Target creature can't block this turn.
+III — Discard a card, then draw a card for each card you've discarded this turn.
+special_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger it again. Do this only once.)[/i]
+I — This Saga deals 1 damage to each creature your opponents control.
+II — Target creature can't block this turn.
+III — Discard a card, then draw a card for each card you've discarded this turn. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I — This Saga deals 1 damage to each creature your opponents control.
+II — Target creature can't block this turn.
+III — Discard a card, then draw a card for each card you've discarded this turn.
+
+Founding Rain of Stars
+type: Sorcery => Instant
+cost: {3}{U}{U} => {2}{U}
+rules_text: Reveal the top ten cards of your library. For each card type, you may put a card of that type from among the revealed cards into your hand. Put the rest on the bottom of your library in a random order. => [i]Converge[/i] — Tap up to three target creatures. Distribute X stun counters among them, where X is the number of colors of mana spent to cast this spell.
+
+Bloodhound's Fang
+
+New Life Grows
+
+Miquella's Sacrifice
+
+Sealing the Rune of Death
+
+Valkyrie's Prosthetic
+
+Unloved and Unwanted
+
+Weave the Scarlet Rot
+
+Rennala's Amber Egg
+
+Challenge of the Ring
+
+Golden Seeds
+rules_text: At the beginning of your end step, you may exile a creature you control. When you do, choose one—
+• Return it to the battlefield under its owner's control.
+• Search your library for a creature card with mana value equal to 1 plus the exiled creature's mana value, put it onto the battlefield, then shuffle. => At the beginning of your end step, you may exile a creature you control. When you do, choose one —
+• Return it to the battlefield under its owner's control.
+• Search your library for a creature card with mana value equal to 1 plus the exiled creature's mana value, put it onto the battlefield, then shuffle.
+
+City of Nox
+
+Forge of the Giants
+
+Leyndell, Royal Capital
+
+Mountaintops of the Giants
+
+Eternal City
+
+Raya Lucaria Academy
+
+Stormveil Castle
+
+The First Step
+
+Deeproot Depths
+
+Grand Cloister
+
+Ruin-Strewn Precipice
+
+Siofra River
+
+Demigod
+
+Soldier
+
+Shard
+
+Knight
+
+Weapon
+
+Treasure
+
+Food
+
+Tanith's Knight
+
+Spirit
+
+Skeleton
+
+Blood
+
+Finger Spider
+
+Plant
+
+Everywhere
+
+Dragon
+
+Wizard
+
+Meteorite
+
+Marika's Hammer's Saga token
+
+Patches
+
+Dark Moon Greatsword
+
+The Scadutree
+
+Embrace Thine Oblivion
+
+Putrid Avatar
+
+Boc, the Seamster
+
+Hornsent Curseblade
+
+Mausoleum Knight
+
+Fire Prelate
+
+Melina of Destined Death
+
+Divine Beast Warrior
+
+Shabriri Grapes
+
+Shabriri, Chaos Incarnate
+
+Finger Hunter
+
+Enia, Finger Reader Crone
+
+Twin Empyrean Bond
+cost: {1}{G} => {G}{G}
+
+Long March of the Tarnished
+
+Fallingstar Beast
+
+Messmer's Helm
+
+Dancer of Ranah
+rules_text: ??? => First strike
+Whenever you cast a spell, each opponent this creature dealt combat damage to this turn loses 1 life.
+Whenever an opponent casts a spell, they lose 1 life for each other spell they've cast this turn.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Morgott Takes Leyndell added.

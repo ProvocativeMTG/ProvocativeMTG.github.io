@@ -3376,18 +3376,15 @@
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Creature — Demigod",
 			"collector_number": "152",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://provocativemtg.github.io/sets/TLB-files/img/337_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/337.png"
-			}
-		},
-		{
-			"name": "Malenia, Goddess of Rot",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Legendary Creature — God",
-			"collector_number": "152",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/338.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/337_front.png"
 			}
 		},
 		{
@@ -3396,18 +3393,15 @@
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "73",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://provocativemtg.github.io/sets/TLB-files/img/339_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/339.png"
-			}
-		},
-		{
-			"name": "Rennala, Queen of the Moon",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "73",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/340.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/339_front.png"
 			}
 		},
 		{
@@ -3416,18 +3410,15 @@
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Demigod",
 			"collector_number": "109",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://provocativemtg.github.io/sets/TLB-files/img/341_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/341.png"
-			}
-		},
-		{
-			"name": "Base Serpent Messmer",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Legendary Creature — Serpent Demigod",
-			"collector_number": "109",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/342.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/341_front.png"
 			}
 		},
 		{
@@ -3436,18 +3427,15 @@
 			"mana_cost": "{3}{W}",
 			"type": "Legendary Creature — Demigod",
 			"collector_number": "13",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://provocativemtg.github.io/sets/TLB-files/img/343_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/343.png"
-			}
-		},
-		{
-			"name": "Hoarah Loux, Warrior",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "13",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/344.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/343_front.png"
 			}
 		},
 		{
@@ -3456,18 +3444,15 @@
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Demigod",
 			"collector_number": "148",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://provocativemtg.github.io/sets/TLB-files/img/345_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/345.png"
-			}
-		},
-		{
-			"name": "Godrick, the Golden",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Legendary Creature — Demigod",
-			"collector_number": "148",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/346.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/345_front.png"
 			}
 		},
 		{
@@ -3476,18 +3461,15 @@
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Beast Cleric",
 			"collector_number": "104",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://provocativemtg.github.io/sets/TLB-files/img/347_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/347.png"
-			}
-		},
-		{
-			"name": "Maliketh, the Black Blade",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Legendary Creature — Beast Warrior",
-			"collector_number": "104",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/348.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/347_front.png"
 			}
 		},
 		{
@@ -3496,18 +3478,15 @@
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Mutant Demigod",
 			"collector_number": "22",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://provocativemtg.github.io/sets/TLB-files/img/349_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/349.png"
-			}
-		},
-		{
-			"name": "Morgott, the Omen King",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Legendary Creature — Mutant Demigod",
-			"collector_number": "22",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/350.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/349_front.png"
 			}
 		},
 		{
@@ -3516,18 +3495,15 @@
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Demigod",
 			"collector_number": "70",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://provocativemtg.github.io/sets/TLB-files/img/351_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/351.png"
-			}
-		},
-		{
-			"name": "Radahn, Consort of Miquella",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Legendary Creature — Demigod",
-			"collector_number": "70",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/352.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/351_front.png"
 			}
 		},
 		{
@@ -3536,18 +3512,15 @@
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Demigod",
 			"collector_number": "189",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://provocativemtg.github.io/sets/TLB-files/img/353_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/353.png"
-			}
-		},
-		{
-			"name": "Godwyn, Prince of Death",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Legendary Creature — Zombie Demigod",
-			"collector_number": "189",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/354.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/353_front.png"
 			}
 		},
 		{
@@ -3556,20 +3529,17 @@
 			"mana_cost": "{G}",
 			"type": "Legendary Creature — Serpent",
 			"collector_number": "188",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://provocativemtg.github.io/sets/TLB-files/img/355_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/355.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/355_front.png"
 			}
 		},
-		{
-			"name": "Rykard, Lord of Blasphemy",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Legendary Creature — Serpent Demigod",
-			"collector_number": "188",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/356.png"
-			}
-		}
 	]
 
 [rare(1)]
@@ -3681,25 +3651,15 @@
 	2 Blade of Destined Death
 	1 Black Blade Kindred
 	1 Malenia, the Severed
-	1 Malenia, Goddess of Rot
 	1 Rennala of Caria
-	1 Rennala, Queen of the Moon
 	1 Messmer, the Impaler
-	1 Base Serpent Messmer
 	1 Godfrey, First Elden Lord
-	1 Hoarah Loux, Warrior
 	1 Godrick, the Grafted
-	1 Godrick, the Golden
 	1 Gurranq, Beast Clergyman
-	1 Maliketh, the Black Blade
 	1 Margit, the Fell Omen
-	1 Morgott, the Omen King
 	1 Promised Consort Radahn
-	1 Radahn, Consort of Miquella
 	1 Godwyn, First to Fall
-	1 Godwyn, Prince of Death
 	1 God-Devouring Serpent
-	1 Rykard, Lord of Blasphemy
 [uncommon(3)]
 	4 Morgott Takes Leyndell
 	4 Discovery of the Dark Moon
@@ -4313,25 +4273,15 @@
 	2 Blade of Destined Death
 	1 Black Blade Kindred
 	1 Malenia, the Severed
-	1 Malenia, Goddess of Rot
 	1 Rennala of Caria
-	1 Rennala, Queen of the Moon
 	1 Messmer, the Impaler
-	1 Base Serpent Messmer
 	1 Godfrey, First Elden Lord
-	1 Hoarah Loux, Warrior
 	1 Godrick, the Grafted
-	1 Godrick, the Golden
 	1 Gurranq, Beast Clergyman
-	1 Maliketh, the Black Blade
 	1 Margit, the Fell Omen
-	1 Morgott, the Omen King
 	1 Promised Consort Radahn
-	1 Radahn, Consort of Miquella
 	1 Godwyn, First to Fall
-	1 Godwyn, Prince of Death
 	1 God-Devouring Serpent
-	1 Rykard, Lord of Blasphemy
 [wildcard(1)]
 	15 Morgott Takes Leyndell
 	15 Discovery of the Dark Moon
@@ -4645,22 +4595,12 @@
 	7 Blade of Destined Death
 	4 Black Blade Kindred
 	4 Malenia, the Severed
-	4 Malenia, Goddess of Rot
 	4 Rennala of Caria
-	4 Rennala, Queen of the Moon
 	4 Messmer, the Impaler
-	4 Base Serpent Messmer
 	4 Godfrey, First Elden Lord
-	4 Hoarah Loux, Warrior
 	4 Godrick, the Grafted
-	4 Godrick, the Golden
 	4 Gurranq, Beast Clergyman
-	4 Maliketh, the Black Blade
 	4 Margit, the Fell Omen
-	4 Morgott, the Omen King
 	4 Promised Consort Radahn
-	4 Radahn, Consort of Miquella
 	4 Godwyn, First to Fall
-	4 Godwyn, Prince of Death
 	4 God-Devouring Serpent
-	4 Rykard, Lord of Blasphemy

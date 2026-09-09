@@ -2,7 +2,7 @@
     {
         "card_name": "Godfrey, First Elden Lord",
         "number": 13,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "TLB",
         "rotated": false,
         "position": "343"
@@ -10,7 +10,7 @@
     {
         "card_name": "Promised Consort Radahn",
         "number": 70,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "TLB",
         "rotated": false,
         "position": "351"
@@ -18,7 +18,7 @@
     {
         "card_name": "Gurranq, Beast Clergyman",
         "number": 104,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "TLB",
         "rotated": false,
         "position": "347"
@@ -26,7 +26,7 @@
     {
         "card_name": "Godrick, the Grafted",
         "number": 148,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "TLB",
         "rotated": false,
         "position": "345"
@@ -50,7 +50,7 @@
     {
         "card_name": "Rennala of Caria",
         "number": 73,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "TLB",
         "rotated": false,
         "position": "339"
@@ -58,7 +58,7 @@
     {
         "card_name": "Messmer, the Impaler",
         "number": 109,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "TLB",
         "rotated": false,
         "position": "341"
@@ -66,7 +66,7 @@
     {
         "card_name": "Malenia, the Severed",
         "number": 152,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "TLB",
         "rotated": false,
         "position": "337"
@@ -82,7 +82,7 @@
     {
         "card_name": "Margit, the Fell Omen",
         "number": 22,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "TLB",
         "rotated": false,
         "position": "349"
@@ -114,7 +114,7 @@
     {
         "card_name": "God-Devouring Serpent",
         "number": 188,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "TLB",
         "rotated": false,
         "position": "355"
@@ -154,7 +154,7 @@
     {
         "card_name": "Godwyn, First to Fall",
         "number": 189,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "TLB",
         "rotated": false,
         "position": "353"
@@ -2238,44 +2238,12 @@
         "card_name": "er"
     },
     {
-        "card_name": "Maliketh, the Black Blade",
-        "number": 104,
+        "card_name": "Dragonlord Placidusax",
+        "number": 226,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "348"
-    },
-    {
-        "card_name": "Base Serpent Messmer",
-        "number": 109,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "342"
-    },
-    {
-        "card_name": "Rykard, Lord of Blasphemy",
-        "number": 188,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "356"
-    },
-    {
-        "card_name": "Hoarah Loux, Warrior",
-        "number": 13,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "344"
-    },
-    {
-        "card_name": "Rennala, Queen of the Moon",
-        "number": 73,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "340"
+        "position": "155"
     },
     {
         "card_name": "Melina of Destined Death",
@@ -2286,92 +2254,6 @@
         "position": "321"
     },
     {
-        "card_name": "Dragonlord Placidusax",
-        "number": 226,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "155"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "St. Trina",
-        "number": 257,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "206"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "Malenia, Goddess of Rot",
-        "number": 152,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "338"
-    },
-    {
-        "card_name": "Godrick, the Golden",
-        "number": 148,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "346"
-    },
-    {
-        "card_name": "Morgott, the Omen King",
-        "number": 22,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "350"
-    },
-    {
-        "card_name": "Radahn, Consort of Miquella",
-        "number": 70,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "352"
-    },
-    {
-        "card_name": "Godwyn, Prince of Death",
-        "number": 189,
-        "shape": "normal",
-        "set": "TLB",
-        "rotated": false,
-        "position": "354"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "The Radahn Festival",
         "number": 248,
         "shape": "normal",
@@ -2380,22 +2262,12 @@
         "position": "239"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
+        "card_name": "St. Trina",
+        "number": 257,
+        "shape": "normal",
+        "set": "TLB",
+        "rotated": false,
+        "position": "206"
     },
     {
         "card_name": "The Elden Beast",
@@ -2412,6 +2284,9 @@
         "set": "TLB",
         "rotated": false,
         "position": "212"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"

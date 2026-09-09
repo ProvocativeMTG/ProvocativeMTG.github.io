@@ -1,4 +1,40 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+Malenia, Goddess of Rot removed.
+Rennala, Queen of the Moon removed.
+Base Serpent Messmer removed.
+Hoarah Loux, Warrior removed.
+Godrick, the Golden removed.
+Maliketh, the Black Blade removed.
+Morgott, the Omen King removed.
+Radahn, Consort of Miquella removed.
+Godwyn, Prince of Death removed.
+Rykard, Lord of Blasphemy removed.
+
+Malenia, the Severed
+
+Rennala of Caria
+
+Messmer, the Impaler
+
+Godfrey, First Elden Lord
+
+Godrick, the Grafted
+
+Gurranq, Beast Clergyman
+
+Margit, the Fell Omen
+
+Promised Consort Radahn
+
+Godwyn, First to Fall
+
+God-Devouring Serpent
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Painful Truths added.

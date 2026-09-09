@@ -5878,10 +5878,12 @@ This creature gets +1/+1 for each artifact and/or enchantment you control.</text
 			<name>Malenia, the Severed</name>
 			<text>Double strike
 Whenever you cast a spell with a single target, copy it. You may choose new targets for the copy. This ability triggers only once each turn.
-Final form {4}{WB}{R} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)</text>
-			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/337.png" num="152">TLB</set>
+Final form {4}{WB}{R} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)
+---
+(Back): Malenia, Goddess of Rot</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/337_front.png" num="152a">TLB</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Creature — Demigod</type>
 				<maintype>Creature</maintype>
@@ -5892,16 +5894,19 @@ Final form {4}{WB}{R} (You may cast a copy of this from the battlefield or your 
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Malenia, Goddess of Rot</related>
 		</card>
 		<card>
 			<name>Malenia, Goddess of Rot</name>
 			<text>Flying, double strike
 Whenever you cast a spell with a single target, copy it. You may choose new targets for the copy.
-Whenever Malenia or a spell you control deals damage to a player, they get that many poison counters. (A player with ten or more poison counters loses the game.)</text>
-			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/338.png" num="152">TLB</set>
+Whenever Malenia or a spell you control deals damage to a player, they get that many poison counters. (A player with ten or more poison counters loses the game.)
+---
+(Front): Malenia, the Severed</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/337_back.png" num="152b">TLB</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Creature — God</type>
 				<maintype>Creature</maintype>
 				<manacost></manacost>
@@ -5912,15 +5917,18 @@ Whenever Malenia or a spell you control deals damage to a player, they get that 
 				<loyalty>3/3</loyalty>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Malenia, the Severed</related>
 		</card>
 		<card>
 			<name>Rennala of Caria</name>
 			<text>Flying
 Whenever you cast a noncreature spell, create a 1/1 blue Wizard creature token.
-Final form {4}{GW}{U} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)</text>
-			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/339.png" num="73">TLB</set>
+Final form {4}{GW}{U} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)
+---
+(Back): Rennala, Queen of the Moon</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/339_front.png" num="73a">TLB</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Creature — Human Wizard</type>
 				<maintype>Creature</maintype>
@@ -5931,15 +5939,18 @@ Final form {4}{GW}{U} (You may cast a copy of this from the battlefield or your 
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Rennala, Queen of the Moon</related>
 		</card>
 		<card>
 			<name>Rennala, Queen of the Moon</name>
 			<text>Flying
-Whenever you cast a noncreature spell, create X 1/1 blue Wizard creature tokens, where X is that spell&apos;s mana value.</text>
-			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/340.png" num="73">TLB</set>
+Whenever you cast a noncreature spell, create X 1/1 blue Wizard creature tokens, where X is that spell&apos;s mana value.
+---
+(Front): Rennala of Caria</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/339_back.png" num="73b">TLB</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Creature — Human Wizard</type>
 				<maintype>Creature</maintype>
 				<manacost></manacost>
@@ -5949,14 +5960,17 @@ Whenever you cast a noncreature spell, create X 1/1 blue Wizard creature tokens,
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Rennala of Caria</related>
 		</card>
 		<card>
 			<name>Messmer, the Impaler</name>
 			<text>Once during each of your turns, you may cast a copy of the nonlegendary black spell you most recently cast this turn. (Timing rules still apply.)
-Final form {4}{UR}{B} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)</text>
-			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/341.png" num="109">TLB</set>
+Final form {4}{UR}{B} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)
+---
+(Back): Base Serpent Messmer</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/341_front.png" num="109a">TLB</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Creature — Demigod</type>
 				<maintype>Creature</maintype>
@@ -5967,15 +5981,18 @@ Final form {4}{UR}{B} (You may cast a copy of this from the battlefield or your 
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Base Serpent Messmer</related>
 		</card>
 		<card>
 			<name>Base Serpent Messmer</name>
 			<text>Once during each of your turns, you may cast a copy of the nonlegendary blue, black, or red spell you most recently cast this turn. (Timing rules still apply.)
-If an opponent would lose life during your turn, they lose twice that much life instead.</text>
-			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/342.png" num="109">TLB</set>
+If an opponent would lose life during your turn, they lose twice that much life instead.
+---
+(Front): Messmer, the Impaler</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/341_back.png" num="109b">TLB</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Creature — Serpent Demigod</type>
 				<maintype>Creature</maintype>
 				<manacost></manacost>
@@ -5985,15 +6002,18 @@ If an opponent would lose life during your turn, they lose twice that much life 
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Messmer, the Impaler</related>
 		</card>
 		<card>
 			<name>Godfrey, First Elden Lord</name>
 			<text>Vigilance
 Whenever you attack, you choose how up to one target creature defending player controls blocks this combat.
-Final form {4}{RG}{W} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)</text>
-			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/343.png" num="13">TLB</set>
+Final form {4}{RG}{W} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)
+---
+(Back): Hoarah Loux, Warrior</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/343_front.png" num="13a">TLB</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Creature — Demigod</type>
 				<maintype>Creature</maintype>
@@ -6004,15 +6024,18 @@ Final form {4}{RG}{W} (You may cast a copy of this from the battlefield or your 
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Hoarah Loux, Warrior</related>
 		</card>
 		<card>
 			<name>Hoarah Loux, Warrior</name>
 			<text>Vigilance, trample
-Whenever you attack, you choose how up to one target creature defending player controls blocks this combat. Then if it&apos;s the first combat phase of the turn, untap all attacking creatures. After this phase, there is an additional combat phase.</text>
-			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/344.png" num="13">TLB</set>
+Whenever you attack, you choose how up to one target creature defending player controls blocks this combat. Then if it&apos;s the first combat phase of the turn, untap all attacking creatures. After this phase, there is an additional combat phase.
+---
+(Front): Godfrey, First Elden Lord</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/343_back.png" num="13b">TLB</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Creature — Human Warrior</type>
 				<maintype>Creature</maintype>
 				<manacost></manacost>
@@ -6022,14 +6045,17 @@ Whenever you attack, you choose how up to one target creature defending player c
 				<pt>6/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Godfrey, First Elden Lord</related>
 		</card>
 		<card>
 			<name>Godrick, the Grafted</name>
 			<text>When Godrick enters, you may discard any number of cards, then draw that many cards.
-Final form {3}{GU}{R} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)</text>
-			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/345.png" num="148">TLB</set>
+Final form {3}{GU}{R} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)
+---
+(Back): Godrick, the Golden</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/345_front.png" num="148a">TLB</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Creature — Demigod</type>
 				<maintype>Creature</maintype>
@@ -6040,15 +6066,18 @@ Final form {3}{GU}{R} (You may cast a copy of this from the battlefield or your 
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Godrick, the Golden</related>
 		</card>
 		<card>
 			<name>Godrick, the Golden</name>
 			<text>Trample
-Whenever Godrick attacks, you may discard any number of cards, then draw that many cards plus one. Then you may exile four cards from your graveyard. If you do, create a 4/4 red Dragon creature token with flying that&apos;s tapped and attacking.</text>
-			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/346.png" num="148">TLB</set>
+Whenever Godrick attacks, you may discard any number of cards, then draw that many cards plus one. Then you may exile four cards from your graveyard. If you do, create a 4/4 red Dragon creature token with flying that&apos;s tapped and attacking.
+---
+(Front): Godrick, the Grafted</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/345_back.png" num="148b">TLB</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Creature — Demigod</type>
 				<maintype>Creature</maintype>
 				<manacost></manacost>
@@ -6058,15 +6087,18 @@ Whenever Godrick attacks, you may discard any number of cards, then draw that ma
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Godrick, the Grafted</related>
 		</card>
 		<card>
 			<name>Gurranq, Beast Clergyman</name>
 			<text>Menace
 At the beginning of your upkeep, tap Gurranq unless you pay 2 life.
-Final form {4}{WU}{B} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)</text>
-			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/347.png" num="104">TLB</set>
+Final form {4}{WU}{B} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)
+---
+(Back): Maliketh, the Black Blade</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/347_front.png" num="104a">TLB</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Creature — Beast Cleric</type>
 				<maintype>Creature</maintype>
@@ -6077,17 +6109,20 @@ Final form {4}{WU}{B} (You may cast a copy of this from the battlefield or your 
 				<pt>5/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Maliketh, the Black Blade</related>
 		</card>
 		<card>
 			<name>Maliketh, the Black Blade</name>
 			<text>Menace
 When Maliketh enters, destroy target creature an opponent controls.
 Whenever a creature an opponent controls dies, exile it and its controller loses 2 life.
-Your opponents can&apos;t cast creature spells that share a name with any card exiled with Maliketh.</text>
-			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/348.png" num="104">TLB</set>
+Your opponents can&apos;t cast creature spells that share a name with any card exiled with Maliketh.
+---
+(Front): Gurranq, Beast Clergyman</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/347_back.png" num="104b">TLB</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Creature — Beast Warrior</type>
 				<maintype>Creature</maintype>
 				<manacost></manacost>
@@ -6097,14 +6132,17 @@ Your opponents can&apos;t cast creature spells that share a name with any card e
 				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Gurranq, Beast Clergyman</related>
 		</card>
 		<card>
 			<name>Margit, the Fell Omen</name>
 			<text>Other legendary creatures you control get +1/+1.
-Final form {3}{BG}{W} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)</text>
-			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/349.png" num="22">TLB</set>
+Final form {3}{BG}{W} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)
+---
+(Back): Morgott, the Omen King</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/349_front.png" num="22a">TLB</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Creature — Mutant Demigod</type>
 				<maintype>Creature</maintype>
@@ -6115,15 +6153,18 @@ Final form {3}{BG}{W} (You may cast a copy of this from the battlefield or your 
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Morgott, the Omen King</related>
 		</card>
 		<card>
 			<name>Morgott, the Omen King</name>
 			<text>Other legendary creatures you control get +2/+2.
-Whenever another legendary creature you control dies, put a number of +1/+1 counters on Morgott equal to that creature&apos;s power.</text>
-			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/350.png" num="22">TLB</set>
+Whenever another legendary creature you control dies, put a number of +1/+1 counters on Morgott equal to that creature&apos;s power.
+---
+(Front): Margit, the Fell Omen</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/349_back.png" num="22b">TLB</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Creature — Mutant Demigod</type>
 				<maintype>Creature</maintype>
 				<manacost></manacost>
@@ -6133,14 +6174,17 @@ Whenever another legendary creature you control dies, put a number of +1/+1 coun
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Margit, the Fell Omen</related>
 		</card>
 		<card>
 			<name>Promised Consort Radahn</name>
 			<text>When Promised Consort Radahn enters, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to that card&apos;s mana cost reduced by {X}, where X is Promised Consort Radahn&apos;s power.
-Final form {6}{RW}{U} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)</text>
-			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/351.png" num="70">TLB</set>
+Final form {6}{RW}{U} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)
+---
+(Back): Radahn, Consort of Miquella</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/351_front.png" num="70a">TLB</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Creature — Demigod</type>
 				<maintype>Creature</maintype>
@@ -6151,15 +6195,18 @@ Final form {6}{RW}{U} (You may cast a copy of this from the battlefield or your 
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Radahn, Consort of Miquella</related>
 		</card>
 		<card>
 			<name>Radahn, Consort of Miquella</name>
 			<text>Double strike, trample
-As long as it&apos;s your turn, each instant and sorcery card in your graveyard has flashback. The flashback cost is equal to that card&apos;s mana cost reduced by {X}, where X is Radahn&apos;s power.</text>
-			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/352.png" num="70">TLB</set>
+As long as it&apos;s your turn, each instant and sorcery card in your graveyard has flashback. The flashback cost is equal to that card&apos;s mana cost reduced by {X}, where X is Radahn&apos;s power.
+---
+(Front): Promised Consort Radahn</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/351_back.png" num="70b">TLB</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Creature — Demigod</type>
 				<maintype>Creature</maintype>
 				<manacost></manacost>
@@ -6169,14 +6216,17 @@ As long as it&apos;s your turn, each instant and sorcery card in your graveyard 
 				<pt>4/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Promised Consort Radahn</related>
 		</card>
 		<card>
 			<name>Godwyn, First to Fall</name>
 			<text>Whenever Godwyn enters or attacks, you may sacrifice a land. If you do, search your library for a land card, put it onto the battlefield tapped, then shuffle.
-Final form {5}{G}{UB} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)</text>
-			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/353.png" num="189">TLB</set>
+Final form {5}{G}{UB} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)
+---
+(Back): Godwyn, Prince of Death</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/353_front.png" num="189a">TLB</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Creature — Demigod</type>
 				<maintype>Creature</maintype>
@@ -6187,15 +6237,18 @@ Final form {5}{G}{UB} (You may cast a copy of this from the battlefield or your 
 				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Godwyn, Prince of Death</related>
 		</card>
 		<card>
 			<name>Godwyn, Prince of Death</name>
 			<text>When Godwyn enters, return all land cards from your graveyard to the battlefield tapped. They&apos;re 2/2 black Zombies in addition to their other types.
-Whenever another creature you control leaves the battlefield, draw a card.</text>
-			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/354.png" num="189">TLB</set>
+Whenever another creature you control leaves the battlefield, draw a card.
+---
+(Front): Godwyn, First to Fall</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/353_back.png" num="189b">TLB</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Creature — Zombie Demigod</type>
 				<maintype>Creature</maintype>
 				<manacost></manacost>
@@ -6205,15 +6258,18 @@ Whenever another creature you control leaves the battlefield, draw a card.</text
 				<pt>7/7</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Godwyn, First to Fall</related>
 		</card>
 		<card>
 			<name>God-Devouring Serpent</name>
 			<text>As long as you&apos;ve sacrificed a permanent this turn, God-Devouring Serpent has deathtouch.
 Whenever God-Devouring Serpent deals combat damage to a player, create a Shard token.
-Final form {6}{BR}{G} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)</text>
-			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/355.png" num="188">TLB</set>
+Final form {6}{BR}{G} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)
+---
+(Back): Rykard, Lord of Blasphemy</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/355_front.png" num="188a">TLB</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Creature — Serpent</type>
 				<maintype>Creature</maintype>
@@ -6224,17 +6280,20 @@ Final form {6}{BR}{G} (You may cast a copy of this from the battlefield or your 
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Rykard, Lord of Blasphemy</related>
 		</card>
 		<card>
 			<name>Rykard, Lord of Blasphemy</name>
 			<text>Trample
 Ward—Discard a card.
 When Rykard enters, sacrifice any number of other permanents, then draw that many cards.
-During each of your turns, you may play a land and cast a permanent spell from your graveyard.</text>
-			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/356.png" num="188">TLB</set>
+During each of your turns, you may play a land and cast a permanent spell from your graveyard.
+---
+(Front): God-Devouring Serpent</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/TLB-files/img/355_back.png" num="188b">TLB</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Creature — Serpent Demigod</type>
 				<maintype>Creature</maintype>
 				<manacost></manacost>
@@ -6244,6 +6303,7 @@ During each of your turns, you may play a land and cast a permanent spell from y
 				<pt>8/8</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">God-Devouring Serpent</related>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

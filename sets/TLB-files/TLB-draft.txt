@@ -1,3243 +1,13 @@
 ﻿[CustomCards]
 	[
 		{
-			"name": "Morgott Takes Leyndell",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{W}{W}",
-			"type": "Enchantment — Saga",
-			"collector_number": "28",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/0.png"
-			}
-		},
-		{
-			"name": "Discovery of the Dark Moon",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
-			"type": "Enchantment — Saga",
-			"collector_number": "53",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/1.png"
-			}
-		},
-		{
-			"name": "Placidusax's Ruin",
-			"rarity": "rare",
-			"mana_cost": "{2}{R}{R}",
-			"type": "Enchantment — Saga",
-			"collector_number": "159",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/2.png"
-			}
-		},
-		{
-			"name": "Rennala's Studies",
-			"rarity": "uncommon",
-			"mana_cost": "{U}",
-			"type": "Sorcery",
-			"collector_number": "75",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/3.png"
-			}
-		},
-		{
-			"name": "Abandon Everything",
-			"rarity": "rare",
-			"mana_cost": "{2}{B}{B}",
-			"type": "Enchantment — Saga",
-			"collector_number": "87",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/4.png"
-			}
-		},
-		{
-			"name": "Crumbling Farum Azula",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "302",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/5.png"
-			}
-		},
-		{
-			"name": "Fanged Imp",
-			"rarity": "common",
-			"mana_cost": "{1}",
-			"type": "Artifact Creature — Imp Spirit",
-			"collector_number": "286",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/6.png"
-			}
-		},
-		{
-			"name": "Igon, Drake Warrior",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
-			"type": "Legendary Creature — Human Archer",
-			"collector_number": "149",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/7.png"
-			}
-		},
-		{
-			"name": "Crystalian",
-			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Artifact Creature — Golem",
-			"collector_number": "50",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/8.png"
-			}
-		},
-		{
-			"name": "Take Up Grafting",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
-			"type": "Enchantment — Saga",
-			"collector_number": "211",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/9.png"
-			}
-		},
-		{
-			"name": "Night of Black Knives",
-			"rarity": "mythic",
-			"mana_cost": "{X}{2}{B}",
-			"type": "Enchantment — Saga",
-			"collector_number": "112",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/10.png"
-			}
-		},
-		{
-			"name": "Black Knife Assassin",
-			"rarity": "rare",
-			"mana_cost": "{B}{B}",
-			"type": "Creature — Human Assassin",
-			"collector_number": "90",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/11.png"
-			}
-		},
-		{
-			"name": "Sellen's Triumph",
-			"rarity": "common",
-			"mana_cost": "{2}{U}{U}",
-			"type": "Instant",
-			"collector_number": "78",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/12.png"
-			}
-		},
-		{
-			"name": "Patches, the Untethered",
-			"rarity": "mythic",
-			"mana_cost": "{2}{B}{B}",
-			"type": "Legendary Planeswalker — Patches",
-			"collector_number": "116",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/13.png"
-			}
-		},
-		{
-			"name": "Tarnished Recusant",
-			"rarity": "common",
-			"mana_cost": "{2}{B/G}",
-			"type": "Creature — Human Warrior",
-			"collector_number": "276",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/14.png"
-			}
-		},
-		{
-			"name": "Tarnished of the Badlands",
-			"rarity": "common",
-			"mana_cost": "{3}{G/W}",
-			"type": "Creature — Human Warrior",
-			"collector_number": "273",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/15.png"
-			}
-		},
-		{
-			"name": "Tarnished Sorcerer",
-			"rarity": "common",
-			"mana_cost": "{1}{U/R}",
-			"type": "Creature — Human Wizard",
-			"collector_number": "277",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/16.png"
-			}
-		},
-		{
-			"name": "Tarnished Lightseeker",
-			"rarity": "common",
-			"mana_cost": "{B/R}",
-			"type": "Creature — Human Rogue",
-			"collector_number": "272",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/17.png"
-			}
-		},
-		{
-			"name": "Tarnished Bandit",
-			"rarity": "common",
-			"mana_cost": "{1}{U/B}",
-			"type": "Creature — Human Rogue",
-			"collector_number": "268",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/18.png"
-			}
-		},
-		{
-			"name": "Tarnished of the Crucible",
-			"rarity": "common",
-			"mana_cost": "{4}{R/W}",
-			"type": "Creature — Human Warrior",
-			"collector_number": "274",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/19.png"
-			}
-		},
-		{
-			"name": "Tarnished Godhunter",
-			"rarity": "common",
-			"mana_cost": "{2}{W/B}",
-			"type": "Creature — Human Cleric",
-			"collector_number": "271",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/20.png"
-			}
-		},
-		{
-			"name": "Tarnished Cultist",
-			"rarity": "common",
-			"mana_cost": "{2}{G/U}",
-			"type": "Creature — Human Warlock",
-			"collector_number": "270",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/21.png"
-			}
-		},
-		{
-			"name": "Tarnished Prisoner",
-			"rarity": "common",
-			"mana_cost": "{3}{W/U}",
-			"type": "Creature — Human Rogue",
-			"collector_number": "275",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/22.png"
-			}
-		},
-		{
-			"name": "Tarnished Bloodhound",
-			"rarity": "common",
-			"mana_cost": "{4}{R/G}",
-			"type": "Creature — Human Warrior",
-			"collector_number": "269",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/23.png"
-			}
-		},
-		{
-			"name": "Glintstone Dragon",
-			"rarity": "common",
-			"mana_cost": "{4}{U}{U}",
-			"type": "Creature — Dragon",
-			"collector_number": "61",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/24.png"
-			}
-		},
-		{
-			"name": "Erdtree Avatar",
-			"rarity": "common",
-			"mana_cost": "{4}{G}{G}",
-			"type": "Creature — Treefolk Avatar",
-			"collector_number": "185",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/25.png"
-			}
-		},
-		{
-			"name": "Ancient Dragon's Lightning",
-			"rarity": "common",
-			"mana_cost": "{R}",
-			"type": "Sorcery",
-			"collector_number": "130",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/26.png"
-			}
-		},
-		{
-			"name": "Banished Knight",
-			"rarity": "common",
-			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Knight",
-			"collector_number": "131",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/27.png"
-			}
-		},
-		{
-			"name": "Hero of the Fringes",
-			"rarity": "common",
-			"mana_cost": "{3}{W}",
-			"type": "Creature — Spirit Knight",
-			"collector_number": "18",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/28.png"
-			}
-		},
-		{
-			"name": "Dragon Cult Priestess",
-			"rarity": "common",
-			"mana_cost": "{3}{R}",
-			"type": "Creature — Dragon Cleric",
-			"collector_number": "138",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/29.png"
-			}
-		},
-		{
-			"name": "Seeker of Runes",
-			"rarity": "common",
-			"mana_cost": "{W}",
-			"type": "Creature — Human Warrior",
-			"collector_number": "35",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/30.png"
-			}
-		},
-		{
-			"name": "Baleful Shadow",
-			"rarity": "common",
-			"mana_cost": "{4}{B}",
-			"type": "Creature — Wolf Assassin",
-			"collector_number": "89",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/31.png"
-			}
-		},
-		{
-			"name": "Bayle the Dread",
-			"rarity": "rare",
-			"mana_cost": "{3}{B}{R}",
-			"type": "Legendary Creature — Dragon",
-			"collector_number": "219",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/32.png"
-			}
-		},
-		{
-			"name": "Mimic Tear",
-			"rarity": "rare",
-			"mana_cost": "{2}{U}{U}",
-			"type": "Creature — Shapeshifter",
-			"collector_number": "65",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/33.png"
-			}
-		},
-		{
-			"name": "Finlay's Aid",
-			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Sorcery",
-			"collector_number": "12",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/34.png"
-			}
-		},
-		{
-			"name": "Night's Cavalry",
-			"rarity": "common",
-			"mana_cost": "{4}{B}{B}",
-			"type": "Creature — Human Knight",
-			"collector_number": "113",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/35.png"
-			}
-		},
-		{
-			"name": "Abductor Virgin",
-			"rarity": "common",
-			"mana_cost": "{4}{W}{W}",
-			"type": "Artifact Creature — Construct",
-			"collector_number": "1",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/36.png"
-			}
-		},
-		{
-			"name": "Red Wolf of Radagon",
-			"rarity": "common",
-			"mana_cost": "{4}{R}{R}",
-			"type": "Creature — Wolf",
-			"collector_number": "162",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/37.png"
-			}
-		},
-		{
-			"name": "Guardian Golem",
-			"rarity": "common",
-			"mana_cost": "{7}",
-			"type": "Artifact Creature — Golem",
-			"collector_number": "291",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/38.png"
-			}
-		},
-		{
-			"name": "Malenia, the Severed",
-			"rarity": "mythic",
-			"mana_cost": "{2}{R}{R}",
-			"type": "Legendary Creature — Demigod",
-			"collector_number": "152",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://provocativemtg.github.io/sets/TLB-files/img/39_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/39_front.png"
-			}
-		},
-		{
-			"name": "Rennala of Caria",
-			"rarity": "mythic",
-			"mana_cost": "{1}{U}",
-			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "73",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://provocativemtg.github.io/sets/TLB-files/img/40_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/40_front.png"
-			}
-		},
-		{
-			"name": "Messmer, the Impaler",
-			"rarity": "mythic",
-			"mana_cost": "{2}{B}",
-			"type": "Legendary Creature — Demigod",
-			"collector_number": "110",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://provocativemtg.github.io/sets/TLB-files/img/41_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/41_front.png"
-			}
-		},
-		{
-			"name": "Godfrey, First Elden Lord",
-			"rarity": "mythic",
-			"mana_cost": "{3}{W}",
-			"type": "Legendary Creature — Demigod",
-			"collector_number": "13",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://provocativemtg.github.io/sets/TLB-files/img/42_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/42_front.png"
-			}
-		},
-		{
-			"name": "Godrick, the Grafted",
-			"rarity": "mythic",
-			"mana_cost": "{2}{R}",
-			"type": "Legendary Creature — Demigod",
-			"collector_number": "148",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://provocativemtg.github.io/sets/TLB-files/img/43_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/43_front.png"
-			}
-		},
-		{
-			"name": "Gurranq, Beast Clergyman",
-			"rarity": "mythic",
-			"mana_cost": "{2}{B}",
-			"type": "Legendary Creature — Beast Cleric",
-			"collector_number": "104",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://provocativemtg.github.io/sets/TLB-files/img/44_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/44_front.png"
-			}
-		},
-		{
-			"name": "Margit, the Fell Omen",
-			"rarity": "mythic",
-			"mana_cost": "{1}{W}",
-			"type": "Legendary Creature — Mutant Demigod",
-			"collector_number": "22",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://provocativemtg.github.io/sets/TLB-files/img/45_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/45_front.png"
-			}
-		},
-		{
-			"name": "Promised Consort Radahn",
-			"rarity": "mythic",
-			"mana_cost": "{2}{U}",
-			"type": "Legendary Creature — Demigod",
-			"collector_number": "70",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://provocativemtg.github.io/sets/TLB-files/img/46_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/46_front.png"
-			}
-		},
-		{
-			"name": "Godwyn, First to Fall",
-			"rarity": "mythic",
-			"mana_cost": "{2}{G}",
-			"type": "Legendary Creature — Demigod",
-			"collector_number": "189",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://provocativemtg.github.io/sets/TLB-files/img/47_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/47_front.png"
-			}
-		},
-		{
-			"name": "Divine Beast Dancing Lion",
-			"rarity": "rare",
-			"mana_cost": "{2}{R}",
-			"type": "Creature — Hornsent Cat Avatar",
-			"collector_number": "136",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/48.png"
-			}
-		},
-		{
-			"name": "Godwyn's Death Knight",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
-			"type": "Creature — Skeleton Horror Knight",
-			"collector_number": "102",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/49.png"
-			}
-		},
-		{
-			"name": "God-Devouring Serpent",
-			"rarity": "mythic",
-			"mana_cost": "{G}",
-			"type": "Legendary Creature — Serpent",
-			"collector_number": "188",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://provocativemtg.github.io/sets/TLB-files/img/50_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/50_front.png"
-			}
-		},
-		{
-			"name": "Leyndell Knight",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Knight",
-			"collector_number": "20",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/51.png"
-			}
-		},
-		{
-			"name": "Marika, God-Queen",
-			"rarity": "mythic",
-			"mana_cost": "{2}{W}{B}",
-			"type": "Legendary Creature — God",
-			"collector_number": "238",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/52.png"
-			}
-		},
-		{
-			"name": "Shaman Village",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "318",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/53.png"
-			}
-		},
-		{
-			"name": "Destined Death",
-			"rarity": "common",
-			"mana_cost": "{3}{B}",
-			"type": "Instant",
-			"collector_number": "95",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/54.png"
-			}
-		},
-		{
-			"name": "Ritual Ascension",
-			"rarity": "rare",
-			"mana_cost": "{3}{B}",
-			"type": "Sorcery",
-			"collector_number": "117",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/55.png"
-			}
-		},
-		{
-			"name": "Braid Cutting",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Instant",
-			"collector_number": "7",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/56.png"
-			}
-		},
-		{
-			"name": "Dark Moon Greatsword",
-			"rarity": "mythic",
-			"mana_cost": "{2}",
-			"type": "Legendary Artifact — Equipment",
-			"collector_number": "282",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/57.png"
-			}
-		},
-		{
-			"name": "Ensoul Puppet",
-			"rarity": "common",
-			"mana_cost": "{U}",
-			"type": "Enchantment — Aura",
-			"collector_number": "56",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/58.png"
-			}
-		},
-		{
-			"name": "Great Jar",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{G}",
-			"type": "Artifact Creature — Golem Warrior",
-			"collector_number": "191",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/59.png"
-			}
-		},
-		{
-			"name": "Ashen Remains",
-			"rarity": "common",
-			"mana_cost": "{3}{U}",
-			"type": "Creature — Spirit Wolf",
-			"collector_number": "45",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/60.png"
-			}
-		},
-		{
-			"name": "Haligtree Knight",
-			"rarity": "common",
-			"mana_cost": "{2}{G}",
-			"type": "Creature — Human Knight",
-			"collector_number": "193",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/61.png"
-			}
-		},
-		{
-			"name": "Fingercreeper",
-			"rarity": "common",
-			"mana_cost": "{1}{G}",
-			"type": "Creature — Finger Spider",
-			"collector_number": "186",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/62.png"
-			}
-		},
-		{
-			"name": "D, Hunter of the Dead",
-			"rarity": "rare",
-			"mana_cost": "{1}{W}",
-			"type": "Legendary Creature — Human Knight",
-			"collector_number": "8",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/63.png"
-			}
-		},
-		{
-			"name": "Black Knight Captain",
-			"rarity": "common",
-			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Knight",
-			"collector_number": "91",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/64.png"
-			}
-		},
-		{
-			"name": "Obscure in Shadow",
-			"rarity": "uncommon",
-			"mana_cost": "{W}{W}",
-			"type": "Enchantment",
-			"collector_number": "31",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/65.png"
-			}
-		},
-		{
-			"name": "Operatic Bat",
-			"rarity": "common",
-			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Bat",
-			"collector_number": "32",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/66.png"
-			}
-		},
-		{
-			"name": "Winged Crucible Knight",
-			"rarity": "common",
-			"mana_cost": "{3}{W}",
-			"type": "Creature — Human Beast Knight",
-			"collector_number": "43",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/67.png"
-			}
-		},
-		{
-			"name": "Battlefield Commander",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W}{W}",
-			"type": "Creature — Human Soldier",
-			"collector_number": "3",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/68.png"
-			}
-		},
-		{
-			"name": "Nomadic Tribe Warrior",
-			"rarity": "common",
-			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Warrior",
-			"collector_number": "114",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/69.png"
-			}
-		},
-		{
-			"name": "Redmane Knight",
-			"rarity": "common",
-			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Knight",
-			"collector_number": "164",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/70.png"
-			}
-		},
-		{
-			"name": "Blaidd, Loyal Hound",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{U}{R}",
-			"type": "Legendary Creature — Wolf Knight",
-			"collector_number": "220",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/71.png"
-			}
-		},
-		{
-			"name": "To the Three Sisters",
-			"rarity": "rare",
-			"mana_cost": "{U}{U}",
-			"type": "Instant",
-			"collector_number": "85",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/72.png"
-			}
-		},
-		{
-			"name": "Grafted Warhawk",
-			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Creature — Bird",
-			"collector_number": "16",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/73.png"
-			}
-		},
-		{
-			"name": "Spirit of the Stormhawk",
-			"rarity": "common",
-			"mana_cost": "{2}{U}",
-			"type": "Creature — Bird Spirit",
-			"collector_number": "81",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/74.png"
-			}
-		},
-		{
-			"name": "Living Jar",
-			"rarity": "common",
-			"mana_cost": "{B}",
-			"type": "Artifact Creature — Golem",
-			"collector_number": "109",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/75.png"
-			}
-		},
-		{
-			"name": "Iron Fist Alexander",
-			"rarity": "rare",
-			"mana_cost": "{3}",
-			"type": "Legendary Artifact Creature — Golem",
-			"collector_number": "293",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/76.png"
-			}
-		},
-		{
-			"name": "Alexander's Strike",
-			"rarity": "common",
-			"mana_cost": "{1}{G}",
-			"type": "Instant",
-			"collector_number": "175",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/77.png"
-			}
-		},
-		{
-			"name": "Radahn's Meteor",
-			"rarity": "rare",
-			"mana_cost": "{X}{R}",
-			"type": "Sorcery",
-			"collector_number": "161",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/78.png"
-			}
-		},
-		{
-			"name": "Seek the Elden Ring",
-			"rarity": "rare",
-			"mana_cost": "{5}{G}",
-			"type": "Sorcery",
-			"collector_number": "207",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/79.png"
-			}
-		},
-		{
-			"name": "Tibia Mariner",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{B}",
-			"type": "Creature — Skeleton Spirit",
-			"collector_number": "125",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/80.png"
-			}
-		},
-		{
-			"name": "Ever-Brilliant Goldmask",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W}{U}",
-			"type": "Legendary Creature — Human Cleric",
-			"collector_number": "229",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/81.png"
-			}
-		},
-		{
-			"name": "Ensha of Royal Remains",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{B}",
-			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "228",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/82.png"
-			}
-		},
-		{
-			"name": "Roderika and Hewg",
-			"rarity": "uncommon",
-			"mana_cost": "{R}{W}",
-			"type": "Legendary Creature — Human Mutant",
-			"collector_number": "253",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/83.png"
-			}
-		},
-		{
-			"name": "The Hornsent, Vengeant",
-			"rarity": "uncommon",
-			"mana_cost": "{B}{G}",
-			"type": "Legendary Creature — Hornsent Rogue",
-			"collector_number": "233",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/84.png"
-			}
-		},
-		{
-			"name": "Primeval Sorcerer Lusat",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{U}",
-			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "69",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/85.png"
-			}
-		},
-		{
-			"name": "Primeval Sorcerer Azur",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
-			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "68",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/86.png"
-			}
-		},
-		{
-			"name": "Omenkiller",
-			"rarity": "common",
-			"mana_cost": "{3}{B}",
-			"type": "Creature — Human Rogue",
-			"collector_number": "115",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/87.png"
-			}
-		},
-		{
-			"name": "War Counselor Iji",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{R}{G}",
-			"type": "Legendary Creature — Troll Artificer",
-			"collector_number": "264",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/88.png"
-			}
-		},
-		{
-			"name": "Astel, Star of Darkness",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{U}{B}",
-			"type": "Legendary Creature — Alien Horror",
-			"collector_number": "217",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/89.png"
-			}
-		},
-		{
-			"name": "Vyke, Festering Fingerprint",
-			"rarity": "rare",
-			"mana_cost": "{B}{R}",
-			"type": "Legendary Creature — Human Knight",
-			"collector_number": "262",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/90.png"
-			}
-		},
-		{
-			"name": "Join the Mohgwyn Dynasty",
-			"rarity": "common",
-			"mana_cost": "{2}{B}",
-			"type": "Sorcery",
-			"collector_number": "107",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/91.png"
-			}
-		},
-		{
-			"name": "Ruinous Encounter",
-			"rarity": "rare",
-			"mana_cost": "{4}{B}{B}{B}{B}",
-			"type": "Sorcery",
-			"collector_number": "119",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/92.png"
-			}
-		},
-		{
-			"name": "Vulgar Militiamen",
-			"rarity": "common",
-			"mana_cost": "{1}{B}",
-			"type": "Creature — Horror Rogue",
-			"collector_number": "127",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/93.png"
-			}
-		},
-		{
-			"name": "Wandering Nobles",
-			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Creature — Zombie Noble",
-			"collector_number": "42",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/94.png"
-			}
-		},
-		{
-			"name": "Imp Statue",
-			"rarity": "common",
-			"mana_cost": "{2}",
-			"type": "Artifact",
-			"collector_number": "292",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/95.png"
-			}
-		},
-		{
-			"name": "Commander Gaius",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{G}{U}",
-			"type": "Legendary Creature — Albinauric Knight",
-			"collector_number": "223",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/96.png"
-			}
-		},
-		{
-			"name": "Devonia, of the Crucible",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{G}{W}",
-			"type": "Legendary Creature — Human Beast Knight",
-			"collector_number": "224",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/97.png"
-			}
-		},
-		{
-			"name": "Virgin Abduction",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{B}",
-			"type": "Sorcery",
-			"collector_number": "126",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/98.png"
-			}
-		},
-		{
-			"name": "Bayle's Tyranny",
-			"rarity": "uncommon",
-			"mana_cost": "{R}",
-			"type": "Sorcery",
-			"collector_number": "132",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/99.png"
-			}
-		},
-		{
-			"name": "Wraith Caller",
-			"rarity": "common",
-			"mana_cost": "{1}{B}",
-			"type": "Creature — Horror Cleric",
-			"collector_number": "129",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/100.png"
-			}
-		},
-		{
-			"name": "Hornsent Inquisition",
-			"rarity": "common",
-			"mana_cost": "{2}{B}",
-			"type": "Sorcery",
-			"collector_number": "106",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/101.png"
-			}
-		},
-		{
-			"name": "Fia's Embrace",
-			"rarity": "common",
-			"mana_cost": "{1}{B}",
-			"type": "Instant",
-			"collector_number": "98",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/102.png"
-			}
-		},
-		{
-			"name": "Godwyn's Fall",
-			"rarity": "common",
-			"mana_cost": "{1}{B}",
-			"type": "Enchantment",
-			"collector_number": "103",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/103.png"
-			}
-		},
-		{
-			"name": "Feeding the Haligtree",
-			"rarity": "common",
-			"mana_cost": "{B}",
-			"type": "Sorcery",
-			"collector_number": "96",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/104.png"
-			}
-		},
-		{
-			"name": "Miquella's Needle Knight",
-			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Knight",
-			"collector_number": "27",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/105.png"
-			}
-		},
-		{
-			"name": "Golden Hippopotamus",
-			"rarity": "common",
-			"mana_cost": "{4}{W}",
-			"type": "Creature — Hippo",
-			"collector_number": "15",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/106.png"
-			}
-		},
-		{
-			"name": "Nox Spirits",
-			"rarity": "common",
-			"mana_cost": "{2}{W}",
-			"type": "Creature — Spirit Cleric",
-			"collector_number": "30",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/107.png"
-			}
-		},
-		{
-			"name": "Those United in Common Cause",
-			"rarity": "common",
-			"mana_cost": "{W}",
-			"type": "Instant",
-			"collector_number": "39",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/108.png"
-			}
-		},
-		{
-			"name": "Marika's Crucifixion",
-			"rarity": "common",
-			"mana_cost": "{3}{W}",
-			"type": "Enchantment",
-			"collector_number": "23",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/109.png"
-			}
-		},
-		{
-			"name": "Golden Epitaph",
-			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Artifact — Equipment",
-			"collector_number": "14",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/110.png"
-			}
-		},
-		{
-			"name": "Cleanrot Knight",
-			"rarity": "rare",
-			"mana_cost": "{R}{G}",
-			"type": "Creature — Human Knight",
-			"collector_number": "221",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/111.png"
-			}
-		},
-		{
-			"name": "Fire Monk",
-			"rarity": "common",
-			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Wizard Monk",
-			"collector_number": "144",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/112.png"
-			}
-		},
-		{
-			"name": "Thorn Sorcerer",
-			"rarity": "common",
-			"mana_cost": "{1}{R}",
-			"type": "Creature — Horror Warlock",
-			"collector_number": "169",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/113.png"
-			}
-		},
-		{
-			"name": "Sisters of Rot",
-			"rarity": "common",
-			"mana_cost": "{1}{R}",
-			"type": "Sorcery",
-			"collector_number": "168",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/114.png"
-			}
-		},
-		{
-			"name": "Fire Knight's Greatsword",
-			"rarity": "common",
-			"mana_cost": "{3}{R}",
-			"type": "Artifact — Equipment",
-			"collector_number": "143",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/115.png"
-			}
-		},
-		{
-			"name": "Dragonbolt Blessing",
-			"rarity": "common",
-			"mana_cost": "{R}",
-			"type": "Enchantment — Rune Aura",
-			"collector_number": "139",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/116.png"
-			}
-		},
-		{
-			"name": "Waterfowl Dance",
-			"rarity": "uncommon",
-			"mana_cost": "{X}{R}{R}",
-			"type": "Instant",
-			"collector_number": "172",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/117.png"
-			}
-		},
-		{
-			"name": "Midra's Madness",
-			"rarity": "common",
-			"mana_cost": "{1}{R}",
-			"type": "Sorcery",
-			"collector_number": "156",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/118.png"
-			}
-		},
-		{
-			"name": "War Against the Giants",
-			"rarity": "common",
-			"mana_cost": "{4}{R}",
-			"type": "Instant",
-			"collector_number": "171",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/119.png"
-			}
-		},
-		{
-			"name": "March to Caelid",
-			"rarity": "common",
-			"mana_cost": "{1}{R}",
-			"type": "Sorcery",
-			"collector_number": "153",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/120.png"
-			}
-		},
-		{
-			"name": "Secret Away",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{R}",
-			"type": "Sorcery",
-			"collector_number": "166",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/121.png"
-			}
-		},
-		{
-			"name": "Champion's Blessing",
-			"rarity": "common",
-			"mana_cost": "{2}{R}",
-			"type": "Instant",
-			"collector_number": "134",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/122.png"
-			}
-		},
-		{
-			"name": "Dominula Celebrant",
-			"rarity": "common",
-			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Performer",
-			"collector_number": "54",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/123.png"
-			}
-		},
-		{
-			"name": "Spirit Jellyfish",
-			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Creature — Spirit Jellyfish",
-			"collector_number": "80",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/124.png"
-			}
-		},
-		{
-			"name": "Ranni's Preceptor",
-			"rarity": "common",
-			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Wizard",
-			"collector_number": "72",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/125.png"
-			}
-		},
-		{
-			"name": "Dragonkin Spirit",
-			"rarity": "common",
-			"mana_cost": "{4}{U}",
-			"type": "Creature — Spirit Dragon",
-			"collector_number": "55",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/126.png"
-			}
-		},
-		{
-			"name": "Carian Retaliation",
-			"rarity": "common",
-			"mana_cost": "{X}{U}",
-			"type": "Instant",
-			"collector_number": "48",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/127.png"
-			}
-		},
-		{
-			"name": "Twin Moons",
-			"rarity": "common",
-			"mana_cost": "{U}",
-			"type": "Sorcery",
-			"collector_number": "86",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/128.png"
-			}
-		},
-		{
-			"name": "Ranni the Witch",
-			"rarity": "mythic",
-			"mana_cost": "{U}{B}",
-			"type": "Legendary Creature — Demigod",
-			"collector_number": "250",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/129.png"
-			}
-		},
-		{
-			"name": "Destiny Portends",
-			"rarity": "common",
-			"mana_cost": "{3}{U}",
-			"type": "Instant",
-			"collector_number": "52",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/130.png"
-			}
-		},
-		{
-			"name": "Hallowhorn Communion",
-			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Instant",
-			"collector_number": "62",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/131.png"
-			}
-		},
-		{
-			"name": "Carian Knight",
-			"rarity": "rare",
-			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Wizard Knight",
-			"collector_number": "47",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/132.png"
-			}
-		},
-		{
-			"name": "Albinauric Archer",
-			"rarity": "common",
-			"mana_cost": "{3}{G}",
-			"type": "Creature — Albinauric Archer",
-			"collector_number": "173",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/133.png"
-			}
-		},
-		{
-			"name": "Ancestral Follower",
-			"rarity": "common",
-			"mana_cost": "{1}{G}",
-			"type": "Creature — Giant Cleric",
-			"collector_number": "176",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/134.png"
-			}
-		},
-		{
-			"name": "Albinauric Duo",
-			"rarity": "common",
-			"mana_cost": "{2}{G}",
-			"type": "Creature — Albinauric Warrior",
-			"collector_number": "174",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/135.png"
-			}
-		},
-		{
-			"name": "Forager Brood",
-			"rarity": "common",
-			"mana_cost": "{1}{G}",
-			"type": "Creature — Insect Scout",
-			"collector_number": "187",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/136.png"
-			}
-		},
-		{
-			"name": "Grafted Scion",
-			"rarity": "common",
-			"mana_cost": "{5}{G}",
-			"type": "Creature — Mutant Warrior",
-			"collector_number": "190",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/137.png"
-			}
-		},
-		{
-			"name": "Horned Warrior",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{G}",
-			"type": "Creature — Hornsent Warrior",
-			"collector_number": "194",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/138.png"
-			}
-		},
-		{
-			"name": "Soldjars of Fortune",
-			"rarity": "common",
-			"mana_cost": "{4}",
-			"type": "Artifact Creature — Golem Soldier",
-			"collector_number": "296",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/139.png"
-			}
-		},
-		{
-			"name": "Wandering Merchant",
-			"rarity": "common",
-			"mana_cost": "{2}{G}",
-			"type": "Creature — Human Rogue",
-			"collector_number": "213",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/140.png"
-			}
-		},
-		{
-			"name": "Soldier of Godrick",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
-			"type": "Creature — Human Soldier",
-			"collector_number": "210",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/141.png"
-			}
-		},
-		{
-			"name": "Wise Turtle",
-			"rarity": "uncommon",
-			"mana_cost": "{G}",
-			"type": "Creature — Turtle",
-			"collector_number": "214",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/142.png"
-			}
-		},
-		{
-			"name": "Walking Mausoleum",
-			"rarity": "rare",
-			"mana_cost": "{12}",
-			"type": "Artifact Creature — Golem",
-			"collector_number": "299",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/143.png"
-			}
-		},
-		{
-			"name": "Wormface",
-			"rarity": "common",
-			"mana_cost": "{3}{G}{G}",
-			"type": "Creature — Horror",
-			"collector_number": "215",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/144.png"
-			}
-		},
-		{
-			"name": "Scadutree's Thorns",
-			"rarity": "common",
-			"mana_cost": "{G}",
-			"type": "Sorcery",
-			"collector_number": "205",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/145.png"
-			}
-		},
-		{
-			"name": "Duskborn's Presence",
-			"rarity": "common",
-			"mana_cost": "{1}{G}",
-			"type": "Enchantment",
-			"collector_number": "182",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/146.png"
-			}
-		},
-		{
-			"name": "Groundswell",
-			"rarity": "common",
-			"mana_cost": "{G}",
-			"type": "Instant",
-			"collector_number": "192",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/147.png"
-			}
-		},
-		{
-			"name": "Profound Holiness",
-			"rarity": "rare",
-			"mana_cost": "{2}{W}",
-			"type": "Enchantment",
-			"collector_number": "33",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/148.png"
-			}
-		},
-		{
-			"name": "Claymore",
-			"rarity": "common",
-			"mana_cost": "{2}",
-			"type": "Artifact — Equipment",
-			"collector_number": "281",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/149.png"
-			}
-		},
-		{
-			"name": "Godslayer's Greatsword",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{B}",
-			"type": "Artifact — Equipment",
-			"collector_number": "101",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/150.png"
-			}
-		},
-		{
-			"name": "Table of Lost Grace",
-			"rarity": "common",
-			"mana_cost": "{3}",
-			"type": "Artifact",
-			"collector_number": "298",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/151.png"
-			}
-		},
-		{
-			"name": "Starscourge Radahn",
-			"rarity": "mythic",
-			"mana_cost": "{3}{U}{R}",
-			"type": "Legendary Creature — Demigod",
-			"collector_number": "258",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/152.png"
-			}
-		},
-		{
-			"name": "Tree Sentinel",
-			"rarity": "rare",
-			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Knight",
-			"collector_number": "41",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/153.png"
-			}
-		},
-		{
-			"name": "Gift of Madness",
-			"rarity": "uncommon",
-			"mana_cost": "{B}",
-			"type": "Sorcery",
-			"collector_number": "100",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/154.png"
-			}
-		},
-		{
-			"name": "Hyetta, Blind Maiden",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{R}",
-			"type": "Legendary Creature — Human Cleric",
-			"collector_number": "234",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/155.png"
-			}
-		},
-		{
-			"name": "Miriel, Pastor of Vows",
-			"rarity": "rare",
-			"mana_cost": "{2}{G}",
-			"type": "Legendary Creature — Turtle Cleric",
-			"collector_number": "198",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/156.png"
-			}
-		},
-		{
-			"name": "Lichdragon Fortissax",
-			"rarity": "rare",
-			"mana_cost": "{4}{B}",
-			"type": "Legendary Creature — Elder Dragon",
-			"collector_number": "108",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/157.png"
-			}
-		},
-		{
-			"name": "Dragonkin Soldier",
-			"rarity": "uncommon",
-			"mana_cost": "{5}{G}{G}",
-			"type": "Creature — Dragon Soldier",
-			"collector_number": "181",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/158.png"
-			}
-		},
-		{
-			"name": "Adula, Sworn to Ranni",
-			"rarity": "uncommon",
-			"mana_cost": "{6}{U}{U}",
-			"type": "Legendary Creature — Dragon Wizard",
-			"collector_number": "44",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/159.png"
-			}
-		},
-		{
-			"name": "Dragonlord Placidusax",
-			"rarity": "mythic",
-			"mana_cost": "{4}{U}{B}{R}",
-			"type": "Legendary Creature — Elder Dragon",
-			"collector_number": "226",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/160.png"
-			}
-		},
-		{
-			"name": "Lesser Dragon",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{R}{R}",
-			"type": "Creature — Dragon",
-			"collector_number": "150",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/161.png"
-			}
-		},
-		{
-			"name": "Ghostflame Dragon",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{B}{B}",
-			"type": "Creature — Zombie Dragon",
-			"collector_number": "99",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/162.png"
-			}
-		},
-		{
-			"name": "Torrent, Spectral Steed",
-			"rarity": "uncommon",
-			"mana_cost": "{W}",
-			"type": "Legendary Creature — Spirit Horse",
-			"collector_number": "40",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/163.png"
-			}
-		},
-		{
-			"name": "Aging Untouchable",
-			"rarity": "rare",
-			"mana_cost": "{1}{B}{B}",
-			"type": "Creature — Horror",
-			"collector_number": "88",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/164.png"
-			}
-		},
-		{
-			"name": "Melina, Kindling Maiden",
-			"rarity": "rare",
-			"mana_cost": "{W}",
-			"type": "Legendary Creature — Demigod",
-			"collector_number": "24",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/165.png"
-			}
-		},
-		{
-			"name": "Miquella, the Kind",
-			"rarity": "mythic",
-			"mana_cost": "{1}{G}{W}",
-			"type": "Legendary Creature — God",
-			"collector_number": "241",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/166.png"
-			}
-		},
-		{
-			"name": "Midra's Manse",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "312",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/167.png"
-			}
-		},
-		{
-			"name": "Cerulean Coast",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "300",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/168.png"
-			}
-		},
-		{
-			"name": "Crucible Knight",
-			"rarity": "rare",
-			"mana_cost": "{1}{G}",
-			"type": "Creature — Human Beast Knight",
-			"collector_number": "179",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/169.png"
-			}
-		},
-		{
-			"name": "The Elden Ring",
-			"rarity": "mythic",
-			"mana_cost": "{4}",
-			"type": "Legendary Artifact",
-			"collector_number": "283",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/170.png"
-			}
-		},
-		{
-			"name": "Gideon Ofnir, All-Knowing",
-			"rarity": "rare",
-			"mana_cost": "{U}{U}",
-			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "60",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/171.png"
-			}
-		},
-		{
-			"name": "Scadutree Avatar",
-			"rarity": "rare",
-			"mana_cost": "{2}{G}{G}",
-			"type": "Legendary Creature — Plant Avatar",
-			"collector_number": "204",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/172.png"
-			}
-		},
-		{
-			"name": "Comet Azur",
-			"rarity": "rare",
-			"mana_cost": "{X}{U}{R}",
-			"type": "Instant",
-			"collector_number": "222",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/173.png"
-			}
-		},
-		{
-			"name": "Metyr, Mother of Fingers",
-			"rarity": "rare",
-			"mana_cost": "{4}{U}{B}",
-			"type": "Legendary Creature — Finger Horror",
-			"collector_number": "240",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/174.png"
-			}
-		},
-		{
-			"name": "Romina, Saint of the Bud",
-			"rarity": "rare",
-			"mana_cost": "{2}{R}{G}",
-			"type": "Legendary Creature — Hornsent Cleric",
-			"collector_number": "254",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/175.png"
-			}
-		},
-		{
-			"name": "Enir-Ilim",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "304",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/176.png"
-			}
-		},
-		{
-			"name": "Shadow Keep",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "317",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/177.png"
-			}
-		},
-		{
-			"name": "Golem Smith",
-			"rarity": "uncommon",
-			"mana_cost": "{3}",
-			"type": "Artifact Creature — Golem Artificer",
-			"collector_number": "289",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/178.png"
-			}
-		},
-		{
-			"name": "Greatswords of Radahn",
-			"rarity": "rare",
-			"mana_cost": "{3}",
-			"type": "Legendary Artifact — Equipment",
-			"collector_number": "290",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/179.png"
-			}
-		},
-		{
-			"name": "The Three Fingers",
-			"rarity": "rare",
-			"mana_cost": "{4}{B}{B}",
-			"type": "Legendary Creature — Finger Horror",
-			"collector_number": "124",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/180.png"
-			}
-		},
-		{
-			"name": "Blackgaol Knight",
-			"rarity": "common",
-			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Knight",
-			"collector_number": "4",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/181.png"
-			}
-		},
-		{
-			"name": "Sorcerer Rogier",
-			"rarity": "rare",
-			"mana_cost": "{1}{U}",
-			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "79",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/182.png"
-			}
-		},
-		{
-			"name": "Melina's Sacrifice",
-			"rarity": "mythic",
-			"mana_cost": "{3}{R}{R}{R}",
-			"type": "Sorcery",
-			"collector_number": "154",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/183.png"
-			}
-		},
-		{
-			"name": "Count Ymir",
-			"rarity": "rare",
-			"mana_cost": "{2}{U}",
-			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "49",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/184.png"
-			}
-		},
-		{
-			"name": "Divine Bird Warrior",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W}{W}",
-			"type": "Creature — Hornsent Bird Warrior",
-			"collector_number": "9",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/185.png"
-			}
-		},
-		{
-			"name": "Bloodhound Knight",
-			"rarity": "uncommon",
-			"mana_cost": "{B}",
-			"type": "Creature — Horror Knight",
-			"collector_number": "92",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/186.png"
-			}
-		},
-		{
-			"name": "Mad Tongue",
-			"rarity": "uncommon",
-			"mana_cost": "{R}",
-			"type": "Creature — Human Wizard Assassin",
-			"collector_number": "151",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/187.png"
-			}
-		},
-		{
-			"name": "Drake Knight",
-			"rarity": "uncommon",
-			"mana_cost": "{R}",
-			"type": "Creature — Human Knight",
-			"collector_number": "140",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/188.png"
-			}
-		},
-		{
-			"name": "Erdtree Burial Watchdog",
-			"rarity": "uncommon",
-			"mana_cost": "{4}",
-			"type": "Artifact Creature — Dog Golem",
-			"collector_number": "285",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/189.png"
-			}
-		},
-		{
-			"name": "Dryleaf Dane",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Legendary Creature — Human Monk",
-			"collector_number": "10",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/190.png"
-			}
-		},
-		{
-			"name": "Fire Giant",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{R}",
-			"type": "Creature — Giant",
-			"collector_number": "142",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/191.png"
-			}
-		},
-		{
-			"name": "Epic Encounter",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
-			"type": "Sorcery",
-			"collector_number": "184",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/192.png"
-			}
-		},
-		{
-			"name": "Fia, Deathbed Companion",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
-			"type": "Legendary Creature — Human Cleric",
-			"collector_number": "97",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/193.png"
-			}
-		},
-		{
-			"name": "The Loathsome Dung Eater",
-			"rarity": "rare",
-			"mana_cost": "{B}{G}",
-			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "236",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/194.png"
-			}
-		},
-		{
-			"name": "Nepheli Loux",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{G}",
-			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "200",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/195.png"
-			}
-		},
-		{
-			"name": "Millicent, Flowering Valkyrie",
-			"rarity": "rare",
-			"mana_cost": "{2}{R}",
-			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "157",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/196.png"
-			}
-		},
-		{
-			"name": "Radagon, King Consort",
-			"rarity": "rare",
-			"mana_cost": "{3}{R}{W}",
-			"type": "Legendary Creature — God",
-			"collector_number": "247",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/197.png"
-			}
-		},
-		{
-			"name": "Royal Revenant",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{B}{B}",
-			"type": "Creature — Spider Horror",
-			"collector_number": "118",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/198.png"
-			}
-		},
-		{
-			"name": "Secret Rite",
-			"rarity": "rare",
-			"mana_cost": "{X}{G}{G}",
-			"type": "Sorcery",
-			"collector_number": "206",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/199.png"
-			}
-		},
-		{
-			"name": "Spirit-Calling Snail",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
-			"type": "Creature — Spirit Snail",
-			"collector_number": "82",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/200.png"
-			}
-		},
-		{
-			"name": "Needle Knight Leda",
-			"rarity": "rare",
-			"mana_cost": "{1}{W}",
-			"type": "Legendary Creature — Human Knight",
-			"collector_number": "29",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/201.png"
-			}
-		},
-		{
-			"name": "Sir Moore",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
-			"type": "Legendary Creature — Insect Knight",
-			"collector_number": "209",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/202.png"
-			}
-		},
-		{
-			"name": "Sir Ansbach",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{B}",
-			"type": "Legendary Creature — Human Knight",
-			"collector_number": "121",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/203.png"
-			}
-		},
-		{
-			"name": "Rya, Volcano Manor Scout",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
-			"type": "Legendary Creature — Snake Scout",
-			"collector_number": "165",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/204.png"
-			}
-		},
-		{
-			"name": "Loretta, Haligtree Knight",
-			"rarity": "rare",
-			"mana_cost": "{1}{W}{U}",
-			"type": "Legendary Creature — Albinauric Knight",
-			"collector_number": "237",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/205.png"
-			}
-		},
-		{
-			"name": "Spoken Echoes",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{W}",
-			"type": "Sorcery",
-			"collector_number": "256",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/206.png"
-			}
-		},
-		{
-			"name": "Ancestor Spirit",
-			"rarity": "rare",
-			"mana_cost": "{1}{G}{U}",
-			"type": "Creature — Elk Spirit",
-			"collector_number": "216",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/207.png"
-			}
-		},
-		{
-			"name": "Rellana, Twin Moon Knight",
-			"rarity": "rare",
-			"mana_cost": "{U}{R}",
-			"type": "Legendary Creature — Human Wizard Knight",
-			"collector_number": "252",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/208.png"
-			}
-		},
-		{
-			"name": "Thiollier, in Sweet Sleep",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{U}{U}",
-			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "83",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/209.png"
-			}
-		},
-		{
-			"name": "Dearest Nanaya",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
-			"type": "Legendary Creature — Human Cleric",
-			"collector_number": "135",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/210.png"
-			}
-		},
-		{
-			"name": "St. Trina",
-			"rarity": "rare",
-			"mana_cost": "{G}{W}{U}",
-			"type": "Legendary Creature — Demigod",
-			"collector_number": "257",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/211.png"
-			}
-		},
-		{
-			"name": "Midra, Lord of Frenzied Flame",
-			"rarity": "rare",
-			"mana_cost": "{2}{B}",
-			"type": "Legendary Creature — Hornsent Avatar",
-			"collector_number": "111",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/212.png"
-			}
-		},
-		{
-			"name": "The Gate of Divinity",
-			"rarity": "mythic",
-			"mana_cost": "{10}",
-			"type": "Legendary Artifact",
-			"collector_number": "287",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/213.png"
-			}
-		},
-		{
-			"name": "Minor Erdtree",
-			"rarity": "rare",
-			"mana_cost": "{3}{W}{W}",
-			"type": "Enchantment",
-			"collector_number": "26",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/214.png"
-			}
-		},
-		{
-			"name": "Miquella's Love",
-			"rarity": "uncommon",
-			"mana_cost": "{5}{W}{U}",
-			"type": "Enchantment — Aura",
-			"collector_number": "242",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/215.png"
-			}
-		},
-		{
-			"name": "Marika Shatters the Ring",
-			"rarity": "rare",
-			"mana_cost": "{3}{G}{G}",
-			"type": "Enchantment — Saga",
-			"collector_number": "197",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/216.png"
-			}
-		},
-		{
-			"name": "Bathed in Gold",
-			"rarity": "rare",
-			"mana_cost": "{W}{U}{B}{R}{G}",
-			"type": "Sorcery",
-			"collector_number": "218",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/217.png"
-			}
-		},
-		{
-			"name": "Redmane Freyja",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{R}{R}",
-			"type": "Legendary Creature — Human Knight",
-			"collector_number": "163",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/218.png"
-			}
-		},
-		{
-			"name": "Putrescent Knight",
-			"rarity": "rare",
-			"mana_cost": "{2}{G}{U}",
-			"type": "Creature — Skeleton Knight",
-			"collector_number": "246",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/219.png"
-			}
-		},
-		{
-			"name": "White Mask Varre",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
-			"type": "Legendary Creature — Human Doctor",
-			"collector_number": "128",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/220.png"
-			}
-		},
-		{
-			"name": "The Elden Beast",
-			"rarity": "mythic",
-			"mana_cost": "{2}{W}{U}{B}{R}{G}",
-			"type": "Legendary Creature — Elder Beast God",
-			"collector_number": "227",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/221.png"
-			}
-		},
-		{
-			"name": "Thousand Year Voyage",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{U}",
-			"type": "Instant",
-			"collector_number": "84",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/222.png"
-			}
-		},
-		{
-			"name": "Bell Bearing Hunter",
-			"rarity": "rare",
-			"mana_cost": "{2}{R}{R}",
-			"type": "Creature — Human Warrior",
-			"collector_number": "133",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/223.png"
-			}
-		},
-		{
-			"name": "Ancient Tomb",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Land",
-			"collector_number": "18",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/224.png"
-			}
-		},
-		{
-			"name": "Death Rite Bird",
-			"rarity": "rare",
-			"mana_cost": "{3}{U}",
-			"type": "Creature — Bird Skeleton Horror",
-			"collector_number": "51",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/225.png"
-			}
-		},
-		{
-			"name": "Blackguard Boggart",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
-			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "177",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/226.png"
-			}
-		},
-		{
-			"name": "Sellen, Graven Witch",
-			"rarity": "rare",
-			"mana_cost": "{1}{R}",
-			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "167",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/227.png"
-			}
-		},
-		{
-			"name": "Radahn's Return",
-			"rarity": "rare",
-			"mana_cost": "{4}{W}{U}",
-			"type": "Sorcery",
-			"collector_number": "249",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/228.png"
-			}
-		},
-		{
-			"name": "Purge Without Grace",
-			"rarity": "mythic",
-			"mana_cost": "{3}{R}",
-			"type": "Enchantment — Saga",
-			"collector_number": "160",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/229.png"
-			}
-		},
-		{
-			"name": "Seeking the Crosses",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Enchantment",
-			"collector_number": "36",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/230.png"
-			}
-		},
-		{
-			"name": "Sword Monument",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
-			"type": "Artifact",
-			"collector_number": "37",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/231.png"
-			}
-		},
-		{
-			"name": "Dragon Communion",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{R}{R}",
-			"type": "Enchantment — Rune Aura",
-			"collector_number": "137",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/232.png"
-			}
-		},
-		{
-			"name": "Condemnation of Midra",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{B}{B}",
-			"type": "Enchantment — Saga",
-			"collector_number": "93",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/233.png"
-			}
-		},
-		{
-			"name": "War of the Shattering",
-			"rarity": "rare",
-			"mana_cost": "{R}{R}{W}{W}",
-			"type": "Sorcery",
-			"collector_number": "265",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/234.png"
-			}
-		},
-		{
-			"name": "Black Knife",
-			"rarity": "rare",
-			"mana_cost": "{1}",
-			"type": "Artifact — Equipment",
-			"collector_number": "279",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/235.png"
-			}
-		},
-		{
-			"name": "Empyrean Cocoon",
-			"rarity": "uncommon",
-			"mana_cost": "{4}",
-			"type": "Legendary Artifact",
-			"collector_number": "284",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/236.png"
-			}
-		},
-		{
-			"name": "Sword of Night and Flame",
-			"rarity": "uncommon",
-			"mana_cost": "{2}",
-			"type": "Legendary Artifact — Equipment",
-			"collector_number": "297",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/237.png"
-			}
-		},
-		{
-			"name": "Mend the Elden Ring",
-			"rarity": "rare",
-			"mana_cost": "{4}{W}{W}",
-			"type": "Instant",
-			"collector_number": "25",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/238.png"
-			}
-		},
-		{
-			"name": "Millicent's Journey",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
-			"type": "Instant",
-			"collector_number": "158",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/239.png"
-			}
-		},
-		{
-			"name": "Hornsent Grandam",
-			"rarity": "rare",
-			"mana_cost": "{G}",
-			"type": "Creature — Hornsent Cleric",
-			"collector_number": "195",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/240.png"
-			}
-		},
-		{
-			"name": "A Tarnished of No Renown",
-			"rarity": "mythic",
-			"mana_cost": "{W}",
-			"type": "Creature — Human",
-			"collector_number": "38",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/241.png"
-			}
-		},
-		{
-			"name": "Light of Miquella",
-			"rarity": "rare",
-			"mana_cost": "{1}{G}{W}",
-			"type": "Enchantment",
-			"collector_number": "235",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/242.png"
-			}
-		},
-		{
-			"name": "Godskin Apostle",
-			"rarity": "rare",
-			"mana_cost": "{1}{W}{B}",
-			"type": "Creature — Horror Cleric",
-			"collector_number": "231",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/243.png"
-			}
-		},
-		{
-			"name": "The Radahn Festival",
-			"rarity": "rare",
-			"mana_cost": "{1}{U}{R}{W}",
-			"type": "Legendary Enchantment",
-			"collector_number": "248",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/244.png"
-			}
-		},
-		{
-			"name": "Ancient Dragon",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{W}{W}",
-			"type": "Creature — Elder Dragon",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/245.png"
-			}
-		},
-		{
-			"name": "Radagon is Marika",
-			"rarity": "rare",
-			"mana_cost": "{1}{W}",
-			"type": "Enchantment — Saga",
-			"collector_number": "34",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/246.png"
-			}
-		},
-		{
-			"name": "Mohg, Lord of Blood",
-			"rarity": "mythic",
-			"mana_cost": "{2}{B}{R}",
-			"type": "Legendary Creature — Mutant Demigod",
-			"collector_number": "244",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/247.png"
-			}
-		},
-		{
-			"name": "Rune Bear",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{G}{G}",
-			"type": "Creature — Bear",
-			"collector_number": "203",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/248.png"
-			}
-		},
-		{
-			"name": "Kindreds of Rot",
-			"rarity": "rare",
-			"mana_cost": "{1}{G}",
-			"type": "Creature — Insect Cleric",
-			"collector_number": "196",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/249.png"
-			}
-		},
-		{
-			"name": "The Haligtree",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "310",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/250.png"
-			}
-		},
-		{
-			"name": "Giant-Crusher",
-			"rarity": "uncommon",
-			"mana_cost": "{4}",
-			"type": "Artifact — Equipment",
-			"collector_number": "288",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/251.png"
-			}
-		},
-		{
-			"name": "The Erdtree",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "305",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/252.png"
-			}
-		},
-		{
-			"name": "Orb Cleric",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Orb Cleric",
-			"collector_number": "3",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/253.png"
-			}
-		},
-		{
-			"name": "Marika's Hammer",
-			"rarity": "mythic",
-			"mana_cost": "{2}",
-			"type": "Legendary Artifact — Equipment",
-			"collector_number": "294",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/254.png"
-			}
-		},
-		{
-			"name": "Furnace Golem",
-			"rarity": "rare",
-			"mana_cost": "{5}{R}{R}",
-			"type": "Artifact Creature — Golem",
-			"collector_number": "147",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/255.png"
-			}
-		},
-		{
-			"name": "Becoming a Mother",
-			"rarity": "rare",
-			"mana_cost": "{3}{U}{U}",
-			"type": "Enchantment — Saga",
-			"collector_number": "46",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/256.png"
-			}
-		},
-		{
-			"name": "Seize the Stars",
-			"rarity": "mythic",
-			"mana_cost": "{4}{U}{U}",
-			"type": "Sorcery",
-			"collector_number": "77",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/257.png"
-			}
-		},
-		{
-			"name": "Old Hero of Zamor",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
-			"type": "Creature — Spirit Warrior",
-			"collector_number": "67",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/258.png"
-			}
-		},
-		{
-			"name": "Radagon's Absolution",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{U}",
-			"type": "Instant",
-			"collector_number": "71",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/259.png"
-			}
-		},
-		{
-			"name": "Fall of the Eternal City",
-			"rarity": "rare",
-			"mana_cost": "{1}{U}{B}",
-			"type": "Instant",
-			"collector_number": "230",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/260.png"
-			}
-		},
-		{
-			"name": "Mired in Despair",
-			"rarity": "rare",
-			"mana_cost": "{2}{B}{G}",
-			"type": "Sorcery",
-			"collector_number": "243",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/261.png"
-			}
-		},
-		{
-			"name": "Misbegotten Warrior",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
-			"type": "Creature — Mutant Warrior",
-			"collector_number": "199",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/262.png"
-			}
-		},
-		{
-			"name": "Diallos, of House Hoslow",
-			"rarity": "rare",
-			"mana_cost": "{G}{W}",
-			"type": "Legendary Creature — Human Noble",
-			"collector_number": "225",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/263.png"
-			}
-		},
-		{
-			"name": "Visions of Flame",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{R}{R}",
-			"type": "Enchantment — Saga",
-			"collector_number": "170",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/264.png"
-			}
-		},
-		{
-			"name": "Founding Rain of Stars",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
-			"type": "Instant",
-			"collector_number": "59",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/265.png"
-			}
-		},
-		{
-			"name": "Ranni's Wedding",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{B}",
-			"type": "Enchantment",
-			"collector_number": "251",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/266.png"
-			}
-		},
-		{
-			"name": "War with Liurnia",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{R}",
-			"type": "Instant",
-			"collector_number": "266",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/267.png"
-			}
-		},
-		{
-			"name": "Vyke's Torment",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{B}{R}",
-			"type": "Sorcery",
-			"collector_number": "263",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/268.png"
-			}
-		},
-		{
-			"name": "Greater Brilliance",
-			"rarity": "mythic",
-			"mana_cost": "{4}{W}{W}{W}",
-			"type": "Sorcery",
-			"collector_number": "17",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/269.png"
-			}
-		},
-		{
-			"name": "The Two Fingers",
-			"rarity": "rare",
-			"mana_cost": "{2}{W}{B}",
-			"type": "Legendary Creature — Finger Horror",
-			"collector_number": "259",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/270.png"
-			}
-		},
-		{
-			"name": "Lady Tanith",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{W}",
-			"type": "Legendary Creature — Human Noble",
-			"collector_number": "19",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/271.png"
-			}
-		},
-		{
-			"name": "Swordhand of Night",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{B}",
-			"type": "Creature — Human Knight",
-			"collector_number": "122",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/272.png"
-			}
-		},
-		{
-			"name": "Show of Strength",
-			"rarity": "common",
-			"mana_cost": "{2}{G}",
-			"type": "Instant",
-			"collector_number": "208",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/273.png"
-			}
-		},
-		{
-			"name": "New Life from Death",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
-			"type": "Enchantment",
-			"collector_number": "201",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/274.png"
-			}
-		},
-		{
-			"name": "Knowledge Capture",
-			"rarity": "uncommon",
-			"mana_cost": "{U}",
-			"type": "Instant",
-			"collector_number": "63",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/275.png"
-			}
-		},
-		{
-			"name": "Fleeting Microcosm",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
-			"type": "Instant",
-			"collector_number": "58",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/276.png"
-			}
-		},
-		{
-			"name": "Bloodhound's Fang",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
-			"type": "Artifact — Equipment",
-			"collector_number": "5",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/277.png"
-			}
-		},
-		{
-			"name": "New Life Grows",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{G}{U}",
-			"type": "Sorcery",
-			"collector_number": "245",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/278.png"
-			}
-		},
-		{
-			"name": "Miquella's Sacrifice",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
-			"type": "Sorcery",
-			"collector_number": "66",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/279.png"
-			}
-		},
-		{
-			"name": "Sealing the Rune of Death",
-			"rarity": "uncommon",
-			"mana_cost": "{W}{B}",
-			"type": "Instant",
-			"collector_number": "255",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/280.png"
-			}
-		},
-		{
-			"name": "Valkyrie's Prosthetic",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{R}{W}",
-			"type": "Artifact — Equipment",
-			"collector_number": "261",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/281.png"
-			}
-		},
-		{
-			"name": "Unloved and Unwanted",
-			"rarity": "uncommon",
-			"mana_cost": "{X}{B}{G}",
-			"type": "Instant",
-			"collector_number": "260",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/282.png"
-			}
-		},
-		{
-			"name": "Weave the Scarlet Rot",
-			"rarity": "uncommon",
-			"mana_cost": "{R}{G}",
-			"type": "Sorcery",
-			"collector_number": "267",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/283.png"
-			}
-		},
-		{
-			"name": "Rennala's Amber Egg",
-			"rarity": "mythic",
-			"mana_cost": "{U}{U}",
-			"type": "Legendary Artifact",
-			"collector_number": "74",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/284.png"
-			}
-		},
-		{
-			"name": "Challenge of the Ring",
-			"rarity": "mythic",
-			"mana_cost": "{3}{G}{G}",
-			"type": "Enchantment",
-			"collector_number": "178",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/285.png"
-			}
-		},
-		{
-			"name": "Golden Seeds",
-			"rarity": "mythic",
-			"mana_cost": "{2}{G}{W}",
-			"type": "Enchantment",
-			"collector_number": "232",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/286.png"
-			}
-		},
-		{
-			"name": "City of Nox",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "301",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/287.png"
-			}
-		},
-		{
-			"name": "Forge of the Giants",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "308",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/288.png"
-			}
-		},
-		{
-			"name": "Leyndell, Royal Capital",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "311",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/289.png"
-			}
-		},
-		{
-			"name": "Mountaintops of the Giants",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "313",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/290.png"
-			}
-		},
-		{
-			"name": "Eternal City",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "306",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/291.png"
-			}
-		},
-		{
-			"name": "Raya Lucaria Academy",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "314",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/292.png"
-			}
-		},
-		{
-			"name": "Stormveil Castle",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "320",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/293.png"
-			}
-		},
-		{
-			"name": "The First Step",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "307",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/294.png"
-			}
-		},
-		{
-			"name": "Deeproot Depths",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "303",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/295.png"
-			}
-		},
-		{
-			"name": "Grand Cloister",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "309",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/296.png"
-			}
-		},
-		{
-			"name": "Ruin-Strewn Precipice",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "315",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/297.png"
-			}
-		},
-		{
-			"name": "Siofra River",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "319",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/298.png"
-			}
-		},
-		{
-			"name": "Demigod",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Demigod",
-			"collector_number": "8",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/299.png"
-			}
-		},
-		{
-			"name": "Soldier",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Soldier",
-			"collector_number": "4",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/300.png"
-			}
-		},
-		{
-			"name": "Shard",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Enchantment — Shard",
-			"collector_number": "1",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/301.png"
-			}
-		},
-		{
-			"name": "Knight",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Knight",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/302.png"
-			}
-		},
-		{
-			"name": "Weapon",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact — Equipment",
-			"collector_number": "17",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/303.png"
-			}
-		},
-		{
-			"name": "Treasure",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact — Treasure",
-			"collector_number": "16",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/304.png"
-			}
-		},
-		{
-			"name": "Food",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact — Food",
-			"collector_number": "14",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/305.png"
-			}
-		},
-		{
-			"name": "Tanith's Knight",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Knight",
-			"collector_number": "5",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/306.png"
-			}
-		},
-		{
-			"name": "Spirit",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Spirit",
-			"collector_number": "6",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/307.png"
-			}
-		},
-		{
-			"name": "Skeleton",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Skeleton",
-			"collector_number": "10",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/308.png"
-			}
-		},
-		{
-			"name": "Blood",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact — Blood",
-			"collector_number": "13",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/309.png"
-			}
-		},
-		{
-			"name": "Finger Spider",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Finger Spider",
-			"collector_number": "9",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/310.png"
-			}
-		},
-		{
-			"name": "Plant",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Plant",
-			"collector_number": "12",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/311.png"
-			}
-		},
-		{
-			"name": "Everywhere",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Land",
-			"collector_number": "19",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/312.png"
-			}
-		},
-		{
-			"name": "Dragon",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Dragon",
-			"collector_number": "11",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/313.png"
-			}
-		},
-		{
-			"name": "Wizard",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Wizard",
-			"collector_number": "7",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/314.png"
-			}
-		},
-		{
-			"name": "Meteorite",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact",
-			"collector_number": "15",
-			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/315.png"
-			}
-		},
-		{
 			"name": "Forest_EDR",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/316.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/0.png"
 			}
 		},
 		{
@@ -3247,7 +17,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/317.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/1.png"
 			}
 		},
 		{
@@ -3257,7 +27,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/318.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/2.png"
 			}
 		},
 		{
@@ -3267,7 +37,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/319.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/3.png"
 			}
 		},
 		{
@@ -3277,7 +47,3067 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/320.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/4.png"
+			}
+		},
+		{
+			"name": "Morgott Takes Leyndell",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/5.png"
+			}
+		},
+		{
+			"name": "Discovery of the Dark Moon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/6.png"
+			}
+		},
+		{
+			"name": "Placidusax's Ruin",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/7.png"
+			}
+		},
+		{
+			"name": "Rennala's Studies",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/8.png"
+			}
+		},
+		{
+			"name": "Abandon Everything",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/9.png"
+			}
+		},
+		{
+			"name": "Crumbling Farum Azula",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/10.png"
+			}
+		},
+		{
+			"name": "Fanged Imp",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Imp Spirit",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/11.png"
+			}
+		},
+		{
+			"name": "Igon, Drake Warrior",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Archer",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/12.png"
+			}
+		},
+		{
+			"name": "Crystalian",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/13.png"
+			}
+		},
+		{
+			"name": "Take Up Grafting",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/14.png"
+			}
+		},
+		{
+			"name": "Night of Black Knives",
+			"rarity": "mythic",
+			"mana_cost": "{X}{2}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/15.png"
+			}
+		},
+		{
+			"name": "Black Knife Assassin",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/16.png"
+			}
+		},
+		{
+			"name": "Sellen's Triumph",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/17.png"
+			}
+		},
+		{
+			"name": "Patches, the Untethered",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Planeswalker — Patches",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/18.png"
+			}
+		},
+		{
+			"name": "Tarnished Recusant",
+			"rarity": "common",
+			"mana_cost": "{2}{B/G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/19.png"
+			}
+		},
+		{
+			"name": "Tarnished of the Badlands",
+			"rarity": "common",
+			"mana_cost": "{3}{G/W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/20.png"
+			}
+		},
+		{
+			"name": "Tarnished Sorcerer",
+			"rarity": "common",
+			"mana_cost": "{1}{U/R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/21.png"
+			}
+		},
+		{
+			"name": "Tarnished Lightseeker",
+			"rarity": "common",
+			"mana_cost": "{B/R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/22.png"
+			}
+		},
+		{
+			"name": "Tarnished Bandit",
+			"rarity": "common",
+			"mana_cost": "{1}{U/B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/23.png"
+			}
+		},
+		{
+			"name": "Tarnished of the Crucible",
+			"rarity": "common",
+			"mana_cost": "{4}{R/W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/24.png"
+			}
+		},
+		{
+			"name": "Tarnished Godhunter",
+			"rarity": "common",
+			"mana_cost": "{2}{W/B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/25.png"
+			}
+		},
+		{
+			"name": "Tarnished Cultist",
+			"rarity": "common",
+			"mana_cost": "{2}{G/U}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/26.png"
+			}
+		},
+		{
+			"name": "Tarnished Prisoner",
+			"rarity": "common",
+			"mana_cost": "{3}{W/U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/27.png"
+			}
+		},
+		{
+			"name": "Tarnished Bloodhound",
+			"rarity": "common",
+			"mana_cost": "{4}{R/G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/28.png"
+			}
+		},
+		{
+			"name": "Glintstone Dragon",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Dragon",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/29.png"
+			}
+		},
+		{
+			"name": "Erdtree Avatar",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Treefolk Avatar",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/30.png"
+			}
+		},
+		{
+			"name": "Ancient Dragon's Lightning",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/31.png"
+			}
+		},
+		{
+			"name": "Banished Knight",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/32.png"
+			}
+		},
+		{
+			"name": "Hero of the Fringes",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Spirit Knight",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/33.png"
+			}
+		},
+		{
+			"name": "Dragon Cult Priestess",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Dragon Cleric",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/34.png"
+			}
+		},
+		{
+			"name": "Seeker of Runes",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/35.png"
+			}
+		},
+		{
+			"name": "Baleful Shadow",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Wolf Assassin",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/36.png"
+			}
+		},
+		{
+			"name": "Bayle the Dread",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/37.png"
+			}
+		},
+		{
+			"name": "Mimic Tear",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/38.png"
+			}
+		},
+		{
+			"name": "Finlay's Aid",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/39.png"
+			}
+		},
+		{
+			"name": "Night's Cavalry",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/40.png"
+			}
+		},
+		{
+			"name": "Abductor Virgin",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/41.png"
+			}
+		},
+		{
+			"name": "Red Wolf of Radagon",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Wolf",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/42.png"
+			}
+		},
+		{
+			"name": "Guardian Golem",
+			"rarity": "common",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/43.png"
+			}
+		},
+		{
+			"name": "Divine Beast Dancing Lion",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Hornsent Cat Avatar",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/44.png"
+			}
+		},
+		{
+			"name": "Godwyn's Death Knight",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Skeleton Horror Knight",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/45.png"
+			}
+		},
+		{
+			"name": "Leyndell Knight",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/46.png"
+			}
+		},
+		{
+			"name": "Marika, God-Queen",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — God",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/47.png"
+			}
+		},
+		{
+			"name": "Shaman Village",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/48.png"
+			}
+		},
+		{
+			"name": "Destined Death",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/49.png"
+			}
+		},
+		{
+			"name": "Ritual Ascension",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/50.png"
+			}
+		},
+		{
+			"name": "Braid Cutting",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/51.png"
+			}
+		},
+		{
+			"name": "Dark Moon Greatsword",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/52.png"
+			}
+		},
+		{
+			"name": "Ensoul Puppet",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/53.png"
+			}
+		},
+		{
+			"name": "Great Jar",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Artifact Creature — Golem Warrior",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/54.png"
+			}
+		},
+		{
+			"name": "Ashen Remains",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Spirit Wolf",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/55.png"
+			}
+		},
+		{
+			"name": "Haligtree Knight",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Knight",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/56.png"
+			}
+		},
+		{
+			"name": "Fingercreeper",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Finger Spider",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/57.png"
+			}
+		},
+		{
+			"name": "D, Hunter of the Dead",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/58.png"
+			}
+		},
+		{
+			"name": "Black Knight Captain",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/59.png"
+			}
+		},
+		{
+			"name": "Obscure in Shadow",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/60.png"
+			}
+		},
+		{
+			"name": "Operatic Bat",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Bat",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/61.png"
+			}
+		},
+		{
+			"name": "Winged Crucible Knight",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Beast Knight",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/62.png"
+			}
+		},
+		{
+			"name": "Battlefield Commander",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/63.png"
+			}
+		},
+		{
+			"name": "Nomadic Tribe Warrior",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/64.png"
+			}
+		},
+		{
+			"name": "Redmane Knight",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/65.png"
+			}
+		},
+		{
+			"name": "Blaidd, Loyal Hound",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Creature — Wolf Knight",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/66.png"
+			}
+		},
+		{
+			"name": "To the Three Sisters",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/67.png"
+			}
+		},
+		{
+			"name": "Grafted Warhawk",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/68.png"
+			}
+		},
+		{
+			"name": "Spirit of the Stormhawk",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird Spirit",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/69.png"
+			}
+		},
+		{
+			"name": "Living Jar",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/70.png"
+			}
+		},
+		{
+			"name": "Iron Fist Alexander",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact Creature — Golem",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/71.png"
+			}
+		},
+		{
+			"name": "Alexander's Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/72.png"
+			}
+		},
+		{
+			"name": "Radahn's Meteor",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/73.png"
+			}
+		},
+		{
+			"name": "Seek the Elden Ring",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}",
+			"type": "Sorcery",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/74.png"
+			}
+		},
+		{
+			"name": "Tibia Mariner",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Skeleton Spirit",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/75.png"
+			}
+		},
+		{
+			"name": "Ever-Brilliant Goldmask",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/76.png"
+			}
+		},
+		{
+			"name": "Ensha of Royal Remains",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/77.png"
+			}
+		},
+		{
+			"name": "Roderika and Hewg",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Human Mutant",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/78.png"
+			}
+		},
+		{
+			"name": "The Hornsent, Vengeant",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Legendary Creature — Hornsent Rogue",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/79.png"
+			}
+		},
+		{
+			"name": "Primeval Sorcerer Lusat",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/80.png"
+			}
+		},
+		{
+			"name": "Primeval Sorcerer Azur",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/81.png"
+			}
+		},
+		{
+			"name": "Omenkiller",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/82.png"
+			}
+		},
+		{
+			"name": "War Counselor Iji",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Troll Artificer",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/83.png"
+			}
+		},
+		{
+			"name": "Astel, Star of Darkness",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Creature — Alien Horror",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/84.png"
+			}
+		},
+		{
+			"name": "Vyke, Festering Fingerprint",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/85.png"
+			}
+		},
+		{
+			"name": "Painful Truths",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/86.png"
+			}
+		},
+		{
+			"name": "Ruinous Encounter",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/87.png"
+			}
+		},
+		{
+			"name": "Vulgar Militiamen",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Horror Rogue",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/88.png"
+			}
+		},
+		{
+			"name": "Wandering Nobles",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Zombie Noble",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/89.png"
+			}
+		},
+		{
+			"name": "Imp Statue",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/90.png"
+			}
+		},
+		{
+			"name": "Commander Gaius",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Albinauric Knight",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/91.png"
+			}
+		},
+		{
+			"name": "Devonia, of the Crucible",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Human Beast Knight",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/92.png"
+			}
+		},
+		{
+			"name": "Virgin Abduction",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/93.png"
+			}
+		},
+		{
+			"name": "Bayle's Tyranny",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/94.png"
+			}
+		},
+		{
+			"name": "Wraith Caller",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Horror Cleric",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/95.png"
+			}
+		},
+		{
+			"name": "Hornsent Inquisition",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/96.png"
+			}
+		},
+		{
+			"name": "Fia's Embrace",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/97.png"
+			}
+		},
+		{
+			"name": "Godwyn's Fall",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/98.png"
+			}
+		},
+		{
+			"name": "Feeding the Haligtree",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/99.png"
+			}
+		},
+		{
+			"name": "Miquella's Needle Knight",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/100.png"
+			}
+		},
+		{
+			"name": "Golden Hippopotamus",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Hippo",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/101.png"
+			}
+		},
+		{
+			"name": "Nox Spirits",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit Cleric",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/102.png"
+			}
+		},
+		{
+			"name": "Those United in Common Cause",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/103.png"
+			}
+		},
+		{
+			"name": "Marika's Crucifixion",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/104.png"
+			}
+		},
+		{
+			"name": "Golden Epitaph",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/105.png"
+			}
+		},
+		{
+			"name": "Cleanrot Knight",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Human Knight",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/106.png"
+			}
+		},
+		{
+			"name": "Fire Monk",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard Monk",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/107.png"
+			}
+		},
+		{
+			"name": "Thorn Sorcerer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Horror Warlock",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/108.png"
+			}
+		},
+		{
+			"name": "Sisters of Rot",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/109.png"
+			}
+		},
+		{
+			"name": "Fire Knight's Greatsword",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/110.png"
+			}
+		},
+		{
+			"name": "Dragonbolt Blessing",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Rune Aura",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/111.png"
+			}
+		},
+		{
+			"name": "Waterfowl Dance",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Instant",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/112.png"
+			}
+		},
+		{
+			"name": "Midra's Madness",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/113.png"
+			}
+		},
+		{
+			"name": "War Against the Giants",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/114.png"
+			}
+		},
+		{
+			"name": "March to Caelid",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/115.png"
+			}
+		},
+		{
+			"name": "Secret Away",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/116.png"
+			}
+		},
+		{
+			"name": "Champion's Blessing",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/117.png"
+			}
+		},
+		{
+			"name": "Dominula Celebrant",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Performer",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/118.png"
+			}
+		},
+		{
+			"name": "Spirit Jellyfish",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Spirit Jellyfish",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/119.png"
+			}
+		},
+		{
+			"name": "Ranni's Preceptor",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/120.png"
+			}
+		},
+		{
+			"name": "Dragonkin Spirit",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Spirit Dragon",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/121.png"
+			}
+		},
+		{
+			"name": "Carian Retaliation",
+			"rarity": "common",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/122.png"
+			}
+		},
+		{
+			"name": "Twin Moons",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/123.png"
+			}
+		},
+		{
+			"name": "Ranni the Witch",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Demigod",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/124.png"
+			}
+		},
+		{
+			"name": "Destiny Portends",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/125.png"
+			}
+		},
+		{
+			"name": "Hallowhorn Communion",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/126.png"
+			}
+		},
+		{
+			"name": "Carian Knight",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard Knight",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/127.png"
+			}
+		},
+		{
+			"name": "Albinauric Archer",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Albinauric Archer",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/128.png"
+			}
+		},
+		{
+			"name": "Ancestral Follower",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Giant Cleric",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/129.png"
+			}
+		},
+		{
+			"name": "Albinauric Duo",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Albinauric Warrior",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/130.png"
+			}
+		},
+		{
+			"name": "Forager Brood",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Insect Scout",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/131.png"
+			}
+		},
+		{
+			"name": "Grafted Scion",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Mutant Warrior",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/132.png"
+			}
+		},
+		{
+			"name": "Horned Warrior",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Hornsent Warrior",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/133.png"
+			}
+		},
+		{
+			"name": "Soldjars of Fortune",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Golem Soldier",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/134.png"
+			}
+		},
+		{
+			"name": "Wandering Merchant",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/135.png"
+			}
+		},
+		{
+			"name": "Soldier of Godrick",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/136.png"
+			}
+		},
+		{
+			"name": "Wise Turtle",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Turtle",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/137.png"
+			}
+		},
+		{
+			"name": "Walking Mausoleum",
+			"rarity": "rare",
+			"mana_cost": "{12}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/138.png"
+			}
+		},
+		{
+			"name": "Wormface",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Horror",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/139.png"
+			}
+		},
+		{
+			"name": "Scadutree's Thorns",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/140.png"
+			}
+		},
+		{
+			"name": "Duskborn's Presence",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/141.png"
+			}
+		},
+		{
+			"name": "Groundswell",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/142.png"
+			}
+		},
+		{
+			"name": "Profound Holiness",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/143.png"
+			}
+		},
+		{
+			"name": "Claymore",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/144.png"
+			}
+		},
+		{
+			"name": "Godslayer's Greatsword",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/145.png"
+			}
+		},
+		{
+			"name": "Table of Lost Grace",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/146.png"
+			}
+		},
+		{
+			"name": "Starscourge Radahn",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Creature — Demigod",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/147.png"
+			}
+		},
+		{
+			"name": "Tree Sentinel",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/148.png"
+			}
+		},
+		{
+			"name": "Gift of Madness",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/149.png"
+			}
+		},
+		{
+			"name": "Hyetta, Blind Maiden",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/150.png"
+			}
+		},
+		{
+			"name": "Miriel, Pastor of Vows",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Turtle Cleric",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/151.png"
+			}
+		},
+		{
+			"name": "Lichdragon Fortissax",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Legendary Creature — Elder Dragon",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/152.png"
+			}
+		},
+		{
+			"name": "Dragonkin Soldier",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Dragon Soldier",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/153.png"
+			}
+		},
+		{
+			"name": "Adula, Sworn to Ranni",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Legendary Creature — Dragon Wizard",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/154.png"
+			}
+		},
+		{
+			"name": "Dragonlord Placidusax",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{B}{R}",
+			"type": "Legendary Creature — Elder Dragon",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/155.png"
+			}
+		},
+		{
+			"name": "Lesser Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/156.png"
+			}
+		},
+		{
+			"name": "Ghostflame Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Zombie Dragon",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/157.png"
+			}
+		},
+		{
+			"name": "Torrent, Spectral Steed",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Spirit Horse",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/158.png"
+			}
+		},
+		{
+			"name": "Aging Untouchable",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/159.png"
+			}
+		},
+		{
+			"name": "Melina, Kindling Maiden",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Demigod",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/160.png"
+			}
+		},
+		{
+			"name": "Miquella, the Kind",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — God",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/161.png"
+			}
+		},
+		{
+			"name": "Midra's Manse",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/162.png"
+			}
+		},
+		{
+			"name": "Cerulean Coast",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/163.png"
+			}
+		},
+		{
+			"name": "Crucible Knight",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Beast Knight",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/164.png"
+			}
+		},
+		{
+			"name": "The Elden Ring",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/165.png"
+			}
+		},
+		{
+			"name": "Gideon Ofnir, All-Knowing",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/166.png"
+			}
+		},
+		{
+			"name": "Scadutree Avatar",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Plant Avatar",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/167.png"
+			}
+		},
+		{
+			"name": "Comet Azur",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{R}",
+			"type": "Instant",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/168.png"
+			}
+		},
+		{
+			"name": "Metyr, Mother of Fingers",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Creature — Finger Horror",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/169.png"
+			}
+		},
+		{
+			"name": "Romina, Saint of the Bud",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Hornsent Cleric",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/170.png"
+			}
+		},
+		{
+			"name": "Enir-Ilim",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/171.png"
+			}
+		},
+		{
+			"name": "Shadow Keep",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/172.png"
+			}
+		},
+		{
+			"name": "Golem Smith",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Golem Artificer",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/173.png"
+			}
+		},
+		{
+			"name": "Greatswords of Radahn",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/174.png"
+			}
+		},
+		{
+			"name": "The Three Fingers",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Finger Horror",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/175.png"
+			}
+		},
+		{
+			"name": "Blackgaol Knight",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/176.png"
+			}
+		},
+		{
+			"name": "Sorcerer Rogier",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/177.png"
+			}
+		},
+		{
+			"name": "Melina's Sacrifice",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/178.png"
+			}
+		},
+		{
+			"name": "Count Ymir",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/179.png"
+			}
+		},
+		{
+			"name": "Divine Bird Warrior",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Hornsent Bird Warrior",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/180.png"
+			}
+		},
+		{
+			"name": "Bloodhound Knight",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Horror Knight",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/181.png"
+			}
+		},
+		{
+			"name": "Mad Tongue",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard Assassin",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/182.png"
+			}
+		},
+		{
+			"name": "Drake Knight",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/183.png"
+			}
+		},
+		{
+			"name": "Erdtree Burial Watchdog",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Dog Golem",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/184.png"
+			}
+		},
+		{
+			"name": "Dryleaf Dane",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Monk",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/185.png"
+			}
+		},
+		{
+			"name": "Fire Giant",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Giant",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/186.png"
+			}
+		},
+		{
+			"name": "Epic Encounter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/187.png"
+			}
+		},
+		{
+			"name": "Fia, Deathbed Companion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/188.png"
+			}
+		},
+		{
+			"name": "The Loathsome Dung Eater",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/189.png"
+			}
+		},
+		{
+			"name": "Nepheli Loux",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/190.png"
+			}
+		},
+		{
+			"name": "Millicent, Flowering Valkyrie",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/191.png"
+			}
+		},
+		{
+			"name": "Radagon, King Consort",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — God",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/192.png"
+			}
+		},
+		{
+			"name": "Royal Revenant",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Spider Horror",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/193.png"
+			}
+		},
+		{
+			"name": "Secret Rite",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/194.png"
+			}
+		},
+		{
+			"name": "Spirit-Calling Snail",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Spirit Snail",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/195.png"
+			}
+		},
+		{
+			"name": "Needle Knight Leda",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/196.png"
+			}
+		},
+		{
+			"name": "Sir Moore",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Insect Knight",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/197.png"
+			}
+		},
+		{
+			"name": "Sir Ansbach",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/198.png"
+			}
+		},
+		{
+			"name": "Rya, Volcano Manor Scout",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Snake Scout",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/199.png"
+			}
+		},
+		{
+			"name": "Loretta, Haligtree Knight",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Albinauric Knight",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/200.png"
+			}
+		},
+		{
+			"name": "Spoken Echoes",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/201.png"
+			}
+		},
+		{
+			"name": "Ancestor Spirit",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Elk Spirit",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/202.png"
+			}
+		},
+		{
+			"name": "Rellana, Twin Moon Knight",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Human Wizard Knight",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/203.png"
+			}
+		},
+		{
+			"name": "Thiollier, in Sweet Sleep",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/204.png"
+			}
+		},
+		{
+			"name": "Dearest Nanaya",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/205.png"
+			}
+		},
+		{
+			"name": "St. Trina",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Demigod",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/206.png"
+			}
+		},
+		{
+			"name": "Midra, Lord of Frenzied Flame",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Hornsent Avatar",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/207.png"
+			}
+		},
+		{
+			"name": "The Gate of Divinity",
+			"rarity": "mythic",
+			"mana_cost": "{10}",
+			"type": "Legendary Artifact",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/208.png"
+			}
+		},
+		{
+			"name": "Minor Erdtree",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/209.png"
+			}
+		},
+		{
+			"name": "Miquella's Love",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/210.png"
+			}
+		},
+		{
+			"name": "Marika Shatters the Ring",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/211.png"
+			}
+		},
+		{
+			"name": "Bathed in Gold",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/212.png"
+			}
+		},
+		{
+			"name": "Redmane Freyja",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/213.png"
+			}
+		},
+		{
+			"name": "Putrescent Knight",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Skeleton Knight",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/214.png"
+			}
+		},
+		{
+			"name": "White Mask Varre",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Doctor",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/215.png"
+			}
+		},
+		{
+			"name": "The Elden Beast",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Elder Beast God",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/216.png"
+			}
+		},
+		{
+			"name": "Thousand Year Voyage",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/217.png"
+			}
+		},
+		{
+			"name": "Bell Bearing Hunter",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/218.png"
+			}
+		},
+		{
+			"name": "Ancient Tomb",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Land",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/219.png"
+			}
+		},
+		{
+			"name": "Death Rite Bird",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Bird Skeleton Horror",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/220.png"
+			}
+		},
+		{
+			"name": "Blackguard Boggart",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/221.png"
+			}
+		},
+		{
+			"name": "Sellen, Graven Witch",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/222.png"
+			}
+		},
+		{
+			"name": "Radahn's Return",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/223.png"
+			}
+		},
+		{
+			"name": "Purge Without Grace",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/224.png"
+			}
+		},
+		{
+			"name": "Seeking the Crosses",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/225.png"
+			}
+		},
+		{
+			"name": "Sword Monument",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/226.png"
+			}
+		},
+		{
+			"name": "Dragon Communion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment — Rune Aura",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/227.png"
+			}
+		},
+		{
+			"name": "Condemnation of Midra",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/228.png"
+			}
+		},
+		{
+			"name": "War of the Shattering",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/229.png"
+			}
+		},
+		{
+			"name": "Black Knife",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/230.png"
+			}
+		},
+		{
+			"name": "Empyrean Cocoon",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/231.png"
+			}
+		},
+		{
+			"name": "Sword of Night and Flame",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/232.png"
+			}
+		},
+		{
+			"name": "Mend the Elden Ring",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/233.png"
+			}
+		},
+		{
+			"name": "Millicent's Journey",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/234.png"
+			}
+		},
+		{
+			"name": "Hornsent Grandam",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Hornsent Cleric",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/235.png"
+			}
+		},
+		{
+			"name": "A Tarnished of No Renown",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Creature — Human",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/236.png"
+			}
+		},
+		{
+			"name": "Light of Miquella",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/237.png"
+			}
+		},
+		{
+			"name": "Godskin Apostle",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Horror Cleric",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/238.png"
+			}
+		},
+		{
+			"name": "The Radahn Festival",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/239.png"
+			}
+		},
+		{
+			"name": "Ancient Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Elder Dragon",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/240.png"
+			}
+		},
+		{
+			"name": "Radagon is Marika",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/241.png"
+			}
+		},
+		{
+			"name": "Mohg, Lord of Blood",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Mutant Demigod",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/242.png"
+			}
+		},
+		{
+			"name": "Rune Bear",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Bear",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/243.png"
+			}
+		},
+		{
+			"name": "Kindreds of Rot",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Insect Cleric",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/244.png"
+			}
+		},
+		{
+			"name": "The Haligtree",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/245.png"
+			}
+		},
+		{
+			"name": "Giant-Crusher",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/246.png"
+			}
+		},
+		{
+			"name": "The Erdtree",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/247.png"
+			}
+		},
+		{
+			"name": "Orb Cleric",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Orb Cleric",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/248.png"
+			}
+		},
+		{
+			"name": "Marika's Hammer",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/249.png"
+			}
+		},
+		{
+			"name": "Furnace Golem",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/250.png"
+			}
+		},
+		{
+			"name": "Becoming a Mother",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/251.png"
+			}
+		},
+		{
+			"name": "Seize the Stars",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/252.png"
+			}
+		},
+		{
+			"name": "Old Hero of Zamor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Spirit Warrior",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/253.png"
+			}
+		},
+		{
+			"name": "Radagon's Absolution",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/254.png"
+			}
+		},
+		{
+			"name": "Fall of the Eternal City",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Instant",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/255.png"
+			}
+		},
+		{
+			"name": "Mired in Despair",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/256.png"
+			}
+		},
+		{
+			"name": "Misbegotten Warrior",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Mutant Warrior",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/257.png"
+			}
+		},
+		{
+			"name": "Diallos, of House Hoslow",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/258.png"
+			}
+		},
+		{
+			"name": "Visions of Flame",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/259.png"
+			}
+		},
+		{
+			"name": "Founding Rain of Stars",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/260.png"
+			}
+		},
+		{
+			"name": "Ranni's Wedding",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/261.png"
+			}
+		},
+		{
+			"name": "War with Liurnia",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Instant",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/262.png"
+			}
+		},
+		{
+			"name": "Vyke's Torment",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/263.png"
+			}
+		},
+		{
+			"name": "Greater Brilliance",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/264.png"
+			}
+		},
+		{
+			"name": "The Two Fingers",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Finger Horror",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/265.png"
+			}
+		},
+		{
+			"name": "Lady Tanith",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/266.png"
+			}
+		},
+		{
+			"name": "Swordhand of Night",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/267.png"
+			}
+		},
+		{
+			"name": "Show of Strength",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/268.png"
+			}
+		},
+		{
+			"name": "New Life from Death",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/269.png"
+			}
+		},
+		{
+			"name": "Knowledge Capture",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/270.png"
+			}
+		},
+		{
+			"name": "Fleeting Microcosm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/271.png"
+			}
+		},
+		{
+			"name": "Bloodhound's Fang",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/272.png"
+			}
+		},
+		{
+			"name": "New Life Grows",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/273.png"
+			}
+		},
+		{
+			"name": "Miquella's Sacrifice",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/274.png"
+			}
+		},
+		{
+			"name": "Sealing the Rune of Death",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Instant",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/275.png"
+			}
+		},
+		{
+			"name": "Valkyrie's Prosthetic",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/276.png"
+			}
+		},
+		{
+			"name": "Unloved and Unwanted",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{B}{G}",
+			"type": "Instant",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/277.png"
+			}
+		},
+		{
+			"name": "Weave the Scarlet Rot",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/278.png"
+			}
+		},
+		{
+			"name": "Rennala's Amber Egg",
+			"rarity": "mythic",
+			"mana_cost": "{U}{U}",
+			"type": "Legendary Artifact",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/279.png"
+			}
+		},
+		{
+			"name": "Challenge of the Ring",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/280.png"
+			}
+		},
+		{
+			"name": "Golden Seeds",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/281.png"
+			}
+		},
+		{
+			"name": "City of Nox",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/282.png"
+			}
+		},
+		{
+			"name": "Forge of the Giants",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/283.png"
+			}
+		},
+		{
+			"name": "Leyndell, Royal Capital",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/284.png"
+			}
+		},
+		{
+			"name": "Mountaintops of the Giants",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/285.png"
+			}
+		},
+		{
+			"name": "Eternal City",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/286.png"
+			}
+		},
+		{
+			"name": "Raya Lucaria Academy",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/287.png"
+			}
+		},
+		{
+			"name": "Stormveil Castle",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/288.png"
+			}
+		},
+		{
+			"name": "The First Step",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/289.png"
+			}
+		},
+		{
+			"name": "Deeproot Depths",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/290.png"
+			}
+		},
+		{
+			"name": "Grand Cloister",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/291.png"
+			}
+		},
+		{
+			"name": "Ruin-Strewn Precipice",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/292.png"
+			}
+		},
+		{
+			"name": "Siofra River",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/293.png"
+			}
+		},
+		{
+			"name": "Demigod",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Demigod",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/294.png"
+			}
+		},
+		{
+			"name": "Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/295.png"
+			}
+		},
+		{
+			"name": "Shard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Shard",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/296.png"
+			}
+		},
+		{
+			"name": "Knight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Knight",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/297.png"
+			}
+		},
+		{
+			"name": "Weapon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Equipment",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/298.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/299.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/300.png"
+			}
+		},
+		{
+			"name": "Tanith's Knight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Knight",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/301.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/302.png"
+			}
+		},
+		{
+			"name": "Skeleton",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Skeleton",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/303.png"
+			}
+		},
+		{
+			"name": "Blood",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Blood",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/304.png"
+			}
+		},
+		{
+			"name": "Finger Spider",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Finger Spider",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/305.png"
+			}
+		},
+		{
+			"name": "Plant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Plant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/306.png"
+			}
+		},
+		{
+			"name": "Everywhere",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Land",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/307.png"
+			}
+		},
+		{
+			"name": "Dragon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Dragon",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/308.png"
+			}
+		},
+		{
+			"name": "Wizard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wizard",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/309.png"
+			}
+		},
+		{
+			"name": "Meteorite",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/310.png"
 			}
 		},
 		{
@@ -3287,7 +3117,7 @@
 			"type": "Token Enchantment — Saga",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/321.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/311.png"
 			}
 		},
 		{
@@ -3297,7 +3127,7 @@
 			"type": "Emblem",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/322.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/312.png"
 			}
 		},
 		{
@@ -3307,7 +3137,7 @@
 			"type": "Emblem",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/323.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/313.png"
 			}
 		},
 		{
@@ -3317,7 +3147,7 @@
 			"type": "Legendary Land",
 			"collector_number": "316",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/324.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/314.png"
 			}
 		},
 		{
@@ -3327,7 +3157,7 @@
 			"type": "Sorcery",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/325.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/315.png"
 			}
 		},
 		{
@@ -3337,7 +3167,7 @@
 			"type": "Creature — Treefolk Avatar Horror",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/326.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/316.png"
 			}
 		},
 		{
@@ -3347,7 +3177,7 @@
 			"type": "Legendary Creature — Beast Citizen",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/327.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/317.png"
 			}
 		},
 		{
@@ -3357,7 +3187,7 @@
 			"type": "Creature — Hornsent Assassin",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/328.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/318.png"
 			}
 		},
 		{
@@ -3367,7 +3197,7 @@
 			"type": "Creature — Spirit Knight",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/329.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/319.png"
 			}
 		},
 		{
@@ -3377,7 +3207,7 @@
 			"type": "Creature — Human Wizard Monk",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/330.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/320.png"
 			}
 		},
 		{
@@ -3387,7 +3217,7 @@
 			"type": "Legendary Creature — Demigod Avatar",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/331.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/321.png"
 			}
 		},
 		{
@@ -3397,7 +3227,7 @@
 			"type": "Creature — Hornsent Warrior",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/332.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/322.png"
 			}
 		},
 		{
@@ -3407,7 +3237,7 @@
 			"type": "Artifact — Food",
 			"collector_number": "295",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/333.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/323.png"
 			}
 		},
 		{
@@ -3417,7 +3247,7 @@
 			"type": "Legendary Creature — Avatar",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/334.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/324.png"
 			}
 		},
 		{
@@ -3427,7 +3257,7 @@
 			"type": "Creature — Human Samurai",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/335.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/325.png"
 			}
 		},
 		{
@@ -3437,7 +3267,7 @@
 			"type": "Legendary Creature — Hag Cleric",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/336.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/326.png"
 			}
 		},
 		{
@@ -3447,7 +3277,7 @@
 			"type": "Enchantment",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/337.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/327.png"
 			}
 		},
 		{
@@ -3457,7 +3287,7 @@
 			"type": "Instant",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/338.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/328.png"
 			}
 		},
 		{
@@ -3467,7 +3297,7 @@
 			"type": "Creature — Alien Beast",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/339.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/329.png"
 			}
 		},
 		{
@@ -3477,7 +3307,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/340.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/330.png"
 			}
 		},
 		{
@@ -3487,7 +3317,7 @@
 			"type": "Creature — Human Performer",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/341.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/331.png"
 			}
 		},
 		{
@@ -3497,7 +3327,7 @@
 			"type": "Artifact Creature — Golem Wizard",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/342.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/332.png"
 			}
 		},
 		{
@@ -3507,7 +3337,7 @@
 			"type": "Enchantment",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/343.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/333.png"
 			}
 		},
 		{
@@ -3517,7 +3347,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/344.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/334.png"
 			}
 		},
 		{
@@ -3527,7 +3357,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https://provocativemtg.github.io/sets/TLB-files/img/345.png"
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/335.png"
 			}
 		},
 		{
@@ -3537,7 +3367,207 @@
 			"type": "Artifact Creature — Gargoyle",
 			"collector_number": "278",
 			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/336.png"
+			}
+		},
+		{
+			"name": "Malenia, the Severed",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Demigod",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/337.png"
+			}
+		},
+		{
+			"name": "Malenia, Goddess of Rot",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Creature — God",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/338.png"
+			}
+		},
+		{
+			"name": "Rennala of Caria",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/339.png"
+			}
+		},
+		{
+			"name": "Rennala, Queen of the Moon",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/340.png"
+			}
+		},
+		{
+			"name": "Messmer, the Impaler",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Demigod",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/341.png"
+			}
+		},
+		{
+			"name": "Base Serpent Messmer",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Creature — Serpent Demigod",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/342.png"
+			}
+		},
+		{
+			"name": "Godfrey, First Elden Lord",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Demigod",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/343.png"
+			}
+		},
+		{
+			"name": "Hoarah Loux, Warrior",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/344.png"
+			}
+		},
+		{
+			"name": "Godrick, the Grafted",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Demigod",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/345.png"
+			}
+		},
+		{
+			"name": "Godrick, the Golden",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Creature — Demigod",
+			"collector_number": "148",
+			"image_uris": {
 				"en": "https://provocativemtg.github.io/sets/TLB-files/img/346.png"
+			}
+		},
+		{
+			"name": "Gurranq, Beast Clergyman",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Beast Cleric",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/347.png"
+			}
+		},
+		{
+			"name": "Maliketh, the Black Blade",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Creature — Beast Warrior",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/348.png"
+			}
+		},
+		{
+			"name": "Margit, the Fell Omen",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Mutant Demigod",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/349.png"
+			}
+		},
+		{
+			"name": "Morgott, the Omen King",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Creature — Mutant Demigod",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/350.png"
+			}
+		},
+		{
+			"name": "Promised Consort Radahn",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Demigod",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/351.png"
+			}
+		},
+		{
+			"name": "Radahn, Consort of Miquella",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Creature — Demigod",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/352.png"
+			}
+		},
+		{
+			"name": "Godwyn, First to Fall",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Demigod",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/353.png"
+			}
+		},
+		{
+			"name": "Godwyn, Prince of Death",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Creature — Zombie Demigod",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/354.png"
+			}
+		},
+		{
+			"name": "God-Devouring Serpent",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Serpent",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/355.png"
+			}
+		},
+		{
+			"name": "Rykard, Lord of Blasphemy",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Creature — Serpent Demigod",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://provocativemtg.github.io/sets/TLB-files/img/356.png"
 			}
 		}
 	]
@@ -3551,17 +3581,7 @@
 	1 Patches, the Untethered
 	2 Bayle the Dread
 	2 Mimic Tear
-	1 Malenia, the Severed
-	1 Rennala of Caria
-	1 Messmer, the Impaler
-	1 Godfrey, First Elden Lord
-	1 Godrick, the Grafted
-	1 Gurranq, Beast Clergyman
-	1 Margit, the Fell Omen
-	1 Promised Consort Radahn
-	1 Godwyn, First to Fall
 	2 Divine Beast Dancing Lion
-	1 God-Devouring Serpent
 	1 Marika, God-Queen
 	2 Shaman Village
 	2 Ritual Ascension
@@ -3660,6 +3680,26 @@
 	2 Frenzied Merchant
 	2 Blade of Destined Death
 	1 Black Blade Kindred
+	1 Malenia, the Severed
+	1 Malenia, Goddess of Rot
+	1 Rennala of Caria
+	1 Rennala, Queen of the Moon
+	1 Messmer, the Impaler
+	1 Base Serpent Messmer
+	1 Godfrey, First Elden Lord
+	1 Hoarah Loux, Warrior
+	1 Godrick, the Grafted
+	1 Godrick, the Golden
+	1 Gurranq, Beast Clergyman
+	1 Maliketh, the Black Blade
+	1 Margit, the Fell Omen
+	1 Morgott, the Omen King
+	1 Promised Consort Radahn
+	1 Radahn, Consort of Miquella
+	1 Godwyn, First to Fall
+	1 Godwyn, Prince of Death
+	1 God-Devouring Serpent
+	1 Rykard, Lord of Blasphemy
 [uncommon(3)]
 	4 Morgott Takes Leyndell
 	4 Discovery of the Dark Moon
@@ -3682,9 +3722,9 @@
 	4 Primeval Sorcerer Azur
 	4 War Counselor Iji
 	4 Astel, Star of Darkness
+	4 Painful Truths
 	4 Commander Gaius
 	4 Devonia, of the Crucible
-	4 Virgin Abduction
 	4 Bayle's Tyranny
 	4 Waterfowl Dance
 	4 Secret Away
@@ -3814,10 +3854,10 @@
 	8 Living Jar
 	8 Alexander's Strike
 	8 Omenkiller
-	8 Join the Mohgwyn Dynasty
 	8 Vulgar Militiamen
 	8 Wandering Nobles
 	8 Imp Statue
+	8 Virgin Abduction
 	8 Wraith Caller
 	8 Hornsent Inquisition
 	8 Fia's Embrace
@@ -3908,10 +3948,10 @@
 	8 Living Jar
 	8 Alexander's Strike
 	8 Omenkiller
-	8 Join the Mohgwyn Dynasty
 	8 Vulgar Militiamen
 	8 Wandering Nobles
 	8 Imp Statue
+	8 Virgin Abduction
 	8 Wraith Caller
 	8 Hornsent Inquisition
 	8 Fia's Embrace
@@ -4000,18 +4040,8 @@
 	12 Abductor Virgin
 	12 Red Wolf of Radagon
 	12 Guardian Golem
-	1 Malenia, the Severed
-	1 Rennala of Caria
-	1 Messmer, the Impaler
-	1 Godfrey, First Elden Lord
-	1 Godrick, the Grafted
-	1 Gurranq, Beast Clergyman
-	1 Margit, the Fell Omen
-	1 Promised Consort Radahn
-	1 Godwyn, First to Fall
 	2 Divine Beast Dancing Lion
 	6 Godwyn's Death Knight
-	1 God-Devouring Serpent
 	6 Leyndell Knight
 	1 Marika, God-Queen
 	2 Shaman Village
@@ -4052,14 +4082,14 @@
 	6 War Counselor Iji
 	6 Astel, Star of Darkness
 	2 Vyke, Festering Fingerprint
-	12 Join the Mohgwyn Dynasty
+	6 Painful Truths
 	2 Ruinous Encounter
 	12 Vulgar Militiamen
 	12 Wandering Nobles
 	12 Imp Statue
 	6 Commander Gaius
 	6 Devonia, of the Crucible
-	6 Virgin Abduction
+	12 Virgin Abduction
 	6 Bayle's Tyranny
 	12 Wraith Caller
 	12 Hornsent Inquisition
@@ -4282,6 +4312,26 @@
 	2 Frenzied Merchant
 	2 Blade of Destined Death
 	1 Black Blade Kindred
+	1 Malenia, the Severed
+	1 Malenia, Goddess of Rot
+	1 Rennala of Caria
+	1 Rennala, Queen of the Moon
+	1 Messmer, the Impaler
+	1 Base Serpent Messmer
+	1 Godfrey, First Elden Lord
+	1 Hoarah Loux, Warrior
+	1 Godrick, the Grafted
+	1 Godrick, the Golden
+	1 Gurranq, Beast Clergyman
+	1 Maliketh, the Black Blade
+	1 Margit, the Fell Omen
+	1 Morgott, the Omen King
+	1 Promised Consort Radahn
+	1 Radahn, Consort of Miquella
+	1 Godwyn, First to Fall
+	1 Godwyn, Prince of Death
+	1 God-Devouring Serpent
+	1 Rykard, Lord of Blasphemy
 [wildcard(1)]
 	15 Morgott Takes Leyndell
 	15 Discovery of the Dark Moon
@@ -4322,18 +4372,8 @@
 	6 Abductor Virgin
 	6 Red Wolf of Radagon
 	6 Guardian Golem
-	4 Malenia, the Severed
-	4 Rennala of Caria
-	4 Messmer, the Impaler
-	4 Godfrey, First Elden Lord
-	4 Godrick, the Grafted
-	4 Gurranq, Beast Clergyman
-	4 Margit, the Fell Omen
-	4 Promised Consort Radahn
-	4 Godwyn, First to Fall
 	7 Divine Beast Dancing Lion
 	15 Godwyn's Death Knight
-	4 God-Devouring Serpent
 	15 Leyndell Knight
 	4 Marika, God-Queen
 	7 Shaman Village
@@ -4374,14 +4414,14 @@
 	15 War Counselor Iji
 	15 Astel, Star of Darkness
 	7 Vyke, Festering Fingerprint
-	6 Join the Mohgwyn Dynasty
+	15 Painful Truths
 	7 Ruinous Encounter
 	6 Vulgar Militiamen
 	6 Wandering Nobles
 	6 Imp Statue
 	15 Commander Gaius
 	15 Devonia, of the Crucible
-	15 Virgin Abduction
+	6 Virgin Abduction
 	15 Bayle's Tyranny
 	6 Wraith Caller
 	6 Hornsent Inquisition
@@ -4604,3 +4644,23 @@
 	7 Frenzied Merchant
 	7 Blade of Destined Death
 	4 Black Blade Kindred
+	4 Malenia, the Severed
+	4 Malenia, Goddess of Rot
+	4 Rennala of Caria
+	4 Rennala, Queen of the Moon
+	4 Messmer, the Impaler
+	4 Base Serpent Messmer
+	4 Godfrey, First Elden Lord
+	4 Hoarah Loux, Warrior
+	4 Godrick, the Grafted
+	4 Godrick, the Golden
+	4 Gurranq, Beast Clergyman
+	4 Maliketh, the Black Blade
+	4 Margit, the Fell Omen
+	4 Morgott, the Omen King
+	4 Promised Consort Radahn
+	4 Radahn, Consort of Miquella
+	4 Godwyn, First to Fall
+	4 Godwyn, Prince of Death
+	4 God-Devouring Serpent
+	4 Rykard, Lord of Blasphemy

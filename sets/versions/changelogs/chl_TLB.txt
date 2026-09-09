@@ -1,4 +1,827 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Painful Truths added.
+Malenia, Goddess of Rot added.
+Rennala, Queen of the Moon added.
+Base Serpent Messmer added.
+Hoarah Loux, Warrior added.
+Godrick, the Golden added.
+Maliketh, the Black Blade added.
+Morgott, the Omen King added.
+Radahn, Consort of Miquella added.
+Godwyn, Prince of Death added.
+Rykard, Lord of Blasphemy added.
+
+Join the Mohgwyn Dynasty removed.
+
+Morgott Takes Leyndell
+rules_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+Create two 1/1 white Soldier creature tokens.
+II — You gain 1 life for each creature you control.
+III — This Saga deals X damage to up to one target creature or planeswalker, where X is the number of creatures you control. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I — Create two 1/1 white Soldier creature tokens.
+II — You gain 1 life for each creature you control.
+III — This Saga deals X damage to up to one target creature or planeswalker, where X is the number of creatures you control.
+special_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+Create two 1/1 white Soldier creature tokens.
+II — You gain 1 life for each creature you control.
+III — This Saga deals X damage to up to one target creature or planeswalker, where X is the number of creatures you control. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I — Create two 1/1 white Soldier creature tokens.
+II — You gain 1 life for each creature you control.
+III — This Saga deals X damage to up to one target creature or planeswalker, where X is the number of creatures you control.
+
+Discovery of the Dark Moon
+
+Placidusax's Ruin
+rules_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+This Saga deals 2 damage to any target.
+II — Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.
+III — Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I — This Saga deals 2 damage to any target.
+II — Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.
+III — Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary.
+special_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+This Saga deals 2 damage to any target.
+II — Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.
+III — Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I — This Saga deals 2 damage to any target.
+II — Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.
+III — Whenever you cast a Dragon spell this turn, copy it. The copy isn't legendary.
+
+Rennala's Studies
+
+Abandon Everything
+rules_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I, II, III — You draw X cards and lose X life, where X is the number of lore counters on this Saga.
+​
+​ => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I, II, III — You draw X cards and lose X life, where X is the number of lore counters on this Saga.
+special_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I, II, III — You draw X cards and lose X life, where X is the number of lore counters on this Saga.
+​
+​ => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I, II, III — You draw X cards and lose X life, where X is the number of lore counters on this Saga.
+
+Crumbling Farum Azula
+rules_text: As this land enters, you may behold a Dragon. Otherwise, this land enters tapped. [i](To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)[/i]
+{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle. => As this land enters, you may behold a Dragon. If you don't, this land enters tapped and you gain 1 life. [i](To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)[/i]
+{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+
+Fanged Imp
+rules_text: When this creature dies, draw a card. => When this creature dies, you draw a card and lose 1 life.
+
+Igon, Drake Warrior
+
+Crystalian
+
+Take Up Grafting
+rules_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I, II — Put a +1/+1 counter on target creature you control.
+III — Put a +1/+1 counter on each creature you control with a counter on it.
+​ => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I, II — Put a +1/+1 counter on target creature you control.
+III — Put a +1/+1 counter on each creature you control with a counter on it.
+special_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I, II — Put a +1/+1 counter on target creature you control.
+III — Put a +1/+1 counter on each creature you control with a counter on it.
+​ => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I, II — Put a +1/+1 counter on target creature you control.
+III — Put a +1/+1 counter on each creature you control with a counter on it.
+
+Night of Black Knives
+
+Black Knife Assassin
+
+Sellen's Triumph
+
+Patches, the Untethered
+
+Tarnished Recusant
+
+Tarnished of the Badlands
+
+Tarnished Sorcerer
+
+Tarnished Lightseeker
+
+Tarnished Bandit
+
+Tarnished of the Crucible
+
+Tarnished Godhunter
+
+Tarnished Cultist
+
+Tarnished Prisoner
+
+Tarnished Bloodhound
+
+Glintstone Dragon
+
+Erdtree Avatar
+
+Ancient Dragon's Lightning
+
+Banished Knight
+
+Hero of the Fringes
+
+Dragon Cult Priestess
+
+Seeker of Runes
+
+Baleful Shadow
+
+Bayle the Dread
+
+Mimic Tear
+
+Finlay's Aid
+
+Night's Cavalry
+
+Abductor Virgin
+
+Red Wolf of Radagon
+pt: 5/3 => 5/4
+
+Guardian Golem
+
+Divine Beast Dancing Lion
+
+Godwyn's Death Knight
+
+Leyndell Knight
+
+Marika, God-Queen
+
+Shaman Village
+
+Destined Death
+
+Ritual Ascension
+
+Braid Cutting
+rules_text: Choose one —
+• Exile target enchantment.
+• Exile target player's graveyard.
+• Prevent all damage that would be dealt to you this turn. => Choose one —
+• Exile target artifact.
+• Exile target player's graveyard.
+• Prevent all damage that would be dealt to you this turn.
+
+Dark Moon Greatsword
+
+Ensoul Puppet
+
+Great Jar
+
+Ashen Remains
+
+Haligtree Knight
+
+Fingercreeper
+
+D, Hunter of the Dead
+
+Black Knight Captain
+
+Obscure in Shadow
+
+Operatic Bat
+
+Winged Crucible Knight
+
+Battlefield Commander
+
+Nomadic Tribe Warrior
+
+Redmane Knight
+
+Blaidd, Loyal Hound
+
+To the Three Sisters
+
+Grafted Warhawk
+
+Spirit of the Stormhawk
+
+Living Jar
+
+Iron Fist Alexander
+
+Alexander's Strike
+
+Radahn's Meteor
+
+Seek the Elden Ring
+
+Tibia Mariner
+
+Ever-Brilliant Goldmask
+
+Ensha of Royal Remains
+
+Roderika and Hewg
+
+The Hornsent, Vengeant
+
+Primeval Sorcerer Lusat
+
+Primeval Sorcerer Azur
+
+Omenkiller
+
+War Counselor Iji
+
+Astel, Star of Darkness
+
+Vyke, Festering Fingerprint
+
+Ruinous Encounter
+
+Vulgar Militiamen
+
+Wandering Nobles
+
+Imp Statue
+
+Commander Gaius
+
+Devonia, of the Crucible
+
+Virgin Abduction
+cost: {4}{B} => {2}{B}
+rules_text: Return target creature card from your graveyard to the battlefield. You may have each player sacrifice a creature. => Target creature gets -3/-3 until end of turn. Create a Shard token. [i](It's an enchantment with “{2}, Sacrifice this token: Scry 1, then draw a card.”)[/i]
+
+Bayle's Tyranny
+rules_text: As an additional cost to cast this spell, you may pay {3} and behold a Dragon. [i](To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)[/i]
+Bayle's Tyranny deals 1 damage to each opponent and each creature they control. If this spell's additional cost was paid, create a 4/4 red Dragon creature token with flying. => As an additional cost to cast this spell, you may pay {3} and behold a Dragon. [i](Choose a Dragon you control or reveal a Dragon card from your hand.)[/i]
+Bayle's Tyranny deals 1 damage to each opponent and each creature they control. If this spell's additional cost was paid, create a 4/4 red Dragon creature token with flying.
+
+Wraith Caller
+
+Hornsent Inquisition
+
+Fia's Embrace
+
+Godwyn's Fall
+
+Feeding the Haligtree
+
+Miquella's Needle Knight
+
+Golden Hippopotamus
+
+Nox Spirits
+
+Those United in Common Cause
+
+Marika's Crucifixion
+
+Golden Epitaph
+
+Cleanrot Knight
+
+Fire Monk
+
+Thorn Sorcerer
+
+Sisters of Rot
+
+Fire Knight's Greatsword
+
+Dragonbolt Blessing
+
+Waterfowl Dance
+
+Midra's Madness
+
+War Against the Giants
+
+March to Caelid
+
+Secret Away
+
+Champion's Blessing
+
+Dominula Celebrant
+
+Spirit Jellyfish
+
+Ranni's Preceptor
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+When this creature enters, tap up to one target creature and put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i] => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+When this creature enters, tap target creature an opponent controls and put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+
+Dragonkin Spirit
+
+Carian Retaliation
+
+Twin Moons
+
+Ranni the Witch
+
+Destiny Portends
+
+Hallowhorn Communion
+
+Carian Knight
+
+Albinauric Archer
+
+Ancestral Follower
+
+Albinauric Duo
+
+Forager Brood
+
+Grafted Scion
+
+Horned Warrior
+
+Soldjars of Fortune
+
+Wandering Merchant
+
+Soldier of Godrick
+
+Wise Turtle
+
+Walking Mausoleum
+
+Wormface
+
+Scadutree's Thorns
+
+Duskborn's Presence
+
+Groundswell
+
+Profound Holiness
+
+Claymore
+rules_text: When this Equipment enters, create a 1/1 white Soldier creature token, then attach this Equipment to it.
+Equipped creature gets +1/+0.
+Equip {1} [i]({1}: Attach to target creature you control. Equip only as a sorcery.)[/i] => When this Equipment enters, create a 1/1 white Soldier creature token, then attach this Equipment to it.
+Equipped creature gets +1/+0.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Godslayer's Greatsword
+rules_text: When this Equipment enters, you may pay 2 life. When you do, exile target creature.
+Equipped creature gets +2/+0 and has menace.
+Equip—Pay 2 life. [i](Pay 2 life: Attach to target creature you control. Equip only as a sorcery.)[/i] => When this Equipment enters, you may pay 2 life. When you do, exile target creature or planeswalker an opponent controls.
+Equipped creature gets +2/+0 and has menace.
+Equip—Pay 2 life. [i](Pay 2 life: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Table of Lost Grace
+
+Starscourge Radahn
+
+Tree Sentinel
+
+Gift of Madness
+
+Hyetta, Blind Maiden
+
+Miriel, Pastor of Vows
+
+Lichdragon Fortissax
+
+Dragonkin Soldier
+
+Adula, Sworn to Ranni
+
+Dragonlord Placidusax
+
+Lesser Dragon
+
+Ghostflame Dragon
+
+Torrent, Spectral Steed
+
+Aging Untouchable
+rules_text: Remembrance {1}{B}{B} [i]({1}{B}{B}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following abilities. Activate only as a sorcery.)[/i]
+During your turn, this creature has deathtouch and indestructible.
+Whenever this creature deals combat damage to a player, draw that many cards. => Remembrance {2}{B}{B} [i]({2}{B}{B}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following abilities. Activate only as a sorcery.)[/i]
+Deathtouch, indestructible
+This creature can't block.
+Whenever this creature deals combat damage to a player, draw that many cards.
+pt: 1/3 => 1/1
+
+Melina, Kindling Maiden
+
+Miquella, the Kind
+
+Midra's Manse
+
+Cerulean Coast
+
+Crucible Knight
+
+The Elden Ring
+rules_text: Indestructible
+Whenever you cast a legendary spell, draw a card.
+{T}: Add one mana of any color. If this mana is spent to cast a creature spell and you spent five colors of mana to cast spells this turn, that creature enters with five additional +1/+1 counters on it. => Indestructible
+Whenever you cast a legendary spell, draw a card.
+{T}: Add one mana of any color. If this mana is spent to cast a creature spell, that creature enters with an additional +1/+1 counter on it for each color of mana spent to cast it.
+
+Gideon Ofnir, All-Knowing
+
+Scadutree Avatar
+
+Comet Azur
+
+Metyr, Mother of Fingers
+
+Romina, Saint of the Bud
+
+Enir-Ilim
+
+Shadow Keep
+
+Golem Smith
+rules_text: {T}, Sacrifice an artifact: Return target Equipment card from your graveyard to the battlefield with a finality counter on it. [i](If a permanent with a finality counter on it would die, exile it instead.)[/i] => {T}, Sacrifice an artifact: Return target Equipment card from your graveyard to the battlefield with a finality counter on it. Activate only as a sorcery. [i](If a permanent with a finality counter on it would die, exile it instead.)[/i]
+
+Greatswords of Radahn
+
+The Three Fingers
+
+Blackgaol Knight
+
+Sorcerer Rogier
+
+Melina's Sacrifice
+
+Count Ymir
+
+Divine Bird Warrior
+
+Bloodhound Knight
+
+Mad Tongue
+
+Drake Knight
+
+Erdtree Burial Watchdog
+
+Dryleaf Dane
+
+Fire Giant
+
+Epic Encounter
+
+Fia, Deathbed Companion
+
+The Loathsome Dung Eater
+
+Nepheli Loux
+
+Millicent, Flowering Valkyrie
+
+Radagon, King Consort
+
+Royal Revenant
+
+Secret Rite
+
+Spirit-Calling Snail
+
+Needle Knight Leda
+rules_text: When Needle Knight Leda enters, you may sacrifice a creature or token. When you do, exile target creature an opponent controls until Needle Knight Leda leaves the battlefield.
+Whenever another creature you control dies, put a +1/+1 counter on Needle Knight Leda. => When Needle Knight Leda enters, you may sacrifice a creature. When you do, exile target creature an opponent controls until Needle Knight Leda leaves the battlefield.
+Whenever another creature you control dies, put a +1/+1 counter on Needle Knight Leda.
+
+Sir Moore
+
+Sir Ansbach
+
+Rya, Volcano Manor Scout
+
+Loretta, Haligtree Knight
+
+Spoken Echoes
+
+Ancestor Spirit
+
+Rellana, Twin Moon Knight
+
+Thiollier, in Sweet Sleep
+
+Dearest Nanaya
+
+St. Trina
+
+Midra, Lord of Frenzied Flame
+
+The Gate of Divinity
+
+Minor Erdtree
+
+Miquella's Love
+
+Marika Shatters the Ring
+
+Bathed in Gold
+
+Redmane Freyja
+
+Putrescent Knight
+
+White Mask Varre
+
+The Elden Beast
+
+Thousand Year Voyage
+cost: {4}{U} => {5}{U}
+
+Bell Bearing Hunter
+
+Ancient Tomb
+
+Death Rite Bird
+
+Blackguard Boggart
+
+Sellen, Graven Witch
+
+Radahn's Return
+
+Purge Without Grace
+
+Seeking the Crosses
+
+Sword Monument
+
+Dragon Communion
+
+Condemnation of Midra
+
+War of the Shattering
+
+Black Knife
+
+Empyrean Cocoon
+
+Sword of Night and Flame
+
+Mend the Elden Ring
+
+Millicent's Journey
+
+Hornsent Grandam
+
+A Tarnished of No Renown
+
+Light of Miquella
+
+Godskin Apostle
+
+The Radahn Festival
+
+Ancient Dragon
+
+Radagon is Marika
+
+Mohg, Lord of Blood
+
+Rune Bear
+
+Kindreds of Rot
+
+The Haligtree
+
+Giant-Crusher
+
+The Erdtree
+
+Orb Cleric
+
+Marika's Hammer
+rules_text: Equipped creature gets +2/+2 if it's legendary.
+Whenever equipped creature deals combat damage to a player, exile cards from the top of your library until you exile a nonland card. Create a colorless Saga enchantment token with “r{3} — You may cast the exiled card without paying its mana cost.”
+Equip {1} => Equipped creature gets +2/+2 and has trample if it's legendary.
+Whenever equipped creature deals combat damage to a player, exile cards from the top of your library until you exile a nonland card. Create a colorless Saga enchantment token with “r{3} — You may cast the exiled card without paying its mana cost.”
+Equip {1}
+
+Furnace Golem
+
+Becoming a Mother
+
+Seize the Stars
+
+Old Hero of Zamor
+
+Radagon's Absolution
+
+Fall of the Eternal City
+
+Mired in Despair
+
+Misbegotten Warrior
+
+Diallos, of House Hoslow
+
+Visions of Flame
+
+Founding Rain of Stars
+
+Ranni's Wedding
+
+War with Liurnia
+
+Vyke's Torment
+
+Greater Brilliance
+
+The Two Fingers
+
+Lady Tanith
+
+Swordhand of Night
+
+Show of Strength
+
+New Life from Death
+
+Knowledge Capture
+
+Fleeting Microcosm
+
+Bloodhound's Fang
+
+New Life Grows
+
+Miquella's Sacrifice
+
+Sealing the Rune of Death
+
+Valkyrie's Prosthetic
+rules_text: Each creature you control with power greater than its base power has vigilance.
+Equipped creature gets +2/+1.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i] => When this Equipment enters, attach it to target creature you control.
+Equipped creature has lifelink.
+Whenever equipped creature attacks, put a +1/+1 counter on another target attacking creature with lesser power.
+Equip {3}
+
+Unloved and Unwanted
+
+Weave the Scarlet Rot
+
+Rennala's Amber Egg
+
+Challenge of the Ring
+
+Golden Seeds
+rules_text: At the beginning of your end step, you may exile a creature you control. When you do, choose one —
+• Return it to the battlefield under its owner's control.
+• Search your library for a creature card with mana value equal to 1 plus the exiled creature's mana value, put it onto the battlefield, then shuffle. => At the beginning of your end step, you may exile a creature you control. If you do, choose one —
+• Return it to the battlefield under its owner's control.
+• Search your library for a creature card with mana value equal to 1 plus the exiled creature's mana value, put it onto the battlefield, then shuffle.
+
+City of Nox
+
+Forge of the Giants
+
+Leyndell, Royal Capital
+
+Mountaintops of the Giants
+
+Eternal City
+
+Raya Lucaria Academy
+
+Stormveil Castle
+
+The First Step
+
+Deeproot Depths
+
+Grand Cloister
+
+Ruin-Strewn Precipice
+
+Siofra River
+
+Demigod
+
+Soldier
+
+Shard
+
+Knight
+
+Weapon
+
+Treasure
+
+Food
+
+Tanith's Knight
+
+Spirit
+
+Skeleton
+
+Blood
+
+Finger Spider
+
+Plant
+
+Everywhere
+
+Dragon
+
+Wizard
+
+Meteorite
+
+Marika's Hammer's Saga token
+
+Patches
+
+Dark Moon Greatsword
+
+The Scadutree
+
+Embrace Thine Oblivion
+
+Putrid Avatar
+
+Boc, the Seamster
+rules_text: Whenever an Equipment you control enters, you may attach it to another target creature you control. => {T}: Add X {W}, where X is Boc's power. Spend this mana only cast Equipment spells or activate equip abilities.
+
+Hornsent Curseblade
+
+Mausoleum Knight
+
+Fire Prelate
+
+Melina of Destined Death
+pt: 3/3 => 3/4
+
+Divine Beast Warrior
+
+Shabriri Grapes
+
+Shabriri, Chaos Incarnate
+
+Finger Hunter
+
+Enia, Finger Reader Crone
+
+Twin Empyrean Bond
+
+Long March of the Tarnished
+
+Fallingstar Beast
+
+Messmer's Helm
+rules_text: Whenever a source you control deals noncombat damage to an opponent, put a +1/+1 counter on equipped creature.
+Remove three +1/+1 counters from equipped creature: Add {R}{R}{R}. Until end of turn, you don't lose this mana as steps and phases end.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i] => Whenever you cast a noncreature spell, put a +1/+1 counter on equipped creature.
+Remove three +1/+1 counters from equipped creature: Add {R}{R}{R}. Until end of turn, you don't lose this mana as steps and phases end.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Dancer of Ranah
+
+School of Graven Mages
+
+Tanith Devours Rykard
+rules_text: Creatures you control are Food artifacts in addition to their other types and have “{2}, Sacrifice this permanent: You gain 3 life.”
+Whenever you sacrifice a Food, draw a card. => Creatures you control are Food artifacts in addition to their other types and have “{2}, {T}, Sacrifice this permanent: You gain 3 life.”
+Whenever you sacrifice a Food, draw a card.
+
+Frenzied Merchant
+
+Blade of Destined Death
+
+Black Blade Kindred
+
+Malenia, the Severed
+
+Rennala of Caria
+
+Messmer, the Impaler
+
+Godfrey, First Elden Lord
+
+Godrick, the Grafted
+
+Gurranq, Beast Clergyman
+
+Margit, the Fell Omen
+
+Promised Consort Radahn
+
+Godwyn, First to Fall
+
+God-Devouring Serpent
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Ensoul Puppet added.

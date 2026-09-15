@@ -5,7 +5,7 @@
 			<name>TLB</name>
 			<longname>The Lands Between</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-09</releasedate>
+			<releasedate>2026-09-15</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -792,20 +792,21 @@ Whenever this creature attacks, add {R} equal to its power. Until end of turn, y
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Godwyn&apos;s Death Knight</name>
-			<text>Remembrance {3}{B} ({3}{B}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)
-Discard a card: This creature gains indestructible until end of turn. Tap it. Activate only once each turn.</text>
-			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/TLB-files/img/45.png" num="102">TLB</set>
+			<name>Death Knight</name>
+			<text>Remembrance {1}{B} ({1}{B}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)
+As long as an opponent has 10 or less life, this creature has lifelink.
+Pay 3 life: Put a +1/+1 counter on this creature. Activate only during your turn.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/TLB-files/img/45.png" num="95">TLB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Skeleton Horror Knight</type>
 				<maintype>Creature</maintype>
-				<manacost>1B</manacost>
-				<cmc>2</cmc>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>3/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -866,7 +867,7 @@ Whenever Marika attacks, you may have her name become Radagon of the Golden Orde
 			<name>Destined Death</name>
 			<text>Exile target creature or planeswalker.
 Converge — You gain 1 life for each color of mana spent to cast this spell.</text>
-			<set rarity="common" picurl="https://provocativemtg.github.io/sets/TLB-files/img/49.png" num="95">TLB</set>
+			<set rarity="common" picurl="https://provocativemtg.github.io/sets/TLB-files/img/49.png" num="96">TLB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1706,7 +1707,7 @@ Menace
 			<name>Fia&apos;s Embrace</name>
 			<text>Target creature gains your choice of lifelink or indestructible until end of turn.
 Create a Shard token. (It&apos;s an enchantment with &quot;{2}, Sacrifice this token: Scry 1, then draw a card.&quot;)</text>
-			<set rarity="common" picurl="https://provocativemtg.github.io/sets/TLB-files/img/97.png" num="98">TLB</set>
+			<set rarity="common" picurl="https://provocativemtg.github.io/sets/TLB-files/img/97.png" num="99">TLB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1741,7 +1742,7 @@ When this enchantment enters, each opponent sacrifices a creature.
 			<name>Feeding the Haligtree</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature or token.
 Draw two cards.</text>
-			<set rarity="common" picurl="https://provocativemtg.github.io/sets/TLB-files/img/99.png" num="96">TLB</set>
+			<set rarity="common" picurl="https://provocativemtg.github.io/sets/TLB-files/img/99.png" num="97">TLB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2536,7 +2537,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 			<text>When this Equipment enters, you may pay 2 life. When you do, exile target creature or planeswalker an opponent controls.
 Equipped creature gets +2/+0 and has menace.
 Equip—Pay 2 life. (Pay 2 life: Attach to target creature you control. Equip only as a sorcery.)</text>
-			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/TLB-files/img/145.png" num="101">TLB</set>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/TLB-files/img/145.png" num="102">TLB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2602,7 +2603,7 @@ If a triggered ability of an equipped creature you control or an Equipment you c
 		<card>
 			<name>Gift of Madness</name>
 			<text>Target opponent reveals all but one card in their hand. You choose a nonland card revealed this way. That player discards that card.</text>
-			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/TLB-files/img/149.png" num="100">TLB</set>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/TLB-files/img/149.png" num="101">TLB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2749,7 +2750,7 @@ Whenever a creature dealt damage by this creature this turn dies, put a +1/+1 co
 			<text>Flying
 Whenever this creature attacks, you may exile target card from a graveyard. If you do, this creature gets +X/+0 until end of turn, where X is the exiled card&apos;s mana value.
 When this creature dies, you may put a creature card exiled with it onto the battlefield under your control.</text>
-			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/TLB-files/img/157.png" num="99">TLB</set>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/TLB-files/img/157.png" num="100">TLB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2782,21 +2783,19 @@ When this creature dies, you may put a creature card exiled with it onto the bat
 		</card>
 		<card>
 			<name>Aging Untouchable</name>
-			<text>Remembrance {2}{B}{B} ({2}{B}{B}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following abilities. Activate only as a sorcery.)
-Deathtouch, indestructible
-This creature can&apos;t block.
-Whenever this creature deals combat damage to a player, draw that many cards.</text>
-			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/TLB-files/img/159.png" num="88">TLB</set>
+			<text>Remembrance {3}{B} ({3}{B}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)
+Discard a card: This creature gains indestructible until end of turn. Tap it. Activate only once each turn.</text>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/TLB-files/img/159.png" num="88">TLB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Horror</type>
 				<maintype>Creature</maintype>
-				<manacost>1BB</manacost>
-				<cmc>3</cmc>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>1/1</pt>
+				<pt>3/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3289,7 +3288,7 @@ Whenever this creature attacks, target creature an opponent controls with lesser
 			<name>Fia, Deathbed Companion</name>
 			<text>Deathtouch
 At the beginning of your end step, each opponent loses life equal to the number of tapped creatures you control.</text>
-			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/TLB-files/img/188.png" num="97">TLB</set>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/TLB-files/img/188.png" num="98">TLB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

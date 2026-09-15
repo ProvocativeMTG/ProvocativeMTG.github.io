@@ -451,11 +451,11 @@
 			}
 		},
 		{
-			"name": "Godwyn's Death Knight",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
+			"name": "Death Knight",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Skeleton Horror Knight",
-			"collector_number": "102",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://provocativemtg.github.io/sets/TLB-files/img/45.png"
 			}
@@ -495,7 +495,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Instant",
-			"collector_number": "95",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://provocativemtg.github.io/sets/TLB-files/img/49.png"
 			}
@@ -975,7 +975,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "98",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://provocativemtg.github.io/sets/TLB-files/img/97.png"
 			}
@@ -995,7 +995,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "96",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://provocativemtg.github.io/sets/TLB-files/img/99.png"
 			}
@@ -1455,7 +1455,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "101",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://provocativemtg.github.io/sets/TLB-files/img/145.png"
 			}
@@ -1495,7 +1495,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "100",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://provocativemtg.github.io/sets/TLB-files/img/149.png"
 			}
@@ -1575,7 +1575,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Zombie Dragon",
-			"collector_number": "99",
+			"collector_number": "100",
 			"image_uris": {
 				"en": "https://provocativemtg.github.io/sets/TLB-files/img/157.png"
 			}
@@ -1592,8 +1592,8 @@
 		},
 		{
 			"name": "Aging Untouchable",
-			"rarity": "rare",
-			"mana_cost": "{1}{B}{B}",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
 			"type": "Creature — Horror",
 			"collector_number": "88",
 			"image_uris": {
@@ -1885,7 +1885,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Human Cleric",
-			"collector_number": "97",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://provocativemtg.github.io/sets/TLB-files/img/188.png"
 			}
@@ -3552,6 +3552,7 @@
 	2 Bayle the Dread
 	2 Mimic Tear
 	2 Divine Beast Dancing Lion
+	2 Death Knight
 	1 Marika, God-Queen
 	2 Shaman Village
 	2 Ritual Ascension
@@ -3573,7 +3574,6 @@
 	2 Miriel, Pastor of Vows
 	2 Lichdragon Fortissax
 	1 Dragonlord Placidusax
-	2 Aging Untouchable
 	2 Melina, Kindling Maiden
 	1 Miquella, the Kind
 	2 Midra's Manse
@@ -3666,7 +3666,6 @@
 	4 Rennala's Studies
 	4 Igon, Drake Warrior
 	4 Take Up Grafting
-	4 Godwyn's Death Knight
 	4 Leyndell Knight
 	4 Braid Cutting
 	4 Great Jar
@@ -3699,6 +3698,7 @@
 	4 Lesser Dragon
 	4 Ghostflame Dragon
 	4 Torrent, Spectral Steed
+	4 Aging Untouchable
 	4 Golem Smith
 	4 Divine Bird Warrior
 	4 Bloodhound Knight
@@ -4001,7 +4001,7 @@
 	12 Red Wolf of Radagon
 	12 Guardian Golem
 	2 Divine Beast Dancing Lion
-	6 Godwyn's Death Knight
+	2 Death Knight
 	6 Leyndell Knight
 	1 Marika, God-Queen
 	2 Shaman Village
@@ -4115,7 +4115,7 @@
 	6 Lesser Dragon
 	6 Ghostflame Dragon
 	6 Torrent, Spectral Steed
-	2 Aging Untouchable
+	6 Aging Untouchable
 	2 Melina, Kindling Maiden
 	1 Miquella, the Kind
 	2 Midra's Manse
@@ -4323,7 +4323,7 @@
 	6 Red Wolf of Radagon
 	6 Guardian Golem
 	7 Divine Beast Dancing Lion
-	15 Godwyn's Death Knight
+	7 Death Knight
 	15 Leyndell Knight
 	4 Marika, God-Queen
 	7 Shaman Village
@@ -4437,7 +4437,7 @@
 	15 Lesser Dragon
 	15 Ghostflame Dragon
 	15 Torrent, Spectral Steed
-	7 Aging Untouchable
+	15 Aging Untouchable
 	7 Melina, Kindling Maiden
 	4 Miquella, the Kind
 	7 Midra's Manse

@@ -1,4 +1,21 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Death Knight added.
+
+Godwyn's Death Knight removed.
+
+Aging Untouchable
+cost: {1}{B}{B} => {1}{B}
+rules_text: Remembrance {2}{B}{B} [i]({2}{B}{B}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following abilities. Activate only as a sorcery.)[/i]
+Deathtouch, indestructible
+This creature can't block.
+Whenever this creature deals combat damage to a player, draw that many cards. => Remembrance {3}{B} [i]({3}{B}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)[/i]
+Discard a card: This creature gains indestructible until end of turn. Tap it. Activate only once each turn.
+pt: 1/1 => 3/1
+
+
+VERSION 7 CHANGELOG
 ====================
 
 

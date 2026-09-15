@@ -216,12 +216,12 @@
         "position": "127"
     },
     {
-        "card_name": "Aging Untouchable",
-        "number": 88,
+        "card_name": "Black Knife Assassin",
+        "number": 90,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "159"
+        "position": "16"
     },
     {
         "card_name": "Divine Beast Dancing Lion",
@@ -256,12 +256,12 @@
         "position": "179"
     },
     {
-        "card_name": "Black Knife Assassin",
-        "number": 90,
+        "card_name": "Dancer of Ranah",
+        "number": 94,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "16"
+        "position": "331"
     },
     {
         "card_name": "Embrace Thine Oblivion",
@@ -296,12 +296,12 @@
         "position": "220"
     },
     {
-        "card_name": "Dancer of Ranah",
-        "number": 94,
+        "card_name": "Death Knight",
+        "number": 95,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "331"
+        "position": "45"
     },
     {
         "card_name": "Frenzied Merchant",
@@ -536,12 +536,12 @@
         "position": "154"
     },
     {
-        "card_name": "Bloodhound Knight",
-        "number": 92,
+        "card_name": "Aging Untouchable",
+        "number": 88,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "181"
+        "position": "159"
     },
     {
         "card_name": "Bayle's Tyranny",
@@ -576,12 +576,12 @@
         "position": "6"
     },
     {
-        "card_name": "Condemnation of Midra",
-        "number": 93,
-        "shape": "saga",
+        "card_name": "Bloodhound Knight",
+        "number": 92,
+        "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "228"
+        "position": "181"
     },
     {
         "card_name": "Dearest Nanaya",
@@ -616,12 +616,12 @@
         "position": "329"
     },
     {
-        "card_name": "Fia, Deathbed Companion",
-        "number": 97,
-        "shape": "normal",
+        "card_name": "Condemnation of Midra",
+        "number": 93,
+        "shape": "saga",
         "set": "TLB",
         "rotated": false,
-        "position": "188"
+        "position": "228"
     },
     {
         "card_name": "Dragon Communion",
@@ -656,12 +656,12 @@
         "position": "271"
     },
     {
-        "card_name": "Ghostflame Dragon",
-        "number": 99,
+        "card_name": "Fia, Deathbed Companion",
+        "number": 98,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "157"
+        "position": "188"
     },
     {
         "card_name": "Drake Knight",
@@ -696,12 +696,12 @@
         "position": "260"
     },
     {
-        "card_name": "Gift of Madness",
+        "card_name": "Ghostflame Dragon",
         "number": 100,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "149"
+        "position": "157"
     },
     {
         "card_name": "Fire Giant",
@@ -736,12 +736,12 @@
         "position": "270"
     },
     {
-        "card_name": "Godslayer's Greatsword",
+        "card_name": "Gift of Madness",
         "number": 101,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "145"
+        "position": "149"
     },
     {
         "card_name": "Igon, Drake Warrior",
@@ -776,12 +776,12 @@
         "position": "274"
     },
     {
-        "card_name": "Godwyn's Death Knight",
+        "card_name": "Godslayer's Greatsword",
         "number": 102,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
-        "position": "45"
+        "position": "145"
     },
     {
         "card_name": "Lesser Dragon",
@@ -1217,7 +1217,7 @@
     },
     {
         "card_name": "Destined Death",
-        "number": 95,
+        "number": 96,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1257,7 +1257,7 @@
     },
     {
         "card_name": "Feeding the Haligtree",
-        "number": 96,
+        "number": 97,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1297,7 +1297,7 @@
     },
     {
         "card_name": "Fia's Embrace",
-        "number": 98,
+        "number": 99,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,

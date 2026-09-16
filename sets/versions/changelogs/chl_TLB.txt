@@ -1,4 +1,19 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+
+Ancestral Follower
+rules_text: Vigilance
+{T}: Add one mana if any color.
+{4}{G}: Double this creature's power and toughness until end of turn. => Vigilance
+{T}: Add one mana of any color.
+{4}{G}: Double this creature's power and toughness until end of turn.
+
+Promised Consort Radahn
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Death Knight added.

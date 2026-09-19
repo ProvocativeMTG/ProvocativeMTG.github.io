@@ -1,4 +1,226 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Twin Moons added.
+Gideon Ofnir, All-Knowing added.
+Marika's Crucifixion added.
+Divine Beast Dancing Lion added.
+Bayle the Dread added.
+Bell Bearing Hunter added.
+Black Knife Assassin added.
+Carian Knight added.
+Cleanrot Knight added.
+Finlay's Aid added.
+Count Ymir added.
+Crucible Knight added.
+D, Hunter of the Dead added.
+Diallos, of House Hoslow added.
+Embrace Thine Oblivion added.
+Fall of the Eternal City added.
+Godskin Apostle added.
+Hornsent Grandam added.
+Iron Fist Alexander added.
+Lichdragon Fortissax added.
+Light of Miquella added.
+Wise Turtle added.
+Blackguard Boggart added.
+Loretta, Haligtree Knight added.
+Scadutree's Thorns added.
+Scadutree Avatar added.
+Melina, Kindling Maiden added.
+Mend the Elden Ring added.
+Feeding the Haligtree added.
+The Two Fingers added.
+Gift of Madness added.
+The Three Fingers added.
+Midra, Lord of Frenzied Flame added.
+Millicent, Flowering Valkyrie added.
+Minor Erdtree added.
+Mired in Despair added.
+Miriel, Pastor of Vows added.
+Needle Knight Leda added.
+Those United in Common Cause added.
+Needle Knight Leda added.
+Needle Knight Leda added.
+Profound Holiness added.
+Miquella, the Kind added.
+Miquella, the Kind added.
+Marika's Hammer added.
+Putrescent Knight added.
+Radahn's Meteor added.
+Radahn's Return added.
+Rellana, Twin Moon Knight added.
+Romina, Saint of the Bud added.
+Ruinous Encounter added.
+Secret Rite added.
+Seek the Elden Ring added.
+Sorceress Sellen added.
+Sorcerer Rogier added.
+St. Trina added.
+The Loathsome Dung Eater added.
+The Radahn Festival added.
+The Gate of Divinity added.
+War of the Shattering added.
+Kindreds of Rot added.
+Aging Untouchable added.
+Black Knife added.
+Comet Azur added.
+Furnace Golem added.
+Mimic Tear added.
+Greatswords of Radahn added.
+To the Three Sisters added.
+To the Three Sisters added.
+Night of Black Knives added.
+Tree Sentinel added.
+Vyke, Festering Fingerprint added.
+Walking Mausoleum added.
+A Tarnished of No Renown added.
+The Elden Ring added.
+Challenge of the Ring added.
+Dark Moon Greatsword added.
+Dragonlord Placidusax added.
+Golden Seeds added.
+Greater Brilliance added.
+Seize the Stars added.
+Melina of Destined Death added.
+Divine Beast Warrior added.
+Purge Without Grace added.
+The Haligtree added.
+Abandon Everything added.
+Becoming a Mother added.
+Marika Shatters the Ring added.
+Placidusax's Ruin added.
+Radagon is Marika added.
+The Elden Beast added.
+Mad Tongue added.
+Primeval Sorcerer Azur added.
+Primeval Sorcerer Lusat added.
+Dancer of Ranah added.
+School of Graven Mages added.
+Frenzied Merchant added.
+Long March of the Tarnished added.
+Blade of Destined Death added.
+Black Blade Kindred added.
+Twin Empyrean Bond added.
+Melina's Sacrifice added.
+Melina, Kindling Maiden added.
+Mohg, Lord of Blood added.
+Rennala's Amber Egg added.
+The Erdtree added.
+Miquella, the Kind added.
+Midra's Manse added.
+Crumbling Farum Azula added.
+Ancient Dragon's Lightning added.
+Duskborn's Presence added.
+Fanged Imp added.
+Death Rite Bird added.
+A Tarnished of No Renown added.
+Promised Consort Radahn added.
+Messmer, the Impaler added.
+Patches, the Untethered added.
+God-Devouring Serpent added.
+Godfrey, First Elden Lord added.
+Godrick, the Grafted added.
+Godwyn, First to Fall added.
+Death Knight added.
+Death Knight added.
+Malenia, the Severed added.
+Gurranq, Beast Clergyman added.
+Margit, the Fell Omen added.
+Cerulean Coast added.
+City of Nox added.
+Enir-Ilim added.
+Shadow Keep added.
+Shaman Village added.
+The Scadutree added.
+
+Rellana's Cameo removed.
+Dearest Nanaya removed.
+Gideon Ofnir, All Knowing removed.
+Founding Rain of Stars removed.
+Fleeting Microcosm removed.
+
+Marika, God-Queen
+type: Legendary Creature — God Shaman => Legendary Creature — God
+pt: 3/3 => 4/4
+
+Starscourge Radahn
+rules_text: Trample
+When Starscourge Radahn enters or whenever you cast a noncreature spell, create a tapped colorless artifact token named Meteorite with “When this token enters, it deals 2 damage to any target” and “{T}: Add one mana of any color.” => When Starscourge Radahn enters or whenever you cast a noncreature spell, create a tapped colorless artifact token named Meteorite with “When this token enters, it deals 2 damage to any target” and “{T}: Add one mana of any color.”
+
+Carian Retaliation
+rules_text: Counter target spell unless its controller pays {X}.
+Create a Shard token. => Counter target spell unless its controller pays {X}.
+Create a Shard token. [i](It's an enchantment with “{2}, Sacrifice this token: Scry 1, then draw a card.”)[/i]
+
+Blaidd, Loyal Hound
+rules_text: Trample, haste
+Prowess
+When Blaidd enters, you may exile target instant or sorcery card with mana value 3 or less from a graveyard. Copy it. You may cast the copy without paying its mana cost. => Trample, haste
+Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+When Blaidd enters, you may exile target instant or sorcery card with mana value 3 or less from a graveyard. Copy it. You may cast the copy without paying its mana cost.
+
+Bloodhound Knight
+
+Miquella's Sacrifice
+
+Torrent, Spectral Steed
+
+Secret Away
+
+Sir Ansbach
+
+White Mask Varre
+rules_text: Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life. If that creature was legendary, create a Blood token. => Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life. If that creature was legendary, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+
+War with Liurnia
+
+Radagon, King Consort
+rules_text: Trample
+When Radagon dies, if he was a creature, return him to the battlefield. He's a legendary Equipment artifact named Sacred Relic Sword with equip {2} and “Equipped creature gets +X/+X and has trample, where X is the total mana value of legendary permanents you control.” => Trample, haste
+When Radagon dies, if he was a creature, return him to the battlefield. He's a legendary Equipment artifact named Sacred Relic Sword with equip {3} and “Equipped creature has trample and haste and gets +X/+X, where X is the total mana value of legendary permanents you control.”
+
+Vyke's Torment
+rules_text: Cascade
+As long as you have no cards in hand and this card is in your graveyard, it has flashback {B}{R}. => Cascade [i](When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)[/i]
+As long as you have no cards in hand and this card is in your graveyard, it has flashback {B}{R}.
+
+Spoken Echoes
+
+Soldier of Godrick
+
+Roderika and Hewg
+type: Legendary Creature — Mutant Human => Legendary Creature — Human Mutant
+
+Rennala's Studies
+
+Millicent's Journey
+
+Hyetta, Blind Maiden
+
+Metyr, Mother of Fingers
+cost: {5}{U}{B} => {4}{U}{B}
+rules_text: Menace
+When Metyr enters, exile each opponent's graveyard. Create a 1/2 black Finger Spider creature token for each nonland card exiled this way.
+Once during each of your turns, you may cast a card exiled with Metyr and you may spend mana of any type to cast it. => Menace
+When Metyr enters, exile each opponent's graveyard. Create a 1/2 black Finger Spider creature token for each card exiled this way.
+Once during each of your turns, you may play a card exiled with Metyr and you may spend mana of any type to cast it.
+
+Seeking the Crosses
+
+Ancestor Spirit
+rules_text: Flying
+When this creature dies, create a tapped Ancient Tomb token. => Flying
+When this creature dies, create a tapped Ancient Tomb token. [i](It's a land with “{T}: Add {C}{C}. This land deals 2 damage to you.”)[/i]
+
+Ritual Ascension
+
+Bathed in Gold
+
+Rennala of Caria
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

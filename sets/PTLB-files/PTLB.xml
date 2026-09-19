@@ -1,0 +1,3041 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>PTLB</name>
+			<longname>Promos of The Lands Between</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-09-18</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Ranni the Witch</name>
+			<text>At the beginning of your upkeep, surveil 1.
+Once during each of your turns, you may cast an instant or sorcery spell from your graveyard by sacrificing another creature in addition to paying that spell&apos;s other costs. If a spell cast this way would be put into your graveyard, exile it instead.</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/0.png" num="127">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Marika, God-Queen</name>
+			<text>Whenever you cast an enchantment spell, copy it. The copy is a Saga in addition to its other types and has &quot;r{3}— You gain 1 life.&quot; You may choose new targets for the copy. (As that token enters and after your draw step, add a lore counter. Sacrifice after III.)
+Whenever Marika attacks, you may have her name become Radagon of the Golden Order. If you do, put a +1/+1 counter on him for each enchantment you control. Do this only once.</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/1.png" num="115">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Starscourge Radahn</name>
+			<text>When Starscourge Radahn enters or whenever you cast a noncreature spell, create a tapped colorless artifact token named Meteorite with &quot;When this token enters, it deals 2 damage to any target&quot; and &quot;{T}: Add one mana of any color.&quot;</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/2.png" num="133">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost>3UR</manacost>
+				<cmc>5</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Godwyn&apos;s Fall</name>
+			<text>Flash
+When this enchantment enters, each opponent sacrifices a creature.
+{1}{B}, Discard a card, Sacrifice this enchantment: Return target creature card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/3.png" num="52">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Twin Moons</name>
+			<text>Draw a card.
+As long as you&apos;ve cast two or more noncreature spells this turn, this card has flashback {U}. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/4.png" num="42">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Carian Retaliation</name>
+			<text>Counter target spell unless its controller pays {X}.
+Create a Shard token. (It&apos;s an enchantment with &quot;{2}, Sacrifice this token: Scry 1, then draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/5.png" num="25">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XU</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blaidd, Loyal Hound</name>
+			<text>Trample, haste
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When Blaidd enters, you may exile target instant or sorcery card with mana value 3 or less from a graveyard. Copy it. You may cast the copy without paying its mana cost.</text>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/6.png" num="102">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Wolf Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3UR</manacost>
+				<cmc>5</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodhound Knight</name>
+			<text>This creature can&apos;t block.
+Whenever you discard this card or discard another card, you may cast this card from your graveyard.</text>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/7.png" num="46">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Miquella&apos;s Sacrifice</name>
+			<text>Create a token that&apos;s a copy of target creature you control, except it&apos;s a Saga enchantment in addition to its other types and has &quot;r{3} — Scry 2.&quot; (As that token enters and after your draw step, add a lore counter. Sacrifice after III.)</text>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/8.png" num="30">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Torrent, Spectral Steed</name>
+			<text>Whenever you cast a legendary spell, Torrent gains flying until end of turn.</text>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/9.png" num="21">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spirit Horse</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Secret Away</name>
+			<text>This spell costs {2} less to cast if it targets a creature with mana value 4 or less.
+Gain control of target creature until end of turn. Untap it. It gains haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/10.png" num="79">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sir Ansbach</name>
+			<text>When Sir Ansbach enters, you may have each player sacrifice a creature.
+Whenever one or more cards leave your graveyard, you draw a card and lose 1 life. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/11.png" num="61">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gideon Ofnir, All-Knowing</name>
+			<text>Flash
+Whenever an opponent searches their library, create a Shard token. (It&apos;s an enchantment with &quot;{2}, Sacrifice this token: Scry 1, then draw a card.&quot;)
+Whenever you draw a card other than the first one you draw during your first draw step each turn, draw an additional card. This ability triggers only once each turn.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/12.png" num="28">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>White Mask Varre</name>
+			<text>Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life. If that creature was legendary, create a Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/13.png" num="63">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Doctor</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>War with Liurnia</name>
+			<text>Choose one —
+• Draw two cards.
+• War with Liurnia deals 3 damage to any target.</text>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/14.png" num="138">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Radagon, King Consort</name>
+			<text>Trample, haste
+When Radagon dies, if he was a creature, return him to the battlefield. He&apos;s a legendary Equipment artifact named Sacred Relic Sword with equip {3} and &quot;Equipped creature has trample and haste and gets +X/+X, where X is the total mana value of legendary permanents you control.&quot;</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/15.png" num="124">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>3RW</manacost>
+				<cmc>5</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vyke&apos;s Torment</name>
+			<text>Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+As long as you have no cards in hand and this card is in your graveyard, it has flashback {B}{R}.</text>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/16.png" num="136">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spoken Echoes</name>
+			<text>Return up to one target card from your graveyard to your hand. You may put a permanent card with mana value 3 or less from your hand onto the battlefield.</text>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/17.png" num="131">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Soldier of Godrick</name>
+			<text>Whenever another creature you control enters, you may put a +1/+1 counter on it.</text>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/18.png" num="96">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Roderika and Hewg</name>
+			<text>When Roderika and Hewg enter, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
+Whenever an Equipment you control enters, create a 1/1 blue Spirit creature token. Then you may pay {1}. If you do, attach that Equipment to that token.</text>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/19.png" num="129">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rennala&apos;s Studies</name>
+			<text>If it&apos;s your turn, you get an additional upkeep step and an additional draw step after this phase, followed by an additional main phase.</text>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/20.png" num="36">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Millicent&apos;s Journey</name>
+			<text>Discard your hand, then draw a card for each attacking creature you control.</text>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/21.png" num="75">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hyetta, Blind Maiden</name>
+			<text>Whenever you discard a card, exile the top card of your library. You may play that card for as long as you control Hyetta.
+At the beginning of your end step, for each card exiled with Hyetta, put it into your graveyard unless you pay 1 life.</text>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/22.png" num="111">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Metyr, Mother of Fingers</name>
+			<text>Menace
+When Metyr enters, exile each opponent&apos;s graveyard. Create a 1/2 black Finger Spider creature token for each card exiled this way.
+Once during each of your turns, you may play a card exiled with Metyr and you may spend mana of any type to cast it.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/23.png" num="117">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Finger Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4UB</manacost>
+				<cmc>6</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seeking the Crosses</name>
+			<text>If you would gain life, you gain that much life plus 1 instead.
+At the beginning of your end step, if you gained 4 or more life this turn, exile up to one target creature card with mana value 2 or less from your graveyard. If you do, create a token that&apos;s a copy of it.</text>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/24.png" num="17">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ancestor Spirit</name>
+			<text>Flying
+When this creature dies, create a tapped Ancient Tomb token. (It&apos;s a land with &quot;{T}: Add {C}{C}. This land deals 2 damage to you.&quot;)</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/25.png" num="99">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ritual Ascension</name>
+			<text>Converge — Search your library for a black card with mana value less than or equal to the number of colors of mana spent to cast this spell, exile that card, then shuffle. You may cast that card without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/26.png" num="59">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bathed in Gold</name>
+			<text>Cascade, cascade, cascade</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/27.png" num="100">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>WUBRG</manacost>
+				<cmc>5</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Marika&apos;s Crucifixion</name>
+			<text>Flash
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.</text>
+			<set rarity="common" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/28.png" num="7">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Divine Beast Dancing Lion</name>
+			<text>Remembrance {1}{R} ({1}{R}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following abilities. Activate only as a sorcery.)
+Whenever this creature attacks, add {R} equal to its power. Until end of turn, you don&apos;t lose this mana as steps and phases end.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/29.png" num="66">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hornsent Cat Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bayle the Dread</name>
+			<text>Flying, trample
+Whenever Bayle attacks for the first time each turn, you may sacrifice another creature. If you do, untap all attacking creatures you control. After this phase, there is an additional combat phase.
+Whenever another Dragon you control dies, draw two cards.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/30.png" num="101">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bell Bearing Hunter</name>
+			<text>This spell can&apos;t be countered.
+When this creature enters, you may attach target Equipment you control to it.
+Whenever this creature attacks, if its power is greater than its base power, it deals X damage to any target, where X is the difference.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/31.png" num="65">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Black Knife Assassin</name>
+			<text>Deathtouch, lifelink
+Whenever you gain life, each opponent loses 1 life.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/32.png" num="45">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Carian Knight</name>
+			<text>Instant and sorcery spells you cast cost {1} less to cast.
+Whenever you attack, target creature you control gets +X/+0 until end of turn, where X is greatest mana value among noncreature spells you cast this turn.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/33.png" num="24">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cleanrot Knight</name>
+			<text>Haste
+Whenever you activate an ability that targets this creature, copy that ability. You may choose new targets for the copy.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/34.png" num="103">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Finlay&apos;s Aid</name>
+			<text>Return target creature card with mana value 3 or less from your graveyard to the battlefield. You may attach an Aura or Equipment you control to it.</text>
+			<set rarity="common" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/35.png" num="2">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Count Ymir</name>
+			<text>You may look at the top card of your library any time.
+Twice during each of your turns, you may cast a spell from the top of your library. If you cast a permanent spell this way, it gains &quot;When this permanent enters, sacrifice it and create a 1/2 black Finger Spider creature token.&quot;</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/36.png" num="26">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crucible Knight</name>
+			<text>Vigilance, trample
+Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/37.png" num="83">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Beast Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>D, Hunter of the Dead</name>
+			<text>Double strike
+Equip abilities you activate that target D cost {2} less to activate.
+Your opponents can&apos;t cast spells from libraries or graveyards or activate abilities of cards in libraries or in graveyards.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/38.png" num="1">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Diallos, of House Hoslow</name>
+			<text>Flash
+If another nontoken creature would enter and it wasn&apos;t cast, exile it instead.
+{1}, Sacrifice Diallos: Creatures you control gain indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/39.png" num="105">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Embrace Thine Oblivion</name>
+			<text>Choose a number between 1 and 5. Embrace Thine Oblivion deals that much damage to each creature. Excess damage is dealt to you instead. If a creature dealt damage this way would die this turn, exile it instead.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/40.png" num="67">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fall of the Eternal City</name>
+			<text>Counter target activated or triggered ability from a nonland source. If an ability of a creature or planeswalker is countered this way, exile it. Search its controller&apos;s graveyard, hand, and library for any number of cards with the same name and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/41.png" num="108">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Godskin Apostle</name>
+			<text>Lifelink
+Sacrifice a legendary artifact or creature: You draw two cards and lose 2 life. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/42.png" num="109">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hornsent Grandam</name>
+			<text>When this creature enters, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+Whenever you gain life, you may pay {G}. If you do, return target land card from your graveyard to the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/43.png" num="88">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hornsent Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Iron Fist Alexander</name>
+			<text>{1}: Exile target card from a graveyard. If it&apos;s a creature card, put a +1/+1 counter on Iron Fist Alexander. Otherwise, you gain 1 life.
+Whenever Iron Fist Alexander attacks, you may put a land card exiled with him onto the battlefield tapped under your control.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/44.png" num="147">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lichdragon Fortissax</name>
+			<text>Flying, deathtouch, lifelink
+Converge — When Lichdragon Fortissax enters, return target creature card with mana value X or less from your graveyard to the battlefield, where X is twice the number of colors of mana spent to cast this spell. It gains &quot;When you don&apos;t control a Dragon, sacrifice this creature.&quot;</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/45.png" num="54">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Light of Miquella</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Creatures you control get +1/+1.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/46.png" num="112">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wise Turtle</name>
+			<text>Vigilance
+{T}: Add one mana of any color. Activate only if you attacked this turn.</text>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/47.png" num="98">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Turtle</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blackguard Boggart</name>
+			<text>Vigilance
+Whenever Blackguard Boggart enters or attacks, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+{1}, {T}: Add {G} for each token you control.</text>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/48.png" num="81">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Loretta, Haligtree Knight</name>
+			<text>Loretta&apos;s power is equal to the number of nonland permanents you control.
+Whenever you cast a spell with mana value 1, copy it, except the copy isn&apos;t legendary. You may choose new targets for the copy.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/49.png" num="114">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Albinauric Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>*/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scadutree&apos;s Thorns</name>
+			<text>Put a +1/+1 counter on target creature you control if it&apos;s legendary. Then it deals damage equal to its power to target creature or planeswalker an opponent controls.</text>
+			<set rarity="common" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/50.png" num="93">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scadutree Avatar</name>
+			<text>When Scadutree Avatar enters, create a tapped colorless land token named Everywhere that is every basic land type.
+When Scadutree Avatar dies, if it had fewer than two +1/+1 counters on it, return it to the battlefield with one more +1/+1 counter on it.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/51.png" num="92">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Plant Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Melina, Kindling Maiden</name>
+			<text>{T}: Whenever another target creature you control dies this turn, return it to the battlefield under its owner&apos;s control with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/52.png" num="8">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mend the Elden Ring</name>
+			<text>This spell costs {4} less to cast if it targets a permanent card in your graveyard put there from the battlefield this turn.
+Return target permanent card from your graveyard to the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/53.png" num="10">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Feeding the Haligtree</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature or token.
+Draw two cards.</text>
+			<set rarity="common" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/54.png" num="50">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Two Fingers</name>
+			<text>Whenever The Two Fingers attacks, create a Shard token. (It&apos;s an enchantment with &quot;{2}, Sacrifice this token: Scry 1, then draw a card.&quot;)
+Whenever an enchantment you control is put into your graveyard from the battlefield, each opponent sacrifices a creature.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/55.png" num="134">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Finger Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gift of Madness</name>
+			<text>Target opponent reveals all but one card in their hand. You choose a nonland card revealed this way. That player discards that card.</text>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/56.png" num="51">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Three Fingers</name>
+			<text>Your maximum hand size is three.
+At the beginning of your end step, if you have fewer than three cards in hand, draw cards equal to the difference.
+Whenever you discard a nonland card, copy it. You may cast the copy by paying life equal to its mana value rather than pay its mana cost.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/57.png" num="62">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Finger Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Midra, Lord of Frenzied Flame</name>
+			<text>Menace
+When Midra enters, you may discard a card. If you do, target opponent reveals their hand. You choose a nonland card from it or a card from their graveyard. Exile that card.
+Whenever Midra attacks, put a +1/+1 counter on him for each player with three or fewer cards in hand.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/58.png" num="56">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Hornsent Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Millicent, Flowering Valkyrie</name>
+			<text>When Millicent enters, discard up to two cards, then draw that many cards. When you do, put a +1/+1 counter on up to one target creature for each nonland card discarded this way.
+As long as another card left your graveyard this turn, you may cast this card from your graveyard. If you do, Millicent enters with a finality counter on her.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/59.png" num="74">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Minor Erdtree</name>
+			<text>When this enchantment enters, you gain 1 life for each enchantment you control.
+At the beginning of combat on your turn, if your life total is greater than your starting life total, creatures you control get +X/+X until end of turn, where X is the difference.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/60.png" num="11">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mired in Despair</name>
+			<text>Converge — Destroy each nonland permanent with mana value X or less, where X is the number of colors of mana spent to cast this spell.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/61.png" num="121">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Miriel, Pastor of Vows</name>
+			<text>Whenever an enchantment you control enters, draw a card.
+Each modified creature you control with toughness greater than its power assigns combat damage equal to its toughness rather than its power.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/62.png" num="91">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Turtle Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Needle Knight Leda</name>
+			<text>When Needle Knight Leda enters, you may sacrifice a creature or token. When you do, exile target creature an opponent controls until Needle Knight Leda leaves the battlefield.
+Whenever another creature you control dies, put a +1/+1 counter on Needle Knight Leda.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/63.png" num="14">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Those United in Common Cause</name>
+			<text>Choose one —
+• Target creature gets +X/+X until end of turn, where X is the number of creatures you control.
+• Those United in Common Cause deals X damage to target attacking or blocking creature, where X is the number of creatures you control.</text>
+			<set rarity="common" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/64.png" num="20">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Needle Knight Leda</name>
+			<text>When Needle Knight Leda enters, you may sacrifice a creature or token. When you do, exile target creature an opponent controls until Needle Knight Leda leaves the battlefield.
+Whenever another creature you control dies, put a +1/+1 counter on Needle Knight Leda.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/65.png" num="13">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Needle Knight Leda</name>
+			<text>When Needle Knight Leda enters, you may sacrifice a creature or token. When you do, exile target creature an opponent controls until Needle Knight Leda leaves the battlefield.
+Whenever another creature you control dies, put a +1/+1 counter on Needle Knight Leda.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/66.png" num="12">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Profound Holiness</name>
+			<text>When this enchantment enters, reveal the top five cards of your library. You may put up to two legendary cards from among them into your hand and the rest on the bottom of your library in a random order.
+Whenever you cast a legendary spell, create a 0/1 green Plant creature token, then put a +1/+1 counter on each Plant you control.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/67.png" num="15">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Miquella, the Kind</name>
+			<text>At the beginning of your end step, you may return target creature card with mana value 1 or less from your graveyard to the battlefield.
+Nontoken creatures you control with mana value 1 or less get +1/+0 and have &quot;{T}: Add one mana of any color.&quot;</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/68.png" num="120">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Miquella, the Kind</name>
+			<text>At the beginning of your end step, you may return target creature card with mana value 1 or less from your graveyard to the battlefield.
+Nontoken creatures you control with mana value 1 or less get +1/+0 and have &quot;{T}: Add one mana of any color.&quot;</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/69.png" num="119">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Marika&apos;s Hammer</name>
+			<text>Equipped creature gets +2/+2 and has trample if it&apos;s legendary.
+Whenever equipped creature deals combat damage to a player, exile cards from the top of your library until you exile a nonland card. Create a colorless Saga enchantment token with &quot;r{3} — You may cast the exiled card without paying its mana cost.&quot;
+Equip {1}</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/70.png" num="148">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Putrescent Knight</name>
+			<text>Vigilance
+Landfall — Whenever a land you control enters, exile up to one target land card from a graveyard.
+Artifacts, creatures, and lands you control have all activated abilities of land cards exiled with Putrescent Knight.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/71.png" num="123">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Radahn&apos;s Meteor</name>
+			<text>This spell costs {1} less to cast for each creature you control with power greater than its base power.
+Radahn&apos;s Meteor deals X damage to any target.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/72.png" num="78">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XR</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Radahn&apos;s Return</name>
+			<text>Return target creature card from your graveyard to the battlefield. You gain X life and draw X cards, where X is its power.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/73.png" num="126">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4WU</manacost>
+				<cmc>6</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rellana, Twin Moon Knight</name>
+			<text>Ward {1}
+Whenever you cast an instant or sorcery spell with mana value 4 or greater, put two +1/+1 counters on Rellana. If this is the second time this ability has resolved this turn, she deals damage equal to her power to any target.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/74.png" num="128">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Romina, Saint of the Bud</name>
+			<text>Flying
+Whenever you cast a spell, add {R}.
+If you would lose unspent mana, it becomes {G} instead.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/75.png" num="130">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Hornsent Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ruinous Encounter</name>
+			<text>Each player loses half their life, then discards half the cards in their hand, then sacrifices half the permanents they control. Repeat this process once. Round up each time.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/76.png" num="60">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4BBBB</manacost>
+				<cmc>8</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Secret Rite</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a creature card with mana value less than or equal to X plus the sacrificed creature&apos;s mana value, put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/77.png" num="94">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XGG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Seek the Elden Ring</name>
+			<text>Converge — Reveal cards from the top of your library until you reveal X land cards, where X is the number of colors of mana spent to cast this spell. Put those land cards onto the battlefield tapped and the rest on the bottom of your library in a random order. If {W}{U}{B}{R}{G} was spent to cast this spell, untap those lands.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/78.png" num="95">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sorceress Sellen</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever a source you control deals noncombat damage to an opponent, Sorceress Sellen deals that much damage to target creature or planeswalker that player controls.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/79.png" num="80">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sorcerer Rogier</name>
+			<text>{T}: Draw a card, then discard a card.
+Whenever you cast an instant or sorcery spell, untap Sorcerer Rogier.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/80.png" num="39">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>St. Trina</name>
+			<text>If an ability of a tapped permanent you control triggers, that ability triggers an additional time.
+{3}, {T}: Tap another target nonland permanent. If you control it, put three stun counters on it. Otherwise, put one stun counter on it.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/81.png" num="132">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost>GWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>1/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Loathsome Dung Eater</name>
+			<text>Whenever The Loathsome Dung Eater attacks, target permanent card in your graveyard gains dredge 2 until end of turn. (You may return that card from your graveyard to your hand and mill two cards instead of drawing a card.)
+Whenever The Loathsome Dung Eater deals combat damage to a player, you draw a card and lose 1 life.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/82.png" num="113">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Radahn Festival</name>
+			<text>At the beginning of combat on your turn, create a 2/2 white Knight creature token. It gains haste until end of turn.
+Whenever you attack, the next noncreature spell you cast this turn costs {X} less to cast, where X is the number of attacking creatures.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/83.png" num="125">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1URW</manacost>
+				<cmc>4</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Gate of Divinity</name>
+			<text>As an additional cost to cast this spell, you may sacrifice any number of creatures. This spell costs {2} less to cast for each creature sacrificed this way.
+When The Gate of Divinity enters, return target creature card from your graveyard to the battlefield.
+At the beginning of your end step, put a +1/+1 counter on each creature you control if a creature died this turn.</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/84.png" num="145">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>10</manacost>
+				<cmc>10</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>War of the Shattering</name>
+			<text>Destroy all creatures. You may put a creature card with mana value X or less from your hand onto the battlefield, where X is the number of creatures destroyed this way. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/85.png" num="137">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RRWW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Kindreds of Rot</name>
+			<text>Remembrance {G} ({G}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following abilities. Activate only as a sorcery.)
+Whenever this creature deals combat damage to an opponent, they get that many poison counters.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/86.png" num="89">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aging Untouchable</name>
+			<text>Remembrance {3}{B} ({3}{B}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)
+Discard a card: This creature gains indestructible until end of turn. Tap it. Activate only once each turn.</text>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/87.png" num="44">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Black Knife</name>
+			<text>If a creature card would be put into a graveyard from anywhere, exile it instead.
+As long as a card exiled with this Equipment has flying, equipped creature has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, protection, reach, trample, and vigilance.
+Equip {1}</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/88.png" num="140">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Comet Azur</name>
+			<text>Comet Azur deals X damage to any target. If excess damage is dealt this way, draw that many cards.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/89.png" num="104">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XUR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Furnace Golem</name>
+			<text>Menace
+Whenever a creature you control attacks, put a flame counter on this creature.
+If a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus an amount of damage equal to the number of flame counters on this creature instead.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/90.png" num="69">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mimic Tear</name>
+			<text>You may have this creature enter as a copy of a creature you control, except its name is Mimic Tear and it has &quot;If a triggered ability of this creature triggers, that ability triggers an additional time.&quot;</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/91.png" num="29">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Greatswords of Radahn</name>
+			<text>Equipped creature has double strike, trample, and prowess.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/92.png" num="146">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>To the Three Sisters</name>
+			<text>Exile target instant or sorcery card from your graveyard. Copy it three times. You may cast each of the copies. (You do not have to cast all three of the copies. You still pay each of their costs.)</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/93.png" num="41">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>To the Three Sisters</name>
+			<text>Exile target instant or sorcery card from your graveyard. Copy it three times. You may cast each of the copies. (You do not have to cast all three of the copies. You still pay each of their costs.)</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/94.png" num="40">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Night of Black Knives</name>
+			<text>b
+I — Each creature gets -X/-X until end of turn.
+II — Each opponent discards a card.
+III — Each opponent chooses a creature card in their graveyard. Put it onto the battlefield under your control.</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/95.png" num="57">PTLB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>X2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tree Sentinel</name>
+			<text>When this creature enters, create a Weapon token. (It&apos;s an Equipment artifact with equip {2} and &quot;Equipped creature gets +1/+1.&quot;)
+If a triggered ability of an equipped creature you control or an Equipment you control attached to that creature triggers, that ability triggers an additional time for each Equipment attached to that creature.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/96.png" num="22">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vyke, Festering Fingerprint</name>
+			<text>You may look at the top card of your library any time.
+Once during each of your turns, you may cast a spell from the top of your library by discarding a card in addition to that spell&apos;s other costs.
+Whenever you attack, creatures you control get +1/+0 until end of turn if you have one or fewer cards in hand.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/97.png" num="135">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Walking Mausoleum</name>
+			<text>Trample
+When this creature dies, create four 3/3 black Demigod creature tokens.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/98.png" num="149">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>12</manacost>
+				<cmc>12</cmc>
+				<pt>12/12</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>A Tarnished of No Renown</name>
+			<text>When this creature enters, create a Weapon token. (It&apos;s an Equipment artifact with equip {2} and &quot;Equipped creature gets +1/+1.&quot;)
+{W}: If this creature is equipped, it becomes a Human Warrior with base power and toughness 3/3.
+{5}{W}{W}: If this creature is a Warrior, it becomes a God Warrior with base power and toughness 7/7 and protection from everything except Auras and Equipment you control.</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/99.png" num="19">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Elden Ring</name>
+			<text>Indestructible
+Whenever you cast a legendary spell, draw a card.
+{T}: Add one mana of any color. If this mana is spent to cast a creature spell, that creature enters with an additional +1/+1 counter on it for each color of mana spent to cast it.</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/100.png" num="143">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Challenge of the Ring</name>
+			<text>Whenever a nontoken creature you control dies, you may return it to the battlefield face down under its owner&apos;s control. It&apos;s a Forest land. (It has no other types or abilities.)
+Landfall — Whenever a land you control enters, create a 3/3 black Demigod creature token.</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/101.png" num="82">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dark Moon Greatsword</name>
+			<text>Equipped creature has protection from Gods and gets +X/+0, where X is the number of instant and sorcery cards in your graveyard.
+Whenever equipped creature deals 10 or more combat damage, you get an emblem with &quot;You may cast instant and sorcery spells without paying their mana costs.&quot;
+Equip {2}</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/102.png" num="142">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dragonlord Placidusax</name>
+			<text>Flying
+Whenever an opponent casts a noncreature spell, create a 4/4 red Dragon creature token with flying.
+Discard two cards: Dragonlord Placidusax phases out.</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/103.png" num="106">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4UBR</manacost>
+				<cmc>7</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Golden Seeds</name>
+			<text>At the beginning of your end step, you may exile a creature you control. When you do, choose one—
+• Return it to the battlefield under its owner&apos;s control.
+• Search your library for a creature card with mana value equal to 1 plus the exiled creature&apos;s mana value, put it onto the battlefield, then shuffle.</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/104.png" num="110">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Greater Brilliance</name>
+			<text>Return target permanent card from your graveyard to the battlefield. You may have it become an X/X God creature in addition to its other types, where X is your life total.</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/105.png" num="4">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4WWW</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Seize the Stars</name>
+			<text>Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Return all nonland permanents that didn&apos;t enter this turn to their owners&apos; hands.</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/106.png" num="38">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Melina of Destined Death</name>
+			<text>Deathtouch
+During your turn, Melina has first strike.
+Whenever Melina deals combat damage to a player, you draw a card and lose 1 life. Then if you have more cards in hand than that player, they lose life equal to the difference.</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/107.png" num="116">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>WUB</manacost>
+				<cmc>3</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Divine Beast Warrior</name>
+			<text>Remembrance {1}{G} ({1}{G}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)
+Whenever a player casts a spell with mana value greater than this creature&apos;s power, put a +1/+1 counter on this creature.</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/108.png" num="84">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hornsent Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Purge Without Grace</name>
+			<text>I — Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+II — Add {R}{R}.
+III — Until end of turn, if a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead.</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/109.png" num="77">PTLB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Haligtree</name>
+			<text>{T}: Add {C}.
+{2}, {T}, Exile a creature card from your graveyard: Create a 1/1 white Orb Cleric creature token. It can&apos;t block this turn.
+{4}, {T}, Exile a land card from your graveyard: Create a tapped colorless land token named Everywhere that is every basic land type.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/110.png" num="155">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Abandon Everything</name>
+			<text>b
+I, II, III — You draw X cards and lose X life, where X is the number of lore counters on this Saga.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/111.png" num="43">PTLB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Becoming a Mother</name>
+			<text>I — Exile target instant or sorcery card from a graveyard.
+II — Create X 1/2 black Finger Spider creature tokens, where X is the total mana value of cards exiled with this Saga.
+III — Copy each card exiled with this Saga. You may cast the copies without paying their mana costs.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/112.png" num="23">PTLB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Marika Shatters the Ring</name>
+			<text>I — Choose artifact or enchantment. Exile all other permanents of the chosen type.
+II — Search your library for a land card, put it onto the battlefield, then shuffle.
+III — Whenever target creature deals combat damage to a player this turn, draw that many cards.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/113.png" num="90">PTLB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Placidusax&apos;s Ruin</name>
+			<text>I — This Saga deals 2 damage to any target.
+II — Search your library for a Dragon card, exile it, then shuffle. Until the end of your next turn, you may play that card.
+III — Whenever you cast a Dragon spell this turn, copy it. The copy isn&apos;t legendary.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/114.png" num="76">PTLB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Radagon is Marika</name>
+			<text>I — Exile up to one target nonland permanent card with mana value 1 or less from your graveyard. Create a token that&apos;s a copy of it.
+II — Create a token that&apos;s a copy of target non-Saga token you control.
+III — Creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/115.png" num="16">PTLB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Elden Beast</name>
+			<text>Flying, vigilance
+Whenever you cast a spell, you may pay {W}{U}{B}{R}{G} any number of times. If you do, copy that spell that many times. You may choose new targets for the copies.
+{T}: Add {W}{W}{U}{U}{B}{B}{R}{R}{G}{G}.</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/116.png" num="107">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Beast God</type>
+				<maintype>Creature</maintype>
+				<manacost>2WUBRG</manacost>
+				<cmc>7</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mad Tongue</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When this creature enters, create a Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/117.png" num="71">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Primeval Sorcerer Azur</name>
+			<text>Whenever you cast an instant or sorcery spell, draw a card, then discard a card unless you control a creature named Primeval Sorcerer Lusat.
+{T}: Add two mana of different colors. Spend this mana only to cast noncreature spells with mana costs that contain {X}.</text>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/118.png" num="31">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Primeval Sorcerer Lusat</name>
+			<text>Whenever you cast an instant or sorcery spell, create a Treasure token. If you control a creature named Primeval Sorcerer Azur, create two Treasure tokens instead.
+{T}: Add two mana of different colors. Spend this mana only to cast noncreature spells with mana costs that contain {X}.</text>
+			<set rarity="uncommon" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/119.png" num="32">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dancer of Ranah</name>
+			<text>First strike
+Whenever you cast a spell, each opponent this creature dealt combat damage to this turn loses 1 life.
+Whenever an opponent casts a spell, they lose 1 life for each other spell they&apos;ve cast this turn.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/120.png" num="47">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>School of Graven Mages</name>
+			<text>As long as this creature is on the battlefield, it has all activated and triggered abilities of Wizard cards in your graveyard.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/121.png" num="37">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frenzied Merchant</name>
+			<text>Menace
+If you would draw a card, instead exile the top card of your library. You may play that card this turn.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/122.png" num="68">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Long March of the Tarnished</name>
+			<text>Put target creature into its owner&apos;s library third from the top. Its controller creates a Shard token. (It&apos;s an enchantment with &quot;{2}, Sacrifice this token: Scry 1, then draw a card.&quot;)</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/123.png" num="5">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blade of Destined Death</name>
+			<text>When Blade of Destined Death enters, each opponent chooses six permanents they control, then sacrifices the rest.
+Whenever another permanent leaves the battlefield, put a hone counter on Blade of Destined Death. (Each hone counter on an Equipment grants +1/+0 to equipped creature.)
+Equip {2}</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/124.png" num="141">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Black Blade Kindred</name>
+			<text>Remembrance {3} ({3}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following abilities. Activate only as a sorcery.)
+Flying
+This creature gets +1/+1 for each artifact and/or enchantment you control.</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/125.png" num="139">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Gargoyle</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Twin Empyrean Bond</name>
+			<text>As this enchantment enters, choose abundance or decay.
+Abundance — If you tap a creature for mana, it produces twice as much of that mana instead.
+Decay — Whenever a mana ability of a creature you control resolves, put a number of +1/+1 counters on it equal to the amount of mana that creature produced.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/126.png" num="97">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Melina&apos;s Sacrifice</name>
+			<text>Each player sacrifices any number of permanents. Then each player&apos;s life total becomes equal to 10 minus the number of permanents they control.</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/127.png" num="73">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3RRR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Melina, Kindling Maiden</name>
+			<text>{T}: Whenever another target creature you control dies this turn, return it to the battlefield under its owner&apos;s control with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/128.png" num="9">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mohg, Lord of Blood</name>
+			<text>Flying, lifelink
+Whenever a player loses life, if it&apos;s the first time that player lost life this turn, you create a Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this token: Draw a card.&quot;)
+Sacrifice three Blood tokens: Each opponent loses life equal to the amount of life they lost this turn. Activate only once each turn.</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/129.png" num="122">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rennala&apos;s Amber Egg</name>
+			<text>When Rennala&apos;s Amber Egg enters, you may exile an instant or sorcery card with mana value 2 or less from your hand.
+{1}, {T}, Sacrifice a creature or token: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost. Activate only as a sorcery.</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/130.png" num="35">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Erdtree</name>
+			<text>{T}: Add {C}.
+{1}, {T}, Tap an untapped legendary creature you control: Add X mana of any one color, where is the tapped creature&apos;s power.</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/131.png" num="154">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Miquella, the Kind</name>
+			<text>At the beginning of your end step, you may return target creature card with mana value 1 or less from your graveyard to the battlefield.
+Nontoken creatures you control with mana value 1 or less get +1/+0 and have &quot;{T}: Add one mana of any color.&quot;</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/132.png" num="118">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Midra&apos;s Manse</name>
+			<text>This land enters tapped unless you control two or more other lands.
+{T}: Add {B}.
+{1}{B}, {T}: Draw a card. Activate only if you have no cards in hand.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/133.png" num="156">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Crumbling Farum Azula</name>
+			<text>As this land enters, you may behold a Dragon. If you don&apos;t, this land enters tapped and you gain 1 life. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)
+{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/134.png" num="152">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Ancient Dragon&apos;s Lightning</name>
+			<text>As an additional cost to cast this spell, behold a Dragon. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)
+Ancient Dragon&apos;s Lightning deals 2 damage to any target. If a Dragon was beheld, instead this spell deals 3 damage to any target and you surveil 1.</text>
+			<set rarity="common" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/135.png" num="64">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Duskborn&apos;s Presence</name>
+			<text>When this enchantment enters, mill four cards. You may put a permanent card from among the cards milled this way into your hand.
+{1}{G}, Sacrifice this enchantment: Return target land card from your graveyard to the battlefield tapped.</text>
+			<set rarity="common" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/136.png" num="85">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fanged Imp</name>
+			<text>When this creature dies, you draw a card and lose 1 life.</text>
+			<set rarity="common" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/137.png" num="144">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Imp Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Death Rite Bird</name>
+			<text>Flash
+Flying
+Converge — When this creature enters, counter target spell an opponent controls with mana value X or less, where X is the number of colors of mana spent to cast this creature. If that spell is countered this way, exile it instead of putting it into its owner&apos;s graveyard.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/138.png" num="27">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Skeleton Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>A Tarnished of No Renown</name>
+			<text>When this creature enters, create a Weapon token. (It&apos;s an Equipment artifact with equip {2} and &quot;Equipped creature gets +1/+1.&quot;)
+{W}: If this creature is equipped, it becomes a Human Warrior with base power and toughness 3/3.
+{5}{W}{W}: If this creature is a Warrior, it becomes a God Warrior with base power and toughness 7/7 and protection from everything except Auras and Equipment you control.</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/139.png" num="18">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rennala of Caria</name>
+			<text>Flying
+Whenever you cast a noncreature spell, create a 1/1 blue Wizard creature token.
+Final form {4}{GW}{U} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)
+---
+(Back): Rennala, Queen of the Moon</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/140_front.png" num="34a">PTLB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Rennala, Queen of the Moon</related>
+		</card>
+		<card>
+			<name>Rennala, Queen of the Moon</name>
+			<text>Flying
+Whenever you cast a noncreature spell, create X 1/1 blue Wizard creature tokens, where X is that spell&apos;s mana value.
+---
+(Front): Rennala of Caria</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/140_back.png" num="34b">PTLB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Rennala of Caria</related>
+		</card>
+		<card>
+			<name>Promised Consort Radahn</name>
+			<text>When Promised Consort Radahn enters, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to that card&apos;s mana cost reduced by {X}, where X is Promised Consort Radahn&apos;s power.
+Final form {6}{RW}{U} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)
+---
+(Back): Radahn, Consort of Miquella</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/142_front.png" num="33a">PTLB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>WUR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Radahn, Consort of Miquella</related>
+		</card>
+		<card>
+			<name>Radahn, Consort of Miquella</name>
+			<text>Double strike, trample
+As long as it&apos;s your turn, each instant and sorcery card in your graveyard has flashback. The flashback cost is equal to that card&apos;s mana cost reduced by {X}, where X is Radahn&apos;s power.
+---
+(Front): Promised Consort Radahn</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/142_back.png" num="33b">PTLB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Promised Consort Radahn</related>
+		</card>
+		<card>
+			<name>Messmer, the Impaler</name>
+			<text>Once during each of your turns, you may cast a copy of the nonlegendary black spell you most recently cast this turn. (Timing rules still apply.)
+Final form {4}{UR}{B} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)
+---
+(Back): Base Serpent Messmer</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/144_front.png" num="55a">PTLB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Base Serpent Messmer</related>
+		</card>
+		<card>
+			<name>Base Serpent Messmer</name>
+			<text>Once during each of your turns, you may cast a copy of the nonlegendary blue, black, or red spell you most recently cast this turn. (Timing rules still apply.)
+If an opponent would lose life during your turn, they lose twice that much life instead.
+---
+(Front): Messmer, the Impaler</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/144_back.png" num="55b">PTLB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Serpent Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Messmer, the Impaler</related>
+		</card>
+		<card>
+			<name>Patches, the Untethered</name>
+			<text>Whenever a creature dies, Patches connives. This ability triggers only once each turn. (Draw a card, then discard a card. If you discarded a nonland card, put a loyalty counter on Patches.)
+[0]: Create a 2/1 black Skeleton creature token.
+[-2]: Destroy target creature if it has mana value 2 or less or if a permanent you controlled left the battlefield this turn.
+[-7]: You get an emblem with &quot;Whenever a creature you don&apos;t control dies, return it to the battlefield under your control.&quot;</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/146.png" num="58">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Patches</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>God-Devouring Serpent</name>
+			<text>As long as you&apos;ve sacrificed a permanent this turn, God-Devouring Serpent has deathtouch.
+Whenever God-Devouring Serpent deals combat damage to a player, create a Shard token.
+Final form {6}{BR}{G} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)
+---
+(Back): Rykard, Lord of Blasphemy</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/147_front.png" num="86a">PTLB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Rykard, Lord of Blasphemy</related>
+		</card>
+		<card>
+			<name>Rykard, Lord of Blasphemy</name>
+			<text>Trample
+Ward—Discard a card.
+When Rykard enters, sacrifice any number of other permanents, then draw that many cards.
+During each of your turns, you may play a land and cast a permanent spell from your graveyard.
+---
+(Front): God-Devouring Serpent</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/147_back.png" num="86b">PTLB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Serpent Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">God-Devouring Serpent</related>
+		</card>
+		<card>
+			<name>Godfrey, First Elden Lord</name>
+			<text>Vigilance
+Whenever you attack, you choose how up to one target creature defending player controls blocks this combat.
+Final form {4}{RG}{W} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)
+---
+(Back): Hoarah Loux, Warrior</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/149_front.png" num="3a">PTLB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Hoarah Loux, Warrior</related>
+		</card>
+		<card>
+			<name>Hoarah Loux, Warrior</name>
+			<text>Vigilance, trample
+Whenever you attack, you choose how up to one target creature defending player controls blocks this combat. Then if it&apos;s the first combat phase of the turn, untap all attacking creatures. After this phase, there is an additional combat phase.
+---
+(Front): Godfrey, First Elden Lord</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/149_back.png" num="3b">PTLB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Godfrey, First Elden Lord</related>
+		</card>
+		<card>
+			<name>Godrick, the Grafted</name>
+			<text>When Godrick enters, you may discard any number of cards, then draw that many cards.
+Final form {3}{GU}{R} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)
+---
+(Back): Godrick, the Golden</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/151_front.png" num="70a">PTLB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>URG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Godrick, the Golden</related>
+		</card>
+		<card>
+			<name>Godrick, the Golden</name>
+			<text>Trample
+Whenever Godrick attacks, you may discard any number of cards, then draw that many cards plus one. Then you may exile four cards from your graveyard. If you do, create a 4/4 red Dragon creature token with flying that&apos;s tapped and attacking.
+---
+(Front): Godrick, the Grafted</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/151_back.png" num="70b">PTLB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Godrick, the Grafted</related>
+		</card>
+		<card>
+			<name>Godwyn, First to Fall</name>
+			<text>Whenever Godwyn enters or attacks, you may sacrifice a land. If you do, search your library for a land card, put it onto the battlefield tapped, then shuffle.
+Final form {5}{G}{UB} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)
+---
+(Back): Godwyn, Prince of Death</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/153_front.png" num="87a">PTLB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Godwyn, Prince of Death</related>
+		</card>
+		<card>
+			<name>Godwyn, Prince of Death</name>
+			<text>When Godwyn enters, return all land cards from your graveyard to the battlefield tapped. They&apos;re 2/2 black Zombies in addition to their other types.
+Whenever another creature you control leaves the battlefield, draw a card.
+---
+(Front): Godwyn, First to Fall</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/153_back.png" num="87b">PTLB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Zombie Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Godwyn, First to Fall</related>
+		</card>
+		<card>
+			<name>Death Knight</name>
+			<text>Remembrance {1}{B} ({1}{B}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)
+As long as an opponent has 10 or less life, this creature has lifelink.
+Pay 3 life: Put a +1/+1 counter on this creature. Activate only during your turn.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/155.png" num="49">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Horror Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Death Knight</name>
+			<text>Remembrance {1}{B} ({1}{B}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)
+As long as an opponent has 10 or less life, this creature has lifelink.
+Pay 3 life: Put a +1/+1 counter on this creature. Activate only during your turn.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/156.png" num="48">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Horror Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Malenia, the Severed</name>
+			<text>Double strike
+Whenever you cast a spell with a single target, copy it. You may choose new targets for the copy. This ability triggers only once each turn.
+Final form {4}{WB}{R} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)
+---
+(Back): Malenia, Goddess of Rot</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/157_front.png" num="72a">PTLB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>WBR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Malenia, Goddess of Rot</related>
+		</card>
+		<card>
+			<name>Malenia, Goddess of Rot</name>
+			<text>Flying, double strike
+Whenever you cast a spell with a single target, copy it. You may choose new targets for the copy.
+Whenever Malenia or a spell you control deals damage to a player, they get that many poison counters. (A player with ten or more poison counters loses the game.)
+---
+(Front): Malenia, the Severed</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/157_back.png" num="72b">PTLB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+				<pt>3/5</pt>
+				<loyalty>3/3</loyalty>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Malenia, the Severed</related>
+		</card>
+		<card>
+			<name>Gurranq, Beast Clergyman</name>
+			<text>Menace
+At the beginning of your upkeep, tap Gurranq unless you pay 2 life.
+Final form {4}{WU}{B} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)
+---
+(Back): Maliketh, the Black Blade</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/159_front.png" num="53a">PTLB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Beast Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Maliketh, the Black Blade</related>
+		</card>
+		<card>
+			<name>Maliketh, the Black Blade</name>
+			<text>Menace
+When Maliketh enters, destroy target creature an opponent controls.
+Whenever a creature an opponent controls dies, exile it and its controller loses 2 life.
+Your opponents can&apos;t cast creature spells that share a name with any card exiled with Maliketh.
+---
+(Front): Gurranq, Beast Clergyman</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/159_back.png" num="53b">PTLB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Beast Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Gurranq, Beast Clergyman</related>
+		</card>
+		<card>
+			<name>Margit, the Fell Omen</name>
+			<text>Other legendary creatures you control get +1/+1.
+Final form {3}{BG}{W} (You may cast a copy of this from the battlefield or your graveyard by exiling it and paying the final form cost. The copy enters transformed.)
+---
+(Back): Morgott, the Omen King</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/161_front.png" num="6a">PTLB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>WBG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Morgott, the Omen King</related>
+		</card>
+		<card>
+			<name>Morgott, the Omen King</name>
+			<text>Other legendary creatures you control get +2/+2.
+Whenever another legendary creature you control dies, put a number of +1/+1 counters on Morgott equal to that creature&apos;s power.
+---
+(Front): Margit, the Fell Omen</text>
+			<set rarity="mythic" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/161_back.png" num="6b">PTLB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Mutant Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Margit, the Fell Omen</related>
+		</card>
+		<card>
+			<name>Cerulean Coast</name>
+			<text>This land enters tapped unless you control two or more other lands.
+{T}: Add {U}.
+{1}{U}, {T}: You may cast target card from your graveyard if it was discarded or put there from a library this turn.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/163.png" num="150">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>City of Nox</name>
+			<text>{T}: Add {C}.
+{X}: City of Nox becomes a copy of target nontoken creature you control with mana value X until end of turn, except it has changeling. (It is every creature type.)</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/164.png" num="151">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Enir-Ilim</name>
+			<text>This land enters tapped unless you control two or more other lands.
+{T}: Add {G}.
+{1}{G}, {T}: Put a +1/+1 counter on target creature you control with power greater than its base power. It gains trample until end of turn. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/165.png" num="153">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Shadow Keep</name>
+			<text>This land enters tapped unless you control two or more other lands.
+{T}: Add {R}.
+{1}{R}, {T}: Add {R} for each 1 life your opponents have lost this turn. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/166.png" num="158">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Shaman Village</name>
+			<text>This land enters tapped unless you control two or more other lands.
+{T}: Add {W}.
+{1}{W}, {T}, Sacrifice a creature or token: Put a +1/+1 counter on each creature you control. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/167.png" num="159">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>The Scadutree</name>
+			<text>{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast spells from your graveyard or activate abilities of cards in your graveyard.
+{T}, Exile a card from your graveyard: Add one mana of any color.</text>
+			<set rarity="rare" picurl="https://provocativemtg.github.io/sets/PTLB-files/img/168.png" num="157">PTLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

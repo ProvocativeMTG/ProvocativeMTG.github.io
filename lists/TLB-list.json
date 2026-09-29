@@ -504,8 +504,8 @@
         "position": "175"
     },
     {
-        "card_name": "Sellen, Graven Witch",
-        "number": 167,
+        "card_name": "Sorceress Sellen",
+        "number": 168,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,
@@ -1625,7 +1625,7 @@
     },
     {
         "card_name": "Sisters of Rot",
-        "number": 168,
+        "number": 167,
         "shape": "normal",
         "set": "TLB",
         "rotated": false,

@@ -153,7 +153,7 @@
 		{
 			"name": "Night of Black Knives",
 			"rarity": "mythic",
-			"mana_cost": "{X}{2}{B}",
+			"mana_cost": "{X}{B}{B}{B}",
 			"type": "Enchantment — Saga",
 			"collector_number": "111",
 			"image_uris": {
@@ -1095,7 +1095,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "168",
+			"collector_number": "167",
 			"image_uris": {
 				"en": "https://provocativemtg.github.io/sets/TLB-files/img/109.png"
 			}
@@ -2221,11 +2221,11 @@
 			}
 		},
 		{
-			"name": "Sellen, Graven Witch",
+			"name": "Sorceress Sellen",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "167",
+			"collector_number": "168",
 			"image_uris": {
 				"en": "https://provocativemtg.github.io/sets/TLB-files/img/222.png"
 			}
@@ -3323,7 +3323,7 @@
 		{
 			"name": "School of Graven Mages",
 			"rarity": "rare",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{2}{U}{U}",
 			"type": "Artifact Creature — Golem Wizard",
 			"collector_number": "76",
 			"image_uris": {
@@ -3610,7 +3610,7 @@
 	1 The Elden Beast
 	2 Bell Bearing Hunter
 	2 Death Rite Bird
-	2 Sellen, Graven Witch
+	2 Sorceress Sellen
 	2 Radahn's Return
 	1 Purge Without Grace
 	2 War of the Shattering
@@ -4177,7 +4177,7 @@
 	2 Bell Bearing Hunter
 	2 Death Rite Bird
 	6 Blackguard Boggart
-	2 Sellen, Graven Witch
+	2 Sorceress Sellen
 	2 Radahn's Return
 	1 Purge Without Grace
 	6 Seeking the Crosses
@@ -4499,7 +4499,7 @@
 	7 Bell Bearing Hunter
 	7 Death Rite Bird
 	15 Blackguard Boggart
-	7 Sellen, Graven Witch
+	7 Sorceress Sellen
 	7 Radahn's Return
 	4 Purge Without Grace
 	15 Seeking the Crosses

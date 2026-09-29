@@ -1,4 +1,64 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Sorceress Sellen added.
+
+Sellen, Graven Witch removed.
+
+Rennala's Studies
+rules_text: If it's your turn, you get an additional upkeep step and an additional draw step after this phase, followed by an additional main phase. => If it's your main phase, you get an additional upkeep step and an additional draw step after this phase, followed by an additional main phase.
+
+Night of Black Knives
+cost: {X}{2}{B} => {X}{B}{B}{B}
+
+Ancient Dragon's Lightning
+rules_text: As an additional cost to cast this spell, behold a Dragon. [i](To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)[/i]
+Ancient Dragon's Lightning deals 2 damage to any target. If a Dragon was beheld, instead this spell deals 3 damage to any target and you surveil 1. => As an additional cost to cast this spell, you may behold a Dragon. [i](To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)[/i]
+Ancient Dragon's Lightning deals 2 damage to any target. If a Dragon was beheld, instead this spell deals 3 damage to any target and you surveil 1.
+
+Ritual Ascension
+rules_text: [i]Converge[/i] — Search your library for a black card with mana value less than or equal to the number of colors of mana spent to cast this spell, exile that card, then shuffle. You may cast that card without paying its mana cost. => [i]Converge[/i] — Search your library for a black card with mana value less than or equal to the number of colors of mana spent to cast this spell, exile that card, then shuffle. You may cast that card by paying life equal to its mana value rather than paying its mana cost.
+
+Battlefield Commander
+
+Radagon, King Consort
+rules_text: Trample, haste
+When Radagon dies, if he was a creature, return him to the battlefield. He's a legendary Equipment artifact named Sacred Relic Sword with equip {3} and “Equipped creature has trample and haste and gets +X/+X , where X is the total mana value of legendary permanents you control.” => Trample, haste
+When Radagon dies, if he was a creature, return him to the battlefield. He's a legendary Equipment artifact named Sacred Relic Sword with equip {3} and “Equipped creature has trample and haste and gets +X/+X, where X is the total mana value of legendary permanents you control.”
+
+Mired in Despair
+rules_text: [i]Converge[/i] — Destroy each nonland permanent with mana value X or less, where X is the number of colors of mana spent to cast this spell. => [i]Converge[/i] — Destroy each artifact, creature, and planeswalker with mana value X or less, where X is the number of colors of mana spent to cast this spell.
+
+Eternal City
+rules_text: This land enters tapped.
+{T}: Add {U} or {B}.
+{3}{U}{U}, {T}, Sacrifice this land: Create a token that's a copy of target creature you control. Activate only as a sorcery.
+{2}{B}{B}, Discard this card: Destroy target creature with mana value 3 or less. => This land enters tapped.
+{T}: Add {U} or {B}.
+{3}{U}{U}, {T}, Sacrifice this land: Create a token that's a copy of target creature you control. Activate only as a sorcery.
+{3}{B}{B}, Discard this card: Destroy target creature with mana value 3 or less.
+
+Siofra River
+rules_text: This land enters tapped.
+{T}: Add {G} or {U}.
+{2}{G}{G}, {T}, Sacrifice this land: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+{1}{U}{U}, Discard this card: Return target nonland permanent to its owner's hand. => This land enters tapped.
+{T}: Add {G} or {U}.
+{2}{G}{G}, {T}, Sacrifice this land: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+{2}{U}{U}, Discard this card: Return target nonland permanent to its owner's hand.
+
+Dancer of Ranah
+rules_text: First strike
+Whenever you cast a spell, each opponent this creature dealt combat damage to this turn loses 1 life.
+Whenever an opponent casts a spell, they lose 1 life for each other spell they've cast this turn. => Deathtouch
+Whenever an opponent casts their first noncreature spell each turn, you draw a card unless they pay 2 life.
+
+School of Graven Mages
+cost: {2}{U} => {2}{U}{U}
+pt: 3/3 => 4/4
+
+
+VERSION 9 CHANGELOG
 ====================
 
 

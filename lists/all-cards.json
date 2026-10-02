@@ -38591,7 +38591,7 @@
             "alias": "",
             "position": "15",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag:sweeper",
             "image_type": "png",
             "v_mana": ""
         },
@@ -38959,7 +38959,7 @@
             "alias": "",
             "position": "31",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag:removal",
             "image_type": "png",
             "v_mana": ""
         },
@@ -39396,7 +39396,7 @@
             "alias": "",
             "position": "50",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag:tutor",
             "image_type": "png",
             "v_mana": ""
         },
@@ -39626,7 +39626,7 @@
             "alias": "",
             "position": "60",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag:removal",
             "image_type": "png",
             "v_mana": ""
         },
@@ -41052,7 +41052,7 @@
             "alias": "",
             "position": "122",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag:counterspell",
             "image_type": "png",
             "v_mana": ""
         },
@@ -41075,7 +41075,7 @@
             "alias": "",
             "position": "123",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag:cantrip",
             "image_type": "png",
             "v_mana": ""
         },
@@ -41397,7 +41397,7 @@
             "alias": "",
             "position": "137",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag:ramp",
             "image_type": "png",
             "v_mana": ""
         },
@@ -42041,7 +42041,7 @@
             "alias": "",
             "position": "165",
             "rotated": false,
-            "notes": "!tag:wishlist",
+            "notes": "!tag:wishlist\n!tag:card-engine",
             "image_type": "png",
             "v_mana": ""
         },
@@ -42087,7 +42087,7 @@
             "alias": "",
             "position": "167",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag:value-threat",
             "image_type": "png",
             "v_mana": ""
         },
@@ -42432,7 +42432,7 @@
             "alias": "",
             "position": "182",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag:aggro-threat",
             "image_type": "png",
             "v_mana": ""
         },
@@ -42708,7 +42708,7 @@
             "alias": "",
             "position": "194",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag:tutor",
             "image_type": "png",
             "v_mana": ""
         },
@@ -42754,7 +42754,7 @@
             "alias": "",
             "position": "196",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag:interactive-threat",
             "image_type": "png",
             "v_mana": ""
         },
@@ -43007,7 +43007,7 @@
             "alias": "",
             "position": "207",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag:interactive-threat",
             "image_type": "png",
             "v_mana": ""
         },
@@ -43398,7 +43398,7 @@
             "alias": "",
             "position": "224",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag:card-engine",
             "image_type": "png",
             "v_mana": ""
         },
@@ -44111,7 +44111,7 @@
             "alias": "",
             "position": "255",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag:removal",
             "image_type": "png",
             "v_mana": ""
         },
@@ -44134,7 +44134,7 @@
             "alias": "",
             "position": "256",
             "rotated": false,
-            "notes": "!tag:wishlist",
+            "notes": "!tag:wishlist\n!tag:sweeper",
             "image_type": "png",
             "v_mana": ""
         },
@@ -45491,7 +45491,7 @@
             "alias": "",
             "position": "315",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag:sweeper",
             "image_type": "png",
             "v_mana": ""
         },
@@ -45652,7 +45652,7 @@
             "alias": "",
             "position": "322",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag:aggro-threat",
             "image_type": "png",
             "v_mana": ""
         },
@@ -45790,7 +45790,7 @@
             "alias": "",
             "position": "328",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag:removal",
             "image_type": "png",
             "v_mana": ""
         },
@@ -45928,7 +45928,7 @@
             "alias": "",
             "position": "334",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag:aggro-threat",
             "image_type": "png",
             "v_mana": ""
         },
@@ -46219,7 +46219,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "\n",
+            "notes": "!tag:aggro-threat\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -46289,7 +46289,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "\n",
+            "notes": "!tag:value-threat\n",
             "image_type": "png",
             "v_mana": ""
         },

@@ -1,4 +1,54 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+
+
+Night of Black Knives
+
+Ancient Dragon's Lightning
+
+Ritual Ascension
+
+Obscure in Shadow
+
+Carian Retaliation
+
+Twin Moons
+
+Wise Turtle
+
+The Elden Ring
+
+Scadutree Avatar
+
+Mad Tongue
+
+Secret Rite
+
+Needle Knight Leda
+
+Midra, Lord of Frenzied Flame
+
+Purge Without Grace
+
+Fall of the Eternal City
+
+Mired in Despair
+
+Embrace Thine Oblivion
+
+Divine Beast Warrior
+
+Long March of the Tarnished
+
+Frenzied Merchant
+
+Margit, the Fell Omen
+
+Godwyn, First to Fall
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Sorceress Sellen added.

@@ -1,4 +1,56 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+
+
+Carian Retaliation
+rules_text: Counter target spell unless its controller pays {X}.
+Create a Shard token. [i](It's an enchantment with “{2}, Sacrifice this token: Scry 1, then draw a card.”)[/i] => Counter target spell unless its controller pays {X}.
+If X is 4 or greater, create a Shard token. [i](It's an enchantment with “{2}, Sacrifice this token: Scry 1, then draw a card.”)[/i]
+
+Aging Untouchable
+rules_text: Remembrance {3}{B} [i]({3}{B}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)[/i]
+Discard a card: This creature gains indestructible until end of turn. Tap it. Activate only once each turn. => Remembrance {3}{B} [i]({3}{B}, Exile this card from your graveyard: Create a Rune token enchanting target creature or Equipment. It or enchanted Equipment grant the following ability. Activate only as a sorcery.)[/i]
+{1}, Discard a card: This creature gains indestructible until end of turn. Tap it. Activate only once each turn.
+
+Midra's Manse
+rules_text: This land enters tapped unless you control two or more other lands.
+{T}: Add {B}.
+{1}{B}, {T}: Draw a card. Activate only if you have no cards in hand. => This land enters tapped unless you control two or more other lands.
+{T}: Add {B}.
+{2}{B}, {T}: Draw a card. Activate only if you discarded a card this turn or if you have no cards in hand.
+
+Enir-Ilim
+rules_text: This land enters tapped unless you control two or more other lands.
+{T}: Add {G}.
+{1}{G}, {T}: Put a +1/+1 counter on target creature you control with power greater than its base power. It gains trample until end of turn. Activate only as a sorcery. => This land enters tapped unless you control two or more other lands.
+{T}: Add {G}.
+{1}{G}, {T}: Put a +1/+1 counter on target creature you control with power greater than its base power. It gains vigilance until end of turn. Activate only as a sorcery.
+
+Midra, Lord of Frenzied Flame
+rules_text: Menace
+When Midra enters, you may discard a card. If you do, target opponent reveals their hand. You choose a nonland card from it or a card from their graveyard. Exile that card.
+Whenever Midra attacks, put a +1/+1 counter on him for each player with three or fewer cards in hand. => When Midra enters, you may discard a card. If you do, target opponent reveals their hand. You choose a nonland card from it. Exile that card.
+Whenever Midra attacks, put a +1/+1 counter on him for each player with three or fewer cards in hand.
+
+Visions of Flame
+rules_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I — This Saga deals 1 damage to each creature your opponents control.
+II — Target creature can't block this turn.
+III — Discard a card, then draw a card for each card you've discarded this turn. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I — This Saga deals 1 damage to each of up to two targets.
+II — Target creature can't block this turn.
+III — Discard a card, then draw a card for each card you've discarded this turn.
+special_text: Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I — This Saga deals 1 damage to each creature your opponents control.
+II — Target creature can't block this turn.
+III — Discard a card, then draw a card for each card you've discarded this turn. => Grace-given [i](Whenever one of this Saga's chapter abilities resolve, you may have it trigger again. Do this only once.)[/i]
+I — This Saga deals 1 damage to each of up to two targets.
+II — Target creature can't block this turn.
+III — Discard a card, then draw a card for each card you've discarded this turn.
+
+
+VERSION 11 CHANGELOG
 ====================
 
 

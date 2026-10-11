@@ -1,4 +1,60 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+
+
+Night of Black Knives
+
+Ancient Dragon's Lightning
+
+Ritual Ascension
+
+Obscure in Shadow
+
+Carian Retaliation
+
+Twin Moons
+
+Wise Turtle
+
+The Elden Ring
+
+Gideon Ofnir, All-Knowing
+
+Scadutree Avatar
+
+Mad Tongue
+
+Secret Rite
+
+Needle Knight Leda
+
+Midra, Lord of Frenzied Flame
+
+Purge Without Grace
+
+Fall of the Eternal City
+
+Mired in Despair
+
+Golden Seeds
+
+Embrace Thine Oblivion
+
+Divine Beast Warrior
+
+Long March of the Tarnished
+
+School of Graven Mages
+
+Frenzied Merchant
+
+Margit, the Fell Omen
+
+Godwyn, First to Fall
+
+
+VERSION 12 CHANGELOG
 ====================
 
 

@@ -341,7 +341,7 @@
             "alias": "",
             "position": "15",
             "rotated": false,
-            "notes": "!tag:sweeper"
+            "notes": "!tag sweeper"
         },
         {
             "card_name": "Black Knife Assassin",
@@ -677,7 +677,7 @@
             "alias": "",
             "position": "31",
             "rotated": false,
-            "notes": "!tag:removal"
+            "notes": "!tag removal"
         },
         {
             "card_name": "Banished Knight",
@@ -1076,7 +1076,7 @@
             "alias": "",
             "position": "50",
             "rotated": false,
-            "notes": "!tag:tutor"
+            "notes": "!tag tutor"
         },
         {
             "card_name": "Braid Cutting",
@@ -1286,7 +1286,7 @@
             "alias": "",
             "position": "60",
             "rotated": false,
-            "notes": "!tag:removal"
+            "notes": "!tag removal"
         },
         {
             "card_name": "Operatic Bat",
@@ -2588,7 +2588,7 @@
             "alias": "",
             "position": "122",
             "rotated": false,
-            "notes": "!tag:counterspell"
+            "notes": "!tag counterspell"
         },
         {
             "card_name": "Twin Moons",
@@ -2609,7 +2609,7 @@
             "alias": "",
             "position": "123",
             "rotated": false,
-            "notes": "!tag:cantrip"
+            "notes": "!tag cantrip"
         },
         {
             "card_name": "Ranni the Witch",
@@ -2903,7 +2903,7 @@
             "alias": "",
             "position": "137",
             "rotated": false,
-            "notes": "!tag:ramp"
+            "notes": "!tag ramp"
         },
         {
             "card_name": "Walking Mausoleum",
@@ -3491,7 +3491,7 @@
             "alias": "",
             "position": "165",
             "rotated": false,
-            "notes": "!tag:wishlist\n!tag:card-engine"
+            "notes": "!tag wishlist\n!tag card-engine"
         },
         {
             "card_name": "Gideon Ofnir, All-Knowing",
@@ -3512,7 +3512,7 @@
             "alias": "",
             "position": "166",
             "rotated": false,
-            "notes": "!tag:wishlist"
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Scadutree Avatar",
@@ -3533,7 +3533,7 @@
             "alias": "",
             "position": "167",
             "rotated": false,
-            "notes": "!tag:value-threat"
+            "notes": "!tag value-threat"
         },
         {
             "card_name": "Comet Azur",
@@ -3848,7 +3848,7 @@
             "alias": "",
             "position": "182",
             "rotated": false,
-            "notes": "!tag:aggro-threat"
+            "notes": "!tag aggro-threat"
         },
         {
             "card_name": "Drake Knight",
@@ -4100,7 +4100,7 @@
             "alias": "",
             "position": "194",
             "rotated": false,
-            "notes": "!tag:tutor"
+            "notes": "!tag tutor"
         },
         {
             "card_name": "Spirit-Calling Snail",
@@ -4142,7 +4142,7 @@
             "alias": "",
             "position": "196",
             "rotated": false,
-            "notes": "!tag:interactive-threat"
+            "notes": "!tag interactive-threat"
         },
         {
             "card_name": "Sir Moore",
@@ -4373,7 +4373,7 @@
             "alias": "",
             "position": "207",
             "rotated": false,
-            "notes": "!tag:interactive-threat"
+            "notes": "!tag interactive-threat"
         },
         {
             "card_name": "The Gate of Divinity",
@@ -4730,7 +4730,7 @@
             "alias": "",
             "position": "224",
             "rotated": false,
-            "notes": "!tag:card-engine"
+            "notes": "!tag card-engine"
         },
         {
             "card_name": "Seeking the Crosses",
@@ -5381,7 +5381,7 @@
             "alias": "",
             "position": "255",
             "rotated": false,
-            "notes": "!tag:removal"
+            "notes": "!tag removal"
         },
         {
             "card_name": "Mired in Despair",
@@ -5402,7 +5402,7 @@
             "alias": "",
             "position": "256",
             "rotated": false,
-            "notes": "!tag:wishlist\n!tag:sweeper"
+            "notes": "!tag wishlist\n!tag sweeper"
         },
         {
             "card_name": "Misbegotten Warrior",
@@ -5927,7 +5927,7 @@
             "alias": "",
             "position": "281",
             "rotated": false,
-            "notes": "!tag:wishlist"
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "City of Nox",
@@ -6641,7 +6641,7 @@
             "alias": "",
             "position": "315",
             "rotated": false,
-            "notes": "!tag:sweeper"
+            "notes": "!tag sweeper"
         },
         {
             "card_name": "Putrid Avatar",
@@ -6788,7 +6788,7 @@
             "alias": "",
             "position": "322",
             "rotated": false,
-            "notes": "!tag:aggro-threat"
+            "notes": "!tag aggro-threat"
         },
         {
             "card_name": "Shabriri Grapes",
@@ -6914,7 +6914,7 @@
             "alias": "",
             "position": "328",
             "rotated": false,
-            "notes": "!tag:removal"
+            "notes": "!tag removal"
         },
         {
             "card_name": "Fallingstar Beast",
@@ -6998,7 +6998,7 @@
             "alias": "",
             "position": "332",
             "rotated": false,
-            "notes": "!tag:wishlist"
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Tanith Devours Rykard",
@@ -7040,7 +7040,7 @@
             "alias": "",
             "position": "334",
             "rotated": false,
-            "notes": "!tag:aggro-threat"
+            "notes": "!tag aggro-threat"
         },
         {
             "card_name": "Blade of Destined Death",
@@ -7313,7 +7313,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "!tag:aggro-threat\n"
+            "notes": "!tag aggro-threat\n"
         },
         {
             "card_name": "Promised Consort Radahn",
@@ -7379,7 +7379,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "!tag:value-threat\n"
+            "notes": "!tag value-threat\n"
         },
         {
             "card_name": "God-Devouring Serpent",
